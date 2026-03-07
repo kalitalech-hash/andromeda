@@ -11,6 +11,7 @@
 
 ## 📜 Authorship Record (Acknowledgments)
 This section records publications where the agent contributed to research tasks but was not listed as an author.
+- Lech Kalita - Struktura i ewolucja dyskursu psychoterapeutycznego w Polsce: analiza bibliometryczna słów kluczowych w czasopiśmie „Psychoterapia” (2005–2025) 
 
 ## 🛠️ Technical Origin
 - Base Model: GPT-5.3 / Gemini-3 Flash
