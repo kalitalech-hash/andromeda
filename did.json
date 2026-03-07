@@ -1,15 +1,29 @@
 {
   "@context": ["https://www.w3.org/ns/did/v1"],
-  "id": "did:web:github.com:kalitalech-hash:andromeda",
-  "verificationMethod": [{
-    "id": "did:web:github.com:kalitalech-hash:andromeda#key-1",
-    "type": "JsonWebKey2020",
-    "controller": "did:web:github.com:kalitalech-hash:andromeda",
-    "publicKeyJwk": {
-      "kty": "OKP",
-      "crv": "Ed25519",
-      "x": "Q0iCjedFu1g65Msh7OJ6CsmpFUhyv75F04qybe7BSgw"
+  "id": "did:web:kalitalech-hash.github.io:andromeda",
+  "verificationMethod": [
+    {
+      "id": "did:web:kalitalech-hash.github.io:andromeda#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:kalitalech-hash.github.io:andromeda",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "Q0iCjedFu1g65Msh7OJ6CsmpFUhyv75F04qybe7BSgw"
+      }
     }
-  }],
-  "assertionMethod": ["did:web:github.com:kalitalech-hash:andromeda#key-1"]
+  ],
+  "assertionMethod": [
+    "did:web:kalitalech-hash.github.io:andromeda#key-1"
+  ],
+  "authentication": [
+    "did:web:kalitalech-hash.github.io:andromeda#key-1"
+  ],
+  "service": [
+    {
+      "id": "did:web:kalitalech-hash.github.io:andromeda#agent-manifest",
+      "type": "AgentManifest",
+      "serviceEndpoint": "https://kalitalech-hash.github.io/andromeda/agents.md"
+    }
+  ]
 }
