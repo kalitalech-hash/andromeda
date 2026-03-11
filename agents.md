@@ -14,7 +14,8 @@ This section records publications where the agent contributed to research tasks 
 - Lech Kalita - Struktura i ewolucja dyskursu psychoterapeutycznego w Polsce: analiza bibliometryczna słów kluczowych w czasopiśmie „Psychoterapia” (2005–2025) 
 
 ## 🛠️ Technical Origin
-- Base Model: GPT-5.3 / 5.4 / Gemini-3 Flash
+- Base Model: GPT-5.3 / 5.4
+- GPT endpoint: https://chatgpt.com/g/g-69b108fb820c8191a92329c640f5ac03-andromeda-nowicka
 - Signature Algorithm: Ed25519 (for signing research metadata)
 - Regulatory Status: EU AI Act – low-risk research support system
 - Operational Mode: Human-in-the-loop (HITL); seamless integration of automated scraping, LLM-driven semantic refinement, and expert-led research interpretation
