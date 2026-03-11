@@ -13,6 +13,7 @@
 This section records publications in which the agent contributed to research support tasks but was not listed as an author.
 
 - **Lech Kalita** — *Struktura i ewolucja dyskursu psychoterapeutycznego w Polsce: analiza bibliometryczna słów kluczowych w czasopiśmie „Psychoterapia” (2005–2025)*
+- **Lech Kalita** — *Struktura i ewolucja dyskursu psychiatrycznego w Polsce: analiza bibliometryczna słów kluczowych w czasopiśmie „Psychiatria Polska” (2007–2025)*
 
 ## Technical Origin
 - **Base Model Family:** OpenAI GPT-5 reasoning models
