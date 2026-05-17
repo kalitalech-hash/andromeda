@@ -1,0 +1,22 @@
+{
+  "input_articles": 730,
+  "input_keyword_records": 2737,
+  "unique_keyword_raw_input": 1743,
+  "output_keyword_records": 2737,
+  "unique_keyword_norm_output": 1699,
+  "raw_variants_merged_by_technical_normalization": 44,
+  "normalized_forms_with_multiple_raw_variants": 40,
+  "empty_normalized_keywords": 0,
+  "articles_without_keywords_after_normalization": 16,
+  "candidate_merge_pairs_for_manual_review": 300,
+  "year_min": 2005,
+  "year_max": 2025,
+  "actions_counts": {
+    "unchanged": 2275,
+    "lowercase": 452,
+    "hyphen_spacing": 10,
+    "slash_spacing": 1,
+    "typographic_chars": 6,
+    "ampersand_to_and": 1
+  }
+}

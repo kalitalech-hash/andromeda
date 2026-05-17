@@ -1,0 +1,20 @@
+{
+  "stage": "3e_final_manual_audit_exclusions",
+  "created_at": "2026-05-15T21:37:16",
+  "input_file": "/mnt/data/app_semantic_polish_3d/app_keywords_long_polish_semantic_3d_aggregated.csv",
+  "manual_decision": "exclude all 73 strong-audit concepts from stage 3d",
+  "records_before_3e": 2649,
+  "records_excluded_3e": 76,
+  "records_after_3e": 2573,
+  "articles_before_3e": 686,
+  "articles_after_3e": 684,
+  "articles_losing_all_keywords_3e": 2,
+  "unique_concepts_before_3e": 588,
+  "unique_concepts_excluded_3e": 73,
+  "unique_concepts_after_3e": 515,
+  "unique_raw_keywords_after_qa": 1743,
+  "reduction_from_raw_unique_n": 1228,
+  "reduction_from_raw_unique_pct": 70.45,
+  "final_analysis_concept_column": "keyword_concept_polish_analysis",
+  "final_analysis_id_column": "keyword_semantic_analysis_id"
+}

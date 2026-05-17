@@ -1,0 +1,28 @@
+{
+  "input_file": "app_keywords_long_polish_semantic_expanded_no_editorial.csv",
+  "output_main_file": "app_keywords_long_polish_semantic_3c_final.csv",
+  "records": 2649,
+  "articles_with_keywords": 686,
+  "unique_expanded_concepts_before_3c_en": 1477,
+  "unique_polish_concepts_before_3c": 1475,
+  "unique_final_concepts_3c_pl": 1232,
+  "reduction_vs_expanded_en": 245,
+  "records_changed_by_additional_merge": 1093,
+  "additional_merge_groups": 33,
+  "strong_audit_records": 65,
+  "strong_audit_unique_concepts": 59,
+  "review_flag_counts_3c": {
+    "ok": 2584,
+    "strong_review_unresolved_acronym": 53,
+    "strong_review_non_substantive_or_metadata": 8,
+    "strong_review_typo_or_garbled_term": 3,
+    "strong_review_non_substantive_or_metadata|strong_review_typo_or_garbled_term": 1
+  },
+  "translation_method_counts_3c": {
+    "glossary_final": 1187,
+    "fallback_untranslated_or_international": 903,
+    "fallback_phrase_translation": 285,
+    "previous_polish_retained": 223,
+    "direct_rare_glossary": 51
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "input_file": "/mnt/data/app_normalization/app_keywords_long_normalized.csv",
+  "n_keyword_records": 2737,
+  "n_articles_with_keywords": 714,
+  "n_unique_keyword_raw": 1743,
+  "n_unique_keyword_norm": 1699,
+  "n_unique_semantic_concepts_en_pl": 1645,
+  "n_norm_variants_merged_semantically": 54,
+  "n_concepts_with_multiple_norm_variants": 43,
+  "n_review_queue_rows": 1303,
+  "n_translation_review_rows": 1222,
+  "n_editorial_norm_variants": 8,
+  "n_editorial_records": 88,
+  "n_exact_or_component_translations": 477,
+  "top10_concepts": [
+    {
+      "keyword_final_en": "editorial",
+      "keyword_final_polish": "editorial",
+      "n_keyword_records": 88,
+      "n_articles": 30
+    },
+    {
+      "keyword_final_en": "schizophrenia",
+      "keyword_final_polish": "schizofrenia",
+      "n_keyword_records": 73,
+      "n_articles": 73
+    },
+    {
+      "keyword_final_en": "depression",
+      "keyword_final_polish": "depresja",
+      "n_keyword_records": 61,
+      "n_articles": 61
+    },
+    {
+      "keyword_final_en": "psychotherapy",
+      "keyword_final_polish": "psychoterapia",
+      "n_keyword_records": 39,
+      "n_articles": 39
+    },
+    {
+      "keyword_final_en": "anxiety",
+      "keyword_final_polish": "lęk",
+      "n_keyword_records": 32,
+      "n_articles": 32
+    },
+    {
+      "keyword_final_en": "anorexia nervosa",
+      "keyword_final_polish": "jadłowstręt psychiczny",
+      "n_keyword_records": 26,
+      "n_articles": 26
+    },
+    {
+      "keyword_final_en": "mental health",
+      "keyword_final_polish": "zdrowie psychiczne",
+      "n_keyword_records": 22,
+      "n_articles": 22
+    },
+    {
+      "keyword_final_en": "bipolar disorder",
+      "keyword_final_polish": "zaburzenie afektywne dwubiegunowe",
+      "n_keyword_records": 17,
+      "n_articles": 17
+    },
+    {
+      "keyword_final_en": "stress",
+      "keyword_final_polish": "stres",
+      "n_keyword_records": 17,
+      "n_articles": 17
+    },
+    {
+      "keyword_final_en": "covid-19",
+      "keyword_final_polish": "COVID-19",
+      "n_keyword_records": 16,
+      "n_articles": 16
+    }
+  ]
+}

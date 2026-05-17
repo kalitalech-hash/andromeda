@@ -1,0 +1,53 @@
+{
+  "stage": "4_periodization",
+  "input_file": "/mnt/data/app_semantic_polish_3e_final/app_keywords_long_polish_semantic_3e_final.csv",
+  "created_at": "2026-05-15T21:40:02",
+  "periods": [
+    "2005-2009",
+    "2010-2014",
+    "2015-2019",
+    "2020-2025"
+  ],
+  "n_keyword_records": 2573,
+  "n_articles": 684,
+  "n_unique_concepts": 515,
+  "out_of_scope_or_missing_year_records": 0,
+  "period_summary": [
+    {
+      "analysis_period_order": 1,
+      "analysis_period": "2005-2009",
+      "n_keyword_records": 502,
+      "n_articles": 144,
+      "n_unique_concepts": 140,
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "analysis_period_order": 2,
+      "analysis_period": "2010-2014",
+      "n_keyword_records": 582,
+      "n_articles": 161,
+      "n_unique_concepts": 151,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "analysis_period_order": 3,
+      "analysis_period": "2015-2019",
+      "n_keyword_records": 674,
+      "n_articles": 177,
+      "n_unique_concepts": 187,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "analysis_period_order": 4,
+      "analysis_period": "2020-2025",
+      "n_keyword_records": 815,
+      "n_articles": 202,
+      "n_unique_concepts": 204,
+      "first_year": 2020,
+      "last_year": 2025
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "input_file": "/mnt/data/app_semantic_polish/app_keywords_long_polish_semantic.csv",
+  "stage": "3b expanded semantic merge and editorial removal",
+  "input_keyword_records": 2737,
+  "editorial_records_removed": 88,
+  "output_keyword_records": 2649,
+  "unique_articles_with_keywords_output": 686,
+  "unique_concepts_before_expanded_stage_after_editorial_removal": 1644,
+  "unique_concepts_after_expanded_stage": 1477,
+  "concepts_reduced_by_expanded_merging": 167,
+  "merge_groups_with_more_than_one_input_concept": 38,
+  "broad_merge_records_flagged_for_audit": 545,
+  "top_concepts": [
+    {
+      "keyword_concept_en_expanded": "depression/depressive disorders",
+      "keyword_concept_polish_expanded": "depresja i zaburzenia depresyjne",
+      "keyword_semantic_expanded_id": "app_sem_exp_0374",
+      "n_records": 96
+    },
+    {
+      "keyword_concept_en_expanded": "schizophrenia",
+      "keyword_concept_polish_expanded": "schizofrenia",
+      "keyword_semantic_expanded_id": "app_sem_exp_1208",
+      "n_records": 86
+    },
+    {
+      "keyword_concept_en_expanded": "psychotherapy",
+      "keyword_concept_polish_expanded": "psychoterapia",
+      "keyword_semantic_expanded_id": "app_sem_exp_1140",
+      "n_records": 51
+    },
+    {
+      "keyword_concept_en_expanded": "anxiety/anxiety disorders",
+      "keyword_concept_polish_expanded": "lęk i zaburzenia lękowe",
+      "keyword_semantic_expanded_id": "app_sem_exp_0073",
+      "n_records": 50
+    },
+    {
+      "keyword_concept_en_expanded": "stress",
+      "keyword_concept_polish_expanded": "stres",
+      "keyword_semantic_expanded_id": "app_sem_exp_1329",
+      "n_records": 29
+    },
+    {
+      "keyword_concept_en_expanded": "anorexia nervosa",
+      "keyword_concept_polish_expanded": "jadłowstręt psychiczny",
+      "keyword_semantic_expanded_id": "app_sem_exp_0061",
+      "n_records": 28
+    },
+    {
+      "keyword_concept_en_expanded": "covid-19",
+      "keyword_concept_polish_expanded": "COVID-19",
+      "keyword_semantic_expanded_id": "app_sem_exp_0328",
+      "n_records": 26
+    },
+    {
+      "keyword_concept_en_expanded": "trauma/traumatic experiences",
+      "keyword_concept_polish_expanded": "trauma i doświadczenia traumatyczne",
+      "keyword_semantic_expanded_id": "app_sem_exp_1409",
+      "n_records": 24
+    },
+    {
+      "keyword_concept_en_expanded": "mental health",
+      "keyword_concept_polish_expanded": "zdrowie psychiczne",
+      "keyword_semantic_expanded_id": "app_sem_exp_0808",
+      "n_records": 22
+    },
+    {
+      "keyword_concept_en_expanded": "bipolar disorder",
+      "keyword_concept_polish_expanded": "zaburzenie afektywne dwubiegunowe",
+      "keyword_semantic_expanded_id": "app_sem_exp_0139",
+      "n_records": 21
+    },
+    {
+      "keyword_concept_en_expanded": "psychotic disorders",
+      "keyword_concept_polish_expanded": "zaburzenia psychotyczne",
+      "keyword_semantic_expanded_id": "app_sem_exp_1144",
+      "n_records": 21
+    },
+    {
+      "keyword_concept_en_expanded": "cognitive functioning",
+      "keyword_concept_polish_expanded": "funkcjonowanie poznawcze",
+      "keyword_semantic_expanded_id": "app_sem_exp_0256",
+      "n_records": 21
+    },
+    {
+      "keyword_concept_en_expanded": "body image/body attitudes",
+      "keyword_concept_polish_expanded": "obraz ciała i postawy wobec ciała",
+      "keyword_semantic_expanded_id": "app_sem_exp_0150",
+      "n_records": 19
+    },
+    {
+      "keyword_concept_en_expanded": "suicidality",
+      "keyword_concept_polish_expanded": "samobójczość",
+      "keyword_semantic_expanded_id": "app_sem_exp_1345",
+      "n_records": 18
+    },
+    {
+      "keyword_concept_en_expanded": "eating disorders",
+      "keyword_concept_polish_expanded": "zaburzenia odżywiania",
+      "keyword_semantic_expanded_id": "app_sem_exp_0440",
+      "n_records": 16
+    },
+    {
+      "keyword_concept_en_expanded": "adolescence/adolescents",
+      "keyword_concept_polish_expanded": "adolescencja i adolescenci",
+      "keyword_semantic_expanded_id": "app_sem_exp_0017",
+      "n_records": 16
+    },
+    {
+      "keyword_concept_en_expanded": "alcohol use disorder",
+      "keyword_concept_polish_expanded": "zaburzenie używania alkoholu",
+      "keyword_semantic_expanded_id": "app_sem_exp_0042",
+      "n_records": 16
+    },
+    {
+      "keyword_concept_en_expanded": "mental disorders",
+      "keyword_concept_polish_expanded": "zaburzenia psychiczne",
+      "keyword_semantic_expanded_id": "app_sem_exp_0807",
+      "n_records": 15
+    },
+    {
+      "keyword_concept_en_expanded": "post-traumatic stress disorder",
+      "keyword_concept_polish_expanded": "zespół stresu pourazowego",
+      "keyword_semantic_expanded_id": "app_sem_exp_1034",
+      "n_records": 14
+    },
+    {
+      "keyword_concept_en_expanded": "quality of life",
+      "keyword_concept_polish_expanded": "jakość życia",
+      "keyword_semantic_expanded_id": "app_sem_exp_1153",
+      "n_records": 14
+    }
+  ]
+}

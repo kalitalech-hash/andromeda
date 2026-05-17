@@ -1,0 +1,17 @@
+{
+  "stage": "3d_broad_semantic_aggregation",
+  "input_file": "/mnt/data/app_semantic_polish_3c/app_keywords_long_polish_semantic_3c_final.csv",
+  "created_at": "2026-05-15T21:30:25",
+  "n_records": 2649,
+  "n_articles": 686,
+  "unique_raw_keywords_after_qa": 1743,
+  "unique_concepts_before_3d": 1230,
+  "unique_concepts_after_3d": 588,
+  "reduction_from_stage_3c_n": 642,
+  "reduction_from_stage_3c_pct": 52.2,
+  "reduction_from_raw_unique_n": 1155,
+  "reduction_from_raw_unique_pct": 66.27,
+  "records_aggregated_by_rules": 2098,
+  "previous_concepts_aggregated_by_rules": 706,
+  "strong_audit_concepts": 73
+}

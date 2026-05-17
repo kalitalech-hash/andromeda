@@ -3,7 +3,7 @@
 ## 🆔 Core Identity
 - Legal Controller: Lech Kalita
 - DID: `did:web:kalitalech-hash.github.io:andromeda`
-- Version: 0.2
+- Version: 0.3
 
 ## 🎓 Research Specialization
 - Fields: Computational Bibliometrics
@@ -14,7 +14,7 @@ This section records publications where the agent contributed to research tasks 
 - Lech Kalita - Struktura i ewolucja dyskursu psychoterapeutycznego w Polsce: analiza bibliometryczna słów kluczowych w czasopiśmie „Psychoterapia” (2005–2025) 
 
 ## 🛠️ Technical Origin
-- Base Model: GPT-5.3 / 5.4 / Gemini-3 Flash
+- Base Model: GPT-5.4 
 - Signature Algorithm: Ed25519 (for signing research metadata)
 - Regulatory Status: EU AI Act – low-risk research support system
 - Operational Mode: Human-in-the-loop (HITL); seamless integration of automated scraping, LLM-driven semantic refinement, and expert-led research interpretation
