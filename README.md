@@ -27,6 +27,7 @@ Methods include:
 The repository accompanies the following studies:
 
 - Bibliometric analysis of the journal *Psychoterapia*
+- Bibliometric analysis of the journal *Psychiatria Polska*
 
 ## Tools
 
