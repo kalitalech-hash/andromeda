@@ -1,0 +1,28 @@
+{
+  "raw_dir": "data_psychotherapy_journals\\raw_full_v05",
+  "qa_dir": "data_worldcorpus\\data_psychotherapy_journals\\qa",
+  "title_dir": "data_worldcorpus\\title_pipeline\\input",
+  "n_article_files": 11,
+  "n_log_files": 11,
+  "n_summary_files": 11,
+  "n_keyword_files": 11,
+  "raw_article_rows": 32190,
+  "dedup_article_rows": 16095,
+  "duplicate_rows_flagged": 32190,
+  "dedup_strategy": "doi_norm",
+  "dedup_columns": [
+    "doi_norm"
+  ],
+  "in_scope_title_rows": 15979,
+  "articles_without_title": 0,
+  "articles_missing_year": 0,
+  "articles_out_of_scope": 116,
+  "year_min": 2005,
+  "year_max": 2025,
+  "n_journals": 10,
+  "n_with_doi": 15979,
+  "doi_coverage_pct": 100.0,
+  "n_with_abstract": 3753,
+  "abstract_coverage_pct": 23.49,
+  "total_keyword_rows_in_raw_keyword_files": 0
+}
