@@ -1,0 +1,14 @@
+{
+  "module": "andromeda_keywords_pipeline",
+  "version": "0.2",
+  "includes_scraper": true,
+  "scripts": [
+    "0_scrape_crossref_landing_pages.py",
+    "0b_keyword_source_audit.py",
+    "1a_qa_deduplicate_keywords.py",
+    "2_normalize_keywords.py",
+    "3_semantic_map_keywords.py",
+    "4_periodize_keywords.py",
+    "5_analyze_keyword_trends.py"
+  ]
+}

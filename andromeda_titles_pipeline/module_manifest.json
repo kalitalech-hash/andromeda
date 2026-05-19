@@ -1,0 +1,13 @@
+{
+  "module": "andromeda_titles_pipeline",
+  "version": "0.2",
+  "includes_scraper": false,
+  "scripts": [
+    "1a_qa_deduplicate_titles.py",
+    "2_clean_titles.py",
+    "3_extract_title_terms.py",
+    "4_semantic_map_title_terms.py",
+    "5_periodize_title_terms.py",
+    "6_analyze_title_discourse.py"
+  ]
+}
