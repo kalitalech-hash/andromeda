@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-05-27T21:21:40.184584+00:00",
+  "endpoint": "https://api.pep-web.org/v2/Database/Search/",
+  "params": {
+    "facetquery": "PEPCode:(\"IJP\") AND year:(\"2012\")",
+    "formatrequested": "JSON",
+    "abstract": "true",
+    "limit": "10",
+    "offset": "0",
+    "synonyms": "false"
+  },
+  "status_code": 428,
+  "response_headers_subset": {
+    "content-type": "",
+    "content-length": ""
+  },
+  "payload": {
+    "detail": "The caller has not provided sufficient identification."
+  }
+}

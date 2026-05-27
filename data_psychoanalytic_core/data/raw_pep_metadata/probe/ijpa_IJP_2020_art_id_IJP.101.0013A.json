@@ -1,0 +1,120 @@
+{
+  "endpoint": "https://api.pep-web.org/v2/Database/Search/",
+  "params": {
+    "facetquery": "art_id:IJP.101.0013A",
+    "formatrequested": "JSON",
+    "abstract": "true",
+    "limit": "10",
+    "offset": "0",
+    "synonyms": "false"
+  },
+  "status_code": 200,
+  "response_headers_subset": {
+    "content-type": "",
+    "content-length": ""
+  },
+  "payload": {
+    "documentList": {
+      "responseInfo": {
+        "count": 1,
+        "limit": 10,
+        "offset": 0,
+        "page": null,
+        "fullCount": 1,
+        "fullCountComplete": true,
+        "facetCounts": null,
+        "totalMatchCount": 1,
+        "listType": "documentlist",
+        "scopeQuery": [
+          {
+            "searchQ": "*:*",
+            "filterQ": "art_level:1",
+            "facetQ": "art_id:IJP.101.0013A",
+            "semanticDescription": null,
+            "searchQPrefix": "",
+            "sort": "score  desc",
+            "queryTermList": [],
+            "analyzeThis": "",
+            "searchAnalysisTermList": []
+          }
+        ],
+        "description": null,
+        "request": "None",
+        "core": "pepwebdocs",
+        "solrParams": null,
+        "timeStamp": "2026-05-27T22:21:49Z"
+      },
+      "responseSet": [
+        {
+          "documentID": "IJP.101.0013A",
+          "docType": "ART",
+          "documentRef": "Fulgencio, L. (2020) Incommensurability between paradigms, revolutions and common ground in the development of psychoanalysis. International Journal of Psychoanalysis  101:13-41",
+          "documentRefHTML": "<p class=\"citeas\"><span class=\"authors\">Fulgencio, L.</span> (<span class=\"year\">2020</span>) <span class=\"title\">Incommensurability between paradigms, revolutions and common ground in the development of psychoanalysis</span>. <span class=\"sourcetitle\">International Journal of Psychoanalysis </span> <span class=\"vol\">101</span>:<span class=\"pgrg\">13-41</span></p>",
+          "documentRefXML": "<p class=\"citeas\"><span class=\"authors\">Fulgencio, L.</span> (<span class=\"year\">2020</span>) <span class=\"title\">Incommensurability between paradigms, revolutions and common ground in the development of psychoanalysis</span>. <span class=\"sourcetitle\">International Journal of Psychoanalysis </span> <span class=\"vol\">101</span>:<span class=\"pgrg\">13-41</span></p>",
+          "documentInfoXML": "<artinfo arttype=\"ART\" j=\"IJP\" newsecnm=\"Psychoanalytic Theory and Technique\" doi=\"10.1080/00207578.2019.1686389\" ISSN=\"0020-7578\" id=\"IJP.101.0013A\">\n    <artyear>2020</artyear>\n    <artvol actual=\"101\">101</artvol>\n    <artiss>1</artiss>\n    \n    <artsectinfo><secttitle>Psychoanalytic Theory and Technique</secttitle></artsectinfo>\n    <artpgrg style=\"arabic\">13-41</artpgrg>\n    <arttitle>Incommensurability between paradigms, revolutions and <i>common ground</i> in the development of psychoanalysis<ftnx r=\"FN0000\" type=\"fn\">*</ftnx></arttitle>\n\n    <artauth hidden=\"false\"><aut listed=\"true\" authindexid=\"Fulgencio, Leopoldo\" role=\"author\" affid=\"AF1\" alias=\"false\" asis=\"false\"><nfirst type=\"ALLGIVEN\" initials=\"None\">Leopoldo</nfirst><nlast>Fulgencio</nlast><nbio><webx type=\"email\" url=\"mailto:leopoldo.fulgencio@gmail.com\">leopoldo.fulgencio@gmail.com</webx></nbio></aut>\n\t\t            \n<autaff affid=\"AF1\">\n                    \n\n<instit>Institute of Psychology, University of S&#227;o Paulo</instit>\n<addr>\n<ln>S&#227;o Paulo</ln>\n<ln>Brazil</ln>\n<ln>Department of Psychology of Learning, Development and Personality</ln>\n</addr>\n                    \n</autaff>\n            </artauth>\n<artkwds><impx type=\"KEYWORD\">Paradigms</impx><impx type=\"KEYWORD\">incommensurability</impx><impx type=\"KEYWORD\">common ground</impx><impx type=\"KEYWORD\">communication</impx><impx type=\"KEYWORD\">redescription</impx></artkwds>\n\n</artinfo>\n",
+          "title": "Incommensurability between paradigms, revolutions and common ground in the development of psychoanalysis",
+          "authorMast": "Leopoldo Fulgencio",
+          "authorCitation": "Fulgencio, L.",
+          "origrx": "IJP.101.0013A",
+          "PEPCode": "IJP",
+          "sourceTitle": "International Journal of Psychoanalysis ",
+          "sourceTitleAbbr": "Int. J. Psychoanal.",
+          "sourceType": "journal",
+          "kwicList": [],
+          "kwic": "",
+          "vol": "101",
+          "year": "2020",
+          "lang": "en",
+          "issn": "0020-7578",
+          "isbn": null,
+          "doi": "10.1080/00207578.2019.1686389",
+          "issue": "1",
+          "newSectionName": "Psychoanalytic Theory and Technique",
+          "pgCount": "29",
+          "pgRg": "13-41",
+          "pgStart": "13",
+          "pgEnd": "41",
+          "abstract": "<!DOCTYPE html>\r<html xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<title class=\"head title\">Leopoldo Fulgencio: Incommensurability between paradigms, revolutions and common ground in the development of psychoanalysis*</title>\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"anonymous\">\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;family=Noto+Serif&amp;display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://pep-web-includes.s3.amazonaws.com/pep-pdf-epub.css\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css\" integrity=\"sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=\" crossorigin=\"anonymous\">\n</head>\n<body><div class=\"pepkbd3\" data-ver=\"2021-09-27.FULL\">\n<div id=\"front\" class=\"frontmatter\">\n<p class=\"banner\"><a class=\"anchor\" name=\"IJP.101.0013A\" id=\"IJP.101.0013A\"></a><a class=\"toc-link\" href=\"https://pep-web.org/browse/IJP/volumes?openNotificationModal=False\"><img src=\"https://api.pep-web.org/v2/Documents/Image/bannerIJPLogo.gif\" alt=\"Journal Logo\"></a></p>\n<div class=\"pubinfotop\">[[RunningHead]]</div>\n<div id=\"id1-artinfo\" class=\"artinfo\" data-arttype=\"ART\" data-journal=\"IJP\">\n<p class=\"title\"><a href=\"https://pep-web.org/browse/IJP/volumes/101?openNotificationModal=False\" id=\"\"><span>Incommensurability between paradigms, revolutions and <i>common ground</i> in the development of psychoanalysis<sup><span class=\"ftnx\" data-type=\"fn\" data-r=\"FN0000\">*</span></sup></span></a><sup><span class=\"ftnx\" data-type=\"fn\" data-r=\"FN0000\">*</span></sup></p>\n<div class=\"artauth\"><div class=\"authorwrapper title_author\" data-class=\"artauth\">\n<span><span class=\"title_author\" data-listed=\"true\" data-authindexid=\"Fulgencio, Leopoldo\" data-role=\"author\" data-alias=\"false\" data-asis=\"false\"><a class=\"author\" href=\"#/Search/?author=Fulgencio,%20Leopoldo\">\n<span class=\"nfirst\" data-type=\"ALLGIVEN\" data-initials=\"None\">Leopoldo</span> <span class=\"nlast\">Fulgencio</span></a></span>\r</span> <span class=\"peppopup newauthortip\"><i class=\"fa fa-info-circle\"></i><br>\n<div class=\"peppopuptext\" id=\"autaffinfo\" hidden=\"True\"><div id=\"autcontent\" class=\"autcontent\">\n<p class=\"autaffname\">\n<span class=\"nfirst\" data-type=\"ALLGIVEN\" data-initials=\"None\">Leopoldo</span> <span class=\"nlast\">Fulgencio</span></p>\n<div data-class=\"autaff\" data-affid=\"AF1\"><p class=\"autaffaddr\" data-class=\"addr\"><span data-class=\"ln\">São Paulo<br></span><span data-class=\"ln\">Brazil<br></span><span data-class=\"ln\">Department of Psychology of Learning, Development and Personality<br></span></p></div>\n<p class=\"autaffbio\"><span class=\"autaffname\" data-class=\"nbio\">\n<span class=\"nfirst\" data-type=\"ALLGIVEN\" data-initials=\"None\">Leopoldo</span> <span class=\"nlast\">Fulgencio</span></span>\n                        <span data-class=\"nbio\">leopoldo.fulgencio@gmail.com</span></p>\n</div></div></span>\n</div></div>\n<div class=\"artkwds\">Paradigms, incommensurability, common ground, communication, redescription</div>\n</div>\n</div>\n<div id=\"id1-abs\" class=\"abs abstract\">\n<p class=\"para\" id=\"id2\" data-pagehelper2=\"firstchild\">The purpose of this article is to offer a critical analysis of different uses of the Kuhnian concept of paradigm to study psychoanalysis by showing how this notion may be used to establish a more profitable dialogue between different theoretical systems of psychoanalysis. In order to do so, we will examine how various authors, psychoanalysts and philosophers use this tool to understand psychoanalysis and its history. It will be argued that the understanding of theoretical systems of psychoanalysis as paradigms emphasises both their similarities (in the comprehension of a Freudian common ground) and their incommensurabilities. Additionally, it will be shown that the theories are not subject to communication, but rather the phenomena that such theories enable us to understand; they are, therefore, redescribed in each one of the systems allowing them to develop.</p>\n<p class=\"para\" id=\"id3\">L'auteur de cet article propose une analyse critique des différents usages du concept ou paradigme kuhnien appliqué à l'étude de la psychanalyse. Il montre comment cette notion peut être employée pour établir un meilleur dialogue entre les différents systèmes théoriques en psychanalyse. Pour cela, il étudie la façon dont différents auteurs, psychanalystes et philosophes ont utilisé cet outil afin de comprendre la psychanalyse et son histoire. Enfin, il cherche à démontrer que cette vision des systèmes théoriques en psychanalyse comme paradigmes, met l'accent à la fois sur leurs similitudes (dans le sens d'un terrain d'entente freudien) et leurs incommensurabilités. De plus, l'auteur montre que ce ne sont pas les théories qui sont susceptibles d'être communiquées, mais plutôt les phénomènes que ces théories permettent de comprendre; ces derniers sont ainsi redéfinis dans chacun des systèmes qui rendent possible leur développement.</p>\n<p class=\"para\" id=\"id4\">Der Artikel will verschiedene Anwendungen des kuhnschen Paradigmenbegriffs zur Betrachtung der Psychoanalyse kritisch analysieren, indem er aufzeigt, wie sich mit diesem Begriff ein fruchtbarerer Dialog zwischen verschiedenen theoretischen Systemen der Psychoanalyse etablieren ließe. Zu diesem Zweck wird untersucht, wie verschiedene Autoren, Psychoanalytiker und Philosophen dieses Instrument zum Verständnis der Psychoanalyse und ihrer Geschichte eingesetzt haben. Schließlich wird argumentiert, dass das Verständnis der theoretischen Systeme der Psychoanalyse als Paradigmen sowohl ihre Ähnlichkeiten (im Verständnis einer freudschen gemeinsamen Basis) als auch ihre Inkommensurabilitäten betont. Darüber hinaus wird gezeigt, dass nicht die Theorien der Kommunikation unterliegen, sondern vielmehr die Phänomene, die durch solche Theorien verstanden werden können. Die Theorien werden daher in jedem System neu beschrieben, sodass sie sich entwickeln können.</p>\n<p class=\"para\" id=\"id5\">L’articolo propone un’analisi critica dei diversi usi del concetto kuhniano di paradigma per lo studio della psicoanalisi, mostrando altresì come tale concetto possa essere utilizzato per creare un dialogo più proficuo tra sistemi teorici psicoanalitici differenti. A tal fine, si esamineranno qui i modi in cui vari autori, psicoanalisti e filosofi hanno fatto ricorso a questo strumento concettuale per provare a comprendere la psicoanalisi e la sua storia. Si sosterrà poi che intendere i vari sistemi teorici della psicoanalisi come paradigmi porta a evidenziare le loro somiglianze (il loro comprendere un terreno comune freudiano) e insieme anche le loro reciproche incommensurabilità. Si mostrerà in ultimo come le teorie non siano oggetto di comunicazione, e lo siano piuttosto i fenomeni che tali teorie permettono di comprendere. Essi sono perciò ridescritti in ciascuno dei sistemi che consentono loro di svilupparsi.</p>\n<p class=\"para\" id=\"id6\">El artículo ofrece un análisis crítico de los diferentes usos del concepto kuhniano de paradigma en el estudio del psicoanálisis, demostrando cómo puede ser este utilizado para establecer un diálogo más provechoso entre los diferentes sistemas teóricos del psicoanálisis. Para ello, se examina de qué manera diversos autores, psicoanalistas y filósofos han usado esta herramienta para comprender el psicoanálisis y su historia. Al final, se sostiene que la comprensión de los sistemas teóricos del psicoanálisis como paradigmas enfatiza tanto sus similitudes (en la comprensión de un terreno común freudiano) como sus inconmensurabilidades. Además, se muestra que las teorías no son objeto de comunicación, sino más bien los fenómenos que tales teorías permiten comprender; por tanto, son nuevamente descritas en cada uno de los sistemas, permitiéndoles desarrollarse.</p>\n</div>\n<div id=\"body\" class=\"body\"></div>\n</div></body>\n<div id=\"putciteashere\"></div>\n</html>\n",
+          "docLevel": 1,
+          "updated": "2024-01-16T15:16:18+00:00",
+          "score": 1.0,
+          "rank": 1.0,
+          "stat": {
+            "art_cited_5": 6,
+            "art_cited_10": 6,
+            "art_cited_20": 6,
+            "art_cited_all": 6,
+            "art_views_lastcalyear": 20,
+            "art_views_lastweek": 0,
+            "art_views_last1mos": 4,
+            "art_views_last6mos": 16,
+            "art_views_last12mos": 24,
+            "reference_count": 0,
+            "art_fig_count": 1,
+            "art_tbl_count": 0,
+            "art_kwds_count": 1,
+            "art_words_count": 16499,
+            "art_citations_count": 98,
+            "art_ftns_count": 1,
+            "art_notes_count": 4,
+            "art_dreams_count": 0
+          },
+          "embargo": "False",
+          "embargotype": null,
+          "downloads": true,
+          "accessClassification": "archive",
+          "accessChecked": true,
+          "accessLimited": false,
+          "accessLimitedCode": 200,
+          "accessLimitedReason": "This is part of the PEP-Web Archive",
+          "accessLimitedDebugMsg": "No PaDS check needed: Document IJP.101.0013A accessLimited: False. Authent: True",
+          "accessLimitedDescription": "This is part of the PEP-Web Archive",
+          "accessLimitedClassifiedAsCurrentContent": false,
+          "accessLimitedPubLink": " <a href=\"http://dx.doi.org/10.1080/00207578.2019.1686389\" target=\"_blank\">here</a>."
+        }
+      ]
+    }
+  },
+  "text": null,
+  "error": ""
+}
