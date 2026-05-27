@@ -1,6 +1,0 @@
-PEP_CLIENT_ID=2
-PEP_CLIENT_SESSION=a97555d7-d03c-4e5d-9f7d-e3a539af1915
-PEP_X_API_AUTHORIZE=pr2x%$ddE??233aGYKSE
-PEP_X_PEP_AUTH=true
-PEP_ORIGIN=https://pep-web.org
-PEP_REFERER=https://pep-web.org/
