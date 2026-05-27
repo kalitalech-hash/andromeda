@@ -1,0 +1,18 @@
+{
+  "project": "data_psychoanalytic_core",
+  "stage": "source_recon_metadata_probe_template",
+  "created_files": [
+    "data/source_recon/psychoanalytic_core_metadata_probe.csv",
+    "data/source_recon/psychoanalytic_core_source_notes.md"
+  ],
+  "n_probe_rows": 23,
+  "journals": [
+    "ijpa",
+    "japa",
+    "psychoanalytic_dialogues",
+    "psychoanalytic_psychology",
+    "psychoanalytic_psychotherapy"
+  ],
+  "rule": "metadata-first; no full-text or PDF mirroring at this stage",
+  "next_step": "fill probe rows by checking PEP-Web, Crossref, and publisher pages for each journal/year sample"
+}
