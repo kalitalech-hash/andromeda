@@ -1,0 +1,119 @@
+{
+  "endpoint": "https://api.pep-web.org/v2/Database/Search/",
+  "params": {
+    "facetquery": "art_id:APA.068.0583A",
+    "formatrequested": "JSON",
+    "abstract": "true",
+    "limit": "20",
+    "offset": "0",
+    "synonyms": "false"
+  },
+  "status_code": 200,
+  "response_headers_subset": {
+    "content-type": "",
+    "content-length": ""
+  },
+  "payload": {
+    "documentList": {
+      "responseInfo": {
+        "count": 1,
+        "limit": 20,
+        "offset": 0,
+        "page": null,
+        "fullCount": 1,
+        "fullCountComplete": true,
+        "facetCounts": null,
+        "totalMatchCount": 1,
+        "listType": "documentlist",
+        "scopeQuery": [
+          {
+            "searchQ": "*:*",
+            "filterQ": "art_level:1",
+            "facetQ": "art_id:APA.068.0583A",
+            "semanticDescription": null,
+            "searchQPrefix": "",
+            "sort": "score  desc",
+            "queryTermList": [],
+            "analyzeThis": "",
+            "searchAnalysisTermList": []
+          }
+        ],
+        "description": null,
+        "request": "None",
+        "core": "pepwebdocs",
+        "solrParams": null,
+        "timeStamp": "2026-05-29T09:46:34Z"
+      },
+      "responseSet": [
+        {
+          "documentID": "APA.068.0583A",
+          "docType": "ART",
+          "documentRef": "Furlong, A. (2020) Consenting and Assenting to Psychoanalytic Work. Journal of the American Psychoanalytic Association 68:583-613",
+          "documentRefHTML": "<p class=\"citeas\"><span class=\"authors\">Furlong, A.</span> (<span class=\"year\">2020</span>) <span class=\"title\">Consenting and Assenting to Psychoanalytic Work</span>. <span class=\"sourcetitle\">Journal of the American Psychoanalytic Association</span> <span class=\"vol\">68</span>:<span class=\"pgrg\">583-613</span></p>",
+          "documentRefXML": "<p class=\"citeas\"><span class=\"authors\">Furlong, A.</span> (<span class=\"year\">2020</span>) <span class=\"title\">Consenting and Assenting to Psychoanalytic Work</span>. <span class=\"sourcetitle\">Journal of the American Psychoanalytic Association</span> <span class=\"vol\">68</span>:<span class=\"pgrg\">583-613</span></p>",
+          "documentInfoXML": "<artinfo arttype=\"ART\" j=\"APA\" doi=\"10.1177/0003065120954353\" ISSN=\"0003-0651\" id=\"APA.068.0583A\">\n<artyear>2020</artyear>\n<artvol actual=\"68\">68</artvol>\n<artiss>4</artiss>\n<artpgrg>583-613</artpgrg>\n<arttitle>Consenting and Assenting to Psychoanalytic Work</arttitle>\n<artauth hidden=\"false\">\n<aut authindexid=\"Furlong, Allannah\" listed=\"true\" role=\"author\"><nfirst>Allannah</nfirst> <nlast>Furlong</nlast></aut>\n<autaff>\n<addr>\n<ln>2100 Marlowe Avenue, Suite #533</ln>\n<ln>Montreal, QC H4A3L5</ln>\n<ln>CANADA</ln>\n<ln>Email: <webx type=\"email\" url=\"mailto:allannahfurlong@outlook.com\">allannahfurlong@outlook.com</webx></ln>\n</addr>\n</autaff>\n</artauth>\n<artkwds><impx type=\"KEYWORD\">informed consent</impx><impx type=\"KEYWORD\">framework</impx><impx type=\"KEYWORD\">ethics</impx><impx type=\"KEYWORD\">good-enough assenting</impx><impx type=\"KEYWORD\">professional guidelines</impx></artkwds></artinfo>\n",
+          "title": "Consenting and Assenting to Psychoanalytic Work",
+          "authorMast": "Allannah Furlong",
+          "authorCitation": "Furlong, A.",
+          "origrx": "APA.068.0583A",
+          "PEPCode": "APA",
+          "sourceTitle": "Journal of the American Psychoanalytic Association",
+          "sourceTitleAbbr": "J. Amer. Psychoanal. Assn.",
+          "sourceType": "journal",
+          "kwicList": [],
+          "kwic": "",
+          "vol": "68",
+          "year": "2020",
+          "lang": "en",
+          "issn": "0003-0651",
+          "isbn": null,
+          "doi": "10.1177/0003065120954353",
+          "issue": "4",
+          "pgCount": "31",
+          "pgRg": "583-613",
+          "pgStart": "583",
+          "pgEnd": "613",
+          "abstract": "<!DOCTYPE html>\r<html xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<title class=\"head title\">Allannah Furlong: Consenting and Assenting to Psychoanalytic Work</title>\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"anonymous\">\n<link href=\"https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;family=Noto+Serif&amp;display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://pep-web-includes.s3.amazonaws.com/pep-pdf-epub.css\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css\" integrity=\"sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=\" crossorigin=\"anonymous\">\n</head>\n<body><div class=\"pepkbd3\" data-ver=\"2021-09-27.FULL\">\n<div id=\"front\" class=\"frontmatter\">\n<p class=\"banner\"><a class=\"anchor\" name=\"APA.068.0583A\" id=\"APA.068.0583A\"></a><a class=\"toc-link\" href=\"https://pep-web.org/browse/APA/volumes?openNotificationModal=False\"><img src=\"https://api.pep-web.org/v2/Documents/Image/bannerAPALogo.gif\" alt=\"Journal Logo\"></a></p>\n<div class=\"pubinfotop\">[[RunningHead]]</div>\n<div id=\"id1-artinfo\" class=\"artinfo\" data-arttype=\"ART\" data-journal=\"APA\">\n<p class=\"title\"><a href=\"https://pep-web.org/browse/APA/volumes/68?openNotificationModal=False\" id=\"\"><span>Consenting and Assenting to Psychoanalytic Work</span></a></p>\n<div class=\"artauth\"><div class=\"authorwrapper title_author\" data-class=\"artauth\">\n<span><span class=\"title_author\" data-listed=\"true\" data-authindexid=\"Furlong, Allannah\" data-role=\"author\" data-alias=\"\" data-asis=\"\"><a class=\"author\" href=\"#/Search/?author=Furlong,%20Allannah\">\n<span class=\"nfirst\" data-type=\"\" data-initials=\"\">Allannah</span> <span class=\"nlast\">Furlong</span></a></span>\r</span> <span class=\"peppopup newauthortip\"><i class=\"fa fa-info-circle\"></i><br>\n<div class=\"peppopuptext\" id=\"autaffinfo\" hidden=\"True\"><div id=\"autcontent\" class=\"autcontent\">\n<p class=\"autaffname\">\n<span class=\"nfirst\" data-type=\"\" data-initials=\"\">Allannah</span> <span class=\"nlast\">Furlong</span></p>\n<div data-class=\"autaff\"><p class=\"autaffaddr\" data-class=\"addr\"><span data-class=\"ln\">2100 Marlowe Avenue, Suite #533<br></span><span data-class=\"ln\">Montreal, QC H4A3L5<br></span><span data-class=\"ln\">CANADA<br></span><span data-class=\"ln\">Email: <span class=\"webx\" data-type=\"email\" data-url=\"mailto:allannahfurlong@outlook.com\">allannahfurlong@outlook.com</span><br></span></p></div>\n<p class=\"autaffbio\"><span class=\"autaffname\" data-class=\"nbio\">\n<span class=\"nfirst\" data-type=\"\" data-initials=\"\">Allannah</span> <span class=\"nlast\">Furlong</span></span>\n                        </p>\n</div></div></span>\n</div></div>\n<div class=\"artkwds\">informed consent, framework, ethics, good-enough assenting, professional guidelines</div>\n</div>\n</div>\n<div id=\"id1-abs\" class=\"abs abstract\"><p class=\"para\" id=\"id2\">The moment is opportune for a renewed look at what we understand about patient consent to treatment. Until recently, little reference to informed consent could be found in the literature, as though it has never been a preoccupation for psychoanalytic practitioners. Yet several post-Freudian authors offer reasons to suppose the risk of misunderstandings about consent. In fact, the very discovery of transference, replete with unrequited infantile wishes, implies that at some level, at some moment, in every psychoanalytic treatment there will be moments when “consent” will to some extent vacillate. A distinction, justifiable on etymological and intersubjective grounds, is made between patients' <i>consent</i> as a cognitive, somewhat passive, acceptance and patients' <i>assent</i> as an arduous, conflicted, partial disagreement with the symbolically limiting details of analytic work. It is in the discovery and working through of unexpected unconscious responses to aspects of the analytic setting and to the analyst that patients become “informed” of the unique risks to their psychic equilibrium the process poses, as well as its benefits. Instead of a static and unitary contractual event, informed consent in psychoanalysis is more properly conceived as a multilayered, repetitively posed, and necessarily ambivalent process of good-enough assenting over time.</p></div>\n<div id=\"body\" class=\"body\"></div>\n</div></body>\n<div id=\"putciteashere\"></div>\n</html>\n",
+          "docLevel": 1,
+          "updated": "2024-01-16T14:52:29+00:00",
+          "score": 1.0,
+          "rank": 1.0,
+          "stat": {
+            "art_cited_5": 2,
+            "art_cited_10": 2,
+            "art_cited_20": 2,
+            "art_cited_all": 2,
+            "art_views_lastcalyear": 64,
+            "art_views_lastweek": 0,
+            "art_views_last1mos": 8,
+            "art_views_last6mos": 30,
+            "art_views_last12mos": 49,
+            "reference_count": 0,
+            "art_fig_count": 0,
+            "art_tbl_count": 0,
+            "art_kwds_count": 1,
+            "art_words_count": 12220,
+            "art_citations_count": 99,
+            "art_ftns_count": 11,
+            "art_notes_count": 0,
+            "art_dreams_count": 0
+          },
+          "embargo": "False",
+          "embargotype": null,
+          "downloads": true,
+          "accessClassification": "archive",
+          "accessChecked": true,
+          "accessLimited": false,
+          "accessLimitedCode": 200,
+          "accessLimitedReason": "This is part of the PEP-Web Archive",
+          "accessLimitedDebugMsg": "No PaDS check needed: Document APA.068.0583A accessLimited: False. Authent: True",
+          "accessLimitedDescription": "This is part of the PEP-Web Archive",
+          "accessLimitedClassifiedAsCurrentContent": false,
+          "accessLimitedPubLink": " <a href=\"http://dx.doi.org/10.1177/0003065120954353\" target=\"_blank\">here</a>."
+        }
+      ]
+    }
+  },
+  "text": null,
+  "error": ""
+}
