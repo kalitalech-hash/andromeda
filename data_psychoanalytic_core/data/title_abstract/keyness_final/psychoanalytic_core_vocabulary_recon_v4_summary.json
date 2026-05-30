@@ -1,0 +1,147 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T22:39:31.651565+00:00",
+  "purpose": "Final light cleanup of residual generic/function terms after 2d.",
+  "policy": {
+    "source_tables_overwritten": false,
+    "semantic_normalization_performed": false,
+    "creates_final_recon_layer": true,
+    "manual_override_columns_included": true
+  },
+  "inputs": {
+    "global_core_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_global_core_terms_refined.csv",
+    "global_core_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_global_core_bigrams_refined.csv",
+    "key_terms_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_terms_by_journal_refined.csv",
+    "key_bigrams_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_bigrams_by_journal_refined.csv",
+    "key_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_terms_by_period_refined.csv",
+    "key_bigrams_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_bigrams_by_period_refined.csv",
+    "key_terms_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_terms_by_journal_period_refined.csv",
+    "key_bigrams_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_bigrams_by_journal_period_refined.csv",
+    "discriminative_candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_discriminative_candidate_terms_refined.csv"
+  },
+  "outputs": {
+    "global_core_terms_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_global_core_terms_final.csv",
+    "global_core_bigrams_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_global_core_bigrams_final.csv",
+    "key_terms_by_journal_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_key_terms_by_journal_final.csv",
+    "key_bigrams_by_journal_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_key_bigrams_by_journal_final.csv",
+    "key_terms_by_period_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_key_terms_by_period_final.csv",
+    "key_bigrams_by_period_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_key_bigrams_by_period_final.csv",
+    "key_terms_by_journal_period_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_key_terms_by_journal_period_final.csv",
+    "key_bigrams_by_journal_period_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_key_bigrams_by_journal_period_final.csv",
+    "discriminative_candidate_terms_final": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_discriminative_candidate_terms_final.csv",
+    "discriminative_candidate_terms_final_audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_discriminative_candidate_terms_final_audited.csv",
+    "final_cleanup_audit_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\term_final_cleanup_audit_map.csv",
+    "removed_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\term_final_cleanup_removed_terms.csv",
+    "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\term_final_cleanup_candidate_terms.csv"
+  },
+  "tables": [
+    {
+      "table": "global_core_terms",
+      "n_rows": 219,
+      "n_kept": 190,
+      "n_removed": 29,
+      "category_counts": {
+        "final_keep": 190,
+        "final_exclude": 29
+      }
+    },
+    {
+      "table": "global_core_bigrams",
+      "n_rows": 250,
+      "n_kept": 244,
+      "n_removed": 6,
+      "category_counts": {
+        "final_keep": 244,
+        "final_exclude": 6
+      }
+    },
+    {
+      "table": "key_terms_by_journal",
+      "n_rows": 383,
+      "n_kept": 353,
+      "n_removed": 30,
+      "category_counts": {
+        "final_keep": 353,
+        "final_exclude": 30
+      }
+    },
+    {
+      "table": "key_bigrams_by_journal",
+      "n_rows": 399,
+      "n_kept": 389,
+      "n_removed": 10,
+      "category_counts": {
+        "final_keep": 389,
+        "final_exclude": 10
+      }
+    },
+    {
+      "table": "key_terms_by_period",
+      "n_rows": 371,
+      "n_kept": 331,
+      "n_removed": 40,
+      "category_counts": {
+        "final_keep": 331,
+        "final_exclude": 40
+      }
+    },
+    {
+      "table": "key_bigrams_by_period",
+      "n_rows": 395,
+      "n_kept": 386,
+      "n_removed": 9,
+      "category_counts": {
+        "final_keep": 386,
+        "final_exclude": 9
+      }
+    },
+    {
+      "table": "key_terms_by_journal_period",
+      "n_rows": 1297,
+      "n_kept": 1191,
+      "n_removed": 106,
+      "category_counts": {
+        "final_keep": 1191,
+        "final_exclude": 106
+      }
+    },
+    {
+      "table": "key_bigrams_by_journal_period",
+      "n_rows": 1252,
+      "n_kept": 1233,
+      "n_removed": 19,
+      "category_counts": {
+        "final_keep": 1233,
+        "final_exclude": 19
+      }
+    },
+    {
+      "table": "discriminative_candidate_terms",
+      "n_rows": 4397,
+      "n_kept": 4160,
+      "n_removed": 237,
+      "category_counts": {
+        "final_keep": 4160,
+        "final_exclude": 237
+      }
+    }
+  ],
+  "audit_map": {
+    "n_unique_terms": 1829,
+    "n_kept_terms": 1751,
+    "n_removed_terms": 78,
+    "category_counts": {
+      "final_keep": 1751,
+      "final_exclude": 78
+    }
+  },
+  "explicitly_targeted_residual_terms": [
+    "time",
+    "following",
+    "after",
+    "himself",
+    "since"
+  ],
+  "main_next_file": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_discriminative_candidate_terms_final.csv",
+  "interpretive_note": "This is still reconnaissance cleanup, not final semantic ontology construction. The output is a cleaner candidate queue for human-led semantic family mapping."
+}
