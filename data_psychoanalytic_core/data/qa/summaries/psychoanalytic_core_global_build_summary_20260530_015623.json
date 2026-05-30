@@ -1,0 +1,41 @@
+{
+  "run_id": "20260530_015623",
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-29T23:56:25.313449+00:00",
+  "policy": {
+    "metadata_first": true,
+    "downloads": "none",
+    "main_analytical_corpus": "psychoanalytic_core_articles_ART_only.csv",
+    "main_corpus_rule": "article_type == 'ART'",
+    "non_ART_handling": "retained in raw and explicit excluded_non_ART audit table",
+    "keywords_handling": "supplementary metadata layer, historically uneven"
+  },
+  "totals": {
+    "articles_raw": 24393,
+    "articles_ART_only": 12164,
+    "excluded_non_ART": 12229,
+    "keyword_rows": 14348,
+    "duplicate_article_id_rows": 0
+  },
+  "journals": [
+    "ijpa",
+    "japa",
+    "psychoanalytic_dialogues",
+    "psychoanalytic_psychology",
+    "psychoanalytic_psychotherapy"
+  ],
+  "outputs": {
+    "articles_raw": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_articles_raw_consolidated.csv",
+    "articles_ART_only": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_articles_ART_only.csv",
+    "excluded_non_ART": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_excluded_non_ART.csv",
+    "keywords_long_raw": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_keywords_long_raw_consolidated.csv",
+    "journal_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_journal_summary.csv",
+    "year_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_year_summary.csv",
+    "journal_year_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_journal_year_summary.csv",
+    "keyword_year_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_keyword_year_summary.csv",
+    "keyword_journal_year_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_keyword_journal_year_summary.csv",
+    "article_type_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_article_type_summary.csv",
+    "field_completeness": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_field_completeness.csv",
+    "duplicate_article_id": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_duplicate_article_id.csv"
+  }
+}
