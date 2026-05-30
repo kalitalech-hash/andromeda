@@ -1,0 +1,67 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T21:48:56.585758+00:00",
+  "policy": {
+    "no_api_calls": true,
+    "no_pdf_downloads": true,
+    "source": "local raw PEP JSON files"
+  },
+  "inputs": {
+    "articles_ART_only": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_articles_ART_only.csv",
+    "raw_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\raw_pep_metadata",
+    "journals": [
+      "ijpa",
+      "japa",
+      "psychoanalytic_dialogues",
+      "psychoanalytic_psychology",
+      "psychoanalytic_psychotherapy"
+    ]
+  },
+  "raw_json_files": 295,
+  "raw_json_errors": 0,
+  "candidate_field_rows": 24393,
+  "extracted_abstract_rows_unique_article_id": 24393,
+  "ART_only_rows": 12164,
+  "ART_only_rows_with_abstract_text_after_merge": 12164,
+  "ART_only_pct_with_abstract_text_after_merge": 100.0,
+  "by_journal": [
+    {
+      "journal_key": "ijpa",
+      "n_records": 5423,
+      "n_with_abstract_text": 5423,
+      "pct_with_abstract_text": 100.0
+    },
+    {
+      "journal_key": "japa",
+      "n_records": 2924,
+      "n_with_abstract_text": 2924,
+      "pct_with_abstract_text": 100.0
+    },
+    {
+      "journal_key": "psychoanalytic_dialogues",
+      "n_records": 1578,
+      "n_with_abstract_text": 1578,
+      "pct_with_abstract_text": 100.0
+    },
+    {
+      "journal_key": "psychoanalytic_psychology",
+      "n_records": 1369,
+      "n_with_abstract_text": 1369,
+      "pct_with_abstract_text": 100.0
+    },
+    {
+      "journal_key": "psychoanalytic_psychotherapy",
+      "n_records": 870,
+      "n_with_abstract_text": 870,
+      "pct_with_abstract_text": 100.0
+    }
+  ],
+  "outputs": {
+    "abstract_texts_extracted": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_abstract_texts_extracted.csv",
+    "field_candidates": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_abstract_extraction_field_candidates.csv",
+    "samples": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_abstract_extraction_samples.csv",
+    "ART_only_with_abstracts": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_articles_ART_only_with_abstracts.csv",
+    "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_abstract_extraction_summary.json"
+  },
+  "errors_preview": []
+}

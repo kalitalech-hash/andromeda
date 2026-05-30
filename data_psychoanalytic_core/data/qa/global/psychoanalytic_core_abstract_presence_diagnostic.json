@@ -1,0 +1,102 @@
+{
+  "input": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_articles_ART_only.csv",
+  "n_rows": 12164,
+  "n_columns": 26,
+  "columns": [
+    "journal_id",
+    "journal_label",
+    "pep_code_candidate",
+    "probe_year",
+    "document_id",
+    "pep_code_record",
+    "year_record",
+    "title",
+    "authors",
+    "source_title",
+    "volume",
+    "issue",
+    "pages",
+    "doi",
+    "article_type",
+    "has_abstract",
+    "has_keywords",
+    "n_keywords",
+    "keywords_joined",
+    "keyword_source",
+    "art_kwds_count",
+    "source_file",
+    "harvest_file",
+    "harvest_year_from_filename",
+    "journal_key",
+    "pep_prefix"
+  ],
+  "abstract_like_columns": [
+    "has_abstract"
+  ],
+  "column_summaries": [
+    {
+      "column": "has_abstract",
+      "n_nonempty": 12164,
+      "pct_nonempty": 100.0,
+      "median_length_nonempty": 4.0,
+      "max_length": 4,
+      "n_length_ge_80": 0,
+      "pct_length_ge_80": 0.0,
+      "probably_flag_column": true,
+      "likely_contains_abstract_text": false,
+      "n_likely_text_rows": 0
+    }
+  ],
+  "by_journal": [
+    {
+      "journal_key": "ijpa",
+      "n_records": 5423,
+      "n_nonempty": 5423,
+      "n_len_ge_80": 0,
+      "abstract_column": "has_abstract",
+      "pct_nonempty": 100.0,
+      "pct_len_ge_80": 0.0
+    },
+    {
+      "journal_key": "japa",
+      "n_records": 2924,
+      "n_nonempty": 2924,
+      "n_len_ge_80": 0,
+      "abstract_column": "has_abstract",
+      "pct_nonempty": 100.0,
+      "pct_len_ge_80": 0.0
+    },
+    {
+      "journal_key": "psychoanalytic_dialogues",
+      "n_records": 1578,
+      "n_nonempty": 1578,
+      "n_len_ge_80": 0,
+      "abstract_column": "has_abstract",
+      "pct_nonempty": 100.0,
+      "pct_len_ge_80": 0.0
+    },
+    {
+      "journal_key": "psychoanalytic_psychology",
+      "n_records": 1369,
+      "n_nonempty": 1369,
+      "n_len_ge_80": 0,
+      "abstract_column": "has_abstract",
+      "pct_nonempty": 100.0,
+      "pct_len_ge_80": 0.0
+    },
+    {
+      "journal_key": "psychoanalytic_psychotherapy",
+      "n_records": 870,
+      "n_nonempty": 870,
+      "n_len_ge_80": 0,
+      "abstract_column": "has_abstract",
+      "pct_nonempty": 100.0,
+      "pct_len_ge_80": 0.0
+    }
+  ],
+  "interpretation_hint": "A real abstract text column should have many non-empty values, median length well above simple boolean flags, and previews containing sentences. A flag-only column will usually contain values such as true/false or 0/1.",
+  "outputs": {
+    "json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_abstract_presence_diagnostic.json",
+    "samples_csv": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_abstract_presence_samples.csv"
+  }
+}
