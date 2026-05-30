@@ -1,0 +1,194 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T22:35:27.798537+00:00",
+  "purpose": "Second-pass refinement of 2c vocabulary/keyness outputs.",
+  "policy": {
+    "source_tables_overwritten": false,
+    "semantic_normalization_performed": false,
+    "creates_audit_layer_only": true,
+    "manual_override_columns_included": true
+  },
+  "inputs": {
+    "global_core_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_global_core_terms_after_audit.csv",
+    "global_core_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_global_core_bigrams_after_audit.csv",
+    "key_terms_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_terms_by_journal.csv",
+    "key_bigrams_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_bigrams_by_journal.csv",
+    "key_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_terms_by_period.csv",
+    "key_bigrams_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_bigrams_by_period.csv",
+    "key_terms_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_terms_by_journal_period.csv",
+    "key_bigrams_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_bigrams_by_journal_period.csv",
+    "discriminative_candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_discriminative_candidate_terms.csv"
+  },
+  "outputs": {
+    "global_core_terms_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_global_core_terms_refined.csv",
+    "global_core_bigrams_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_global_core_bigrams_refined.csv",
+    "key_terms_by_journal_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_terms_by_journal_refined.csv",
+    "key_bigrams_by_journal_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_bigrams_by_journal_refined.csv",
+    "key_terms_by_period_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_terms_by_period_refined.csv",
+    "key_bigrams_by_period_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_bigrams_by_period_refined.csv",
+    "key_terms_by_journal_period_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_terms_by_journal_period_refined.csv",
+    "key_bigrams_by_journal_period_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_key_bigrams_by_journal_period_refined.csv",
+    "discriminative_candidate_terms_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_discriminative_candidate_terms_refined.csv",
+    "discriminative_candidate_terms_audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_discriminative_candidate_terms_audited.csv",
+    "audit_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\term_refinement_audit_map.csv",
+    "excluded_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\term_refinement_excluded_terms.csv",
+    "candidate_concepts": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\term_refinement_candidate_concepts.csv"
+  },
+  "tables": [
+    {
+      "table": "global_core_terms",
+      "n_rows": 300,
+      "n_unique_terms": 300,
+      "n_included": 219,
+      "n_excluded": 81,
+      "category_counts": {
+        "candidate_concept": 219,
+        "generic_discourse_language": 40,
+        "generic_academic_language": 18,
+        "affiliation_or_metadata_noise": 10,
+        "personal_name_noise": 7,
+        "non_english_function_word": 4,
+        "background_domain_term": 2
+      }
+    },
+    {
+      "table": "global_core_bigrams",
+      "n_rows": 300,
+      "n_unique_terms": 300,
+      "n_included": 250,
+      "n_excluded": 50,
+      "category_counts": {
+        "candidate_concept": 250,
+        "affiliation_or_metadata_noise": 34,
+        "generic_discourse_language": 12,
+        "generic_academic_language": 4
+      }
+    },
+    {
+      "table": "key_terms_by_journal",
+      "n_rows": 500,
+      "n_unique_terms": 435,
+      "n_included": 383,
+      "n_excluded": 117,
+      "category_counts": {
+        "candidate_concept": 383,
+        "generic_academic_language": 40,
+        "generic_discourse_language": 39,
+        "affiliation_or_metadata_noise": 31,
+        "personal_name_noise": 5,
+        "background_domain_term": 2
+      }
+    },
+    {
+      "table": "key_bigrams_by_journal",
+      "n_rows": 500,
+      "n_unique_terms": 470,
+      "n_included": 399,
+      "n_excluded": 101,
+      "category_counts": {
+        "candidate_concept": 399,
+        "affiliation_or_metadata_noise": 73,
+        "generic_discourse_language": 15,
+        "generic_academic_language": 12,
+        "non_english_function_word": 1
+      }
+    },
+    {
+      "table": "key_terms_by_period",
+      "n_rows": 500,
+      "n_unique_terms": 378,
+      "n_included": 371,
+      "n_excluded": 129,
+      "category_counts": {
+        "candidate_concept": 371,
+        "generic_discourse_language": 63,
+        "generic_academic_language": 38,
+        "affiliation_or_metadata_noise": 21,
+        "background_domain_term": 3,
+        "personal_name_noise": 2,
+        "non_english_function_word": 2
+      }
+    },
+    {
+      "table": "key_bigrams_by_period",
+      "n_rows": 500,
+      "n_unique_terms": 449,
+      "n_included": 395,
+      "n_excluded": 105,
+      "category_counts": {
+        "candidate_concept": 395,
+        "affiliation_or_metadata_noise": 71,
+        "generic_discourse_language": 20,
+        "generic_academic_language": 14
+      }
+    },
+    {
+      "table": "key_terms_by_journal_period",
+      "n_rows": 1700,
+      "n_unique_terms": 883,
+      "n_included": 1297,
+      "n_excluded": 403,
+      "category_counts": {
+        "candidate_concept": 1297,
+        "generic_discourse_language": 154,
+        "generic_academic_language": 118,
+        "affiliation_or_metadata_noise": 78,
+        "non_english_function_word": 24,
+        "personal_name_noise": 21,
+        "background_domain_term": 8
+      }
+    },
+    {
+      "table": "key_bigrams_by_journal_period",
+      "n_rows": 1536,
+      "n_unique_terms": 1174,
+      "n_included": 1252,
+      "n_excluded": 284,
+      "category_counts": {
+        "candidate_concept": 1252,
+        "affiliation_or_metadata_noise": 202,
+        "generic_academic_language": 39,
+        "generic_discourse_language": 38,
+        "non_english_function_word": 5
+      }
+    },
+    {
+      "table": "discriminative_candidate_terms",
+      "n_rows": 5636,
+      "n_unique_terms": 2137,
+      "n_included": 4397,
+      "n_excluded": 1239,
+      "category_counts": {
+        "candidate_concept": 4397,
+        "affiliation_or_metadata_noise": 509,
+        "generic_discourse_language": 372,
+        "generic_academic_language": 278,
+        "non_english_function_word": 33,
+        "personal_name_noise": 32,
+        "background_domain_term": 15
+      }
+    }
+  ],
+  "audit_map": {
+    "n_unique_terms": 2175,
+    "n_candidate_concepts": 1829,
+    "n_excluded_terms": 346,
+    "category_counts": {
+      "candidate_concept": 1829,
+      "affiliation_or_metadata_noise": 154,
+      "generic_academic_language": 76,
+      "generic_discourse_language": 70,
+      "non_english_function_word": 29,
+      "personal_name_noise": 15,
+      "background_domain_term": 2
+    }
+  },
+  "main_next_file": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_refined\\psychoanalytic_core_discriminative_candidate_terms_refined.csv",
+  "notes": {
+    "runninghead": "technical_artifact",
+    "gmail_faculty_professor_center": "affiliation_or_metadata_noise",
+    "john_robert_david_michael": "personal_name_noise unless protected theoretical name",
+    "freud_klein_bion_winnicott_lacan_kohut": "protected theoretical names kept as candidate concepts",
+    "generic_words": "removed only from refined candidate queues, not from raw 2a/2c outputs"
+  }
+}
