@@ -1,0 +1,107 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T22:04:28.270387+00:00",
+  "input": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\qa\\global\\psychoanalytic_core_articles_ART_only_with_abstracts.csv",
+  "n_records": 12164,
+  "n_journals": 5,
+  "journals": [
+    "ijpa",
+    "japa",
+    "psychoanalytic_dialogues",
+    "psychoanalytic_psychology",
+    "psychoanalytic_psychotherapy"
+  ],
+  "periods": [
+    "1920-1945",
+    "1946-1969",
+    "1970-1989",
+    "1990-2009",
+    "2010-2025"
+  ],
+  "policy": {
+    "stage": "title_abstract_recon",
+    "semantic_normalization_performed": false,
+    "final_interpretation_performed": false,
+    "main_text_field": "text_for_analysis",
+    "main_text_formula": "title_clean + '. ' + abstract_clean",
+    "global_and_per_journal_outputs": true
+  },
+  "quality_flags": {
+    "possible_html_artifact_rows": 0,
+    "possible_copyright_artifact_rows": 0,
+    "very_short_abstract_lt_80_chars": 10
+  },
+  "outputs": {
+    "global_clean": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_ART_title_abstract_clean.csv",
+    "global_text_quality_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_text_quality_summary.csv",
+    "global_text_quality_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_text_quality_by_journal.csv",
+    "global_text_quality_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_text_quality_by_period.csv",
+    "global_top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_terms_global.csv",
+    "global_top_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_bigrams_global.csv",
+    "global_top_trigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_trigrams_global.csv",
+    "global_top_terms_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_terms_by_journal.csv",
+    "global_top_bigrams_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_bigrams_by_journal.csv",
+    "global_top_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_terms_by_period.csv",
+    "global_top_terms_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_top_terms_by_journal_period.csv",
+    "global_candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_candidate_terms_for_semantic_map.csv",
+    "global_period_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_period_summary.csv",
+    "by_journal_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal"
+  },
+  "by_journal_outputs": {
+    "ijpa": {
+      "clean": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_ART_title_abstract_clean.csv",
+      "quality": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_text_quality_summary.csv",
+      "top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_top_terms.csv",
+      "top_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_top_bigrams.csv",
+      "top_trigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_top_trigrams.csv",
+      "top_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_top_terms_by_period.csv",
+      "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_candidate_terms_for_semantic_map.csv",
+      "period_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_period_summary.csv",
+      "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\ijpa\\ijpa_title_abstract_recon_summary.json"
+    },
+    "japa": {
+      "clean": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_ART_title_abstract_clean.csv",
+      "quality": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_text_quality_summary.csv",
+      "top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_top_terms.csv",
+      "top_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_top_bigrams.csv",
+      "top_trigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_top_trigrams.csv",
+      "top_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_top_terms_by_period.csv",
+      "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_candidate_terms_for_semantic_map.csv",
+      "period_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_period_summary.csv",
+      "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\japa\\japa_title_abstract_recon_summary.json"
+    },
+    "psychoanalytic_dialogues": {
+      "clean": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_ART_title_abstract_clean.csv",
+      "quality": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_text_quality_summary.csv",
+      "top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_top_terms.csv",
+      "top_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_top_bigrams.csv",
+      "top_trigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_top_trigrams.csv",
+      "top_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_top_terms_by_period.csv",
+      "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_candidate_terms_for_semantic_map.csv",
+      "period_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_period_summary.csv",
+      "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_title_abstract_recon_summary.json"
+    },
+    "psychoanalytic_psychology": {
+      "clean": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_ART_title_abstract_clean.csv",
+      "quality": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_text_quality_summary.csv",
+      "top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_top_terms.csv",
+      "top_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_top_bigrams.csv",
+      "top_trigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_top_trigrams.csv",
+      "top_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_top_terms_by_period.csv",
+      "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_candidate_terms_for_semantic_map.csv",
+      "period_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_period_summary.csv",
+      "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_title_abstract_recon_summary.json"
+    },
+    "psychoanalytic_psychotherapy": {
+      "clean": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_ART_title_abstract_clean.csv",
+      "quality": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_text_quality_summary.csv",
+      "top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_top_terms.csv",
+      "top_bigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_top_bigrams.csv",
+      "top_trigrams": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_top_trigrams.csv",
+      "top_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_top_terms_by_period.csv",
+      "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_candidate_terms_for_semantic_map.csv",
+      "period_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_period_summary.csv",
+      "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_title_abstract_recon_summary.json"
+    }
+  }
+}

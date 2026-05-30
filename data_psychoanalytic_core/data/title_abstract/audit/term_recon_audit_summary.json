@@ -1,0 +1,124 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T22:21:11.132018+00:00",
+  "purpose": "Audit candidate terms after title+abstract reconnaissance; flag background domain terms and technical artifacts.",
+  "policy": {
+    "raw_top_terms_modified": false,
+    "semantic_normalization_performed": false,
+    "creates_audit_layer_only": true,
+    "technical_artifacts_excluded_from_semantic_review": true,
+    "background_domain_terms_excluded_from_semantic_review": true
+  },
+  "global_summary": {
+    "scope": "psychoanalytic_core_global_candidate_queue",
+    "n_rows": 1750,
+    "n_unique_terms": 890,
+    "category_counts": {
+      "candidate_concept": 1549,
+      "background_domain_term": 177,
+      "technical_artifact": 24
+    },
+    "n_included": 1549,
+    "n_excluded": 201
+  },
+  "by_journal_summaries": [
+    {
+      "scope": "ijpa",
+      "n_rows": 750,
+      "n_unique_terms": 750,
+      "category_counts": {
+        "candidate_concept": 700,
+        "background_domain_term": 36,
+        "technical_artifact": 14
+      },
+      "n_included": 700,
+      "n_excluded": 50,
+      "outputs": {
+        "audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\ijpa\\ijpa_candidate_terms_for_semantic_map_audited.csv",
+        "filtered": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\ijpa\\ijpa_candidate_terms_for_semantic_map_filtered.csv",
+        "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\ijpa\\ijpa_term_recon_audit_summary.json"
+      }
+    },
+    {
+      "scope": "japa",
+      "n_rows": 750,
+      "n_unique_terms": 750,
+      "category_counts": {
+        "candidate_concept": 702,
+        "background_domain_term": 39,
+        "technical_artifact": 9
+      },
+      "n_included": 702,
+      "n_excluded": 48,
+      "outputs": {
+        "audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\japa\\japa_candidate_terms_for_semantic_map_audited.csv",
+        "filtered": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\japa\\japa_candidate_terms_for_semantic_map_filtered.csv",
+        "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\japa\\japa_term_recon_audit_summary.json"
+      }
+    },
+    {
+      "scope": "psychoanalytic_dialogues",
+      "n_rows": 750,
+      "n_unique_terms": 750,
+      "category_counts": {
+        "candidate_concept": 706,
+        "background_domain_term": 36,
+        "technical_artifact": 8
+      },
+      "n_included": 706,
+      "n_excluded": 44,
+      "outputs": {
+        "audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_candidate_terms_for_semantic_map_audited.csv",
+        "filtered": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_candidate_terms_for_semantic_map_filtered.csv",
+        "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_dialogues\\psychoanalytic_dialogues_term_recon_audit_summary.json"
+      }
+    },
+    {
+      "scope": "psychoanalytic_psychology",
+      "n_rows": 750,
+      "n_unique_terms": 750,
+      "category_counts": {
+        "candidate_concept": 701,
+        "background_domain_term": 38,
+        "technical_artifact": 11
+      },
+      "n_included": 701,
+      "n_excluded": 49,
+      "outputs": {
+        "audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_candidate_terms_for_semantic_map_audited.csv",
+        "filtered": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_candidate_terms_for_semantic_map_filtered.csv",
+        "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_psychology\\psychoanalytic_psychology_term_recon_audit_summary.json"
+      }
+    },
+    {
+      "scope": "psychoanalytic_psychotherapy",
+      "n_rows": 750,
+      "n_unique_terms": 750,
+      "category_counts": {
+        "candidate_concept": 697,
+        "background_domain_term": 33,
+        "technical_artifact": 20
+      },
+      "n_included": 697,
+      "n_excluded": 53,
+      "outputs": {
+        "audited": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_candidate_terms_for_semantic_map_audited.csv",
+        "filtered": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_candidate_terms_for_semantic_map_filtered.csv",
+        "summary_json": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal\\psychoanalytic_psychotherapy\\psychoanalytic_psychotherapy_term_recon_audit_summary.json"
+      }
+    }
+  ],
+  "known_initial_decisions": {
+    "runninghead": "technical_artifact",
+    "psychoanalytic_patient_clinical_family": "background_domain_term",
+    "applies_to": "global and per-journal candidate queues"
+  },
+  "outputs": {
+    "audit_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\term_recon_audit_map.csv",
+    "global_audited_candidates": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\psychoanalytic_core_candidate_terms_for_semantic_map_audited.csv",
+    "global_filtered_candidates": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\psychoanalytic_core_candidate_terms_for_semantic_map_filtered.csv",
+    "background_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\term_recon_background_terms.csv",
+    "technical_artifacts": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\term_recon_artifacts.csv",
+    "by_journal_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\by_journal"
+  }
+}

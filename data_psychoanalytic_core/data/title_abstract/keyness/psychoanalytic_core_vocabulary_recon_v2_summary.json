@@ -1,0 +1,50 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T22:28:29.845543+00:00",
+  "purpose": "Discriminative vocabulary reconnaissance after high-frequency audit.",
+  "inputs": {
+    "clean_corpus": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_ART_title_abstract_clean.csv",
+    "audit_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\audit\\term_recon_audit_map.csv"
+  },
+  "parameters": {
+    "top_n_global": 300,
+    "top_n_group": 100,
+    "min_doc_count_group": 3,
+    "generic_recon_stopwords_n": 142,
+    "audit_exclude_terms_total_n": 175
+  },
+  "corpus": {
+    "n_records": 12164,
+    "n_journals": 5,
+    "n_periods": 5,
+    "journal_counts": {
+      "ijpa": 5423,
+      "japa": 2924,
+      "psychoanalytic_dialogues": 1578,
+      "psychoanalytic_psychology": 1369,
+      "psychoanalytic_psychotherapy": 870
+    },
+    "period_counts": {
+      "2010-2025": 4050,
+      "1990-2009": 3927,
+      "1970-1989": 1758,
+      "1946-1969": 1743,
+      "1920-1945": 686
+    },
+    "median_clean_tokens_per_record": 126.0,
+    "mean_clean_tokens_per_record": 138.49
+  },
+  "outputs": {
+    "terms_clean_for_keyness": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_terms_clean_for_keyness.csv",
+    "global_core_terms_after_audit": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_global_core_terms_after_audit.csv",
+    "global_core_bigrams_after_audit": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_global_core_bigrams_after_audit.csv",
+    "key_terms_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_terms_by_journal.csv",
+    "key_bigrams_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_bigrams_by_journal.csv",
+    "key_terms_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_terms_by_period.csv",
+    "key_bigrams_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_bigrams_by_period.csv",
+    "key_terms_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_terms_by_journal_period.csv",
+    "key_bigrams_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_key_bigrams_by_journal_period.csv",
+    "discriminative_candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness\\psychoanalytic_core_discriminative_candidate_terms.csv"
+  },
+  "interpretive_note": "This stage does not define final semantic families. It only improves the candidate queue by combining cleaned global frequency with journal, period, and journal-period keyness. All results require human review before interpretation."
+}
