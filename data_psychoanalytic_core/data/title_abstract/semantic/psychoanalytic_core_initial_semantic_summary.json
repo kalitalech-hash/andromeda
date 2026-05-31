@@ -1,0 +1,62 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-30T22:52:12.551869+00:00",
+  "purpose": "Initial semantic family mapping of Stage 2 candidate vocabulary and article-level hit detection.",
+  "inputs": {
+    "candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\keyness_final\\psychoanalytic_core_discriminative_candidate_terms_final.csv",
+    "clean_articles": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_ART_title_abstract_clean.csv"
+  },
+  "policy": {
+    "final_ontology": false,
+    "semantic_mapping_status": "initial_rule_based_mapping",
+    "human_review_required": true,
+    "manual_override_columns_included": true,
+    "article_level_hits_are_lexical": true
+  },
+  "candidate_terms": {
+    "n_candidate_rows": 4160,
+    "n_unique_candidate_terms": 1718,
+    "n_mapped_terms": 310,
+    "n_unmapped_terms": 1408,
+    "n_terms_with_review_flag": 1529,
+    "family_map_counts": {
+      "drive_conflict_defense": 40,
+      "object_relations": 31,
+      "attachment_development_infant": 30,
+      "ego_self_narcissism": 27,
+      "empirical_research_measurement": 25,
+      "relational_intersubjective_field": 24,
+      "body_sexuality_gender": 22,
+      "history_theory_schools": 21,
+      "dream_fantasy_unconscious": 16,
+      "culture_race_social_ethics": 15,
+      "technique_interpretation_process": 11,
+      "transference_countertransference": 10,
+      "trauma_dissociation_affect_regulation": 9,
+      "psychosis_borderline_primitive_states": 9,
+      "language_narrative_symbolization": 7,
+      "winnicottian_environment_holding": 7,
+      "kleinian_bionian": 6
+    }
+  },
+  "articles": {
+    "n_articles": 12164,
+    "n_articles_with_any_semantic_family_hit": 11743,
+    "pct_articles_with_any_semantic_family_hit": 96.539,
+    "n_article_family_hit_rows": 52201
+  },
+  "outputs": {
+    "initial_semantic_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_initial_semantic_map.csv",
+    "review_queue": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_initial_semantic_map_review_queue.csv",
+    "unmapped_candidate_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_unmapped_candidate_terms.csv",
+    "article_semantic_hits_long": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_article_semantic_hits_long.csv",
+    "article_semantic_hits_wide": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_article_semantic_hits_wide.csv",
+    "family_counts": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_initial_semantic_family_counts.csv",
+    "family_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_semantic_family_by_journal.csv",
+    "family_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_semantic_family_by_period.csv",
+    "family_by_journal_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_semantic_family_by_journal_period.csv",
+    "family_article_share_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_semantic_family_article_share_by_journal.csv",
+    "family_article_share_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_semantic_family_article_share_by_period.csv"
+  },
+  "interpretive_warning": "These are initial lexical semantic-family assignments. They should be used for QA, orientation, and human review, not as final interpretive findings."
+}
