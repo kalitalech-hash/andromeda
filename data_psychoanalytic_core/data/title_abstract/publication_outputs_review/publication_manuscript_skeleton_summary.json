@@ -1,0 +1,22 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T12:00:20.001351+00:00",
+  "purpose": "Generate manuscript skeleton from publication captions, claims matrix, and narrative draft.",
+  "inputs": {
+    "claims_matrix": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_results_claims_matrix.csv",
+    "figure_caption_sheet": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_figure_caption_sheet.csv",
+    "table_caption_sheet": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_table_caption_sheet.csv",
+    "figure_selection_recommendations": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_figure_selection_recommendations.csv",
+    "core_results_narrative": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_core_results_narrative.md",
+    "publication_outputs_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_outputs_summary.json"
+  },
+  "outputs": {
+    "manuscript_skeleton": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\reports\\manuscript_drafts\\psychoanalytic_core_manuscript_skeleton_v0_1.md"
+  },
+  "counts": {
+    "n_claims": 8,
+    "n_figures": 6,
+    "n_tables": 8
+  },
+  "methodological_note": "This is a drafting scaffold. It is not a final manuscript and requires human scholarly revision, citation insertion, journal-target adaptation, and substantive psychoanalytic interpretation."
+}
