@@ -1,0 +1,312 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T11:41:26.301001+00:00",
+  "purpose": "Journal-balanced robustness checks for semantic change indices.",
+  "inputs": {
+    "semantic_change_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change",
+    "semantic_change_journal_global_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_journal_global",
+    "semantic_refined_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined"
+  },
+  "parameters": {
+    "long_panel_min_periods": 4,
+    "common_period_min_journals": 3,
+    "post1990_periods": [
+      "1990-2009",
+      "2010-2025"
+    ]
+  },
+  "panels": [
+    {
+      "panel": "all_available_per_journal",
+      "n_rows": 17,
+      "n_journals": 5,
+      "n_periods": 5,
+      "journals": [
+        "ijpa",
+        "japa",
+        "psychoanalytic_dialogues",
+        "psychoanalytic_psychology",
+        "psychoanalytic_psychotherapy"
+      ],
+      "periods": [
+        "1920-1945",
+        "1946-1969",
+        "1970-1989",
+        "1990-2009",
+        "2010-2025"
+      ]
+    },
+    {
+      "panel": "long_journal_panel",
+      "n_rows": 9,
+      "n_journals": 2,
+      "n_periods": 5,
+      "journals": [
+        "ijpa",
+        "japa"
+      ],
+      "periods": [
+        "1920-1945",
+        "1946-1969",
+        "1970-1989",
+        "1990-2009",
+        "2010-2025"
+      ]
+    },
+    {
+      "panel": "common_period_panel",
+      "n_rows": 14,
+      "n_journals": 5,
+      "n_periods": 3,
+      "journals": [
+        "ijpa",
+        "japa",
+        "psychoanalytic_dialogues",
+        "psychoanalytic_psychology",
+        "psychoanalytic_psychotherapy"
+      ],
+      "periods": [
+        "1970-1989",
+        "1990-2009",
+        "2010-2025"
+      ]
+    },
+    {
+      "panel": "post1990_panel",
+      "n_rows": 10,
+      "n_journals": 5,
+      "n_periods": 2,
+      "journals": [
+        "ijpa",
+        "japa",
+        "psychoanalytic_dialogues",
+        "psychoanalytic_psychology",
+        "psychoanalytic_psychotherapy"
+      ],
+      "periods": [
+        "1990-2009",
+        "2010-2025"
+      ]
+    }
+  ],
+  "counts": {
+    "n_journal_period_rows": 17,
+    "n_equal_weight_period_rows": 5,
+    "n_long_panel_rows": 9,
+    "n_common_panel_rows": 14,
+    "n_post1990_panel_rows": 10,
+    "n_paired_change_rows": 17,
+    "n_direction_rows": 56
+  },
+  "key_conclusions": {
+    "all_available_per_journal_relational_shift": {
+      "panel": "all_available_per_journal",
+      "index": "relational_shift_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "all_available_per_journal_drive_conflict": {
+      "panel": "all_available_per_journal",
+      "index": "classical_drive_conflict_index",
+      "n_journals": 5,
+      "n_increase": 0,
+      "n_decrease": 5,
+      "n_no_change": 0,
+      "pct_increase": 0.0,
+      "pct_decrease": 100.0,
+      "dominant_direction": "decrease",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "all_available_per_journal_narrative_reframing": {
+      "panel": "all_available_per_journal",
+      "index": "narrative_reframing_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "all_available_per_journal_contextualization": {
+      "panel": "all_available_per_journal",
+      "index": "contemporary_contextualization_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "long_journal_panel_relational_shift": {
+      "panel": "long_journal_panel",
+      "index": "relational_shift_index",
+      "n_journals": 2,
+      "n_increase": 2,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "long_journal_panel_drive_conflict": {
+      "panel": "long_journal_panel",
+      "index": "classical_drive_conflict_index",
+      "n_journals": 2,
+      "n_increase": 0,
+      "n_decrease": 2,
+      "n_no_change": 0,
+      "pct_increase": 0.0,
+      "pct_decrease": 100.0,
+      "dominant_direction": "decrease",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "long_journal_panel_narrative_reframing": {
+      "panel": "long_journal_panel",
+      "index": "narrative_reframing_index",
+      "n_journals": 2,
+      "n_increase": 2,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "long_journal_panel_contextualization": {
+      "panel": "long_journal_panel",
+      "index": "contemporary_contextualization_index",
+      "n_journals": 2,
+      "n_increase": 2,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "common_period_panel_relational_shift": {
+      "panel": "common_period_panel",
+      "index": "relational_shift_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "common_period_panel_drive_conflict": {
+      "panel": "common_period_panel",
+      "index": "classical_drive_conflict_index",
+      "n_journals": 5,
+      "n_increase": 0,
+      "n_decrease": 5,
+      "n_no_change": 0,
+      "pct_increase": 0.0,
+      "pct_decrease": 100.0,
+      "dominant_direction": "decrease",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "common_period_panel_narrative_reframing": {
+      "panel": "common_period_panel",
+      "index": "narrative_reframing_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "common_period_panel_contextualization": {
+      "panel": "common_period_panel",
+      "index": "contemporary_contextualization_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "post1990_panel_relational_shift": {
+      "panel": "post1990_panel",
+      "index": "relational_shift_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "post1990_panel_drive_conflict": {
+      "panel": "post1990_panel",
+      "index": "classical_drive_conflict_index",
+      "n_journals": 5,
+      "n_increase": 0,
+      "n_decrease": 5,
+      "n_no_change": 0,
+      "pct_increase": 0.0,
+      "pct_decrease": 100.0,
+      "dominant_direction": "decrease",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "post1990_panel_narrative_reframing": {
+      "panel": "post1990_panel",
+      "index": "narrative_reframing_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "post1990_panel_contextualization": {
+      "panel": "post1990_panel",
+      "index": "contemporary_contextualization_index",
+      "n_journals": 5,
+      "n_increase": 5,
+      "n_decrease": 0,
+      "n_no_change": 0,
+      "pct_increase": 100.0,
+      "pct_decrease": 0.0,
+      "dominant_direction": "increase",
+      "direction_consistency_flag": "high_consistency"
+    },
+    "equal_weight_first_to_last": {
+      "first_period": "1920-1945",
+      "last_period": "2010-2025",
+      "relational_shift_change_equal_weight": 44.846,
+      "drive_conflict_change_equal_weight": -20.2778,
+      "narrative_reframing_change_equal_weight": 54.8227
+    }
+  },
+  "outputs": {
+    "equal_journal_weight_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_equal_journal_weight_by_period.csv",
+    "global_vs_equal_weight": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_global_vs_equal_weight.csv",
+    "long_journal_panel": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_long_journal_panel.csv",
+    "common_period_panel": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_common_period_panel.csv",
+    "post1990_panel": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_post1990_panel.csv",
+    "paired_period_changes": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_paired_period_changes.csv",
+    "direction_consistency": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced\\psychoanalytic_core_balanced_direction_consistency.csv"
+  },
+  "methodological_note": "These are robustness diagnostics, not final causal decomposition. Equal-journal weighting and within-journal paired changes reduce but do not eliminate composition effects. Results should be interpreted together with the full-corpus and journal-vs-global analyses."
+}
