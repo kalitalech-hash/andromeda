@@ -1,0 +1,48 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T11:50:58.179241+00:00",
+  "purpose": "Prepare publication-oriented tables and first figures from Stage 3–4 outputs.",
+  "inputs": {
+    "semantic_application": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_application",
+    "semantic_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined",
+    "semantic_comparison": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_comparison",
+    "semantic_change": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change",
+    "semantic_change_journal_global": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_journal_global",
+    "semantic_change_balanced": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced"
+  },
+  "outputs": {
+    "tables": {
+      "table_01_corpus_semantic_coverage": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_01_corpus_semantic_coverage.csv",
+      "table_02_semantic_family_counts_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_02_semantic_family_counts_refined.csv",
+      "table_03_semantic_indices_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_03_semantic_indices_by_period.csv",
+      "table_04_journal_trajectories": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_04_journal_trajectories.csv",
+      "table_05_balanced_direction_consistency": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_05_balanced_direction_consistency.csv",
+      "table_06_initial_vs_refined_impact": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_06_initial_vs_refined_impact.csv",
+      "table_07_journal_distinctiveness": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_07_journal_distinctiveness.csv",
+      "table_08_narrative_table": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_08_narrative_table.csv"
+    },
+    "figures": {
+      "figure_01_relational_vs_drive_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_01_relational_vs_drive_by_period.png",
+      "figure_02_narrative_reframing_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_02_narrative_reframing_by_period.png",
+      "figure_03_contextualization_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_03_contextualization_by_period.png",
+      "figure_04_journal_relational_shift_trajectories": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_04_journal_relational_shift_trajectories.png",
+      "figure_05_equal_weight_vs_global_relational_shift": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_05_equal_weight_vs_global_relational_shift.png",
+      "figure_06_initial_vs_refined_family_drop": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_06_initial_vs_refined_family_drop.png"
+    }
+  },
+  "trend_summary_from_period_indices": {
+    "relational_shift_index_first_period": "-37.7551",
+    "relational_shift_index_last_period": "6.5432",
+    "relational_shift_index_change": 44.2983,
+    "drive_conflict_defense_first_period": "43.4402",
+    "drive_conflict_defense_last_period": "24.0988",
+    "drive_conflict_defense_change": -19.3414,
+    "narrative_reframing_index_first_period": "-17.0554",
+    "narrative_reframing_index_last_period": "38.963",
+    "narrative_reframing_index_change": 56.0184,
+    "contemporary_contextualization_index_first_period": "18.9504",
+    "contemporary_contextualization_index_last_period": "68.5433",
+    "contemporary_contextualization_index_change": 49.5929
+  },
+  "methodological_note": "These are publication-oriented derivative tables and figures. They do not alter analytical outputs. Figure styling is intentionally simple and should be revised before final submission."
+}
