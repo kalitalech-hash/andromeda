@@ -1,0 +1,46 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T11:57:14.599947+00:00",
+  "purpose": "Create caption sheets, claims matrix, figure recommendations, and core results narrative draft.",
+  "inputs": {
+    "publication_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs",
+    "balanced_root": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_change_balanced"
+  },
+  "outputs": {
+    "figure_caption_sheet": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_figure_caption_sheet.csv",
+    "table_caption_sheet": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_table_caption_sheet.csv",
+    "results_claims_matrix": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_results_claims_matrix.csv",
+    "figure_selection_recommendations": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_figure_selection_recommendations.csv",
+    "core_results_narrative": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs_review\\publication_core_results_narrative.md"
+  },
+  "counts": {
+    "n_figures_documented": 6,
+    "n_tables_documented": 8,
+    "n_claims": 8,
+    "n_missing_figures": 0,
+    "n_missing_tables": 0
+  },
+  "missing_figures": [],
+  "missing_tables": [],
+  "recommended_main_text_figures": [
+    {
+      "figure_id": "Figure 1",
+      "file_name": "publication_figure_01_relational_vs_drive_by_period.png",
+      "short_title": "Relational/intersubjective versus drive/conflict/defense vocabulary by period",
+      "primary_claim_ids": "C1 | C2"
+    },
+    {
+      "figure_id": "Figure 5",
+      "file_name": "publication_figure_05_equal_weight_vs_global_relational_shift.png",
+      "short_title": "Article-weighted versus equal-journal-weight relational shift trajectory",
+      "primary_claim_ids": "C3 | C8"
+    },
+    {
+      "figure_id": "Figure 4",
+      "file_name": "publication_figure_04_journal_relational_shift_trajectories.png",
+      "short_title": "Journal trajectories of the relational shift index",
+      "primary_claim_ids": "C3 | C4 | C7"
+    }
+  ],
+  "methodological_note": "This review layer links figures and tables to claims. It should be treated as manuscript planning, not as final text. Captions and claims require human scholarly revision before submission."
+}
