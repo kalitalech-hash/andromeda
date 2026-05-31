@@ -1,0 +1,382 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T05:50:36.473980+00:00",
+  "purpose": "QA of initial semantic family application before semantic-map refinement.",
+  "inputs": {
+    "semantic_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_initial_semantic_map.csv",
+    "hits_long": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_application\\psychoanalytic_core_article_semantic_hits_long.csv",
+    "hits_wide": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_application\\psychoanalytic_core_article_semantic_hits_wide.csv",
+    "family_counts": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_application\\psychoanalytic_core_initial_semantic_family_counts.csv",
+    "family_by_journal": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_application\\psychoanalytic_core_semantic_family_by_journal.csv",
+    "family_by_period": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_application\\psychoanalytic_core_semantic_family_by_period.csv",
+    "articles": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_ART_title_abstract_clean.csv"
+  },
+  "qa_counts": {
+    "n_articles": 12164,
+    "n_article_family_hit_rows": 52187,
+    "n_term_hit_rows_exploded": 85111,
+    "n_top_term_rows": 275,
+    "n_high_risk_term_rows": 43,
+    "n_high_risk_family_rows": 11,
+    "n_refinement_queue_rows": 43
+  },
+  "outputs": {
+    "top_terms_by_family": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_top_terms_by_family.csv",
+    "family_term_concentration": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_family_term_concentration.csv",
+    "single_vs_multi_term_hits": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_single_vs_multi_term_hits.csv",
+    "family_examples": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_family_examples.csv",
+    "high_risk_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_high_risk_terms.csv",
+    "high_risk_families": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_high_risk_families.csv",
+    "map_refinement_queue": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_map_refinement_queue.csv"
+  },
+  "top_risk_terms_preview": [
+    {
+      "semantic_family": "history_theory_schools",
+      "term": "freud",
+      "n_articles": 3099,
+      "n_family_articles": 3436,
+      "share_of_family_articles_pct": 90.19,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "transference_countertransference",
+      "term": "transference",
+      "n_articles": 1764,
+      "n_family_articles": 2298,
+      "share_of_family_articles_pct": 76.76,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "object_relations",
+      "term": "object",
+      "n_articles": 2449,
+      "n_family_articles": 3462,
+      "share_of_family_articles_pct": 70.74,
+      "risk_reasons": "family_specific_high_risk_term | high_share_within_family | known_broad_polysemous_term",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "winnicottian_environment_holding",
+      "term": "mother",
+      "n_articles": 1343,
+      "n_family_articles": 2056,
+      "share_of_family_articles_pct": 65.32,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "relational_intersubjective_field",
+      "term": "relationship",
+      "n_articles": 2625,
+      "n_family_articles": 4409,
+      "share_of_family_articles_pct": 59.54,
+      "risk_reasons": "family_specific_high_risk_term | high_share_within_family | known_broad_polysemous_term",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "kleinian_bionian",
+      "term": "bion",
+      "n_articles": 394,
+      "n_family_articles": 693,
+      "share_of_family_articles_pct": 56.85,
+      "risk_reasons": "high_share_within_family | short_single_token",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "ego_self_narcissism",
+      "term": "self",
+      "n_articles": 2612,
+      "n_family_articles": 4910,
+      "share_of_family_articles_pct": 53.2,
+      "risk_reasons": "family_specific_high_risk_term | high_share_within_family | short_single_token | known_broad_polysemous_term",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "dream_fantasy_unconscious",
+      "term": "unconscious",
+      "n_articles": 2037,
+      "n_family_articles": 3844,
+      "share_of_family_articles_pct": 52.99,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "history_theory_schools",
+      "term": "freud's",
+      "n_articles": 1718,
+      "n_family_articles": 3436,
+      "share_of_family_articles_pct": 50.0,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "language_narrative_symbolization",
+      "term": "meaning",
+      "n_articles": 1268,
+      "n_family_articles": 2838,
+      "share_of_family_articles_pct": 44.68,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "culture_race_social_ethics",
+      "term": "social",
+      "n_articles": 1191,
+      "n_family_articles": 2667,
+      "share_of_family_articles_pct": 44.66,
+      "risk_reasons": "family_specific_high_risk_term | high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "psychosis_borderline_primitive_states",
+      "term": "primitive",
+      "n_articles": 523,
+      "n_family_articles": 1196,
+      "share_of_family_articles_pct": 43.73,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "psychosis_borderline_primitive_states",
+      "term": "psychotic",
+      "n_articles": 488,
+      "n_family_articles": 1196,
+      "share_of_family_articles_pct": 40.8,
+      "risk_reasons": "high_share_within_family",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "attachment_development_infant",
+      "term": "early",
+      "n_articles": 1828,
+      "n_family_articles": 4630,
+      "share_of_family_articles_pct": 39.48,
+      "risk_reasons": "family_specific_high_risk_term",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "winnicottian_environment_holding",
+      "term": "play",
+      "n_articles": 805,
+      "n_family_articles": 2056,
+      "share_of_family_articles_pct": 39.15,
+      "risk_reasons": "short_single_token",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "empirical_research_measurement",
+      "term": "evidence",
+      "n_articles": 653,
+      "n_family_articles": 1803,
+      "share_of_family_articles_pct": 36.22,
+      "risk_reasons": "family_specific_high_risk_term",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "body_sexuality_gender",
+      "term": "body",
+      "n_articles": 898,
+      "n_family_articles": 2503,
+      "share_of_family_articles_pct": 35.88,
+      "risk_reasons": "short_single_token",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "ego_self_narcissism",
+      "term": "ego",
+      "n_articles": 1721,
+      "n_family_articles": 4910,
+      "share_of_family_articles_pct": 35.05,
+      "risk_reasons": "short_single_token",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "attachment_development_infant",
+      "term": "child",
+      "n_articles": 1603,
+      "n_family_articles": 4630,
+      "share_of_family_articles_pct": 34.62,
+      "risk_reasons": "family_specific_high_risk_term",
+      "recommended_action": "review_term_specificity"
+    },
+    {
+      "semantic_family": "object_relations",
+      "term": "internal",
+      "n_articles": 942,
+      "n_family_articles": 3462,
+      "share_of_family_articles_pct": 27.21,
+      "risk_reasons": "family_specific_high_risk_term",
+      "recommended_action": "review_term_specificity"
+    }
+  ],
+  "high_risk_family_preview": [
+    {
+      "semantic_family": "dream_fantasy_unconscious",
+      "n_articles": "3844",
+      "n_family_hits": "3844",
+      "total_terms_hit": "6176",
+      "pct_articles": "31.6014",
+      "n_unique_terms_hit": 13,
+      "top1_term": "unconscious",
+      "top1_share_of_family_articles_pct": 52.99,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 61.81,
+      "single_hit_flag": "",
+      "family_QA_flags": "medium_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "ego_self_narcissism",
+      "n_articles": "4910",
+      "n_family_hits": "4910",
+      "total_terms_hit": "7993",
+      "pct_articles": "40.365",
+      "n_unique_terms_hit": 22,
+      "top1_term": "self",
+      "top1_share_of_family_articles_pct": 53.2,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 60.65,
+      "single_hit_flag": "",
+      "family_QA_flags": "medium_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "object_relations",
+      "n_articles": "3462",
+      "n_family_hits": "3462",
+      "total_terms_hit": "7330",
+      "pct_articles": "28.461",
+      "n_unique_terms_hit": 29,
+      "top1_term": "object",
+      "top1_share_of_family_articles_pct": 70.74,
+      "concentration_flag": "high_top1_concentration",
+      "pct_single_term_hit_rows": 37.95,
+      "single_hit_flag": "",
+      "family_QA_flags": "high_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "kleinian_bionian",
+      "n_articles": "693",
+      "n_family_hits": "693",
+      "total_terms_hit": "1056",
+      "pct_articles": "5.6971",
+      "n_unique_terms_hit": 6,
+      "top1_term": "bion",
+      "top1_share_of_family_articles_pct": 56.85,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 54.11,
+      "single_hit_flag": "",
+      "family_QA_flags": "medium_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "winnicottian_environment_holding",
+      "n_articles": "2056",
+      "n_family_hits": "2056",
+      "total_terms_hit": "2324",
+      "pct_articles": "16.9023",
+      "n_unique_terms_hit": 7,
+      "top1_term": "mother",
+      "top1_share_of_family_articles_pct": 65.32,
+      "concentration_flag": "high_top1_concentration",
+      "pct_single_term_hit_rows": 87.84,
+      "single_hit_flag": "high_single_term_dependence",
+      "family_QA_flags": "high_top1_concentration | high_single_term_dependence",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "transference_countertransference",
+      "n_articles": "2298",
+      "n_family_hits": "2298",
+      "total_terms_hit": "3717",
+      "pct_articles": "18.8918",
+      "n_unique_terms_hit": 10,
+      "top1_term": "transference",
+      "top1_share_of_family_articles_pct": 76.76,
+      "concentration_flag": "high_top1_concentration",
+      "pct_single_term_hit_rows": 60.01,
+      "single_hit_flag": "",
+      "family_QA_flags": "high_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "relational_intersubjective_field",
+      "n_articles": "4409",
+      "n_family_hits": "4409",
+      "total_terms_hit": "7399",
+      "pct_articles": "36.2463",
+      "n_unique_terms_hit": 20,
+      "top1_term": "relationship",
+      "top1_share_of_family_articles_pct": 59.54,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 55.73,
+      "single_hit_flag": "",
+      "family_QA_flags": "medium_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "psychosis_borderline_primitive_states",
+      "n_articles": "1196",
+      "n_family_hits": "1196",
+      "total_terms_hit": "1521",
+      "pct_articles": "9.8323",
+      "n_unique_terms_hit": 8,
+      "top1_term": "primitive",
+      "top1_share_of_family_articles_pct": 43.73,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 76.09,
+      "single_hit_flag": "high_single_term_dependence",
+      "family_QA_flags": "medium_top1_concentration | high_single_term_dependence",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "language_narrative_symbolization",
+      "n_articles": "2838",
+      "n_family_hits": "2838",
+      "total_terms_hit": "3505",
+      "pct_articles": "23.3311",
+      "n_unique_terms_hit": 7,
+      "top1_term": "meaning",
+      "top1_share_of_family_articles_pct": 44.68,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 80.9,
+      "single_hit_flag": "high_single_term_dependence",
+      "family_QA_flags": "medium_top1_concentration | high_single_term_dependence",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "culture_race_social_ethics",
+      "n_articles": "2667",
+      "n_family_hits": "2667",
+      "total_terms_hit": "4128",
+      "pct_articles": "21.9254",
+      "n_unique_terms_hit": 14,
+      "top1_term": "social",
+      "top1_share_of_family_articles_pct": 44.66,
+      "concentration_flag": "medium_top1_concentration",
+      "pct_single_term_hit_rows": 64.49,
+      "single_hit_flag": "",
+      "family_QA_flags": "medium_top1_concentration",
+      "recommended_action": "review_family_rules"
+    },
+    {
+      "semantic_family": "history_theory_schools",
+      "n_articles": "3436",
+      "n_family_hits": "3436",
+      "total_terms_hit": "6259",
+      "pct_articles": "28.2473",
+      "n_unique_terms_hit": 19,
+      "top1_term": "freud",
+      "top1_share_of_family_articles_pct": 90.19,
+      "concentration_flag": "high_top1_concentration",
+      "pct_single_term_hit_rows": 37.72,
+      "single_hit_flag": "",
+      "family_QA_flags": "high_top1_concentration",
+      "recommended_action": "review_family_rules"
+    }
+  ],
+  "interpretive_warning": "This QA layer identifies likely over-broad terms and family inflation risks. It does not modify the semantic map. Use the refinement queue for 3d/3c-map revision."
+}
