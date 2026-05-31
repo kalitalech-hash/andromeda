@@ -1,0 +1,68 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T12:16:12.100759+00:00",
+  "purpose": "Create publication-facing semantic family content tables and figures.",
+  "inputs": {
+    "semantic_map_marker_strength": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_map_marker_strength.csv",
+    "semantic_family_counts_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_family_counts_refined.csv",
+    "marker_strength_by_family": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_marker_strength_by_family.csv",
+    "qa_top_terms_by_family": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_top_terms_by_family.csv",
+    "qa_family_term_concentration": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_family_term_concentration.csv",
+    "qa_high_risk_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_high_risk_terms.csv"
+  },
+  "parameters": {
+    "top_n_terms_per_family": 8
+  },
+  "outputs": {
+    "tables": {
+      "semantic_family_definitions_and_top_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_09_semantic_family_definitions_and_top_terms.csv",
+      "semantic_family_marker_strength_examples": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_10_semantic_family_marker_strength_examples.csv",
+      "semantic_family_top_terms_long": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_11_semantic_family_top_terms_long.csv",
+      "semantic_family_high_risk_terms": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_12_semantic_family_high_risk_terms.csv",
+      "semantic_family_content_audit_summary": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_table_13_semantic_family_content_audit_summary.csv"
+    },
+    "figures": {
+      "semantic_family_content_heatmap": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_07_semantic_family_content_heatmap.png",
+      "marker_strength_by_family": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\publication_outputs\\publication_figure_08_marker_strength_by_family.png"
+    }
+  },
+  "counts": {
+    "n_semantic_families": 17,
+    "n_marker_example_rows": 68,
+    "n_top_terms_long_rows": 275,
+    "n_high_risk_terms": 43,
+    "n_audit_summary_rows": 17
+  },
+  "high_risk_term_counts_by_family": {
+    "attachment_development_infant": 5,
+    "body_sexuality_gender": 1,
+    "culture_race_social_ethics": 7,
+    "dream_fantasy_unconscious": 2,
+    "ego_self_narcissism": 4,
+    "empirical_research_measurement": 1,
+    "history_theory_schools": 2,
+    "kleinian_bionian": 1,
+    "language_narrative_symbolization": 1,
+    "object_relations": 4,
+    "psychosis_borderline_primitive_states": 2,
+    "relational_intersubjective_field": 4,
+    "technique_interpretation_process": 2,
+    "transference_countertransference": 1,
+    "trauma_dissociation_affect_regulation": 4,
+    "winnicottian_environment_holding": 2
+  },
+  "recommended_use": {
+    "main_text": [
+      "publication_table_09_semantic_family_definitions_and_top_terms.csv"
+    ],
+    "supplement": [
+      "publication_table_10_semantic_family_marker_strength_examples.csv",
+      "publication_table_11_semantic_family_top_terms_long.csv",
+      "publication_table_12_semantic_family_high_risk_terms.csv",
+      "publication_table_13_semantic_family_content_audit_summary.csv",
+      "publication_figure_07_semantic_family_content_heatmap.png",
+      "publication_figure_08_marker_strength_by_family.png"
+    ]
+  },
+  "methodological_note": "These tables describe the content of working semantic families. They are intended for transparency and reviewer audit, not as a claim that the ontology is final. Examples combine refined semantic-map terms with QA top-term counts."
+}
