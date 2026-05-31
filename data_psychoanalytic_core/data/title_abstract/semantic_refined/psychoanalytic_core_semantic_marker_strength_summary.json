@@ -1,0 +1,51 @@
+{
+  "script_version": "v0.1.0",
+  "created_at_utc": "2026-05-31T06:40:29.574109+00:00",
+  "purpose": "Refine initial semantic map using marker strength and reapply to articles.",
+  "inputs": {
+    "semantic_map": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic\\psychoanalytic_core_initial_semantic_map.csv",
+    "qa_refinement_queue": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_QA\\psychoanalytic_core_semantic_QA_map_refinement_queue.csv",
+    "articles": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\global\\psychoanalytic_core_ART_title_abstract_clean.csv"
+  },
+  "policy": {
+    "final_ontology": false,
+    "weak_marker_alone_counts_as_full_hit": false,
+    "two_or_more_weak_markers_count_as_provisional_hit": true,
+    "name_marker_alone_counts_as_full_hit": false,
+    "name_marker_reported_separately": true,
+    "human_review_required": true
+  },
+  "marker_map": {
+    "n_total_rows": 1718,
+    "marker_strength_counts": {
+      "unmapped": 1408,
+      "strong": 200,
+      "medium": 61,
+      "weak": 44,
+      "name_marker": 5
+    }
+  },
+  "articles": {
+    "n_articles": 12164,
+    "n_articles_with_refined_semantic_family_hit": 10947,
+    "pct_articles_with_refined_semantic_family_hit": 89.9951,
+    "n_articles_with_any_marker_hit": 11743,
+    "pct_articles_with_any_marker_hit": 96.539,
+    "n_articles_with_weak_only_family": 9232,
+    "n_articles_with_name_only_family": 2830,
+    "n_article_family_rows_any_marker": 52181,
+    "mean_refined_families_per_article": 2.6176,
+    "median_refined_families_per_article": 2.0
+  },
+  "outputs": {
+    "semantic_map_marker_strength": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_map_marker_strength.csv",
+    "marker_strength_by_family": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_marker_strength_by_family.csv",
+    "article_semantic_hits_long_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_article_semantic_hits_long_refined.csv",
+    "article_semantic_hits_wide_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_article_semantic_hits_wide_refined.csv",
+    "family_counts_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_family_counts_refined.csv",
+    "family_by_journal_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_family_by_journal_refined.csv",
+    "family_by_period_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_family_by_period_refined.csv",
+    "family_by_journal_period_refined": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_family_by_journal_period_refined.csv"
+  },
+  "interpretive_warning": "Refined hits are still lexical and based on a provisional marker-strength model. They should be used for QA and orientation, not final claims."
+}
