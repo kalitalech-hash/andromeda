@@ -16,11 +16,178 @@ This report closes the current `data_psychoanalytic_core` manuscript-preparation
 
 The submitted manuscript uses a corpus-derived, psychoanalytically informed, audit-controlled semantic mapping procedure to examine diachronic changes in the public conceptual vocabulary of five psychoanalytic journals.
 
-The report is intended for placement in the project `reports` directory and should function as a compact audit note for future revisions, responses to reviewers, release notes, or a later Andromeda-methods paper.
+This report is intended for placement in the project `reports` directory and should function as a compact audit note for future revisions, responses to reviewers, release notes, or a later Andromeda-methods paper.
 
 ---
 
-## 2. Final manuscript submitted in this milestone
+## 2. Human-in-the-loop authorship and contribution model
+
+This project followed a human-in-the-loop research model. Andromeda Nowicka supported computational, bibliometric, semantic-mapping, QA, documentation, and drafting tasks. Lech Kalita retained domain authority, interpretive control, theoretical responsibility, and final manuscript responsibility.
+
+The working distinction used throughout the project was:
+
+```text
+Lech Kalita:
+  psychoanalytic domain expert
+  theory interpreter
+  final scholarly decision-maker
+  author of final manuscript responsibility
+
+Andromeda Nowicka:
+  data-analysis agent
+  reproducible workflow support
+  semantic-mapping and QA assistant
+  report and manuscript-support generator
+```
+
+The submitted manuscript therefore treats Andromeda as a research-support system, not as an autonomous author.
+
+---
+
+## 3. Lech Kalita’s contribution
+
+Lech’s contribution was decisive in all scholarly and interpretive layers of the project.
+
+Main contributions:
+
+```text
+1. Corpus-level research question
+   - formulated the core question about changing psychoanalytic narratives of clinical reality
+   - framed the project around psychoanalytic pluralism, clinical facts, and discourse change
+   - insisted that the study should not be reduced to a simple "relational shift" story
+
+2. Psychoanalytic domain expertise
+   - defined the psychoanalytic relevance of drive/conflict/defense, relationality, trauma, affect regulation, social ethics, and narrative redescription
+   - evaluated whether semantic families made psychoanalytic sense
+   - identified theoretical risks, including tautological markers and overbroad psychoanalytic terms
+
+3. Theoretical architecture
+   - selected and interpreted the key theoretical backbone:
+     Schafer, Orange, Wallerstein, Green, Bernardi, Lament, Karbelnig, Fulgencio, Beebe & Lachmann, Britton & Steiner
+   - shaped the central theoretical claim that psychoanalytic clinical facts are mediated by narrative grammars and conceptual languages
+   - added the crucial distinction between language constructing clinical facts and language helping analysts find or crystallize clinical facts
+
+4. Interpretive supervision of semantic families
+   - supervised the distinction between corpus-derived vocabulary and psychoanalytically informed semantic architecture
+   - approved the use of 17 working semantic families as analytical instruments rather than final psychoanalytic taxa
+   - guided the interpretation of high-risk markers, broad terms, and family-level meaning
+
+5. Human audit and methodological judgment
+   - reviewed outputs after each stage
+   - assessed whether candidate terms and cleaned term lists were clinically/theoretically meaningful
+   - decided when further cleaning iterations were needed and when artifacts were tolerable
+   - approved the conservative marker-strength refinement model
+
+6. Manuscript authorship
+   - wrote, rewrote, and humanized the Introduction and Theoretical frame
+   - revised Methods and Discussion into an authorial psychoanalytic argument
+   - decided how much AI-agent disclosure and repository information to include
+   - prepared and submitted the blinded manuscript
+
+7. Final responsibility
+   - retained responsibility for all interpretive claims
+   - retained responsibility for publication decisions, journal targeting, and submission
+   - retained responsibility for future revisions and reviewer response
+```
+
+Lech’s role can be summarized as:
+
+```text
+psychoanalytic expertise
+theoretical judgment
+interpretive authority
+manuscript authorship
+final scholarly responsibility
+```
+
+---
+
+## 4. Andromeda Nowicka’s contribution
+
+Andromeda’s contribution was computational, methodological, documentary, and drafting-supportive. It was performed under human direction and review.
+
+Main contributions:
+
+```text
+1. Workflow planning
+   - proposed stage-wise title-and-abstract semantic-analysis workflow
+   - organized the project into explicit data layers:
+     raw metadata, QA, cleaning, candidate terms, semantic map, refined application, comparison, robustness, publication outputs
+   - preserved the metadata-first and audit-oriented logic of the Andromeda repository
+
+2. Script design and reproducible analysis support
+   - prepared scripts for:
+     abstract presence diagnostics
+     extraction of abstract text from local PEP metadata
+     candidate-term extraction
+     term cleaning and stop/artifact removal
+     semantic-family map application
+     semantic QA
+     marker-strength refinement
+     semantic comparison
+     semantic-change indices
+     journal-level and balanced-panel diagnostics
+     publication-output tables and figures
+     semantic-family content tables
+
+3. QA and conservative refinement
+   - identified inflation risk from broad markers
+   - proposed marker-strength categories:
+     strong, medium, weak, name_marker
+   - generated audit outputs for high-risk terms and family-level inflation
+   - supported the decision to interpret the refined model as the primary semantic layer
+
+4. Data summarization and results interpretation support
+   - summarized global, journal-level, period-level, and balanced-panel outputs
+   - helped formulate the main empirical pattern:
+     not disappearance of classical psychoanalytic language, but loss of its organizing monopoly
+   - helped distinguish relational shift from broader relational-contextual transformation
+
+5. Publication-output preparation
+   - supported the creation of manuscript-ready tables and figures
+   - proposed table/figure architecture for:
+     semantic coverage
+     semantic-family definitions and examples
+     period-level change
+     journal trajectories
+     balanced-panel direction consistency
+     refined family coverage
+
+6. Report generation
+   - generated stage reports for the repository
+   - prepared methodological Q&A notes for anticipated reviewer questions
+   - prepared this final submission milestone report
+
+7. Manuscript support
+   - prepared an initial DOCX manuscript skeleton
+   - proposed Methods, Limitations, Discussion, and reviewer-response language
+   - suggested wording for data availability, repository note, acknowledgment, and cover letter
+   - helped check internal consistency and submission readiness
+
+8. Ethical and governance support
+   - reinforced metadata-first acquisition principles
+   - recommended against full-text/PDF corpus redistribution
+   - recommended transparent but bounded disclosure of agent support
+   - distinguished research-support contribution from human scholarly authorship
+```
+
+Andromeda’s role can be summarized as:
+
+```text
+data preparation support
+reproducible scripting support
+semantic-mapping support
+QA and audit support
+publication-output support
+methodological documentation support
+manuscript-support assistance
+```
+
+Andromeda did not replace human scholarly judgment and did not independently determine the final interpretation of the corpus.
+
+---
+
+## 5. Final manuscript submitted in this milestone
 
 The submitted blinded manuscript is:
 
@@ -29,7 +196,20 @@ Changing Narratives of Psychoanalytic Clinical Reality:
 A Century of Title-and-Abstract Discourse Across Core Psychoanalytic Journals
 ```
 
-The manuscript includes: Abstract, Introduction, Theoretical frame, Materials and methods, Results, Discussion, Limitations, Conclusion, Acknowledgment and data note, and References.
+The manuscript includes:
+
+```text
+Abstract
+Introduction
+Theoretical frame
+Materials and methods
+Results
+Discussion
+Limitations
+Conclusion
+Acknowledgment and data note
+References
+```
 
 The final submitted abstract reports the core empirical findings:
 
@@ -47,7 +227,7 @@ The main interpretive formulation is that the findings do not indicate the disap
 
 ---
 
-## 3. Corpus and data layer summarized in the manuscript
+## 6. Corpus and data layer summarized in the manuscript
 
 The analytic corpus was restricted to ART-level original article records.
 
@@ -90,7 +270,7 @@ The manuscript explicitly frames the data layer as a public layer of psychoanaly
 
 ---
 
-## 4. Data acquisition and ethical framing
+## 7. Data acquisition and ethical framing
 
 The manuscript uses a metadata-first acquisition model.
 
@@ -115,7 +295,7 @@ The repository should contain scripts, semantic maps, aggregate/derived analytic
 
 ---
 
-## 5. Semantic mapping approach
+## 8. Semantic mapping approach
 
 The semantic procedure is summarized in the manuscript as:
 
@@ -143,7 +323,7 @@ The submitted manuscript presents semantic families as working analytical instru
 
 ---
 
-## 6. Marker-strength model
+## 9. Marker-strength model
 
 The initial semantic map achieved very high coverage, but broad terms created inflation risk. The refined model introduced marker-strength categories:
 
@@ -178,7 +358,7 @@ The refined model is the primary interpretive layer.
 
 ---
 
-## 7. Semantic families documented in the manuscript
+## 10. Semantic families documented in the manuscript
 
 The submitted manuscript reports 17 working semantic families:
 
@@ -206,7 +386,7 @@ The manuscript includes a compact table with example terms and global refined co
 
 ---
 
-## 8. Diachronic periods
+## 11. Diachronic periods
 
 The submitted manuscript groups articles into five historical periods:
 
@@ -232,9 +412,9 @@ Trend analyses use percentages relative to the number of ART records in each per
 
 ---
 
-## 9. Main empirical findings
+## 12. Main empirical findings
 
-### 9.1 Global transformation
+### 12.1 Global transformation
 
 The core global result:
 
@@ -275,7 +455,7 @@ not simple replacement
 rather: reconfiguration of the semantic field
 ```
 
-### 9.2 Periodization of the shift
+### 12.2 Periodization of the shift
 
 The results support a three-phase interpretation:
 
@@ -295,7 +475,7 @@ The results support a three-phase interpretation:
   culture/social/ethics and trauma/affect/regulation rise substantially
 ```
 
-### 9.3 Journal trajectories
+### 12.3 Journal trajectories
 
 All five journals show:
 
@@ -326,7 +506,7 @@ Psychoanalytic Psychotherapy:
   applied psychotherapy-process register with strong contextualization and narrative reframing
 ```
 
-### 9.4 Robustness checks
+### 12.4 Robustness checks
 
 Robustness diagnostics included:
 
@@ -349,7 +529,7 @@ the dominant directions persist across balanced and partially balanced compariso
 
 ---
 
-## 10. Theoretical framing used in the submitted manuscript
+## 13. Theoretical framing used in the submitted manuscript
 
 The theoretical frame combines:
 
@@ -394,7 +574,7 @@ They are part of how the discipline publicly reorganizes what it takes itself to
 
 ---
 
-## 11. Discussion-level interpretation
+## 14. Discussion-level interpretation
 
 The submitted discussion emphasizes six points:
 
@@ -420,7 +600,7 @@ The submitted discussion emphasizes six points:
 
 ---
 
-## 12. Limitations documented in the manuscript
+## 15. Limitations documented in the manuscript
 
 The submitted manuscript explicitly notes:
 
@@ -445,7 +625,7 @@ further causal decomposition of journal composition effects
 
 ---
 
-## 13. Figures and tables in the submitted manuscript
+## 16. Figures and tables in the submitted manuscript
 
 The submitted manuscript includes:
 
@@ -488,7 +668,7 @@ A later revision may improve graphic typography, journal styling, or move some t
 
 ---
 
-## 14. Acknowledgment and repository note
+## 17. Acknowledgment and repository note
 
 For the blinded submission, repository identity was withheld.
 
@@ -522,7 +702,7 @@ Project documentation, scripts, semantic maps, derived analytical outputs, figur
 
 ---
 
-## 15. Minor issues noticed in the submitted manuscript for future revision
+## 18. Minor issues noticed in the submitted manuscript for future revision
 
 These are not milestone blockers, but should be corrected in a revision or resubmission:
 
@@ -544,7 +724,7 @@ Minor US/UK spelling variation and some non-native stylistic traces were left in
 
 ---
 
-## 16. Milestone summary
+## 19. Milestone summary
 
 This milestone transformed `data_psychoanalytic_core` from a reproducible analytical corpus into a submitted empirical-theoretical manuscript.
 
@@ -569,7 +749,7 @@ The manuscript now functions as the first major publication-facing output of the
 
 ---
 
-## 17. Suggested next steps after milestone closure
+## 20. Suggested next steps after milestone closure
 
 Immediate next steps:
 
@@ -593,7 +773,7 @@ develop a separate methodological paper on HITL semantic bibliometrics / Androme
 
 ---
 
-## 18. Closing note
+## 21. Closing note
 
 The central outcome of this milestone is not only a submitted manuscript, but also a reusable demonstration of Andromeda’s intended research model:
 
