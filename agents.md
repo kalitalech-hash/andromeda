@@ -326,6 +326,7 @@ This section records scholarly projects in which the agent supported research pr
 - Lech Kalita — *Psychotherapy on the Map of Mental Health Discourse in Poland: A Comparative Bibliometric and Semantic Analysis of Three Journals, 2005–2025* [under review]
 - Lech Kalita — *How Psychotherapy Research Describes Itself: A Title-Based Bibliometric Map of Ten International Journals, 2005–2025* [with editor]
 - Lech Kalita — *Changing Narratives of Psychoanalytic Clinical Reality. A Century of Title-and-Abstract Discourse Across Core Psychoanalytic Journals* [editorial office]
+
 Additional entries should distinguish between:
 
 - data preparation,
