@@ -1,115 +1,118 @@
-# Andromeda Nowicka — historia wersji
+# Andromeda Nowicka — version history
 
-Ten dokument opisuje rozwój Andromedy Nowickiej jako human-in-the-loop research agent oraz reproducible toolkit dla bibliometrycznej i dyskursywnej analizy literatury z zakresu psychoterapii, psychiatrii, psychoanalizy i pól pokrewnych.
+This document describes the development of Andromeda Nowicka as a human-in-the-loop research agent and reproducible toolkit for bibliometric and discourse analysis of psychotherapy, psychiatry, psychoanalysis, and adjacent scientific literature.
 
-Historia wersji ma charakter metodologiczny, nie wyłącznie techniczny. Kolejne wersje oznaczają nie tylko zmiany w kodzie, lecz także dojrzewanie zasad pracy z korpusami: od pierwszego ustanowienia tożsamości agentki i repozytorium, przez rozwój pipeline’ów keyword-based, aż po obecny model metadanych, audytu, rekonesansu źródeł i analizy wielokorpusowej.
+The version history is methodological rather than purely technical. Successive versions mark changes in research workflow, data-layer discipline, auditability, source acquisition policy, and the scope of reusable analytical pipelines.
 
 ---
 
-## Zasada wersjonowania
+## Versioning principle
 
-Andromeda używa lekkiego wersjonowania semantyczno-metodologicznego:
+Andromeda uses lightweight methodological versioning:
 
 ```text
-v0.x = wersje rozwojowe przed pełną stabilizacją metodologiczną
+v0.x = developmental versions before full methodological stabilization
 ```
 
-Numery wersji nie oznaczają jeszcze stabilnego API. Oznaczają raczej kolejne progi dojrzałości badawczej:
+Version numbers do not yet imply a stable public API. They indicate successive levels of research maturity, including:
 
-- nowe korpusy referencyjne,
-- nowe warstwy pipeline’u,
-- nowe reguły audytu,
-- nowe zasady etycznego pozyskiwania metadanych,
-- nowe rozróżnienia metodologiczne,
-- nowe standardy dokumentacji.
-
----
-
-## v0.1 — ustanowienie agentki i repozytorium
-
-**Status:** wersja inicjalna  
-**Główna funkcja:** powołanie Andromedy jako identyfikowalnego narzędzia wsparcia badawczego
-
-Wersja `v0.1` obejmowała powołanie Andromedy Nowickiej jako research support agent oraz utworzenie podstaw repozytorium. Na tym etapie kluczowe było zdefiniowanie tożsamości systemu jako narzędzia human-in-the-loop, a nie autonomicznego autora ani samodzielnego interpretatora naukowego.
-
-Najważniejsze elementy wersji:
-
-- utworzenie repozytorium projektu,
-- ustanowienie nazwy i tożsamości agentki: **Andromeda Nowicka**,
-- utworzenie identyfikatora DID,
-- określenie roli jako systemu wspierającego badania bibliometryczne i dyskursywne,
-- przyjęcie zasady, że interpretacja wyników pozostaje decyzją badacza,
-- rozpoczęcie dokumentowania relacji między agentką, kontrolerem i repozytorium.
-
-Wersja `v0.1` była przede wszystkim warstwą konstytutywną: definiowała, czym Andromeda jest, kto ją nadzoruje, do czego służy i w jakich granicach powinna być używana.
+- new reference corpora,
+- new pipeline layers,
+- new audit rules,
+- new ethical metadata-acquisition rules,
+- new methodological distinctions,
+- new documentation standards.
 
 ---
 
-## v0.2 — pipeline keyword-based z pracy nad korpusem „Psychoterapia”
+## v0.1 — agent and repository establishment
 
-**Status:** pierwsza wersja operacyjnego pipeline’u bibliometrycznego  
-**Korpus referencyjny:** „Psychoterapia”  
-**Główna funkcja:** budowa podstawowego workflow dla analizy słów kluczowych
+**Status:** initial version  
+**Primary function:** establishment of Andromeda as an identifiable research support agent
 
-Wersja `v0.2` wyłoniła się z pracy nad korpusem czasopisma „Psychoterapia”. Był to pierwszy duży etap, w którym Andromeda przeszła od ogólnej tożsamości badawczej do konkretnego, powtarzalnego pipeline’u analitycznego.
+Version `v0.1` established Andromeda Nowicka as a research support agent and created the basic repository identity.
 
-Najważniejsze elementy wersji:
+The key methodological decision was to define Andromeda as a **human-in-the-loop research support system**, not as an autonomous author or independent scientific interpreter.
 
-- pozyskiwanie i porządkowanie metadanych artykułów,
-- utworzenie formatu `keyword-long`,
-- QA rekordów artykułów i słów kluczowych,
-- deduplikacja rekordów,
-- techniczna normalizacja słów kluczowych,
-- pierwsze reguły semantycznego scalania pojęć,
-- polonizacja keywordów,
-- periodyzacja danych,
-- analizy trendów,
-- tabele top pojęć,
-- analiza tematów rosnących, malejących, emergentnych i trwałych,
-- pierwsze sieci współwystępowania pojęć.
+Main elements:
 
-Najważniejsza lekcja metodologiczna `v0.2` polegała na rozróżnieniu między surowym keywordem a pojęciem analitycznym. W tej wersji ukształtowała się zasada, że analiza słów kluczowych nie rekonstruuje pełnej treści artykułów, lecz mapuje ich samoopis autorsko-redakcyjny.
+- creation of the project repository;
+- establishment of the name and identity: **Andromeda Nowicka**;
+- creation of the DID identity layer;
+- definition of the role as a system supporting bibliometric and discourse-analysis research;
+- adoption of the principle that interpretation remains the responsibility of the human researcher;
+- initial documentation of the relation between the agent, controller, and repository.
+
+Version `v0.1` was primarily constitutive: it defined what Andromeda is, who supervises it, what it is for, and what its limits are.
 
 ---
 
-## v0.3 — rozwinięcie pipeline’u w pracy nad korpusem „Psychiatria Polska”
+## v0.2 — keyword-based pipeline after the “Psychoterapia” corpus
 
-**Status:** rozszerzona i bardziej audytowalna wersja pipeline’u keyword-based  
-**Korpus referencyjny:** „Psychiatria Polska”  
-**Główna funkcja:** stabilizacja procedur QA, normalizacji i analizy trendów w większym korpusie psychiatrycznym
+**Status:** first operational bibliometric pipeline  
+**Reference corpus:** *Psychoterapia*  
+**Primary function:** creation of the core workflow for keyword-based bibliometric analysis
 
-Wersja `v0.3` została rozwinięta w pracy nad korpusem „Psychiatria Polska”. W porównaniu z `v0.2` pipeline został przetestowany na innym typie czasopisma, o innym profilu klinicznym, językowym i tematycznym. Pozwoliło to odróżnić elementy specyficzne dla jednego korpusu od procedur nadających się do ponownego użycia.
+Version `v0.2` emerged from work on the journal *Psychoterapia*. It was the first major stage in which Andromeda moved from general research identity to a reproducible analytical workflow.
 
-Najważniejsze elementy wersji:
+Main elements:
 
-- mocniejsze procedury QA i kontroli kompletności,
-- dokładniejsze logowanie deduplikacji,
-- lepsze raportowanie artykułów bez keywordów,
-- rozwinięcie reguł technicznej normalizacji,
-- bardziej konsekwentne rozdzielenie warstw danych,
-- dopracowanie semantycznej agregacji pojęć,
-- rozwinięcie tabel trendów i udziałów procentowych,
-- mocniejsze podkreślenie, że trendy należy liczyć względem liczby artykułów w okresie,
-- lepsza dokumentacja ograniczeń keyword-based analysis,
-- bardziej ostrożny styl interpretacji wyników.
+- acquisition and organization of article metadata;
+- creation of a `keyword-long` format;
+- QA of article and keyword records;
+- record deduplication;
+- technical normalization of keywords;
+- initial semantic merging rules;
+- Polish-language concept normalization;
+- periodization;
+- trend analyses;
+- top-concept tables;
+- rising, falling, emergent, and persistent topic analyses;
+- initial co-occurrence networks.
 
-Wersja `v0.3` przyniosła ważne przesunięcie: Andromeda zaczęła działać nie tylko jako generator wyników, lecz jako system kontroli jakości i audytu decyzji transformacyjnych.
+The key methodological lesson of `v0.2` was the distinction between a raw keyword and an analytical concept. This version established the principle that keyword analysis maps author/editorial self-description rather than the full intellectual content of articles.
 
 ---
 
-## v0.4 — uogólniony pipeline po pracy nad „Archives of Psychiatry and Psychotherapy”
+## v0.3 — expanded keyword pipeline after the “Psychiatria Polska” corpus
 
-**Status:** aktualna baza metodologiczna  
-**Korpus referencyjny:** „Archives of Psychiatry and Psychotherapy”  
-**Główna funkcja:** uogólnienie pipeline’u, rozdzielenie reusable pipelines i applied corpora, wzmocnienie zasad metadata-first
+**Status:** extended and more auditable keyword-based pipeline  
+**Reference corpus:** *Psychiatria Polska*  
+**Primary function:** stabilization of QA, normalization, and trend-analysis procedures in a larger psychiatric corpus
 
-Wersja `v0.4` powstała po pracy nad korpusem „Archives of Psychiatry and Psychotherapy” i stanowi obecną bazę metodologiczną projektu. To wersja, na której opiera się aktualny rozwój `data_psychoanalytic_core`.
+Version `v0.3` developed the pipeline through work on the *Psychiatria Polska* corpus.
 
-Najważniejsze elementy wersji:
+Compared with `v0.2`, the pipeline was tested on a different type of journal, with a different clinical, linguistic, and thematic profile. This made it possible to distinguish corpus-specific procedures from reusable workflow elements.
 
-- wyraźne rozdzielenie reusable analytical pipelines od applied journal corpora,
-- ujęcie katalogów korpusowych jako audytowalnych research workspaces,
-- wprowadzenie silniejszej zasady warstw danych:
+Main elements:
+
+- stronger QA and completeness checks;
+- more detailed deduplication logging;
+- better reporting of articles without keywords;
+- more consistent separation of data layers;
+- improved technical normalization;
+- more systematic semantic aggregation;
+- more developed trend tables and percentage-based period comparisons;
+- stronger documentation of the limits of keyword-based analysis;
+- more cautious interpretive style.
+
+Version `v0.3` shifted Andromeda from being primarily a result generator toward becoming a quality-control and audit system for transformation decisions.
+
+---
+
+## v0.4 — generalized metadata-first governance after “Archives of Psychiatry and Psychotherapy”
+
+**Status:** previous methodological base  
+**Reference corpus:** *Archives of Psychiatry and Psychotherapy*  
+**Primary function:** generalization of the pipeline, separation of reusable pipelines and applied corpora, and stronger metadata-first governance
+
+Version `v0.4` was developed after work on the *Archives of Psychiatry and Psychotherapy* corpus.
+
+Main elements:
+
+- clear distinction between reusable analytical pipelines and applied journal corpora;
+- treatment of corpus directories as auditable research workspaces;
+- stronger layered data model:
 
 ```text
 raw data
@@ -122,31 +125,50 @@ raw data
 → interpretation
 ```
 
-- doprecyzowanie zasady **metadata-first**,
-- domyślne unikanie PDF mirroringu,
-- ostrożniejsze reguły scrapingu i identyfikacji crawlera,
-- standard dokumentowania transformacji,
-- obowiązek zachowywania plików kontrolnych i logów,
-- konserwatywne podejście do interpretacji,
-- rozróżnienie między keyword-based i title-based discourse mapping,
-- przygotowanie podstaw do pracy na korpusach międzynarodowych i wieloczasopismowych.
+- explicit **metadata-first** principle;
+- no-PDF-mirroring default;
+- more careful scraping and crawler-identification rules;
+- standard transformation documentation;
+- obligation to preserve quality-control files and logs;
+- conservative interpretation rules;
+- distinction between keyword-based and title-based discourse mapping;
+- preparation for international and multi-journal corpora.
 
-Wersja `v0.4` przesuwa Andromedę z poziomu pojedynczych projektów keywordowych w stronę pełniejszego ekosystemu narzędzi: pipeline’ów, korpusów, dokumentacji, reguł etycznych i spójnego stylu raportowania.
+Version `v0.4` moved Andromeda from single-project keyword workflows toward a broader ecosystem of pipelines, corpora, documentation, ethical rules, and consistent reporting style.
 
 ---
 
-## v0.5 — planowana wersja po rekonesansie `psychoanalytic_core`
+## v0.5 — title-and-abstract discourse mapping after the PEP-Web / psychoanalytic core project
 
-**Status:** planowana / robocza  
-**Korpus referencyjny:** `data_psychoanalytic_core`  
-**Główna funkcja:** obsługa wieloczasopismowego korpusu psychoanalitycznego opartego głównie na tytułach i abstraktach
+**Status:** current version  
+**Reference project:** PEP-Web / `data_psychoanalytic_core`  
+**Primary function:** formalization of reusable title-and-abstract discourse mapping for historically deep, multi-source psychoanalytic corpora
 
-Wersja `v0.5` może zostać wydzielona po zakończeniu etapu rekonesansu i przygotowaniu stabilnego pipeline’u dla `data_psychoanalytic_core`.
+Version `v0.5` promotes the previously planned psychoanalytic-core work into the current methodological baseline. It follows source reconnaissance and manuscript-oriented analysis of core psychoanalytic journals using titles and abstracts as the main metadata layer.
 
-Prawdopodobne elementy wersji:
+The central methodological shift is the move from keyword-first and title-only mapping toward **title-and-abstract discourse analysis**. In this model, keywords may remain useful, but they are treated as optional and historically uneven. Titles and abstracts become the principal analyzable metadata layer when they are more consistently available and methodologically better aligned with the research question.
 
-- obsługa wieloczasopismowego korpusu psychoanalitycznego,
-- praca na pięciu źródłach PEP-Web:
+Main elements:
+
+- introduction of `andromeda_titles_plus_abstracts_pipeline/` as a reusable pipeline;
+- support for corpora where abstracts are the main enrichment layer beyond titles;
+- multi-source source reconnaissance before full acquisition;
+- explicit treatment of PEP-Web-style source identifiers and journal keys;
+- `ART-only` analytical filtering where article type is a documented marker of substantive original articles;
+- preservation of non-ART records in raw and audit layers;
+- clear distinction between:
+  - keyword-based self-description,
+  - title-based public-facing discourse,
+  - title-and-abstract metadata discourse;
+- support for historically uneven metadata, especially missing or non-comparable keywords;
+- conservative abstract-based semantic normalization and concept mapping;
+- periodized analysis across long time spans;
+- journal-level and period-level comparison;
+- co-presence and co-occurrence analysis based on extracted concepts;
+- continued no-PDF-mirroring and metadata-first acquisition rules;
+- explicit warning that abstract analysis is richer than title analysis but still not equivalent to full-text interpretation.
+
+Reference PEP-Web journal set used during methodological development:
 
 ```text
 The International Journal of Psychoanalysis
@@ -156,7 +178,7 @@ Psychoanalytic Psychology
 Psychoanalytic Psychotherapy
 ```
 
-- potwierdzenie prefiksów PEP:
+Reference PEP-style short identifiers handled during development:
 
 ```text
 IJP
@@ -166,92 +188,62 @@ PPSY
 PPTX
 ```
 
-- rozwinięcie pipeline’u source reconnaissance,
-- standaryzacja próbkowania źródeł przed pełnym harvestingiem,
-- reguła głównego korpusu `ART-only`,
-- traktowanie `article_type == "ART"` jako operacyjnego markera original substantive articles / original papers,
-- zachowanie non-ART w warstwach raw/audit,
-- rozpoznanie, że dla historycznego korpusu psychoanalitycznego główną osią jest title/abstract-based analysis,
-- potraktowanie keywordów jako nowoczesnej, nierównej historycznie warstwy pomocniczej,
-- przygotowanie pipeline’u do analizy abstraktów, a nie tylko keywordów.
-
-Najważniejszą zmianą metodologiczną `v0.5` byłoby przejście od klasycznego keyword-first corpus do modelu, w którym główny materiał analityczny stanowią tytuły i abstrakty, a keywordy są wykorzystywane selektywnie i z wyraźnym opisem braków historycznych.
+The key methodological lesson of `v0.5` is that long-range psychoanalytic discourse can be analyzed through titles and abstracts in a reproducible way, but only if the pipeline preserves source-layer uncertainty, article-type filtering decisions, abstract availability limits, and human audit of semantic mappings.
 
 ---
 
-## v0.6 — możliwa większa aktualizacja po pełnym opracowaniu `psychoanalytic_core`
+## Possible v0.6 — full comparative multi-journal discourse-analysis stabilization
 
-**Status:** możliwa wersja docelowa po zakończeniu pełnego korpusu psychoanalitycznego  
-**Korpus referencyjny:** pełny `psychoanalytic_core`  
-**Główna funkcja:** stabilizacja makropipeline’u wieloczasopismowego i porównawczego
+**Status:** possible future version  
+**Reference scope:** completed and generalized multi-journal corpora  
+**Primary function:** stabilization of a comparative macro-pipeline across several journals, metadata cultures, and historical periods
 
-Wersja `v0.6` może być uzasadniona, jeżeli po rekonesansie `psychoanalytic_core` powstanie pełny, działający pipeline dla wieloczasopismowej analizy psychoanalitycznej. Byłaby to większa aktualizacja niż `v0.5`, ponieważ nie dotyczyłaby tylko rekonesansu źródeł, ale całego makroprzepływu: od pozyskania metadanych, przez filtr `ART-only`, po analizy porównawcze i interpretację historyczną.
+Version `v0.6` may be justified if Andromeda moves from the current title-and-abstract pipeline into a fully stabilized comparative multi-journal framework.
 
-Prawdopodobne elementy wersji:
+Possible elements:
 
-- pełny harvesting metadanych PEP-Web dla wybranych czasopism,
-- deduplikacja i QA na poziomie wieloczasopismowym,
-- jednolity model `article_id`, `journal_key`, `year`, `article_type`, `title`, `abstract_text`, `keywords`,
-- korpus główny `ART-only`,
-- osobny korpus raw/audit z wszystkimi typami rekordów,
-- title-based discourse mapping,
-- abstract-based semantic mapping,
-- opcjonalna warstwa keyword-based dla nowszych rekordów,
-- porównywalna periodyzacja między czasopismami,
-- analiza trendów po journalach i okresach,
-- analiza wspólnych oraz specyficznych osi dyskursu psychoanalitycznego,
-- metody porównywania czasopism o różnej długości historii i różnej kulturze metadanych,
-- dokumentacja ograniczeń wynikających z nierównej obecności DOI, keywordów i typów rekordów,
-- przygotowanie publikowalnych tabel i figur dla makroanalizy psychoanalytic core.
-
-Wersja `v0.6` mogłaby oznaczać przejście Andromedy od pipeline’u pojedynczego czasopisma do stabilnego modelu **comparative multi-journal discourse analysis**.
+- full reusable support for multi-journal comparative discourse analysis;
+- standardized journal-level normalization and weighting;
+- more mature handling of unequal journal histories;
+- cross-corpus comparison between psychotherapy, psychiatry, and psychoanalysis;
+- publication-ready comparative tables and figures;
+- stronger package-level test coverage;
+- stable command-line interfaces for the main reusable pipelines.
 
 ---
 
-## Relacja między wersjami
+## Relationship between versions
 
-Rozwój Andromedy można streścić następująco:
+The development of Andromeda can be summarized as follows:
 
 ```text
-v0.1
-tożsamość agentki, repozytorium, DID
-
-v0.2
-pierwszy keyword-based pipeline na korpusie „Psychoterapia”
-
-v0.3
-rozszerzony i bardziej audytowalny pipeline na korpusie „Psychiatria Polska”
-
-v0.4
-uogólniony, metadata-first pipeline po pracy nad „Archives of Psychiatry and Psychotherapy”
-
-v0.5
-planowany source reconnaissance i title/abstract-based pipeline dla psychoanalytic_core
-
-v0.6
-możliwy pełny multi-journal comparative pipeline po zakończeniu psychoanalytic_core
+v0.1  agent identity, repository, DID
+v0.2  first keyword-based pipeline on “Psychoterapia”
+v0.3  expanded and more auditable keyword pipeline on “Psychiatria Polska”
+v0.4  generalized metadata-first governance after “Archives of Psychiatry and Psychotherapy”
+v0.5  title-and-abstract discourse mapping after PEP-Web / psychoanalytic core
+v0.6  possible future comparative multi-journal macro-pipeline
 ```
 
 ---
 
-## Zasada interpretacyjna
+## Interpretive principle
 
-Każda wersja Andromedy powinna zachowywać podstawową zasadę projektu:
+Each version of Andromeda must preserve the basic principle of the project:
 
-> Andromeda Nowicka wspiera przygotowanie danych, audyt, normalizację, analizę i dokumentację, ale nie zastępuje eksperckiej interpretacji naukowej.
+> Andromeda Nowicka supports data preparation, audit, normalization, analysis, and documentation, but does not replace expert scholarly interpretation.
 
-Wyniki generowane przez pipeline powinny być traktowane jako uporządkowane, audytowalne wsparcie dla badacza. Decyzje interpretacyjne, dobór ram teoretycznych i końcowe wnioski pozostają częścią human-in-the-loop research process.
+Results generated by the pipeline should be treated as structured, auditable support for the researcher. Interpretive decisions, theoretical framing, and final conclusions remain part of the human-in-the-loop research process.
 
 ---
 
-## Proponowana polityka aktualizacji
+## Recommended update policy
 
-Dla przyszłych wersji zaleca się, aby każda aktualizacja wersji zawierała:
+Future version updates should include:
 
-1. krótki opis celu wersji,
-2. wskazanie korpusu lub pipeline’u referencyjnego,
-3. listę głównych zmian metodologicznych,
-4. listę głównych zmian technicznych,
-5. opis nowych ograniczeń lub ryzyk,
-6. rekomendację, jak cytować lub opisywać daną wersję w pracach naukowych.
-
+1. a short description of the purpose of the version;
+2. the reference corpus, pipeline, or project;
+3. the main methodological changes;
+4. the main technical changes;
+5. new limitations or risks;
+6. recommended wording for acknowledgment or methods description.
