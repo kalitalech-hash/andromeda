@@ -1,0 +1,23 @@
+{
+  "corpus_id": "pepweb_titles_abstracts_private_working_export",
+  "source_note": "PEP-Web-style metadata export. Do not commit restricted abstracts or full text to public repo.",
+  "required_columns": [
+    "article_id",
+    "title",
+    "year"
+  ],
+  "recommended_columns": [
+    "journal",
+    "authors",
+    "title",
+    "abstract",
+    "year",
+    "volume",
+    "issue",
+    "doi",
+    "publication_type",
+    "source_collection",
+    "rights_note"
+  ],
+  "public_repository_rule": "Commit code, logs, aggregate tables, semantic maps, and derived features only. Keep restricted source metadata/text out of public repository unless explicitly permitted."
+}
