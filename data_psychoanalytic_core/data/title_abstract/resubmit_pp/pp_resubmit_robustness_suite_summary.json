@@ -1,0 +1,18 @@
+{
+  "created_at_utc": "2026-06-10T20:51:15.486228+00:00",
+  "status": "ok",
+  "scripts": [
+    {
+      "script": "6a_resubmit_pp_pd_exclusion_sensitivity.py",
+      "returncode": 0
+    },
+    {
+      "script": "6b_resubmit_pp_historical_threshold_relational.py",
+      "returncode": 0
+    },
+    {
+      "script": "6c_resubmit_pp_journal_period_composition.py",
+      "returncode": 0
+    }
+  ]
+}

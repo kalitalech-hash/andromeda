@@ -1,0 +1,12 @@
+{
+  "script": "6a_resubmit_pp_pd_exclusion_sensitivity.py",
+  "created_at_utc": "2026-06-10T20:51:09.628037+00:00",
+  "input": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\semantic_refined\\psychoanalytic_core_semantic_family_by_journal_period_refined.csv",
+  "outputs": {
+    "family_coverage": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\resubmit_pp\\pd_exclusion_sensitivity\\pp_resubmit_R1_family_coverage_by_period_full_vs_no_PD.csv",
+    "indices": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\resubmit_pp\\pd_exclusion_sensitivity\\pp_resubmit_R1_indices_by_period_full_vs_no_PD.csv",
+    "changes": "C:\\Users\\lkali\\Documents\\GitHub\\andromeda\\data_psychoanalytic_core\\data\\title_abstract\\resubmit_pp\\pd_exclusion_sensitivity\\pp_resubmit_R1_first_last_changes_full_vs_no_PD.csv"
+  },
+  "interpretive_use": "Use this table to show whether the main directions persist when Psychoanalytic Dialogues is excluded, and to report post-1990-only sensitivity.",
+  "caution": "This is a composition sensitivity analysis, not a causal decomposition of journal effects."
+}
