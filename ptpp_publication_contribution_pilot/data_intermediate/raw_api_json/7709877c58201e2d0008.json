@@ -1,0 +1,1065 @@
+{
+  "id": "https://openalex.org/W2898510026",
+  "doi": "https://doi.org/10.1088/1742-6596/1101/1/012048",
+  "title": "Turbulence Behind 3D Multi-Scale Sparse Grids",
+  "display_name": "Turbulence Behind 3D Multi-Scale Sparse Grids",
+  "publication_year": 2018,
+  "publication_date": "2018-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2898510026",
+    "doi": "https://doi.org/10.1088/1742-6596/1101/1/012048",
+    "mag": "2898510026"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1088/1742-6596/1101/1/012048",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1742-6596/1101/1/012048",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1101/1/012048/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210187594",
+      "display_name": "Journal of Physics Conference Series",
+      "issn_l": "1742-6588",
+      "issn": [
+        "1742-6588",
+        "1742-6596"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Physics: Conference Series",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1101/1/012048/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5061352075",
+        "display_name": "Syed Muhammad Usama",
+        "orcid": "https://orcid.org/0000-0002-8181-4369"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134085113",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134085113"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Syed M. Usama",
+      "raw_affiliation_strings": [
+        "Department of Mathematics & Statistics, King Fahd University of Petroleum and Minerals, P.O. Box 5046, Dhahran 31261, Saudi Arabia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mathematics & Statistics, King Fahd University of Petroleum and Minerals, P.O. Box 5046, Dhahran 31261, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I134085113"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089512239",
+        "display_name": "Jackson David Tellez Alvarez",
+        "orcid": "https://orcid.org/0000-0003-1428-9872"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I9617848",
+          "display_name": "Universitat Politècnica de Catalunya",
+          "ror": "https://ror.org/03mb6wj31",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I9617848"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jackson Tellez-Alvarez",
+      "raw_affiliation_strings": [
+        "Department of Physics, Technical University of Catalonia, BarcelonaTech., Barcelona 08034, Spain"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Physics, Technical University of Catalonia, BarcelonaTech., Barcelona 08034, Spain",
+          "institution_ids": [
+            "https://openalex.org/I9617848"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112591624",
+        "display_name": "Jacek M. Kopeć",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Kopec",
+      "raw_affiliation_strings": [
+        "Interdisciplinary Centre for Mathematical and Computational Modelling, Faculty of Physics, University of Warsaw ul., Prosta 6900-838, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Interdisciplinary Centre for Mathematical and Computational Modelling, Faculty of Physics, University of Warsaw ul., Prosta 6900-838, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054636989",
+        "display_name": "Kamil Kwiatkowski",
+        "orcid": "https://orcid.org/0000-0002-7600-1208"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kamil Kwiatkowski",
+      "raw_affiliation_strings": [
+        "Interdisciplinary Centre for Mathematical and Computational Modelling, Faculty of Physics, University of Warsaw ul., Prosta 6900-838, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Interdisciplinary Centre for Mathematical and Computational Modelling, Faculty of Physics, University of Warsaw ul., Prosta 6900-838, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103824090",
+        "display_name": "Jose-Manuel Redondo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I9617848",
+          "display_name": "Universitat Politècnica de Catalunya",
+          "ror": "https://ror.org/03mb6wj31",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I9617848"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jose-Manuel Redondo",
+      "raw_affiliation_strings": [
+        "Department of Physics, Technical University of Catalonia, BarcelonaTech., Barcelona 08034, Spain"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Physics, Technical University of Catalonia, BarcelonaTech., Barcelona 08034, Spain",
+          "institution_ids": [
+            "https://openalex.org/I9617848"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5031290720",
+        "display_name": "Nadeem A. Malik",
+        "orcid": "https://orcid.org/0000-0001-5053-9360"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134085113",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134085113"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Nadeem A. Malik",
+      "raw_affiliation_strings": [
+        "Department of Mathematics & Statistics, King Fahd University of Petroleum and Minerals, P.O. Box 5046, Dhahran 31261, Saudi Arabia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mathematics & Statistics, King Fahd University of Petroleum and Minerals, P.O. Box 5046, Dhahran 31261, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I134085113"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5031290720"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I134085113"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.4163,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.61418407,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "1101",
+    "issue": null,
+    "first_page": "012048",
+    "last_page": "012048"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10360",
+    "display_name": "Fluid Dynamics and Turbulent Flows",
+    "score": 0.9993000030517578,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10360",
+      "display_name": "Fluid Dynamics and Turbulent Flows",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10481",
+      "display_name": "Computer Graphics and Visualization Techniques",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1704",
+        "display_name": "Computer Graphics and Computer-Aided Design"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10466",
+      "display_name": "Meteorological Phenomena and Simulations",
+      "score": 0.9757000207901001,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/turbulence",
+      "display_name": "Turbulence",
+      "score": 0.8290241360664368
+    },
+    {
+      "id": "https://openalex.org/keywords/grid",
+      "display_name": "Grid",
+      "score": 0.7411584258079529
+    },
+    {
+      "id": "https://openalex.org/keywords/scale",
+      "display_name": "Scale (ratio)",
+      "score": 0.5855518579483032
+    },
+    {
+      "id": "https://openalex.org/keywords/fractal",
+      "display_name": "Fractal",
+      "score": 0.559260904788971
+    },
+    {
+      "id": "https://openalex.org/keywords/frame",
+      "display_name": "Frame (networking)",
+      "score": 0.47733551263809204
+    },
+    {
+      "id": "https://openalex.org/keywords/space",
+      "display_name": "Space (punctuation)",
+      "score": 0.45802128314971924
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.45286625623703003
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-science",
+      "display_name": "Computational science",
+      "score": 0.4472530484199524
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.4460495412349701
+    },
+    {
+      "id": "https://openalex.org/keywords/grid-cell",
+      "display_name": "Grid cell",
+      "score": 0.44177648425102234
+    },
+    {
+      "id": "https://openalex.org/keywords/generator",
+      "display_name": "Generator (circuit theory)",
+      "score": 0.41257500648498535
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.3513295650482178
+    },
+    {
+      "id": "https://openalex.org/keywords/geometry",
+      "display_name": "Geometry",
+      "score": 0.30894285440444946
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.26249200105667114
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanics",
+      "display_name": "Mechanics",
+      "score": 0.23036503791809082
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-analysis",
+      "display_name": "Mathematical analysis",
+      "score": 0.1915963590145111
+    },
+    {
+      "id": "https://openalex.org/keywords/power",
+      "display_name": "Power (physics)",
+      "score": 0.1604081690311432
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C196558001",
+      "wikidata": "https://www.wikidata.org/wiki/Q190132",
+      "display_name": "Turbulence",
+      "level": 2,
+      "score": 0.8290241360664368
+    },
+    {
+      "id": "https://openalex.org/C187691185",
+      "wikidata": "https://www.wikidata.org/wiki/Q2020720",
+      "display_name": "Grid",
+      "level": 2,
+      "score": 0.7411584258079529
+    },
+    {
+      "id": "https://openalex.org/C2778755073",
+      "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+      "display_name": "Scale (ratio)",
+      "level": 2,
+      "score": 0.5855518579483032
+    },
+    {
+      "id": "https://openalex.org/C40636538",
+      "wikidata": "https://www.wikidata.org/wiki/Q81392",
+      "display_name": "Fractal",
+      "level": 2,
+      "score": 0.559260904788971
+    },
+    {
+      "id": "https://openalex.org/C126042441",
+      "wikidata": "https://www.wikidata.org/wiki/Q1324888",
+      "display_name": "Frame (networking)",
+      "level": 2,
+      "score": 0.47733551263809204
+    },
+    {
+      "id": "https://openalex.org/C2778572836",
+      "wikidata": "https://www.wikidata.org/wiki/Q380933",
+      "display_name": "Space (punctuation)",
+      "level": 2,
+      "score": 0.45802128314971924
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.45286625623703003
+    },
+    {
+      "id": "https://openalex.org/C459310",
+      "wikidata": "https://www.wikidata.org/wiki/Q117801",
+      "display_name": "Computational science",
+      "level": 1,
+      "score": 0.4472530484199524
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.4460495412349701
+    },
+    {
+      "id": "https://openalex.org/C2983008078",
+      "wikidata": "https://www.wikidata.org/wiki/Q863495",
+      "display_name": "Grid cell",
+      "level": 3,
+      "score": 0.44177648425102234
+    },
+    {
+      "id": "https://openalex.org/C2780992000",
+      "wikidata": "https://www.wikidata.org/wiki/Q17016113",
+      "display_name": "Generator (circuit theory)",
+      "level": 3,
+      "score": 0.41257500648498535
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.3513295650482178
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.30894285440444946
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.26249200105667114
+    },
+    {
+      "id": "https://openalex.org/C57879066",
+      "wikidata": "https://www.wikidata.org/wiki/Q41217",
+      "display_name": "Mechanics",
+      "level": 1,
+      "score": 0.23036503791809082
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.1915963590145111
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.1604081690311432
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1088/1742-6596/1101/1/012048",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1088/1742-6596/1101/1/012048",
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1101/1/012048/pdf",
+      "source": {
+        "id": "https://openalex.org/S4210187594",
+        "display_name": "Journal of Physics Conference Series",
+        "issn_l": "1742-6588",
+        "issn": [
+          "1742-6588",
+          "1742-6596"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320083",
+        "host_organization_name": "IOP Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320083",
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "IOP Publishing",
+          "Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Physics: Conference Series",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:upcommons.upc.edu:2117/125926",
+      "is_oa": true,
+      "landing_page_url": "https://www.researchgate.net/publication/328471618_Turbulence_Behind_3D_Multi-Scale_Sparse_Grids",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196262",
+        "display_name": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I9617848",
+        "host_organization_name": "Universitat Politècnica de Catalunya",
+        "host_organization_lineage": [
+          "https://openalex.org/I9617848"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Conference report"
+    },
+    {
+      "id": "pmh:oai:recercat.cat:2072/338188",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/2117/125926",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402147",
+        "display_name": "RECERCAT (Consorci de Serveis Universitaris de Catalunya)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210090028",
+        "host_organization_name": "Consorci de Serveis Universitaris de Catalunya",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210090028"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1088/1742-6596/1101/1/012048",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1742-6596/1101/1/012048",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1101/1/012048/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210187594",
+      "display_name": "Journal of Physics Conference Series",
+      "issn_l": "1742-6588",
+      "issn": [
+        "1742-6588",
+        "1742-6596"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Physics: Conference Series",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2898510026.pdf"
+  },
+  "referenced_works_count": 1,
+  "referenced_works": [
+    "https://openalex.org/W2130808508"
+  ],
+  "related_works": [
+    "https://openalex.org/W2013332237",
+    "https://openalex.org/W2295517574",
+    "https://openalex.org/W2380221404",
+    "https://openalex.org/W2373248682",
+    "https://openalex.org/W1522259561",
+    "https://openalex.org/W1527746113",
+    "https://openalex.org/W2225738837",
+    "https://openalex.org/W944314213",
+    "https://openalex.org/W2156263007",
+    "https://openalex.org/W2374526635"
+  ],
+  "abstract_inverted_index": {
+    "A": [
+      0
+    ],
+    "fundamentally": [
+      1
+    ],
+    "new": [
+      2
+    ],
+    "idea": [
+      3
+    ],
+    "in": [
+      4,
+      84
+    ],
+    "grid": [
+      5
+    ],
+    "generated": [
+      6,
+      100
+    ],
+    "turbulence": [
+      7,
+      64,
+      98
+    ],
+    "is": [
+      8
+    ],
+    "the": [
+      9,
+      33,
+      39,
+      63,
+      68,
+      97
+    ],
+    "3D": [
+      10,
+      19
+    ],
+    "Sparse": [
+      11,
+      18
+    ],
+    "Grid": [
+      12,
+      21
+    ],
+    "(3DS)": [
+      13
+    ],
+    "concept": [
+      14
+    ],
+    "[N.": [
+      15
+    ],
+    "A.": [
+      16
+    ],
+    "Malik.": [
+      17
+    ],
+    "Multi-Scale": [
+      20
+    ],
+    "Turbulence": [
+      22
+    ],
+    "Generator.": [
+      23
+    ],
+    "US": [
+      24,
+      27
+    ],
+    "Patent": [
+      25
+    ],
+    "No.": [
+      26
+    ],
+    "9,599,269": [
+      28
+    ],
+    "B2": [
+      29
+    ],
+    "(2017)]": [
+      30
+    ],
+    "which": [
+      31,
+      57
+    ],
+    "reduces": [
+      32
+    ],
+    "effective": [
+      34
+    ],
+    "blockage": [
+      35,
+      81
+    ],
+    "ratio": [
+      36,
+      82
+    ],
+    "compared": [
+      37,
+      66
+    ],
+    "to": [
+      38,
+      67
+    ],
+    "2D": [
+      40,
+      69
+    ],
+    "flat": [
+      41
+    ],
+    "fractal": [
+      42,
+      70
+    ],
+    "grids,": [
+      43
+    ],
+    "s": [
+      44,
+      47
+    ],
+    "3DS": [
+      45,
+      87,
+      102
+    ],
+    "Lt": [
+      46
+    ],
+    "2DF": [
+      48,
+      107
+    ],
+    ",": [
+      49
+    ],
+    "and": [
+      50,
+      89,
+      106
+    ],
+    "possess": [
+      51
+    ],
+    "a": [
+      52,
+      85
+    ],
+    "much": [
+      53
+    ],
+    "greater": [
+      54
+    ],
+    "parameter": [
+      55
+    ],
+    "space": [
+      56
+    ],
+    "could": [
+      58
+    ],
+    "allow": [
+      59
+    ],
+    "further": [
+      60
+    ],
+    "optimization": [
+      61
+    ],
+    "of": [
+      62
+    ],
+    "as": [
+      65
+    ],
+    "(2DF)": [
+      71
+    ],
+    "grids.": [
+      72
+    ],
+    "Here,": [
+      73
+    ],
+    "we": [
+      74
+    ],
+    "report": [
+      75
+    ],
+    "on": [
+      76
+    ],
+    "some": [
+      77,
+      90
+    ],
+    "theoretical": [
+      78
+    ],
+    "results": [
+      79,
+      91
+    ],
+    "regarding": [
+      80
+    ],
+    "reduction": [
+      83
+    ],
+    "3-frame": [
+      86
+    ],
+    "system,": [
+      88
+    ],
+    "from": [
+      92
+    ],
+    "Direct": [
+      93
+    ],
+    "Numerical": [
+      94
+    ],
+    "Simulations": [
+      95
+    ],
+    "comparing": [
+      96
+    ],
+    "characteristics": [
+      99
+    ],
+    "by": [
+      101
+    ],
+    "with": [
+      103
+    ],
+    "Regular": [
+      104
+    ],
+    "(RG)": [
+      105
+    ],
+    "grids": [
+      108
+    ],
+    "cases.": [
+      109
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-22T06:13:13.366637",
+  "created_date": "2025-10-10T00:00:00"
+}

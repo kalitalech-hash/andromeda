@@ -1,0 +1,849 @@
+{
+  "id": "https://openalex.org/W4286235949",
+  "doi": "https://doi.org/10.48550/arxiv.2207.07700",
+  "title": "Introducing Federated Learning into Internet of Things ecosystems -- preliminary considerations",
+  "display_name": "Introducing Federated Learning into Internet of Things ecosystems -- preliminary considerations",
+  "publication_year": 2022,
+  "publication_date": "2022-07-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4286235949",
+    "doi": "https://doi.org/10.48550/arxiv.2207.07700"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2207.07700",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2207.07700",
+    "pdf_url": "https://arxiv.org/pdf/2207.07700",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": null
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2207.07700",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bogacka, Karolina",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077749913",
+        "display_name": "Katarzyna Wasielewska-Michniewska",
+        "orcid": "https://orcid.org/0000-0002-3763-2373"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wasielewska-Michniewska, Katarzyna",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053781299",
+        "display_name": "Marcin Paprzycki",
+        "orcid": "https://orcid.org/0000-0002-8069-2152"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Paprzycki, Marcin",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017025137",
+        "display_name": "Maria Ganzha",
+        "orcid": "https://orcid.org/0000-0001-7714-4844"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ganzha, Maria",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088868361",
+        "display_name": "Anastasiya Danilenka",
+        "orcid": "https://orcid.org/0000-0002-3080-0303"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Danilenka, Anastasiya",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067284175",
+        "display_name": "Lambis Tassakos",
+        "orcid": "https://orcid.org/0000-0003-2511-9035"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tassakos, Lambis",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023233897",
+        "display_name": "Eduardo Garro",
+        "orcid": "https://orcid.org/0000-0002-8160-0125"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Garro, Eduardo",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10764",
+    "display_name": "Privacy-Preserving Technologies in Data",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10764",
+      "display_name": "Privacy-Preserving Technologies in Data",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "score": 0.9757999777793884,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11612",
+      "display_name": "Stochastic Gradient Optimization Techniques",
+      "score": 0.9750999808311462,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7990620136260986
+    },
+    {
+      "id": "https://openalex.org/keywords/adaptation",
+      "display_name": "Adaptation (eye)",
+      "score": 0.7828431129455566
+    },
+    {
+      "id": "https://openalex.org/keywords/federated-learning",
+      "display_name": "Federated learning",
+      "score": 0.6854192018508911
+    },
+    {
+      "id": "https://openalex.org/keywords/architecture",
+      "display_name": "Architecture",
+      "score": 0.6470264792442322
+    },
+    {
+      "id": "https://openalex.org/keywords/the-internet",
+      "display_name": "The Internet",
+      "score": 0.5861298441886902
+    },
+    {
+      "id": "https://openalex.org/keywords/internet-of-things",
+      "display_name": "Internet of Things",
+      "score": 0.5831354260444641
+    },
+    {
+      "id": "https://openalex.org/keywords/core",
+      "display_name": "Core (optical fiber)",
+      "score": 0.5455737113952637
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.4134986698627472
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.3496183753013611
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.24020028114318848
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.10579264163970947
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7990620136260986
+    },
+    {
+      "id": "https://openalex.org/C139807058",
+      "wikidata": "https://www.wikidata.org/wiki/Q352374",
+      "display_name": "Adaptation (eye)",
+      "level": 2,
+      "score": 0.7828431129455566
+    },
+    {
+      "id": "https://openalex.org/C2992525071",
+      "wikidata": "https://www.wikidata.org/wiki/Q50818671",
+      "display_name": "Federated learning",
+      "level": 2,
+      "score": 0.6854192018508911
+    },
+    {
+      "id": "https://openalex.org/C123657996",
+      "wikidata": "https://www.wikidata.org/wiki/Q12271",
+      "display_name": "Architecture",
+      "level": 2,
+      "score": 0.6470264792442322
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.5861298441886902
+    },
+    {
+      "id": "https://openalex.org/C81860439",
+      "wikidata": "https://www.wikidata.org/wiki/Q251212",
+      "display_name": "Internet of Things",
+      "level": 2,
+      "score": 0.5831354260444641
+    },
+    {
+      "id": "https://openalex.org/C2164484",
+      "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+      "display_name": "Core (optical fiber)",
+      "level": 2,
+      "score": 0.5455737113952637
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.4134986698627472
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.3496183753013611
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.24020028114318848
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.10579264163970947
+    },
+    {
+      "id": "https://openalex.org/C153349607",
+      "wikidata": "https://www.wikidata.org/wiki/Q36649",
+      "display_name": "Visual arts",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2207.07700",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2207.07700",
+      "pdf_url": "https://arxiv.org/pdf/2207.07700",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": null
+    },
+    {
+      "id": "doi:10.48550/arxiv.2207.07700",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2207.07700",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2207.07700",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2207.07700",
+    "pdf_url": "https://arxiv.org/pdf/2207.07700",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": null
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "score": 0.6000000238418579,
+      "display_name": "Life in Land"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4286235949.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4286235949.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4298221930",
+    "https://openalex.org/W4245926026",
+    "https://openalex.org/W4311097251",
+    "https://openalex.org/W2586548817",
+    "https://openalex.org/W2777914285",
+    "https://openalex.org/W2625093826",
+    "https://openalex.org/W2950174689",
+    "https://openalex.org/W4200598720",
+    "https://openalex.org/W2921026492",
+    "https://openalex.org/W4247463117"
+  ],
+  "abstract_inverted_index": {
+    "Federated": [
+      0
+    ],
+    "learning": [
+      1,
+      47
+    ],
+    "(FL)": [
+      2
+    ],
+    "was": [
+      3
+    ],
+    "proposed": [
+      4
+    ],
+    "to": [
+      5,
+      39,
+      49,
+      77,
+      93
+    ],
+    "facilitate": [
+      6
+    ],
+    "the": [
+      7,
+      17,
+      32,
+      57,
+      101,
+      110
+    ],
+    "training": [
+      8
+    ],
+    "of": [
+      9,
+      19,
+      34,
+      45,
+      59,
+      84,
+      112
+    ],
+    "models": [
+      10
+    ],
+    "in": [
+      11,
+      69,
+      100
+    ],
+    "a": [
+      12,
+      70
+    ],
+    "distributed": [
+      13
+    ],
+    "environment.": [
+      14
+    ],
+    "It": [
+      15
+    ],
+    "supports": [
+      16
+    ],
+    "protection": [
+      18
+    ],
+    "(local)": [
+      20
+    ],
+    "data": [
+      21,
+      51,
+      61
+    ],
+    "privacy": [
+      22,
+      52
+    ],
+    "and": [
+      23,
+      114
+    ],
+    "uses": [
+      24
+    ],
+    "local": [
+      25
+    ],
+    "resources": [
+      26
+    ],
+    "for": [
+      27
+    ],
+    "model": [
+      28
+    ],
+    "training.": [
+      29
+    ],
+    "Until": [
+      30
+    ],
+    "now,": [
+      31
+    ],
+    "majority": [
+      33
+    ],
+    "research": [
+      35
+    ],
+    "has": [
+      36
+    ],
+    "been": [
+      37
+    ],
+    "devoted": [
+      38
+    ],
+    "\"core": [
+      40
+    ],
+    "issues\",": [
+      41
+    ],
+    "such": [
+      42
+    ],
+    "as": [
+      43
+    ],
+    "adaptation": [
+      44
+    ],
+    "machine": [
+      46
+    ],
+    "algorithms": [
+      48
+    ],
+    "FL,": [
+      50
+    ],
+    "protection,": [
+      53
+    ],
+    "or": [
+      54
+    ],
+    "dealing": [
+      55
+    ],
+    "with": [
+      56
+    ],
+    "effects": [
+      58
+    ],
+    "uneven": [
+      60
+    ],
+    "distribution": [
+      62
+    ],
+    "between": [
+      63
+    ],
+    "clients.": [
+      64
+    ],
+    "This": [
+      65
+    ],
+    "contribution": [
+      66
+    ],
+    "is": [
+      67,
+      76,
+      118
+    ],
+    "anchored": [
+      68
+    ],
+    "practical": [
+      71
+    ],
+    "use": [
+      72
+    ],
+    "case,": [
+      73
+    ],
+    "where": [
+      74
+    ],
+    "FL": [
+      75,
+      116
+    ],
+    "be": [
+      78,
+      94
+    ],
+    "actually": [
+      79
+    ],
+    "deployed": [
+      80
+    ],
+    "within": [
+      81
+    ],
+    "an": [
+      82,
+      106
+    ],
+    "Internet": [
+      83
+    ],
+    "Things": [
+      85
+    ],
+    "ecosystem.": [
+      86
+    ],
+    "Hence,": [
+      87
+    ],
+    "somewhat": [
+      88
+    ],
+    "different": [
+      89
+    ],
+    "issues": [
+      90
+    ],
+    "that": [
+      91,
+      108
+    ],
+    "need": [
+      92
+    ],
+    "considered,": [
+      95
+    ],
+    "beyond": [
+      96
+    ],
+    "popular": [
+      97
+    ],
+    "considerations": [
+      98
+    ],
+    "found": [
+      99
+    ],
+    "literature,": [
+      102
+    ],
+    "are": [
+      103
+    ],
+    "identified.": [
+      104
+    ],
+    "Moreover,": [
+      105
+    ],
+    "architecture": [
+      107
+    ],
+    "enables": [
+      109
+    ],
+    "building": [
+      111
+    ],
+    "flexible,": [
+      113
+    ],
+    "adaptable,": [
+      115
+    ],
+    "solutions": [
+      117
+    ],
+    "introduced.": [
+      119
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1245 @@
+{
+  "id": "https://openalex.org/W4385244095",
+  "doi": "https://doi.org/10.1051/e3sconf/202340401001",
+  "title": "Modeling of pollutant emissions from the turbine engine of the main propulsion of a vessel in operating conditions",
+  "display_name": "Modeling of pollutant emissions from the turbine engine of the main propulsion of a vessel in operating conditions",
+  "publication_year": 2023,
+  "publication_date": "2023-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4385244095",
+    "doi": "https://doi.org/10.1051/e3sconf/202340401001"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1051/e3sconf/202340401001",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.1051/e3sconf/202340401001",
+    "pdf_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/41/e3sconf_eepes2023_01001.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210186093",
+      "display_name": "E3S Web of Conferences",
+      "issn_l": "2267-1242",
+      "issn": [
+        "2267-1242",
+        "2555-0403"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310319748",
+      "host_organization_name": "EDP Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319748"
+      ],
+      "host_organization_lineage_names": [
+        "EDP Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "E3S Web of Conferences",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/41/e3sconf_eepes2023_01001.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5054567317",
+        "display_name": "P. Wirkowski",
+        "orcid": "https://orcid.org/0000-0003-2879-591X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799831209",
+          "display_name": "Polish Naval Academy",
+          "ror": "https://ror.org/0266t3a64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799831209"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pawel Wirkowski",
+      "raw_affiliation_strings": [
+        "Polish Naval Academy of the Heroes of Westerplatte, Faculty of Mechanical and Electrical Engineering, Smidowicza Street 69, 81-127 Gdynia, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Polish Naval Academy of the Heroes of Westerplatte, Faculty of Mechanical and Electrical Engineering, Smidowicza Street 69, 81-127 Gdynia, Poland",
+          "institution_ids": [
+            "https://openalex.org/I2799831209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081868380",
+        "display_name": "Jarosław Markowski",
+        "orcid": "https://orcid.org/0000-0001-9630-3724"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jaroslaw Markowski",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Faculty of Mechanical Engineering, Piotrowo 3, 60-965 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Faculty of Mechanical Engineering, Piotrowo 3, 60-965 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017520627",
+        "display_name": "Paweł Imilkowski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pawel Imilkowski",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Faculty of Mechanical Engineering, Piotrowo 3, 60-965 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Faculty of Mechanical Engineering, Piotrowo 3, 60-965 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001515167",
+        "display_name": "Iliya Iliev",
+        "orcid": "https://orcid.org/0000-0003-4443-5113"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I43986944",
+          "display_name": "Angel Kanchev University of Ruse",
+          "ror": "https://ror.org/01g09ef73",
+          "country_code": "BG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I43986944"
+          ]
+        }
+      ],
+      "countries": [
+        "BG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iliya Iliev",
+      "raw_affiliation_strings": [
+        "University of Ruse, Department of Heat, Hydraulics and Environmental Engineering, Studentska 8, 7004 Ruse, Bulgaria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Ruse, Department of Heat, Hydraulics and Environmental Engineering, Studentska 8, 7004 Ruse, Bulgaria",
+          "institution_ids": [
+            "https://openalex.org/I43986944"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062059799",
+        "display_name": "K. Jesionek",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Jesionek",
+      "raw_affiliation_strings": [
+        "Vitelon Collegium State University, Sejmowa 5A, 59-220 Legnica, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Vitelon Collegium State University, Sejmowa 5A, 59-220 Legnica, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061266979",
+        "display_name": "Janusz Badur",
+        "orcid": "https://orcid.org/0000-0001-7725-6926"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210132637",
+          "display_name": "Institute of Fluid Flow-Machinery",
+          "ror": "https://ror.org/04h3c2e31",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210132637",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Janusz Badur",
+      "raw_affiliation_strings": [
+        "Institute of Flow Machines of Robert Szewalski Polish Academy of Sciences, Fiszera 14, 80-231 Gdansk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Flow Machines of Robert Szewalski Polish Academy of Sciences, Fiszera 14, 80-231 Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210132637",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086535838",
+        "display_name": "Piotr Długiewicz",
+        "orcid": "https://orcid.org/0000-0002-9553-0690"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Dlugiewicz",
+      "raw_affiliation_strings": [
+        "Imagine Flying LLC, 116 Cypress Lagoon Ct, 32082 Ponte Vedra Beach, FL, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Imagine Flying LLC, 116 Cypress Lagoon Ct, 32082 Ponte Vedra Beach, FL, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029695586",
+        "display_name": "Jacek Ma̧dry",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Madry",
+      "raw_affiliation_strings": [
+        "SpinTechSystem Sp. z o.o. Dzialynskich 11, 63-000 Sroda Wielkopolska, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SpinTechSystem Sp. z o.o. Dzialynskich 11, 63-000 Sroda Wielkopolska, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088799712",
+        "display_name": "Grzegorz Wieczorkiewicz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Wieczorkiewicz",
+      "raw_affiliation_strings": [
+        "Lower Silesian Center of Modern Technologies Sp. z o.o. Walbrzyska 49/3, 52-314 Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lower Silesian Center of Modern Technologies Sp. z o.o. Walbrzyska 49/3, 52-314 Wroclaw, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5077791454",
+        "display_name": "Paweł Benedict",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pawel Benedict",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Faculty of Mechanical Engineering, Piotrowo 3, 60-965 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Faculty of Mechanical Engineering, Piotrowo 3, 60-965 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.1034,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.38353936,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "404",
+    "issue": null,
+    "first_page": "01001",
+    "last_page": "01001"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13858",
+    "display_name": "Technical Engine Diagnostics and Monitoring",
+    "score": 0.9984999895095825,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2203",
+      "display_name": "Automotive Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13858",
+      "display_name": "Technical Engine Diagnostics and Monitoring",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2203",
+        "display_name": "Automotive Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13990",
+      "display_name": "Engine and Fuel Emissions",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2203",
+        "display_name": "Automotive Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12095",
+      "display_name": "Vehicle emissions and performance",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2203",
+        "display_name": "Automotive Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/propulsion",
+      "display_name": "Propulsion",
+      "score": 0.8122344017028809
+    },
+    {
+      "id": "https://openalex.org/keywords/turbine",
+      "display_name": "Turbine",
+      "score": 0.6642170548439026
+    },
+    {
+      "id": "https://openalex.org/keywords/combustion",
+      "display_name": "Combustion",
+      "score": 0.609951913356781
+    },
+    {
+      "id": "https://openalex.org/keywords/pollutant",
+      "display_name": "Pollutant",
+      "score": 0.5974057912826538
+    },
+    {
+      "id": "https://openalex.org/keywords/gas-turbines",
+      "display_name": "Gas turbines",
+      "score": 0.4950100779533386
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.49024873971939087
+    },
+    {
+      "id": "https://openalex.org/keywords/automotive-engineering",
+      "display_name": "Automotive engineering",
+      "score": 0.47833821177482605
+    },
+    {
+      "id": "https://openalex.org/keywords/marine-propulsion",
+      "display_name": "Marine propulsion",
+      "score": 0.4204613268375397
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.38109293580055237
+    },
+    {
+      "id": "https://openalex.org/keywords/marine-engineering",
+      "display_name": "Marine engineering",
+      "score": 0.36757418513298035
+    },
+    {
+      "id": "https://openalex.org/keywords/aerospace-engineering",
+      "display_name": "Aerospace engineering",
+      "score": 0.22667080163955688
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.13853812217712402
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C1034443",
+      "wikidata": "https://www.wikidata.org/wiki/Q2583685",
+      "display_name": "Propulsion",
+      "level": 2,
+      "score": 0.8122344017028809
+    },
+    {
+      "id": "https://openalex.org/C2778449969",
+      "wikidata": "https://www.wikidata.org/wiki/Q130760",
+      "display_name": "Turbine",
+      "level": 2,
+      "score": 0.6642170548439026
+    },
+    {
+      "id": "https://openalex.org/C105923489",
+      "wikidata": "https://www.wikidata.org/wiki/Q133235",
+      "display_name": "Combustion",
+      "level": 2,
+      "score": 0.609951913356781
+    },
+    {
+      "id": "https://openalex.org/C82685317",
+      "wikidata": "https://www.wikidata.org/wiki/Q19829510",
+      "display_name": "Pollutant",
+      "level": 2,
+      "score": 0.5974057912826538
+    },
+    {
+      "id": "https://openalex.org/C2987684023",
+      "wikidata": "https://www.wikidata.org/wiki/Q193470",
+      "display_name": "Gas turbines",
+      "level": 2,
+      "score": 0.4950100779533386
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.49024873971939087
+    },
+    {
+      "id": "https://openalex.org/C171146098",
+      "wikidata": "https://www.wikidata.org/wiki/Q124192",
+      "display_name": "Automotive engineering",
+      "level": 1,
+      "score": 0.47833821177482605
+    },
+    {
+      "id": "https://openalex.org/C505695854",
+      "wikidata": "https://www.wikidata.org/wiki/Q11482290",
+      "display_name": "Marine propulsion",
+      "level": 3,
+      "score": 0.4204613268375397
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.38109293580055237
+    },
+    {
+      "id": "https://openalex.org/C199104240",
+      "wikidata": "https://www.wikidata.org/wiki/Q118291",
+      "display_name": "Marine engineering",
+      "level": 1,
+      "score": 0.36757418513298035
+    },
+    {
+      "id": "https://openalex.org/C146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "level": 1,
+      "score": 0.22667080163955688
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.13853812217712402
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1051/e3sconf/202340401001",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.1051/e3sconf/202340401001",
+      "pdf_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/41/e3sconf_eepes2023_01001.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210186093",
+        "display_name": "E3S Web of Conferences",
+        "issn_l": "2267-1242",
+        "issn": [
+          "2267-1242",
+          "2555-0403"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319748",
+        "host_organization_name": "EDP Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319748"
+        ],
+        "host_organization_lineage_names": [
+          "EDP Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "E3S Web of Conferences",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:edpsciences.org:dkey/10.1051/e3sconf/202340401001",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": "https://www.e3s-conferences.org/10.1051/e3sconf/202340401001/pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400744",
+        "display_name": "Springer Link (Chiba Institute of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I8488066",
+        "host_organization_name": "Chiba Institute of Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/I8488066"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "https://doi.org/10.1051/e3sconf/202340401001",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b96a0c14b49647cc9e165c3706c45253",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/b96a0c14b49647cc9e165c3706c45253",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "E3S Web of Conferences, Vol 404, p 01001 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1051/e3sconf/202340401001",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.1051/e3sconf/202340401001",
+    "pdf_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/41/e3sconf_eepes2023_01001.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210186093",
+      "display_name": "E3S Web of Conferences",
+      "issn_l": "2267-1242",
+      "issn": [
+        "2267-1242",
+        "2555-0403"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310319748",
+      "host_organization_name": "EDP Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319748"
+      ],
+      "host_organization_lineage_names": [
+        "EDP Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "E3S Web of Conferences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4385244095.pdf"
+  },
+  "referenced_works_count": 2,
+  "referenced_works": [
+    "https://openalex.org/W1536413661",
+    "https://openalex.org/W2738315439"
+  ],
+  "related_works": [
+    "https://openalex.org/W4307720037",
+    "https://openalex.org/W2889106326",
+    "https://openalex.org/W421511709",
+    "https://openalex.org/W3081652730",
+    "https://openalex.org/W2327216671",
+    "https://openalex.org/W2082704927",
+    "https://openalex.org/W2118960880",
+    "https://openalex.org/W2791627130",
+    "https://openalex.org/W575866331",
+    "https://openalex.org/W2153030399"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      15,
+      35
+    ],
+    "intensification": [
+      1
+    ],
+    "of": [
+      2,
+      17,
+      24,
+      41,
+      48,
+      75,
+      83,
+      88,
+      99,
+      106,
+      117,
+      139,
+      150,
+      159,
+      178,
+      180
+    ],
+    "environmental": [
+      3,
+      78
+    ],
+    "protection": [
+      4
+    ],
+    "measures": [
+      5
+    ],
+    "is": [
+      6,
+      31,
+      69,
+      144,
+      172
+    ],
+    "being": [
+      7,
+      32,
+      129
+    ],
+    "implemented": [
+      8
+    ],
+    "in": [
+      9,
+      28,
+      93,
+      154,
+      188,
+      195
+    ],
+    "all": [
+      10
+    ],
+    "economic": [
+      11
+    ],
+    "and": [
+      12,
+      45,
+      77,
+      120
+    ],
+    "industrial": [
+      13
+    ],
+    "activities.": [
+      14
+    ],
+    "goal": [
+      16
+    ],
+    "reducing": [
+      18
+    ],
+    "harmful": [
+      19,
+      42,
+      89
+    ],
+    "emissions": [
+      20,
+      134,
+      179
+    ],
+    "from": [
+      21,
+      136
+    ],
+    "various": [
+      22
+    ],
+    "types": [
+      23
+    ],
+    "combustion": [
+      25
+    ],
+    "engines": [
+      26,
+      63
+    ],
+    "used": [
+      27,
+      64
+    ],
+    "different": [
+      29
+    ],
+    "applications": [
+      30
+    ],
+    "pursued": [
+      33
+    ],
+    "dynamically.": [
+      34
+    ],
+    "introduced": [
+      36
+    ],
+    "changes": [
+      37
+    ],
+    "concern": [
+      38
+    ],
+    "the": [
+      39,
+      46,
+      81,
+      84,
+      97,
+      110,
+      115,
+      137,
+      147,
+      151,
+      176,
+      184
+    ],
+    "values": [
+      40,
+      91,
+      177
+    ],
+    "emission": [
+      43,
+      90,
+      148,
+      155
+    ],
+    "limits": [
+      44
+    ],
+    "methods": [
+      47,
+      127
+    ],
+    "measuring": [
+      49,
+      118
+    ],
+    "or": [
+      50
+    ],
+    "assessing": [
+      51
+    ],
+    "their": [
+      52,
+      107
+    ],
+    "emissions.": [
+      53
+    ],
+    "There": [
+      54
+    ],
+    "are": [
+      55,
+      128,
+      193
+    ],
+    "solutions": [
+      56
+    ],
+    "for": [
+      57,
+      72,
+      103
+    ],
+    "propulsion": [
+      58,
+      152,
+      185
+    ],
+    "systems,": [
+      59
+    ],
+    "such": [
+      60
+    ],
+    "as": [
+      61
+    ],
+    "turbine": [
+      62,
+      140
+    ],
+    "on": [
+      65,
+      109,
+      164
+    ],
+    "ships,": [
+      66
+    ],
+    "where": [
+      67
+    ],
+    "there": [
+      68
+    ],
+    "a": [
+      70
+    ],
+    "need": [
+      71
+    ],
+    "constant": [
+      73
+    ],
+    "monitoring": [
+      74
+    ],
+    "operational": [
+      76
+    ],
+    "parameters": [
+      79
+    ],
+    "during": [
+      80,
+      96,
+      183
+    ],
+    "operation": [
+      82,
+      98,
+      138,
+      187
+    ],
+    "vessels.": [
+      85
+    ],
+    "Continuous": [
+      86
+    ],
+    "measurement": [
+      87
+    ],
+    "contained": [
+      92
+    ],
+    "exhaust": [
+      94
+    ],
+    "gases": [
+      95
+    ],
+    "these": [
+      100
+    ],
+    "systems": [
+      101
+    ],
+    "allows": [
+      102
+    ],
+    "an": [
+      104
+    ],
+    "assessment": [
+      105
+    ],
+    "impact": [
+      108
+    ],
+    "environment.": [
+      111
+    ],
+    "However,": [
+      112
+    ],
+    "due": [
+      113
+    ],
+    "to": [
+      114,
+      131,
+      145,
+      174
+    ],
+    "costs": [
+      116
+    ],
+    "equipment": [
+      119
+    ],
+    "limitations": [
+      121
+    ],
+    "associated": [
+      122
+    ],
+    "with": [
+      123
+    ],
+    "its": [
+      124,
+      160
+    ],
+    "use,": [
+      125
+    ],
+    "alternative": [
+      126
+    ],
+    "sought": [
+      130
+    ],
+    "evaluate": [
+      132
+    ],
+    "pollution": [
+      133
+    ],
+    "resulting": [
+      135
+    ],
+    "engines.": [
+      141
+    ],
+    "One": [
+      142
+    ],
+    "possibility": [
+      143
+    ],
+    "assess": [
+      146
+    ],
+    "characteristics": [
+      149
+    ],
+    "system": [
+      153,
+      186
+    ],
+    "tests": [
+      156
+    ],
+    "under": [
+      157
+    ],
+    "conditions": [
+      158
+    ],
+    "actual": [
+      161,
+      189
+    ],
+    "operation.": [
+      162
+    ],
+    "Based": [
+      163
+    ],
+    "this,": [
+      165
+    ],
+    "by": [
+      166
+    ],
+    "introducing": [
+      167
+    ],
+    "basic": [
+      168
+    ],
+    "mathematical": [
+      169
+    ],
+    "tools,": [
+      170
+    ],
+    "it": [
+      171
+    ],
+    "possible": [
+      173
+    ],
+    "determine": [
+      175
+    ],
+    "individual": [
+      181
+    ],
+    "pollutants": [
+      182
+    ],
+    "conditions.": [
+      190
+    ],
+    "These": [
+      191
+    ],
+    "actions": [
+      192
+    ],
+    "presented": [
+      194
+    ],
+    "this": [
+      196
+    ],
+    "paper.": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

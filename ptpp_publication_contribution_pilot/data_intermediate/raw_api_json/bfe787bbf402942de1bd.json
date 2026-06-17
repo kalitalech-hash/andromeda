@@ -1,0 +1,842 @@
+{
+  "id": "https://openalex.org/W7155364510",
+  "doi": "https://doi.org/10.17632/9967g6425p.2",
+  "title": "Maitiku research data",
+  "display_name": "Maitiku research data",
+  "publication_year": 2026,
+  "publication_date": "2026-04-23",
+  "ids": {
+    "openalex": "https://openalex.org/W7155364510",
+    "doi": "https://doi.org/10.17632/9967g6425p.2"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.17632/9967g6425p.2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.17632/9967g6425p.2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S7407050775",
+      "display_name": "Mendeley Data",
+      "issn_l": null,
+      "issn": [],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "dataset"
+  },
+  "type": "dataset",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.17632/9967g6425p.2",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5066303403",
+        "display_name": "Rafał Kiełczewski",
+        "orcid": "https://orcid.org/0000-0003-4900-3846"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kiełczewski, Rafał",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003085854",
+        "display_name": "Krzysztof Pleskot",
+        "orcid": "https://orcid.org/0000-0002-3724-1700"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pleskot, Krzysztof",
+      "raw_affiliation_strings": [
+        "Uniwersytet im Adama Mickiewicza w Poznaniu"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3724-1700",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Uniwersytet im Adama Mickiewicza w Poznaniu",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040528335",
+        "display_name": "Mariusz Gałka",
+        "orcid": "https://orcid.org/0000-0001-8906-944X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34250744",
+          "display_name": "University of Łódź",
+          "ror": "https://ror.org/05cq64r17",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34250744"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gałka, Mariusz",
+      "raw_affiliation_strings": [
+        "Uniwersytet Lodzki"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8906-944X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Uniwersytet Lodzki",
+          "institution_ids": [
+            "https://openalex.org/I34250744"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082575336",
+        "display_name": "Magdalena Marzec",
+        "orcid": "https://orcid.org/0000-0002-8366-6099"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Marzec, Magdalena",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0002-8366-6099",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057841810",
+        "display_name": "Liene Auniņa",
+        "orcid": "https://orcid.org/0000-0002-3430-5668"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210096427",
+          "display_name": "Institut des Sciences Biologiques",
+          "ror": "https://ror.org/00rydyx93",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210096427"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aunina, Liene",
+      "raw_affiliation_strings": [
+        "LU Biologijas instituts"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3430-5668",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "LU Biologijas instituts",
+          "institution_ids": [
+            "https://openalex.org/I4210096427"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056920772",
+        "display_name": "Anna Cipriani",
+        "orcid": "https://orcid.org/0000-0001-8457-0147"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122346577",
+          "display_name": "University of Modena and Reggio Emilia",
+          "ror": "https://ror.org/02d4c4y02",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I122346577"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cipriani, Anna",
+      "raw_affiliation_strings": [
+        "Universita degli Studi di Modena e Reggio Emilia Dipartimento di Scienze Chimiche e Geologiche"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8457-0147",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universita degli Studi di Modena e Reggio Emilia Dipartimento di Scienze Chimiche e Geologiche",
+          "institution_ids": [
+            "https://openalex.org/I122346577"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023686700",
+        "display_name": "Karina Apolinarska",
+        "orcid": "https://orcid.org/0000-0002-3507-5139"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Apolinarska, Karina",
+      "raw_affiliation_strings": [
+        "Uniwersytet im Adama Mickiewicza w Poznaniu"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3507-5139",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Uniwersytet im Adama Mickiewicza w Poznaniu",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/radiocarbon-dating",
+      "display_name": "Radiocarbon dating",
+      "score": 0.9156000018119812
+    },
+    {
+      "id": "https://openalex.org/keywords/macrofossil",
+      "display_name": "Macrofossil",
+      "score": 0.9034000039100647
+    },
+    {
+      "id": "https://openalex.org/keywords/tufa",
+      "display_name": "Tufa",
+      "score": 0.8482000231742859
+    },
+    {
+      "id": "https://openalex.org/keywords/holocene",
+      "display_name": "Holocene",
+      "score": 0.8154000043869019
+    },
+    {
+      "id": "https://openalex.org/keywords/sediment-core",
+      "display_name": "Sediment core",
+      "score": 0.5163999795913696
+    },
+    {
+      "id": "https://openalex.org/keywords/deposition",
+      "display_name": "Deposition (geology)",
+      "score": 0.4571000039577484
+    },
+    {
+      "id": "https://openalex.org/keywords/before-present",
+      "display_name": "Before Present",
+      "score": 0.43380001187324524
+    },
+    {
+      "id": "https://openalex.org/keywords/sediment",
+      "display_name": "Sediment",
+      "score": 0.38690000772476196
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C100134115",
+      "wikidata": "https://www.wikidata.org/wiki/Q173412",
+      "display_name": "Radiocarbon dating",
+      "level": 2,
+      "score": 0.9156000018119812
+    },
+    {
+      "id": "https://openalex.org/C25868968",
+      "wikidata": "https://www.wikidata.org/wiki/Q1163945",
+      "display_name": "Macrofossil",
+      "level": 3,
+      "score": 0.9034000039100647
+    },
+    {
+      "id": "https://openalex.org/C146596784",
+      "wikidata": "https://www.wikidata.org/wiki/Q193685",
+      "display_name": "Tufa",
+      "level": 3,
+      "score": 0.8482000231742859
+    },
+    {
+      "id": "https://openalex.org/C140345934",
+      "wikidata": "https://www.wikidata.org/wiki/Q25445",
+      "display_name": "Holocene",
+      "level": 2,
+      "score": 0.8154000043869019
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.7110999822616577
+    },
+    {
+      "id": "https://openalex.org/C100970517",
+      "wikidata": "https://www.wikidata.org/wiki/Q52107",
+      "display_name": "Physical geography",
+      "level": 1,
+      "score": 0.5464000105857849
+    },
+    {
+      "id": "https://openalex.org/C2993393462",
+      "wikidata": "https://www.wikidata.org/wiki/Q1942237",
+      "display_name": "Sediment core",
+      "level": 3,
+      "score": 0.5163999795913696
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.5080999732017517
+    },
+    {
+      "id": "https://openalex.org/C64297162",
+      "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+      "display_name": "Deposition (geology)",
+      "level": 3,
+      "score": 0.4571000039577484
+    },
+    {
+      "id": "https://openalex.org/C19951013",
+      "wikidata": "https://www.wikidata.org/wiki/Q503142",
+      "display_name": "Before Present",
+      "level": 3,
+      "score": 0.43380001187324524
+    },
+    {
+      "id": "https://openalex.org/C2816523",
+      "wikidata": "https://www.wikidata.org/wiki/Q180184",
+      "display_name": "Sediment",
+      "level": 2,
+      "score": 0.38690000772476196
+    },
+    {
+      "id": "https://openalex.org/C174110039",
+      "wikidata": "https://www.wikidata.org/wiki/Q1987597",
+      "display_name": "Subfossil",
+      "level": 3,
+      "score": 0.38040000200271606
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.3797999918460846
+    },
+    {
+      "id": "https://openalex.org/C111368507",
+      "wikidata": "https://www.wikidata.org/wiki/Q43518",
+      "display_name": "Oceanography",
+      "level": 1,
+      "score": 0.367000013589859
+    },
+    {
+      "id": "https://openalex.org/C160464908",
+      "wikidata": "https://www.wikidata.org/wiki/Q26185",
+      "display_name": "Quaternary",
+      "level": 2,
+      "score": 0.3571000099182129
+    },
+    {
+      "id": "https://openalex.org/C204852536",
+      "wikidata": "https://www.wikidata.org/wiki/Q11756",
+      "display_name": "Prehistory",
+      "level": 2,
+      "score": 0.35530000925064087
+    },
+    {
+      "id": "https://openalex.org/C24547453",
+      "wikidata": "https://www.wikidata.org/wiki/Q332423",
+      "display_name": "Absolute dating",
+      "level": 3,
+      "score": 0.33550000190734863
+    },
+    {
+      "id": "https://openalex.org/C181536285",
+      "wikidata": "https://www.wikidata.org/wiki/Q130788",
+      "display_name": "Chronology",
+      "level": 2,
+      "score": 0.32089999318122864
+    },
+    {
+      "id": "https://openalex.org/C2992790187",
+      "wikidata": "https://www.wikidata.org/wiki/Q1145106",
+      "display_name": "Historical record",
+      "level": 3,
+      "score": 0.3050000071525574
+    },
+    {
+      "id": "https://openalex.org/C177882397",
+      "wikidata": "https://www.wikidata.org/wiki/Q1337995",
+      "display_name": "Paleoecology",
+      "level": 2,
+      "score": 0.28220000863075256
+    },
+    {
+      "id": "https://openalex.org/C114793014",
+      "wikidata": "https://www.wikidata.org/wiki/Q52109",
+      "display_name": "Geomorphology",
+      "level": 1,
+      "score": 0.2702000141143799
+    },
+    {
+      "id": "https://openalex.org/C73707237",
+      "wikidata": "https://www.wikidata.org/wiki/Q102416",
+      "display_name": "Cenozoic",
+      "level": 3,
+      "score": 0.26809999346733093
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.26669999957084656
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.17632/9967g6425p.2",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.17632/9967g6425p.2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407050775",
+        "display_name": "Mendeley Data",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "dataset"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.17632/9967g6425p.2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.17632/9967g6425p.2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S7407050775",
+      "display_name": "Mendeley Data",
+      "issn_l": null,
+      "issn": [],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "dataset"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      78
+    ],
+    "record": [
+      1,
+      25
+    ],
+    "of": [
+      2,
+      40,
+      59,
+      74,
+      95
+    ],
+    "the": [
+      3,
+      16,
+      27,
+      38,
+      70,
+      75,
+      112
+    ],
+    "Maitiku": [
+      4,
+      28,
+      79
+    ],
+    "alkaline": [
+      5,
+      30
+    ],
+    "fen": [
+      6,
+      32,
+      41,
+      76,
+      80
+    ],
+    "builds": [
+      7
+    ],
+    "on": [
+      8,
+      12
+    ],
+    "sparse": [
+      9
+    ],
+    "existing": [
+      10
+    ],
+    "data": [
+      11
+    ],
+    "tufa": [
+      13
+    ],
+    "deposition": [
+      14
+    ],
+    "in": [
+      15,
+      33
+    ],
+    "eastern": [
+      17
+    ],
+    "Baltic": [
+      18
+    ],
+    "region.": [
+      19
+    ],
+    "We": [
+      20
+    ],
+    "present": [
+      21
+    ],
+    "a": [
+      22
+    ],
+    "high-resolution": [
+      23
+    ],
+    "Holocene": [
+      24
+    ],
+    "from": [
+      26,
+      64,
+      69,
+      105
+    ],
+    "Springs": [
+      29
+    ],
+    "spring-fed": [
+      31
+    ],
+    "western": [
+      34
+    ],
+    "Latvia,": [
+      35
+    ],
+    "which": [
+      36
+    ],
+    "reconstruct": [
+      37
+    ],
+    "history": [
+      39
+    ],
+    "development": [
+      42
+    ],
+    "and": [
+      43,
+      56,
+      72,
+      90,
+      104
+    ],
+    "CaCO3": [
+      44
+    ],
+    "precipitation.": [
+      45
+    ],
+    "This": [
+      46
+    ],
+    "study": [
+      47
+    ],
+    "integrates": [
+      48
+    ],
+    "multiproxy": [
+      49
+    ],
+    "evidence,": [
+      50
+    ],
+    "including": [
+      51
+    ],
+    "geochemical": [
+      52
+    ],
+    "indicators,": [
+      53
+    ],
+    "palaeobiological": [
+      54
+    ],
+    "records,": [
+      55
+    ],
+    "radiocarbon": [
+      57
+    ],
+    "ages": [
+      58
+    ],
+    "terrestrial": [
+      60
+    ],
+    "plant": [
+      61
+    ],
+    "macrofossils": [
+      62
+    ],
+    "obtained": [
+      63
+    ],
+    "two": [
+      65,
+      92
+    ],
+    "sediment": [
+      66
+    ],
+    "cores": [
+      67
+    ],
+    "collected": [
+      68
+    ],
+    "top": [
+      71
+    ],
+    "slope": [
+      73
+    ],
+    "dome.": [
+      77
+    ],
+    "has": [
+      81
+    ],
+    "been": [
+      82
+    ],
+    "active": [
+      83
+    ],
+    "since": [
+      84
+    ],
+    "approximately": [
+      85
+    ],
+    "9400": [
+      86
+    ],
+    "cal": [
+      87,
+      101,
+      108
+    ],
+    "yr": [
+      88,
+      102,
+      109
+    ],
+    "BP": [
+      89,
+      103,
+      110
+    ],
+    "shows": [
+      91
+    ],
+    "main": [
+      93
+    ],
+    "phases": [
+      94
+    ],
+    "intensive": [
+      96
+    ],
+    "CaCO₃": [
+      97
+    ],
+    "precipitation:": [
+      98
+    ],
+    "between": [
+      99
+    ],
+    "6300–5200": [
+      100
+    ],
+    "around": [
+      106
+    ],
+    "3600": [
+      107
+    ],
+    "to": [
+      111
+    ],
+    "present.": [
+      113
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2026-04-24T00:00:00"
+}

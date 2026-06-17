@@ -1,0 +1,1357 @@
+{
+  "id": "https://openalex.org/W3209660231",
+  "doi": "https://doi.org/10.48550/arxiv.2110.13561",
+  "title": "Non-Gaussian Gaussian Processes for Few-Shot Regression",
+  "display_name": "Non-Gaussian Gaussian Processes for Few-Shot Regression",
+  "publication_year": 2021,
+  "publication_date": "2021-10-26",
+  "ids": {
+    "openalex": "https://openalex.org/W3209660231",
+    "doi": "https://doi.org/10.48550/arxiv.2110.13561",
+    "mag": "3209660231"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2110.13561",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2110.13561",
+    "pdf_url": "https://arxiv.org/pdf/2110.13561",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2110.13561",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5023066991",
+        "display_name": "Marcin Sendera",
+        "orcid": "https://orcid.org/0000-0002-8741-6919"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sendera, Marcin",
+      "raw_affiliation_strings": [
+        "Jagiellonian University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052791052",
+        "display_name": "Jacek Tabor",
+        "orcid": "https://orcid.org/0000-0001-6652-7727"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tabor, Jacek",
+      "raw_affiliation_strings": [
+        "Jagiellonian University, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008285850",
+        "display_name": "Aleksandra Nowak",
+        "orcid": "https://orcid.org/0000-0002-2830-6613"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nowak, Aleksandra",
+      "raw_affiliation_strings": [
+        "Jagiellonian University, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083730100",
+        "display_name": "Andrzej Bedychaj",
+        "orcid": "https://orcid.org/0000-0001-9416-3991"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bedychaj, Andrzej",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088288633",
+        "display_name": "Massimiliano Patacchiola",
+        "orcid": "https://orcid.org/0000-0002-9500-6899"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I241749",
+          "display_name": "University of Cambridge",
+          "ror": "https://ror.org/013meh722",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I241749"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Patacchiola, Massimiliano",
+      "raw_affiliation_strings": [
+        "University of Cambridge, Cambridge, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Cambridge, Cambridge, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I241749"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070627781",
+        "display_name": "T. P. Trzcinski",
+        "orcid": "https://orcid.org/0000-0002-1486-8906"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Trzciński, Tomasz",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068511223",
+        "display_name": "Przemysław Spurek",
+        "orcid": "https://orcid.org/0000-0003-0097-5521"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Spurek, Przemysław",
+      "raw_affiliation_strings": [
+        "Jagiellonian University, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5083652196",
+        "display_name": "Maciej Zięba",
+        "orcid": "https://orcid.org/0000-0003-4217-7712"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I11923345",
+          "display_name": "Wrocław University of Science and Technology",
+          "ror": "https://ror.org/008fyn775",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I11923345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zięba, Maciej",
+      "raw_affiliation_strings": [
+        "Wrocław University of Science and Technology, Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wrocław University of Science and Technology, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I11923345",
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "34",
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12814",
+    "display_name": "Gaussian Processes and Bayesian Inference",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12814",
+      "display_name": "Gaussian Processes and Bayesian Inference",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12535",
+      "display_name": "Machine Learning and Data Classification",
+      "score": 0.9733999967575073,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11307",
+      "display_name": "Domain Adaptation and Few-Shot Learning",
+      "score": 0.9693999886512756,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6511068344116211
+    },
+    {
+      "id": "https://openalex.org/keywords/posterior-probability",
+      "display_name": "Posterior probability",
+      "score": 0.5880764126777649
+    },
+    {
+      "id": "https://openalex.org/keywords/gaussian",
+      "display_name": "Gaussian",
+      "score": 0.5653870701789856
+    },
+    {
+      "id": "https://openalex.org/keywords/gaussian-process",
+      "display_name": "Gaussian process",
+      "score": 0.5064815282821655
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.470405638217926
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.4438864290714264
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.39457908272743225
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.3819851875305176
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-probability",
+      "display_name": "Bayesian probability",
+      "score": 0.16628551483154297
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6511068344116211
+    },
+    {
+      "id": "https://openalex.org/C57830394",
+      "wikidata": "https://www.wikidata.org/wiki/Q278079",
+      "display_name": "Posterior probability",
+      "level": 3,
+      "score": 0.5880764126777649
+    },
+    {
+      "id": "https://openalex.org/C163716315",
+      "wikidata": "https://www.wikidata.org/wiki/Q901177",
+      "display_name": "Gaussian",
+      "level": 2,
+      "score": 0.5653870701789856
+    },
+    {
+      "id": "https://openalex.org/C61326573",
+      "wikidata": "https://www.wikidata.org/wiki/Q1496376",
+      "display_name": "Gaussian process",
+      "level": 3,
+      "score": 0.5064815282821655
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.470405638217926
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4438864290714264
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.39457908272743225
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.3819851875305176
+    },
+    {
+      "id": "https://openalex.org/C107673813",
+      "wikidata": "https://www.wikidata.org/wiki/Q812534",
+      "display_name": "Bayesian probability",
+      "level": 2,
+      "score": 0.16628551483154297
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2110.13561",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2110.13561",
+      "pdf_url": "https://arxiv.org/pdf/2110.13561",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "mag:3209660231",
+      "is_oa": true,
+      "landing_page_url": "https://arxiv.org/pdf/2110.13561v1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "arXiv (Cornell University)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/293212",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/293212",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401249",
+        "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I126596746",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/I126596746"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/conferenceObject"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2110.13561",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2110.13561",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "mag:3211743995",
+      "is_oa": false,
+      "landing_page_url": "http://arxiv-export-lb.library.cornell.edu/abs/2110.13561v1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306420609",
+        "display_name": "Neural Information Processing Systems",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": "Neural Information Processing Systems",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2110.13561",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2110.13561",
+    "pdf_url": "https://arxiv.org/pdf/2110.13561",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 49,
+  "referenced_works": [
+    "https://openalex.org/W164706946",
+    "https://openalex.org/W1000848100",
+    "https://openalex.org/W1502922572",
+    "https://openalex.org/W1571870753",
+    "https://openalex.org/W1991264156",
+    "https://openalex.org/W2124584833",
+    "https://openalex.org/W2125849100",
+    "https://openalex.org/W2134477639",
+    "https://openalex.org/W2143266849",
+    "https://openalex.org/W2144513243",
+    "https://openalex.org/W2148601301",
+    "https://openalex.org/W2158782408",
+    "https://openalex.org/W2164411961",
+    "https://openalex.org/W2165698076",
+    "https://openalex.org/W2171305756",
+    "https://openalex.org/W2409550820",
+    "https://openalex.org/W2432717477",
+    "https://openalex.org/W2604763608",
+    "https://openalex.org/W2784596339",
+    "https://openalex.org/W2807352135",
+    "https://openalex.org/W2895434480",
+    "https://openalex.org/W2911906319",
+    "https://openalex.org/W2947341830",
+    "https://openalex.org/W2949517868",
+    "https://openalex.org/W2950537964",
+    "https://openalex.org/W2952042565",
+    "https://openalex.org/W2952951948",
+    "https://openalex.org/W2963090522",
+    "https://openalex.org/W2963139417",
+    "https://openalex.org/W2963192657",
+    "https://openalex.org/W2964105864",
+    "https://openalex.org/W2964121937",
+    "https://openalex.org/W2972954809",
+    "https://openalex.org/W2988310789",
+    "https://openalex.org/W2992306696",
+    "https://openalex.org/W3005836185",
+    "https://openalex.org/W3007191831",
+    "https://openalex.org/W3022659297",
+    "https://openalex.org/W3034691180",
+    "https://openalex.org/W3034710639",
+    "https://openalex.org/W3034942609",
+    "https://openalex.org/W3037711500",
+    "https://openalex.org/W3045212685",
+    "https://openalex.org/W3083277700",
+    "https://openalex.org/W3105036711",
+    "https://openalex.org/W3106667652",
+    "https://openalex.org/W3158430291",
+    "https://openalex.org/W3163192937",
+    "https://openalex.org/W3210433460"
+  ],
+  "related_works": [
+    "https://openalex.org/W3211743995",
+    "https://openalex.org/W3182322885",
+    "https://openalex.org/W2890896922",
+    "https://openalex.org/W2406385473",
+    "https://openalex.org/W3091703258",
+    "https://openalex.org/W2247318628",
+    "https://openalex.org/W3081453044",
+    "https://openalex.org/W1884762066",
+    "https://openalex.org/W3203011193",
+    "https://openalex.org/W2891433624",
+    "https://openalex.org/W2963442159",
+    "https://openalex.org/W2773336089",
+    "https://openalex.org/W2148007822",
+    "https://openalex.org/W149914259",
+    "https://openalex.org/W3129132991",
+    "https://openalex.org/W2997153078",
+    "https://openalex.org/W2972096277",
+    "https://openalex.org/W101939087",
+    "https://openalex.org/W304228415",
+    "https://openalex.org/W2950767550"
+  ],
+  "abstract_inverted_index": {
+    "Gaussian": [
+      0,
+      112
+    ],
+    "Processes": [
+      1,
+      113
+    ],
+    "(GPs)": [
+      2
+    ],
+    "have": [
+      3
+    ],
+    "been": [
+      4
+    ],
+    "widely": [
+      5
+    ],
+    "used": [
+      6
+    ],
+    "in": [
+      7,
+      29,
+      73
+    ],
+    "machine": [
+      8
+    ],
+    "learning": [
+      9,
+      151
+    ],
+    "to": [
+      10,
+      57,
+      90,
+      163,
+      191
+    ],
+    "model": [
+      11,
+      164
+    ],
+    "distributions": [
+      12,
+      38
+    ],
+    "over": [
+      13
+    ],
+    "functions,": [
+      14
+    ],
+    "with": [
+      15
+    ],
+    "applications": [
+      16
+    ],
+    "including": [
+      17
+    ],
+    "multi-modal": [
+      18
+    ],
+    "regression,": [
+      19
+    ],
+    "time-series": [
+      20
+    ],
+    "prediction,": [
+      21
+    ],
+    "and": [
+      22,
+      39,
+      133,
+      205
+    ],
+    "few-shot": [
+      23,
+      150
+    ],
+    "learning.": [
+      24
+    ],
+    "GPs": [
+      25,
+      61
+    ],
+    "are": [
+      26
+    ],
+    "particularly": [
+      27
+    ],
+    "useful": [
+      28
+    ],
+    "the": [
+      30,
+      44,
+      50,
+      85,
+      92,
+      97,
+      101,
+      129,
+      135,
+      144,
+      156,
+      177,
+      180,
+      186,
+      195
+    ],
+    "last": [
+      31
+    ],
+    "application": [
+      32
+    ],
+    "since": [
+      33
+    ],
+    "they": [
+      34
+    ],
+    "rely": [
+      35
+    ],
+    "on": [
+      36,
+      125,
+      148,
+      199
+    ],
+    "Normal": [
+      37
+    ],
+    "enable": [
+      40
+    ],
+    "closed-form": [
+      41
+    ],
+    "computation": [
+      42
+    ],
+    "of": [
+      43,
+      87,
+      96,
+      128,
+      139,
+      146,
+      179,
+      203
+    ],
+    "posterior": [
+      45,
+      52,
+      93,
+      103
+    ],
+    "probability": [
+      46
+    ],
+    "function.": [
+      47
+    ],
+    "Unfortunately,": [
+      48
+    ],
+    "because": [
+      49
+    ],
+    "resulting": [
+      51
+    ],
+    "is": [
+      53
+    ],
+    "not": [
+      54
+    ],
+    "flexible": [
+      55
+    ],
+    "enough": [
+      56
+    ],
+    "capture": [
+      58
+    ],
+    "complex": [
+      59
+    ],
+    "distributions,": [
+      60
+    ],
+    "assume": [
+      62
+    ],
+    "high": [
+      63
+    ],
+    "similarity": [
+      64
+    ],
+    "between": [
+      65,
+      182
+    ],
+    "subsequent": [
+      66,
+      183
+    ],
+    "tasks": [
+      67
+    ],
+    "-": [
+      68
+    ],
+    "a": [
+      69,
+      172,
+      200
+    ],
+    "requirement": [
+      70
+    ],
+    "rarely": [
+      71
+    ],
+    "met": [
+      72
+    ],
+    "real-world": [
+      74
+    ],
+    "conditions.": [
+      75
+    ],
+    "In": [
+      76
+    ],
+    "this": [
+      77,
+      81
+    ],
+    "work,": [
+      78
+    ],
+    "we": [
+      79,
+      107,
+      117
+    ],
+    "address": [
+      80
+    ],
+    "limitation": [
+      82
+    ],
+    "by": [
+      83
+    ],
+    "leveraging": [
+      84
+    ],
+    "flexibility": [
+      86,
+      145
+    ],
+    "Normalizing": [
+      88
+    ],
+    "Flows": [
+      89
+    ],
+    "modulate": [
+      91
+    ],
+    "predictive": [
+      94
+    ],
+    "distribution": [
+      95
+    ],
+    "GP.": [
+      98
+    ],
+    "This": [
+      99
+    ],
+    "makes": [
+      100
+    ],
+    "GP": [
+      102
+    ],
+    "locally": [
+      104
+    ],
+    "non-Gaussian,": [
+      105
+    ],
+    "therefore": [
+      106
+    ],
+    "name": [
+      108
+    ],
+    "our": [
+      109,
+      174
+    ],
+    "method": [
+      110,
+      175
+    ],
+    "Non-Gaussian": [
+      111
+    ],
+    "(NGGPs).": [
+      114
+    ],
+    "More": [
+      115
+    ],
+    "precisely,": [
+      116
+    ],
+    "propose": [
+      118
+    ],
+    "an": [
+      119
+    ],
+    "invertible": [
+      120
+    ],
+    "ODE-based": [
+      121
+    ],
+    "mapping": [
+      122,
+      157
+    ],
+    "that": [
+      123,
+      155
+    ],
+    "operates": [
+      124
+    ],
+    "each": [
+      126
+    ],
+    "component": [
+      127
+    ],
+    "random": [
+      130
+    ],
+    "variable": [
+      131
+    ],
+    "vectors": [
+      132
+    ],
+    "shares": [
+      134,
+      176
+    ],
+    "parameters": [
+      136
+    ],
+    "across": [
+      137
+    ],
+    "all": [
+      138
+    ],
+    "them.": [
+      140
+    ],
+    "We": [
+      141
+    ],
+    "empirically": [
+      142
+    ],
+    "tested": [
+      143
+    ],
+    "NGGPs": [
+      147,
+      193
+    ],
+    "various": [
+      149
+    ],
+    "regression": [
+      152
+    ],
+    "datasets,": [
+      153
+    ],
+    "showing": [
+      154
+    ],
+    "can": [
+      158
+    ],
+    "incorporate": [
+      159
+    ],
+    "context": [
+      160
+    ],
+    "embedding": [
+      161
+    ],
+    "information": [
+      162
+    ],
+    "different": [
+      165
+    ],
+    "noise": [
+      166
+    ],
+    "levels": [
+      167
+    ],
+    "for": [
+      168,
+      189
+    ],
+    "periodic": [
+      169
+    ],
+    "functions.": [
+      170
+    ],
+    "As": [
+      171
+    ],
+    "result,": [
+      173
+    ],
+    "structure": [
+      178
+    ],
+    "problem": [
+      181
+    ],
+    "tasks,": [
+      184
+    ],
+    "but": [
+      185
+    ],
+    "contextualization": [
+      187
+    ],
+    "allows": [
+      188
+    ],
+    "adaptation": [
+      190
+    ],
+    "dissimilarities.": [
+      192
+    ],
+    "outperform": [
+      194
+    ],
+    "competing": [
+      196
+    ],
+    "state-of-the-art": [
+      197
+    ],
+    "approaches": [
+      198
+    ],
+    "diversified": [
+      201
+    ],
+    "set": [
+      202
+    ],
+    "benchmarks": [
+      204
+    ],
+    "applications.": [
+      206
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

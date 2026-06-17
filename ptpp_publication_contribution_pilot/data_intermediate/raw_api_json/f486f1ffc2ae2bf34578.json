@@ -1,0 +1,1554 @@
+{
+  "id": "https://openalex.org/W7119056829",
+  "doi": "https://doi.org/10.1186/s13046-025-03633-y",
+  "title": "Modeling CAF-tumor interactions to overcome therapy resistance",
+  "display_name": "Modeling CAF-tumor interactions to overcome therapy resistance",
+  "publication_year": 2026,
+  "publication_date": "2026-01-08",
+  "ids": {
+    "openalex": "https://openalex.org/W7119056829",
+    "doi": "https://doi.org/10.1186/s13046-025-03633-y",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41501921"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s13046-025-03633-y",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s13046-025-03633-y",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S33781645",
+      "display_name": "Journal of Experimental & Clinical Cancer Research",
+      "issn_l": "1756-9966",
+      "issn": [
+        "1756-9966"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Experimental &amp; Clinical Cancer Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1186/s13046-025-03633-y",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5011245513",
+        "display_name": "Jakub Gubała",
+        "orcid": "https://orcid.org/0000-0002-1622-854X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I173439891",
+          "display_name": "HES-SO University of Applied Sciences and Arts Western Switzerland",
+          "ror": "https://ror.org/01xkakk17",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I173439891"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210110449",
+          "display_name": "Translational Research in Oncology",
+          "ror": "https://ror.org/01yqkfx81",
+          "country_code": "FR",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210110449"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Gubala",
+      "raw_affiliation_strings": [
+        "Cancer Systems Pharmacology Group, School of Pharmaceutical Sciences, University of Geneva, Geneva, 1211, Switzerland",
+        "Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, Geneva, 1211, Switzerland",
+        "Translational Research Center in Oncohaematology, Geneva, 1211, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cancer Systems Pharmacology Group, School of Pharmaceutical Sciences, University of Geneva, Geneva, 1211, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, Geneva, 1211, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I173439891",
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Translational Research Center in Oncohaematology, Geneva, 1211, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210110449"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089418625",
+        "display_name": "Daniel Benamran",
+        "orcid": "https://orcid.org/0000-0003-1287-0567"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106256",
+          "display_name": "University Hospital of Geneva",
+          "ror": "https://ror.org/01m1pv723",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106256"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel Benamran",
+      "raw_affiliation_strings": [
+        "Division of Urology, Geneva University Hospitals, Geneva, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Urology, Geneva University Hospitals, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210106256"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082234329",
+        "display_name": "Petros Tsantoulis",
+        "orcid": "https://orcid.org/0000-0003-3613-6682"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106256",
+          "display_name": "University Hospital of Geneva",
+          "ror": "https://ror.org/01m1pv723",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106256"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Petros Tsantoulis",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Geneva University Hospitals, Geneva, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Geneva University Hospitals, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210106256"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011739988",
+        "display_name": "Valentin Mieville",
+        "orcid": "https://orcid.org/0009-0003-4626-0377"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I173439891",
+          "display_name": "HES-SO University of Applied Sciences and Arts Western Switzerland",
+          "ror": "https://ror.org/01xkakk17",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I173439891"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210110449",
+          "display_name": "Translational Research in Oncology",
+          "ror": "https://ror.org/01yqkfx81",
+          "country_code": "FR",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210110449"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Valentin Mieville",
+      "raw_affiliation_strings": [
+        "Cancer Systems Pharmacology Group, School of Pharmaceutical Sciences, University of Geneva, Geneva, 1211, Switzerland",
+        "Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, Geneva, 1211, Switzerland",
+        "Translational Research Center in Oncohaematology, Geneva, 1211, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cancer Systems Pharmacology Group, School of Pharmaceutical Sciences, University of Geneva, Geneva, 1211, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, Geneva, 1211, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I173439891",
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Translational Research Center in Oncohaematology, Geneva, 1211, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210110449"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5122189247",
+        "display_name": "Massimo Valerio",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106256",
+          "display_name": "University Hospital of Geneva",
+          "ror": "https://ror.org/01m1pv723",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106256"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Massimo Valerio",
+      "raw_affiliation_strings": [
+        "Division of Urology, Geneva University Hospitals, Geneva, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Urology, Geneva University Hospitals, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210106256"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5037114078",
+        "display_name": "Patrycja Nowak‐Sliwinska",
+        "orcid": "https://orcid.org/0000-0002-8299-0444"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145388677",
+          "display_name": "Joint United Nations Programme on HIV/AIDS",
+          "ror": "https://ror.org/0109p9r67",
+          "country_code": "CH",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I1286959531",
+            "https://openalex.org/I145388677"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Patrycja Nowak-Sliwinska",
+      "raw_affiliation_strings": [
+        "Cancer Systems Pharmacology Group, School of Pharmaceutical Sciences, University of Geneva, Geneva, 1211, Switzerland. Patrycja.Nowak-Sliwinska@unige.ch",
+        "Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, Geneva, 1211, Switzerland. Patrycja.Nowak-Sliwinska@unige.ch",
+        "Translational Research Center in Oncohaematology, Geneva, 1211, Switzerland. Patrycja.Nowak-Sliwinska@unige.ch"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cancer Systems Pharmacology Group, School of Pharmaceutical Sciences, University of Geneva, Geneva, 1211, Switzerland. Patrycja.Nowak-Sliwinska@unige.ch",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Sciences of Western Switzerland, University of Geneva, Geneva, 1211, Switzerland. Patrycja.Nowak-Sliwinska@unige.ch",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Translational Research Center in Oncohaematology, Geneva, 1211, Switzerland. Patrycja.Nowak-Sliwinska@unige.ch",
+          "institution_ids": [
+            "https://openalex.org/I145388677"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5037114078"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I114457229",
+    "https://openalex.org/I145388677"
+  ],
+  "apc_list": {
+    "value": 2380,
+    "currency": "GBP",
+    "value_usd": 2919
+  },
+  "apc_paid": {
+    "value": 2380,
+    "currency": "GBP",
+    "value_usd": 2919
+  },
+  "fwci": 9.7036,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.93688043,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "45",
+    "issue": "1",
+    "first_page": "41",
+    "last_page": "41"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10336",
+    "display_name": "Cancer Cells and Metastasis",
+    "score": 0.9828000068664551,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2730",
+      "display_name": "Oncology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10336",
+      "display_name": "Cancer Cells and Metastasis",
+      "score": 0.9828000068664551,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11313",
+      "display_name": "Immune cells in cancer",
+      "score": 0.004000000189989805,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11190",
+      "display_name": "3D Printing in Biomedical Research",
+      "score": 0.002199999988079071,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.5985999703407288
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.5166000127792358
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-drugs",
+      "display_name": "Cancer drugs",
+      "score": 0.5131999850273132
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.4767000079154968
+    },
+    {
+      "id": "https://openalex.org/keywords/function",
+      "display_name": "Function (biology)",
+      "score": 0.46140000224113464
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-cell",
+      "display_name": "Cancer cell",
+      "score": 0.43070000410079956
+    },
+    {
+      "id": "https://openalex.org/keywords/in-vivo",
+      "display_name": "In vivo",
+      "score": 0.42800000309944153
+    },
+    {
+      "id": "https://openalex.org/keywords/drug",
+      "display_name": "Drug",
+      "score": 0.4194999933242798
+    },
+    {
+      "id": "https://openalex.org/keywords/drug-resistance",
+      "display_name": "Drug resistance",
+      "score": 0.41839998960494995
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.5985999703407288
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.5166000127792358
+    },
+    {
+      "id": "https://openalex.org/C3020340455",
+      "wikidata": "https://www.wikidata.org/wiki/Q974135",
+      "display_name": "Cancer drugs",
+      "level": 3,
+      "score": 0.5131999850273132
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.4767000079154968
+    },
+    {
+      "id": "https://openalex.org/C14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "level": 2,
+      "score": 0.46140000224113464
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.4603999853134155
+    },
+    {
+      "id": "https://openalex.org/C96232424",
+      "wikidata": "https://www.wikidata.org/wiki/Q4118072",
+      "display_name": "Cancer cell",
+      "level": 3,
+      "score": 0.43070000410079956
+    },
+    {
+      "id": "https://openalex.org/C207001950",
+      "wikidata": "https://www.wikidata.org/wiki/Q141124",
+      "display_name": "In vivo",
+      "level": 2,
+      "score": 0.42800000309944153
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.42419999837875366
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.4203000068664551
+    },
+    {
+      "id": "https://openalex.org/C2780035454",
+      "wikidata": "https://www.wikidata.org/wiki/Q8386",
+      "display_name": "Drug",
+      "level": 2,
+      "score": 0.4194999933242798
+    },
+    {
+      "id": "https://openalex.org/C114851261",
+      "wikidata": "https://www.wikidata.org/wiki/Q12147416",
+      "display_name": "Drug resistance",
+      "level": 2,
+      "score": 0.41839998960494995
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.39010000228881836
+    },
+    {
+      "id": "https://openalex.org/C3019816032",
+      "wikidata": "https://www.wikidata.org/wiki/Q2575340",
+      "display_name": "Cancer treatment",
+      "level": 3,
+      "score": 0.38670000433921814
+    },
+    {
+      "id": "https://openalex.org/C2776107976",
+      "wikidata": "https://www.wikidata.org/wiki/Q1786433",
+      "display_name": "Tumor microenvironment",
+      "level": 3,
+      "score": 0.38510000705718994
+    },
+    {
+      "id": "https://openalex.org/C2909706936",
+      "wikidata": "https://www.wikidata.org/wiki/Q42417562",
+      "display_name": "Cancer-Associated Fibroblasts",
+      "level": 4,
+      "score": 0.37700000405311584
+    },
+    {
+      "id": "https://openalex.org/C2983331546",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer therapy",
+      "level": 3,
+      "score": 0.3718000054359436
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3393999934196472
+    },
+    {
+      "id": "https://openalex.org/C192209626",
+      "wikidata": "https://www.wikidata.org/wiki/Q190909",
+      "display_name": "Focus (optics)",
+      "level": 2,
+      "score": 0.3221000134944916
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.2944999933242798
+    },
+    {
+      "id": "https://openalex.org/C3020616263",
+      "wikidata": "https://www.wikidata.org/wiki/Q1216998",
+      "display_name": "Tumor cells",
+      "level": 2,
+      "score": 0.2937000095844269
+    },
+    {
+      "id": "https://openalex.org/C202751555",
+      "wikidata": "https://www.wikidata.org/wiki/Q221681",
+      "display_name": "In vitro",
+      "level": 2,
+      "score": 0.28949999809265137
+    },
+    {
+      "id": "https://openalex.org/C2994604686",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell function",
+      "level": 3,
+      "score": 0.2842999994754791
+    },
+    {
+      "id": "https://openalex.org/C2994119904",
+      "wikidata": "https://www.wikidata.org/wiki/Q1251001",
+      "display_name": "Drug response",
+      "level": 3,
+      "score": 0.2797999978065491
+    },
+    {
+      "id": "https://openalex.org/C1491633281",
+      "wikidata": "https://www.wikidata.org/wiki/Q7868",
+      "display_name": "Cell",
+      "level": 2,
+      "score": 0.27959999442100525
+    },
+    {
+      "id": "https://openalex.org/C74187038",
+      "wikidata": "https://www.wikidata.org/wiki/Q1418791",
+      "display_name": "Drug discovery",
+      "level": 2,
+      "score": 0.2750999927520752
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2750000059604645
+    },
+    {
+      "id": "https://openalex.org/C98274493",
+      "wikidata": "https://www.wikidata.org/wiki/Q128406",
+      "display_name": "Pharmacology",
+      "level": 1,
+      "score": 0.2572000026702881
+    },
+    {
+      "id": "https://openalex.org/C2994372470",
+      "wikidata": "https://www.wikidata.org/wiki/Q4118072",
+      "display_name": "Cancer cell lines",
+      "level": 4,
+      "score": 0.25279998779296875
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1186/s13046-025-03633-y",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s13046-025-03633-y",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S33781645",
+        "display_name": "Journal of Experimental & Clinical Cancer Research",
+        "issn_l": "1756-9966",
+        "issn": [
+          "1756-9966"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Experimental &amp; Clinical Cancer Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41501921",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41501921",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of experimental & clinical cancer research : CR",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:79c43311208846309ec563244790a655",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/79c43311208846309ec563244790a655",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Experimental & Clinical Cancer Research, Vol 45, Iss 1, Pp 1-26 (2026)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11689664",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12882138",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12882138",
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12882138/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Exp Clin Cancer Res",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s13046-025-03633-y",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s13046-025-03633-y",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S33781645",
+      "display_name": "Journal of Experimental & Clinical Cancer Research",
+      "issn_l": "1756-9966",
+      "issn": [
+        "1756-9966"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Experimental &amp; Clinical Cancer Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7868235111236572,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 190,
+  "referenced_works": [
+    "https://openalex.org/W572985876",
+    "https://openalex.org/W824637761",
+    "https://openalex.org/W1865662271",
+    "https://openalex.org/W1940485834",
+    "https://openalex.org/W1968209756",
+    "https://openalex.org/W1973554995",
+    "https://openalex.org/W1974969251",
+    "https://openalex.org/W1985549756",
+    "https://openalex.org/W1999966467",
+    "https://openalex.org/W2017531023",
+    "https://openalex.org/W2055624262",
+    "https://openalex.org/W2062178754",
+    "https://openalex.org/W2062809449",
+    "https://openalex.org/W2067574398",
+    "https://openalex.org/W2078469315",
+    "https://openalex.org/W2079292007",
+    "https://openalex.org/W2079427341",
+    "https://openalex.org/W2086834665",
+    "https://openalex.org/W2101037339",
+    "https://openalex.org/W2102365935",
+    "https://openalex.org/W2115759967",
+    "https://openalex.org/W2118512350",
+    "https://openalex.org/W2138382259",
+    "https://openalex.org/W2140765540",
+    "https://openalex.org/W2147243234",
+    "https://openalex.org/W2151839266",
+    "https://openalex.org/W2152460866",
+    "https://openalex.org/W2167514745",
+    "https://openalex.org/W2168002648",
+    "https://openalex.org/W2170866914",
+    "https://openalex.org/W2171961428",
+    "https://openalex.org/W2182290275",
+    "https://openalex.org/W2259161257",
+    "https://openalex.org/W2286320137",
+    "https://openalex.org/W2299118744",
+    "https://openalex.org/W2299200936",
+    "https://openalex.org/W2323756079",
+    "https://openalex.org/W2332292689",
+    "https://openalex.org/W2342880373",
+    "https://openalex.org/W2344920256",
+    "https://openalex.org/W2380791235",
+    "https://openalex.org/W2460593466",
+    "https://openalex.org/W2462485532",
+    "https://openalex.org/W2529551101",
+    "https://openalex.org/W2564357132",
+    "https://openalex.org/W2582965286",
+    "https://openalex.org/W2590390825",
+    "https://openalex.org/W2600453489",
+    "https://openalex.org/W2604077104",
+    "https://openalex.org/W2615693675",
+    "https://openalex.org/W2621196248",
+    "https://openalex.org/W2740653964",
+    "https://openalex.org/W2749613778",
+    "https://openalex.org/W2771542157",
+    "https://openalex.org/W2783122422",
+    "https://openalex.org/W2785803176",
+    "https://openalex.org/W2786031287",
+    "https://openalex.org/W2791551019",
+    "https://openalex.org/W2791993094",
+    "https://openalex.org/W2794164629",
+    "https://openalex.org/W2795248085",
+    "https://openalex.org/W2865352686",
+    "https://openalex.org/W2887326710",
+    "https://openalex.org/W2887493866",
+    "https://openalex.org/W2898435366",
+    "https://openalex.org/W2901149074",
+    "https://openalex.org/W2902447942",
+    "https://openalex.org/W2905888775",
+    "https://openalex.org/W2906111025",
+    "https://openalex.org/W2909932177",
+    "https://openalex.org/W2911515300",
+    "https://openalex.org/W2911883556",
+    "https://openalex.org/W2913145077",
+    "https://openalex.org/W2913236620",
+    "https://openalex.org/W2913876049",
+    "https://openalex.org/W2938101988",
+    "https://openalex.org/W2938744143",
+    "https://openalex.org/W2947955936",
+    "https://openalex.org/W2951222857",
+    "https://openalex.org/W2955881766",
+    "https://openalex.org/W2964068177",
+    "https://openalex.org/W2970289072",
+    "https://openalex.org/W2986162201",
+    "https://openalex.org/W3003058300",
+    "https://openalex.org/W3014145034",
+    "https://openalex.org/W3014683777",
+    "https://openalex.org/W3020208951",
+    "https://openalex.org/W3026654828",
+    "https://openalex.org/W3026844837",
+    "https://openalex.org/W3026934713",
+    "https://openalex.org/W3031767666",
+    "https://openalex.org/W3033473768",
+    "https://openalex.org/W3044158710",
+    "https://openalex.org/W3048888372",
+    "https://openalex.org/W3050181188",
+    "https://openalex.org/W3085416127",
+    "https://openalex.org/W3093212582",
+    "https://openalex.org/W3114119064",
+    "https://openalex.org/W3115276970",
+    "https://openalex.org/W3123827788",
+    "https://openalex.org/W3127284279",
+    "https://openalex.org/W3132298784",
+    "https://openalex.org/W3137708143",
+    "https://openalex.org/W3141640839",
+    "https://openalex.org/W3152743508",
+    "https://openalex.org/W3156301564",
+    "https://openalex.org/W3157710113",
+    "https://openalex.org/W3170954397",
+    "https://openalex.org/W3171648992",
+    "https://openalex.org/W3175292288",
+    "https://openalex.org/W3184735568",
+    "https://openalex.org/W3185064661",
+    "https://openalex.org/W3197301080",
+    "https://openalex.org/W3198094729",
+    "https://openalex.org/W3199988150",
+    "https://openalex.org/W3205475594",
+    "https://openalex.org/W3207231649",
+    "https://openalex.org/W4200021891",
+    "https://openalex.org/W4200153380",
+    "https://openalex.org/W4200407362",
+    "https://openalex.org/W4206489510",
+    "https://openalex.org/W4210765216",
+    "https://openalex.org/W4220841686",
+    "https://openalex.org/W4221123198",
+    "https://openalex.org/W4224277853",
+    "https://openalex.org/W4229456682",
+    "https://openalex.org/W4231972389",
+    "https://openalex.org/W4282932404",
+    "https://openalex.org/W4286854079",
+    "https://openalex.org/W4288069725",
+    "https://openalex.org/W4291415522",
+    "https://openalex.org/W4295931452",
+    "https://openalex.org/W4307138125",
+    "https://openalex.org/W4307356602",
+    "https://openalex.org/W4307391271",
+    "https://openalex.org/W4308179451",
+    "https://openalex.org/W4309379104",
+    "https://openalex.org/W4310965527",
+    "https://openalex.org/W4311538013",
+    "https://openalex.org/W4313389063",
+    "https://openalex.org/W4313584627",
+    "https://openalex.org/W4315767707",
+    "https://openalex.org/W4315780455",
+    "https://openalex.org/W4324020897",
+    "https://openalex.org/W4362553563",
+    "https://openalex.org/W4366608209",
+    "https://openalex.org/W4367299915",
+    "https://openalex.org/W4367623990",
+    "https://openalex.org/W4368376359",
+    "https://openalex.org/W4376891197",
+    "https://openalex.org/W4377292429",
+    "https://openalex.org/W4378905511",
+    "https://openalex.org/W4380486592",
+    "https://openalex.org/W4381149401",
+    "https://openalex.org/W4381190658",
+    "https://openalex.org/W4383888278",
+    "https://openalex.org/W4384661701",
+    "https://openalex.org/W4385517801",
+    "https://openalex.org/W4385577578",
+    "https://openalex.org/W4385751845",
+    "https://openalex.org/W4387033386",
+    "https://openalex.org/W4387165334",
+    "https://openalex.org/W4387603021",
+    "https://openalex.org/W4387847725",
+    "https://openalex.org/W4389882160",
+    "https://openalex.org/W4390919973",
+    "https://openalex.org/W4392348265",
+    "https://openalex.org/W4392472373",
+    "https://openalex.org/W4392696491",
+    "https://openalex.org/W4393381524",
+    "https://openalex.org/W4394717568",
+    "https://openalex.org/W4394874519",
+    "https://openalex.org/W4395468963",
+    "https://openalex.org/W4398181668",
+    "https://openalex.org/W4398213922",
+    "https://openalex.org/W4400849774",
+    "https://openalex.org/W4400864900",
+    "https://openalex.org/W4400905582",
+    "https://openalex.org/W4404082953",
+    "https://openalex.org/W4404164420",
+    "https://openalex.org/W4406161082",
+    "https://openalex.org/W4407590946",
+    "https://openalex.org/W4408581460",
+    "https://openalex.org/W4408946067",
+    "https://openalex.org/W4409256654",
+    "https://openalex.org/W4409832912",
+    "https://openalex.org/W4411544936",
+    "https://openalex.org/W4412175176",
+    "https://openalex.org/W4413867125",
+    "https://openalex.org/W4417180440"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Cancer-associated": [
+      0
+    ],
+    "fibroblasts": [
+      1
+    ],
+    "(CAFs)": [
+      2
+    ],
+    "represent": [
+      3
+    ],
+    "an": [
+      4
+    ],
+    "interesting": [
+      5
+    ],
+    "component": [
+      6
+    ],
+    "of": [
+      7,
+      28,
+      42,
+      71,
+      90,
+      96,
+      118,
+      159,
+      171
+    ],
+    "the": [
+      8,
+      43,
+      56,
+      69,
+      94,
+      116,
+      145,
+      156,
+      169
+    ],
+    "tumor": [
+      9,
+      146
+    ],
+    "microenvironment,": [
+      10,
+      147
+    ],
+    "playing": [
+      11
+    ],
+    "a": [
+      12,
+      25,
+      48,
+      102
+    ],
+    "crucial": [
+      13,
+      157
+    ],
+    "role": [
+      14,
+      95,
+      158
+    ],
+    "in": [
+      15,
+      98,
+      105,
+      107,
+      110,
+      120,
+      122,
+      127,
+      163,
+      168
+    ],
+    "cancer": [
+      16,
+      33,
+      112
+    ],
+    "progression,": [
+      17,
+      62
+    ],
+    "metastasis,": [
+      18
+    ],
+    "and": [
+      19,
+      40,
+      63,
+      75,
+      109,
+      129,
+      173
+    ],
+    "treatment": [
+      20,
+      64
+    ],
+    "resistance.": [
+      21,
+      86,
+      151
+    ],
+    "This": [
+      22,
+      66
+    ],
+    "review": [
+      23,
+      92,
+      154
+    ],
+    "provides": [
+      24
+    ],
+    "comprehensive": [
+      26
+    ],
+    "overview": [
+      27
+    ],
+    "identified": [
+      29
+    ],
+    "subtypes": [
+      30
+    ],
+    "across": [
+      31
+    ],
+    "various": [
+      32
+    ],
+    "types,": [
+      34
+    ],
+    "highlighting": [
+      35
+    ],
+    "their": [
+      36,
+      135
+    ],
+    "inter-tumor": [
+      37
+    ],
+    "heterogeneity,": [
+      38
+    ],
+    "plasticity,": [
+      39
+    ],
+    "function": [
+      41
+    ],
+    "different": [
+      44
+    ],
+    "CAF": [
+      45,
+      59,
+      175
+    ],
+    "phenotypes.": [
+      46
+    ],
+    "With": [
+      47
+    ],
+    "focus": [
+      49,
+      89
+    ],
+    "on": [
+      50
+    ],
+    "renal": [
+      51
+    ],
+    "cell": [
+      52
+    ],
+    "carcinoma,": [
+      53
+    ],
+    "we": [
+      54
+    ],
+    "reviewed": [
+      55
+    ],
+    "correlations": [
+      57
+    ],
+    "between": [
+      58
+    ],
+    "markers,": [
+      60
+    ],
+    "disease": [
+      61
+    ],
+    "outcomes.": [
+      65
+    ],
+    "approach": [
+      67
+    ],
+    "underlined": [
+      68
+    ],
+    "existence": [
+      70
+    ],
+    "CAF-induced": [
+      72,
+      149
+    ],
+    "drug": [
+      73,
+      100,
+      165
+    ],
+    "resistance": [
+      74
+    ],
+    "therapeutic": [
+      76,
+      150
+    ],
+    "strategies": [
+      77
+    ],
+    "that": [
+      78
+    ],
+    "can": [
+      79
+    ],
+    "be": [
+      80
+    ],
+    "utilized": [
+      81
+    ],
+    "to": [
+      82,
+      137
+    ],
+    "overcome": [
+      83
+    ],
+    "this": [
+      84,
+      91,
+      153
+    ],
+    "extrinsic": [
+      85
+    ],
+    "A": [
+      87
+    ],
+    "major": [
+      88
+    ],
+    "is": [
+      93
+    ],
+    "CAFs": [
+      97,
+      119
+    ],
+    "inducing": [
+      99
+    ],
+    "resistance,": [
+      101
+    ],
+    "phenomenon": [
+      103
+    ],
+    "observed": [
+      104
+    ],
+    "both": [
+      106
+    ],
+    "vivo": [
+      108
+    ],
+    "vitro": [
+      111,
+      123
+    ],
+    "models.": [
+      113
+    ],
+    "We": [
+      114
+    ],
+    "discuss": [
+      115
+    ],
+    "integration": [
+      117
+    ],
+    "several": [
+      121
+    ],
+    "co-culture": [
+      124,
+      161
+    ],
+    "systems": [
+      125,
+      162
+    ],
+    "cultivated": [
+      126
+    ],
+    "two-": [
+      128
+    ],
+    "three-dimensional": [
+      130
+    ],
+    "models,": [
+      131
+    ],
+    "as": [
+      132,
+      134
+    ],
+    "well": [
+      133
+    ],
+    "contributions": [
+      136
+    ],
+    "deciphering": [
+      138
+    ],
+    "CAF-tumor": [
+      139
+    ],
+    "crosstalk.": [
+      140
+    ],
+    "These": [
+      141
+    ],
+    "platforms": [
+      142
+    ],
+    "better": [
+      143
+    ],
+    "recapitulate": [
+      144
+    ],
+    "reflecting": [
+      148
+    ],
+    "Ultimately,": [
+      152
+    ],
+    "underlines": [
+      155
+    ],
+    "CAF-incorporated": [
+      160
+    ],
+    "advancing": [
+      164
+    ],
+    "development,": [
+      166
+    ],
+    "especially": [
+      167
+    ],
+    "context": [
+      170
+    ],
+    "tissue-": [
+      172
+    ],
+    "subtype-specific": [
+      174
+    ],
+    "targeting.": [
+      176
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2026-01-08T00:00:00"
+}

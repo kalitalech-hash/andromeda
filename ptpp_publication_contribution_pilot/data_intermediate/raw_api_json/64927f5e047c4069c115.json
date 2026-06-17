@@ -1,0 +1,1562 @@
+{
+  "id": "https://openalex.org/W4392504900",
+  "doi": "https://doi.org/10.1016/j.addma.2024.104066",
+  "title": "Thermal cycling effects on the local microstructure and mechanical properties in wire-based directed energy deposition of nickel-based superalloy",
+  "display_name": "Thermal cycling effects on the local microstructure and mechanical properties in wire-based directed energy deposition of nickel-based superalloy",
+  "publication_year": 2024,
+  "publication_date": "2024-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4392504900",
+    "doi": "https://doi.org/10.1016/j.addma.2024.104066"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.addma.2024.104066",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.addma.2024.104066",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764842179",
+      "display_name": "Additive manufacturing",
+      "issn_l": "2214-7810",
+      "issn": [
+        "2214-7810",
+        "2214-8604"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Additive Manufacturing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.addma.2024.104066",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083747567",
+        "display_name": "Florian Pixner",
+        "orcid": "https://orcid.org/0000-0001-6538-6440"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I132118926",
+          "display_name": "Austrian Institute of Technology",
+          "ror": "https://ror.org/04knbh022",
+          "country_code": "AT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I132118926"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Florian Pixner",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+        "LKR Light Metals Technologies, Austrian Institute of Technology, Lamprechtshausenerstraße 61, 5182 Ranshofen, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        },
+        {
+          "raw_affiliation_string": "LKR Light Metals Technologies, Austrian Institute of Technology, Lamprechtshausenerstraße 61, 5182 Ranshofen, Austria",
+          "institution_ids": [
+            "https://openalex.org/I132118926"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079302663",
+        "display_name": "Fernando Warchomicka",
+        "orcid": "https://orcid.org/0000-0002-4909-8657"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fernando Warchomicka",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081416081",
+        "display_name": "Marta Lipińska",
+        "orcid": "https://orcid.org/0000-0002-1893-0041"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Lipińska",
+      "raw_affiliation_strings": [
+        "Faculty of Materials Science and Engineering, Warsaw University of Technology, Wołoska 141, 02-507 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Materials Science and Engineering, Warsaw University of Technology, Wołoska 141, 02-507 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5094079603",
+        "display_name": "Simon Elmiger",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Simon Elmiger",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5094079604",
+        "display_name": "Clemens Jechtl",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clemens Jechtl",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073954294",
+        "display_name": "Peter Auer",
+        "orcid": "https://orcid.org/0000-0001-8385-9635"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Auer",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055165536",
+        "display_name": "Florian Riedlsperger",
+        "orcid": "https://orcid.org/0000-0002-0310-1937"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121883995",
+          "display_name": "Johannes Kepler University of Linz",
+          "ror": "https://ror.org/052r2xn60",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121883995"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Florian Riedlsperger",
+      "raw_affiliation_strings": [
+        "Institute of Engineering Materials- Metals and Alloys, Johannes Kepler University Linz, Altenberger Straße 69, 4040 Linz, Austria",
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Engineering Materials- Metals and Alloys, Johannes Kepler University Linz, Altenberger Straße 69, 4040 Linz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I121883995"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022956430",
+        "display_name": "Ricardo Henrique Buzolin",
+        "orcid": "https://orcid.org/0000-0002-3955-6917"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210105054",
+          "display_name": "Christian Doppler Laboratory for Thermoelectricity",
+          "ror": "https://ror.org/01cbw5x35",
+          "country_code": "AT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I129774422",
+            "https://openalex.org/I145847075",
+            "https://openalex.org/I4210105054"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ricardo Buzolin",
+      "raw_affiliation_strings": [
+        "Christian Doppler Laboratory for Design of High-Performance Alloys by Thermomechanical Processing, Kopernikusgasse 24/I, 8010 Graz, Austria",
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Christian Doppler Laboratory for Design of High-Performance Alloys by Thermomechanical Processing, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4210105054"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050739369",
+        "display_name": "Josef Domitner",
+        "orcid": "https://orcid.org/0000-0002-6023-7216"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Josef Domitner",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081836071",
+        "display_name": "Małgorzata Lewandowska",
+        "orcid": "https://orcid.org/0000-0001-8613-4955"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Małgorzata Lewandowska",
+      "raw_affiliation_strings": [
+        "Faculty of Materials Science and Engineering, Warsaw University of Technology, Wołoska 141, 02-507 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Materials Science and Engineering, Warsaw University of Technology, Wołoska 141, 02-507 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5070225106",
+        "display_name": "Norbert Enzinger",
+        "orcid": "https://orcid.org/0000-0003-0051-9518"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4092182",
+          "display_name": "Graz University of Technology",
+          "ror": "https://ror.org/00d7xrm67",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Norbert Enzinger",
+      "raw_affiliation_strings": [
+        "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Science, Joining and Forming, Graz University of Technology, Kopernikusgasse 24/I, 8010 Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I4092182"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3350,
+    "currency": "USD",
+    "value_usd": 3350
+  },
+  "apc_paid": {
+    "value": 3350,
+    "currency": "USD",
+    "value_usd": 3350
+  },
+  "fwci": 4.2881,
+  "has_fulltext": false,
+  "cited_by_count": 23,
+  "citation_normalized_percentile": {
+    "value": 0.95138618,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "83",
+    "issue": null,
+    "first_page": "104066",
+    "last_page": "104066"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10705",
+    "display_name": "Additive Manufacturing Materials and Processes",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10705",
+      "display_name": "Additive Manufacturing Materials and Processes",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11143",
+      "display_name": "High Entropy Alloys Studies",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10834",
+      "display_name": "Welding Techniques and Residual Stresses",
+      "score": 0.9955000281333923,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.9284110069274902
+    },
+    {
+      "id": "https://openalex.org/keywords/superalloy",
+      "display_name": "Superalloy",
+      "score": 0.8550479412078857
+    },
+    {
+      "id": "https://openalex.org/keywords/microstructure",
+      "display_name": "Microstructure",
+      "score": 0.7535187005996704
+    },
+    {
+      "id": "https://openalex.org/keywords/temperature-cycling",
+      "display_name": "Temperature cycling",
+      "score": 0.6446977257728577
+    },
+    {
+      "id": "https://openalex.org/keywords/metallurgy",
+      "display_name": "Metallurgy",
+      "score": 0.628106951713562
+    },
+    {
+      "id": "https://openalex.org/keywords/cycling",
+      "display_name": "Cycling",
+      "score": 0.5666869878768921
+    },
+    {
+      "id": "https://openalex.org/keywords/deposition",
+      "display_name": "Deposition (geology)",
+      "score": 0.5651138424873352
+    },
+    {
+      "id": "https://openalex.org/keywords/nickel",
+      "display_name": "Nickel",
+      "score": 0.5226240754127502
+    },
+    {
+      "id": "https://openalex.org/keywords/thermal",
+      "display_name": "Thermal",
+      "score": 0.3973787724971771
+    },
+    {
+      "id": "https://openalex.org/keywords/composite-material",
+      "display_name": "Composite material",
+      "score": 0.3516092896461487
+    },
+    {
+      "id": "https://openalex.org/keywords/thermodynamics",
+      "display_name": "Thermodynamics",
+      "score": 0.10524168610572815
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.9284110069274902
+    },
+    {
+      "id": "https://openalex.org/C207055975",
+      "wikidata": "https://www.wikidata.org/wiki/Q637345",
+      "display_name": "Superalloy",
+      "level": 3,
+      "score": 0.8550479412078857
+    },
+    {
+      "id": "https://openalex.org/C87976508",
+      "wikidata": "https://www.wikidata.org/wiki/Q1498213",
+      "display_name": "Microstructure",
+      "level": 2,
+      "score": 0.7535187005996704
+    },
+    {
+      "id": "https://openalex.org/C177564732",
+      "wikidata": "https://www.wikidata.org/wiki/Q7698333",
+      "display_name": "Temperature cycling",
+      "level": 3,
+      "score": 0.6446977257728577
+    },
+    {
+      "id": "https://openalex.org/C191897082",
+      "wikidata": "https://www.wikidata.org/wiki/Q11467",
+      "display_name": "Metallurgy",
+      "level": 1,
+      "score": 0.628106951713562
+    },
+    {
+      "id": "https://openalex.org/C541528975",
+      "wikidata": "https://www.wikidata.org/wiki/Q53121",
+      "display_name": "Cycling",
+      "level": 2,
+      "score": 0.5666869878768921
+    },
+    {
+      "id": "https://openalex.org/C64297162",
+      "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+      "display_name": "Deposition (geology)",
+      "level": 3,
+      "score": 0.5651138424873352
+    },
+    {
+      "id": "https://openalex.org/C504270822",
+      "wikidata": "https://www.wikidata.org/wiki/Q744",
+      "display_name": "Nickel",
+      "level": 2,
+      "score": 0.5226240754127502
+    },
+    {
+      "id": "https://openalex.org/C204530211",
+      "wikidata": "https://www.wikidata.org/wiki/Q752823",
+      "display_name": "Thermal",
+      "level": 2,
+      "score": 0.3973787724971771
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.3516092896461487
+    },
+    {
+      "id": "https://openalex.org/C97355855",
+      "wikidata": "https://www.wikidata.org/wiki/Q11473",
+      "display_name": "Thermodynamics",
+      "level": 1,
+      "score": 0.10524168610572815
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C95457728",
+      "wikidata": "https://www.wikidata.org/wiki/Q309",
+      "display_name": "History",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2816523",
+      "wikidata": "https://www.wikidata.org/wiki/Q180184",
+      "display_name": "Sediment",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.addma.2024.104066",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.addma.2024.104066",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764842179",
+        "display_name": "Additive manufacturing",
+        "issn_l": "2214-7810",
+        "issn": [
+          "2214-7810",
+          "2214-8604"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Additive Manufacturing",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.addma.2024.104066",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.addma.2024.104066",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764842179",
+      "display_name": "Additive manufacturing",
+      "issn_l": "2214-7810",
+      "issn": [
+        "2214-7810",
+        "2214-8604"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Additive Manufacturing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "display_name": "Affordable and clean energy",
+      "score": 0.5099999904632568
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 118,
+  "referenced_works": [
+    "https://openalex.org/W1044182196",
+    "https://openalex.org/W1965711346",
+    "https://openalex.org/W1965764363",
+    "https://openalex.org/W1966325830",
+    "https://openalex.org/W1973545086",
+    "https://openalex.org/W1975631902",
+    "https://openalex.org/W1975960529",
+    "https://openalex.org/W1982639356",
+    "https://openalex.org/W1986910123",
+    "https://openalex.org/W1992283200",
+    "https://openalex.org/W1997153768",
+    "https://openalex.org/W2010495911",
+    "https://openalex.org/W2011977901",
+    "https://openalex.org/W2014984027",
+    "https://openalex.org/W2019679370",
+    "https://openalex.org/W2026466070",
+    "https://openalex.org/W2030356565",
+    "https://openalex.org/W2040851782",
+    "https://openalex.org/W2045962705",
+    "https://openalex.org/W2048333834",
+    "https://openalex.org/W2050675390",
+    "https://openalex.org/W2052886754",
+    "https://openalex.org/W2073157734",
+    "https://openalex.org/W2073528382",
+    "https://openalex.org/W2076456945",
+    "https://openalex.org/W2078382261",
+    "https://openalex.org/W2190188079",
+    "https://openalex.org/W2286336247",
+    "https://openalex.org/W2325756108",
+    "https://openalex.org/W2328401801",
+    "https://openalex.org/W2329196226",
+    "https://openalex.org/W2469105436",
+    "https://openalex.org/W2513796204",
+    "https://openalex.org/W2588779846",
+    "https://openalex.org/W2593734724",
+    "https://openalex.org/W2609834130",
+    "https://openalex.org/W2610394307",
+    "https://openalex.org/W2613747217",
+    "https://openalex.org/W2624727546",
+    "https://openalex.org/W2750084940",
+    "https://openalex.org/W2750415827",
+    "https://openalex.org/W2760901644",
+    "https://openalex.org/W2762367303",
+    "https://openalex.org/W2765708398",
+    "https://openalex.org/W2785215737",
+    "https://openalex.org/W2795504960",
+    "https://openalex.org/W2795835873",
+    "https://openalex.org/W2796588849",
+    "https://openalex.org/W2800923100",
+    "https://openalex.org/W2806654207",
+    "https://openalex.org/W2882972378",
+    "https://openalex.org/W2888097813",
+    "https://openalex.org/W2892025595",
+    "https://openalex.org/W2896344039",
+    "https://openalex.org/W2897423593",
+    "https://openalex.org/W2898160086",
+    "https://openalex.org/W2898462986",
+    "https://openalex.org/W2944418014",
+    "https://openalex.org/W2947813779",
+    "https://openalex.org/W2954475242",
+    "https://openalex.org/W2965123644",
+    "https://openalex.org/W2968088437",
+    "https://openalex.org/W2969528772",
+    "https://openalex.org/W2970793406",
+    "https://openalex.org/W2971321853",
+    "https://openalex.org/W2973304632",
+    "https://openalex.org/W2979207228",
+    "https://openalex.org/W2984993678",
+    "https://openalex.org/W3000468040",
+    "https://openalex.org/W3008297922",
+    "https://openalex.org/W3035735753",
+    "https://openalex.org/W3036450147",
+    "https://openalex.org/W3038577936",
+    "https://openalex.org/W3042313017",
+    "https://openalex.org/W3045088739",
+    "https://openalex.org/W3046205625",
+    "https://openalex.org/W3046973321",
+    "https://openalex.org/W3047025606",
+    "https://openalex.org/W3082676881",
+    "https://openalex.org/W3083376102",
+    "https://openalex.org/W3089319382",
+    "https://openalex.org/W3095498082",
+    "https://openalex.org/W3108932381",
+    "https://openalex.org/W3111070636",
+    "https://openalex.org/W3121387098",
+    "https://openalex.org/W3125996504",
+    "https://openalex.org/W3128700976",
+    "https://openalex.org/W3134906430",
+    "https://openalex.org/W3137556006",
+    "https://openalex.org/W3184182675",
+    "https://openalex.org/W3196121384",
+    "https://openalex.org/W4200378842",
+    "https://openalex.org/W4224067491",
+    "https://openalex.org/W4224290287",
+    "https://openalex.org/W4229446788",
+    "https://openalex.org/W4241591685",
+    "https://openalex.org/W4246597152",
+    "https://openalex.org/W4282925133",
+    "https://openalex.org/W4283786941",
+    "https://openalex.org/W4291718188",
+    "https://openalex.org/W4304084134",
+    "https://openalex.org/W4307047056",
+    "https://openalex.org/W4310060937",
+    "https://openalex.org/W4328047985",
+    "https://openalex.org/W4382402206",
+    "https://openalex.org/W4386399461",
+    "https://openalex.org/W4387462918",
+    "https://openalex.org/W4387569850",
+    "https://openalex.org/W4388894378",
+    "https://openalex.org/W4388914482",
+    "https://openalex.org/W6648226054",
+    "https://openalex.org/W6737495643",
+    "https://openalex.org/W6750291772",
+    "https://openalex.org/W6771381747",
+    "https://openalex.org/W6804908054",
+    "https://openalex.org/W6810536939",
+    "https://openalex.org/W6811451213",
+    "https://openalex.org/W6855432452"
+  ],
+  "related_works": [
+    "https://openalex.org/W1981107306",
+    "https://openalex.org/W3036391366",
+    "https://openalex.org/W2362048923",
+    "https://openalex.org/W771165116",
+    "https://openalex.org/W2171783265",
+    "https://openalex.org/W1977369301",
+    "https://openalex.org/W1980143584",
+    "https://openalex.org/W3158409994",
+    "https://openalex.org/W2084602863",
+    "https://openalex.org/W2426990953"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      16,
+      172
+    ],
+    "additive": [
+      1
+    ],
+    "manufacturing,": [
+      2
+    ],
+    "intrinsic": [
+      3
+    ],
+    "heat": [
+      4
+    ],
+    "treatments": [
+      5
+    ],
+    "take": [
+      6
+    ],
+    "place": [
+      7
+    ],
+    "during": [
+      8
+    ],
+    "deposition": [
+      9,
+      40,
+      50,
+      113,
+      154,
+      170,
+      176
+    ],
+    "that": [
+      10
+    ],
+    "affect": [
+      11
+    ],
+    "the": [
+      12,
+      19,
+      25,
+      72,
+      95,
+      101,
+      122,
+      132,
+      136,
+      145,
+      159,
+      165,
+      169,
+      174,
+      193,
+      198,
+      205,
+      213,
+      226
+    ],
+    "properties": [
+      13,
+      30,
+      223,
+      235
+    ],
+    "of": [
+      14,
+      21,
+      31,
+      92,
+      100,
+      138,
+      156,
+      161,
+      178,
+      190,
+      197,
+      229
+    ],
+    "AM-structures.": [
+      15
+    ],
+    "this": [
+      17
+    ],
+    "work,": [
+      18
+    ],
+    "influence": [
+      20
+    ],
+    "thermal": [
+      22,
+      62
+    ],
+    "cycling": [
+      23
+    ],
+    "on": [
+      24
+    ],
+    "local": [
+      26
+    ],
+    "microstructure": [
+      27,
+      228
+    ],
+    "and": [
+      28,
+      53,
+      66,
+      75,
+      84,
+      104,
+      115,
+      124,
+      140,
+      186,
+      236
+    ],
+    "mechanical": [
+      29,
+      214,
+      222,
+      234
+    ],
+    "nickel-based": [
+      32
+    ],
+    "superalloy": [
+      33
+    ],
+    "in": [
+      34,
+      61,
+      79,
+      131,
+      164,
+      184,
+      232
+    ],
+    "wire-based": [
+      35
+    ],
+    "electron": [
+      36
+    ],
+    "beam": [
+      37
+    ],
+    "directed": [
+      38
+    ],
+    "energy": [
+      39
+    ],
+    "(EB-DED)": [
+      41
+    ],
+    "was": [
+      42
+    ],
+    "investigated.": [
+      43
+    ],
+    "Structures": [
+      44,
+      216
+    ],
+    "were": [
+      45
+    ],
+    "fabricated": [
+      46,
+      217
+    ],
+    "using": [
+      47
+    ],
+    "a": [
+      48,
+      89,
+      187,
+      202
+    ],
+    "continuous": [
+      49
+    ],
+    "strategy": [
+      51,
+      57
+    ],
+    "(CDS)": [
+      52
+    ],
+    "discontinuous": [
+      54
+    ],
+    "interpass": [
+      55
+    ],
+    "cooling": [
+      56
+    ],
+    "(ICS)": [
+      58
+    ],
+    "revealing": [
+      59
+    ],
+    "changes": [
+      60,
+      210
+    ],
+    "profiles,": [
+      63
+    ],
+    "time-temperature": [
+      64
+    ],
+    "history,": [
+      65
+    ],
+    "microstructure.": [
+      67
+    ],
+    "An": [
+      68
+    ],
+    "altered": [
+      69
+    ],
+    "morphology": [
+      70
+    ],
+    "along": [
+      71,
+      94,
+      192,
+      204
+    ],
+    "build-up": [
+      73,
+      96
+    ],
+    "height": [
+      74
+    ],
+    "interdendritic": [
+      76,
+      133,
+      166
+    ],
+    "zones": [
+      77
+    ],
+    "enriched": [
+      78
+    ],
+    "Nb": [
+      80,
+      83,
+      129
+    ],
+    "are": [
+      81,
+      106,
+      119
+    ],
+    "formed.": [
+      82
+    ],
+    "Mo": [
+      85
+    ],
+    "did": [
+      86
+    ],
+    "not": [
+      87
+    ],
+    "show": [
+      88
+    ],
+    "clear": [
+      90
+    ],
+    "trend": [
+      91
+    ],
+    "segregation": [
+      93
+    ],
+    "height.": [
+      97,
+      171,
+      207
+    ],
+    "Lower": [
+      98
+    ],
+    "fractions": [
+      99
+    ],
+    "Laves": [
+      102
+    ],
+    "phase": [
+      103,
+      142
+    ],
+    "MCs": [
+      105
+    ],
+    "found": [
+      107,
+      120
+    ],
+    "for": [
+      108,
+      121
+    ],
+    "both": [
+      109
+    ],
+    "configurations.": [
+      110
+    ],
+    "Differences": [
+      111
+    ],
+    "between": [
+      112
+    ],
+    "strategies": [
+      114
+    ],
+    "locations": [
+      116
+    ],
+    "within": [
+      117
+    ],
+    "AM-structures": [
+      118
+    ],
+    "γ\"": [
+      123,
+      139,
+      163,
+      191,
+      199
+    ],
+    "δ": [
+      125,
+      141
+    ],
+    "phase.": [
+      126
+    ],
+    "The": [
+      127,
+      152,
+      208
+    ],
+    "higher": [
+      128
+    ],
+    "content": [
+      130
+    ],
+    "zone": [
+      134,
+      167
+    ],
+    "promotes": [
+      135
+    ],
+    "precipitation": [
+      137,
+      160
+    ],
+    "by": [
+      143,
+      201
+    ],
+    "shortening": [
+      144
+    ],
+    "aging": [
+      146
+    ],
+    "times": [
+      147,
+      155
+    ],
+    "compared": [
+      148
+    ],
+    "to": [
+      149,
+      181
+    ],
+    "wrought": [
+      150
+    ],
+    "materials.": [
+      151
+    ],
+    "longer": [
+      153
+    ],
+    "ICS": [
+      157,
+      219
+    ],
+    "favour": [
+      158
+    ],
+    "fine": [
+      162
+    ],
+    "throughout": [
+      168
+    ],
+    "contrast,": [
+      173
+    ],
+    "short": [
+      175
+    ],
+    "time": [
+      177
+    ],
+    "CDS": [
+      179,
+      230
+    ],
+    "leads": [
+      180
+    ],
+    "an": [
+      182
+    ],
+    "increase": [
+      183
+    ],
+    "temperature": [
+      185
+    ],
+    "heterogeneous": [
+      188
+    ],
+    "distribution": [
+      189
+    ],
+    "height,": [
+      194
+    ],
+    "i.e.": [
+      195
+    ],
+    "coarsening": [
+      196
+    ],
+    "followed": [
+      200
+    ],
+    "dissolution": [
+      203
+    ],
+    "built-up": [
+      206
+    ],
+    "microstructural": [
+      209
+    ],
+    "correlate": [
+      211
+    ],
+    "with": [
+      212,
+      218
+    ],
+    "properties.": [
+      215
+    ],
+    "exhibit": [
+      220
+    ],
+    "homogeneous": [
+      221
+    ],
+    "throughout,": [
+      224
+    ],
+    "while": [
+      225
+    ],
+    "graded": [
+      227,
+      233
+    ],
+    "results": [
+      231
+    ],
+    "decreasing": [
+      237
+    ],
+    "strength": [
+      238
+    ],
+    "throughout.": [
+      239
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1445 @@
+{
+  "id": "https://openalex.org/W4225394971",
+  "doi": "https://doi.org/10.1101/2022.04.30.490097",
+  "title": "Hypoxia-mediated regulation of DDX5 through decreased chromatin accessibility and post-translational targeting restricts R-loop accumulation",
+  "display_name": "Hypoxia-mediated regulation of DDX5 through decreased chromatin accessibility and post-translational targeting restricts R-loop accumulation",
+  "publication_year": 2022,
+  "publication_date": "2022-05-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4225394971",
+    "doi": "https://doi.org/10.1101/2022.04.30.490097"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/2022.04.30.490097",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2022.04.30.490097",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/01/2022.04.30.490097.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/01/2022.04.30.490097.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044365051",
+        "display_name": "Katarzyna B. Leszczyńska",
+        "orcid": "https://orcid.org/0000-0002-3504-1553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Katarzyna B. Leszczynska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3504-1553",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041804886",
+        "display_name": "Monika Dźwigońska",
+        "orcid": "https://orcid.org/0000-0003-1774-3671"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Dzwigonska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1774-3671",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051032773",
+        "display_name": "Hala Estephan",
+        "orcid": "https://orcid.org/0000-0001-7017-0038"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hala Estephan",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7017-0038",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027945532",
+        "display_name": "Jutta Moehlenbrink",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jutta Moehlenbrink",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001458356",
+        "display_name": "Elizabeth Bowler",
+        "orcid": "https://orcid.org/0000-0003-0808-1653"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth Bowler",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080172191",
+        "display_name": "Amato J. Giaccia",
+        "orcid": "https://orcid.org/0000-0002-1940-2750"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amato J. Giaccia",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033742662",
+        "display_name": "Jakub Mieczkowski",
+        "orcid": "https://orcid.org/0000-0002-2091-012X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Mieczkowski",
+      "raw_affiliation_strings": [
+        "3P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland",
+        "P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2091-012X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "3P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055257104",
+        "display_name": "Bożena Kamińska",
+        "orcid": "https://orcid.org/0000-0002-2642-4616"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bozena Kaminska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2642-4616",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018081801",
+        "display_name": "Ester M. Hammond",
+        "orcid": "https://orcid.org/0000-0002-2335-3146"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ester M. Hammond",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2335-3146",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford, OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5018081801",
+    "https://openalex.org/A5044365051"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I16778253",
+    "https://openalex.org/I40120149",
+    "https://openalex.org/I4210106471",
+    "https://openalex.org/I99542240"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11482",
+    "display_name": "RNA modifications and cancer",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/chromatin",
+      "display_name": "Chromatin",
+      "score": 0.7542654275894165
+    },
+    {
+      "id": "https://openalex.org/keywords/hypoxia",
+      "display_name": "Hypoxia (environmental)",
+      "score": 0.668170154094696
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-repression",
+      "display_name": "Psychological repression",
+      "score": 0.6618363857269287
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5717280507087708
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.5011823177337646
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-research",
+      "display_name": "Cancer research",
+      "score": 0.46359556913375854
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.4576647877693176
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.4485708773136139
+    },
+    {
+      "id": "https://openalex.org/keywords/molecular-biology",
+      "display_name": "Molecular biology",
+      "score": 0.3633514642715454
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.24005866050720215
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.23003312945365906
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C83640560",
+      "wikidata": "https://www.wikidata.org/wiki/Q180951",
+      "display_name": "Chromatin",
+      "level": 3,
+      "score": 0.7542654275894165
+    },
+    {
+      "id": "https://openalex.org/C7836513",
+      "wikidata": "https://www.wikidata.org/wiki/Q1641506",
+      "display_name": "Hypoxia (environmental)",
+      "level": 3,
+      "score": 0.668170154094696
+    },
+    {
+      "id": "https://openalex.org/C186310378",
+      "wikidata": "https://www.wikidata.org/wiki/Q941796",
+      "display_name": "Psychological repression",
+      "level": 4,
+      "score": 0.6618363857269287
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5717280507087708
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.5011823177337646
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.46359556913375854
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.4576647877693176
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.4485708773136139
+    },
+    {
+      "id": "https://openalex.org/C153911025",
+      "wikidata": "https://www.wikidata.org/wiki/Q7202",
+      "display_name": "Molecular biology",
+      "level": 1,
+      "score": 0.3633514642715454
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.24005866050720215
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.23003312945365906
+    },
+    {
+      "id": "https://openalex.org/C540031477",
+      "wikidata": "https://www.wikidata.org/wiki/Q629",
+      "display_name": "Oxygen",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1101/2022.04.30.490097",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/2022.04.30.490097",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/01/2022.04.30.490097.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmh:oai:ora.ox.ac.uk:uuid:08dbf021-2cc1-4b57-b46c-4e6f6976bc60",
+      "is_oa": true,
+      "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:08dbf021-2cc1-4b57-b46c-4e6f6976bc60",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402636",
+        "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I40120149",
+        "host_organization_name": "University of Oxford",
+        "host_organization_lineage": [
+          "https://openalex.org/I40120149"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Symplectic Elements",
+      "raw_type": "Journal article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/2022.04.30.490097",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2022.04.30.490097",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/01/2022.04.30.490097.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.8199999928474426
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1325498775",
+      "display_name": null,
+      "funder_award_id": "C5255",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G5492488923",
+      "display_name": null,
+      "funder_award_id": "C5255/A23755",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G5623900417",
+      "display_name": null,
+      "funder_award_id": "C5255/A23755",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G6672390248",
+      "display_name": null,
+      "funder_award_id": "grant C5255",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320314731",
+      "display_name": "UK Research and Innovation",
+      "ror": "https://ror.org/001aqnf71"
+    },
+    {
+      "id": "https://openalex.org/F4320319985",
+      "display_name": "Cancer Research UK",
+      "ror": "https://ror.org/054225q67"
+    },
+    {
+      "id": "https://openalex.org/F4320320290",
+      "display_name": "University of Oxford",
+      "ror": "https://ror.org/052gg0110"
+    },
+    {
+      "id": "https://openalex.org/F4320321697",
+      "display_name": "LOEWE Zentrum AdRIA",
+      "ror": "https://ror.org/05n911h24"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4225394971.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4225394971.grobid-xml"
+  },
+  "referenced_works_count": 66,
+  "referenced_works": [
+    "https://openalex.org/W1531821806",
+    "https://openalex.org/W1636392194",
+    "https://openalex.org/W1912093430",
+    "https://openalex.org/W1923177224",
+    "https://openalex.org/W1964951991",
+    "https://openalex.org/W1992473001",
+    "https://openalex.org/W2021341670",
+    "https://openalex.org/W2045949302",
+    "https://openalex.org/W2046594601",
+    "https://openalex.org/W2051465752",
+    "https://openalex.org/W2069415454",
+    "https://openalex.org/W2079246945",
+    "https://openalex.org/W2084116712",
+    "https://openalex.org/W2096083625",
+    "https://openalex.org/W2108696043",
+    "https://openalex.org/W2122969498",
+    "https://openalex.org/W2124470568",
+    "https://openalex.org/W2131271579",
+    "https://openalex.org/W2131478115",
+    "https://openalex.org/W2142237411",
+    "https://openalex.org/W2145453875",
+    "https://openalex.org/W2148739751",
+    "https://openalex.org/W2149627698",
+    "https://openalex.org/W2168525412",
+    "https://openalex.org/W2170551349",
+    "https://openalex.org/W2170830174",
+    "https://openalex.org/W2179438025",
+    "https://openalex.org/W2261235911",
+    "https://openalex.org/W2340421620",
+    "https://openalex.org/W2341539131",
+    "https://openalex.org/W2538772529",
+    "https://openalex.org/W2604808360",
+    "https://openalex.org/W2741326531",
+    "https://openalex.org/W2753679622",
+    "https://openalex.org/W2759609993",
+    "https://openalex.org/W2762970517",
+    "https://openalex.org/W2766758135",
+    "https://openalex.org/W2767490296",
+    "https://openalex.org/W2800358055",
+    "https://openalex.org/W2802561340",
+    "https://openalex.org/W2896646690",
+    "https://openalex.org/W2899937601",
+    "https://openalex.org/W2907261461",
+    "https://openalex.org/W2907440252",
+    "https://openalex.org/W2910670142",
+    "https://openalex.org/W2911555896",
+    "https://openalex.org/W2913346540",
+    "https://openalex.org/W2952073075",
+    "https://openalex.org/W2963200696",
+    "https://openalex.org/W3004418456",
+    "https://openalex.org/W3017630629",
+    "https://openalex.org/W3018790403",
+    "https://openalex.org/W3023610259",
+    "https://openalex.org/W3047599202",
+    "https://openalex.org/W3088887338",
+    "https://openalex.org/W3090242716",
+    "https://openalex.org/W3129101852",
+    "https://openalex.org/W3129892394",
+    "https://openalex.org/W3131055609",
+    "https://openalex.org/W3131795330",
+    "https://openalex.org/W3150063851",
+    "https://openalex.org/W3170275732",
+    "https://openalex.org/W3209536297",
+    "https://openalex.org/W4220719667",
+    "https://openalex.org/W4226316229",
+    "https://openalex.org/W6813094581"
+  ],
+  "related_works": [
+    "https://openalex.org/W1543402492",
+    "https://openalex.org/W4235862936",
+    "https://openalex.org/W2117627298",
+    "https://openalex.org/W1985297433",
+    "https://openalex.org/W1966072876",
+    "https://openalex.org/W2108557660",
+    "https://openalex.org/W2003579974",
+    "https://openalex.org/W2016468153",
+    "https://openalex.org/W4250311288",
+    "https://openalex.org/W53374033"
+  ],
+  "abstract_inverted_index": {
+    "ABSTRACT": [
+      0
+    ],
+    "Local": [
+      1
+    ],
+    "hypoxia": [
+      2,
+      84,
+      156
+    ],
+    "occurs": [
+      3
+    ],
+    "in": [
+      4,
+      19,
+      26,
+      47,
+      56,
+      83,
+      97,
+      102,
+      108,
+      123
+    ],
+    "most": [
+      5,
+      33
+    ],
+    "solid": [
+      6
+    ],
+    "tumors": [
+      7
+    ],
+    "and": [
+      8,
+      14,
+      62,
+      71,
+      107,
+      127,
+      174
+    ],
+    "is": [
+      9,
+      54,
+      121,
+      157,
+      172
+    ],
+    "associated": [
+      10
+    ],
+    "with": [
+      11,
+      79,
+      111
+    ],
+    "aggressive": [
+      12
+    ],
+    "disease": [
+      13
+    ],
+    "therapy": [
+      15
+    ],
+    "resistance.": [
+      16
+    ],
+    "Widespread": [
+      17
+    ],
+    "changes": [
+      18
+    ],
+    "gene": [
+      20,
+      60
+    ],
+    "expression": [
+      21,
+      96
+    ],
+    "play": [
+      22
+    ],
+    "a": [
+      23,
+      148
+    ],
+    "critical": [
+      24,
+      149
+    ],
+    "role": [
+      25,
+      171
+    ],
+    "the": [
+      27,
+      72,
+      77,
+      89,
+      145,
+      152,
+      158
+    ],
+    "biological": [
+      28,
+      153
+    ],
+    "response": [
+      29,
+      154
+    ],
+    "to": [
+      30,
+      42,
+      155
+    ],
+    "hypoxia.": [
+      31,
+      48
+    ],
+    "However,": [
+      32
+    ],
+    "research": [
+      34
+    ],
+    "has": [
+      35
+    ],
+    "focused": [
+      36
+    ],
+    "on": [
+      37
+    ],
+    "hypoxia-inducible": [
+      38
+    ],
+    "genes": [
+      39,
+      78
+    ],
+    "as": [
+      40,
+      166
+    ],
+    "opposed": [
+      41
+    ],
+    "those": [
+      43
+    ],
+    "which": [
+      44,
+      93
+    ],
+    "are": [
+      45,
+      65
+    ],
+    "decreased": [
+      46,
+      55,
+      80
+    ],
+    "We": [
+      49
+    ],
+    "demonstrate": [
+      50
+    ],
+    "that": [
+      51,
+      118,
+      133,
+      147
+    ],
+    "chromatin": [
+      52,
+      81
+    ],
+    "accessibility": [
+      53,
+      82
+    ],
+    "hypoxia,": [
+      57,
+      124
+    ],
+    "predominantly": [
+      58
+    ],
+    "at": [
+      59
+    ],
+    "promoters": [
+      61
+    ],
+    "specific": [
+      63,
+      173
+    ],
+    "pathways": [
+      64
+    ],
+    "impacted": [
+      66
+    ],
+    "including": [
+      67
+    ],
+    "DNA": [
+      68
+    ],
+    "repair,": [
+      69
+    ],
+    "splicing": [
+      70
+    ],
+    "R-loop": [
+      73,
+      128,
+      139,
+      162
+    ],
+    "interactome.": [
+      74
+    ],
+    "One": [
+      75
+    ],
+    "of": [
+      76,
+      136,
+      151,
+      160
+    ],
+    "was": [
+      85
+    ],
+    "DDX5": [
+      86,
+      120,
+      137
+    ],
+    ",": [
+      87
+    ],
+    "encoding": [
+      88
+    ],
+    "RNA": [
+      90
+    ],
+    "helicase,": [
+      91
+    ],
+    "DDX5,": [
+      92,
+      169
+    ],
+    "showed": [
+      94
+    ],
+    "reduced": [
+      95
+    ],
+    "various": [
+      98
+    ],
+    "cancer": [
+      99
+    ],
+    "cell": [
+      100
+    ],
+    "lines": [
+      101
+    ],
+    "hypoxic": [
+      103,
+      112
+    ],
+    "conditions,": [
+      104
+    ],
+    "tumor": [
+      105
+    ],
+    "xenografts": [
+      106
+    ],
+    "patient": [
+      109
+    ],
+    "samples": [
+      110
+    ],
+    "tumors.": [
+      113
+    ],
+    "Most": [
+      114
+    ],
+    "interestingly,": [
+      115
+    ],
+    "we": [
+      116
+    ],
+    "found": [
+      117
+    ],
+    "when": [
+      119
+    ],
+    "rescued": [
+      122
+    ],
+    "replication": [
+      125
+    ],
+    "stress": [
+      126
+    ],
+    "levels": [
+      129
+    ],
+    "accumulate": [
+      130
+    ],
+    "further,": [
+      131
+    ],
+    "demonstrating": [
+      132
+    ],
+    "hypoxia-mediated": [
+      134
+    ],
+    "repression": [
+      135,
+      159
+    ],
+    "restricts": [
+      138
+    ],
+    "accumulation.": [
+      140
+    ],
+    "Together": [
+      141
+    ],
+    "these": [
+      142
+    ],
+    "data": [
+      143
+    ],
+    "support": [
+      144
+    ],
+    "hypothesis": [
+      146
+    ],
+    "part": [
+      150
+    ],
+    "multiple": [
+      161
+    ],
+    "processing": [
+      163
+    ],
+    "factors,": [
+      164
+    ],
+    "however,": [
+      165
+    ],
+    "shown": [
+      167
+    ],
+    "for": [
+      168
+    ],
+    "their": [
+      170
+    ],
+    "distinct.": [
+      175
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

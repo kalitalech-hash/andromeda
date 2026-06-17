@@ -1,0 +1,3949 @@
+{
+  "id": "https://openalex.org/W4410360745",
+  "doi": "https://doi.org/10.1038/s41467-025-59553-0",
+  "title": "Inherited deficiency of DIAPH1 identifies a DNA double strand break repair pathway regulated by γ-actin",
+  "display_name": "Inherited deficiency of DIAPH1 identifies a DNA double strand break repair pathway regulated by γ-actin",
+  "publication_year": 2025,
+  "publication_date": "2025-05-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4410360745",
+    "doi": "https://doi.org/10.1038/s41467-025-59553-0",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40368919"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41467-025-59553-0",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-025-59553-0",
+    "pdf_url": "https://www.nature.com/articles/s41467-025-59553-0.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41467-025-59553-0.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016353622",
+        "display_name": "Beth L. Woodward",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Beth L. Woodward",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048569380",
+        "display_name": "Sudipta Lahiri",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sudipta Lahiri",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY, USA",
+          "institution_ids": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051356358",
+        "display_name": "Anoop Singh Chauhan",
+        "orcid": "https://orcid.org/0000-0001-8722-2404"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anoop S. Chauhan",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8722-2404",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107234736",
+        "display_name": "Marcos Rios Garcia",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200284239",
+          "display_name": "Universidade de Santiago de Compostela",
+          "ror": "https://ror.org/030eybx10",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200284239"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "ES",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcos Rios Garcia",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+        "Department of Physiology, CiMUS, University of Santiago de Compostela, Santiago de Compostela, Spain"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Physiology, CiMUS, University of Santiago de Compostela, Santiago de Compostela, Spain",
+          "institution_ids": [
+            "https://openalex.org/I200284239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5117540849",
+        "display_name": "Lucy E Goodley",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lucy E. Goodley",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016331420",
+        "display_name": "Thomas L. Clarke",
+        "orcid": "https://orcid.org/0000-0003-2295-7412"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111088046",
+          "display_name": "Boston University",
+          "ror": "https://ror.org/05qwgg493",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thomas L. Clarke",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, Boston University Chobanian and Avedisian School of Medicine, Boston, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2295-7412",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, Boston University Chobanian and Avedisian School of Medicine, Boston, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021810658",
+        "display_name": "Mohinder Pal",
+        "orcid": "https://orcid.org/0000-0002-8025-0119"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I20581793",
+          "display_name": "University of Kent",
+          "ror": "https://ror.org/00xkeyj56",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20581793"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohinder Pal",
+      "raw_affiliation_strings": [
+        "School of Natural Sciences, University of Kent, Canterbury, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8025-0119",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Natural Sciences, University of Kent, Canterbury, UK",
+          "institution_ids": [
+            "https://openalex.org/I20581793"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035346994",
+        "display_name": "Angelo Agathanggelou",
+        "orcid": "https://orcid.org/0000-0001-9529-2111"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Angelo Agathanggelou",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029070754",
+        "display_name": "Satpal S. Jhujh",
+        "orcid": "https://orcid.org/0000-0001-5766-659X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Satpal S. Jhujh",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5766-659X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072123750",
+        "display_name": "Anil Ganesh",
+        "orcid": "https://orcid.org/0000-0002-8144-7730"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anil N. Ganesh",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011762777",
+        "display_name": "Fay Marie Hollins",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fay M. Hollins",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003205028",
+        "display_name": "Valentina Galassi Deforie",
+        "orcid": "https://orcid.org/0000-0002-7123-8011"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Valentina Galassi Deforie",
+      "raw_affiliation_strings": [
+        "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7123-8011",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083555191",
+        "display_name": "Reza Maroofian",
+        "orcid": "https://orcid.org/0000-0001-6763-1542"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Reza Maroofian",
+      "raw_affiliation_strings": [
+        "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6763-1542",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027430673",
+        "display_name": "Stéphanie Efthymiou",
+        "orcid": "https://orcid.org/0000-0003-4900-9877"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stephanie Efthymiou",
+      "raw_affiliation_strings": [
+        "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4900-9877",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103249105",
+        "display_name": "Andrea Meinhardt",
+        "orcid": "https://orcid.org/0000-0003-3833-8210"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162051",
+          "display_name": "University Hospital Carl Gustav Carus",
+          "ror": "https://ror.org/04za5zm41",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210162051"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea Meinhardt",
+      "raw_affiliation_strings": [
+        "Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TUD Dresden University of Technology and Faculty of Medicine of TUD Dresden University of Technology, Dresden, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3833-8210",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TUD Dresden University of Technology and Faculty of Medicine of TUD Dresden University of Technology, Dresden, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162051"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027231153",
+        "display_name": "Christopher G. Mathew",
+        "orcid": "https://orcid.org/0000-0003-4178-1838"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1298207432",
+          "display_name": "Guy's Hospital",
+          "ror": "https://ror.org/04r33pf22",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1298207432",
+            "https://openalex.org/I200166805",
+            "https://openalex.org/I4210111135"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I183935753",
+          "display_name": "King's College London",
+          "ror": "https://ror.org/0220mzb33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I183935753"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I192619145",
+          "display_name": "University of the Witwatersrand",
+          "ror": "https://ror.org/03rp50x72",
+          "country_code": "ZA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I192619145"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "ZA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christopher G. Mathew",
+      "raw_affiliation_strings": [
+        "Department of Medical and Molecular Genetics, Faculty of Life Science and Medicine, King's College London, Guy's Hospital, London, UK",
+        "Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand, Johannesburg, South Africa"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4178-1838",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical and Molecular Genetics, Faculty of Life Science and Medicine, King's College London, Guy's Hospital, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I183935753",
+            "https://openalex.org/I1298207432"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand, Johannesburg, South Africa",
+          "institution_ids": [
+            "https://openalex.org/I192619145"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035107707",
+        "display_name": "Michael A. Simpson",
+        "orcid": "https://orcid.org/0000-0002-8539-8753"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1298207432",
+          "display_name": "Guy's Hospital",
+          "ror": "https://ror.org/04r33pf22",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1298207432",
+            "https://openalex.org/I200166805",
+            "https://openalex.org/I4210111135"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I183935753",
+          "display_name": "King's College London",
+          "ror": "https://ror.org/0220mzb33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I183935753"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael A. Simpson",
+      "raw_affiliation_strings": [
+        "Department of Medical and Molecular Genetics, Faculty of Life Science and Medicine, King's College London, Guy's Hospital, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8539-8753",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical and Molecular Genetics, Faculty of Life Science and Medicine, King's College London, Guy's Hospital, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I183935753",
+            "https://openalex.org/I1298207432"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033872267",
+        "display_name": "Heather C. Mefford",
+        "orcid": "https://orcid.org/0000-0001-7188-522X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1313298211",
+          "display_name": "St. Jude Children's Research Hospital",
+          "ror": "https://ror.org/02r3e0967",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1313298211",
+            "https://openalex.org/I2802152183"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Heather C. Mefford",
+      "raw_affiliation_strings": [
+        "Center for Pediatric Neurological Disease Research, St. Jude Children's Hospital, Memphis, TN, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7188-522X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Pediatric Neurological Disease Research, St. Jude Children's Hospital, Memphis, TN, USA",
+          "institution_ids": [
+            "https://openalex.org/I1313298211"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077862081",
+        "display_name": "Eissa Faqeih",
+        "orcid": "https://orcid.org/0000-0002-3123-1704"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801911633",
+          "display_name": "King Fahd Medical City",
+          "ror": "https://ror.org/01jgj2p89",
+          "country_code": "SA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I2801911633"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eissa A. Faqeih",
+      "raw_affiliation_strings": [
+        "King Fahad Medical City, Children's Hospital,, Riyadh, Kingdom of Saudi Arabia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "King Fahad Medical City, Children's Hospital,, Riyadh, Kingdom of Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2801911633"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049818360",
+        "display_name": "Sergio D. Rosenzweig",
+        "orcid": "https://orcid.org/0000-0002-5550-9678"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210155647",
+          "display_name": "National Institutes of Health Clinical Center",
+          "ror": "https://ror.org/04vfsmv21",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210155647"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sergio D. Rosenzweig",
+      "raw_affiliation_strings": [
+        "Immunology Service, Department of Laboratory Medicine, Clinical Center, National Institutes of Health, Bethesda, MD, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Immunology Service, Department of Laboratory Medicine, Clinical Center, National Institutes of Health, Bethesda, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210155647"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042075574",
+        "display_name": "Stefano Volpi",
+        "orcid": "https://orcid.org/0000-0002-7129-868X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801463291",
+          "display_name": "Istituto Giannina Gaslini",
+          "ror": "https://ror.org/0424g0k78",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801463291",
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I83816512",
+          "display_name": "University of Genoa",
+          "ror": "https://ror.org/0107c5v14",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83816512"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefano Volpi",
+      "raw_affiliation_strings": [
+        "DINOGMI, Università degli Studi di Genova, Genoa, Italy",
+        "UOC Reumatologia e Malattie Autoinfiammatorie, IRCCS Istituto Giannina Gaslini, Genoa, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7129-868X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "DINOGMI, Università degli Studi di Genova, Genoa, Italy",
+          "institution_ids": [
+            "https://openalex.org/I83816512"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UOC Reumatologia e Malattie Autoinfiammatorie, IRCCS Istituto Giannina Gaslini, Genoa, Italy",
+          "institution_ids": [
+            "https://openalex.org/I2801463291",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077084374",
+        "display_name": "Gigliola Di Matteo",
+        "orcid": "https://orcid.org/0000-0001-8344-5635"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I116067653",
+          "display_name": "University of Rome Tor Vergata",
+          "ror": "https://ror.org/02p77k626",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I116067653"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210123352",
+          "display_name": "Bambino Gesù Children's Hospital",
+          "ror": "https://ror.org/02sy42d13",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210123352",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gigliola Di Matteo",
+      "raw_affiliation_strings": [
+        "Department of Systems Medicine, Tor Vergata University, Rome, Italy",
+        "Research Unit of Primary Immunodeficiencies, Unit of Clinical Immunology and Vaccinology, Scientific Institute for Research and Healthcare (IRCCS) Bambino Gesù Children Hospital, Rome, Italy"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Medicine, Tor Vergata University, Rome, Italy",
+          "institution_ids": [
+            "https://openalex.org/I116067653"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Unit of Primary Immunodeficiencies, Unit of Clinical Immunology and Vaccinology, Scientific Institute for Research and Healthcare (IRCCS) Bambino Gesù Children Hospital, Rome, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210123352"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051276609",
+        "display_name": "Caterina Cancrini",
+        "orcid": "https://orcid.org/0000-0001-8410-9617"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I116067653",
+          "display_name": "University of Rome Tor Vergata",
+          "ror": "https://ror.org/02p77k626",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I116067653"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210123352",
+          "display_name": "Bambino Gesù Children's Hospital",
+          "ror": "https://ror.org/02sy42d13",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210123352",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Caterina Cancrini",
+      "raw_affiliation_strings": [
+        "Department of Systems Medicine, Tor Vergata University, Rome, Italy",
+        "Research Unit of Primary Immunodeficiencies, Unit of Clinical Immunology and Vaccinology, Scientific Institute for Research and Healthcare (IRCCS) Bambino Gesù Children Hospital, Rome, Italy"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Medicine, Tor Vergata University, Rome, Italy",
+          "institution_ids": [
+            "https://openalex.org/I116067653"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Unit of Primary Immunodeficiencies, Unit of Clinical Immunology and Vaccinology, Scientific Institute for Research and Healthcare (IRCCS) Bambino Gesù Children Hospital, Rome, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210123352"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014962879",
+        "display_name": "Annarita Scardamaglia",
+        "orcid": "https://orcid.org/0009-0007-6013-4819"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Annarita Scardamaglia",
+      "raw_affiliation_strings": [
+        "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030914420",
+        "display_name": "Fiona Shackley",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210164839",
+          "display_name": "Sheffield Children's Hospital",
+          "ror": "https://ror.org/05mshxb09",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210121472",
+            "https://openalex.org/I4210164839"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fiona Shackley",
+      "raw_affiliation_strings": [
+        "Paediatric Immunology, Allergy and Infectious Diseases, Sheffield Children's Hospital NHS Foundation Trust, Sheffield, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Paediatric Immunology, Allergy and Infectious Diseases, Sheffield Children's Hospital NHS Foundation Trust, Sheffield, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210164839"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001610204",
+        "display_name": "E. Graham Davies",
+        "orcid": "https://orcid.org/0000-0001-6838-263X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800349819",
+          "display_name": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+          "ror": "https://ror.org/03zydm450",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800349819"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "E. Graham Davies",
+      "raw_affiliation_strings": [
+        "Department of Immunology and Gene Therapy, Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunology and Gene Therapy, Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I2800349819"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036391705",
+        "display_name": "Shahnaz Ibrahim",
+        "orcid": "https://orcid.org/0000-0003-4018-6594"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118185606",
+          "display_name": "Aga Khan University",
+          "ror": "https://ror.org/03gd0dm95",
+          "country_code": "PK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118185606",
+            "https://openalex.org/I4210114929"
+          ]
+        }
+      ],
+      "countries": [
+        "PK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shahnaz Ibrahim",
+      "raw_affiliation_strings": [
+        "Department of pediatrics and child health, Aga Khan University, Karachi, Pakistan"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4018-6594",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of pediatrics and child health, Aga Khan University, Karachi, Pakistan",
+          "institution_ids": [
+            "https://openalex.org/I118185606"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032223113",
+        "display_name": "Peter D. Arkwright",
+        "orcid": "https://orcid.org/0000-0002-7411-5375"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter D. Arkwright",
+      "raw_affiliation_strings": [
+        "Lydia Becker Institute of Immunology and Inflammation, University of Manchester, Manchester, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7411-5375",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lydia Becker Institute of Immunology and Inflammation, University of Manchester, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016900292",
+        "display_name": "Maha S. Zaki",
+        "orcid": "https://orcid.org/0000-0001-7840-0002"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210131959",
+          "display_name": "National Research Centre",
+          "ror": "https://ror.org/02n85j827",
+          "country_code": "EG",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210131959"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maha S. Zaki",
+      "raw_affiliation_strings": [
+        "Clinical Genetics Department, Human Genetics and Genome Research Division, National Research Centre, Cairo, Egypt"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7840-0002",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Genetics Department, Human Genetics and Genome Research Division, National Research Centre, Cairo, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I4210131959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053059447",
+        "display_name": "Tatjana Stanković",
+        "orcid": "https://orcid.org/0000-0002-3780-274X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tatjana Stankovic",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101495952",
+        "display_name": "A. Malcolm R. Taylor",
+        "orcid": "https://orcid.org/0000-0002-7818-7595"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135017",
+          "display_name": "Cancer Research UK Clinical Trials Unit",
+          "ror": "https://ror.org/03qxptw71",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210135017",
+            "https://openalex.org/I79619799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Malcolm R. Taylor",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7818-7595",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I79619799",
+            "https://openalex.org/I4210135017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025960149",
+        "display_name": "Antonina Joanna Mazur",
+        "orcid": "https://orcid.org/0000-0002-7561-9030"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I219388962",
+          "display_name": "University of Wrocław",
+          "ror": "https://ror.org/00yae6e25",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I219388962"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antonina J. Mazur",
+      "raw_affiliation_strings": [
+        "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, Wroclaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7561-9030",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I219388962"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004336192",
+        "display_name": "Nataliya Di Donato",
+        "orcid": "https://orcid.org/0000-0001-9439-4677"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34809795",
+          "display_name": "Medizinische Hochschule Hannover",
+          "ror": "https://ror.org/00f2yqf98",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34809795"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nataliya Di Donato",
+      "raw_affiliation_strings": [
+        "Institute for Human Genetics, Hannover Medical School, Hannover, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9439-4677",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Human Genetics, Hannover Medical School, Hannover, Germany",
+          "institution_ids": [
+            "https://openalex.org/I34809795"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082436384",
+        "display_name": "Henry Houlden",
+        "orcid": "https://orcid.org/0000-0002-2866-7777"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Henry Houlden",
+      "raw_affiliation_strings": [
+        "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2866-7777",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neuromuscular Diseases, Queen Square Institute of Neurology, University College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081602466",
+        "display_name": "Eli Rothenberg",
+        "orcid": "https://orcid.org/0000-0002-1382-1380"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eli Rothenberg",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1382-1380",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY, USA",
+          "institution_ids": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5061443020",
+        "display_name": "Grant S. Stewart",
+        "orcid": "https://orcid.org/0000-0002-0960-3241"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79619799",
+          "display_name": "University of Birmingham",
+          "ror": "https://ror.org/03angcq70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Grant S. Stewart",
+      "raw_affiliation_strings": [
+        "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK. g.s.stewart@bham.ac.uk"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0960-3241",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer and Genomic Sciences, College of Medical and Health, University of Birmingham, Birmingham, UK. g.s.stewart@bham.ac.uk",
+          "institution_ids": [
+            "https://openalex.org/I79619799"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 10,
+  "institutions_distinct_count": 36,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5061443020"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I79619799"
+  ],
+  "apc_list": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "apc_paid": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "fwci": 0.5649,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.65602054,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "1",
+    "first_page": "4491",
+    "last_page": "4491"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10123",
+    "display_name": "DNA Repair Mechanisms",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10123",
+      "display_name": "DNA Repair Mechanisms",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10878",
+      "display_name": "CRISPR and Genetic Engineering",
+      "score": 0.9883000254631042,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11914",
+      "display_name": "PARP inhibition in cancer therapy",
+      "score": 0.9858999848365784,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/nijmegen-breakage-syndrome",
+      "display_name": "Nijmegen breakage syndrome",
+      "score": 0.7595071792602539
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-repair",
+      "display_name": "DNA repair",
+      "score": 0.6880436539649963
+    },
+    {
+      "id": "https://openalex.org/keywords/rad50",
+      "display_name": "Rad50",
+      "score": 0.6378533244132996
+    },
+    {
+      "id": "https://openalex.org/keywords/genome-instability",
+      "display_name": "Genome instability",
+      "score": 0.6097241044044495
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-damage",
+      "display_name": "DNA damage",
+      "score": 0.5088520050048828
+    },
+    {
+      "id": "https://openalex.org/keywords/chromatin",
+      "display_name": "Chromatin",
+      "score": 0.49414971470832825
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.48138025403022766
+    },
+    {
+      "id": "https://openalex.org/keywords/homologous-recombination",
+      "display_name": "Homologous recombination",
+      "score": 0.4664786458015442
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.44390881061553955
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.4044644832611084
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.3761926591396332
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.3254181742668152
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3222076892852783
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-binding-protein",
+      "display_name": "DNA-binding protein",
+      "score": 0.13700661063194275
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.10640338063240051
+    },
+    {
+      "id": "https://openalex.org/keywords/ataxia-telangiectasia",
+      "display_name": "Ataxia-telangiectasia",
+      "score": 0.0668393075466156
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777136964",
+      "wikidata": "https://www.wikidata.org/wiki/Q1250362",
+      "display_name": "Nijmegen breakage syndrome",
+      "level": 5,
+      "score": 0.7595071792602539
+    },
+    {
+      "id": "https://openalex.org/C134935766",
+      "wikidata": "https://www.wikidata.org/wiki/Q210538",
+      "display_name": "DNA repair",
+      "level": 3,
+      "score": 0.6880436539649963
+    },
+    {
+      "id": "https://openalex.org/C2775984157",
+      "wikidata": "https://www.wikidata.org/wiki/Q18035037",
+      "display_name": "Rad50",
+      "level": 5,
+      "score": 0.6378533244132996
+    },
+    {
+      "id": "https://openalex.org/C178169997",
+      "wikidata": "https://www.wikidata.org/wiki/Q2892636",
+      "display_name": "Genome instability",
+      "level": 4,
+      "score": 0.6097241044044495
+    },
+    {
+      "id": "https://openalex.org/C143425029",
+      "wikidata": "https://www.wikidata.org/wiki/Q5205747",
+      "display_name": "DNA damage",
+      "level": 3,
+      "score": 0.5088520050048828
+    },
+    {
+      "id": "https://openalex.org/C83640560",
+      "wikidata": "https://www.wikidata.org/wiki/Q180951",
+      "display_name": "Chromatin",
+      "level": 3,
+      "score": 0.49414971470832825
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.48138025403022766
+    },
+    {
+      "id": "https://openalex.org/C102744134",
+      "wikidata": "https://www.wikidata.org/wiki/Q22280388",
+      "display_name": "Homologous recombination",
+      "level": 3,
+      "score": 0.4664786458015442
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.44390881061553955
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.4044644832611084
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.3761926591396332
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.3254181742668152
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3222076892852783
+    },
+    {
+      "id": "https://openalex.org/C94966510",
+      "wikidata": "https://www.wikidata.org/wiki/Q2252764",
+      "display_name": "DNA-binding protein",
+      "level": 4,
+      "score": 0.13700661063194275
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.10640338063240051
+    },
+    {
+      "id": "https://openalex.org/C2779486608",
+      "wikidata": "https://www.wikidata.org/wiki/Q387082",
+      "display_name": "Ataxia-telangiectasia",
+      "level": 4,
+      "score": 0.0668393075466156
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86339819",
+      "wikidata": "https://www.wikidata.org/wiki/Q407384",
+      "display_name": "Transcription factor",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000080865",
+      "descriptor_name": "Formins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080865",
+      "descriptor_name": "Formins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080865",
+      "descriptor_name": "Formins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080865",
+      "descriptor_name": "Formins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080865",
+      "descriptor_name": "Formins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004260",
+      "descriptor_name": "DNA Repair",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004260",
+      "descriptor_name": "DNA Repair",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004260",
+      "descriptor_name": "DNA Repair",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004260",
+      "descriptor_name": "DNA Repair",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004260",
+      "descriptor_name": "DNA Repair",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018797",
+      "descriptor_name": "Cell Cycle Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D048868",
+      "descriptor_name": "Adaptor Proteins, Signal Transducing",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049932",
+      "descriptor_name": "Nijmegen Breakage Syndrome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053903",
+      "descriptor_name": "DNA Breaks, Double-Stranded",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053903",
+      "descriptor_name": "DNA Breaks, Double-Stranded",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053903",
+      "descriptor_name": "DNA Breaks, Double-Stranded",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053903",
+      "descriptor_name": "DNA Breaks, Double-Stranded",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053903",
+      "descriptor_name": "DNA Breaks, Double-Stranded",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059765",
+      "descriptor_name": "Homologous Recombination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059765",
+      "descriptor_name": "Homologous Recombination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059765",
+      "descriptor_name": "Homologous Recombination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059765",
+      "descriptor_name": "Homologous Recombination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059765",
+      "descriptor_name": "Homologous Recombination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41467-025-59553-0",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-025-59553-0",
+      "pdf_url": "https://www.nature.com/articles/s41467-025-59553-0.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40368919",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40368919",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature communications",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire/31f3a9b0-da81-40eb-a783-b9d9c9c3384b",
+      "is_oa": true,
+      "landing_page_url": "https://research.manchester.ac.uk/en/publications/31f3a9b0-da81-40eb-a783-b9d9c9c3384b",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400662",
+        "display_name": "Research Explorer (The University of Manchester)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I28407311",
+        "host_organization_name": "University of Manchester",
+        "host_organization_lineage": [
+          "https://openalex.org/I28407311"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Arkwright, P & al, E 2025, 'Inherited deficiency of DIAPH1 identifies a DNA double strand break repair pathway regulated by γ-actin', Nature Communications, vol. 16, 44991. https://doi.org/10.1038/s41467-025-59553-0",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire/95ad11af-97ef-47c2-8e34-61967aa6b438",
+      "is_oa": true,
+      "landing_page_url": "https://research.birmingham.ac.uk/en/publications/95ad11af-97ef-47c2-8e34-61967aa6b438",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402634",
+        "display_name": "University of Birmingham Research Portal (University of Birmingham)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I79619799",
+        "host_organization_name": "University of Birmingham",
+        "host_organization_lineage": [
+          "https://openalex.org/I79619799"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Woodward, B L, Lahiri, S, Chauhan, A S, Garcia, M R, Goodley, L E, Clarke, T L, Pal, M, Agathanggelou, A, Jhujh, S S, Ganesh, A N, Hollins, F M, Deforie, V G, Maroofian, R, Efthymiou, S, Meinhardt, A, Mathew, C G, Simpson, M A, Mefford, H C, Faqeih, E A, Rosenzweig, S D, Volpi, S, Di Matteo, G, Cancrini, C, Scardamaglia, A, Shackley, F, Davies, E G, Ibrahim, S, Arkwright, P D, Zaki, M S, Stankovic, T, Taylor, A M R, Mazur, A J, Di Donato, N, Houlden, H, Rothenberg, E & Stewart, G S 2025, 'Inherited deficiency of DIAPH1 identifies a DNA double strand break repair pathway regulated by γ-actin', Nature Communications, vol. 16, no. 1, 4491. https://doi.org/10.1038/s41467-025-59553-0",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:kar.kent.ac.uk:110084",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-025-59553-0>)",
+      "pdf_url": "https://kar.kent.ac.uk/110084/1/article.pdf",
+      "source": {
+        "id": "https://openalex.org/S4377196264",
+        "display_name": "Kent Academic Repository (University of Kent)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I20581793",
+        "host_organization_name": "University of Kent",
+        "host_organization_lineage": [
+          "https://openalex.org/I20581793"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "PeerReviewed"
+    },
+    {
+      "id": "pmh:oai:art.torvergata.it:2108/464023",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/2108/464023",
+      "pdf_url": "https://art.torvergata.it/bitstream/2108/464023/1/unpaywall-bitstream-818691331.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400993",
+        "display_name": "Cineca Institutional Research Information System (Tor Vergata University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I116067653",
+        "host_organization_name": "University of Rome Tor Vergata",
+        "host_organization_lineage": [
+          "https://openalex.org/I116067653"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:c888820b3dee414e8d015173e069d242",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/c888820b3dee414e8d015173e069d242",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 16, Iss 1, Pp 1-20 (2025)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12078678",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12078678",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nat Commun",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41467-025-59553-0",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-025-59553-0",
+    "pdf_url": "https://www.nature.com/articles/s41467-025-59553-0.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "score": 0.5099999904632568,
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1241918119",
+      "display_name": null,
+      "funder_award_id": "AI153040",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G1247727865",
+      "display_name": null,
+      "funder_award_id": "WT093205MA",
+      "funder_id": "https://openalex.org/F4320319990",
+      "funder_display_name": "National Institute for Health and Care Research"
+    },
+    {
+      "id": "https://openalex.org/G143157117",
+      "display_name": null,
+      "funder_award_id": "CA247773",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G1643949827",
+      "display_name": null,
+      "funder_award_id": "AEI/10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G1812197366",
+      "display_name": null,
+      "funder_award_id": "MICIU/AEI/10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G2262748287",
+      "display_name": null,
+      "funder_award_id": "501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G2912813555",
+      "display_name": null,
+      "funder_award_id": "GM134947",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G300979063",
+      "display_name": null,
+      "funder_award_id": "10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G3025291535",
+      "display_name": null,
+      "funder_award_id": "/10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G3216161013",
+      "display_name": null,
+      "funder_award_id": "WT093205MA",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G3317678548",
+      "display_name": null,
+      "funder_award_id": "R35 GM134947",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G3480869486",
+      "display_name": null,
+      "funder_award_id": "13039",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G4079952795",
+      "display_name": null,
+      "funder_award_id": "MICIU/AEI/10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G4167734551",
+      "display_name": "Defining how defects in actin-dependent DNA repair and replication cause disease",
+      "funder_award_id": "UKRI577",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G425668148",
+      "display_name": null,
+      "funder_award_id": ".13039/501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G4370371330",
+      "display_name": null,
+      "funder_award_id": "C17183/A23303",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G4639588712",
+      "display_name": null,
+      "funder_award_id": "WT104033AIA",
+      "funder_id": "https://openalex.org/F4320320286",
+      "funder_display_name": "University College London"
+    },
+    {
+      "id": "https://openalex.org/G464105488",
+      "display_name": null,
+      "funder_award_id": "PID2023",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G4814911389",
+      "display_name": null,
+      "funder_award_id": "WT093205MA",
+      "funder_id": "https://openalex.org/F4320320286",
+      "funder_display_name": "University College London"
+    },
+    {
+      "id": "https://openalex.org/G5080475149",
+      "display_name": null,
+      "funder_award_id": "10.13039",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G5093192202",
+      "display_name": null,
+      "funder_award_id": "WT093205MA",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G5970406233",
+      "display_name": null,
+      "funder_award_id": "WT104033AIA",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G6315689878",
+      "display_name": null,
+      "funder_award_id": "MICIU/AEI/10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G668785241",
+      "display_name": null,
+      "funder_award_id": "WT104033AIA",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G7084143925",
+      "display_name": null,
+      "funder_award_id": "AEI/10",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G7266728691",
+      "display_name": null,
+      "funder_award_id": "13039/501100011033",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G7393066450",
+      "display_name": null,
+      "funder_award_id": "MICIU/AEI/10.13039/501100011033",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G7535663061",
+      "display_name": null,
+      "funder_award_id": "AEI/10.",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G7718041779",
+      "display_name": null,
+      "funder_award_id": "C11497/A31309",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G8129640651",
+      "display_name": null,
+      "funder_award_id": "WT104033AIA",
+      "funder_id": "https://openalex.org/F4320319990",
+      "funder_display_name": "National Institute for Health and Care Research"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311904",
+      "display_name": "Wellcome Trust",
+      "ror": "https://ror.org/029chgv08"
+    },
+    {
+      "id": "https://openalex.org/F4320314731",
+      "display_name": "UK Research and Innovation",
+      "ror": "https://ror.org/001aqnf71"
+    },
+    {
+      "id": "https://openalex.org/F4320319985",
+      "display_name": "Cancer Research UK",
+      "ror": "https://ror.org/054225q67"
+    },
+    {
+      "id": "https://openalex.org/F4320319990",
+      "display_name": "National Institute for Health and Care Research",
+      "ror": "https://ror.org/0187kwz08"
+    },
+    {
+      "id": "https://openalex.org/F4320320286",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895"
+    },
+    {
+      "id": "https://openalex.org/F4320320615",
+      "display_name": "Lister Institute of Preventive Medicine",
+      "ror": "https://ror.org/03356n642"
+    },
+    {
+      "id": "https://openalex.org/F4320325311",
+      "display_name": "University College London Hospitals NHS Foundation Trust",
+      "ror": "https://ror.org/042fqyp44"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    },
+    {
+      "id": "https://openalex.org/F4320335598",
+      "display_name": "Agencia Estatal de Investigación",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4410360745.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4410360745.grobid-xml"
+  },
+  "referenced_works_count": 71,
+  "referenced_works": [
+    "https://openalex.org/W1516566300",
+    "https://openalex.org/W1808711893",
+    "https://openalex.org/W1910955453",
+    "https://openalex.org/W1979385111",
+    "https://openalex.org/W1987227626",
+    "https://openalex.org/W1998042508",
+    "https://openalex.org/W1999085806",
+    "https://openalex.org/W2003209528",
+    "https://openalex.org/W2004375241",
+    "https://openalex.org/W2020725656",
+    "https://openalex.org/W2021389784",
+    "https://openalex.org/W2026993081",
+    "https://openalex.org/W2043891370",
+    "https://openalex.org/W2050164609",
+    "https://openalex.org/W2053655134",
+    "https://openalex.org/W2055713200",
+    "https://openalex.org/W2060784304",
+    "https://openalex.org/W2062317708",
+    "https://openalex.org/W2075061574",
+    "https://openalex.org/W2081383642",
+    "https://openalex.org/W2120504118",
+    "https://openalex.org/W2122257200",
+    "https://openalex.org/W2124561611",
+    "https://openalex.org/W2124624490",
+    "https://openalex.org/W2134327202",
+    "https://openalex.org/W2135144687",
+    "https://openalex.org/W2154401446",
+    "https://openalex.org/W2164518522",
+    "https://openalex.org/W2319718943",
+    "https://openalex.org/W2413931725",
+    "https://openalex.org/W2507974128",
+    "https://openalex.org/W2520818430",
+    "https://openalex.org/W2536919668",
+    "https://openalex.org/W2746211832",
+    "https://openalex.org/W2764157960",
+    "https://openalex.org/W2770056467",
+    "https://openalex.org/W2808968889",
+    "https://openalex.org/W2809439755",
+    "https://openalex.org/W2814246515",
+    "https://openalex.org/W2888939490",
+    "https://openalex.org/W2893535784",
+    "https://openalex.org/W2896678910",
+    "https://openalex.org/W2911001534",
+    "https://openalex.org/W2928815779",
+    "https://openalex.org/W2951532637",
+    "https://openalex.org/W2974568482",
+    "https://openalex.org/W3016336653",
+    "https://openalex.org/W3020161249",
+    "https://openalex.org/W3024690320",
+    "https://openalex.org/W3081045667",
+    "https://openalex.org/W3081246627",
+    "https://openalex.org/W3109203712",
+    "https://openalex.org/W3135177572",
+    "https://openalex.org/W3154726357",
+    "https://openalex.org/W3159185663",
+    "https://openalex.org/W3197803464",
+    "https://openalex.org/W3204489433",
+    "https://openalex.org/W3216177033",
+    "https://openalex.org/W3216754170",
+    "https://openalex.org/W4200362259",
+    "https://openalex.org/W4221069222",
+    "https://openalex.org/W4221133076",
+    "https://openalex.org/W4281551816",
+    "https://openalex.org/W4288535424",
+    "https://openalex.org/W4297983243",
+    "https://openalex.org/W4318015341",
+    "https://openalex.org/W4361275094",
+    "https://openalex.org/W4378070296",
+    "https://openalex.org/W4381687098",
+    "https://openalex.org/W4389082403",
+    "https://openalex.org/W4399805121"
+  ],
+  "related_works": [
+    "https://openalex.org/W3041651963",
+    "https://openalex.org/W2046283209",
+    "https://openalex.org/W1618806168",
+    "https://openalex.org/W2165762767",
+    "https://openalex.org/W2600987503",
+    "https://openalex.org/W1988268466",
+    "https://openalex.org/W2088274825",
+    "https://openalex.org/W2077260273",
+    "https://openalex.org/W2037519090",
+    "https://openalex.org/W2112005097"
+  ],
+  "abstract_inverted_index": {
+    "DNA": [
+      0,
+      55,
+      220
+    ],
+    "double": [
+      1
+    ],
+    "strand": [
+      2
+    ],
+    "break": [
+      3
+    ],
+    "repair": [
+      4,
+      32,
+      162,
+      208
+    ],
+    "(DSBR)": [
+      5
+    ],
+    "represents": [
+      6
+    ],
+    "a": [
+      7,
+      50,
+      93,
+      119,
+      180,
+      230
+    ],
+    "fundamental": [
+      8
+    ],
+    "process": [
+      9
+    ],
+    "required": [
+      10
+    ],
+    "to": [
+      11,
+      36,
+      57,
+      165,
+      217,
+      222
+    ],
+    "maintain": [
+      12
+    ],
+    "genome": [
+      13
+    ],
+    "stability": [
+      14
+    ],
+    "and": [
+      15,
+      25,
+      71,
+      108,
+      124,
+      204,
+      246
+    ],
+    "prevent": [
+      16
+    ],
+    "the": [
+      17,
+      26,
+      65,
+      72,
+      87,
+      100,
+      128,
+      211,
+      214,
+      234
+    ],
+    "onset": [
+      18
+    ],
+    "of": [
+      19,
+      96,
+      127,
+      167,
+      182,
+      213,
+      219
+    ],
+    "disease.": [
+      20
+    ],
+    "Whilst": [
+      21
+    ],
+    "cell": [
+      22
+    ],
+    "cycle": [
+      23
+    ],
+    "phase": [
+      24
+    ],
+    "chromatin": [
+      27
+    ],
+    "context": [
+      28
+    ],
+    "largely": [
+      29
+    ],
+    "dictate": [
+      30
+    ],
+    "which": [
+      31,
+      68
+    ],
+    "pathway": [
+      33
+    ],
+    "is": [
+      34,
+      79,
+      176
+    ],
+    "utilised": [
+      35
+    ],
+    "restore": [
+      37
+    ],
+    "damaged": [
+      38
+    ],
+    "DNA,": [
+      39
+    ],
+    "it": [
+      40
+    ],
+    "has": [
+      41
+    ],
+    "been": [
+      42
+    ],
+    "recently": [
+      43
+    ],
+    "shown": [
+      44
+    ],
+    "that": [
+      45,
+      115,
+      125,
+      151,
+      172,
+      202
+    ],
+    "nuclear": [
+      46,
+      69
+    ],
+    "actin": [
+      47,
+      70,
+      74,
+      88
+    ],
+    "filaments": [
+      48
+    ],
+    "play": [
+      49,
+      118
+    ],
+    "major": [
+      51
+    ],
+    "role": [
+      52,
+      120
+    ],
+    "in": [
+      53,
+      86,
+      121,
+      179,
+      192
+    ],
+    "clustering": [
+      54
+    ],
+    "breaks": [
+      56,
+      221
+    ],
+    "facilitate": [
+      58
+    ],
+    "DSBR": [
+      59,
+      141,
+      174
+    ],
+    "by": [
+      60,
+      138,
+      209,
+      239
+    ],
+    "homologous": [
+      61
+    ],
+    "recombination": [
+      62
+    ],
+    "(HR).": [
+      63
+    ],
+    "However,": [
+      64
+    ],
+    "mechanism": [
+      66
+    ],
+    "with": [
+      67,
+      83,
+      99,
+      132,
+      145,
+      184,
+      190,
+      241
+    ],
+    "different": [
+      73
+    ],
+    "nucleating": [
+      75,
+      89
+    ],
+    "factors": [
+      76
+    ],
+    "regulate": [
+      77
+    ],
+    "HR": [
+      78,
+      101,
+      123,
+      161
+    ],
+    "unclear.": [
+      80
+    ],
+    "Interestingly,": [
+      81
+    ],
+    "patients": [
+      82,
+      158,
+      183,
+      240
+    ],
+    "biallelic": [
+      84
+    ],
+    "mutations": [
+      85,
+      134,
+      191
+    ],
+    "factor": [
+      90
+    ],
+    "DIAPH1": [
+      91,
+      116,
+      133,
+      203
+    ],
+    "exhibit": [
+      92
+    ],
+    "striking": [
+      94
+    ],
+    "overlap": [
+      95
+    ],
+    "clinical": [
+      97,
+      129,
+      147,
+      236
+    ],
+    "features": [
+      98
+    ],
+    "deficiency": [
+      102
+    ],
+    "disorders,": [
+      103
+    ],
+    "Nijmegen": [
+      104
+    ],
+    "Breakage": [
+      105,
+      110
+    ],
+    "Syndrome": [
+      106,
+      111,
+      157
+    ],
+    "(NBS)": [
+      107
+    ],
+    "Warsaw": [
+      109
+    ],
+    "(WABS).": [
+      112
+    ],
+    "This": [
+      113
+    ],
+    "suggests": [
+      114
+    ],
+    "may": [
+      117,
+      135
+    ],
+    "regulating": [
+      122
+    ],
+    "some": [
+      126
+    ],
+    "deficits": [
+      130
+    ],
+    "associated": [
+      131,
+      189
+    ],
+    "be": [
+      136
+    ],
+    "caused": [
+      137
+    ],
+    "an": [
+      139,
+      160
+    ],
+    "underlying": [
+      140
+    ],
+    "defect.": [
+      142
+    ],
+    "In": [
+      143
+    ],
+    "keeping": [
+      144
+    ],
+    "this": [
+      146,
+      173
+    ],
+    "similarity,": [
+      148
+    ],
+    "we": [
+      149,
+      170,
+      200
+    ],
+    "demonstrate": [
+      150,
+      201
+    ],
+    "cells": [
+      152
+    ],
+    "from": [
+      153
+    ],
+    "DIAL": [
+      154,
+      242
+    ],
+    "(DIAPH1": [
+      155
+    ],
+    "Loss-of-function)": [
+      156
+    ],
+    "display": [
+      159
+    ],
+    "defect": [
+      163,
+      175
+    ],
+    "comparable": [
+      164
+    ],
+    "loss": [
+      166
+    ],
+    "NBS1.": [
+      168
+    ],
+    "Moreover,": [
+      169
+    ],
+    "show": [
+      171
+    ],
+    "also": [
+      177
+    ],
+    "observed": [
+      178
+    ],
+    "subset": [
+      181
+    ],
+    "Baraitser-Winter": [
+      185
+    ],
+    "Cerebrofrontofacial": [
+      186
+    ],
+    "(BWCFF)": [
+      187
+    ],
+    "syndrome": [
+      188,
+      245
+    ],
+    "ACTG1": [
+      193
+    ],
+    "(γ-actin)": [
+      194
+    ],
+    "but": [
+      195
+    ],
+    "not": [
+      196
+    ],
+    "ACTB": [
+      197
+    ],
+    "(β-actin).": [
+      198
+    ],
+    "Lastly,": [
+      199
+    ],
+    "γ-actin": [
+      205
+    ],
+    "promote": [
+      206
+    ],
+    "HR-dependent": [
+      207
+    ],
+    "facilitating": [
+      210
+    ],
+    "relocalisation": [
+      212
+    ],
+    "MRE11/RAD50/NBS1": [
+      215
+    ],
+    "complex": [
+      216
+    ],
+    "sites": [
+      218
+    ],
+    "initiate": [
+      223
+    ],
+    "end-resection.": [
+      224
+    ],
+    "Taken": [
+      225
+    ],
+    "together,": [
+      226
+    ],
+    "these": [
+      227
+    ],
+    "data": [
+      228
+    ],
+    "provide": [
+      229
+    ],
+    "mechanistic": [
+      231
+    ],
+    "explanation": [
+      232
+    ],
+    "for": [
+      233
+    ],
+    "overlapping": [
+      235
+    ],
+    "symptoms": [
+      237
+    ],
+    "exhibited": [
+      238
+    ],
+    "syndrome,": [
+      243
+    ],
+    "BWCFF": [
+      244
+    ],
+    "NBS.": [
+      247
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

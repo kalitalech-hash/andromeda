@@ -1,0 +1,2036 @@
+{
+  "id": "https://openalex.org/W4380082341",
+  "doi": "https://doi.org/10.1080/00295450.2023.2209234",
+  "title": "Predictive and Inverse Modeling of a Radionuclide Diffusion Experiment in Crystalline Rock at ONKALO (Finland)",
+  "display_name": "Predictive and Inverse Modeling of a Radionuclide Diffusion Experiment in Crystalline Rock at ONKALO (Finland)",
+  "publication_year": 2023,
+  "publication_date": "2023-06-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4380082341",
+    "doi": "https://doi.org/10.1080/00295450.2023.2209234"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/00295450.2023.2209234",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/00295450.2023.2209234",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/00295450.2023.2209234?needAccess=true&role=button",
+    "source": {
+      "id": "https://openalex.org/S190997038",
+      "display_name": "Nuclear Technology",
+      "issn_l": "0029-5450",
+      "issn": [
+        "0029-5450",
+        "1943-7471"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nuclear Technology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/00295450.2023.2209234?needAccess=true&role=button",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5069378790",
+        "display_name": "Josep M. Soler",
+        "orcid": "https://orcid.org/0000-0003-0741-249X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134820265",
+          "display_name": "Consejo Superior de Investigaciones Científicas",
+          "ror": "https://ror.org/02gfc7t72",
+          "country_code": "ES",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I134820265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210143256",
+          "display_name": "Institute of Environmental Assessment and Water Research",
+          "ror": "https://ror.org/056yktd04",
+          "country_code": "ES",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I134820265",
+            "https://openalex.org/I4210143256"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Josep M. Soler",
+      "raw_affiliation_strings": [
+        "IDAEA-CSIC, 08034 Barcelona, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0741-249X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "IDAEA-CSIC, 08034 Barcelona, Spain",
+          "institution_ids": [
+            "https://openalex.org/I134820265",
+            "https://openalex.org/I4210143256"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077389449",
+        "display_name": "Pekka Kekäläinen",
+        "orcid": "https://orcid.org/0000-0002-2514-3695"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I133731052",
+          "display_name": "University of Helsinki",
+          "ror": "https://ror.org/040af2s02",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I133731052"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pekka Kekäläinen",
+      "raw_affiliation_strings": [
+        "University of Helsinki, FI-00014, Helsinki, Finland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2514-3695",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Helsinki, FI-00014, Helsinki, Finland",
+          "institution_ids": [
+            "https://openalex.org/I133731052"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109154847",
+        "display_name": "Veli-Matti Pulkkanen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I87653560",
+          "display_name": "VTT Technical Research Centre of Finland",
+          "ror": "https://ror.org/04b181w54",
+          "country_code": "FI",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210089493",
+            "https://openalex.org/I87653560"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Veli-Matti Pulkkanen",
+      "raw_affiliation_strings": [
+        "VTT Technical Research Centre of Finland Ltd, FI-02044 VTT, Finland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "VTT Technical Research Centre of Finland Ltd, FI-02044 VTT, Finland",
+          "institution_ids": [
+            "https://openalex.org/I87653560"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101510373",
+        "display_name": "Luis Moreno",
+        "orcid": "https://orcid.org/0000-0001-8241-2225"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86987016",
+          "display_name": "KTH Royal Institute of Technology",
+          "ror": "https://ror.org/026vcq606",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Luis Moreno",
+      "raw_affiliation_strings": [
+        "Royal Institute of Technology (KTH), SE 100 44, Stockholm, Sweden"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8241-2225",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Royal Institute of Technology (KTH), SE 100 44, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053278040",
+        "display_name": "Aitor Iraola",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092300",
+          "display_name": "Amphos 21 (Spain)",
+          "ror": "https://ror.org/00p66nq73",
+          "country_code": "ES",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210092300"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aitor Iraola",
+      "raw_affiliation_strings": [
+        "Amphos 21, 08019 Barcelona, Spain"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Amphos 21, 08019 Barcelona, Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210092300"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033476507",
+        "display_name": "Paolo Trinchero",
+        "orcid": "https://orcid.org/0000-0003-1351-2788"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092300",
+          "display_name": "Amphos 21 (Spain)",
+          "ror": "https://ror.org/00p66nq73",
+          "country_code": "ES",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210092300"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paolo Trinchero",
+      "raw_affiliation_strings": [
+        "Amphos 21, 08019 Barcelona, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1351-2788",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Amphos 21, 08019 Barcelona, Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210092300"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081935607",
+        "display_name": "Milan Hokr",
+        "orcid": "https://orcid.org/0000-0003-3793-3341"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I147009085",
+          "display_name": "Technical University of Liberec",
+          "ror": "https://ror.org/02jtk7k02",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I147009085"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Milan Hokr",
+      "raw_affiliation_strings": [
+        "Technical University of Liberec, 461 17 Liberec 1, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3793-3341",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Technical University of Liberec, 461 17 Liberec 1, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I147009085"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034623448",
+        "display_name": "Jakub Říha",
+        "orcid": "https://orcid.org/0000-0002-0106-0502"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I147009085",
+          "display_name": "Technical University of Liberec",
+          "ror": "https://ror.org/02jtk7k02",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I147009085"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Říha",
+      "raw_affiliation_strings": [
+        "Technical University of Liberec, 461 17 Liberec 1, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0106-0502",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Technical University of Liberec, 461 17 Liberec 1, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I147009085"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030707252",
+        "display_name": "Václava Havlová",
+        "orcid": "https://orcid.org/0000-0003-0424-3862"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162199",
+          "display_name": "Nuclear Research Institute Rez (Czechia)",
+          "ror": "https://ror.org/05gwtvp11",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210162199"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Václava Havlová",
+      "raw_affiliation_strings": [
+        "ÚJV Řež, a.s, 250 68 Husinec, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0424-3862",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "ÚJV Řež, a.s, 250 68 Husinec, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210162199"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053506656",
+        "display_name": "Dagmar Trpkošová",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162199",
+          "display_name": "Nuclear Research Institute Rez (Czechia)",
+          "ror": "https://ror.org/05gwtvp11",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210162199"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dagmar Trpkošová",
+      "raw_affiliation_strings": [
+        "ÚJV Řež, a.s, 250 68 Husinec, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "ÚJV Řež, a.s, 250 68 Husinec, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210162199"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036557192",
+        "display_name": "Aleš Vetešník",
+        "orcid": "https://orcid.org/0000-0001-7443-431X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleš Vetešník",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, 160 00 Prague 6, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7443-431X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, 160 00 Prague 6, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063990306",
+        "display_name": "D. Vopálka",
+        "orcid": "https://orcid.org/0000-0001-9659-5317"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dušan Vopálka",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, 160 00 Prague 6, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9659-5317",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, 160 00 Prague 6, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5019140081",
+        "display_name": "Libor Gvoždík",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210096595",
+          "display_name": "Progeo (Czechia)",
+          "ror": "https://ror.org/00bmwn733",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210096595"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Libor Gvoždík",
+      "raw_affiliation_strings": [
+        "Progeo, 252 63 Roztoky, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Progeo, 252 63 Roztoky, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210096595"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013948349",
+        "display_name": "Martin Milický",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210096595",
+          "display_name": "Progeo (Czechia)",
+          "ror": "https://ror.org/00bmwn733",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210096595"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Martin Milický",
+      "raw_affiliation_strings": [
+        "Progeo, 252 63 Roztoky, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Progeo, 252 63 Roztoky, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210096595"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052662868",
+        "display_name": "Michal Polák",
+        "orcid": "https://orcid.org/0000-0002-5061-1534"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210096595",
+          "display_name": "Progeo (Czechia)",
+          "ror": "https://ror.org/00bmwn733",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210096595"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Polák",
+      "raw_affiliation_strings": [
+        "Progeo, 252 63 Roztoky, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Progeo, 252 63 Roztoky, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210096595"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005111530",
+        "display_name": "Yuta Fukatsu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I117197279",
+          "display_name": "Japan Atomic Energy Agency",
+          "ror": "https://ror.org/05nf86y53",
+          "country_code": "JP",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I117197279"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuta Fukatsu",
+      "raw_affiliation_strings": [
+        "Japan Atomic Energy Agency (JAEA), Tokai-mura, Naka-gun, Ibaraki, 319-1184, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Japan Atomic Energy Agency (JAEA), Tokai-mura, Naka-gun, Ibaraki, 319-1184, Japan",
+          "institution_ids": [
+            "https://openalex.org/I117197279"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025262666",
+        "display_name": "Tsuyoshi Ito",
+        "orcid": "https://orcid.org/0000-0001-6193-2408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I117197279",
+          "display_name": "Japan Atomic Energy Agency",
+          "ror": "https://ror.org/05nf86y53",
+          "country_code": "JP",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I117197279"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tsuyoshi Ito",
+      "raw_affiliation_strings": [
+        "Japan Atomic Energy Agency (JAEA), Tokai-mura, Naka-gun, Ibaraki, 319-1184, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Japan Atomic Energy Agency (JAEA), Tokai-mura, Naka-gun, Ibaraki, 319-1184, Japan",
+          "institution_ids": [
+            "https://openalex.org/I117197279"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057809722",
+        "display_name": "Yukio Tachi",
+        "orcid": "https://orcid.org/0000-0001-7224-2103"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I117197279",
+          "display_name": "Japan Atomic Energy Agency",
+          "ror": "https://ror.org/05nf86y53",
+          "country_code": "JP",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I117197279"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yukio Tachi",
+      "raw_affiliation_strings": [
+        "Japan Atomic Energy Agency (JAEA), Tokai-mura, Naka-gun, Ibaraki, 319-1184, Japan"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7224-2103",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Japan Atomic Energy Agency (JAEA), Tokai-mura, Naka-gun, Ibaraki, 319-1184, Japan",
+          "institution_ids": [
+            "https://openalex.org/I117197279"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033370886",
+        "display_name": "Urban Svensson",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Urban Svensson",
+      "raw_affiliation_strings": [
+        "Computer-aided Fluid Engineering AB, 371 65 Lyckeby, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Computer-aided Fluid Engineering AB, 371 65 Lyckeby, Sweden",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109428916",
+        "display_name": "Dong Kyu Park",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I155671955",
+          "display_name": "Korea Atomic Energy Research Institute",
+          "ror": "https://ror.org/01xb4fs50",
+          "country_code": "KR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I155671955",
+            "https://openalex.org/I27494661",
+            "https://openalex.org/I2801339556",
+            "https://openalex.org/I2801339556",
+            "https://openalex.org/I4210144908",
+            "https://openalex.org/I4387152098",
+            "https://openalex.org/I4387152098"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dong Kyu Park",
+      "raw_affiliation_strings": [
+        "Korea Atomic Energy Research Institute (KAERI), Daejeon, 3405, Republic of Korea"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Korea Atomic Energy Research Institute (KAERI), Daejeon, 3405, Republic of Korea",
+          "institution_ids": [
+            "https://openalex.org/I155671955"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084717335",
+        "display_name": "Sung‐Hoon Ji",
+        "orcid": "https://orcid.org/0000-0002-2506-4049"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I155671955",
+          "display_name": "Korea Atomic Energy Research Institute",
+          "ror": "https://ror.org/01xb4fs50",
+          "country_code": "KR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I155671955",
+            "https://openalex.org/I27494661",
+            "https://openalex.org/I2801339556",
+            "https://openalex.org/I2801339556",
+            "https://openalex.org/I4210144908",
+            "https://openalex.org/I4387152098",
+            "https://openalex.org/I4387152098"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sung-Hoon Ji",
+      "raw_affiliation_strings": [
+        "Korea Atomic Energy Research Institute (KAERI), Daejeon, 3405, Republic of Korea"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2506-4049",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Korea Atomic Energy Research Institute (KAERI), Daejeon, 3405, Republic of Korea",
+          "institution_ids": [
+            "https://openalex.org/I155671955"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030179099",
+        "display_name": "Björn Gylling",
+        "orcid": "https://orcid.org/0000-0002-2464-6725"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210116398",
+          "display_name": "Applied GeoSolutions (United States)",
+          "ror": "https://ror.org/02gnmy268",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210116398"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Björn Gylling",
+      "raw_affiliation_strings": [
+        "Gylling GeoSolutions, Evanston, Illinois 60203"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2464-6725",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Gylling GeoSolutions, Evanston, Illinois 60203",
+          "institution_ids": [
+            "https://openalex.org/I4210116398"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5087236165",
+        "display_name": "G. W. Lanyon",
+        "orcid": "https://orcid.org/0000-0002-1169-4170"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "G. William Lanyon",
+      "raw_affiliation_strings": [
+        "Fracture Systems Ltd, St Ives, Cornwall, TR26 1EQ, United Kingdom"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1169-4170",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Fracture Systems Ltd, St Ives, Cornwall, TR26 1EQ, United Kingdom",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 7,
+  "institutions_distinct_count": 23,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5069378790"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I134820265",
+    "https://openalex.org/I4210143256"
+  ],
+  "apc_list": null,
+  "apc_paid": {
+    "value": 1822,
+    "currency": "EUR",
+    "value_usd": 1965
+  },
+  "fwci": 0.7918,
+  "has_fulltext": true,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.68016042,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "209",
+    "issue": "11",
+    "first_page": "1765",
+    "last_page": "1784"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10894",
+    "display_name": "Groundwater flow and contamination studies",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10894",
+      "display_name": "Groundwater flow and contamination studies",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10398",
+      "display_name": "Groundwater and Isotope Geochemistry",
+      "score": 0.9969000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1906",
+        "display_name": "Geochemistry and Petrology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10716",
+      "display_name": "Soil and Unsaturated Flow",
+      "score": 0.9947999715805054,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2205",
+        "display_name": "Civil and Structural Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/tracer",
+      "display_name": "TRACER",
+      "score": 0.8776650428771973
+    },
+    {
+      "id": "https://openalex.org/keywords/sorption",
+      "display_name": "Sorption",
+      "score": 0.7789818048477173
+    },
+    {
+      "id": "https://openalex.org/keywords/borehole",
+      "display_name": "Borehole",
+      "score": 0.7580569982528687
+    },
+    {
+      "id": "https://openalex.org/keywords/radionuclide",
+      "display_name": "Radionuclide",
+      "score": 0.7158340811729431
+    },
+    {
+      "id": "https://openalex.org/keywords/diffusion",
+      "display_name": "Diffusion",
+      "score": 0.6607029438018799
+    },
+    {
+      "id": "https://openalex.org/keywords/groundwater",
+      "display_name": "Groundwater",
+      "score": 0.5304065942764282
+    },
+    {
+      "id": "https://openalex.org/keywords/tritiated-water",
+      "display_name": "Tritiated water",
+      "score": 0.4928879737854004
+    },
+    {
+      "id": "https://openalex.org/keywords/isotropy",
+      "display_name": "Isotropy",
+      "score": 0.4899410605430603
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.4782221019268036
+    },
+    {
+      "id": "https://openalex.org/keywords/anisotropy",
+      "display_name": "Anisotropy",
+      "score": 0.4356966018676758
+    },
+    {
+      "id": "https://openalex.org/keywords/radioactive-waste",
+      "display_name": "Radioactive waste",
+      "score": 0.41952720284461975
+    },
+    {
+      "id": "https://openalex.org/keywords/soil-science",
+      "display_name": "Soil science",
+      "score": 0.3914216160774231
+    },
+    {
+      "id": "https://openalex.org/keywords/thermodynamics",
+      "display_name": "Thermodynamics",
+      "score": 0.2969703674316406
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.28448671102523804
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.21036824584007263
+    },
+    {
+      "id": "https://openalex.org/keywords/nuclear-chemistry",
+      "display_name": "Nuclear chemistry",
+      "score": 0.17794722318649292
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.17596882581710815
+    },
+    {
+      "id": "https://openalex.org/keywords/nuclear-physics",
+      "display_name": "Nuclear physics",
+      "score": 0.17098748683929443
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-chemistry",
+      "display_name": "Physical chemistry",
+      "score": 0.09566769003868103
+    },
+    {
+      "id": "https://openalex.org/keywords/tritium",
+      "display_name": "Tritium",
+      "score": 0.09528166055679321
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778863792",
+      "wikidata": "https://www.wikidata.org/wiki/Q16909918",
+      "display_name": "TRACER",
+      "level": 2,
+      "score": 0.8776650428771973
+    },
+    {
+      "id": "https://openalex.org/C58445606",
+      "wikidata": "https://www.wikidata.org/wiki/Q898533",
+      "display_name": "Sorption",
+      "level": 3,
+      "score": 0.7789818048477173
+    },
+    {
+      "id": "https://openalex.org/C150560799",
+      "wikidata": "https://www.wikidata.org/wiki/Q502102",
+      "display_name": "Borehole",
+      "level": 2,
+      "score": 0.7580569982528687
+    },
+    {
+      "id": "https://openalex.org/C158973077",
+      "wikidata": "https://www.wikidata.org/wiki/Q192900",
+      "display_name": "Radionuclide",
+      "level": 2,
+      "score": 0.7158340811729431
+    },
+    {
+      "id": "https://openalex.org/C69357855",
+      "wikidata": "https://www.wikidata.org/wiki/Q163214",
+      "display_name": "Diffusion",
+      "level": 2,
+      "score": 0.6607029438018799
+    },
+    {
+      "id": "https://openalex.org/C76177295",
+      "wikidata": "https://www.wikidata.org/wiki/Q161598",
+      "display_name": "Groundwater",
+      "level": 2,
+      "score": 0.5304065942764282
+    },
+    {
+      "id": "https://openalex.org/C2780000105",
+      "wikidata": "https://www.wikidata.org/wiki/Q424236",
+      "display_name": "Tritiated water",
+      "level": 3,
+      "score": 0.4928879737854004
+    },
+    {
+      "id": "https://openalex.org/C184050105",
+      "wikidata": "https://www.wikidata.org/wiki/Q273163",
+      "display_name": "Isotropy",
+      "level": 2,
+      "score": 0.4899410605430603
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.4782221019268036
+    },
+    {
+      "id": "https://openalex.org/C85725439",
+      "wikidata": "https://www.wikidata.org/wiki/Q466686",
+      "display_name": "Anisotropy",
+      "level": 2,
+      "score": 0.4356966018676758
+    },
+    {
+      "id": "https://openalex.org/C89690796",
+      "wikidata": "https://www.wikidata.org/wiki/Q185252",
+      "display_name": "Radioactive waste",
+      "level": 2,
+      "score": 0.41952720284461975
+    },
+    {
+      "id": "https://openalex.org/C159390177",
+      "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+      "display_name": "Soil science",
+      "level": 1,
+      "score": 0.3914216160774231
+    },
+    {
+      "id": "https://openalex.org/C97355855",
+      "wikidata": "https://www.wikidata.org/wiki/Q11473",
+      "display_name": "Thermodynamics",
+      "level": 1,
+      "score": 0.2969703674316406
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.28448671102523804
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.21036824584007263
+    },
+    {
+      "id": "https://openalex.org/C13965031",
+      "wikidata": "https://www.wikidata.org/wiki/Q243545",
+      "display_name": "Nuclear chemistry",
+      "level": 1,
+      "score": 0.17794722318649292
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.17596882581710815
+    },
+    {
+      "id": "https://openalex.org/C185544564",
+      "wikidata": "https://www.wikidata.org/wiki/Q81197",
+      "display_name": "Nuclear physics",
+      "level": 1,
+      "score": 0.17098748683929443
+    },
+    {
+      "id": "https://openalex.org/C147789679",
+      "wikidata": "https://www.wikidata.org/wiki/Q11372",
+      "display_name": "Physical chemistry",
+      "level": 1,
+      "score": 0.09566769003868103
+    },
+    {
+      "id": "https://openalex.org/C62538594",
+      "wikidata": "https://www.wikidata.org/wiki/Q54389",
+      "display_name": "Tritium",
+      "level": 2,
+      "score": 0.09528166055679321
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C150394285",
+      "wikidata": "https://www.wikidata.org/wiki/Q180254",
+      "display_name": "Adsorption",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/00295450.2023.2209234",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/00295450.2023.2209234",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/00295450.2023.2209234?needAccess=true&role=button",
+      "source": {
+        "id": "https://openalex.org/S190997038",
+        "display_name": "Nuclear Technology",
+        "issn_l": "0029-5450",
+        "issn": [
+          "0029-5450",
+          "1943-7471"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nuclear Technology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:digital.csic.es:10261/330753",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10261/330753",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400616",
+        "display_name": "DIGITAL.CSIC (Spanish National Research Council (CSIC))",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I134820265",
+        "host_organization_name": "Consejo Superior de Investigaciones Científicas",
+        "host_organization_lineage": [
+          "https://openalex.org/I134820265"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1080/00295450.2023.2209234",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/00295450.2023.2209234",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/00295450.2023.2209234?needAccess=true&role=button",
+    "source": {
+      "id": "https://openalex.org/S190997038",
+      "display_name": "Nuclear Technology",
+      "issn_l": "0029-5450",
+      "issn": [
+        "0029-5450",
+        "1943-7471"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nuclear Technology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/6",
+      "score": 0.6499999761581421,
+      "display_name": "Clean water and sanitation"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1205615916",
+      "display_name": null,
+      "funder_award_id": "JPJ007597",
+      "funder_id": "https://openalex.org/F4320334833",
+      "funder_display_name": "Agency for Natural Resources and Energy"
+    },
+    {
+      "id": "https://openalex.org/G2021903752",
+      "display_name": null,
+      "funder_award_id": "CEX2018-000794-S",
+      "funder_id": "https://openalex.org/F4320322930",
+      "funder_display_name": "Ministerio de Ciencia e Innovación"
+    },
+    {
+      "id": "https://openalex.org/G3308795840",
+      "display_name": null,
+      "funder_award_id": "JPJ007597",
+      "funder_id": "https://openalex.org/F4320321679",
+      "funder_display_name": "Ministry of Economy, Trade and Industry"
+    },
+    {
+      "id": "https://openalex.org/G7206073476",
+      "display_name": null,
+      "funder_award_id": "JPJ007597",
+      "funder_id": "https://openalex.org/F4320334980",
+      "funder_display_name": "Japan Atomic Energy Agency"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321679",
+      "display_name": "Ministry of Economy, Trade and Industry",
+      "ror": "https://ror.org/055tm7f07"
+    },
+    {
+      "id": "https://openalex.org/F4320322115",
+      "display_name": "Korea Atomic Energy Research Institute",
+      "ror": "https://ror.org/01xb4fs50"
+    },
+    {
+      "id": "https://openalex.org/F4320322930",
+      "display_name": "Ministerio de Ciencia e Innovación",
+      "ror": "https://ror.org/034900433"
+    },
+    {
+      "id": "https://openalex.org/F4320334833",
+      "display_name": "Agency for Natural Resources and Energy",
+      "ror": "https://ror.org/055tm7f07"
+    },
+    {
+      "id": "https://openalex.org/F4320334980",
+      "display_name": "Japan Atomic Energy Agency",
+      "ror": "https://ror.org/05nf86y53"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4380082341.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4380082341.grobid-xml"
+  },
+  "referenced_works_count": 21,
+  "referenced_works": [
+    "https://openalex.org/W42724502",
+    "https://openalex.org/W1658882057",
+    "https://openalex.org/W1847986692",
+    "https://openalex.org/W1993409472",
+    "https://openalex.org/W1998277899",
+    "https://openalex.org/W2046547429",
+    "https://openalex.org/W2057669718",
+    "https://openalex.org/W2069819685",
+    "https://openalex.org/W2091793212",
+    "https://openalex.org/W2093646753",
+    "https://openalex.org/W2132045732",
+    "https://openalex.org/W2235175327",
+    "https://openalex.org/W2548458946",
+    "https://openalex.org/W2889309188",
+    "https://openalex.org/W2905863279",
+    "https://openalex.org/W3002362984",
+    "https://openalex.org/W3008991576",
+    "https://openalex.org/W3043654118",
+    "https://openalex.org/W4200072933",
+    "https://openalex.org/W4294237709",
+    "https://openalex.org/W4313889862"
+  ],
+  "related_works": [
+    "https://openalex.org/W2126449560",
+    "https://openalex.org/W2001254114",
+    "https://openalex.org/W2015132177",
+    "https://openalex.org/W2045362891",
+    "https://openalex.org/W2155511090",
+    "https://openalex.org/W2021632259",
+    "https://openalex.org/W1745665429",
+    "https://openalex.org/W2046159551",
+    "https://openalex.org/W1425754604",
+    "https://openalex.org/W2140487156"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      57,
+      217
+    ],
+    "REPRO-TDE": [
+      1
+    ],
+    "test": [
+      2,
+      58
+    ],
+    "was": [
+      3,
+      34,
+      59,
+      221
+    ],
+    "performed": [
+      4
+    ],
+    "at": [
+      5
+    ],
+    "a": [
+      6,
+      41,
+      63,
+      186
+    ],
+    "depth": [
+      7
+    ],
+    "of": [
+      8,
+      44,
+      62,
+      73,
+      166,
+      200,
+      209,
+      219,
+      226
+    ],
+    "about": [
+      9,
+      37
+    ],
+    "400": [
+      10
+    ],
+    "m": [
+      11
+    ],
+    "in": [
+      12,
+      18,
+      40,
+      53,
+      80,
+      224
+    ],
+    "the": [
+      13,
+      45,
+      60,
+      67,
+      81,
+      106,
+      112,
+      122,
+      130,
+      147,
+      164,
+      170,
+      175,
+      182,
+      198,
+      206,
+      214,
+      227
+    ],
+    "ONKALO": [
+      14
+    ],
+    "underground": [
+      15
+    ],
+    "research": [
+      16
+    ],
+    "facility": [
+      17
+    ],
+    "Finland.": [
+      19
+    ],
+    "Synthetic": [
+      20
+    ],
+    "groundwater": [
+      21
+    ],
+    "containing": [
+      22
+    ],
+    "radionuclide": [
+      23
+    ],
+    "tracers": [
+      24
+    ],
+    "[tritiated": [
+      25
+    ],
+    "water": [
+      26
+    ],
+    "tracer": [
+      27,
+      190
+    ],
+    "(HTO),": [
+      28
+    ],
+    "36Cl,": [
+      29
+    ],
+    "22Na,": [
+      30
+    ],
+    "133Ba,": [
+      31
+    ],
+    "and": [
+      32,
+      71,
+      87,
+      101,
+      163,
+      179,
+      181
+    ],
+    "134Cs]": [
+      33
+    ],
+    "circulated": [
+      35
+    ],
+    "for": [
+      36,
+      132,
+      137,
+      153,
+      174
+    ],
+    "4": [
+      38
+    ],
+    "years": [
+      39
+    ],
+    "packed-off": [
+      42
+    ],
+    "interval": [
+      43
+    ],
+    "injection": [
+      46
+    ],
+    "borehole.": [
+      47
+    ],
+    "Tracer": [
+      48
+    ],
+    "activities": [
+      49
+    ],
+    "were": [
+      50,
+      92,
+      109,
+      114
+    ],
+    "additionally": [
+      51
+    ],
+    "monitored": [
+      52
+    ],
+    "two": [
+      54,
+      225
+    ],
+    "observation": [
+      55,
+      165
+    ],
+    "boreholes.": [
+      56,
+      216
+    ],
+    "subject": [
+      61
+    ],
+    "modeling": [
+      64
+    ],
+    "exercise": [
+      65
+    ],
+    "by": [
+      66
+    ],
+    "SKB": [
+      68
+    ],
+    "GroundWater": [
+      69
+    ],
+    "Flow": [
+      70
+    ],
+    "Transport": [
+      72
+    ],
+    "Solutes": [
+      74
+    ],
+    "Task": [
+      75
+    ],
+    "Force.": [
+      76
+    ],
+    "Eleven": [
+      77
+    ],
+    "teams": [
+      78,
+      113,
+      192
+    ],
+    "participated": [
+      79
+    ],
+    "exercise,": [
+      82
+    ],
+    "using": [
+      83
+    ],
+    "different": [
+      84,
+      194,
+      215
+    ],
+    "model": [
+      85,
+      90
+    ],
+    "concepts": [
+      86
+    ],
+    "approaches.": [
+      88
+    ],
+    "Predictive": [
+      89
+    ],
+    "calculations": [
+      91,
+      128
+    ],
+    "based": [
+      93
+    ],
+    "on": [
+      94
+    ],
+    "laboratory-based": [
+      95
+    ],
+    "information": [
+      96
+    ],
+    "concerning": [
+      97,
+      196
+    ],
+    "porosities,": [
+      98
+    ],
+    "diffusion": [
+      99,
+      135
+    ],
+    "coefficients,": [
+      100
+    ],
+    "sorption": [
+      102,
+      152,
+      161
+    ],
+    "partition": [
+      103
+    ],
+    "coefficients.": [
+      104
+    ],
+    "After": [
+      105
+    ],
+    "experimental": [
+      107
+    ],
+    "results": [
+      108,
+      157
+    ],
+    "made": [
+      110
+    ],
+    "available,": [
+      111
+    ],
+    "able": [
+      115
+    ],
+    "to": [
+      116,
+      120,
+      140,
+      143,
+      149,
+      156
+    ],
+    "revise": [
+      117
+    ],
+    "their": [
+      118
+    ],
+    "models": [
+      119
+    ],
+    "reproduce": [
+      121
+    ],
+    "observations.General": [
+      123
+    ],
+    "conclusions": [
+      124
+    ],
+    "from": [
+      125,
+      158
+    ],
+    "these": [
+      126
+    ],
+    "back-analysis": [
+      127
+    ],
+    "include": [
+      129
+    ],
+    "need": [
+      131,
+      148
+    ],
+    "reduced": [
+      133
+    ],
+    "effective": [
+      134
+    ],
+    "coefficients": [
+      136
+    ],
+    "36Cl": [
+      138
+    ],
+    "compared": [
+      139,
+      155
+    ],
+    "those": [
+      141
+    ],
+    "applicable": [
+      142
+    ],
+    "HTO": [
+      144
+    ],
+    "(anion": [
+      145
+    ],
+    "exclusion),": [
+      146
+    ],
+    "implement": [
+      150
+    ],
+    "weaker": [
+      151
+    ],
+    "22Na": [
+      154
+    ],
+    "laboratory": [
+      159
+    ],
+    "batch": [
+      160
+    ],
+    "experiments,": [
+      162
+    ],
+    "large": [
+      167
+    ],
+    "differences": [
+      168
+    ],
+    "between": [
+      169
+    ],
+    "theoretical": [
+      171
+    ],
+    "initial": [
+      172
+    ],
+    "concentrations": [
+      173
+    ],
+    "strongly": [
+      176
+    ],
+    "sorbing": [
+      177
+    ],
+    "133Ba": [
+      178
+    ],
+    "134Cs,": [
+      180
+    ],
+    "first": [
+      183
+    ],
+    "measured": [
+      184
+    ],
+    "values": [
+      185
+    ],
+    "few": [
+      187
+    ],
+    "hours": [
+      188
+    ],
+    "after": [
+      189
+    ],
+    "injection.Different": [
+      191
+    ],
+    "applied": [
+      193
+    ],
+    "concepts,": [
+      195
+    ],
+    "mainly": [
+      197
+    ],
+    "implementation": [
+      199
+    ],
+    "isotropic": [
+      201
+    ],
+    "versus": [
+      202
+    ],
+    "anisotropic": [
+      203
+    ],
+    "diffusion,": [
+      204
+    ],
+    "or": [
+      205
+    ],
+    "possible": [
+      207
+    ],
+    "existence": [
+      208
+    ],
+    "borehole": [
+      210
+    ],
+    "disturbed": [
+      211
+    ],
+    "zones": [
+      212
+    ],
+    "around": [
+      213
+    ],
+    "role": [
+      218
+    ],
+    "microstructure": [
+      220
+    ],
+    "also": [
+      222
+    ],
+    "addressed": [
+      223
+    ],
+    "models.": [
+      228
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,932 @@
+{
+  "id": "https://openalex.org/W7155369351",
+  "doi": "https://doi.org/10.5281/zenodo.19702516",
+  "title": "Artificial Intelligence-Driven Digital Phenotyping in Psychiatry: Clinical Utility, Ethical Challenges, and Future Directions",
+  "display_name": "Artificial Intelligence-Driven Digital Phenotyping in Psychiatry: Clinical Utility, Ethical Challenges, and Future Directions",
+  "publication_year": 2026,
+  "publication_date": "2026-04-23",
+  "ids": {
+    "openalex": "https://openalex.org/W7155369351",
+    "doi": "https://doi.org/10.5281/zenodo.19702516"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.5281/zenodo.19702516",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.19702516",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "article-journal"
+  },
+  "type": "article",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.5281/zenodo.19702516",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5134450879",
+        "display_name": "Anna Byr, Melania Majewska, Natalia Piasecka, Izabela Rafalska, Jakub Smagoń, Natalia Kornacka, Martyna Kaim, Joanna Bober, Magdalena Bochenek and Wiktoria Siewiera",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Anna Byr, Melania Majewska, Natalia Piasecka, Izabela Rafalska, Jakub Smagoń, Natalia Kornacka, Martyna Kaim, Joanna Bober, Magdalena Bochenek and Wiktoria Siewiera",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5134450879"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.94353484,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11519",
+    "display_name": "Digital Mental Health Interventions",
+    "score": 0.9513999819755554,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3202",
+      "display_name": "Applied Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11519",
+      "display_name": "Digital Mental Health Interventions",
+      "score": 0.9513999819755554,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12488",
+      "display_name": "Mental Health via Writing",
+      "score": 0.016499999910593033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13283",
+      "display_name": "Mental Health Research Topics",
+      "score": 0.003599999938160181,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/transformative-learning",
+      "display_name": "Transformative learning",
+      "score": 0.6111999750137329
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-health",
+      "display_name": "Digital health",
+      "score": 0.5151000022888184
+    },
+    {
+      "id": "https://openalex.org/keywords/anxiety",
+      "display_name": "Anxiety",
+      "score": 0.4375
+    },
+    {
+      "id": "https://openalex.org/keywords/precision-medicine",
+      "display_name": "Precision medicine",
+      "score": 0.42590001225471497
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.3508000075817108
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.3359000086784363
+    },
+    {
+      "id": "https://openalex.org/keywords/multidisciplinary-approach",
+      "display_name": "Multidisciplinary approach",
+      "score": 0.3285999894142151
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C70587473",
+      "wikidata": "https://www.wikidata.org/wiki/Q7834111",
+      "display_name": "Transformative learning",
+      "level": 2,
+      "score": 0.6111999750137329
+    },
+    {
+      "id": "https://openalex.org/C2780433410",
+      "wikidata": "https://www.wikidata.org/wiki/Q5276090",
+      "display_name": "Digital health",
+      "level": 3,
+      "score": 0.5151000022888184
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.43810001015663147
+    },
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": 0.4375
+    },
+    {
+      "id": "https://openalex.org/C163763905",
+      "wikidata": "https://www.wikidata.org/wiki/Q17075943",
+      "display_name": "Precision medicine",
+      "level": 2,
+      "score": 0.42590001225471497
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.41850000619888306
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4140999913215637
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.41339999437332153
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.3508000075817108
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.3359000086784363
+    },
+    {
+      "id": "https://openalex.org/C22467394",
+      "wikidata": "https://www.wikidata.org/wiki/Q849359",
+      "display_name": "Multidisciplinary approach",
+      "level": 2,
+      "score": 0.3285999894142151
+    },
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.32519999146461487
+    },
+    {
+      "id": "https://openalex.org/C2777545354",
+      "wikidata": "https://www.wikidata.org/wiki/Q3557657",
+      "display_name": "Social anxiety",
+      "level": 3,
+      "score": 0.29580000042915344
+    },
+    {
+      "id": "https://openalex.org/C160735492",
+      "wikidata": "https://www.wikidata.org/wiki/Q31207",
+      "display_name": "Health care",
+      "level": 2,
+      "score": 0.29420000314712524
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.2921999990940094
+    },
+    {
+      "id": "https://openalex.org/C75684735",
+      "wikidata": "https://www.wikidata.org/wiki/Q858810",
+      "display_name": "Big data",
+      "level": 2,
+      "score": 0.2854999899864197
+    },
+    {
+      "id": "https://openalex.org/C2986663376",
+      "wikidata": "https://www.wikidata.org/wiki/Q9465",
+      "display_name": "Ethical issues",
+      "level": 2,
+      "score": 0.2782999873161316
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.26159998774528503
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.2581000030040741
+    },
+    {
+      "id": "https://openalex.org/C157170001",
+      "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+      "display_name": "Applications of artificial intelligence",
+      "level": 2,
+      "score": 0.257099986076355
+    },
+    {
+      "id": "https://openalex.org/C32220436",
+      "wikidata": "https://www.wikidata.org/wiki/Q2072214",
+      "display_name": "Personalized medicine",
+      "level": 2,
+      "score": 0.25279998779296875
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.5281/zenodo.19702516",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.19702516",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5281/zenodo.19702516",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.19702516",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "article-journal"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Digital": [
+      0
+    ],
+    "phenotyping,": [
+      1
+    ],
+    "defined": [
+      2
+    ],
+    "as": [
+      3,
+      19
+    ],
+    "the": [
+      4,
+      60,
+      91,
+      111,
+      123,
+      158,
+      161
+    ],
+    "moment-by-moment": [
+      5
+    ],
+    "quantification": [
+      6
+    ],
+    "of": [
+      7,
+      47,
+      63,
+      117,
+      142,
+      163
+    ],
+    "individual-level": [
+      8
+    ],
+    "human": [
+      9
+    ],
+    "phenotype": [
+      10
+    ],
+    "using": [
+      11
+    ],
+    "data": [
+      12,
+      103,
+      145
+    ],
+    "from": [
+      13
+    ],
+    "personal": [
+      14
+    ],
+    "digital": [
+      15,
+      38,
+      65,
+      178
+    ],
+    "devices,": [
+      16
+    ],
+    "has": [
+      17
+    ],
+    "emerged": [
+      18
+    ],
+    "a": [
+      20
+    ],
+    "promising": [
+      21
+    ],
+    "approach": [
+      22
+    ],
+    "to": [
+      23,
+      53
+    ],
+    "psychiatric": [
+      24,
+      54,
+      77,
+      138
+    ],
+    "assessment": [
+      25
+    ],
+    "and": [
+      26,
+      34,
+      43,
+      49,
+      86,
+      101,
+      106,
+      114,
+      127,
+      149,
+      169,
+      196
+    ],
+    "monitoring.": [
+      27
+    ],
+    "When": [
+      28
+    ],
+    "combined": [
+      29
+    ],
+    "with": [
+      30,
+      69
+    ],
+    "artificial": [
+      31
+    ],
+    "intelligence": [
+      32
+    ],
+    "(AI)": [
+      33
+    ],
+    "machine": [
+      35
+    ],
+    "learning": [
+      36
+    ],
+    "algorithms,": [
+      37
+    ],
+    "phenotyping": [
+      39,
+      66,
+      179
+    ],
+    "enables": [
+      40
+    ],
+    "passive,": [
+      41
+    ],
+    "continuous,": [
+      42
+    ],
+    "ecologically": [
+      44
+    ],
+    "valid": [
+      45
+    ],
+    "measurement": [
+      46
+    ],
+    "behavioral": [
+      48
+    ],
+    "cognitive": [
+      50
+    ],
+    "markers": [
+      51
+    ],
+    "relevant": [
+      52
+    ],
+    "disorders.": [
+      55
+    ],
+    "This": [
+      56
+    ],
+    "interdisciplinary": [
+      57,
+      191
+    ],
+    "review": [
+      58
+    ],
+    "examines": [
+      59
+    ],
+    "current": [
+      61
+    ],
+    "state": [
+      62
+    ],
+    "AI-driven": [
+      64,
+      177
+    ],
+    "in": [
+      67,
+      131,
+      136
+    ],
+    "psychiatry,": [
+      68,
+      184
+    ],
+    "emphasis": [
+      70
+    ],
+    "on": [
+      71
+    ],
+    "its": [
+      72,
+      185
+    ],
+    "clinical": [
+      73,
+      115,
+      187
+    ],
+    "applications": [
+      74
+    ],
+    "across": [
+      75
+    ],
+    "major": [
+      76
+    ],
+    "conditions": [
+      78
+    ],
+    "including": [
+      79,
+      140,
+      160
+    ],
+    "depression,": [
+      80
+    ],
+    "schizophrenia,": [
+      81
+    ],
+    "bipolar": [
+      82
+    ],
+    "disorder,": [
+      83
+    ],
+    "anxiety": [
+      84
+    ],
+    "disorders,": [
+      85
+    ],
+    "suicide": [
+      87
+    ],
+    "risk.": [
+      88
+    ],
+    "We": [
+      89,
+      173
+    ],
+    "discuss": [
+      90
+    ],
+    "methodological": [
+      92
+    ],
+    "landscape": [
+      93
+    ],
+    "—": [
+      94,
+      105
+    ],
+    "spanning": [
+      95
+    ],
+    "passive": [
+      96
+    ],
+    "sensing,": [
+      97
+    ],
+    "natural": [
+      98
+    ],
+    "language": [
+      99
+    ],
+    "processing,": [
+      100
+    ],
+    "multimodal": [
+      102
+    ],
+    "fusion": [
+      104
+    ],
+    "critically": [
+      107
+    ],
+    "evaluate": [
+      108
+    ],
+    "evidence": [
+      109
+    ],
+    "regarding": [
+      110
+    ],
+    "predictive": [
+      112
+    ],
+    "validity": [
+      113
+    ],
+    "utility": [
+      116
+    ],
+    "these": [
+      118
+    ],
+    "approaches.": [
+      119
+    ],
+    "Furthermore,": [
+      120
+    ],
+    "we": [
+      121,
+      153
+    ],
+    "address": [
+      122
+    ],
+    "significant": [
+      124
+    ],
+    "ethical,": [
+      125
+    ],
+    "legal,": [
+      126
+    ],
+    "social": [
+      128
+    ],
+    "challenges": [
+      129
+    ],
+    "inherent": [
+      130
+    ],
+    "deploying": [
+      132
+    ],
+    "AI-based": [
+      133
+    ],
+    "monitoring": [
+      134
+    ],
+    "technologies": [
+      135
+    ],
+    "vulnerable": [
+      137
+    ],
+    "populations,": [
+      139
+    ],
+    "issues": [
+      141
+    ],
+    "informed": [
+      143
+    ],
+    "consent,": [
+      144
+    ],
+    "privacy,": [
+      146
+    ],
+    "algorithmic": [
+      147
+    ],
+    "bias,": [
+      148
+    ],
+    "therapeutic": [
+      150
+    ],
+    "relationship.": [
+      151
+    ],
+    "Finally,": [
+      152
+    ],
+    "outline": [
+      154
+    ],
+    "future": [
+      155
+    ],
+    "directions": [
+      156
+    ],
+    "for": [
+      157,
+      183
+    ],
+    "field,": [
+      159
+    ],
+    "integration": [
+      162
+    ],
+    "federated": [
+      164
+    ],
+    "learning,": [
+      165
+    ],
+    "personalized": [
+      166
+    ],
+    "medicine": [
+      167
+    ],
+    "frameworks,": [
+      168
+    ],
+    "standardized": [
+      170
+    ],
+    "outcome": [
+      171
+    ],
+    "metrics.": [
+      172
+    ],
+    "conclude": [
+      174
+    ],
+    "that": [
+      175
+    ],
+    "while": [
+      176
+    ],
+    "holds": [
+      180
+    ],
+    "transformative": [
+      181
+    ],
+    "potential": [
+      182
+    ],
+    "responsible": [
+      186
+    ],
+    "implementation": [
+      188
+    ],
+    "requires": [
+      189
+    ],
+    "robust": [
+      190
+    ],
+    "governance,": [
+      192
+    ],
+    "equitable": [
+      193
+    ],
+    "algorithm": [
+      194
+    ],
+    "design,": [
+      195
+    ],
+    "meaningful": [
+      197
+    ],
+    "patient": [
+      198
+    ],
+    "engagement.": [
+      199
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-04-24T06:07:52.864757",
+  "created_date": "2026-04-24T00:00:00"
+}

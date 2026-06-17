@@ -1,0 +1,3004 @@
+{
+  "id": "https://openalex.org/W3153097092",
+  "doi": "https://doi.org/10.1136/jmedgenet-2021-107738",
+  "title": "Data sharing to improve concordance in variant interpretation across laboratories: results from the Canadian Open Genetics Repository",
+  "display_name": "Data sharing to improve concordance in variant interpretation across laboratories: results from the Canadian Open Genetics Repository",
+  "publication_year": 2021,
+  "publication_date": "2021-04-19",
+  "ids": {
+    "openalex": "https://openalex.org/W3153097092",
+    "doi": "https://doi.org/10.1136/jmedgenet-2021-107738",
+    "mag": "3153097092",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33875564"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/jmedgenet-2021-107738",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1136/jmedgenet-2021-107738",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S112540174",
+      "display_name": "Journal of Medical Genetics",
+      "issn_l": "0022-2593",
+      "issn": [
+        "0022-2593",
+        "1468-6244"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Medical Genetics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8523590",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088276906",
+        "display_name": "Chloe Mighton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1297363086",
+          "display_name": "St. Michael's Hospital",
+          "ror": "https://ror.org/04skqfp25",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1297363086",
+            "https://openalex.org/I4399598460"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4399598460",
+          "display_name": "Unity Health Toronto",
+          "ror": "https://ror.org/012x5xb44",
+          "country_code": null,
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4399598460"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chloe Mighton",
+      "raw_affiliation_strings": [
+        "Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Ontario, Canada",
+        "Li Ka Shing Knowledge Institute, St. Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Li Ka Shing Knowledge Institute, St. Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1297363086",
+            "https://openalex.org/I4399598460"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102731652",
+        "display_name": "Amanda Smith",
+        "orcid": "https://orcid.org/0000-0002-5698-872X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800215515",
+          "display_name": "Agricultural Research Institute of Ontario",
+          "ror": "https://ror.org/011n4tk56",
+          "country_code": "CA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1283990227",
+            "https://openalex.org/I2800215515"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amanda C Smith",
+      "raw_affiliation_strings": [
+        "CHEO Research Institute, Ottawa, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CHEO Research Institute, Ottawa, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800215515"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076775158",
+        "display_name": "Justin Mayers",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Justin Mayers",
+      "raw_affiliation_strings": [
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024170616",
+        "display_name": "Robert Tomaszewski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800445679",
+          "display_name": "Alberta Hospital Edmonton",
+          "ror": "https://ror.org/03nw9hs25",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I126859394",
+            "https://openalex.org/I2800445679"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Tomaszewski",
+      "raw_affiliation_strings": [
+        "Alberta Precision Laboratories, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Alberta Precision Laboratories, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800445679"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079141659",
+        "display_name": "Sherryl A. Taylor",
+        "orcid": "https://orcid.org/0000-0002-4337-6986"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800445679",
+          "display_name": "Alberta Hospital Edmonton",
+          "ror": "https://ror.org/03nw9hs25",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I126859394",
+            "https://openalex.org/I2800445679"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sherryl Taylor",
+      "raw_affiliation_strings": [
+        "Alberta Precision Laboratories, Edmonton, Alberta, Canada",
+        "Medical Genetics, University of Alberta, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Alberta Precision Laboratories, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800445679"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060274616",
+        "display_name": "Stacey Hume",
+        "orcid": "https://orcid.org/0000-0002-3217-3032"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800445679",
+          "display_name": "Alberta Hospital Edmonton",
+          "ror": "https://ror.org/03nw9hs25",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I126859394",
+            "https://openalex.org/I2800445679"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stacey Hume",
+      "raw_affiliation_strings": [
+        "Alberta Precision Laboratories, Edmonton, Alberta, Canada",
+        "Medical Genetics, University of Alberta, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Alberta Precision Laboratories, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800445679"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028939661",
+        "display_name": "Ron Agatep",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121800195",
+          "display_name": "Manitoba Health",
+          "ror": "https://ror.org/0077pzv34",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I121800195"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I46247651",
+          "display_name": "University of Manitoba",
+          "ror": "https://ror.org/02gfys938",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ron Agatep",
+      "raw_affiliation_strings": [
+        "Biochemistry & Medical Genetics, University of Manitoba, Winnipeg, Manitoba, Canada",
+        "Shared Health, Winnipeg, Manitoba, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Biochemistry & Medical Genetics, University of Manitoba, Winnipeg, Manitoba, Canada",
+          "institution_ids": [
+            "https://openalex.org/I46247651"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Shared Health, Winnipeg, Manitoba, Canada",
+          "institution_ids": [
+            "https://openalex.org/I121800195"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102726433",
+        "display_name": "Elizabeth Spriggs",
+        "orcid": "https://orcid.org/0000-0002-5047-1906"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121800195",
+          "display_name": "Manitoba Health",
+          "ror": "https://ror.org/0077pzv34",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I121800195"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I46247651",
+          "display_name": "University of Manitoba",
+          "ror": "https://ror.org/02gfys938",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth Spriggs",
+      "raw_affiliation_strings": [
+        "Biochemistry & Medical Genetics, University of Manitoba, Winnipeg, Manitoba, Canada",
+        "Shared Health, Winnipeg, Manitoba, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Biochemistry & Medical Genetics, University of Manitoba, Winnipeg, Manitoba, Canada",
+          "institution_ids": [
+            "https://openalex.org/I46247651"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Shared Health, Winnipeg, Manitoba, Canada",
+          "institution_ids": [
+            "https://openalex.org/I121800195"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008275218",
+        "display_name": "Harriet Feilotter",
+        "orcid": "https://orcid.org/0000-0002-1388-2183"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204722609",
+          "display_name": "Queen's University",
+          "ror": "https://ror.org/02y72wh86",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204722609"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210156381",
+          "display_name": "Kingston Health Sciences Centre",
+          "ror": "https://ror.org/05bwaty49",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210156381"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Harriet E Feilotter",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada",
+        "Kingston Health Sciences Centre, Kingston, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I204722609"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Kingston Health Sciences Centre, Kingston, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210156381"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015353394",
+        "display_name": "Laura Semenuk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156381",
+          "display_name": "Kingston Health Sciences Centre",
+          "ror": "https://ror.org/05bwaty49",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210156381"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laura Semenuk",
+      "raw_affiliation_strings": [
+        "Kingston Health Sciences Centre, Kingston, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Kingston Health Sciences Centre, Kingston, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210156381"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103153738",
+        "display_name": "Henry Wong",
+        "orcid": "https://orcid.org/0000-0002-0958-4781"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156381",
+          "display_name": "Kingston Health Sciences Centre",
+          "ror": "https://ror.org/05bwaty49",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210156381"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Henry Wong",
+      "raw_affiliation_strings": [
+        "Kingston Health Sciences Centre, Kingston, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Kingston Health Sciences Centre, Kingston, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210156381"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020879855",
+        "display_name": "Lorena Lazo de la Vega",
+        "orcid": "https://orcid.org/0000-0003-3609-0098"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1283280774",
+          "display_name": "Brigham and Women's Hospital",
+          "ror": "https://ror.org/04b6nzv94",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I48633490",
+          "display_name": "Mass General Brigham",
+          "ror": "https://ror.org/04py2rh25",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lorena Lazo de la Vega",
+      "raw_affiliation_strings": [
+        "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts, USA",
+        "Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine, Cambridge, Massachusetts, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine, Cambridge, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055989261",
+        "display_name": "Christian R. Marshall",
+        "orcid": "https://orcid.org/0000-0002-4003-7671"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801317318",
+          "display_name": "Hospital for Sick Children",
+          "ror": "https://ror.org/057q4rt57",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801317318"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian R Marshall",
+      "raw_affiliation_strings": [
+        "Genome Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada",
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801317318"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088541146",
+        "display_name": "Michelle M. Axford",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801317318",
+          "display_name": "Hospital for Sick Children",
+          "ror": "https://ror.org/057q4rt57",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801317318"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michelle M Axford",
+      "raw_affiliation_strings": [
+        "Genome Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada",
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801317318"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033108463",
+        "display_name": "Talia Silver",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801317318",
+          "display_name": "Hospital for Sick Children",
+          "ror": "https://ror.org/057q4rt57",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801317318"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Talia Silver",
+      "raw_affiliation_strings": [
+        "Genome Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801317318"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035993142",
+        "display_name": "George S. Charames",
+        "orcid": "https://orcid.org/0000-0002-5937-9276"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George S Charames",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007567601",
+        "display_name": "Vanessa Di Gioacchino",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vanessa Di Gioacchino",
+      "raw_affiliation_strings": [
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014949492",
+        "display_name": "Nicholas A. Watkins",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicholas Watkins",
+      "raw_affiliation_strings": [
+        "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029874203",
+        "display_name": "William D. Foulkes",
+        "orcid": "https://orcid.org/0000-0001-7427-4651"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801824472",
+          "display_name": "Jewish General Hospital",
+          "ror": "https://ror.org/056jjra10",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801824472",
+            "https://openalex.org/I2801902503",
+            "https://openalex.org/I4210139015",
+            "https://openalex.org/I4405256057"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I5023651",
+          "display_name": "McGill University",
+          "ror": "https://ror.org/01pxwe438",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "William D Foulkes",
+      "raw_affiliation_strings": [
+        "Departments of Oncology and Human Genetics, McGill University, Montreal, Quebec, Canada",
+        "Lady David Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7427-4651",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Departments of Oncology and Human Genetics, McGill University, Montreal, Quebec, Canada",
+          "institution_ids": [
+            "https://openalex.org/I5023651"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lady David Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801824472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073753993",
+        "display_name": "Marcos Clavier",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801824472",
+          "display_name": "Jewish General Hospital",
+          "ror": "https://ror.org/056jjra10",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801824472",
+            "https://openalex.org/I2801902503",
+            "https://openalex.org/I4210139015",
+            "https://openalex.org/I4405256057"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcos Clavier",
+      "raw_affiliation_strings": [
+        "Lady David Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lady David Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801824472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004472857",
+        "display_name": "Nancy Hamel",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801766832",
+          "display_name": "McGill University Health Centre",
+          "ror": "https://ror.org/04cpxjv19",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801766832"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nancy Hamel",
+      "raw_affiliation_strings": [
+        "Research Institute of the McGill University Health Centre, Montreal, Quebec, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research Institute of the McGill University Health Centre, Montreal, Quebec, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801766832"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110050865",
+        "display_name": "George Chong",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801824472",
+          "display_name": "Jewish General Hospital",
+          "ror": "https://ror.org/056jjra10",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801824472",
+            "https://openalex.org/I2801902503",
+            "https://openalex.org/I4210139015",
+            "https://openalex.org/I4405256057"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I5023651",
+          "display_name": "McGill University",
+          "ror": "https://ror.org/01pxwe438",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George Chong",
+      "raw_affiliation_strings": [
+        "Department of Human Genetics, McGill University, Montreal, Quebec, Canada",
+        "Lady David Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Human Genetics, McGill University, Montreal, Quebec, Canada",
+          "institution_ids": [
+            "https://openalex.org/I5023651"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lady David Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801824472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053441512",
+        "display_name": "Ryan E. Lamont",
+        "orcid": "https://orcid.org/0000-0002-7720-068X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I168635309",
+          "display_name": "University of Calgary",
+          "ror": "https://ror.org/03yjb2x39",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210092646",
+          "display_name": "Calgary Laboratory Services",
+          "ror": "https://ror.org/00g6ztp19",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I126859394",
+            "https://openalex.org/I4210092646"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ryan E Lamont",
+      "raw_affiliation_strings": [
+        "Alberta Precision Laboratories, Calgary, Alberta, Canada",
+        "Department of Medical Genetics, University of Calgary, Calgary, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Alberta Precision Laboratories, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210092646"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Calgary, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I168635309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000758712",
+        "display_name": "Jillian S. Parboosingh",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I168635309",
+          "display_name": "University of Calgary",
+          "ror": "https://ror.org/03yjb2x39",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210092646",
+          "display_name": "Calgary Laboratory Services",
+          "ror": "https://ror.org/00g6ztp19",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I126859394",
+            "https://openalex.org/I4210092646"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jillian Parboosingh",
+      "raw_affiliation_strings": [
+        "Alberta Precision Laboratories, Calgary, Alberta, Canada",
+        "Department of Medical Genetics, University of Calgary, Calgary, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Alberta Precision Laboratories, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210092646"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Calgary, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I168635309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083812935",
+        "display_name": "Aly Karsan",
+        "orcid": "https://orcid.org/0000-0001-6753-892X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aly Karsan",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081399540",
+        "display_name": "Ian Bosdet",
+        "orcid": "https://orcid.org/0000-0003-4739-007X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ian Bosdet",
+      "raw_affiliation_strings": [
+        "BC Cancer Agency, Vancouver, British Columbia, Canada",
+        "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BC Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003653401",
+        "display_name": "Sean Young",
+        "orcid": "https://orcid.org/0000-0002-5240-1450"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sean S Young",
+      "raw_affiliation_strings": [
+        "BC Cancer Agency, Vancouver, British Columbia, Canada",
+        "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BC Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113469691",
+        "display_name": "Tracy Tucker",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tracy Tucker",
+      "raw_affiliation_strings": [
+        "BC Cancer Agency, Vancouver, British Columbia, Canada",
+        "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BC Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054934487",
+        "display_name": "Mohammad R. Akbari",
+        "orcid": "https://orcid.org/0000-0002-8851-3614"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801816099",
+          "display_name": "Women's College Hospital",
+          "ror": "https://ror.org/03cw63y62",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801816099"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad Reza Akbari",
+      "raw_affiliation_strings": [
+        "Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada",
+        "Women's College Research Institute, Women's College Hospital, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Women's College Research Institute, Women's College Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801816099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054084145",
+        "display_name": "Marsha Speevak",
+        "orcid": "https://orcid.org/0000-0002-1147-9067"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800336561",
+          "display_name": "Trillium Health Centre",
+          "ror": "https://ror.org/03v6a2j28",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800336561",
+            "https://openalex.org/I2802512917"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marsha D Speevak",
+      "raw_affiliation_strings": [
+        "Trillium Health Partners, Mississauga, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Trillium Health Partners, Mississauga, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800336561"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058730626",
+        "display_name": "Andrea K. Vaags",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800336561",
+          "display_name": "Trillium Health Centre",
+          "ror": "https://ror.org/03v6a2j28",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800336561",
+            "https://openalex.org/I2802512917"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea K Vaags",
+      "raw_affiliation_strings": [
+        "Trillium Health Partners, Mississauga, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Trillium Health Partners, Mississauga, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800336561"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080516152",
+        "display_name": "Matthew S. Lebo",
+        "orcid": "https://orcid.org/0000-0002-9733-5207"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1283280774",
+          "display_name": "Brigham and Women's Hospital",
+          "ror": "https://ror.org/04b6nzv94",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I48633490",
+          "display_name": "Mass General Brigham",
+          "ror": "https://ror.org/04py2rh25",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matthew S Lebo",
+      "raw_affiliation_strings": [
+        "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts, USA",
+        "Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine, Cambridge, Massachusetts, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine, Cambridge, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5036580368",
+        "display_name": "Jordan Lerner‐Ellis",
+        "orcid": "https://orcid.org/0000-0003-3685-5679"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jordan Lerner-Ellis",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, ON M5G 1X5, Canada"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3685-5679",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Sinai Health, Toronto, ON M5G 1X5, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 33,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5036580368"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1291836623",
+    "https://openalex.org/I185261750",
+    "https://openalex.org/I210557978"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.1414,
+  "has_fulltext": false,
+  "cited_by_count": 36,
+  "citation_normalized_percentile": {
+    "value": 0.9226844,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "59",
+    "issue": "6",
+    "first_page": "571",
+    "last_page": "578"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11642",
+    "display_name": "Genomics and Rare Diseases",
+    "score": 0.9057000279426575,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1311",
+      "display_name": "Genetics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11642",
+      "display_name": "Genomics and Rare Diseases",
+      "score": 0.9057000279426575,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10769",
+      "display_name": "BRCA gene mutations in cancer",
+      "score": 0.05849999934434891,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11710",
+      "display_name": "Biomedical Text Mining and Ontologies",
+      "score": 0.004399999976158142,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/concordance",
+      "display_name": "Concordance",
+      "score": 0.8852897882461548
+    },
+    {
+      "id": "https://openalex.org/keywords/genetic-variants",
+      "display_name": "Genetic variants",
+      "score": 0.5039471983909607
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.45293760299682617
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-genetics",
+      "display_name": "Medical genetics",
+      "score": 0.43531137704849243
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.4310789108276367
+    },
+    {
+      "id": "https://openalex.org/keywords/interpretation",
+      "display_name": "Interpretation (philosophy)",
+      "score": 0.4152311086654663
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.3661881387233734
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3431110680103302
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.3236495852470398
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.298846960067749
+    },
+    {
+      "id": "https://openalex.org/keywords/genotype",
+      "display_name": "Genotype",
+      "score": 0.12198606133460999
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.09401744604110718
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C160798450",
+      "wikidata": "https://www.wikidata.org/wiki/Q4230870",
+      "display_name": "Concordance",
+      "level": 2,
+      "score": 0.8852897882461548
+    },
+    {
+      "id": "https://openalex.org/C2993967602",
+      "wikidata": "https://www.wikidata.org/wiki/Q5532932",
+      "display_name": "Genetic variants",
+      "level": 4,
+      "score": 0.5039471983909607
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.45293760299682617
+    },
+    {
+      "id": "https://openalex.org/C64474127",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071953",
+      "display_name": "Medical genetics",
+      "level": 3,
+      "score": 0.43531137704849243
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.4310789108276367
+    },
+    {
+      "id": "https://openalex.org/C527412718",
+      "wikidata": "https://www.wikidata.org/wiki/Q855395",
+      "display_name": "Interpretation (philosophy)",
+      "level": 2,
+      "score": 0.4152311086654663
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.3661881387233734
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3431110680103302
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.3236495852470398
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.298846960067749
+    },
+    {
+      "id": "https://openalex.org/C135763542",
+      "wikidata": "https://www.wikidata.org/wiki/Q106016",
+      "display_name": "Genotype",
+      "level": 3,
+      "score": 0.12198606133460999
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.09401744604110718
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D002170",
+      "descriptor_name": "Canada",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002170",
+      "descriptor_name": "Canada",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002170",
+      "descriptor_name": "Canada",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007753",
+      "descriptor_name": "Laboratories",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007753",
+      "descriptor_name": "Laboratories",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007753",
+      "descriptor_name": "Laboratories",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014644",
+      "descriptor_name": "Genetic Variation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014644",
+      "descriptor_name": "Genetic Variation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014644",
+      "descriptor_name": "Genetic Variation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020022",
+      "descriptor_name": "Genetic Predisposition to Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020022",
+      "descriptor_name": "Genetic Predisposition to Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020022",
+      "descriptor_name": "Genetic Predisposition to Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033181",
+      "descriptor_name": "Information Dissemination",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033181",
+      "descriptor_name": "Information Dissemination",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033181",
+      "descriptor_name": "Information Dissemination",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1136/jmedgenet-2021-107738",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1136/jmedgenet-2021-107738",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S112540174",
+        "display_name": "Journal of Medical Genetics",
+        "issn_l": "0022-2593",
+        "issn": [
+          "0022-2593",
+          "1468-6244"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Medical Genetics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33875564",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33875564",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of medical genetics",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8523590",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8523590",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Med Genet",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:pubmedcentral.nih.gov:8523590",
+    "is_oa": true,
+    "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8523590",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1299303238",
+      "host_organization_name": "National Institutes of Health",
+      "host_organization_lineage": [
+        "https://openalex.org/I1299303238"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "J Med Genet",
+    "raw_type": "Text"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/17",
+      "display_name": "Partnerships for the goals",
+      "score": 0.5199999809265137
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2657970655",
+      "display_name": null,
+      "funder_award_id": "141210",
+      "funder_id": "https://openalex.org/F4320334506",
+      "funder_display_name": "Canadian Institutes of Health Research"
+    },
+    {
+      "id": "https://openalex.org/G7602432528",
+      "display_name": null,
+      "funder_award_id": "OGI-070",
+      "funder_id": "https://openalex.org/F4320319905",
+      "funder_display_name": "Ontario Genomics Institute"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320319905",
+      "display_name": "Ontario Genomics Institute",
+      "ror": "https://ror.org/00c68jz96"
+    },
+    {
+      "id": "https://openalex.org/F4320334506",
+      "display_name": "Canadian Institutes of Health Research",
+      "ror": "https://ror.org/01gavpb45"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 22,
+  "referenced_works": [
+    "https://openalex.org/W1644197353",
+    "https://openalex.org/W2051978340",
+    "https://openalex.org/W2128044263",
+    "https://openalex.org/W2356454710",
+    "https://openalex.org/W2545239263",
+    "https://openalex.org/W2595455619",
+    "https://openalex.org/W2735427533",
+    "https://openalex.org/W2737732224",
+    "https://openalex.org/W2774647756",
+    "https://openalex.org/W2794099294",
+    "https://openalex.org/W2797078602",
+    "https://openalex.org/W2805636947",
+    "https://openalex.org/W2861740549",
+    "https://openalex.org/W2894287803",
+    "https://openalex.org/W2897067527",
+    "https://openalex.org/W2912924767",
+    "https://openalex.org/W2939460080",
+    "https://openalex.org/W2942410753",
+    "https://openalex.org/W2952728907",
+    "https://openalex.org/W2995012693",
+    "https://openalex.org/W3005785247",
+    "https://openalex.org/W3097738012"
+  ],
+  "related_works": [
+    "https://openalex.org/W1601684588",
+    "https://openalex.org/W2108427450",
+    "https://openalex.org/W2104328188",
+    "https://openalex.org/W648938440",
+    "https://openalex.org/W2915108716",
+    "https://openalex.org/W4220795960",
+    "https://openalex.org/W2789177613",
+    "https://openalex.org/W2396330467",
+    "https://openalex.org/W3159060468",
+    "https://openalex.org/W4210760730"
+  ],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "This": [
+      1
+    ],
+    "study": [
+      2
+    ],
+    "aimed": [
+      3
+    ],
+    "to": [
+      4,
+      37,
+      45,
+      63,
+      116,
+      144,
+      164,
+      174,
+      185,
+      224
+    ],
+    "identify": [
+      5,
+      225
+    ],
+    "and": [
+      6,
+      30,
+      100,
+      182,
+      205,
+      229
+    ],
+    "resolve": [
+      7,
+      64
+    ],
+    "discordant": [
+      8,
+      150,
+      226
+    ],
+    "variant": [
+      9,
+      28,
+      35,
+      78,
+      227
+    ],
+    "interpretations": [
+      10,
+      228
+    ],
+    "across": [
+      11
+    ],
+    "clinical": [
+      12,
+      251
+    ],
+    "molecular": [
+      13
+    ],
+    "genetic": [
+      14,
+      233,
+      244
+    ],
+    "laboratories": [
+      15,
+      124,
+      223
+    ],
+    "through": [
+      16
+    ],
+    "the": [
+      17,
+      38,
+      113,
+      147,
+      169,
+      179,
+      190,
+      195,
+      198
+    ],
+    "Canadian": [
+      18
+    ],
+    "Open": [
+      19
+    ],
+    "Genetics": [
+      20
+    ],
+    "Repository": [
+      21
+    ],
+    "(COGR),": [
+      22
+    ],
+    "an": [
+      23
+    ],
+    "online": [
+      24
+    ],
+    "collaborative": [
+      25
+    ],
+    "effort": [
+      26
+    ],
+    "for": [
+      27,
+      127,
+      208,
+      222
+    ],
+    "sharing": [
+      29
+    ],
+    "interpretation.": [
+      31
+    ],
+    "METHODS:": [
+      32
+    ],
+    "Laboratories": [
+      33,
+      58
+    ],
+    "uploaded": [
+      34
+    ],
+    "data": [
+      36
+    ],
+    "Franklin": [
+      39,
+      200
+    ],
+    "Genoox": [
+      40
+    ],
+    "platform.": [
+      41
+    ],
+    "Reports": [
+      42
+    ],
+    "were": [
+      43,
+      56,
+      135
+    ],
+    "issued": [
+      44
+    ],
+    "each": [
+      46
+    ],
+    "laboratory,": [
+      47
+    ],
+    "summarising": [
+      48
+    ],
+    "variants": [
+      49,
+      62,
+      133,
+      151,
+      157
+    ],
+    "where": [
+      50
+    ],
+    "conflicting": [
+      51
+    ],
+    "classifications": [
+      52,
+      115,
+      118,
+      126,
+      201
+    ],
+    "with": [
+      53,
+      194
+    ],
+    "another": [
+      54
+    ],
+    "laboratory": [
+      55
+    ],
+    "noted.": [
+      57
+    ],
+    "could": [
+      59
+    ],
+    "then": [
+      60
+    ],
+    "reassess": [
+      61
+    ],
+    "discordances.": [
+      65
+    ],
+    "Discordance": [
+      66
+    ],
+    "was": [
+      67
+    ],
+    "calculated": [
+      68
+    ],
+    "using": [
+      69
+    ],
+    "a": [
+      70,
+      88,
+      101,
+      219
+    ],
+    "five-tier": [
+      71,
+      170
+    ],
+    "model": [
+      72,
+      90,
+      103,
+      181
+    ],
+    "(pathogenic": [
+      73
+    ],
+    "(P),": [
+      74
+    ],
+    "likely": [
+      75,
+      83
+    ],
+    "pathogenic": [
+      76
+    ],
+    "(LP),": [
+      77
+    ],
+    "of": [
+      79,
+      149,
+      156
+    ],
+    "uncertain": [
+      80
+    ],
+    "significance": [
+      81
+    ],
+    "(VUS),": [
+      82
+    ],
+    "benign": [
+      84,
+      86
+    ],
+    "(LB),": [
+      85
+    ],
+    "(B)),": [
+      87
+    ],
+    "three-tier": [
+      89,
+      180
+    ],
+    "(LP/P": [
+      91,
+      104
+    ],
+    "are": [
+      92,
+      95,
+      98,
+      105,
+      109,
+      241
+    ],
+    "positive,": [
+      93
+    ],
+    "VUS": [
+      94
+    ],
+    "inconclusive,": [
+      96
+    ],
+    "LB/B": [
+      97
+    ],
+    "negative)": [
+      99
+    ],
+    "two-tier": [
+      102,
+      191
+    ],
+    "clinically": [
+      106
+    ],
+    "actionable,": [
+      107
+    ],
+    "VUS/LB/B": [
+      108
+    ],
+    "not).": [
+      110
+    ],
+    "We": [
+      111
+    ],
+    "compared": [
+      112
+    ],
+    "COGR": [
+      114,
+      196,
+      217
+    ],
+    "automated": [
+      117,
+      199
+    ],
+    "generated": [
+      119
+    ],
+    "by": [
+      120,
+      137,
+      159
+    ],
+    "Franklin.": [
+      121
+    ],
+    "RESULTS:": [
+      122
+    ],
+    "Twelve": [
+      123
+    ],
+    "submitted": [
+      125
+    ],
+    "44": [
+      128
+    ],
+    "510": [
+      129
+    ],
+    "unique": [
+      130
+    ],
+    "variants.": [
+      131,
+      214
+    ],
+    "2419": [
+      132
+    ],
+    "(5.4%)": [
+      134
+    ],
+    "classified": [
+      136
+    ],
+    "two": [
+      138,
+      160
+    ],
+    "or": [
+      139,
+      161,
+      212
+    ],
+    "more": [
+      140,
+      162,
+      248
+    ],
+    "laboratories.": [
+      141
+    ],
+    "From": [
+      142
+    ],
+    "baseline": [
+      143
+    ],
+    "after": [
+      145
+    ],
+    "reassessment,": [
+      146
+    ],
+    "number": [
+      148
+    ],
+    "decreased": [
+      152
+    ],
+    "from": [
+      153
+    ],
+    "833": [
+      154
+    ],
+    "(34.4%": [
+      155
+    ],
+    "reported": [
+      158
+    ],
+    "laboratories)": [
+      163
+    ],
+    "723": [
+      165
+    ],
+    "(29.9%)": [
+      166
+    ],
+    "based": [
+      167,
+      177,
+      188
+    ],
+    "on": [
+      168,
+      178,
+      189
+    ],
+    "model,": [
+      171
+    ],
+    "403": [
+      172
+    ],
+    "(16.7%)": [
+      173
+    ],
+    "279": [
+      175
+    ],
+    "(11.5%)": [
+      176
+    ],
+    "77": [
+      183
+    ],
+    "(3.2%)": [
+      184
+    ],
+    "37": [
+      186
+    ],
+    "(1.5%)": [
+      187
+    ],
+    "model.": [
+      192
+    ],
+    "Compared": [
+      193
+    ],
+    "classification,": [
+      197
+    ],
+    "had": [
+      202
+    ],
+    "94.5%": [
+      203
+    ],
+    "sensitivity": [
+      204
+    ],
+    "96.6%": [
+      206
+    ],
+    "specificity": [
+      207
+    ],
+    "identifying": [
+      209
+    ],
+    "actionable": [
+      210
+    ],
+    "(P": [
+      211
+    ],
+    "LP)": [
+      213
+    ],
+    "CONCLUSIONS:": [
+      215
+    ],
+    "The": [
+      216
+    ],
+    "provides": [
+      218
+    ],
+    "standardised": [
+      220
+    ],
+    "mechanism": [
+      221
+    ],
+    "reduce": [
+      230
+    ],
+    "discordance": [
+      231
+    ],
+    "in": [
+      232,
+      250
+    ],
+    "test": [
+      234
+    ],
+    "result": [
+      235
+    ],
+    "delivery.": [
+      236
+    ],
+    "Such": [
+      237
+    ],
+    "quality": [
+      238
+    ],
+    "assurance": [
+      239
+    ],
+    "programmes": [
+      240
+    ],
+    "important": [
+      242
+    ],
+    "as": [
+      243
+    ],
+    "testing": [
+      245
+    ],
+    "is": [
+      246
+    ],
+    "implemented": [
+      247
+    ],
+    "widely": [
+      249
+    ],
+    "care.": [
+      252
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-13T07:54:00.901334",
+  "created_date": "2025-10-10T00:00:00"
+}

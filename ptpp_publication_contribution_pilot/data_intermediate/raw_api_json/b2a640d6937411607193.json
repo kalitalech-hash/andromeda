@@ -1,0 +1,1287 @@
+{
+  "id": "https://openalex.org/W2886359910",
+  "doi": "https://doi.org/10.1042/bcj20180239",
+  "title": "Prediction of secondary and tertiary structures of human BC200 RNA (BCYRN1) based on experimental and bioinformatic cross-validation",
+  "display_name": "Prediction of secondary and tertiary structures of human BC200 RNA (BCYRN1) based on experimental and bioinformatic cross-validation",
+  "publication_year": 2018,
+  "publication_date": "2018-08-02",
+  "ids": {
+    "openalex": "https://openalex.org/W2886359910",
+    "doi": "https://doi.org/10.1042/bcj20180239",
+    "mag": "2886359910",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/30072491"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1042/bcj20180239",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1042/bcj20180239",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S44425019",
+      "display_name": "Biochemical Journal",
+      "issn_l": "0264-6021",
+      "issn": [
+        "0264-6021",
+        "1470-8728"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311608",
+      "host_organization_name": "Portland Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311608",
+        "https://openalex.org/P4310311715"
+      ],
+      "host_organization_lineage_names": [
+        "Portland Press",
+        "Biochemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Biochemical Journal",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5050558928",
+        "display_name": "Patrycja Sosińska",
+        "orcid": "https://orcid.org/0000-0002-1984-6415"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I120230055",
+          "display_name": "Poznan University of Medical Sciences",
+          "ror": "https://ror.org/02zbb2597",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I120230055"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210152414",
+          "display_name": "Institute of Bioorganic Chemistry, Polish Academy of Sciences",
+          "ror": "https://ror.org/04ejdtr48",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210152414",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Patrycja Sosińska-Zawierucha",
+      "raw_affiliation_strings": [
+        "Department of Pathophysiology, Poznan University of Medical Sciences, Poznań, Poland",
+        "Institute of Bioorganic Chemistry, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathophysiology, Poznan University of Medical Sciences, Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I120230055"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Bioorganic Chemistry, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210152414"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027297074",
+        "display_name": "Piotr Zawierucha",
+        "orcid": "https://orcid.org/0000-0001-9087-3080"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I120230055",
+          "display_name": "Poznan University of Medical Sciences",
+          "ror": "https://ror.org/02zbb2597",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I120230055"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Zawierucha",
+      "raw_affiliation_strings": [
+        "Computer Sciences Unit, Poznan University of Medical Sciences, Poznań, Poland",
+        "Department of Anatomy, Poznan University of Medical Sciences, Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Computer Sciences Unit, Poznan University of Medical Sciences, Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I120230055"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Anatomy, Poznan University of Medical Sciences, Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I120230055"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021610222",
+        "display_name": "Andrzej Bręborowicz",
+        "orcid": "https://orcid.org/0000-0002-0916-623X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I120230055",
+          "display_name": "Poznan University of Medical Sciences",
+          "ror": "https://ror.org/02zbb2597",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I120230055"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrzej Bręborowicz",
+      "raw_affiliation_strings": [
+        "Department of Pathophysiology, Poznan University of Medical Sciences, Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathophysiology, Poznan University of Medical Sciences, Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I120230055"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5075225554",
+        "display_name": "Jan Barciszewski",
+        "orcid": "https://orcid.org/0000-0001-7766-5594"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210152414",
+          "display_name": "Institute of Bioorganic Chemistry, Polish Academy of Sciences",
+          "ror": "https://ror.org/04ejdtr48",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210152414",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan Barciszewski",
+      "raw_affiliation_strings": [
+        "Institute of Bioorganic Chemistry, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Bioorganic Chemistry, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210152414"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5050558928"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I120230055",
+    "https://openalex.org/I4210152414"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.1855,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.53617459,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "475",
+    "issue": "17",
+    "first_page": "2727",
+    "last_page": "2748"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10521",
+    "display_name": "RNA and protein synthesis mechanisms",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10521",
+      "display_name": "RNA and protein synthesis mechanisms",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/rna",
+      "display_name": "RNA",
+      "score": 0.8343654870986938
+    },
+    {
+      "id": "https://openalex.org/keywords/protein-secondary-structure",
+      "display_name": "Protein secondary structure",
+      "score": 0.6658153533935547
+    },
+    {
+      "id": "https://openalex.org/keywords/rnase-p",
+      "display_name": "RNase P",
+      "score": 0.6275917291641235
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5742828845977783
+    },
+    {
+      "id": "https://openalex.org/keywords/nucleic-acid-structure",
+      "display_name": "Nucleic acid structure",
+      "score": 0.5472493171691895
+    },
+    {
+      "id": "https://openalex.org/keywords/protein-tertiary-structure",
+      "display_name": "Protein tertiary structure",
+      "score": 0.5285006165504456
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.5014932155609131
+    },
+    {
+      "id": "https://openalex.org/keywords/nucleic-acid-secondary-structure",
+      "display_name": "Nucleic acid secondary structure",
+      "score": 0.4664821922779083
+    },
+    {
+      "id": "https://openalex.org/keywords/in-silico",
+      "display_name": "In silico",
+      "score": 0.46053576469421387
+    },
+    {
+      "id": "https://openalex.org/keywords/non-coding-rna",
+      "display_name": "Non-coding RNA",
+      "score": 0.44613510370254517
+    },
+    {
+      "id": "https://openalex.org/keywords/rnase-h",
+      "display_name": "RNase H",
+      "score": 0.4420911967754364
+    },
+    {
+      "id": "https://openalex.org/keywords/base-pair",
+      "display_name": "Base pair",
+      "score": 0.4299362897872925
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.2757033705711365
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.18076863884925842
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C67705224",
+      "wikidata": "https://www.wikidata.org/wiki/Q11053",
+      "display_name": "RNA",
+      "level": 3,
+      "score": 0.8343654870986938
+    },
+    {
+      "id": "https://openalex.org/C62614982",
+      "wikidata": "https://www.wikidata.org/wiki/Q904984",
+      "display_name": "Protein secondary structure",
+      "level": 2,
+      "score": 0.6658153533935547
+    },
+    {
+      "id": "https://openalex.org/C10879258",
+      "wikidata": "https://www.wikidata.org/wiki/Q76826611",
+      "display_name": "RNase P",
+      "level": 4,
+      "score": 0.6275917291641235
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5742828845977783
+    },
+    {
+      "id": "https://openalex.org/C126142528",
+      "wikidata": "https://www.wikidata.org/wiki/Q3771876",
+      "display_name": "Nucleic acid structure",
+      "level": 4,
+      "score": 0.5472493171691895
+    },
+    {
+      "id": "https://openalex.org/C75599170",
+      "wikidata": "https://www.wikidata.org/wiki/Q898483",
+      "display_name": "Protein tertiary structure",
+      "level": 2,
+      "score": 0.5285006165504456
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5014932155609131
+    },
+    {
+      "id": "https://openalex.org/C85468374",
+      "wikidata": "https://www.wikidata.org/wiki/Q6589957",
+      "display_name": "Nucleic acid secondary structure",
+      "level": 4,
+      "score": 0.4664821922779083
+    },
+    {
+      "id": "https://openalex.org/C2775905019",
+      "wikidata": "https://www.wikidata.org/wiki/Q192572",
+      "display_name": "In silico",
+      "level": 3,
+      "score": 0.46053576469421387
+    },
+    {
+      "id": "https://openalex.org/C194993378",
+      "wikidata": "https://www.wikidata.org/wiki/Q427087",
+      "display_name": "Non-coding RNA",
+      "level": 4,
+      "score": 0.44613510370254517
+    },
+    {
+      "id": "https://openalex.org/C69766542",
+      "wikidata": "https://www.wikidata.org/wiki/Q3430179",
+      "display_name": "RNase H",
+      "level": 5,
+      "score": 0.4420911967754364
+    },
+    {
+      "id": "https://openalex.org/C185581394",
+      "wikidata": "https://www.wikidata.org/wiki/Q145911",
+      "display_name": "Base pair",
+      "level": 3,
+      "score": 0.4299362897872925
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.2757033705711365
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.18076863884925842
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011237",
+      "descriptor_name": "Predictive Value of Tests",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011237",
+      "descriptor_name": "Predictive Value of Tests",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011237",
+      "descriptor_name": "Predictive Value of Tests",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012984",
+      "descriptor_name": "Software",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012984",
+      "descriptor_name": "Software",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012984",
+      "descriptor_name": "Software",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016914",
+      "descriptor_name": "Ribonuclease H",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016914",
+      "descriptor_name": "Ribonuclease H",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016914",
+      "descriptor_name": "Ribonuclease H",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019295",
+      "descriptor_name": "Computational Biology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019295",
+      "descriptor_name": "Computational Biology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019295",
+      "descriptor_name": "Computational Biology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059370",
+      "descriptor_name": "RNA Folding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059370",
+      "descriptor_name": "RNA Folding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059370",
+      "descriptor_name": "RNA Folding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D062085",
+      "descriptor_name": "RNA, Long Noncoding",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062085",
+      "descriptor_name": "RNA, Long Noncoding",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062085",
+      "descriptor_name": "RNA, Long Noncoding",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062085",
+      "descriptor_name": "RNA, Long Noncoding",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062085",
+      "descriptor_name": "RNA, Long Noncoding",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062085",
+      "descriptor_name": "RNA, Long Noncoding",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1042/bcj20180239",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1042/bcj20180239",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S44425019",
+        "display_name": "Biochemical Journal",
+        "issn_l": "0264-6021",
+        "issn": [
+          "0264-6021",
+          "1470-8728"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311608",
+        "host_organization_name": "Portland Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311608",
+          "https://openalex.org/P4310311715"
+        ],
+        "host_organization_lineage_names": [
+          "Portland Press",
+          "Biochemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Biochemical Journal",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:30072491",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/30072491",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Biochemical journal",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 56,
+  "referenced_works": [
+    "https://openalex.org/W1266708768",
+    "https://openalex.org/W1747248992",
+    "https://openalex.org/W1958324329",
+    "https://openalex.org/W1971642715",
+    "https://openalex.org/W1984164275",
+    "https://openalex.org/W1991484287",
+    "https://openalex.org/W1993878306",
+    "https://openalex.org/W1999447161",
+    "https://openalex.org/W2002364516",
+    "https://openalex.org/W2006936482",
+    "https://openalex.org/W2007143725",
+    "https://openalex.org/W2007615447",
+    "https://openalex.org/W2009215595",
+    "https://openalex.org/W2013900075",
+    "https://openalex.org/W2026181790",
+    "https://openalex.org/W2033339460",
+    "https://openalex.org/W2038598202",
+    "https://openalex.org/W2044863150",
+    "https://openalex.org/W2046335009",
+    "https://openalex.org/W2055757017",
+    "https://openalex.org/W2058550220",
+    "https://openalex.org/W2071883352",
+    "https://openalex.org/W2076091642",
+    "https://openalex.org/W2078044114",
+    "https://openalex.org/W2079522006",
+    "https://openalex.org/W2092672051",
+    "https://openalex.org/W2094898557",
+    "https://openalex.org/W2102017611",
+    "https://openalex.org/W2103250001",
+    "https://openalex.org/W2110436930",
+    "https://openalex.org/W2118245746",
+    "https://openalex.org/W2119346976",
+    "https://openalex.org/W2131462431",
+    "https://openalex.org/W2132251195",
+    "https://openalex.org/W2133165395",
+    "https://openalex.org/W2139878468",
+    "https://openalex.org/W2141157874",
+    "https://openalex.org/W2157201844",
+    "https://openalex.org/W2158842667",
+    "https://openalex.org/W2161351275",
+    "https://openalex.org/W2170441710",
+    "https://openalex.org/W2187125123",
+    "https://openalex.org/W2289125032",
+    "https://openalex.org/W2417156925",
+    "https://openalex.org/W2521640490",
+    "https://openalex.org/W2522077176",
+    "https://openalex.org/W2564476160",
+    "https://openalex.org/W2650463106",
+    "https://openalex.org/W2725568163",
+    "https://openalex.org/W2730968108",
+    "https://openalex.org/W2769011958",
+    "https://openalex.org/W2773532330",
+    "https://openalex.org/W2777967852",
+    "https://openalex.org/W2783732909",
+    "https://openalex.org/W2785329615",
+    "https://openalex.org/W6654090679"
+  ],
+  "related_works": [
+    "https://openalex.org/W4318218930",
+    "https://openalex.org/W2600828970",
+    "https://openalex.org/W2119867048",
+    "https://openalex.org/W4237472082",
+    "https://openalex.org/W1965617589",
+    "https://openalex.org/W1989668614",
+    "https://openalex.org/W2010378972",
+    "https://openalex.org/W2417857282",
+    "https://openalex.org/W2886359910",
+    "https://openalex.org/W2127270490"
+  ],
+  "abstract_inverted_index": {
+    "Based": [
+      0,
+      134
+    ],
+    "on": [
+      1,
+      135
+    ],
+    "experimental": [
+      2,
+      113,
+      156
+    ],
+    "and": [
+      3,
+      48,
+      80,
+      92,
+      98,
+      121,
+      157,
+      170,
+      190
+    ],
+    "bioinformatic": [
+      4,
+      158
+    ],
+    "approaches,": [
+      5
+    ],
+    "we": [
+      6,
+      73,
+      111,
+      143
+    ],
+    "present": [
+      7
+    ],
+    "the": [
+      8,
+      37,
+      55,
+      65,
+      86,
+      104,
+      136,
+      146,
+      163,
+      166,
+      181,
+      188
+    ],
+    "first": [
+      9
+    ],
+    "empirically": [
+      10
+    ],
+    "established": [
+      11
+    ],
+    "complete": [
+      12,
+      105
+    ],
+    "secondary": [
+      13,
+      57,
+      66,
+      138,
+      169
+    ],
+    "structure": [
+      14,
+      58,
+      67,
+      118,
+      139,
+      148,
+      197
+    ],
+    "of": [
+      15,
+      39,
+      46,
+      68,
+      88,
+      108,
+      125,
+      140,
+      149,
+      155,
+      165,
+      173,
+      193
+    ],
+    "human": [
+      16,
+      40,
+      174
+    ],
+    "BC200": [
+      17,
+      19,
+      41,
+      69,
+      109,
+      141,
+      150,
+      175
+    ],
+    "RNA.": [
+      18,
+      151
+    ],
+    "RNA": [
+      20,
+      25,
+      42,
+      70,
+      176
+    ],
+    "is": [
+      21
+    ],
+    "a": [
+      22,
+      27,
+      123
+    ],
+    "brain-specific": [
+      23
+    ],
+    "non-messenger": [
+      24
+    ],
+    "with": [
+      26,
+      77,
+      180
+    ],
+    "confirmed": [
+      28
+    ],
+    "regulatory": [
+      29
+    ],
+    "role": [
+      30
+    ],
+    "in": [
+      31,
+      34,
+      43,
+      71,
+      117,
+      178,
+      195
+    ],
+    "dendritic": [
+      32
+    ],
+    "translation": [
+      33
+    ],
+    "neurons.": [
+      35
+    ],
+    "Although": [
+      36
+    ],
+    "involvement": [
+      38
+    ],
+    "various": [
+      44
+    ],
+    "types": [
+      45
+    ],
+    "tumour": [
+      47
+    ],
+    "Alzheimer's": [
+      49
+    ],
+    "disease": [
+      50
+    ],
+    "has": [
+      51
+    ],
+    "been": [
+      52
+    ],
+    "repeatedly": [
+      53
+    ],
+    "confirmed,": [
+      54
+    ],
+    "exact": [
+      56
+    ],
+    "remains": [
+      59
+    ],
+    "not": [
+      60,
+      160
+    ],
+    "fully": [
+      61
+    ],
+    "elucidated.": [
+      62
+    ],
+    "To": [
+      63,
+      102
+    ],
+    "determine": [
+      64,
+      103
+    ],
+    "vitro,": [
+      72
+    ],
+    "performed": [
+      74,
+      122
+    ],
+    "partial": [
+      75
+    ],
+    "hydrolysis": [
+      76
+    ],
+    "sequence-specific": [
+      78
+    ],
+    "nucleases": [
+      79
+    ],
+    "lead-induced": [
+      81
+    ],
+    "cleavage.": [
+      82
+    ],
+    "We": [
+      83
+    ],
+    "also": [
+      84,
+      144,
+      186
+    ],
+    "examined": [
+      85
+    ],
+    "availabilities": [
+      87
+    ],
+    "putative": [
+      89
+    ],
+    "single-stranded": [
+      90
+    ],
+    "regions": [
+      91
+    ],
+    "base-pairing": [
+      93
+    ],
+    "interactions": [
+      94
+    ],
+    "via": [
+      95
+    ],
+    "specific": [
+      96
+    ],
+    "DNAzymes": [
+      97
+    ],
+    "RNase": [
+      99
+    ],
+    "H": [
+      100
+    ],
+    "assay.": [
+      101
+    ],
+    "spatial": [
+      106
+    ],
+    "folding": [
+      107
+    ],
+    "RNA,": [
+      110,
+      142
+    ],
+    "used": [
+      112
+    ],
+    "data": [
+      114
+    ],
+    "as": [
+      115
+    ],
+    "constraints": [
+      116
+    ],
+    "prediction": [
+      119,
+      198
+    ],
+    "programs": [
+      120
+    ],
+    "comparison": [
+      124
+    ],
+    "results": [
+      126
+    ],
+    "obtained": [
+      127
+    ],
+    "by": [
+      128
+    ],
+    "several": [
+      129
+    ],
+    "algorithms": [
+      130
+    ],
+    "using": [
+      131
+    ],
+    "different": [
+      132
+    ],
+    "criteria.": [
+      133
+    ],
+    "experimental-derived": [
+      137
+    ],
+    "predicted": [
+      145
+    ],
+    "tertiary": [
+      147,
+      171
+    ],
+    "The": [
+      152
+    ],
+    "presented": [
+      153
+    ],
+    "combination": [
+      154
+    ],
+    "approaches": [
+      159
+    ],
+    "only": [
+      161
+    ],
+    "enabled": [
+      162
+    ],
+    "determination": [
+      164
+    ],
+    "most": [
+      167
+    ],
+    "reliable": [
+      168
+    ],
+    "structures": [
+      172
+    ],
+    "(largely": [
+      177
+    ],
+    "agreement": [
+      179
+    ],
+    "previous": [
+      182
+    ],
+    "phylogenetic": [
+      183
+    ],
+    "model),": [
+      184
+    ],
+    "but": [
+      185
+    ],
+    "verified": [
+      187
+    ],
+    "compatibility": [
+      189
+    ],
+    "potential": [
+      191
+    ],
+    "disadvantages": [
+      192
+    ],
+    "utilizing": [
+      194
+    ],
+    "silico": [
+      196
+    ],
+    "programs.": [
+      199
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

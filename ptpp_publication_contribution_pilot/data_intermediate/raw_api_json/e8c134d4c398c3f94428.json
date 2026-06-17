@@ -1,0 +1,496 @@
+{
+  "id": "https://openalex.org/W4394730393",
+  "doi": "https://doi.org/10.2139/ssrn.4791317",
+  "title": "Large Language Models, Scientific Knowledge and Factuality: A Systematic Analysis in Antibiotic Discovery",
+  "display_name": "Large Language Models, Scientific Knowledge and Factuality: A Systematic Analysis in Antibiotic Discovery",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4394730393",
+    "doi": "https://doi.org/10.2139/ssrn.4791317"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.2139/ssrn.4791317",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4791317",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://dx.doi.org/10.2139/ssrn.4791317",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016561885",
+        "display_name": "Magdalena Wysocka",
+        "orcid": "https://orcid.org/0000-0003-2216-5597"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Magdalena Wysocka",
+      "raw_affiliation_strings": [
+        "Independent  - affiliation not provided to SSRN"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082922366",
+        "display_name": "Oskar Wysocki",
+        "orcid": "https://orcid.org/0000-0002-7053-4919"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7495430",
+          "display_name": "Idiap Research Institute",
+          "ror": "https://ror.org/05932h694",
+          "country_code": "CH",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Oskar Wysocki",
+      "raw_affiliation_strings": [
+        "Idiap Research Institute"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Idiap Research Institute",
+          "institution_ids": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037083167",
+        "display_name": "Maxime Delmas",
+        "orcid": "https://orcid.org/0000-0002-8109-1113"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7495430",
+          "display_name": "Idiap Research Institute",
+          "ror": "https://ror.org/05932h694",
+          "country_code": "CH",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maxime Delmas",
+      "raw_affiliation_strings": [
+        "Idiap Research Institute"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Idiap Research Institute",
+          "institution_ids": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025516063",
+        "display_name": "Vincent Mutel",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Vincent Mutel",
+      "raw_affiliation_strings": [
+        "Independent  - affiliation not provided to SSRN"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5053978668",
+        "display_name": "André Freitas",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7495430",
+          "display_name": "Idiap Research Institute",
+          "ror": "https://ror.org/05932h694",
+          "country_code": "CH",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "André Freitas",
+      "raw_affiliation_strings": [
+        "Idiap Research Institute"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Idiap Research Institute",
+          "institution_ids": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5016561885"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11710",
+    "display_name": "Biomedical Text Mining and Ontologies",
+    "score": 0.9984999895095825,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11710",
+      "display_name": "Biomedical Text Mining and Ontologies",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.9865000247955322,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13083",
+      "display_name": "Advanced Text Analysis Techniques",
+      "score": 0.947700023651123,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/scientific-discovery",
+      "display_name": "Scientific discovery",
+      "score": 0.4169401526451111
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.33300143480300903
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.33006221055984497
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.23072251677513123
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.1662774682044983
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2984917352",
+      "wikidata": "https://www.wikidata.org/wiki/Q12772819",
+      "display_name": "Scientific discovery",
+      "level": 2,
+      "score": 0.4169401526451111
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.33300143480300903
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.33006221055984497
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.23072251677513123
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.1662774682044983
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.2139/ssrn.4791317",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4791317",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.2139/ssrn.4791317",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4791317",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 35,
+  "referenced_works": [
+    "https://openalex.org/W2938704169",
+    "https://openalex.org/W2944095447",
+    "https://openalex.org/W2996219887",
+    "https://openalex.org/W3007309629",
+    "https://openalex.org/W3021533447",
+    "https://openalex.org/W3034383590",
+    "https://openalex.org/W3037013468",
+    "https://openalex.org/W3040709534",
+    "https://openalex.org/W3091922147",
+    "https://openalex.org/W3101204082",
+    "https://openalex.org/W3118781290",
+    "https://openalex.org/W3133702157",
+    "https://openalex.org/W3172943453",
+    "https://openalex.org/W4226153908",
+    "https://openalex.org/W4226375873",
+    "https://openalex.org/W4226434736",
+    "https://openalex.org/W4281483318",
+    "https://openalex.org/W4283170666",
+    "https://openalex.org/W4292779060",
+    "https://openalex.org/W4297253404",
+    "https://openalex.org/W4307092072",
+    "https://openalex.org/W4308244910",
+    "https://openalex.org/W4309217888",
+    "https://openalex.org/W4309674289",
+    "https://openalex.org/W4318239126",
+    "https://openalex.org/W4321366933",
+    "https://openalex.org/W4360891289",
+    "https://openalex.org/W4361251463",
+    "https://openalex.org/W4366974303",
+    "https://openalex.org/W4385573636",
+    "https://openalex.org/W4386576819",
+    "https://openalex.org/W4388684503",
+    "https://openalex.org/W4389519983",
+    "https://openalex.org/W4394773691",
+    "https://openalex.org/W6810242208"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2126681669",
+    "https://openalex.org/W2148010638",
+    "https://openalex.org/W4206663545",
+    "https://openalex.org/W1978317178",
+    "https://openalex.org/W2413102523"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-03-24T08:02:53.985720",
+  "created_date": "2025-10-10T00:00:00"
+}

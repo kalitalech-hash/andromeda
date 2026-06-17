@@ -1,0 +1,806 @@
+{
+  "id": "https://openalex.org/W4399661118",
+  "doi": "https://doi.org/10.21203/rs.3.rs-4431206/v1",
+  "title": "The influence of focusing current on the microstructure of 2219 high-strength aluminum alloy electron beam welded joints",
+  "display_name": "The influence of focusing current on the microstructure of 2219 high-strength aluminum alloy electron beam welded joints",
+  "publication_year": 2024,
+  "publication_date": "2024-06-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4399661118",
+    "doi": "https://doi.org/10.21203/rs.3.rs-4431206/v1"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.21203/rs.3.rs-4431206/v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21203/rs.3.rs-4431206/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-4431206/latest.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306525896",
+      "display_name": "Research Square",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "Research Square",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.researchsquare.com/article/rs-4431206/latest.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5066076070",
+        "display_name": "Miroslav Sahul",
+        "orcid": "https://orcid.org/0000-0001-5091-6381"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Miroslav Sahul",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague Faculty of Mechanical Engineering: Ceske Vysoke Uceni Technicke v Praze Fakulta strojni",
+        "Ceske Vysoke Uceni Technicke v Praze"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5091-6381",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague Faculty of Mechanical Engineering: Ceske Vysoke Uceni Technicke v Praze Fakulta strojni",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ceske Vysoke Uceni Technicke v Praze",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066076070",
+        "display_name": "Miroslav Sahul",
+        "orcid": "https://orcid.org/0000-0001-5091-6381"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Martin Sahul",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague Faculty of Mechanical Engineering: Ceske Vysoke Uceni Technicke v Praze Fakulta strojni",
+        "Czech Technical University in Prague Faculty of Mechanical Engineering:",
+        "Ceske Vysoke Uceni Technicke v Praze"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague Faculty of Mechanical Engineering: Ceske Vysoke Uceni Technicke v Praze Fakulta strojni",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague Faculty of Mechanical Engineering:",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ceske Vysoke Uceni Technicke v Praze",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063931607",
+        "display_name": "М.О. Rusynyk",
+        "orcid": "https://orcid.org/0000-0002-7591-7169"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112512915",
+          "display_name": "E.O. Paton Electric Welding Institute",
+          "ror": "https://ror.org/01gxrtw55",
+          "country_code": "UA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I149851306",
+          "display_name": "National Academy of Sciences of Ukraine",
+          "ror": "https://ror.org/00je4t102",
+          "country_code": "UA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maksym Rusynyk",
+      "raw_affiliation_strings": [
+        "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058972352",
+        "display_name": "V.M. Nesterenkov",
+        "orcid": "https://orcid.org/0000-0002-7973-1986"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112512915",
+          "display_name": "E.O. Paton Electric Welding Institute",
+          "ror": "https://ror.org/01gxrtw55",
+          "country_code": "UA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I149851306",
+          "display_name": "National Academy of Sciences of Ukraine",
+          "ror": "https://ror.org/00je4t102",
+          "country_code": "UA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vladimir Nesterenkov",
+      "raw_affiliation_strings": [
+        "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081416081",
+        "display_name": "Marta Lipińska",
+        "orcid": "https://orcid.org/0000-0002-1893-0041"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Lipińska",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Faculty of Materials Science and Engineering, ul. Wołoska 141, 02-507 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Faculty of Materials Science and Engineering, ul. Wołoska 141, 02-507 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023913563",
+        "display_name": "V.E. Fedorchuk",
+        "orcid": "https://orcid.org/0000-0002-9929-3231"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112512915",
+          "display_name": "E.O. Paton Electric Welding Institute",
+          "ror": "https://ror.org/01gxrtw55",
+          "country_code": "UA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I149851306",
+          "display_name": "National Academy of Sciences of Ukraine",
+          "ror": "https://ror.org/00je4t102",
+          "country_code": "UA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Viktor Fedorchuk",
+      "raw_affiliation_strings": [
+        "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022162967",
+        "display_name": "І.М. Klochkov",
+        "orcid": "https://orcid.org/0000-0001-6490-8905"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112512915",
+          "display_name": "E.O. Paton Electric Welding Institute",
+          "ror": "https://ror.org/01gxrtw55",
+          "country_code": "UA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I149851306",
+          "display_name": "National Academy of Sciences of Ukraine",
+          "ror": "https://ror.org/00je4t102",
+          "country_code": "UA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Illia Klochkov",
+      "raw_affiliation_strings": [
+        "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057551834",
+        "display_name": "Svіatoslav Motrunich",
+        "orcid": "https://orcid.org/0000-0002-8841-8609"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112512915",
+          "display_name": "E.O. Paton Electric Welding Institute",
+          "ror": "https://ror.org/01gxrtw55",
+          "country_code": "UA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I149851306",
+          "display_name": "National Academy of Sciences of Ukraine",
+          "ror": "https://ror.org/00je4t102",
+          "country_code": "UA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sviatoslav Motrunich",
+      "raw_affiliation_strings": [
+        "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "E.O. Paton Electric Welding Institute of the National Academy of Sciences of Ukraine, Kazymyr Malevych St. 11, Kyiv 03150, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I112512915",
+            "https://openalex.org/I149851306"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5066076070"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I44504214"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10834",
+    "display_name": "Welding Techniques and Residual Stresses",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10834",
+      "display_name": "Welding Techniques and Residual Stresses",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10723",
+      "display_name": "Advanced Welding Techniques Analysis",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10670",
+      "display_name": "Aluminum Alloy Microstructure Properties",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/welding",
+      "display_name": "Welding",
+      "score": 0.7198715806007385
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.7180368900299072
+    },
+    {
+      "id": "https://openalex.org/keywords/microstructure",
+      "display_name": "Microstructure",
+      "score": 0.6707068681716919
+    },
+    {
+      "id": "https://openalex.org/keywords/alloy",
+      "display_name": "Alloy",
+      "score": 0.6429674625396729
+    },
+    {
+      "id": "https://openalex.org/keywords/current",
+      "display_name": "Current (fluid)",
+      "score": 0.5907310247421265
+    },
+    {
+      "id": "https://openalex.org/keywords/metallurgy",
+      "display_name": "Metallurgy",
+      "score": 0.5312233567237854
+    },
+    {
+      "id": "https://openalex.org/keywords/beam",
+      "display_name": "Beam (structure)",
+      "score": 0.4411658048629761
+    },
+    {
+      "id": "https://openalex.org/keywords/aluminium",
+      "display_name": "Aluminium",
+      "score": 0.42212820053100586
+    },
+    {
+      "id": "https://openalex.org/keywords/composite-material",
+      "display_name": "Composite material",
+      "score": 0.42202234268188477
+    },
+    {
+      "id": "https://openalex.org/keywords/structural-engineering",
+      "display_name": "Structural engineering",
+      "score": 0.14557701349258423
+    },
+    {
+      "id": "https://openalex.org/keywords/electrical-engineering",
+      "display_name": "Electrical engineering",
+      "score": 0.06614696979522705
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.05392444133758545
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C19474535",
+      "wikidata": "https://www.wikidata.org/wiki/Q131172",
+      "display_name": "Welding",
+      "level": 2,
+      "score": 0.7198715806007385
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.7180368900299072
+    },
+    {
+      "id": "https://openalex.org/C87976508",
+      "wikidata": "https://www.wikidata.org/wiki/Q1498213",
+      "display_name": "Microstructure",
+      "level": 2,
+      "score": 0.6707068681716919
+    },
+    {
+      "id": "https://openalex.org/C2780026712",
+      "wikidata": "https://www.wikidata.org/wiki/Q37756",
+      "display_name": "Alloy",
+      "level": 2,
+      "score": 0.6429674625396729
+    },
+    {
+      "id": "https://openalex.org/C148043351",
+      "wikidata": "https://www.wikidata.org/wiki/Q4456944",
+      "display_name": "Current (fluid)",
+      "level": 2,
+      "score": 0.5907310247421265
+    },
+    {
+      "id": "https://openalex.org/C191897082",
+      "wikidata": "https://www.wikidata.org/wiki/Q11467",
+      "display_name": "Metallurgy",
+      "level": 1,
+      "score": 0.5312233567237854
+    },
+    {
+      "id": "https://openalex.org/C168834538",
+      "wikidata": "https://www.wikidata.org/wiki/Q3705329",
+      "display_name": "Beam (structure)",
+      "level": 2,
+      "score": 0.4411658048629761
+    },
+    {
+      "id": "https://openalex.org/C513153333",
+      "wikidata": "https://www.wikidata.org/wiki/Q663",
+      "display_name": "Aluminium",
+      "level": 2,
+      "score": 0.42212820053100586
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.42202234268188477
+    },
+    {
+      "id": "https://openalex.org/C66938386",
+      "wikidata": "https://www.wikidata.org/wiki/Q633538",
+      "display_name": "Structural engineering",
+      "level": 1,
+      "score": 0.14557701349258423
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.06614696979522705
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.05392444133758545
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.21203/rs.3.rs-4431206/v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.21203/rs.3.rs-4431206/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-4431206/latest.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306525896",
+        "display_name": "Research Square",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "Research Square",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.21203/rs.3.rs-4431206/v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21203/rs.3.rs-4431206/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-4431206/latest.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306525896",
+      "display_name": "Research Square",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "Research Square",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4399661118.pdf"
+  },
+  "referenced_works_count": 47,
+  "referenced_works": [
+    "https://openalex.org/W795308494",
+    "https://openalex.org/W1490323938",
+    "https://openalex.org/W1987531226",
+    "https://openalex.org/W2009768501",
+    "https://openalex.org/W2013635966",
+    "https://openalex.org/W2014463062",
+    "https://openalex.org/W2016125240",
+    "https://openalex.org/W2017193355",
+    "https://openalex.org/W2035523315",
+    "https://openalex.org/W2047739079",
+    "https://openalex.org/W2047764577",
+    "https://openalex.org/W2051684688",
+    "https://openalex.org/W2057565674",
+    "https://openalex.org/W2063496678",
+    "https://openalex.org/W2065722160",
+    "https://openalex.org/W2066467061",
+    "https://openalex.org/W2076777777",
+    "https://openalex.org/W2088747335",
+    "https://openalex.org/W2093206922",
+    "https://openalex.org/W2105437183",
+    "https://openalex.org/W2162766019",
+    "https://openalex.org/W2261902407",
+    "https://openalex.org/W2479500724",
+    "https://openalex.org/W2517966178",
+    "https://openalex.org/W2558822644",
+    "https://openalex.org/W2735782798",
+    "https://openalex.org/W2758587229",
+    "https://openalex.org/W2791427951",
+    "https://openalex.org/W2791445306",
+    "https://openalex.org/W2905392376",
+    "https://openalex.org/W2981089381",
+    "https://openalex.org/W3006149155",
+    "https://openalex.org/W3035551579",
+    "https://openalex.org/W3082586672",
+    "https://openalex.org/W3089072551",
+    "https://openalex.org/W3118413073",
+    "https://openalex.org/W3131263404",
+    "https://openalex.org/W3156936413",
+    "https://openalex.org/W4285170135",
+    "https://openalex.org/W4295419518",
+    "https://openalex.org/W4295529646",
+    "https://openalex.org/W4308374703",
+    "https://openalex.org/W4318426648",
+    "https://openalex.org/W4318428470",
+    "https://openalex.org/W4318994861",
+    "https://openalex.org/W4323073624",
+    "https://openalex.org/W4379530629"
+  ],
+  "related_works": [
+    "https://openalex.org/W2058940780",
+    "https://openalex.org/W2090404944",
+    "https://openalex.org/W2046332915",
+    "https://openalex.org/W2354424856",
+    "https://openalex.org/W2375093060",
+    "https://openalex.org/W2605776044",
+    "https://openalex.org/W3112534208",
+    "https://openalex.org/W4213247598",
+    "https://openalex.org/W2312532833",
+    "https://openalex.org/W2968845083"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

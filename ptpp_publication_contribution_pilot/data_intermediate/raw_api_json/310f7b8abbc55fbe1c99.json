@@ -1,0 +1,998 @@
+{
+  "id": "https://openalex.org/W2972137756",
+  "doi": "https://doi.org/10.1088/1757-899x/609/5/052024",
+  "title": "Numerical investigation on the impact of different supply air terminal devices on the performance of the newly combined ventilation and heating system",
+  "display_name": "Numerical investigation on the impact of different supply air terminal devices on the performance of the newly combined ventilation and heating system",
+  "publication_year": 2019,
+  "publication_date": "2019-09-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2972137756",
+    "doi": "https://doi.org/10.1088/1757-899x/609/5/052024",
+    "mag": "2972137756"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1088/1757-899x/609/5/052024",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1757-899x/609/5/052024",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/609/5/052024/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210189194",
+      "display_name": "IOP Conference Series Materials Science and Engineering",
+      "issn_l": "1757-8981",
+      "issn": [
+        "1757-8981",
+        "1757-899X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "conference"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IOP Conference Series: Materials Science and Engineering",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://iopscience.iop.org/article/10.1088/1757-899X/609/5/052024/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5030584976",
+        "display_name": "Parastoo Sadeghian",
+        "orcid": "https://orcid.org/0000-0001-7032-3049"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86987016",
+          "display_name": "KTH Royal Institute of Technology",
+          "ror": "https://ror.org/026vcq606",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Parastoo Sadeghian",
+      "raw_affiliation_strings": [
+        "Royal Institute of Technology, Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Royal Institute of Technology, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043618808",
+        "display_name": "Joanna Polak",
+        "orcid": "https://orcid.org/0000-0003-3329-3914"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I891191580",
+          "display_name": "Aalborg University",
+          "ror": "https://ror.org/04m5j1k67",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I891191580"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joanna Polak",
+      "raw_affiliation_strings": [
+        "Aalborg University, Copenhagen, Denmark"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Aalborg University, Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I891191580"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049410670",
+        "display_name": "Alireza Afshari",
+        "orcid": "https://orcid.org/0000-0002-6705-0550"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I891191580",
+          "display_name": "Aalborg University",
+          "ror": "https://ror.org/04m5j1k67",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I891191580"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alireza Afshari",
+      "raw_affiliation_strings": [
+        "Aalborg University, Copenhagen, Denmark"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Aalborg University, Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I891191580"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5090576376",
+        "display_name": "Sasan Sadrizadeh",
+        "orcid": "https://orcid.org/0000-0002-9361-1796"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86987016",
+          "display_name": "KTH Royal Institute of Technology",
+          "ror": "https://ror.org/026vcq606",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sasan Sadrizadeh",
+      "raw_affiliation_strings": [
+        "Royal Institute of Technology, Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Royal Institute of Technology, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.2264,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.77777778,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "609",
+    "issue": "5",
+    "first_page": "052024",
+    "last_page": "052024"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10990",
+    "display_name": "Infection Control and Ventilation",
+    "score": 0.998199999332428,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10990",
+      "display_name": "Infection Control and Ventilation",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11371",
+      "display_name": "Wind and Air Flow Studies",
+      "score": 0.9973000288009644,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10121",
+      "display_name": "Building Energy and Comfort Optimization",
+      "score": 0.9925000071525574,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/terminal",
+      "display_name": "Terminal (telecommunication)",
+      "score": 0.7490572929382324
+    },
+    {
+      "id": "https://openalex.org/keywords/ventilation",
+      "display_name": "Ventilation (architecture)",
+      "score": 0.6359840631484985
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.3618665039539337
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.3592036962509155
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.3316444158554077
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.32884424924850464
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.16489389538764954
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779664074",
+      "wikidata": "https://www.wikidata.org/wiki/Q3518405",
+      "display_name": "Terminal (telecommunication)",
+      "level": 2,
+      "score": 0.7490572929382324
+    },
+    {
+      "id": "https://openalex.org/C200457457",
+      "wikidata": "https://www.wikidata.org/wiki/Q584049",
+      "display_name": "Ventilation (architecture)",
+      "level": 2,
+      "score": 0.6359840631484985
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.3618665039539337
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3592036962509155
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.3316444158554077
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.32884424924850464
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.16489389538764954
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1088/1757-899x/609/5/052024",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1088/1757-899x/609/5/052024",
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/609/5/052024/pdf",
+      "source": {
+        "id": "https://openalex.org/S4210189194",
+        "display_name": "IOP Conference Series Materials Science and Engineering",
+        "issn_l": "1757-8981",
+        "issn": [
+          "1757-8981",
+          "1757-899X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320083",
+        "host_organization_name": "IOP Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320083",
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "IOP Publishing",
+          "Institute of Physics"
+        ],
+        "type": "conference"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IOP Conference Series: Materials Science and Engineering",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire/86a11f5b-f664-4e8b-b7ab-7bbc86177ff1",
+      "is_oa": true,
+      "landing_page_url": "https://vbn.aau.dk/da/publications/86a11f5b-f664-4e8b-b7ab-7bbc86177ff1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401731",
+        "display_name": "VBN Forskningsportal (Aalborg Universitet)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I891191580",
+        "host_organization_name": "Aalborg University",
+        "host_organization_lineage": [
+          "https://openalex.org/I891191580"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sadeghian, P, Polak, J, Afshari, A & Sadrizadeh, S 2019, 'Numerical investigation on the impact of different supply air terminal devices on the performance of the newly combined ventilation and heating system', IOP Conference Series: Materials Science and Engineering, vol. 609, no. 5, 052024. https://doi.org/10.1088/1757-899X/609/5/052024",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1088/1757-899x/609/5/052024",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1757-899x/609/5/052024",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/609/5/052024/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210189194",
+      "display_name": "IOP Conference Series Materials Science and Engineering",
+      "issn_l": "1757-8981",
+      "issn": [
+        "1757-8981",
+        "1757-899X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "conference"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IOP Conference Series: Materials Science and Engineering",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "display_name": "Affordable and clean energy",
+      "score": 0.8799999952316284
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W565203028",
+    "https://openalex.org/W2026259163",
+    "https://openalex.org/W2032227758",
+    "https://openalex.org/W2055434434",
+    "https://openalex.org/W2074423953",
+    "https://openalex.org/W2089361104",
+    "https://openalex.org/W2091420805",
+    "https://openalex.org/W2109724980",
+    "https://openalex.org/W2275859930",
+    "https://openalex.org/W6615823048",
+    "https://openalex.org/W6664190007"
+  ],
+  "related_works": [
+    "https://openalex.org/W3211557223",
+    "https://openalex.org/W1528816634",
+    "https://openalex.org/W2007036916",
+    "https://openalex.org/W4206528302",
+    "https://openalex.org/W872563264",
+    "https://openalex.org/W2164087676",
+    "https://openalex.org/W4240867999",
+    "https://openalex.org/W2416728927",
+    "https://openalex.org/W2120266540",
+    "https://openalex.org/W108604697"
+  ],
+  "abstract_inverted_index": {
+    "An": [
+      0
+    ],
+    "increased": [
+      1
+    ],
+    "focus": [
+      2,
+      71
+    ],
+    "on": [
+      3,
+      73,
+      107
+    ],
+    "energy": [
+      4,
+      29
+    ],
+    "saving": [
+      5
+    ],
+    "has": [
+      6,
+      133,
+      189
+    ],
+    "led": [
+      7
+    ],
+    "to": [
+      8,
+      38,
+      90,
+      154
+    ],
+    "a": [
+      9,
+      59,
+      176
+    ],
+    "rapid": [
+      10
+    ],
+    "development": [
+      11
+    ],
+    "of": [
+      12,
+      54,
+      76,
+      94,
+      113
+    ],
+    "energy-efficient": [
+      13
+    ],
+    "buildings.": [
+      14
+    ],
+    "In": [
+      15,
+      117
+    ],
+    "the": [
+      16,
+      27,
+      35,
+      55,
+      77,
+      83,
+      92,
+      108,
+      114,
+      141,
+      156,
+      173
+    ],
+    "residential": [
+      17
+    ],
+    "buildings,": [
+      18
+    ],
+    "space": [
+      19
+    ],
+    "heating,": [
+      20
+    ],
+    "ventilation": [
+      21,
+      32,
+      66
+    ],
+    "and": [
+      22,
+      44,
+      67,
+      105,
+      111,
+      138,
+      159,
+      171
+    ],
+    "air": [
+      23,
+      42,
+      79,
+      97,
+      123,
+      160,
+      169
+    ],
+    "conditioning": [
+      24
+    ],
+    "(HVAC)": [
+      25
+    ],
+    "have": [
+      26
+    ],
+    "highest": [
+      28
+    ],
+    "use.": [
+      30
+    ],
+    "The": [
+      31,
+      70,
+      86,
+      163
+    ],
+    "system": [
+      33
+    ],
+    "is": [
+      34,
+      72,
+      89
+    ],
+    "main": [
+      36,
+      87
+    ],
+    "tool": [
+      37
+    ],
+    "provide": [
+      39
+    ],
+    "acceptable": [
+      40
+    ],
+    "indoor": [
+      41
+    ],
+    "quality": [
+      43
+    ],
+    "thermal": [
+      45,
+      56
+    ],
+    "comfort": [
+      46
+    ],
+    "for": [
+      47,
+      180
+    ],
+    "occupants.": [
+      48
+    ],
+    "This": [
+      49,
+      131
+    ],
+    "study": [
+      50,
+      102,
+      153
+    ],
+    "presents": [
+      51
+    ],
+    "an": [
+      52
+    ],
+    "investigation": [
+      53
+    ],
+    "environment": [
+      57
+    ],
+    "in": [
+      58,
+      82,
+      100,
+      151,
+      187,
+      194
+    ],
+    "room": [
+      60
+    ],
+    "served": [
+      61
+    ],
+    "by": [
+      62
+    ],
+    "new": [
+      63
+    ],
+    "developed,": [
+      64
+    ],
+    "combined": [
+      65
+    ],
+    "heating": [
+      68
+    ],
+    "system.": [
+      69,
+      85
+    ],
+    "different": [
+      74,
+      95,
+      121
+    ],
+    "configurations": [
+      75,
+      128
+    ],
+    "supply": [
+      78,
+      96,
+      122,
+      168
+    ],
+    "terminal": [
+      80
+    ],
+    "device": [
+      81
+    ],
+    "studied": [
+      84
+    ],
+    "goal": [
+      88
+    ],
+    "investigate": [
+      91
+    ],
+    "influence": [
+      93
+    ],
+    "parameters,": [
+      98
+    ],
+    "which": [
+      99
+    ],
+    "this": [
+      101,
+      118,
+      152
+    ],
+    "are": [
+      103
+    ],
+    "flowrate": [
+      104,
+      174
+    ],
+    "temperature,": [
+      106
+    ],
+    "airflow": [
+      109,
+      157
+    ],
+    "behaviour": [
+      110
+    ],
+    "performance": [
+      112
+    ],
+    "mixing": [
+      115
+    ],
+    "ventilation.": [
+      116
+    ],
+    "regards,": [
+      119
+    ],
+    "three": [
+      120
+    ],
+    "conditions": [
+      124
+    ],
+    "with": [
+      125,
+      140,
+      196
+    ],
+    "two": [
+      126
+    ],
+    "inlet": [
+      127,
+      182
+    ],
+    "were": [
+      129
+    ],
+    "considered.": [
+      130
+    ],
+    "work": [
+      132
+    ],
+    "been": [
+      134
+    ],
+    "carried": [
+      135
+    ],
+    "out": [
+      136
+    ],
+    "numerically": [
+      137
+    ],
+    "validated": [
+      139
+    ],
+    "laboratory": [
+      142
+    ],
+    "measurements.": [
+      143
+    ],
+    "Computational": [
+      144
+    ],
+    "Fluid": [
+      145
+    ],
+    "Dynamics": [
+      146
+    ],
+    "(CFD)": [
+      147
+    ],
+    "simulation": [
+      148
+    ],
+    "was": [
+      149
+    ],
+    "applied": [
+      150
+    ],
+    "map": [
+      155
+    ],
+    "patterns": [
+      158
+    ],
+    "temperature": [
+      161,
+      170,
+      178,
+      192
+    ],
+    "distribution.": [
+      162
+    ],
+    "results": [
+      164
+    ],
+    "showed": [
+      165
+    ],
+    "that": [
+      166
+    ],
+    "decreasing": [
+      167
+    ],
+    "increasing": [
+      172
+    ],
+    "provided": [
+      175
+    ],
+    "uniform": [
+      177
+    ],
+    "distribution": [
+      179
+    ],
+    "both": [
+      181
+    ],
+    "configurations.": [
+      183
+    ],
+    "Inlet": [
+      184
+    ],
+    "configuration": [
+      185
+    ],
+    "investigated": [
+      186
+    ],
+    "case1": [
+      188
+    ],
+    "lower": [
+      190
+    ],
+    "vertical": [
+      191
+    ],
+    "differences": [
+      193
+    ],
+    "comparison": [
+      195
+    ],
+    "case": [
+      197
+    ],
+    "2.": [
+      198
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

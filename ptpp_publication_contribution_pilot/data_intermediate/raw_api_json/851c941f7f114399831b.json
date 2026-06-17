@@ -1,0 +1,1608 @@
+{
+  "id": "https://openalex.org/W4401641570",
+  "doi": "https://doi.org/10.2196/57162",
+  "title": "Evaluation of AI-Driven LabTest Checker for Diagnostic Accuracy and Safety: Prospective Cohort Study",
+  "display_name": "Evaluation of AI-Driven LabTest Checker for Diagnostic Accuracy and Safety: Prospective Cohort Study",
+  "publication_year": 2024,
+  "publication_date": "2024-08-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4401641570",
+    "doi": "https://doi.org/10.2196/57162",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39149851"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.2196/57162",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2196/57162",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764650051",
+      "display_name": "JMIR Medical Informatics",
+      "issn_l": "2291-9694",
+      "issn": [
+        "2291-9694"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320608",
+      "host_organization_name": "JMIR Publications",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320608"
+      ],
+      "host_organization_lineage_names": [
+        "JMIR Publications"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "JMIR Medical Informatics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.2196/57162",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074544618",
+        "display_name": "Dawid Szumilas",
+        "orcid": "https://orcid.org/0000-0002-6060-2279"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I166182418",
+          "display_name": "Medical University of Silesia",
+          "ror": "https://ror.org/005k7hp45",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dawid Szumilas",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6060-2279",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092588852",
+        "display_name": "Anna Ochmann",
+        "orcid": "https://orcid.org/0000-0002-2891-3202"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I166182418",
+          "display_name": "Medical University of Silesia",
+          "ror": "https://ror.org/005k7hp45",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Ochmann",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2891-3202",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5106564531",
+        "display_name": "Katarzyna Zięba",
+        "orcid": "https://orcid.org/0009-0002-3053-5340"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I166182418",
+          "display_name": "Medical University of Silesia",
+          "ror": "https://ror.org/005k7hp45",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Zięba",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0002-3053-5340",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045645072",
+        "display_name": "Bartłomiej Bartoszewicz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210163411",
+          "display_name": "Wrocław Technology Park",
+          "ror": "https://ror.org/05jyve847",
+          "country_code": "PL",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartłomiej Bartoszewicz",
+      "raw_affiliation_strings": [
+        "Labplus R&D, Wroclaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0001-5507-1143",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Labplus R&D, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5133728075",
+        "display_name": "Anna Kubrak",
+        "orcid": "https://orcid.org/0009-0003-0361-9175"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210163411",
+          "display_name": "Wrocław Technology Park",
+          "ror": "https://ror.org/05jyve847",
+          "country_code": "PL",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Kubrak",
+      "raw_affiliation_strings": [
+        "Labplus R&D, Wroclaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0003-0361-9175",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Labplus R&D, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010960730",
+        "display_name": "Sebastian Makuch",
+        "orcid": "https://orcid.org/0000-0002-9904-1181"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I385303915",
+          "display_name": "Wroclaw Medical University",
+          "ror": "https://ror.org/01qpw1b93",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I385303915"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastian Makuch",
+      "raw_affiliation_strings": [
+        "Department of Clinical and Experimental Pathology, Wroclaw Medical University, Wroclaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9904-1181",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical and Experimental Pathology, Wroclaw Medical University, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I385303915"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001059339",
+        "display_name": "Siddarth Agrawal",
+        "orcid": "https://orcid.org/0000-0003-1118-5090"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210163411",
+          "display_name": "Wrocław Technology Park",
+          "ror": "https://ror.org/05jyve847",
+          "country_code": "PL",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Siddarth Agrawal",
+      "raw_affiliation_strings": [
+        "Labplus R&D, Wroclaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1118-5090",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Labplus R&D, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033393628",
+        "display_name": "Grzegorz Mazur",
+        "orcid": "https://orcid.org/0000-0001-6610-2008"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I385303915",
+          "display_name": "Wroclaw Medical University",
+          "ror": "https://ror.org/01qpw1b93",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I385303915"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210163411",
+          "display_name": "Wrocław Technology Park",
+          "ror": "https://ror.org/05jyve847",
+          "country_code": "PL",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Mazur",
+      "raw_affiliation_strings": [
+        "Department and Clinic of Internal Medicine, Occupational Diseases, Hypertension and Clinical Oncology, Wroclaw Medical University, Wroclaw, Poland",
+        "Labplus R&D, Wroclaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6610-2008",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department and Clinic of Internal Medicine, Occupational Diseases, Hypertension and Clinical Oncology, Wroclaw Medical University, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I385303915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Labplus R&D, Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210163411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5045517198",
+        "display_name": "Jerzy Chudek",
+        "orcid": "https://orcid.org/0000-0002-6367-7794"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I166182418",
+          "display_name": "Medical University of Silesia",
+          "ror": "https://ror.org/005k7hp45",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jerzy Chudek",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+        "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6367-7794",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Reymonta St. 8, Katowice, 40-027, Poland, +48 32 2591 202",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine and Oncological Chemotherapy, Medical University of Silesia, Katowice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I166182418"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2300,
+    "currency": "USD",
+    "value_usd": 2300
+  },
+  "apc_paid": {
+    "value": 2300,
+    "currency": "USD",
+    "value_usd": 2300
+  },
+  "fwci": 0.9339,
+  "has_fulltext": false,
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.77011354,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": null,
+    "first_page": "e57162",
+    "last_page": "e57162"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11636",
+    "display_name": "Artificial Intelligence in Healthcare and Education",
+    "score": 0.5979999899864197,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2718",
+      "display_name": "Health Informatics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11636",
+      "display_name": "Artificial Intelligence in Healthcare and Education",
+      "score": 0.5979999899864197,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2718",
+        "display_name": "Health Informatics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12574",
+      "display_name": "Clinical Reasoning and Diagnostic Skills",
+      "score": 0.06520000100135803,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2714",
+        "display_name": "Family Practice"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11314",
+      "display_name": "Clinical Laboratory Practices and Quality Control",
+      "score": 0.05660000070929527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medical-diagnosis",
+      "display_name": "Medical diagnosis",
+      "score": 0.8310885429382324
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6284606456756592
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-decision-support-system",
+      "display_name": "Clinical decision support system",
+      "score": 0.571074366569519
+    },
+    {
+      "id": "https://openalex.org/keywords/test",
+      "display_name": "Test (biology)",
+      "score": 0.5600745677947998
+    },
+    {
+      "id": "https://openalex.org/keywords/gold-standard",
+      "display_name": "Gold standard (test)",
+      "score": 0.5584363341331482
+    },
+    {
+      "id": "https://openalex.org/keywords/patient-safety",
+      "display_name": "Patient safety",
+      "score": 0.5319445729255676
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-physics",
+      "display_name": "Medical physics",
+      "score": 0.5195984244346619
+    },
+    {
+      "id": "https://openalex.org/keywords/health-care",
+      "display_name": "Health care",
+      "score": 0.4355294108390808
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-emergency",
+      "display_name": "Medical emergency",
+      "score": 0.43422067165374756
+    },
+    {
+      "id": "https://openalex.org/keywords/prospective-cohort-study",
+      "display_name": "Prospective cohort study",
+      "score": 0.4336727261543274
+    },
+    {
+      "id": "https://openalex.org/keywords/diagnostic-accuracy",
+      "display_name": "Diagnostic accuracy",
+      "score": 0.41440606117248535
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.32104265689849854
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.30885595083236694
+    },
+    {
+      "id": "https://openalex.org/keywords/decision-support-system",
+      "display_name": "Decision support system",
+      "score": 0.2387154996395111
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.1654742956161499
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.0831180214881897
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C534262118",
+      "wikidata": "https://www.wikidata.org/wiki/Q177719",
+      "display_name": "Medical diagnosis",
+      "level": 2,
+      "score": 0.8310885429382324
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6284606456756592
+    },
+    {
+      "id": "https://openalex.org/C63527458",
+      "wikidata": "https://www.wikidata.org/wiki/Q5133829",
+      "display_name": "Clinical decision support system",
+      "level": 3,
+      "score": 0.571074366569519
+    },
+    {
+      "id": "https://openalex.org/C2777267654",
+      "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+      "display_name": "Test (biology)",
+      "level": 2,
+      "score": 0.5600745677947998
+    },
+    {
+      "id": "https://openalex.org/C40993552",
+      "wikidata": "https://www.wikidata.org/wiki/Q514654",
+      "display_name": "Gold standard (test)",
+      "level": 2,
+      "score": 0.5584363341331482
+    },
+    {
+      "id": "https://openalex.org/C2779328685",
+      "wikidata": "https://www.wikidata.org/wiki/Q1475557",
+      "display_name": "Patient safety",
+      "level": 3,
+      "score": 0.5319445729255676
+    },
+    {
+      "id": "https://openalex.org/C19527891",
+      "wikidata": "https://www.wikidata.org/wiki/Q1120908",
+      "display_name": "Medical physics",
+      "level": 1,
+      "score": 0.5195984244346619
+    },
+    {
+      "id": "https://openalex.org/C160735492",
+      "wikidata": "https://www.wikidata.org/wiki/Q31207",
+      "display_name": "Health care",
+      "level": 2,
+      "score": 0.4355294108390808
+    },
+    {
+      "id": "https://openalex.org/C545542383",
+      "wikidata": "https://www.wikidata.org/wiki/Q2751242",
+      "display_name": "Medical emergency",
+      "level": 1,
+      "score": 0.43422067165374756
+    },
+    {
+      "id": "https://openalex.org/C188816634",
+      "wikidata": "https://www.wikidata.org/wiki/Q2113324",
+      "display_name": "Prospective cohort study",
+      "level": 2,
+      "score": 0.4336727261543274
+    },
+    {
+      "id": "https://openalex.org/C3020132585",
+      "wikidata": "https://www.wikidata.org/wiki/Q2671652",
+      "display_name": "Diagnostic accuracy",
+      "level": 2,
+      "score": 0.41440606117248535
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.32104265689849854
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.30885595083236694
+    },
+    {
+      "id": "https://openalex.org/C107327155",
+      "wikidata": "https://www.wikidata.org/wiki/Q330268",
+      "display_name": "Decision support system",
+      "level": 2,
+      "score": 0.2387154996395111
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.1654742956161499
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0831180214881897
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.2196/57162",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2196/57162",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764650051",
+        "display_name": "JMIR Medical Informatics",
+        "issn_l": "2291-9694",
+        "issn": [
+          "2291-9694"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320608",
+        "host_organization_name": "JMIR Publications",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320608"
+        ],
+        "host_organization_lineage_names": [
+          "JMIR Publications"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "JMIR Medical Informatics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39149851",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39149851",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "JMIR medical informatics",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11337233",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11337233",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "JMIR Med Inform",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:7065ae4b5e324b82b1d14d88af85e599",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/7065ae4b5e324b82b1d14d88af85e599",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "JMIR Medical Informatics, Vol 12, Pp e57162-e57162 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.2196/57162",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2196/57162",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764650051",
+      "display_name": "JMIR Medical Informatics",
+      "issn_l": "2291-9694",
+      "issn": [
+        "2291-9694"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320608",
+      "host_organization_name": "JMIR Publications",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320608"
+      ],
+      "host_organization_lineage_names": [
+        "JMIR Publications"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "JMIR Medical Informatics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Peace, Justice and strong institutions",
+      "score": 0.44999998807907104,
+      "id": "https://metadata.un.org/sdg/16"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 14,
+  "referenced_works": [
+    "https://openalex.org/W1838071484",
+    "https://openalex.org/W2158842434",
+    "https://openalex.org/W2562251009",
+    "https://openalex.org/W2899560923",
+    "https://openalex.org/W2937648026",
+    "https://openalex.org/W2953532875",
+    "https://openalex.org/W2965593496",
+    "https://openalex.org/W3001613749",
+    "https://openalex.org/W3002238985",
+    "https://openalex.org/W3004612364",
+    "https://openalex.org/W3088017652",
+    "https://openalex.org/W3212889536",
+    "https://openalex.org/W4292133578",
+    "https://openalex.org/W4296295603"
+  ],
+  "related_works": [
+    "https://openalex.org/W2414148986",
+    "https://openalex.org/W150837285",
+    "https://openalex.org/W4388635628",
+    "https://openalex.org/W4387236472",
+    "https://openalex.org/W2105827888",
+    "https://openalex.org/W3080395702",
+    "https://openalex.org/W2738786094",
+    "https://openalex.org/W3165410372",
+    "https://openalex.org/W3217128769",
+    "https://openalex.org/W2068929335"
+  ],
+  "abstract_inverted_index": {
+    "Background:": [
+      0
+    ],
+    "In": [
+      1
+    ],
+    "recent": [
+      2
+    ],
+    "years,": [
+      3,
+      138
+    ],
+    "the": [
+      4,
+      19,
+      57,
+      67,
+      96,
+      171,
+      187,
+      231,
+      257
+    ],
+    "implementation": [
+      5
+    ],
+    "of": [
+      6,
+      21,
+      59,
+      70,
+      90,
+      100,
+      133,
+      150,
+      170,
+      234
+    ],
+    "artificial": [
+      7
+    ],
+    "intelligence": [
+      8
+    ],
+    "(AI)": [
+      9
+    ],
+    "in": [
+      10,
+      72,
+      139,
+      223,
+      237,
+      259,
+      262
+    ],
+    "health": [
+      11,
+      246
+    ],
+    "care": [
+      12,
+      247
+    ],
+    "is": [
+      13,
+      54,
+      80
+    ],
+    "progressively": [
+      14
+    ],
+    "transforming": [
+      15
+    ],
+    "medical": [
+      16,
+      109,
+      119,
+      213,
+      251
+    ],
+    "fields,": [
+      17
+    ],
+    "with": [
+      18
+    ],
+    "use": [
+      20
+    ],
+    "clinical": [
+      22
+    ],
+    "decision": [
+      23
+    ],
+    "support": [
+      24,
+      108
+    ],
+    "systems": [
+      25
+    ],
+    "(CDSSs)": [
+      26
+    ],
+    "as": [
+      27
+    ],
+    "a": [
+      28,
+      104,
+      126,
+      194
+    ],
+    "notable": [
+      29
+    ],
+    "application.": [
+      30
+    ],
+    "Laboratory": [
+      31
+    ],
+    "tests": [
+      32,
+      153
+    ],
+    "are": [
+      33,
+      185
+    ],
+    "vital": [
+      34
+    ],
+    "for": [
+      35,
+      46,
+      49,
+      156,
+      162,
+      200,
+      206
+    ],
+    "accurate": [
+      36
+    ],
+    "diagnoses,": [
+      37
+    ],
+    "but": [
+      38
+    ],
+    "their": [
+      39
+    ],
+    "increasing": [
+      40
+    ],
+    "reliance": [
+      41
+    ],
+    "presents": [
+      42
+    ],
+    "challenges.": [
+      43
+    ],
+    "The": [
+      44,
+      87,
+      166,
+      191
+    ],
+    "need": [
+      45
+    ],
+    "effective": [
+      47
+    ],
+    "strategies": [
+      48
+    ],
+    "managing": [
+      50
+    ],
+    "laboratory": [
+      51,
+      73,
+      114,
+      152,
+      238,
+      263
+    ],
+    "test": [
+      52,
+      63,
+      115,
+      163
+    ],
+    "interpretation": [
+      53
+    ],
+    "evident": [
+      55
+    ],
+    "from": [
+      56
+    ],
+    "millions": [
+      58
+    ],
+    "monthly": [
+      60
+    ],
+    "searches": [
+      61
+    ],
+    "on": [
+      62
+    ],
+    "results'": [
+      64
+    ],
+    "significance.": [
+      65
+    ],
+    "As": [
+      66
+    ],
+    "potential": [
+      68,
+      233
+    ],
+    "role": [
+      69,
+      261
+    ],
+    "CDSSs": [
+      71,
+      236
+    ],
+    "diagnostics": [
+      74
+    ],
+    "gains": [
+      75
+    ],
+    "significance,": [
+      76
+    ],
+    "however,": [
+      77
+    ],
+    "more": [
+      78
+    ],
+    "research": [
+      79
+    ],
+    "needed": [
+      81
+    ],
+    "to": [
+      82,
+      94,
+      107,
+      179,
+      241
+    ],
+    "explore": [
+      83
+    ],
+    "this": [
+      84
+    ],
+    "area.": [
+      85
+    ],
+    "Objective:": [
+      86
+    ],
+    "primary": [
+      88
+    ],
+    "objective": [
+      89
+    ],
+    "our": [
+      91
+    ],
+    "study": [
+      92,
+      124,
+      229
+    ],
+    "was": [
+      93,
+      154
+    ],
+    "assess": [
+      95
+    ],
+    "accuracy": [
+      97,
+      167,
+      196,
+      222
+    ],
+    "and": [
+      98,
+      117,
+      142,
+      168,
+      197,
+      203,
+      218,
+      249
+    ],
+    "safety": [
+      99,
+      169,
+      202
+    ],
+    "LabTest": [
+      101
+    ],
+    "Checker": [
+      102
+    ],
+    "(LTC),": [
+      103
+    ],
+    "CDSS": [
+      105
+    ],
+    "designed": [
+      106
+    ],
+    "diagnoses": [
+      110
+    ],
+    "by": [
+      111,
+      175,
+      215
+    ],
+    "analyzing": [
+      112
+    ],
+    "both": [
+      113
+    ],
+    "results": [
+      116
+    ],
+    "patients'": [
+      118
+    ],
+    "histories.": [
+      120
+    ],
+    "Methods:": [
+      121
+    ],
+    "This": [
+      122,
+      228
+    ],
+    "cohort": [
+      123
+    ],
+    "embraced": [
+      125
+    ],
+    "prospective": [
+      127
+    ],
+    "data": [
+      128
+    ],
+    "collection": [
+      129
+    ],
+    "approach.": [
+      130
+    ],
+    "A": [
+      131,
+      148
+    ],
+    "total": [
+      132
+    ],
+    "101": [
+      134
+    ],
+    "patients": [
+      135
+    ],
+    "aged": [
+      136
+    ],
+    "≥18": [
+      137
+    ],
+    "stable": [
+      140
+    ],
+    "condition,": [
+      141
+    ],
+    "requiring": [
+      143
+    ],
+    "comprehensive": [
+      144
+    ],
+    "diagnosis": [
+      145
+    ],
+    "were": [
+      146,
+      173
+    ],
+    "enrolled.": [
+      147
+    ],
+    "panel": [
+      149
+    ],
+    "blood": [
+      151
+    ],
+    "conducted": [
+      155
+    ],
+    "each": [
+      157
+    ],
+    "participant.": [
+      158
+    ],
+    "Participants": [
+      159
+    ],
+    "used": [
+      160
+    ],
+    "LTC": [
+      161
+    ],
+    "result": [
+      164
+    ],
+    "interpretation.": [
+      165
+    ],
+    "tool": [
+      172
+    ],
+    "assessed": [
+      174
+    ],
+    "comparing": [
+      176
+    ],
+    "AI-generated": [
+      177
+    ],
+    "suggestions": [
+      178
+    ],
+    "experienced": [
+      180
+    ],
+    "doctor": [
+      181
+    ],
+    "(consultant)": [
+      182
+    ],
+    "recommendations,": [
+      183
+    ],
+    "which": [
+      184
+    ],
+    "considered": [
+      186
+    ],
+    "gold": [
+      188
+    ],
+    "standard.": [
+      189
+    ],
+    "Results:": [
+      190
+    ],
+    "system": [
+      192
+    ],
+    "achieved": [
+      193,
+      219
+    ],
+    "74.3%": [
+      195
+    ],
+    "100%": [
+      198
+    ],
+    "sensitivity": [
+      199,
+      205
+    ],
+    "emergency": [
+      201
+    ],
+    "92.3%": [
+      204
+    ],
+    "urgent": [
+      207
+    ],
+    "cases.": [
+      208
+    ],
+    "It": [
+      209
+    ],
+    "potentially": [
+      210
+    ],
+    "reduced": [
+      211
+    ],
+    "unnecessary": [
+      212
+    ],
+    "visits": [
+      214
+    ],
+    "41.6%": [
+      216
+    ],
+    "(42/101)": [
+      217
+    ],
+    "an": [
+      220
+    ],
+    "82.9%": [
+      221
+    ],
+    "identifying": [
+      224
+    ],
+    "underlying": [
+      225
+    ],
+    "pathologies.": [
+      226
+    ],
+    "Conclusions:": [
+      227
+    ],
+    "underscores": [
+      230
+    ],
+    "transformative": [
+      232
+    ],
+    "AI-based": [
+      235
+    ],
+    "diagnostics,": [
+      239
+    ],
+    "contributing": [
+      240
+    ],
+    "enhanced": [
+      242
+    ],
+    "patient": [
+      243
+    ],
+    "care,": [
+      244
+    ],
+    "efficient": [
+      245
+    ],
+    "systems,": [
+      248
+    ],
+    "improved": [
+      250
+    ],
+    "outcomes.": [
+      252
+    ],
+    "LTC's": [
+      253
+    ],
+    "performance": [
+      254
+    ],
+    "evaluation": [
+      255
+    ],
+    "highlights": [
+      256
+    ],
+    "advancements": [
+      258
+    ],
+    "AI's": [
+      260
+    ],
+    "medicine.": [
+      264
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

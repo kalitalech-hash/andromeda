@@ -1,0 +1,910 @@
+{
+  "id": "https://openalex.org/W4412807044",
+  "doi": "https://doi.org/10.1007/s10586-025-05251-x",
+  "title": "Tcp-based network communication optimized for green cloud computing",
+  "display_name": "Tcp-based network communication optimized for green cloud computing",
+  "publication_year": 2025,
+  "publication_date": "2025-07-31",
+  "ids": {
+    "openalex": "https://openalex.org/W4412807044",
+    "doi": "https://doi.org/10.1007/s10586-025-05251-x"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s10586-025-05251-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s10586-025-05251-x",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05251-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S106148199",
+      "display_name": "Cluster Computing",
+      "issn_l": "1386-7857",
+      "issn": [
+        "1386-7857",
+        "1573-7543"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cluster Computing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05251-x.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5040372965",
+        "display_name": "Jan Fesl",
+        "orcid": "https://orcid.org/0000-0001-7192-4460"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145423581",
+          "display_name": "Sewanee: The University of the South",
+          "ror": "https://ror.org/05r5k8873",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145423581"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3124161356",
+          "display_name": "University of South Bohemia in České Budějovice",
+          "ror": "https://ror.org/033n3pw66",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3124161356"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jan Fesl",
+      "raw_affiliation_strings": [
+        "Department of Computer Systems, Faculty of Information Technology, Czech Technical University in Prague, Thákurova 9, 160 00, Prague, Czech Republic",
+        "Department of Data Sciences and Information Technology, Faculty of Agriculture and Technology, University of South Bohemia, Studentská 1668, 370 05, České Budějovice, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Systems, Faculty of Information Technology, Czech Technical University in Prague, Thákurova 9, 160 00, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Data Sciences and Information Technology, Faculty of Agriculture and Technology, University of South Bohemia, Studentská 1668, 370 05, České Budějovice, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I145423581",
+            "https://openalex.org/I3124161356"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052662868",
+        "display_name": "Michal Polák",
+        "orcid": "https://orcid.org/0000-0002-5061-1534"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Polák",
+      "raw_affiliation_strings": [
+        "Department of Computer Systems, Faculty of Information Technology, Czech Technical University in Prague, Thákurova 9, 160 00, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Systems, Faculty of Information Technology, Czech Technical University in Prague, Thákurova 9, 160 00, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5092161894",
+        "display_name": "Daniel Sedlák",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel Sedlák",
+      "raw_affiliation_strings": [
+        "Department of Computer Systems, Faculty of Information Technology, Czech Technical University in Prague, Thákurova 9, 160 00, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Systems, Faculty of Information Technology, Czech Technical University in Prague, Thákurova 9, 160 00, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5040372965"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I145423581",
+    "https://openalex.org/I3124161356",
+    "https://openalex.org/I44504214"
+  ],
+  "apc_list": {
+    "value": 2190,
+    "currency": "EUR",
+    "value_usd": 2790
+  },
+  "apc_paid": {
+    "value": 2190,
+    "currency": "EUR",
+    "value_usd": 2790
+  },
+  "fwci": 1.0891,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.80829356,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "28",
+    "issue": "7",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10138",
+    "display_name": "Network Traffic and Congestion Control",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10138",
+      "display_name": "Network Traffic and Congestion Control",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10847",
+      "display_name": "Advanced Optical Network Technologies",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10714",
+      "display_name": "Software-Defined Networks and 5G",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.940914511680603
+    },
+    {
+      "id": "https://openalex.org/keywords/cloud-computing",
+      "display_name": "Cloud computing",
+      "score": 0.7940715551376343
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.4773297905921936
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-network",
+      "display_name": "Computer network",
+      "score": 0.4527471661567688
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.21990761160850525
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.940914511680603
+    },
+    {
+      "id": "https://openalex.org/C79974875",
+      "wikidata": "https://www.wikidata.org/wiki/Q483639",
+      "display_name": "Cloud computing",
+      "level": 2,
+      "score": 0.7940715551376343
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.4773297905921936
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.4527471661567688
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.21990761160850525
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/s10586-025-05251-x",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s10586-025-05251-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05251-x.pdf",
+      "source": {
+        "id": "https://openalex.org/S106148199",
+        "display_name": "Cluster Computing",
+        "issn_l": "1386-7857",
+        "issn": [
+          "1386-7857",
+          "1573-7543"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cluster Computing",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s10586-025-05251-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s10586-025-05251-x",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05251-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S106148199",
+      "display_name": "Cluster Computing",
+      "issn_l": "1386-7857",
+      "issn": [
+        "1386-7857",
+        "1573-7543"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cluster Computing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309972",
+      "display_name": "České Vysoké Učení Technické v Praze",
+      "ror": "https://ror.org/03kqpb082"
+    },
+    {
+      "id": "https://openalex.org/F4320311781",
+      "display_name": "Jihočeská Univerzita v Českých Budějovicích",
+      "ror": "https://ror.org/033n3pw66"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4412807044.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4412807044.grobid-xml"
+  },
+  "referenced_works_count": 24,
+  "referenced_works": [
+    "https://openalex.org/W1984511722",
+    "https://openalex.org/W1996753728",
+    "https://openalex.org/W1999031381",
+    "https://openalex.org/W2021085547",
+    "https://openalex.org/W2022844530",
+    "https://openalex.org/W2066582869",
+    "https://openalex.org/W2067764765",
+    "https://openalex.org/W2081787917",
+    "https://openalex.org/W2100166367",
+    "https://openalex.org/W2112495447",
+    "https://openalex.org/W2118760020",
+    "https://openalex.org/W2135082222",
+    "https://openalex.org/W2144265621",
+    "https://openalex.org/W2550317889",
+    "https://openalex.org/W2563892528",
+    "https://openalex.org/W2569405061",
+    "https://openalex.org/W2591642978",
+    "https://openalex.org/W2763218808",
+    "https://openalex.org/W2995544305",
+    "https://openalex.org/W3093930715",
+    "https://openalex.org/W3138562521",
+    "https://openalex.org/W4224063384",
+    "https://openalex.org/W4302386942",
+    "https://openalex.org/W4321201217"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W4244478748",
+    "https://openalex.org/W3150465815",
+    "https://openalex.org/W4223488648",
+    "https://openalex.org/W2134969820",
+    "https://openalex.org/W2251605416",
+    "https://openalex.org/W1997222214",
+    "https://openalex.org/W2560439919"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "In": [
+      1
+    ],
+    "many": [
+      2
+    ],
+    "clouds": [
+      3
+    ],
+    "running": [
+      4
+    ],
+    "around": [
+      5
+    ],
+    "the": [
+      6,
+      10,
+      87,
+      91,
+      105,
+      114,
+      119,
+      124,
+      133
+    ],
+    "world,": [
+      7
+    ],
+    "much": [
+      8
+    ],
+    "of": [
+      9,
+      21,
+      32,
+      36,
+      83,
+      94,
+      144
+    ],
+    "communication": [
+      11,
+      139
+    ],
+    "takes": [
+      12
+    ],
+    "place": [
+      13
+    ],
+    "over": [
+      14
+    ],
+    "TCP.": [
+      15
+    ],
+    "Inside": [
+      16
+    ],
+    "clouds,": [
+      17
+    ],
+    "a": [
+      18,
+      75,
+      109,
+      147
+    ],
+    "huge": [
+      19,
+      30
+    ],
+    "number": [
+      20
+    ],
+    "new": [
+      22
+    ],
+    "TCP": [
+      23,
+      37,
+      62,
+      96,
+      154
+    ],
+    "connections": [
+      24
+    ],
+    "are": [
+      25
+    ],
+    "created": [
+      26
+    ],
+    "every": [
+      27
+    ],
+    "second,": [
+      28
+    ],
+    "carrying": [
+      29
+    ],
+    "amounts": [
+      31
+    ],
+    "information.": [
+      33
+    ],
+    "Different": [
+      34
+    ],
+    "variants": [
+      35,
+      63
+    ],
+    "use": [
+      38
+    ],
+    "different": [
+      39,
+      81
+    ],
+    "algorithms": [
+      40
+    ],
+    "to": [
+      41,
+      131
+    ],
+    "control": [
+      42
+    ],
+    "data": [
+      43,
+      76
+    ],
+    "flow,": [
+      44
+    ],
+    "which": [
+      45
+    ],
+    "vary": [
+      46
+    ],
+    "in": [
+      47,
+      64,
+      74,
+      108,
+      136
+    ],
+    "complexity": [
+      48
+    ],
+    "and": [
+      49,
+      71,
+      98,
+      112
+    ],
+    "suitability": [
+      50
+    ],
+    "for": [
+      51,
+      80
+    ],
+    "specific": [
+      52
+    ],
+    "conditions.": [
+      53
+    ],
+    "Our": [
+      54
+    ],
+    "team": [
+      55
+    ],
+    "has": [
+      56
+    ],
+    "experimentally": [
+      57
+    ],
+    "examined": [
+      58
+    ],
+    "17": [
+      59
+    ],
+    "commonly": [
+      60
+    ],
+    "used": [
+      61
+    ],
+    "detail,": [
+      65
+    ],
+    "resp.": [
+      66
+    ],
+    "measured": [
+      67
+    ],
+    "their": [
+      68
+    ],
+    "achievable": [
+      69
+    ],
+    "throughput": [
+      70
+    ],
+    "energy": [
+      72,
+      92
+    ],
+    "consumption": [
+      73,
+      135
+    ],
+    "center": [
+      77
+    ],
+    "network": [
+      78,
+      106
+    ],
+    "environment": [
+      79
+    ],
+    "lengths": [
+      82
+    ],
+    "duration.": [
+      84
+    ],
+    "Based": [
+      85
+    ],
+    "on": [
+      86,
+      118
+    ],
+    "measurements,": [
+      88
+    ],
+    "we": [
+      89,
+      121
+    ],
+    "calculated": [
+      90
+    ],
+    "efficiency": [
+      93
+    ],
+    "all": [
+      95
+    ],
+    "versions": [
+      97
+    ],
+    "compared": [
+      99
+    ],
+    "it": [
+      100
+    ],
+    "among": [
+      101
+    ],
+    "them.": [
+      102
+    ],
+    "We": [
+      103
+    ],
+    "analyzed": [
+      104
+    ],
+    "traffic": [
+      107
+    ],
+    "real": [
+      110
+    ],
+    "DC": [
+      111
+    ],
+    "determined": [
+      113
+    ],
+    "possible": [
+      115
+    ],
+    "improvement": [
+      116
+    ],
+    "based": [
+      117
+    ],
+    "facts": [
+      120
+    ],
+    "gained.": [
+      122
+    ],
+    "Adopting": [
+      123
+    ],
+    "recommendations": [
+      125
+    ],
+    "from": [
+      126
+    ],
+    "our": [
+      127
+    ],
+    "conclusion": [
+      128
+    ],
+    "can": [
+      129
+    ],
+    "help": [
+      130
+    ],
+    "reduce": [
+      132
+    ],
+    "power": [
+      134
+    ],
+    "east–west": [
+      137
+    ],
+    "cloud": [
+      138
+    ],
+    "by": [
+      140,
+      151
+    ],
+    "units": [
+      141
+    ],
+    "or": [
+      142
+    ],
+    "tens": [
+      143
+    ],
+    "percent": [
+      145
+    ],
+    "at": [
+      146
+    ],
+    "global": [
+      148
+    ],
+    "scale": [
+      149
+    ],
+    "simply": [
+      150
+    ],
+    "ensuring": [
+      152
+    ],
+    "suitable": [
+      153
+    ],
+    "variants.": [
+      155
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

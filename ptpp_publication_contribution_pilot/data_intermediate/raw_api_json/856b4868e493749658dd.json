@@ -1,0 +1,972 @@
+{
+  "id": "https://openalex.org/W2330575919",
+  "doi": "https://doi.org/10.1103/physreva.85.012329",
+  "title": "Trapping a particle of a quantum walk on the line",
+  "display_name": "Trapping a particle of a quantum walk on the line",
+  "publication_year": 2012,
+  "publication_date": "2012-01-27",
+  "ids": {
+    "openalex": "https://openalex.org/W2330575919",
+    "doi": "https://doi.org/10.1103/physreva.85.012329",
+    "mag": "2330575919"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1103/physreva.85.012329",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1103/physreva.85.012329",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S164566984",
+      "display_name": "Physical Review A",
+      "issn_l": "1050-2947",
+      "issn": [
+        "1050-2947",
+        "1094-1622",
+        "1538-4446"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320261",
+      "host_organization_name": "American Physical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320261"
+      ],
+      "host_organization_lineage_names": [
+        "American Physical Society"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Physical Review A",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "arxiv",
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/1112.1287",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5057513020",
+        "display_name": "Antoni Wójcik",
+        "orcid": "https://orcid.org/0000-0003-4819-3457"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antoni Wójcik",
+      "raw_affiliation_strings": [
+        "Faculty of Physics, Adam Mickiewicz University, Umultowska 85, PL-61-614 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Physics, Adam Mickiewicz University, Umultowska 85, PL-61-614 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003433063",
+        "display_name": "Tomasz Łuczak",
+        "orcid": "https://orcid.org/0000-0002-3517-9034"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasz Łuczak",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Umultowska 87, PL-61-614 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Umultowska 87, PL-61-614 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033617818",
+        "display_name": "Paweł Kurzyński",
+        "orcid": "https://orcid.org/0000-0002-6322-9131"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I115455960",
+          "display_name": "Centre for Quantum Technologies",
+          "ror": "https://ror.org/01mgdzc49",
+          "country_code": "SG",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I115455960"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165932596",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL",
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paweł Kurzyński",
+      "raw_affiliation_strings": [
+        "Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2, 117543 Singapore, Singapore",
+        "Faculty of Physics, Adam Mickiewicz University, Umultowska 85, PL-61-614 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2, 117543 Singapore, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I115455960",
+            "https://openalex.org/I165932596"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Faculty of Physics, Adam Mickiewicz University, Umultowska 85, PL-61-614 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065376144",
+        "display_name": "Andrzej Grudka",
+        "orcid": "https://orcid.org/0000-0002-8390-1458"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrzej Grudka",
+      "raw_affiliation_strings": [
+        "Faculty of Physics, Adam Mickiewicz University, Umultowska 85, PL-61-614 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Physics, Adam Mickiewicz University, Umultowska 85, PL-61-614 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090349691",
+        "display_name": "Tomasz Gdala",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasz Gdala",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Umultowska 87, PL-61-614 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Umultowska 87, PL-61-614 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5017542027",
+        "display_name": "Małgorzata Bednarska-Bzdȩga",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Małgorzata Bednarska-Bzdęga",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Umultowska 87, PL-61-614 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Umultowska 87, PL-61-614 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2675,
+    "currency": "USD",
+    "value_usd": 2675
+  },
+  "apc_paid": null,
+  "fwci": 12.8263,
+  "has_fulltext": false,
+  "cited_by_count": 85,
+  "citation_normalized_percentile": {
+    "value": 0.9875446,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "85",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10682",
+    "display_name": "Quantum Computing Algorithms and Architecture",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10682",
+      "display_name": "Quantum Computing Algorithms and Architecture",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10020",
+      "display_name": "Quantum Information and Cryptography",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13182",
+      "display_name": "Quantum-Dot Cellular Automata",
+      "score": 0.9951000213623047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/quantum-walk",
+      "display_name": "Quantum walk",
+      "score": 0.7849404811859131
+    },
+    {
+      "id": "https://openalex.org/keywords/trapping",
+      "display_name": "Trapping",
+      "score": 0.5284423828125
+    },
+    {
+      "id": "https://openalex.org/keywords/particle",
+      "display_name": "Particle (ecology)",
+      "score": 0.5192446708679199
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.5012495517730713
+    },
+    {
+      "id": "https://openalex.org/keywords/phase",
+      "display_name": "Phase (matter)",
+      "score": 0.48996415734291077
+    },
+    {
+      "id": "https://openalex.org/keywords/quantum",
+      "display_name": "Quantum",
+      "score": 0.48852479457855225
+    },
+    {
+      "id": "https://openalex.org/keywords/line",
+      "display_name": "Line (geometry)",
+      "score": 0.48321831226348877
+    },
+    {
+      "id": "https://openalex.org/keywords/random-walk",
+      "display_name": "Random walk",
+      "score": 0.47061827778816223
+    },
+    {
+      "id": "https://openalex.org/keywords/statistical-physics",
+      "display_name": "Statistical physics",
+      "score": 0.45328760147094727
+    },
+    {
+      "id": "https://openalex.org/keywords/quantum-mechanics",
+      "display_name": "Quantum mechanics",
+      "score": 0.40552255511283875
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.22434043884277344
+    },
+    {
+      "id": "https://openalex.org/keywords/quantum-algorithm",
+      "display_name": "Quantum algorithm",
+      "score": 0.15792739391326904
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.12360703945159912
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.11016714572906494
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.0784725546836853
+    },
+    {
+      "id": "https://openalex.org/keywords/geometry",
+      "display_name": "Geometry",
+      "score": 0.05786508321762085
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C140058369",
+      "wikidata": "https://www.wikidata.org/wiki/Q7269113",
+      "display_name": "Quantum walk",
+      "level": 4,
+      "score": 0.7849404811859131
+    },
+    {
+      "id": "https://openalex.org/C2777924906",
+      "wikidata": "https://www.wikidata.org/wiki/Q34168",
+      "display_name": "Trapping",
+      "level": 2,
+      "score": 0.5284423828125
+    },
+    {
+      "id": "https://openalex.org/C2778517922",
+      "wikidata": "https://www.wikidata.org/wiki/Q7140482",
+      "display_name": "Particle (ecology)",
+      "level": 2,
+      "score": 0.5192446708679199
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.5012495517730713
+    },
+    {
+      "id": "https://openalex.org/C44280652",
+      "wikidata": "https://www.wikidata.org/wiki/Q104837",
+      "display_name": "Phase (matter)",
+      "level": 2,
+      "score": 0.48996415734291077
+    },
+    {
+      "id": "https://openalex.org/C84114770",
+      "wikidata": "https://www.wikidata.org/wiki/Q46344",
+      "display_name": "Quantum",
+      "level": 2,
+      "score": 0.48852479457855225
+    },
+    {
+      "id": "https://openalex.org/C198352243",
+      "wikidata": "https://www.wikidata.org/wiki/Q37105",
+      "display_name": "Line (geometry)",
+      "level": 2,
+      "score": 0.48321831226348877
+    },
+    {
+      "id": "https://openalex.org/C121194460",
+      "wikidata": "https://www.wikidata.org/wiki/Q856741",
+      "display_name": "Random walk",
+      "level": 2,
+      "score": 0.47061827778816223
+    },
+    {
+      "id": "https://openalex.org/C121864883",
+      "wikidata": "https://www.wikidata.org/wiki/Q677916",
+      "display_name": "Statistical physics",
+      "level": 1,
+      "score": 0.45328760147094727
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.40552255511283875
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.22434043884277344
+    },
+    {
+      "id": "https://openalex.org/C137019171",
+      "wikidata": "https://www.wikidata.org/wiki/Q2623817",
+      "display_name": "Quantum algorithm",
+      "level": 3,
+      "score": 0.15792739391326904
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.12360703945159912
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.11016714572906494
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0784725546836853
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.05786508321762085
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C97137747",
+      "wikidata": "https://www.wikidata.org/wiki/Q38112",
+      "display_name": "Forestry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1103/physreva.85.012329",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1103/physreva.85.012329",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S164566984",
+        "display_name": "Physical Review A",
+        "issn_l": "1050-2947",
+        "issn": [
+          "1050-2947",
+          "1094-1622",
+          "1538-4446"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320261",
+        "host_organization_name": "American Physical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320261"
+        ],
+        "host_organization_lineage_names": [
+          "American Physical Society"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Physical Review A",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:arXiv.org:1112.1287",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/1112.1287",
+      "pdf_url": "https://arxiv.org/pdf/1112.1287",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    {
+      "id": "pmh:oai:scholarbank.nus.edu.sg:10635/116659",
+      "is_oa": false,
+      "landing_page_url": "http://scholarbank.nus.edu.sg/handle/10635/116659",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407052290",
+        "display_name": "National University of Singapore",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Scopus",
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:1112.1287",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1112.1287",
+    "pdf_url": "https://arxiv.org/pdf/1112.1287",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 29,
+  "referenced_works": [
+    "https://openalex.org/W1966092221",
+    "https://openalex.org/W1967334647",
+    "https://openalex.org/W1974989064",
+    "https://openalex.org/W1975528636",
+    "https://openalex.org/W1984066085",
+    "https://openalex.org/W1991924571",
+    "https://openalex.org/W1992060082",
+    "https://openalex.org/W1998160863",
+    "https://openalex.org/W1999009732",
+    "https://openalex.org/W2012716029",
+    "https://openalex.org/W2012889929",
+    "https://openalex.org/W2020275424",
+    "https://openalex.org/W2022080729",
+    "https://openalex.org/W2027992099",
+    "https://openalex.org/W2036051023",
+    "https://openalex.org/W2043290820",
+    "https://openalex.org/W2056511241",
+    "https://openalex.org/W2067287259",
+    "https://openalex.org/W2067639709",
+    "https://openalex.org/W2074808661",
+    "https://openalex.org/W2083977332",
+    "https://openalex.org/W2116855013",
+    "https://openalex.org/W2119006096",
+    "https://openalex.org/W2126562511",
+    "https://openalex.org/W2131217425",
+    "https://openalex.org/W2150979238",
+    "https://openalex.org/W2160185408",
+    "https://openalex.org/W2163733821",
+    "https://openalex.org/W3104864023"
+  ],
+  "related_works": [
+    "https://openalex.org/W4221160056",
+    "https://openalex.org/W2035499096",
+    "https://openalex.org/W3015065480",
+    "https://openalex.org/W3124364789",
+    "https://openalex.org/W131888345",
+    "https://openalex.org/W4289863690",
+    "https://openalex.org/W1684851900",
+    "https://openalex.org/W2962981807",
+    "https://openalex.org/W3152705436",
+    "https://openalex.org/W4313401824"
+  ],
+  "abstract_inverted_index": {
+    "We": [
+      0
+    ],
+    "observe": [
+      1
+    ],
+    "that": [
+      2
+    ],
+    "changing": [
+      3
+    ],
+    "a": [
+      4,
+      7,
+      11,
+      17
+    ],
+    "phase": [
+      5,
+      27
+    ],
+    "at": [
+      6
+    ],
+    "single": [
+      8
+    ],
+    "point": [
+      9
+    ],
+    "in": [
+      10,
+      16
+    ],
+    "discrete": [
+      12
+    ],
+    "quantum": [
+      13
+    ],
+    "walk": [
+      14
+    ],
+    "results": [
+      15
+    ],
+    "rather": [
+      18
+    ],
+    "surprising": [
+      19
+    ],
+    "localization": [
+      20,
+      32
+    ],
+    "effect.": [
+      21
+    ],
+    "For": [
+      22
+    ],
+    "certain": [
+      23
+    ],
+    "values": [
+      24
+    ],
+    "of": [
+      25,
+      31,
+      40
+    ],
+    "this": [
+      26
+    ],
+    "change": [
+      28
+    ],
+    "the": [
+      29,
+      36,
+      41
+    ],
+    "possibility": [
+      30
+    ],
+    "strongly": [
+      33
+    ],
+    "depends": [
+      34
+    ],
+    "on": [
+      35
+    ],
+    "internal": [
+      37
+    ],
+    "coin": [
+      38
+    ],
+    "state": [
+      39
+    ],
+    "walker.": [
+      42
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

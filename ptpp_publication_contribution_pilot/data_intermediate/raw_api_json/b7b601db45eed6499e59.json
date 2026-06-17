@@ -1,0 +1,1400 @@
+{
+  "id": "https://openalex.org/W4404393288",
+  "doi": "https://doi.org/10.1038/s41596-024-01072-1",
+  "title": "RNA sample optimization for cryo-EM analysis",
+  "display_name": "RNA sample optimization for cryo-EM analysis",
+  "publication_year": 2024,
+  "publication_date": "2024-11-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4404393288",
+    "doi": "https://doi.org/10.1038/s41596-024-01072-1",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39548288"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41596-024-01072-1",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1038/s41596-024-01072-1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S109387254",
+      "display_name": "Nature Protocols",
+      "issn_l": "1750-2799",
+      "issn": [
+        "1750-2799",
+        "1754-2189"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Protocols",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://ruj.uj.edu.pl/handle/item/549631",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100387342",
+        "display_name": "Xingyu Chen",
+        "orcid": "https://orcid.org/0000-0002-4659-3986"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xingyu Chen",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100400381",
+        "display_name": "Liu Wang",
+        "orcid": "https://orcid.org/0000-0003-1243-9654"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768043",
+          "display_name": "State Key Laboratory of Oral Diseases",
+          "ror": "https://ror.org/00pvqk557",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768043"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Liu Wang",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, Department of Cardiology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1243-9654",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, Department of Cardiology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768043"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005662083",
+        "display_name": "Jiahao Xie",
+        "orcid": "https://orcid.org/0000-0002-4632-2959"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jiahao Xie",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007807706",
+        "display_name": "Jakub Nowak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub S. Nowak",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039483808",
+        "display_name": "Bingnan Luo",
+        "orcid": "https://orcid.org/0000-0002-9367-4359"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bingnan Luo",
+      "raw_affiliation_strings": [
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, USA",
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100393893",
+        "display_name": "Chong Zhang",
+        "orcid": "https://orcid.org/0000-0001-9609-8855"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chong Zhang",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062354951",
+        "display_name": "Guowen Jia",
+        "orcid": "https://orcid.org/0000-0002-6507-6204"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guowen Jia",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088092196",
+        "display_name": "Jian Zou",
+        "orcid": "https://orcid.org/0000-0002-4127-8688"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jian Zou",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067395854",
+        "display_name": "Dingming Huang",
+        "orcid": "https://orcid.org/0000-0002-0779-5729"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768043",
+          "display_name": "State Key Laboratory of Oral Diseases",
+          "ror": "https://ror.org/00pvqk557",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768043"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dingming Huang",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, Department of Cardiology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, National Center for Stomatology, Department of Cardiology and Endodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768043"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012531471",
+        "display_name": "Sebastian Glatt",
+        "orcid": "https://orcid.org/0000-0003-2815-7133"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I150540706",
+          "display_name": "University of Veterinary Medicine Vienna",
+          "ror": "https://ror.org/01w6qp003",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I150540706"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastian Glatt",
+      "raw_affiliation_strings": [
+        "Department for Biological Sciences and Pathobiology, University of Veterinary Medicine Vienna, Vienna, Austria",
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2815-7133",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department for Biological Sciences and Pathobiology, University of Veterinary Medicine Vienna, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I150540706"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100397512",
+        "display_name": "Yang Yang",
+        "orcid": "https://orcid.org/0000-0002-1269-2804"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yang Yang",
+      "raw_affiliation_strings": [
+        "Department of Prosthodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Prosthodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5082979078",
+        "display_name": "Zhaoming Su",
+        "orcid": "https://orcid.org/0000-0002-9279-1721"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zhaoming Su",
+      "raw_affiliation_strings": [
+        "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China. zsu@wchscu.cn"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9279-1721",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The State Key Laboratory of Biotherapy, Department of Geriatrics and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China. zsu@wchscu.cn",
+          "institution_ids": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5082979078"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I24185976"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 5.1276,
+  "has_fulltext": false,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.94864968,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "20",
+    "issue": "5",
+    "first_page": "1114",
+    "last_page": "1157"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10857",
+    "display_name": "Advanced Electron Microscopy Techniques and Applications",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1315",
+      "display_name": "Structural Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10857",
+      "display_name": "Advanced Electron Microscopy Techniques and Applications",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1315",
+        "display_name": "Structural Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10521",
+      "display_name": "RNA and protein synthesis mechanisms",
+      "score": 0.9976000189781189,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11162",
+      "display_name": "Enzyme Structure and Function",
+      "score": 0.9934999942779541,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.5866847038269043
+    },
+    {
+      "id": "https://openalex.org/keywords/cryo-electron-microscopy",
+      "display_name": "Cryo-electron microscopy",
+      "score": 0.5386990904808044
+    },
+    {
+      "id": "https://openalex.org/keywords/rna",
+      "display_name": "RNA",
+      "score": 0.5282047390937805
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.4342811107635498
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.41788727045059204
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.27219247817993164
+    },
+    {
+      "id": "https://openalex.org/keywords/biophysics",
+      "display_name": "Biophysics",
+      "score": 0.2282218337059021
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.22757646441459656
+    },
+    {
+      "id": "https://openalex.org/keywords/chromatography",
+      "display_name": "Chromatography",
+      "score": 0.12181597948074341
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.09427008032798767
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5866847038269043
+    },
+    {
+      "id": "https://openalex.org/C20702342",
+      "wikidata": "https://www.wikidata.org/wiki/Q5190506",
+      "display_name": "Cryo-electron microscopy",
+      "level": 2,
+      "score": 0.5386990904808044
+    },
+    {
+      "id": "https://openalex.org/C67705224",
+      "wikidata": "https://www.wikidata.org/wiki/Q11053",
+      "display_name": "RNA",
+      "level": 3,
+      "score": 0.5282047390937805
+    },
+    {
+      "id": "https://openalex.org/C198531522",
+      "wikidata": "https://www.wikidata.org/wiki/Q485146",
+      "display_name": "Sample (material)",
+      "level": 2,
+      "score": 0.4342811107635498
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.41788727045059204
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.27219247817993164
+    },
+    {
+      "id": "https://openalex.org/C12554922",
+      "wikidata": "https://www.wikidata.org/wiki/Q7100",
+      "display_name": "Biophysics",
+      "level": 1,
+      "score": 0.2282218337059021
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.22757646441459656
+    },
+    {
+      "id": "https://openalex.org/C43617362",
+      "wikidata": "https://www.wikidata.org/wiki/Q170050",
+      "display_name": "Chromatography",
+      "level": 1,
+      "score": 0.12181597948074341
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.09427008032798767
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000465",
+      "descriptor_name": "Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000465",
+      "descriptor_name": "Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000465",
+      "descriptor_name": "Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009690",
+      "descriptor_name": "Nucleic Acid Conformation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009690",
+      "descriptor_name": "Nucleic Acid Conformation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009690",
+      "descriptor_name": "Nucleic Acid Conformation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012313",
+      "descriptor_name": "RNA",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012313",
+      "descriptor_name": "RNA",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012313",
+      "descriptor_name": "RNA",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012313",
+      "descriptor_name": "RNA",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012313",
+      "descriptor_name": "RNA",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012313",
+      "descriptor_name": "RNA",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41596-024-01072-1",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1038/s41596-024-01072-1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S109387254",
+        "display_name": "Nature Protocols",
+        "issn_l": "1750-2799",
+        "issn": [
+          "1750-2799",
+          "1754-2189"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Protocols",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39548288",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39548288",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature protocols",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/549631",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/handle/item/549631",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400316",
+        "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "artykuł w czasopiśmie"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:ruj.uj.edu.pl:item/549631",
+    "is_oa": true,
+    "landing_page_url": "https://ruj.uj.edu.pl/handle/item/549631",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400316",
+      "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "artykuł w czasopiśmie"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 249,
+  "referenced_works": [
+    "https://openalex.org/W41779663",
+    "https://openalex.org/W117807294",
+    "https://openalex.org/W1560820522",
+    "https://openalex.org/W1581158085",
+    "https://openalex.org/W1964892459",
+    "https://openalex.org/W1967004359",
+    "https://openalex.org/W1970629740",
+    "https://openalex.org/W1972576619",
+    "https://openalex.org/W1981393804",
+    "https://openalex.org/W1982295411",
+    "https://openalex.org/W1995727867",
+    "https://openalex.org/W1998402679",
+    "https://openalex.org/W2003122343",
+    "https://openalex.org/W2011061704",
+    "https://openalex.org/W2017508876",
+    "https://openalex.org/W2019136958",
+    "https://openalex.org/W2020496103",
+    "https://openalex.org/W2020818483",
+    "https://openalex.org/W2022655640",
+    "https://openalex.org/W2022913266",
+    "https://openalex.org/W2022955211",
+    "https://openalex.org/W2025142332",
+    "https://openalex.org/W2027131183",
+    "https://openalex.org/W2028470175",
+    "https://openalex.org/W2030394302",
+    "https://openalex.org/W2036250918",
+    "https://openalex.org/W2038325971",
+    "https://openalex.org/W2042082545",
+    "https://openalex.org/W2043704189",
+    "https://openalex.org/W2046025172",
+    "https://openalex.org/W2051183973",
+    "https://openalex.org/W2058276221",
+    "https://openalex.org/W2060329684",
+    "https://openalex.org/W2068205741",
+    "https://openalex.org/W2069779808",
+    "https://openalex.org/W2077697455",
+    "https://openalex.org/W2079640150",
+    "https://openalex.org/W2083543262",
+    "https://openalex.org/W2086035360",
+    "https://openalex.org/W2092418421",
+    "https://openalex.org/W2095057795",
+    "https://openalex.org/W2100455255",
+    "https://openalex.org/W2100495109",
+    "https://openalex.org/W2100982253",
+    "https://openalex.org/W2103972113",
+    "https://openalex.org/W2108699324",
+    "https://openalex.org/W2111996612",
+    "https://openalex.org/W2124026197",
+    "https://openalex.org/W2124512134",
+    "https://openalex.org/W2125157162",
+    "https://openalex.org/W2127130852",
+    "https://openalex.org/W2130479394",
+    "https://openalex.org/W2132629607",
+    "https://openalex.org/W2142161929",
+    "https://openalex.org/W2149360962",
+    "https://openalex.org/W2154040583",
+    "https://openalex.org/W2157052506",
+    "https://openalex.org/W2160539059",
+    "https://openalex.org/W2162942780",
+    "https://openalex.org/W2164366364",
+    "https://openalex.org/W2259423114",
+    "https://openalex.org/W2267081965",
+    "https://openalex.org/W2273130923",
+    "https://openalex.org/W2303457541",
+    "https://openalex.org/W2311696366",
+    "https://openalex.org/W2340902485",
+    "https://openalex.org/W2341963847",
+    "https://openalex.org/W2397799041",
+    "https://openalex.org/W2429011802",
+    "https://openalex.org/W2492347222",
+    "https://openalex.org/W2508012814",
+    "https://openalex.org/W2514258009",
+    "https://openalex.org/W2521632866",
+    "https://openalex.org/W2521640490",
+    "https://openalex.org/W2528451823",
+    "https://openalex.org/W2530395871",
+    "https://openalex.org/W2531411352",
+    "https://openalex.org/W2534419025",
+    "https://openalex.org/W2559857687",
+    "https://openalex.org/W2560511802",
+    "https://openalex.org/W2568142275",
+    "https://openalex.org/W2580555377",
+    "https://openalex.org/W2587625522",
+    "https://openalex.org/W2592535877",
+    "https://openalex.org/W2593511418",
+    "https://openalex.org/W2623370846",
+    "https://openalex.org/W2625082919",
+    "https://openalex.org/W2728385286",
+    "https://openalex.org/W2777092774",
+    "https://openalex.org/W2785409479",
+    "https://openalex.org/W2786390877",
+    "https://openalex.org/W2791354025",
+    "https://openalex.org/W2793402357",
+    "https://openalex.org/W2795328673",
+    "https://openalex.org/W2796274295",
+    "https://openalex.org/W2801376357",
+    "https://openalex.org/W2804636455",
+    "https://openalex.org/W2820941669",
+    "https://openalex.org/W2883929619",
+    "https://openalex.org/W2902110885",
+    "https://openalex.org/W2902560198",
+    "https://openalex.org/W2903102808",
+    "https://openalex.org/W2911634634",
+    "https://openalex.org/W2914579995",
+    "https://openalex.org/W2918024758",
+    "https://openalex.org/W2924863631",
+    "https://openalex.org/W2939689244",
+    "https://openalex.org/W2942213398",
+    "https://openalex.org/W2943205517",
+    "https://openalex.org/W2949078846",
+    "https://openalex.org/W2949223833",
+    "https://openalex.org/W2949882099",
+    "https://openalex.org/W2950782282",
+    "https://openalex.org/W2950967305",
+    "https://openalex.org/W2951611668",
+    "https://openalex.org/W2952729952",
+    "https://openalex.org/W2953017129",
+    "https://openalex.org/W2953032371",
+    "https://openalex.org/W2953320394",
+    "https://openalex.org/W2959223248",
+    "https://openalex.org/W2963355494",
+    "https://openalex.org/W2969823493",
+    "https://openalex.org/W2971729588",
+    "https://openalex.org/W2977933365",
+    "https://openalex.org/W2979414277",
+    "https://openalex.org/W2980342830",
+    "https://openalex.org/W2980358452",
+    "https://openalex.org/W2982442022",
+    "https://openalex.org/W2986495928",
+    "https://openalex.org/W2990715673",
+    "https://openalex.org/W2993548729",
+    "https://openalex.org/W2995405067",
+    "https://openalex.org/W2998470954",
+    "https://openalex.org/W3000381512",
+    "https://openalex.org/W3000918015",
+    "https://openalex.org/W3006840154",
+    "https://openalex.org/W3006954097",
+    "https://openalex.org/W3007927309",
+    "https://openalex.org/W3011024809",
+    "https://openalex.org/W3011544698",
+    "https://openalex.org/W3022554208",
+    "https://openalex.org/W3024389904",
+    "https://openalex.org/W3026756547",
+    "https://openalex.org/W3027534552",
+    "https://openalex.org/W3032032947",
+    "https://openalex.org/W3034567160",
+    "https://openalex.org/W3039385523",
+    "https://openalex.org/W3047162894",
+    "https://openalex.org/W3087744307",
+    "https://openalex.org/W3092349029",
+    "https://openalex.org/W3093295276",
+    "https://openalex.org/W3095370870",
+    "https://openalex.org/W3100348855",
+    "https://openalex.org/W3103292928",
+    "https://openalex.org/W3105695732",
+    "https://openalex.org/W3108495343",
+    "https://openalex.org/W3114154682",
+    "https://openalex.org/W3115880421",
+    "https://openalex.org/W3121324275",
+    "https://openalex.org/W3127326657",
+    "https://openalex.org/W3127564879",
+    "https://openalex.org/W3127722007",
+    "https://openalex.org/W3131760520",
+    "https://openalex.org/W3131842125",
+    "https://openalex.org/W3152243261",
+    "https://openalex.org/W3155319047",
+    "https://openalex.org/W3157130756",
+    "https://openalex.org/W3158583328",
+    "https://openalex.org/W3163368994",
+    "https://openalex.org/W3182920702",
+    "https://openalex.org/W3184548922",
+    "https://openalex.org/W3192972855",
+    "https://openalex.org/W3194019725",
+    "https://openalex.org/W3194321311",
+    "https://openalex.org/W3214371786",
+    "https://openalex.org/W4200214531",
+    "https://openalex.org/W4200233630",
+    "https://openalex.org/W4200591455",
+    "https://openalex.org/W4214645202",
+    "https://openalex.org/W4214725635",
+    "https://openalex.org/W4220921504",
+    "https://openalex.org/W4221089965",
+    "https://openalex.org/W4225287975",
+    "https://openalex.org/W4226062976",
+    "https://openalex.org/W4238253516",
+    "https://openalex.org/W4281688343",
+    "https://openalex.org/W4283790249",
+    "https://openalex.org/W4284688865",
+    "https://openalex.org/W4290936012",
+    "https://openalex.org/W4291368660",
+    "https://openalex.org/W4293213762",
+    "https://openalex.org/W4293795761",
+    "https://openalex.org/W4294798328",
+    "https://openalex.org/W4295468950",
+    "https://openalex.org/W4300861274",
+    "https://openalex.org/W4300963398",
+    "https://openalex.org/W4302362590",
+    "https://openalex.org/W4304949822",
+    "https://openalex.org/W4304949837",
+    "https://openalex.org/W4308537400",
+    "https://openalex.org/W4310568385",
+    "https://openalex.org/W4310775336",
+    "https://openalex.org/W4311825806",
+    "https://openalex.org/W4312369971",
+    "https://openalex.org/W4313488537",
+    "https://openalex.org/W4317529025",
+    "https://openalex.org/W4317702975",
+    "https://openalex.org/W4319751398",
+    "https://openalex.org/W4322492219",
+    "https://openalex.org/W4323036340",
+    "https://openalex.org/W4327568908",
+    "https://openalex.org/W4327681910",
+    "https://openalex.org/W4362457052",
+    "https://openalex.org/W4366824846",
+    "https://openalex.org/W4376126459",
+    "https://openalex.org/W4376663831",
+    "https://openalex.org/W4377692992",
+    "https://openalex.org/W4380369895",
+    "https://openalex.org/W4382132930",
+    "https://openalex.org/W4384664255",
+    "https://openalex.org/W4385514896",
+    "https://openalex.org/W4387268258",
+    "https://openalex.org/W4387326236",
+    "https://openalex.org/W4388728609",
+    "https://openalex.org/W4388842309",
+    "https://openalex.org/W4388923398",
+    "https://openalex.org/W4388934329",
+    "https://openalex.org/W4390793775",
+    "https://openalex.org/W4391091878",
+    "https://openalex.org/W4391428444",
+    "https://openalex.org/W4392136306",
+    "https://openalex.org/W4392155415",
+    "https://openalex.org/W4392361464",
+    "https://openalex.org/W4392387330",
+    "https://openalex.org/W4392982802",
+    "https://openalex.org/W4393853704",
+    "https://openalex.org/W4394817293",
+    "https://openalex.org/W4396596144",
+    "https://openalex.org/W4396939266",
+    "https://openalex.org/W4399515099",
+    "https://openalex.org/W4401461881",
+    "https://openalex.org/W4403035936",
+    "https://openalex.org/W6631828510",
+    "https://openalex.org/W6646664767",
+    "https://openalex.org/W6692381420",
+    "https://openalex.org/W6747648848",
+    "https://openalex.org/W6750941955",
+    "https://openalex.org/W6852952812",
+    "https://openalex.org/W6925475915"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2082860237",
+    "https://openalex.org/W2119695867",
+    "https://openalex.org/W2130076355",
+    "https://openalex.org/W1990804418",
+    "https://openalex.org/W1993764875",
+    "https://openalex.org/W2046158694",
+    "https://openalex.org/W2788277189",
+    "https://openalex.org/W2013243191",
+    "https://openalex.org/W1971568933"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

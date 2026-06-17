@@ -1,0 +1,1355 @@
+{
+  "id": "https://openalex.org/W4408817565",
+  "doi": "https://doi.org/10.1029/2024ms004340",
+  "title": "A First Look at the Global Climatology of Low‐Level Clouds in Storm Resolving Models",
+  "display_name": "A First Look at the Global Climatology of Low‐Level Clouds in Storm Resolving Models",
+  "publication_year": 2025,
+  "publication_date": "2025-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4408817565",
+    "doi": "https://doi.org/10.1029/2024ms004340"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1029/2024ms004340",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2024ms004340",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S185824406",
+      "display_name": "Journal of Advances in Modeling Earth Systems",
+      "issn_l": "1942-2466",
+      "issn": [
+        "1942-2466"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Advances in Modeling Earth Systems",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1029/2024ms004340",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074114379",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-3179-1576"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135200",
+          "display_name": "Institute of Geophysics Polish Academy of Sciences",
+          "ror": "https://ror.org/04rc9d057",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210135200",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210163131",
+          "display_name": "Max Planck Institute for Meteorology",
+          "ror": "https://ror.org/05esem239",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210163131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jakub L. Nowak",
+      "raw_affiliation_strings": [
+        "Now at Max Planck Institute for Meteorology  Hamburg Germany",
+        "University of Warsaw Faculty of Physics Institute of Geophysics  Warsaw Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3179-1576",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Now at Max Planck Institute for Meteorology  Hamburg Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210163131"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Warsaw Faculty of Physics Institute of Geophysics  Warsaw Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210135200",
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060719860",
+        "display_name": "Ian Cunha D’Amato Viana Dragaud",
+        "orcid": "https://orcid.org/0000-0003-1790-5765"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I159176309",
+          "display_name": "Universität Hamburg",
+          "ror": "https://ror.org/00g30e956",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159176309"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ian C. D. V. Dragaud",
+      "raw_affiliation_strings": [
+        "University of Hamburg Meteorological Institute  Hamburg Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1790-5765",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Hamburg Meteorological Institute  Hamburg Germany",
+          "institution_ids": [
+            "https://openalex.org/I159176309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066652943",
+        "display_name": "Junhong Lee",
+        "orcid": "https://orcid.org/0000-0001-6459-9284"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210163131",
+          "display_name": "Max Planck Institute for Meteorology",
+          "ror": "https://ror.org/05esem239",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210163131"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Junhong Lee",
+      "raw_affiliation_strings": [
+        "Max Planck Institute for Meteorology  Hamburg Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6459-9284",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Max Planck Institute for Meteorology  Hamburg Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210163131"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046342746",
+        "display_name": "Piotr Dziekan",
+        "orcid": "https://orcid.org/0000-0002-1963-7875"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135200",
+          "display_name": "Institute of Geophysics Polish Academy of Sciences",
+          "ror": "https://ror.org/04rc9d057",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210135200",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Dziekan",
+      "raw_affiliation_strings": [
+        "University of Warsaw Faculty of Physics Institute of Geophysics  Warsaw Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1963-7875",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warsaw Faculty of Physics Institute of Geophysics  Warsaw Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210135200",
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Juan Pedro Mellado",
+        "orcid": "https://orcid.org/0000-0001-7506-6539"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I159176309",
+          "display_name": "Universität Hamburg",
+          "ror": "https://ror.org/00g30e956",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159176309"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juan Pedro Mellado",
+      "raw_affiliation_strings": [
+        "University of Hamburg Meteorological Institute  Hamburg Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7506-6539",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Hamburg Meteorological Institute  Hamburg Germany",
+          "institution_ids": [
+            "https://openalex.org/I159176309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5046873331",
+        "display_name": "Björn Stevens",
+        "orcid": "https://orcid.org/0000-0003-3795-0475"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210163131",
+          "display_name": "Max Planck Institute for Meteorology",
+          "ror": "https://ror.org/05esem239",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210163131"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bjorn Stevens",
+      "raw_affiliation_strings": [
+        "Max Planck Institute for Meteorology  Hamburg Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3795-0475",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Max Planck Institute for Meteorology  Hamburg Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210163131"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5060719860",
+    "https://openalex.org/A5074114379"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I159176309",
+    "https://openalex.org/I4210135200",
+    "https://openalex.org/I4210163131",
+    "https://openalex.org/I4654613"
+  ],
+  "apc_list": {
+    "value": 1500,
+    "currency": "USD",
+    "value_usd": 1500
+  },
+  "apc_paid": {
+    "value": 1500,
+    "currency": "USD",
+    "value_usd": 1500
+  },
+  "fwci": 3.9457,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.93021956,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "17",
+    "issue": "3",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10029",
+    "display_name": "Climate variability and models",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10029",
+      "display_name": "Climate variability and models",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10466",
+      "display_name": "Meteorological Phenomena and Simulations",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10347",
+      "display_name": "Atmospheric aerosols and clouds",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/storm",
+      "display_name": "Storm",
+      "score": 0.7166258692741394
+    },
+    {
+      "id": "https://openalex.org/keywords/climatology",
+      "display_name": "Climatology",
+      "score": 0.6762418746948242
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5084925889968872
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.4725358784198761
+    },
+    {
+      "id": "https://openalex.org/keywords/atmospheric-sciences",
+      "display_name": "Atmospheric sciences",
+      "score": 0.3590065836906433
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.22339263558387756
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.10939756035804749
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C105306849",
+      "wikidata": "https://www.wikidata.org/wiki/Q81054",
+      "display_name": "Storm",
+      "level": 2,
+      "score": 0.7166258692741394
+    },
+    {
+      "id": "https://openalex.org/C49204034",
+      "wikidata": "https://www.wikidata.org/wiki/Q52139",
+      "display_name": "Climatology",
+      "level": 1,
+      "score": 0.6762418746948242
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5084925889968872
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.4725358784198761
+    },
+    {
+      "id": "https://openalex.org/C91586092",
+      "wikidata": "https://www.wikidata.org/wiki/Q757520",
+      "display_name": "Atmospheric sciences",
+      "level": 1,
+      "score": 0.3590065836906433
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.22339263558387756
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.10939756035804749
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1029/2024ms004340",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1029/2024ms004340",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S185824406",
+        "display_name": "Journal of Advances in Modeling Earth Systems",
+        "issn_l": "1942-2466",
+        "issn": [
+          "1942-2466"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Advances in Modeling Earth Systems",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:32af5d04a58d47f9afe58e647a149fd5",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/32af5d04a58d47f9afe58e647a149fd5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Advances in Modeling Earth Systems, Vol 17, Iss 3, Pp n/a-n/a (2025)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:zenodo.org:15576797",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1029/2024MS004340",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Advances in Modeling Earth Systems, 17(3), e2024MS004340, (2025-03-24)",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1029/2024ms004340",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2024ms004340",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S185824406",
+      "display_name": "Journal of Advances in Modeling Earth Systems",
+      "issn_l": "1942-2466",
+      "issn": [
+        "1942-2466"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Advances in Modeling Earth Systems",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/13",
+      "display_name": "Climate action",
+      "score": 0.6399999856948853
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 101,
+  "referenced_works": [
+    "https://openalex.org/W30325980",
+    "https://openalex.org/W1803864359",
+    "https://openalex.org/W1831098712",
+    "https://openalex.org/W1925502865",
+    "https://openalex.org/W1962753265",
+    "https://openalex.org/W1986865194",
+    "https://openalex.org/W1986936229",
+    "https://openalex.org/W1994387385",
+    "https://openalex.org/W2007825899",
+    "https://openalex.org/W2015241713",
+    "https://openalex.org/W2022964686",
+    "https://openalex.org/W2024404608",
+    "https://openalex.org/W2026932305",
+    "https://openalex.org/W2030596901",
+    "https://openalex.org/W2030785523",
+    "https://openalex.org/W2044091895",
+    "https://openalex.org/W2059471972",
+    "https://openalex.org/W2061155870",
+    "https://openalex.org/W2062460413",
+    "https://openalex.org/W2067099776",
+    "https://openalex.org/W2075322647",
+    "https://openalex.org/W2086432434",
+    "https://openalex.org/W2089418108",
+    "https://openalex.org/W2090504299",
+    "https://openalex.org/W2097744787",
+    "https://openalex.org/W2098304811",
+    "https://openalex.org/W2099645289",
+    "https://openalex.org/W2103560564",
+    "https://openalex.org/W2112333634",
+    "https://openalex.org/W2112393301",
+    "https://openalex.org/W2117169459",
+    "https://openalex.org/W2121297425",
+    "https://openalex.org/W2125108060",
+    "https://openalex.org/W2127502931",
+    "https://openalex.org/W2128035394",
+    "https://openalex.org/W2131542468",
+    "https://openalex.org/W2134281251",
+    "https://openalex.org/W2134442951",
+    "https://openalex.org/W2141019221",
+    "https://openalex.org/W2145231022",
+    "https://openalex.org/W2146631817",
+    "https://openalex.org/W2153121835",
+    "https://openalex.org/W2154006783",
+    "https://openalex.org/W2156514466",
+    "https://openalex.org/W2156743984",
+    "https://openalex.org/W2158536070",
+    "https://openalex.org/W2158717160",
+    "https://openalex.org/W2169075031",
+    "https://openalex.org/W2471933548",
+    "https://openalex.org/W2523099758",
+    "https://openalex.org/W2538820357",
+    "https://openalex.org/W2609966702",
+    "https://openalex.org/W2632375318",
+    "https://openalex.org/W2748041143",
+    "https://openalex.org/W2769271313",
+    "https://openalex.org/W2789457679",
+    "https://openalex.org/W2804486087",
+    "https://openalex.org/W2806118140",
+    "https://openalex.org/W2884349873",
+    "https://openalex.org/W2890344223",
+    "https://openalex.org/W2901183260",
+    "https://openalex.org/W2903457234",
+    "https://openalex.org/W2903802981",
+    "https://openalex.org/W2912111787",
+    "https://openalex.org/W2920921998",
+    "https://openalex.org/W2935666247",
+    "https://openalex.org/W2947030699",
+    "https://openalex.org/W2949130634",
+    "https://openalex.org/W2951981190",
+    "https://openalex.org/W2975081708",
+    "https://openalex.org/W3004351896",
+    "https://openalex.org/W3013884049",
+    "https://openalex.org/W3025949386",
+    "https://openalex.org/W3034446243",
+    "https://openalex.org/W3037575964",
+    "https://openalex.org/W3044698812",
+    "https://openalex.org/W3045983656",
+    "https://openalex.org/W3047371806",
+    "https://openalex.org/W3084025599",
+    "https://openalex.org/W3122990902",
+    "https://openalex.org/W3163640786",
+    "https://openalex.org/W3176264719",
+    "https://openalex.org/W3183224505",
+    "https://openalex.org/W3206864055",
+    "https://openalex.org/W3214337466",
+    "https://openalex.org/W4211083409",
+    "https://openalex.org/W4242268717",
+    "https://openalex.org/W4281647970",
+    "https://openalex.org/W4281715216",
+    "https://openalex.org/W4285254209",
+    "https://openalex.org/W4318620401",
+    "https://openalex.org/W4383377965",
+    "https://openalex.org/W4387747369",
+    "https://openalex.org/W4391335747",
+    "https://openalex.org/W4392052078",
+    "https://openalex.org/W4401213293",
+    "https://openalex.org/W4406249600",
+    "https://openalex.org/W6908538961",
+    "https://openalex.org/W6926538317",
+    "https://openalex.org/W6944576743",
+    "https://openalex.org/W6967439093"
+  ],
+  "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W1992943688",
+    "https://openalex.org/W2295835339",
+    "https://openalex.org/W2079862676",
+    "https://openalex.org/W181707074",
+    "https://openalex.org/W4317500713",
+    "https://openalex.org/W2077217759",
+    "https://openalex.org/W2050238227",
+    "https://openalex.org/W2027910543"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1,
+      38,
+      198
+    ],
+    "representation": [
+      2,
+      68
+    ],
+    "of": [
+      3,
+      13,
+      54,
+      69,
+      81,
+      134,
+      162,
+      172,
+      184,
+      219,
+      232,
+      238,
+      244
+    ],
+    "subtropical": [
+      4
+    ],
+    "stratocumulus": [
+      5,
+      96,
+      233
+    ],
+    "and": [
+      6,
+      18,
+      46,
+      64,
+      77,
+      94,
+      97,
+      113,
+      146,
+      165,
+      187,
+      190,
+      201,
+      207,
+      215,
+      234
+    ],
+    "trade‐wind": [
+      7,
+      173,
+      220,
+      239
+    ],
+    "cumulus": [
+      8,
+      240
+    ],
+    "clouds": [
+      9
+    ],
+    "by": [
+      10
+    ],
+    "preliminary": [
+      11
+    ],
+    "versions": [
+      12
+    ],
+    "Integrated": [
+      14
+    ],
+    "Forecasting": [
+      15
+    ],
+    "System": [
+      16
+    ],
+    "(IFS)": [
+      17
+    ],
+    "ICON": [
+      19,
+      49,
+      139,
+      225
+    ],
+    "km‐scale": [
+      20
+    ],
+    "global": [
+      21
+    ],
+    "coupled": [
+      22
+    ],
+    "climate": [
+      23
+    ],
+    "models": [
+      24,
+      28,
+      106,
+      176,
+      211
+    ],
+    "is": [
+      25
+    ],
+    "explored.": [
+      26
+    ],
+    "These": [
+      27
+    ],
+    "differ": [
+      29
+    ],
+    "profoundly": [
+      30
+    ],
+    "in": [
+      31,
+      86,
+      99
+    ],
+    "their": [
+      32,
+      67,
+      100
+    ],
+    "strategy": [
+      33
+    ],
+    "to": [
+      34,
+      91,
+      158,
+      241
+    ],
+    "represent": [
+      35
+    ],
+    "subgrid‐scale": [
+      36
+    ],
+    "processes.": [
+      37
+    ],
+    "IFS": [
+      39
+    ],
+    "employs": [
+      40
+    ],
+    "complex": [
+      41
+    ],
+    "parameterizations,": [
+      42
+    ],
+    "including": [
+      43,
+      56,
+      123
+    ],
+    "eddy‐diffusivity": [
+      44
+    ],
+    "mass‐flux": [
+      45
+    ],
+    "convection": [
+      47
+    ],
+    "schemes.": [
+      48
+    ],
+    "applies": [
+      50
+    ],
+    "a": [
+      51,
+      135,
+      142
+    ],
+    "minimal": [
+      52
+    ],
+    "set": [
+      53
+    ],
+    "paramaterizations,": [
+      55
+    ],
+    "the": [
+      57,
+      78,
+      82,
+      108,
+      117,
+      153,
+      159,
+      170,
+      179,
+      182,
+      191,
+      195,
+      205,
+      217,
+      229,
+      235,
+      242
+    ],
+    "Smagorinsky‐Lilly": [
+      58
+    ],
+    "closure.": [
+      59
+    ],
+    "Five‐year": [
+      60
+    ],
+    "simulations": [
+      61
+    ],
+    "are": [
+      62
+    ],
+    "performed": [
+      63
+    ],
+    "evaluated": [
+      65
+    ],
+    "for": [
+      66,
+      120
+    ],
+    "cloud": [
+      70,
+      144,
+      166,
+      180
+    ],
+    "albedo,": [
+      71
+    ],
+    "its": [
+      72,
+      114
+    ],
+    "variability": [
+      73
+    ],
+    "with": [
+      74,
+      116
+    ],
+    "environmental": [
+      75
+    ],
+    "parameters": [
+      76,
+      118
+    ],
+    "vertical": [
+      79,
+      132,
+      192
+    ],
+    "structure": [
+      80,
+      133,
+      193
+    ],
+    "atmospheric": [
+      83
+    ],
+    "boundary": [
+      84,
+      137
+    ],
+    "layer": [
+      85
+    ],
+    "eight": [
+      87
+    ],
+    "regions:": [
+      88
+    ],
+    "four": [
+      89,
+      98
+    ],
+    "corresponding": [
+      90
+    ],
+    "canonical": [
+      92
+    ],
+    "Atlantic": [
+      93
+    ],
+    "Pacific": [
+      95
+    ],
+    "downstream": [
+      101
+    ],
+    "trades.": [
+      102
+    ],
+    "For": [
+      103
+    ],
+    "stratocumulus,": [
+      104
+    ],
+    "both": [
+      105,
+      175
+    ],
+    "capture": [
+      107
+    ],
+    "albedo's": [
+      109
+    ],
+    "mean,": [
+      110
+    ],
+    "annual": [
+      111,
+      185,
+      199
+    ],
+    "cycle,": [
+      112
+    ],
+    "relationship": [
+      115
+    ],
+    "relevant": [
+      119
+    ],
+    "low": [
+      121
+    ],
+    "cloudiness,": [
+      122
+    ],
+    "lower": [
+      124,
+      143
+    ],
+    "tropospheric": [
+      125
+    ],
+    "stability.": [
+      126
+    ],
+    "They": [
+      127
+    ],
+    "simulate": [
+      128
+    ],
+    "an": [
+      129,
+      223
+    ],
+    "expected": [
+      130
+    ],
+    "thermodynamic": [
+      131
+    ],
+    "stratocumulus‐topped": [
+      136
+    ],
+    "layer.": [
+      138
+    ],
+    "largely": [
+      140
+    ],
+    "exhibits": [
+      141
+    ],
+    "base": [
+      145
+    ],
+    "inversion": [
+      147
+    ],
+    "height": [
+      148
+    ],
+    "than": [
+      149
+    ],
+    "IFS.": [
+      150
+    ],
+    "We": [
+      151
+    ],
+    "speculate": [
+      152
+    ],
+    "disagreement": [
+      154
+    ],
+    "can": [
+      155
+    ],
+    "be": [
+      156
+    ],
+    "attributed": [
+      157
+    ],
+    "contrasting": [
+      160
+    ],
+    "treatment": [
+      161,
+      243
+    ],
+    "subgrid": [
+      163,
+      245
+    ],
+    "mixing": [
+      164
+    ],
+    "top": [
+      167
+    ],
+    "entrainment.": [
+      168
+    ],
+    "In": [
+      169
+    ],
+    "case": [
+      171
+    ],
+    "cumulus,": [
+      174
+    ],
+    "well": [
+      177
+    ],
+    "differentiate": [
+      178
+    ],
+    "amount,": [
+      181
+    ],
+    "character": [
+      183
+    ],
+    "cycles": [
+      186,
+      200
+    ],
+    "parameter": [
+      188,
+      202
+    ],
+    "correlations,": [
+      189
+    ],
+    "from": [
+      194
+    ],
+    "upstream": [
+      196
+    ],
+    "stratocumulus.": [
+      197
+    ],
+    "correlations": [
+      203
+    ],
+    "reflect": [
+      204
+    ],
+    "dry": [
+      206
+    ],
+    "wet": [
+      208
+    ],
+    "periods.": [
+      209
+    ],
+    "Both": [
+      210
+    ],
+    "overestimate": [
+      212
+    ],
+    "mean": [
+      213
+    ],
+    "albedo": [
+      214
+    ],
+    "underestimate": [
+      216
+    ],
+    "strength": [
+      218
+    ],
+    "inversion.": [
+      221
+    ],
+    "With": [
+      222
+    ],
+    "additional": [
+      224
+    ],
+    "run,": [
+      226
+    ],
+    "we": [
+      227
+    ],
+    "demonstrate": [
+      228
+    ],
+    "strong": [
+      230
+    ],
+    "sensitivity": [
+      231
+    ],
+    "weaker": [
+      236
+    ],
+    "response": [
+      237
+    ],
+    "mixing.": [
+      246
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-06-14T06:11:07.267592",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,3013 @@
+{
+  "id": "https://openalex.org/W4401958901",
+  "doi": "https://doi.org/10.1038/s41590-024-01918-6",
+  "title": "Sodium chloride in the tumor microenvironment enhances T cell metabolic fitness and cytotoxicity",
+  "display_name": "Sodium chloride in the tumor microenvironment enhances T cell metabolic fitness and cytotoxicity",
+  "publication_year": 2024,
+  "publication_date": "2024-08-28",
+  "ids": {
+    "openalex": "https://openalex.org/W4401958901",
+    "doi": "https://doi.org/10.1038/s41590-024-01918-6",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39198632"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41590-024-01918-6",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41590-024-01918-6",
+    "pdf_url": "https://www.nature.com/articles/s41590-024-01918-6.pdf",
+    "source": {
+      "id": "https://openalex.org/S41063453",
+      "display_name": "Nature Immunology",
+      "issn_l": "1529-2908",
+      "issn": [
+        "1529-2908",
+        "1529-2916"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Immunology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.nature.com/articles/s41590-024-01918-6.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5022928746",
+        "display_name": "Dominik Soll",
+        "orcid": "https://orcid.org/0000-0002-7377-0220"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dominik Soll",
+      "raw_affiliation_strings": [
+        "Technical University of Munich, Munich, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7377-0220",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Technical University of Munich, Munich, Germany",
+          "institution_ids": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081799071",
+        "display_name": "Chang-Feng Chu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chang-Feng Chu",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004324040",
+        "display_name": "Shan Sun",
+        "orcid": "https://orcid.org/0000-0002-8108-5530"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shan Sun",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028766257",
+        "display_name": "Veronika Lutz",
+        "orcid": "https://orcid.org/0000-0002-3139-0916"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Veronika Lutz",
+      "raw_affiliation_strings": [
+        "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009266687",
+        "display_name": "Mahima Arunkumar",
+        "orcid": "https://orcid.org/0000-0002-7365-9055"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mahima Arunkumar",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7365-9055",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058077800",
+        "display_name": "Mariam Gachechiladze",
+        "orcid": "https://orcid.org/0000-0001-7941-6102"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mariam Gachechiladze",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016773854",
+        "display_name": "Sascha Schäuble",
+        "orcid": "https://orcid.org/0000-0003-3862-6546"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sascha Schäuble",
+      "raw_affiliation_strings": [
+        "Department of Microbiome Dynamics, Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbiome Dynamics, Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092874583",
+        "display_name": "Maha Alissa-Alkhalaf",
+        "orcid": "https://orcid.org/0009-0008-6092-7293"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maha Alissa-Alkhalaf",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0008-6092-7293",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002615738",
+        "display_name": "Trang Nguyen",
+        "orcid": "https://orcid.org/0000-0003-0488-5590"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161046081",
+          "display_name": "University of Freiburg",
+          "ror": "https://ror.org/0245cg223",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161046081"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Trang Nguyen",
+      "raw_affiliation_strings": [
+        "Center of Chronic Immunodeficiency, University Clinics and Medical Faculty, University of Freiburg, Freiburg, Germany",
+        "Institute of Biology III, Faculty of Biology and Signalling Research Centres BIOSS and CIBSS, University of Freiburg, Freiburg, Germany",
+        "Spemann Graduate School of Biology and Medicine, University of Freiburg, Freiburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center of Chronic Immunodeficiency, University Clinics and Medical Faculty, University of Freiburg, Freiburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Biology III, Faculty of Biology and Signalling Research Centres BIOSS and CIBSS, University of Freiburg, Freiburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Spemann Graduate School of Biology and Medicine, University of Freiburg, Freiburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002538339",
+        "display_name": "Michelle‐Amirah Khalil",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I94509681",
+          "display_name": "Technische Universität Braunschweig",
+          "ror": "https://ror.org/010nsgg66",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I94509681"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michelle-Amirah Khalil",
+      "raw_affiliation_strings": [
+        "Department of Bioinformatics and Biochemistry, Braunschweig Integrated Centre of Systems Biology, Technical University of Braunschweig, Braunschweig, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Bioinformatics and Biochemistry, Braunschweig Integrated Centre of Systems Biology, Technical University of Braunschweig, Braunschweig, Germany",
+          "institution_ids": [
+            "https://openalex.org/I94509681"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092874584",
+        "display_name": "Ignacio Garcia-Ribelles",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ignacio Garcia-Ribelles",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059608082",
+        "display_name": "Michael D. Mueller",
+        "orcid": "https://orcid.org/0000-0003-1947-1315"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Mueller",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057312613",
+        "display_name": "Katrin Buder",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210127789",
+          "display_name": "Leibniz Institute on Aging - Fritz Lipmann Institute (FLI)",
+          "ror": "https://ror.org/039a53269",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210127789"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katrin Buder",
+      "raw_affiliation_strings": [
+        "Leibniz Institute for Aging, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leibniz Institute for Aging, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210127789"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014634459",
+        "display_name": "Bernhard Michalke",
+        "orcid": "https://orcid.org/0000-0001-6376-2588"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018134672",
+          "display_name": "Helmholtz Zentrum München",
+          "ror": "https://ror.org/00cfam450",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I3018134672"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bernhard Michalke",
+      "raw_affiliation_strings": [
+        "Research Unit Analytical BioGeoChemistry, Helmholtz Center Munich-German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
+        "Research Unit Analytical BioGeoChemistry, Helmholtz Center Munich—German Research Center for Environmental Health (GmbH), Neuherberg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research Unit Analytical BioGeoChemistry, Helmholtz Center Munich-German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I3018134672"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Unit Analytical BioGeoChemistry, Helmholtz Center Munich—German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I3018134672"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006091846",
+        "display_name": "Gianni Panagiotou",
+        "orcid": "https://orcid.org/0000-0001-9393-124X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134900",
+          "display_name": "Jena University Hospital",
+          "ror": "https://ror.org/035rzkx15",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210134900"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76198965",
+          "display_name": "Friedrich Schiller University Jena",
+          "ror": "https://ror.org/05qpz1x62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76198965"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gianni Panagiotou",
+      "raw_affiliation_strings": [
+        "Department of Microbiome Dynamics, Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+        "Jena University Hospital, Friedrich Schiller University, Jena, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbiome Dynamics, Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Jena University Hospital, Friedrich Schiller University, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I76198965",
+            "https://openalex.org/I4210134900"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092899869",
+        "display_name": "Kai Ziegler-Martin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126310",
+          "display_name": "Universitätsklinikum Würzburg",
+          "ror": "https://ror.org/03pvr2g57",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210126310"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kai Ziegler-Martin",
+      "raw_affiliation_strings": [
+        "Chair for Cellular Immunotherapy, Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Chair for Cellular Immunotherapy, Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210126310"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042768239",
+        "display_name": "Pascal Benz",
+        "orcid": "https://orcid.org/0000-0002-8737-9441"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126310",
+          "display_name": "Universitätsklinikum Würzburg",
+          "ror": "https://ror.org/03pvr2g57",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210126310"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pascal Benz",
+      "raw_affiliation_strings": [
+        "Chair for Cellular Immunotherapy, Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Chair for Cellular Immunotherapy, Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210126310"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001879324",
+        "display_name": "Philipp Schatzlmaier",
+        "orcid": "https://orcid.org/0000-0003-0555-8866"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Schatzlmaier",
+      "raw_affiliation_strings": [
+        "Medical University of Vienna, Center for Pathophysiology, Infectiology and Immunology, Institute for Hygiene and Applied Immunology, Vienna, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical University of Vienna, Center for Pathophysiology, Infectiology and Immunology, Institute for Hygiene and Applied Immunology, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077222776",
+        "display_name": "Karsten Hiller",
+        "orcid": "https://orcid.org/0000-0001-9322-5820"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I94509681",
+          "display_name": "Technische Universität Braunschweig",
+          "ror": "https://ror.org/010nsgg66",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I94509681"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karsten Hiller",
+      "raw_affiliation_strings": [
+        "Department of Bioinformatics and Biochemistry, Braunschweig Integrated Centre of Systems Biology, Technical University of Braunschweig, Braunschweig, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Bioinformatics and Biochemistry, Braunschweig Integrated Centre of Systems Biology, Technical University of Braunschweig, Braunschweig, Germany",
+          "institution_ids": [
+            "https://openalex.org/I94509681"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084552272",
+        "display_name": "Hannes Stockinger",
+        "orcid": "https://orcid.org/0000-0001-6404-4430"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hannes Stockinger",
+      "raw_affiliation_strings": [
+        "Medical University of Vienna, Center for Pathophysiology, Infectiology and Immunology, Institute for Hygiene and Applied Immunology, Vienna, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical University of Vienna, Center for Pathophysiology, Infectiology and Immunology, Institute for Hygiene and Applied Immunology, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056190718",
+        "display_name": "Maik Luu",
+        "orcid": "https://orcid.org/0000-0003-2843-3919"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126310",
+          "display_name": "Universitätsklinikum Würzburg",
+          "ror": "https://ror.org/03pvr2g57",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210126310"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maik Luu",
+      "raw_affiliation_strings": [
+        "Chair for Cellular Immunotherapy, Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Chair for Cellular Immunotherapy, Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210126310"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002329046",
+        "display_name": "Kilian Schober",
+        "orcid": "https://orcid.org/0000-0001-9323-9472"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I181369854",
+          "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+          "ror": "https://ror.org/00f7hpc57",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I181369854"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088053",
+          "display_name": "Universitätsklinikum Erlangen",
+          "ror": "https://ror.org/0030f2a11",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210088053"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kilian Schober",
+      "raw_affiliation_strings": [
+        "FAU Profile Center Immunomedicine, FAU Erlangen-Nürnberg, Erlangen, Germany",
+        "Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany",
+        "Mikrobiologisches Institut—Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "FAU Profile Center Immunomedicine, FAU Erlangen-Nürnberg, Erlangen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I181369854"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I181369854",
+            "https://openalex.org/I4210088053"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Mikrobiologisches Institut—Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210088053"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012967585",
+        "display_name": "Carolin Moosmann",
+        "orcid": "https://orcid.org/0000-0002-7891-4019"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I181369854",
+          "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+          "ror": "https://ror.org/00f7hpc57",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I181369854"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088053",
+          "display_name": "Universitätsklinikum Erlangen",
+          "ror": "https://ror.org/0030f2a11",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210088053"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Carolin Moosmann",
+      "raw_affiliation_strings": [
+        "Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany",
+        "Mikrobiologisches Institut—Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Mikrobiologisches Institut-Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I181369854",
+            "https://openalex.org/I4210088053"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Mikrobiologisches Institut—Klinische Mikrobiologie, Immunologie und Hygiene, Universitätsklinikum Erlangen und Friedrich-Alexander-Universität Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, Erlangen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210088053"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033597781",
+        "display_name": "Wolfgang W. Schamel",
+        "orcid": "https://orcid.org/0000-0003-4496-3100"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161046081",
+          "display_name": "University of Freiburg",
+          "ror": "https://ror.org/0245cg223",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161046081"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wolfgang W. Schamel",
+      "raw_affiliation_strings": [
+        "Center of Chronic Immunodeficiency, University Clinics and Medical Faculty, University of Freiburg, Freiburg, Germany",
+        "Institute of Biology III, Faculty of Biology and Signalling Research Centres BIOSS and CIBSS, University of Freiburg, Freiburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center of Chronic Immunodeficiency, University Clinics and Medical Faculty, University of Freiburg, Freiburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Biology III, Faculty of Biology and Signalling Research Centres BIOSS and CIBSS, University of Freiburg, Freiburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003119147",
+        "display_name": "Magdalena Huber",
+        "orcid": "https://orcid.org/0000-0002-2963-0693"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Huber",
+      "raw_affiliation_strings": [
+        "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5083436454",
+        "display_name": "Christina E. Zielinski",
+        "orcid": "https://orcid.org/0000-0002-8184-0858"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210162077",
+          "display_name": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut (HKI)",
+          "ror": "https://ror.org/055s37c97",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210162077"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76198965",
+          "display_name": "Friedrich Schiller University Jena",
+          "ror": "https://ror.org/05qpz1x62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76198965"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Christina E. Zielinski",
+      "raw_affiliation_strings": [
+        "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany. christina.zielinski@uni-jena.de",
+        "Institute of Microbiology, Faculty of Biological Sciences, Friedrich Schiller University Jena, Jena, Germany. christina.zielinski@uni-jena.de",
+        "Technical University of Munich, Munich, Germany. christina.zielinski@uni-jena.de",
+        "Institute of Microbiology, Faculty of Biological Sciences, Friedrich Schiller University Jena, Jena, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8184-0858",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Infection Immunology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knöll Institute, Jena, Germany. christina.zielinski@uni-jena.de",
+          "institution_ids": [
+            "https://openalex.org/I4210162077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Microbiology, Faculty of Biological Sciences, Friedrich Schiller University Jena, Jena, Germany. christina.zielinski@uni-jena.de",
+          "institution_ids": [
+            "https://openalex.org/I76198965"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Technical University of Munich, Munich, Germany. christina.zielinski@uni-jena.de",
+          "institution_ids": [
+            "https://openalex.org/I62916508"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Microbiology, Faculty of Biological Sciences, Friedrich Schiller University Jena, Jena, Germany",
+          "institution_ids": [
+            "https://openalex.org/I76198965"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 26,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5083436454"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210162077",
+    "https://openalex.org/I62916508",
+    "https://openalex.org/I76198965"
+  ],
+  "apc_list": {
+    "value": 9750,
+    "currency": "EUR",
+    "value_usd": 11690
+  },
+  "apc_paid": {
+    "value": 9750,
+    "currency": "EUR",
+    "value_usd": 11690
+  },
+  "fwci": 10.6937,
+  "has_fulltext": true,
+  "cited_by_count": 50,
+  "citation_normalized_percentile": {
+    "value": 0.98873325,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "25",
+    "issue": "10",
+    "first_page": "1830",
+    "last_page": "1844"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11266",
+    "display_name": "Neuroinflammation and Neurodegeneration Mechanisms",
+    "score": 0.9890999794006348,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2808",
+      "display_name": "Neurology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11266",
+      "display_name": "Neuroinflammation and Neurodegeneration Mechanisms",
+      "score": 0.9890999794006348,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2808",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11337",
+      "display_name": "Tryptophan and brain disorders",
+      "score": 0.9837999939918518,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2803",
+        "display_name": "Biological Psychiatry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11020",
+      "display_name": "Immune Cell Function and Interaction",
+      "score": 0.9559000134468079,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cytotoxicity",
+      "display_name": "Cytotoxicity",
+      "score": 0.7664744853973389
+    },
+    {
+      "id": "https://openalex.org/keywords/tumor-microenvironment",
+      "display_name": "Tumor microenvironment",
+      "score": 0.5735008716583252
+    },
+    {
+      "id": "https://openalex.org/keywords/sodium",
+      "display_name": "Sodium",
+      "score": 0.5685379505157471
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.5115324258804321
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.4715965688228607
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.42745065689086914
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.3887721300125122
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-research",
+      "display_name": "Cancer research",
+      "score": 0.3865766227245331
+    },
+    {
+      "id": "https://openalex.org/keywords/tumor-cells",
+      "display_name": "Tumor cells",
+      "score": 0.3626323342323303
+    },
+    {
+      "id": "https://openalex.org/keywords/microbiology",
+      "display_name": "Microbiology",
+      "score": 0.3327869176864624
+    },
+    {
+      "id": "https://openalex.org/keywords/in-vitro",
+      "display_name": "In vitro",
+      "score": 0.18060460686683655
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C109316439",
+      "wikidata": "https://www.wikidata.org/wiki/Q246181",
+      "display_name": "Cytotoxicity",
+      "level": 3,
+      "score": 0.7664744853973389
+    },
+    {
+      "id": "https://openalex.org/C2776107976",
+      "wikidata": "https://www.wikidata.org/wiki/Q1786433",
+      "display_name": "Tumor microenvironment",
+      "level": 3,
+      "score": 0.5735008716583252
+    },
+    {
+      "id": "https://openalex.org/C537181965",
+      "wikidata": "https://www.wikidata.org/wiki/Q658",
+      "display_name": "Sodium",
+      "level": 2,
+      "score": 0.5685379505157471
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.5115324258804321
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.4715965688228607
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.42745065689086914
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.3887721300125122
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.3865766227245331
+    },
+    {
+      "id": "https://openalex.org/C3020616263",
+      "wikidata": "https://www.wikidata.org/wiki/Q1216998",
+      "display_name": "Tumor cells",
+      "level": 2,
+      "score": 0.3626323342323303
+    },
+    {
+      "id": "https://openalex.org/C89423630",
+      "wikidata": "https://www.wikidata.org/wiki/Q7193",
+      "display_name": "Microbiology",
+      "level": 1,
+      "score": 0.3327869176864624
+    },
+    {
+      "id": "https://openalex.org/C202751555",
+      "wikidata": "https://www.wikidata.org/wiki/Q221681",
+      "display_name": "In vitro",
+      "level": 2,
+      "score": 0.18060460686683655
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000254",
+      "descriptor_name": "Sodium-Potassium-Exchanging ATPase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000254",
+      "descriptor_name": "Sodium-Potassium-Exchanging ATPase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000254",
+      "descriptor_name": "Sodium-Potassium-Exchanging ATPase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000254",
+      "descriptor_name": "Sodium-Potassium-Exchanging ATPase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000254",
+      "descriptor_name": "Sodium-Potassium-Exchanging ATPase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000254",
+      "descriptor_name": "Sodium-Potassium-Exchanging ATPase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001943",
+      "descriptor_name": "Breast Neoplasms",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003602",
+      "descriptor_name": "Cytotoxicity, Immunologic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003602",
+      "descriptor_name": "Cytotoxicity, Immunologic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003602",
+      "descriptor_name": "Cytotoxicity, Immunologic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003602",
+      "descriptor_name": "Cytotoxicity, Immunologic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003602",
+      "descriptor_name": "Cytotoxicity, Immunologic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003602",
+      "descriptor_name": "Cytotoxicity, Immunologic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011948",
+      "descriptor_name": "Receptors, Antigen, T-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011948",
+      "descriptor_name": "Receptors, Antigen, T-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011948",
+      "descriptor_name": "Receptors, Antigen, T-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011948",
+      "descriptor_name": "Receptors, Antigen, T-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011948",
+      "descriptor_name": "Receptors, Antigen, T-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011948",
+      "descriptor_name": "Receptors, Antigen, T-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012965",
+      "descriptor_name": "Sodium Chloride",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012965",
+      "descriptor_name": "Sodium Chloride",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012965",
+      "descriptor_name": "Sodium Chloride",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012965",
+      "descriptor_name": "Sodium Chloride",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012965",
+      "descriptor_name": "Sodium Chloride",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012965",
+      "descriptor_name": "Sodium Chloride",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013602",
+      "descriptor_name": "T-Lymphocytes, Cytotoxic",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018414",
+      "descriptor_name": "CD8-Positive T-Lymphocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41590-024-01918-6",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41590-024-01918-6",
+      "pdf_url": "https://www.nature.com/articles/s41590-024-01918-6.pdf",
+      "source": {
+        "id": "https://openalex.org/S41063453",
+        "display_name": "Nature Immunology",
+        "issn_l": "1529-2908",
+        "issn": [
+          "1529-2908",
+          "1529-2916"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Immunology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39198632",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39198632",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature immunology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11436365",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11436365",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11436365/pdf/41590_2024_Article_1918.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nat Immunol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:freidok.uni-freiburg.de:261456",
+      "is_oa": false,
+      "landing_page_url": "https://freidok.uni-freiburg.de/data/261456",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401057",
+        "display_name": "FreiDok plus (Universitätsbibliothek Freiburg)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I161046081",
+        "host_organization_name": "University of Freiburg",
+        "host_organization_lineage": [
+          "https://openalex.org/I161046081"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature immunology. - 25, 10 (2024) , 1830-1844, ISSN: 1529-2916",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:push-zb.helmholtz-munich.de:71566",
+      "is_oa": false,
+      "landing_page_url": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=71566",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407055352",
+        "display_name": "PuSH - Publication Server of Helmholtz Zentrum München",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nat. Immunol., DOI: 10.1038/s41590-024-01918-6 (2024)",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41590-024-01918-6",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41590-024-01918-6",
+    "pdf_url": "https://www.nature.com/articles/s41590-024-01918-6.pdf",
+    "source": {
+      "id": "https://openalex.org/S41063453",
+      "display_name": "Nature Immunology",
+      "issn_l": "1529-2908",
+      "issn": [
+        "1529-2908",
+        "1529-2916"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Immunology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.8299999833106995,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1153117107",
+      "display_name": null,
+      "funder_award_id": "SFB 1054",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G355258679",
+      "display_name": null,
+      "funder_award_id": "GSC-4",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G3772212583",
+      "display_name": null,
+      "funder_award_id": "SFB 1335",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G6397277982",
+      "display_name": null,
+      "funder_award_id": "BIOSS-EXC294",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G6702324111",
+      "display_name": null,
+      "funder_award_id": "210879364",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G7434790516",
+      "display_name": null,
+      "funder_award_id": "101034170",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G7834926592",
+      "display_name": null,
+      "funder_award_id": "EXC294",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8034424832",
+      "display_name": null,
+      "funder_award_id": "EXC2189",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8055992262",
+      "display_name": null,
+      "funder_award_id": "CIBSS-EXC2189",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8083281736",
+      "display_name": null,
+      "funder_award_id": "210592381",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8440331381",
+      "display_name": null,
+      "funder_award_id": "SFB 124",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8636036272",
+      "display_name": null,
+      "funder_award_id": "SFB1054, SFB1335, FungiNet",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309895",
+      "display_name": "Carl-Zeiss-Stiftung",
+      "ror": "https://ror.org/03ng4kg22"
+    },
+    {
+      "id": "https://openalex.org/F4320313941",
+      "display_name": "Friedrich-Schiller-Universität Jena",
+      "ror": "https://ror.org/05qpz1x62"
+    },
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    },
+    {
+      "id": "https://openalex.org/F4320325658",
+      "display_name": "Debreceni Egyetem",
+      "ror": "https://ror.org/02xf66n48"
+    },
+    {
+      "id": "https://openalex.org/F4320332999",
+      "display_name": "Horizon 2020 Framework Programme",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320334763",
+      "display_name": "Leibniz-Gemeinschaft",
+      "ror": "https://ror.org/01n6r0e97"
+    },
+    {
+      "id": "https://openalex.org/F4320335947",
+      "display_name": "Universitätsklinikum Hamburg-Eppendorf",
+      "ror": "https://ror.org/01zgy1s35"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4401958901.pdf"
+  },
+  "referenced_works_count": 77,
+  "referenced_works": [
+    "https://openalex.org/W1519533633",
+    "https://openalex.org/W1561170911",
+    "https://openalex.org/W1680442092",
+    "https://openalex.org/W1824732500",
+    "https://openalex.org/W1964081728",
+    "https://openalex.org/W1967530659",
+    "https://openalex.org/W1970509697",
+    "https://openalex.org/W1975566288",
+    "https://openalex.org/W1992250154",
+    "https://openalex.org/W2001917660",
+    "https://openalex.org/W2011756793",
+    "https://openalex.org/W2012739094",
+    "https://openalex.org/W2019968039",
+    "https://openalex.org/W2020708758",
+    "https://openalex.org/W2028596323",
+    "https://openalex.org/W2043897997",
+    "https://openalex.org/W2045610392",
+    "https://openalex.org/W2057989932",
+    "https://openalex.org/W2079999658",
+    "https://openalex.org/W2098503878",
+    "https://openalex.org/W2112837750",
+    "https://openalex.org/W2115082024",
+    "https://openalex.org/W2116676186",
+    "https://openalex.org/W2141224543",
+    "https://openalex.org/W2144288685",
+    "https://openalex.org/W2144491853",
+    "https://openalex.org/W2154911070",
+    "https://openalex.org/W2166682010",
+    "https://openalex.org/W2169149643",
+    "https://openalex.org/W2169456326",
+    "https://openalex.org/W2169903226",
+    "https://openalex.org/W2179438025",
+    "https://openalex.org/W2253333228",
+    "https://openalex.org/W2285185214",
+    "https://openalex.org/W2285239684",
+    "https://openalex.org/W2328548852",
+    "https://openalex.org/W2332292689",
+    "https://openalex.org/W2336322268",
+    "https://openalex.org/W2402962857",
+    "https://openalex.org/W2406250479",
+    "https://openalex.org/W2519107733",
+    "https://openalex.org/W2541574334",
+    "https://openalex.org/W2588304745",
+    "https://openalex.org/W2592811885",
+    "https://openalex.org/W2607812718",
+    "https://openalex.org/W2774264760",
+    "https://openalex.org/W2808837841",
+    "https://openalex.org/W2810097927",
+    "https://openalex.org/W2885770511",
+    "https://openalex.org/W2887274658",
+    "https://openalex.org/W2899010137",
+    "https://openalex.org/W2905650907",
+    "https://openalex.org/W2924300946",
+    "https://openalex.org/W2954835438",
+    "https://openalex.org/W3015097943",
+    "https://openalex.org/W3029533837",
+    "https://openalex.org/W3045576138",
+    "https://openalex.org/W3051479578",
+    "https://openalex.org/W3080945506",
+    "https://openalex.org/W3091717182",
+    "https://openalex.org/W3123130740",
+    "https://openalex.org/W3157853435",
+    "https://openalex.org/W3161479873",
+    "https://openalex.org/W3173871122",
+    "https://openalex.org/W3183161080",
+    "https://openalex.org/W4210448391",
+    "https://openalex.org/W4242289937",
+    "https://openalex.org/W4283271543",
+    "https://openalex.org/W4285604883",
+    "https://openalex.org/W4313561610",
+    "https://openalex.org/W4319346474",
+    "https://openalex.org/W4386741004",
+    "https://openalex.org/W4389477717",
+    "https://openalex.org/W4401958901",
+    "https://openalex.org/W6655462253",
+    "https://openalex.org/W6684826817",
+    "https://openalex.org/W6911364920"
+  ],
+  "related_works": [
+    "https://openalex.org/W2366562690",
+    "https://openalex.org/W2796949944",
+    "https://openalex.org/W2395219877",
+    "https://openalex.org/W3092521730",
+    "https://openalex.org/W2045299745",
+    "https://openalex.org/W2526146276",
+    "https://openalex.org/W2358141151",
+    "https://openalex.org/W2361233661",
+    "https://openalex.org/W2347258828",
+    "https://openalex.org/W4401583608"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1
+    ],
+    "efficacy": [
+      2
+    ],
+    "of": [
+      3,
+      12,
+      44,
+      64,
+      104,
+      140,
+      152
+    ],
+    "antitumor": [
+      4,
+      28,
+      142
+    ],
+    "immunity": [
+      5,
+      143
+    ],
+    "is": [
+      6,
+      17,
+      31,
+      41,
+      71,
+      136
+    ],
+    "associated": [
+      7,
+      72
+    ],
+    "with": [
+      8,
+      51,
+      73
+    ],
+    "the": [
+      9,
+      20,
+      34,
+      58,
+      117
+    ],
+    "metabolic": [
+      10,
+      75
+    ],
+    "state": [
+      11,
+      60
+    ],
+    "cytotoxic": [
+      13
+    ],
+    "T": [
+      14,
+      68,
+      97,
+      121,
+      154,
+      159
+    ],
+    "cells,": [
+      15,
+      69,
+      155
+    ],
+    "which": [
+      16,
+      70,
+      115
+    ],
+    "sensitive": [
+      18
+    ],
+    "to": [
+      19,
+      101
+    ],
+    "tumor": [
+      21,
+      83
+    ],
+    "microenvironment.": [
+      22
+    ],
+    "Whether": [
+      23
+    ],
+    "ionic": [
+      24
+    ],
+    "signals": [
+      25
+    ],
+    "affect": [
+      26
+    ],
+    "adaptive": [
+      27
+    ],
+    "immune": [
+      29
+    ],
+    "responses": [
+      30
+    ],
+    "unclear.": [
+      32
+    ],
+    "In": [
+      33
+    ],
+    "present": [
+      35
+    ],
+    "study,": [
+      36
+    ],
+    "we": [
+      37
+    ],
+    "show": [
+      38
+    ],
+    "that": [
+      39,
+      134,
+      144
+    ],
+    "there": [
+      40
+    ],
+    "an": [
+      42
+    ],
+    "enrichment": [
+      43
+    ],
+    "sodium": [
+      45
+    ],
+    "in": [
+      46,
+      86,
+      89,
+      94
+    ],
+    "solid": [
+      47
+    ],
+    "tumors": [
+      48
+    ],
+    "from": [
+      49
+    ],
+    "patients": [
+      50
+    ],
+    "breast": [
+      52
+    ],
+    "cancer.": [
+      53
+    ],
+    "Sodium": [
+      54
+    ],
+    "chloride": [
+      55
+    ],
+    "(NaCl)": [
+      56
+    ],
+    "enhances": [
+      57
+    ],
+    "activation": [
+      59
+    ],
+    "and": [
+      61,
+      88,
+      127
+    ],
+    "effector": [
+      62
+    ],
+    "functions": [
+      63
+    ],
+    "human": [
+      65
+    ],
+    "CD8": [
+      66,
+      95
+    ],
+    "+": [
+      67,
+      96,
+      106,
+      108
+    ],
+    "enhanced": [
+      74
+    ],
+    "fitness.": [
+      76
+    ],
+    "These": [
+      77
+    ],
+    "NaCl-induced": [
+      78,
+      92
+    ],
+    "effects": [
+      79
+    ],
+    "translate": [
+      80
+    ],
+    "into": [
+      81
+    ],
+    "increased": [
+      82
+    ],
+    "cell": [
+      84,
+      122
+    ],
+    "killing": [
+      85
+    ],
+    "vitro": [
+      87
+    ],
+    "vivo.": [
+      90
+    ],
+    "Mechanistically,": [
+      91
+    ],
+    "changes": [
+      93
+    ],
+    "cells": [
+      98
+    ],
+    "are": [
+      99
+    ],
+    "linked": [
+      100
+    ],
+    "sodium-induced": [
+      102
+    ],
+    "upregulation": [
+      103
+    ],
+    "Na": [
+      105
+    ],
+    "/K": [
+      107
+    ],
+    "-ATPase": [
+      109
+    ],
+    "activity,": [
+      110
+    ],
+    "followed": [
+      111
+    ],
+    "by": [
+      112
+    ],
+    "membrane": [
+      113
+    ],
+    "hyperpolarization,": [
+      114
+    ],
+    "magnifies": [
+      116
+    ],
+    "electromotive": [
+      118
+    ],
+    "force": [
+      119
+    ],
+    "for": [
+      120,
+      148
+    ],
+    "receptor": [
+      123
+    ],
+    "(TCR)-induced": [
+      124
+    ],
+    "calcium": [
+      125
+    ],
+    "influx": [
+      126
+    ],
+    "downstream": [
+      128
+    ],
+    "TCR": [
+      129
+    ],
+    "signaling.": [
+      130
+    ],
+    "We": [
+      131
+    ],
+    "therefore": [
+      132
+    ],
+    "propose": [
+      133
+    ],
+    "NaCl": [
+      135
+    ],
+    "a": [
+      137
+    ],
+    "positive": [
+      138
+    ],
+    "regulator": [
+      139
+    ],
+    "acute": [
+      141
+    ],
+    "might": [
+      145
+    ],
+    "be": [
+      146
+    ],
+    "modulated": [
+      147
+    ],
+    "ex": [
+      149
+    ],
+    "vivo": [
+      150
+    ],
+    "conditioning": [
+      151
+    ],
+    "therapeutic": [
+      153
+    ],
+    "such": [
+      156
+    ],
+    "as": [
+      157
+    ],
+    "CAR": [
+      158
+    ],
+    "cells.": [
+      160
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,812 @@
+{
+  "id": "https://openalex.org/W2960011737",
+  "doi": "https://doi.org/10.17559/tv-20170511125234",
+  "title": "Investigation of the Effect of Workpiece Resolution on Milling Simulation Accuracy in Production Module 3D CAE Software",
+  "display_name": "Investigation of the Effect of Workpiece Resolution on Milling Simulation Accuracy in Production Module 3D CAE Software",
+  "publication_year": 2018,
+  "publication_date": "2018-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2960011737",
+    "doi": "https://doi.org/10.17559/tv-20170511125234",
+    "mag": "2960011737"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.17559/tv-20170511125234",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.17559/tv-20170511125234",
+    "pdf_url": "https://hrcak.srce.hr/file/304778",
+    "source": {
+      "id": "https://openalex.org/S1003953879",
+      "display_name": "Tehnicki vjesnik - Technical Gazette",
+      "issn_l": "1330-3651",
+      "issn": [
+        "1330-3651",
+        "1848-6339"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310314774",
+      "host_organization_name": "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering i",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310314774"
+      ],
+      "host_organization_lineage_names": [
+        "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering i"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Tehnicki vjesnik - Technical Gazette",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://hrcak.srce.hr/file/304778",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5107813569",
+        "display_name": "Piotr Löschner",
+        "orcid": "https://orcid.org/0009-0002-1787-1577"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Löschner, Piotr",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Faculty of Mechanical Engineering, Mikołajczyka 5 st., 45-271 Opole, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Faculty of Mechanical Engineering, Mikołajczyka 5 st., 45-271 Opole, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089246004",
+        "display_name": "Krzysztof Jarosz",
+        "orcid": "https://orcid.org/0000-0003-3210-1749"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jarosz, Krzysztof",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Faculty of Mechanical Engineering, Mikołajczyka 5 st., 45-271 Opole, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Faculty of Mechanical Engineering, Mikołajczyka 5 st., 45-271 Opole, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5077973039",
+        "display_name": "Piotr Niesłony",
+        "orcid": "https://orcid.org/0000-0001-8776-8458"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Niesłony, Piotr",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Faculty of Mechanical Engineering, Mikołajczyka 5 st., 45-271 Opole, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Faculty of Mechanical Engineering, Mikołajczyka 5 st., 45-271 Opole, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 400,
+    "currency": "EUR",
+    "value_usd": 431
+  },
+  "apc_paid": {
+    "value": 400,
+    "currency": "EUR",
+    "value_usd": 431
+  },
+  "fwci": 0.1709,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.54876726,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "25",
+    "issue": "5",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10188",
+    "display_name": "Advanced machining processes and optimization",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10188",
+      "display_name": "Advanced machining processes and optimization",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11159",
+      "display_name": "Manufacturing Process and Optimization",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11301",
+      "display_name": "Advanced Surface Polishing Techniques",
+      "score": 0.995199978351593,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.6346660852432251
+    },
+    {
+      "id": "https://openalex.org/keywords/production",
+      "display_name": "Production (economics)",
+      "score": 0.5280095934867859
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing-engineering",
+      "display_name": "Manufacturing engineering",
+      "score": 0.5037590861320496
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-drawing",
+      "display_name": "Engineering drawing",
+      "score": 0.4454762935638428
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.41826432943344116
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.40124738216400146
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.32993757724761963
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.06766828894615173
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.6346660852432251
+    },
+    {
+      "id": "https://openalex.org/C2778348673",
+      "wikidata": "https://www.wikidata.org/wiki/Q739302",
+      "display_name": "Production (economics)",
+      "level": 2,
+      "score": 0.5280095934867859
+    },
+    {
+      "id": "https://openalex.org/C117671659",
+      "wikidata": "https://www.wikidata.org/wiki/Q11049265",
+      "display_name": "Manufacturing engineering",
+      "level": 1,
+      "score": 0.5037590861320496
+    },
+    {
+      "id": "https://openalex.org/C199639397",
+      "wikidata": "https://www.wikidata.org/wiki/Q1788588",
+      "display_name": "Engineering drawing",
+      "level": 1,
+      "score": 0.4454762935638428
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.41826432943344116
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.40124738216400146
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.32993757724761963
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.06766828894615173
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.17559/tv-20170511125234",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.17559/tv-20170511125234",
+      "pdf_url": "https://hrcak.srce.hr/file/304778",
+      "source": {
+        "id": "https://openalex.org/S1003953879",
+        "display_name": "Tehnicki vjesnik - Technical Gazette",
+        "issn_l": "1330-3651",
+        "issn": [
+          "1330-3651",
+          "1848-6339"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310314774",
+        "host_organization_name": "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering i",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310314774"
+        ],
+        "host_organization_lineage_names": [
+          "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering i"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Tehnicki vjesnik - Technical Gazette",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:11767b2ce3364f0a97fe88d4dc1c7181",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/11767b2ce3364f0a97fe88d4dc1c7181",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Tehnički Vjesnik, Vol 25, Iss 5, Pp 1384-1388 (2018)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.17559/tv-20170511125234",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.17559/tv-20170511125234",
+    "pdf_url": "https://hrcak.srce.hr/file/304778",
+    "source": {
+      "id": "https://openalex.org/S1003953879",
+      "display_name": "Tehnicki vjesnik - Technical Gazette",
+      "issn_l": "1330-3651",
+      "issn": [
+        "1330-3651",
+        "1848-6339"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310314774",
+      "host_organization_name": "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering i",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310314774"
+      ],
+      "host_organization_lineage_names": [
+        "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering i"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Tehnicki vjesnik - Technical Gazette",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2960011737.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2960011737.grobid-xml"
+  },
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W179248629",
+    "https://openalex.org/W942535084",
+    "https://openalex.org/W2191009332",
+    "https://openalex.org/W2510249824",
+    "https://openalex.org/W2529586707",
+    "https://openalex.org/W2533791227",
+    "https://openalex.org/W2548146388",
+    "https://openalex.org/W2551940492",
+    "https://openalex.org/W2560276553",
+    "https://openalex.org/W2602953264",
+    "https://openalex.org/W2981106185"
+  ],
+  "related_works": [
+    "https://openalex.org/W4311780513",
+    "https://openalex.org/W3011091342",
+    "https://openalex.org/W4214952091",
+    "https://openalex.org/W4238368916",
+    "https://openalex.org/W2006864913",
+    "https://openalex.org/W2372702148",
+    "https://openalex.org/W2185135594",
+    "https://openalex.org/W2098000455",
+    "https://openalex.org/W2372362617",
+    "https://openalex.org/W2085928134"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      22,
+      102
+    ],
+    "aim": [
+      1
+    ],
+    "of": [
+      2,
+      10,
+      24,
+      29,
+      42,
+      53,
+      75,
+      94
+    ],
+    "this": [
+      3
+    ],
+    "work": [
+      4
+    ],
+    "was": [
+      5,
+      37,
+      82
+    ],
+    "to": [
+      6
+    ],
+    "present": [
+      7
+    ],
+    "the": [
+      8,
+      40,
+      66,
+      71,
+      92
+    ],
+    "effect": [
+      9,
+      93
+    ],
+    "workpiece": [
+      11,
+      60,
+      80,
+      95,
+      110
+    ],
+    "resolution": [
+      12,
+      25,
+      44,
+      67,
+      96
+    ],
+    "on": [
+      13,
+      45,
+      91,
+      97
+    ],
+    "simulation": [
+      14,
+      46,
+      76,
+      116
+    ],
+    "accuracy": [
+      15
+    ],
+    "in": [
+      16
+    ],
+    "Production": [
+      17
+    ],
+    "Module": [
+      18
+    ],
+    "3D": [
+      19
+    ],
+    "CAE": [
+      20
+    ],
+    "software.": [
+      21
+    ],
+    "concept": [
+      23
+    ],
+    "and": [
+      26,
+      115
+    ],
+    "working": [
+      27
+    ],
+    "principle": [
+      28
+    ],
+    "CAD": [
+      30
+    ],
+    "model": [
+      31,
+      43,
+      61
+    ],
+    "conversion": [
+      32
+    ],
+    "into": [
+      33
+    ],
+    "proprietary": [
+      34
+    ],
+    "*.TWSM": [
+      35
+    ],
+    "format": [
+      36
+    ],
+    "explained.": [
+      38
+    ],
+    "Next,": [
+      39
+    ],
+    "effects": [
+      41
+    ],
+    "results": [
+      47,
+      77,
+      85
+    ],
+    "were": [
+      48,
+      63,
+      86
+    ],
+    "presented,": [
+      49
+    ],
+    "using": [
+      50
+    ],
+    "an": [
+      51
+    ],
+    "example": [
+      52
+    ],
+    "a": [
+      54,
+      106
+    ],
+    "face": [
+      55
+    ],
+    "milling": [
+      56
+    ],
+    "operation.": [
+      57
+    ],
+    "Four": [
+      58
+    ],
+    "different": [
+      59,
+      79
+    ],
+    "resolutions": [
+      62,
+      81
+    ],
+    "used,": [
+      64
+    ],
+    "including": [
+      65
+    ],
+    "value": [
+      68
+    ],
+    "recommended": [
+      69
+    ],
+    "by": [
+      70
+    ],
+    "software": [
+      72
+    ],
+    "developer.": [
+      73
+    ],
+    "Comparison": [
+      74
+    ],
+    "for": [
+      78
+    ],
+    "conducted,": [
+      83
+    ],
+    "obtained": [
+      84
+    ],
+    "analysed,": [
+      87
+    ],
+    "with": [
+      88
+    ],
+    "particular": [
+      89
+    ],
+    "focus": [
+      90
+    ],
+    "simulated": [
+      98
+    ],
+    "cutting": [
+      99
+    ],
+    "force": [
+      100
+    ],
+    "values.": [
+      101
+    ],
+    "authors": [
+      103
+    ],
+    "have": [
+      104
+    ],
+    "found": [
+      105
+    ],
+    "substantial": [
+      107
+    ],
+    "link": [
+      108
+    ],
+    "between": [
+      109
+    ],
+    "resolution,": [
+      111
+    ],
+    "material": [
+      112
+    ],
+    "removal": [
+      113
+    ],
+    "rate": [
+      114
+    ],
+    "accuracy.": [
+      117
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2019-07-23T00:00:00"
+}

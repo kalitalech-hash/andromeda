@@ -1,0 +1,1986 @@
+{
+  "id": "https://openalex.org/W4393189554",
+  "doi": "https://doi.org/10.1016/j.ejcb.2024.151407",
+  "title": "Reorganization of the actin cytoskeleton during the formation of neutrophil extracellular traps (NETs)",
+  "display_name": "Reorganization of the actin cytoskeleton during the formation of neutrophil extracellular traps (NETs)",
+  "publication_year": 2024,
+  "publication_date": "2024-03-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4393189554",
+    "doi": "https://doi.org/10.1016/j.ejcb.2024.151407",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38555846"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.ejcb.2024.151407",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.ejcb.2024.151407",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S170067410",
+      "display_name": "European Journal of Cell Biology",
+      "issn_l": "0171-9335",
+      "issn": [
+        "0171-9335",
+        "1618-1298"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Journal of Cell Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.ejcb.2024.151407",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5081928564",
+        "display_name": "Hans Georg Mannherz",
+        "orcid": "https://orcid.org/0000-0001-8158-5722"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210138993",
+          "display_name": "St. Josef-Hospital",
+          "ror": "https://ror.org/046vare28",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799784675",
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I4210153564"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Hans Georg Mannherz",
+      "raw_affiliation_strings": [
+        "Department of Anatomy and Molecular Embryology, Medical Faculty, Ruhr-University Bochum, Germany; Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: hans.g.mannherz@rub.de",
+        "Department of Anatomy and Molecular Embryology, Medical Faculty, Ruhr-University Bochum, Germany",
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Anatomy and Molecular Embryology, Medical Faculty, Ruhr-University Bochum, Germany; Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: hans.g.mannherz@rub.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Anatomy and Molecular Embryology, Medical Faculty, Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026145133",
+        "display_name": "Heidi Budde",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210138993",
+          "display_name": "St. Josef-Hospital",
+          "ror": "https://ror.org/046vare28",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799784675",
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I4210153564"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Heidi Budde",
+      "raw_affiliation_strings": [
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: heidi.budde@rub.de",
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: heidi.budde@rub.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073054466",
+        "display_name": "Muhammad Jarkas",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210138993",
+          "display_name": "St. Josef-Hospital",
+          "ror": "https://ror.org/046vare28",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799784675",
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I4210153564"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Muhammad Jarkas",
+      "raw_affiliation_strings": [
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: muhammad.jargas@rub.de",
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: muhammad.jargas@rub.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109625898",
+        "display_name": "Roua Hassoun",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210138993",
+          "display_name": "St. Josef-Hospital",
+          "ror": "https://ror.org/046vare28",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799784675",
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I4210153564"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Roua Hassoun",
+      "raw_affiliation_strings": [
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: roua.hassoun@rub.de",
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany. Electronic address: roua.hassoun@rub.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058885723",
+        "display_name": "Natalia Małek",
+        "orcid": "https://orcid.org/0000-0003-3602-5122"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I219388962",
+          "display_name": "University of Wrocław",
+          "ror": "https://ror.org/00yae6e25",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I219388962"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalia Malek-Chudzik",
+      "raw_affiliation_strings": [
+        "Department of Chemical Biology and Bioimaging, Faculty of Chemistry, University of Wroclaw, Poland. Electronic address: natalia.malek-chudik@pwr.edu.pl",
+        "Department of Chemical Biology and Bioimaging, Faculty of Chemistry, University of Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemical Biology and Bioimaging, Faculty of Chemistry, University of Wroclaw, Poland. Electronic address: natalia.malek-chudik@pwr.edu.pl",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Chemical Biology and Bioimaging, Faculty of Chemistry, University of Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I219388962"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025960149",
+        "display_name": "Antonina Joanna Mazur",
+        "orcid": "https://orcid.org/0000-0002-7561-9030"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I219388962",
+          "display_name": "University of Wrocław",
+          "ror": "https://ror.org/00yae6e25",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I219388962"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antonina J. Mazur",
+      "raw_affiliation_strings": [
+        "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, Poland. Electronic address: antonina.mazur@uwr.edu.pl",
+        "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, Poland. Electronic address: antonina.mazur@uwr.edu.pl",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I219388962"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086637174",
+        "display_name": "Jelena Škuljec",
+        "orcid": "https://orcid.org/0000-0001-8509-6563"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210119759",
+          "display_name": "Essen University Hospital",
+          "ror": "https://ror.org/02na8dn90",
+          "country_code": "DE",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I4210119759"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jelena Skuljec",
+      "raw_affiliation_strings": [
+        "Department of Neurology, University Medicine Essen, Germany; Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany. Electronic address: jelena.skuljec@uk-essen.de",
+        "Department of Neurology, University Medicine Essen, Germany",
+        "Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neurology, University Medicine Essen, Germany; Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany. Electronic address: jelena.skuljec@uk-essen.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Neurology, University Medicine Essen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210119759"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034443516",
+        "display_name": "Refik Pul",
+        "orcid": "https://orcid.org/0000-0002-8940-9317"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210119759",
+          "display_name": "Essen University Hospital",
+          "ror": "https://ror.org/02na8dn90",
+          "country_code": "DE",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I4210119759"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Refik Pul",
+      "raw_affiliation_strings": [
+        "Department of Neurology, University Medicine Essen, Germany; Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany. Electronic address: refik.pul@uk-essen.de",
+        "Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany",
+        "Department of Neurology, University Medicine Essen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neurology, University Medicine Essen, Germany; Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany. Electronic address: refik.pul@uk-essen.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Neurology, University Medicine Essen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210119759"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076748060",
+        "display_name": "Markus Napirei",
+        "orcid": "https://orcid.org/0000-0003-1300-3246"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Markus Napirei",
+      "raw_affiliation_strings": [
+        "Department of Anatomy and Molecular Embryology, Medical Faculty, Ruhr-University Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Anatomy and Molecular Embryology, Medical Faculty, Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5002233320",
+        "display_name": "Nazha Hamdani",
+        "orcid": "https://orcid.org/0000-0002-3053-0008"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I101202996",
+          "display_name": "Semmelweis University",
+          "ror": "https://ror.org/01g9ty582",
+          "country_code": "HU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I101202996"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210138993",
+          "display_name": "St. Josef-Hospital",
+          "ror": "https://ror.org/046vare28",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799784675",
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I4210153564"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "HU",
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nazha Hamdani",
+      "raw_affiliation_strings": [
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany; Department of Physiology, University Maastricht, Maastricht, the Netherlands; HCEMM-SU Cardiovascular Comorbidities Research Group, Department of Pharmacology and Pharmacotherapy, Semmelweis University, Budapest 1089, Hungary. Electronic address: nazha.hamdani@rub.de",
+        "Department of Physiology, University Maastricht, Maastricht, the Netherlands",
+        "HCEMM-SU Cardiovascular Comorbidities Research Group, Department of Pharmacology and Pharmacotherapy, Semmelweis University, 1089 Budapest, Hungary",
+        "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany; Department of Physiology, University Maastricht, Maastricht, the Netherlands; HCEMM-SU Cardiovascular Comorbidities Research Group, Department of Pharmacology and Pharmacotherapy, Semmelweis University, Budapest 1089, Hungary. Electronic address: nazha.hamdani@rub.de",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Physiology, University Maastricht, Maastricht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "raw_affiliation_string": "HCEMM-SU Cardiovascular Comorbidities Research Group, Department of Pharmacology and Pharmacotherapy, Semmelweis University, 1089 Budapest, Hungary",
+          "institution_ids": [
+            "https://openalex.org/I101202996"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Cellular and Translational Physiology, Institute of Physiology, Medical Faculty, Ruhr-University Bochum, and Molecular and Experimental Cardiology, Institute for Research and Education, St. Josef Hospital, Clinics of the Ruhr-University Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210138993",
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5081928564"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210138993",
+    "https://openalex.org/I904495901"
+  ],
+  "apc_list": {
+    "value": 2100,
+    "currency": "USD",
+    "value_usd": 2100
+  },
+  "apc_paid": {
+    "value": 2100,
+    "currency": "USD",
+    "value_usd": 2100
+  },
+  "fwci": 1.3448,
+  "has_fulltext": false,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.79543586,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "103",
+    "issue": "2",
+    "first_page": "151407",
+    "last_page": "151407"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11597",
+    "display_name": "Neutrophil, Myeloperoxidase and Oxidative Mechanisms",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2403",
+      "display_name": "Immunology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/24",
+      "display_name": "Immunology and Microbiology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11597",
+      "display_name": "Neutrophil, Myeloperoxidase and Oxidative Mechanisms",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10831",
+      "display_name": "Cell Adhesion Molecules Research",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2723",
+        "display_name": "Immunology and Allergy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12030",
+      "display_name": "S100 Proteins and Annexins",
+      "score": 0.9961000084877014,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/gelsolin",
+      "display_name": "Gelsolin",
+      "score": 0.7563807368278503
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.6425985097885132
+    },
+    {
+      "id": "https://openalex.org/keywords/actin",
+      "display_name": "Actin",
+      "score": 0.632178783416748
+    },
+    {
+      "id": "https://openalex.org/keywords/cytoskeleton",
+      "display_name": "Cytoskeleton",
+      "score": 0.6293973922729492
+    },
+    {
+      "id": "https://openalex.org/keywords/cofilin",
+      "display_name": "Cofilin",
+      "score": 0.5785953998565674
+    },
+    {
+      "id": "https://openalex.org/keywords/myosin",
+      "display_name": "Myosin",
+      "score": 0.5563086867332458
+    },
+    {
+      "id": "https://openalex.org/keywords/phalloidin",
+      "display_name": "Phalloidin",
+      "score": 0.5549529194831848
+    },
+    {
+      "id": "https://openalex.org/keywords/ionomycin",
+      "display_name": "Ionomycin",
+      "score": 0.4958711564540863
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.4732142984867096
+    },
+    {
+      "id": "https://openalex.org/keywords/neutrophil-extracellular-traps",
+      "display_name": "Neutrophil extracellular traps",
+      "score": 0.4521335959434509
+    },
+    {
+      "id": "https://openalex.org/keywords/actin-cytoskeleton",
+      "display_name": "Actin cytoskeleton",
+      "score": 0.39932912588119507
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.3363431990146637
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.27661365270614624
+    },
+    {
+      "id": "https://openalex.org/keywords/cell",
+      "display_name": "Cell",
+      "score": 0.18057778477668762
+    },
+    {
+      "id": "https://openalex.org/keywords/intracellular",
+      "display_name": "Intracellular",
+      "score": 0.10219517350196838
+    },
+    {
+      "id": "https://openalex.org/keywords/immunology",
+      "display_name": "Immunology",
+      "score": 0.07456326484680176
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C80722340",
+      "wikidata": "https://www.wikidata.org/wiki/Q18297560",
+      "display_name": "Gelsolin",
+      "level": 3,
+      "score": 0.7563807368278503
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.6425985097885132
+    },
+    {
+      "id": "https://openalex.org/C125705527",
+      "wikidata": "https://www.wikidata.org/wiki/Q185269",
+      "display_name": "Actin",
+      "level": 2,
+      "score": 0.632178783416748
+    },
+    {
+      "id": "https://openalex.org/C142669718",
+      "wikidata": "https://www.wikidata.org/wiki/Q154626",
+      "display_name": "Cytoskeleton",
+      "level": 3,
+      "score": 0.6293973922729492
+    },
+    {
+      "id": "https://openalex.org/C2776601116",
+      "wikidata": "https://www.wikidata.org/wiki/Q24786722",
+      "display_name": "Cofilin",
+      "level": 5,
+      "score": 0.5785953998565674
+    },
+    {
+      "id": "https://openalex.org/C6997183",
+      "wikidata": "https://www.wikidata.org/wiki/Q271727",
+      "display_name": "Myosin",
+      "level": 2,
+      "score": 0.5563086867332458
+    },
+    {
+      "id": "https://openalex.org/C2776861759",
+      "wikidata": "https://www.wikidata.org/wiki/Q2266164",
+      "display_name": "Phalloidin",
+      "level": 4,
+      "score": 0.5549529194831848
+    },
+    {
+      "id": "https://openalex.org/C2776989580",
+      "wikidata": "https://www.wikidata.org/wiki/Q421320",
+      "display_name": "Ionomycin",
+      "level": 3,
+      "score": 0.4958711564540863
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.4732142984867096
+    },
+    {
+      "id": "https://openalex.org/C134897094",
+      "wikidata": "https://www.wikidata.org/wiki/Q7003141",
+      "display_name": "Neutrophil extracellular traps",
+      "level": 3,
+      "score": 0.4521335959434509
+    },
+    {
+      "id": "https://openalex.org/C2993400109",
+      "wikidata": "https://www.wikidata.org/wiki/Q329638",
+      "display_name": "Actin cytoskeleton",
+      "level": 4,
+      "score": 0.39932912588119507
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3363431990146637
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.27661365270614624
+    },
+    {
+      "id": "https://openalex.org/C1491633281",
+      "wikidata": "https://www.wikidata.org/wiki/Q7868",
+      "display_name": "Cell",
+      "level": 2,
+      "score": 0.18057778477668762
+    },
+    {
+      "id": "https://openalex.org/C79879829",
+      "wikidata": "https://www.wikidata.org/wiki/Q5571762",
+      "display_name": "Intracellular",
+      "level": 2,
+      "score": 0.10219517350196838
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.07456326484680176
+    },
+    {
+      "id": "https://openalex.org/C2776914184",
+      "wikidata": "https://www.wikidata.org/wiki/Q101991",
+      "display_name": "Inflammation",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000199",
+      "descriptor_name": "Actins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008841",
+      "descriptor_name": "Actin Cytoskeleton",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008841",
+      "descriptor_name": "Actin Cytoskeleton",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008841",
+      "descriptor_name": "Actin Cytoskeleton",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008841",
+      "descriptor_name": "Actin Cytoskeleton",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009504",
+      "descriptor_name": "Neutrophils",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009504",
+      "descriptor_name": "Neutrophils",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009504",
+      "descriptor_name": "Neutrophils",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009504",
+      "descriptor_name": "Neutrophils",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018260",
+      "descriptor_name": "Gelsolin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018260",
+      "descriptor_name": "Gelsolin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018260",
+      "descriptor_name": "Gelsolin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018260",
+      "descriptor_name": "Gelsolin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018922",
+      "descriptor_name": "HL-60 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018922",
+      "descriptor_name": "HL-60 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018922",
+      "descriptor_name": "HL-60 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018922",
+      "descriptor_name": "HL-60 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D065206",
+      "descriptor_name": "Extracellular Traps",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D065206",
+      "descriptor_name": "Extracellular Traps",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D065206",
+      "descriptor_name": "Extracellular Traps",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D065206",
+      "descriptor_name": "Extracellular Traps",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.ejcb.2024.151407",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.ejcb.2024.151407",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S170067410",
+        "display_name": "European Journal of Cell Biology",
+        "issn_l": "0171-9335",
+        "issn": [
+          "0171-9335",
+          "1618-1298"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "European Journal of Cell Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38555846",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38555846",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "European journal of cell biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:cris.maastrichtuniversity.nl:openaire/ff43b7df-7ea6-41c4-a3e9-1aba837f2675",
+      "is_oa": true,
+      "landing_page_url": "https://cris.maastrichtuniversity.nl/en/publications/ff43b7df-7ea6-41c4-a3e9-1aba837f2675",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402616",
+        "display_name": "Research Publications (Maastricht University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I34352273",
+        "host_organization_name": "Maastricht University",
+        "host_organization_lineage": [
+          "https://openalex.org/I34352273"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Mannherz, H G, Budde, H, Jarkas, M, Hassoun, R, Malek-Chudzik, N, Mazur, A J, Skuljec, J, Pul, R, Napirei, M & Hamdani, N 2024, 'Reorganization of the actin cytoskeleton during the formation of neutrophil extracellular traps (NETs)', European Journal of Cell Biology, vol. 103, no. 2, 151407. https://doi.org/10.1016/j.ejcb.2024.151407",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:54c354006106440fb8831ac2fa492eb0",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/54c354006106440fb8831ac2fa492eb0",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "European Journal of Cell Biology, Vol 103, Iss 2, Pp 151407- (2024)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:hss-opus.ub.ruhr-uni-bochum.de:12041",
+      "is_oa": true,
+      "landing_page_url": "https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/12041",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400167",
+        "display_name": "Dokumentenrepositorium der RUB (Ruhr University Bochum)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I904495901",
+        "host_organization_name": "Ruhr University Bochum",
+        "host_organization_lineage": [
+          "https://openalex.org/I904495901"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "doc-type:article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.ejcb.2024.151407",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.ejcb.2024.151407",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S170067410",
+      "display_name": "European Journal of Cell Biology",
+      "issn_l": "0171-9335",
+      "issn": [
+        "0171-9335",
+        "1618-1298"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Journal of Cell Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Life below water",
+      "score": 0.5600000023841858,
+      "id": "https://metadata.un.org/sdg/14"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2877601444",
+      "display_name": null,
+      "funder_award_id": "NA7512/2.2",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G4391395372",
+      "display_name": null,
+      "funder_award_id": "MA805/19-2",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 84,
+  "referenced_works": [
+    "https://openalex.org/W185618318",
+    "https://openalex.org/W1481702065",
+    "https://openalex.org/W1567114372",
+    "https://openalex.org/W1582208000",
+    "https://openalex.org/W1876413960",
+    "https://openalex.org/W1902219579",
+    "https://openalex.org/W1976154823",
+    "https://openalex.org/W1979554654",
+    "https://openalex.org/W1983683899",
+    "https://openalex.org/W1984559046",
+    "https://openalex.org/W1988674511",
+    "https://openalex.org/W1992496728",
+    "https://openalex.org/W1998917841",
+    "https://openalex.org/W2005623596",
+    "https://openalex.org/W2007619188",
+    "https://openalex.org/W2010744273",
+    "https://openalex.org/W2016351478",
+    "https://openalex.org/W2024542705",
+    "https://openalex.org/W2025994996",
+    "https://openalex.org/W2026920505",
+    "https://openalex.org/W2029609290",
+    "https://openalex.org/W2039978832",
+    "https://openalex.org/W2049401141",
+    "https://openalex.org/W2053280933",
+    "https://openalex.org/W2056671887",
+    "https://openalex.org/W2056989740",
+    "https://openalex.org/W2061093792",
+    "https://openalex.org/W2062471801",
+    "https://openalex.org/W2063467020",
+    "https://openalex.org/W2064124379",
+    "https://openalex.org/W2069521331",
+    "https://openalex.org/W2090126338",
+    "https://openalex.org/W2093196157",
+    "https://openalex.org/W2104934425",
+    "https://openalex.org/W2115959782",
+    "https://openalex.org/W2120258664",
+    "https://openalex.org/W2127688157",
+    "https://openalex.org/W2131667633",
+    "https://openalex.org/W2142782616",
+    "https://openalex.org/W2153409967",
+    "https://openalex.org/W2160678899",
+    "https://openalex.org/W2165111193",
+    "https://openalex.org/W2175619533",
+    "https://openalex.org/W2231857535",
+    "https://openalex.org/W2505198895",
+    "https://openalex.org/W2560541542",
+    "https://openalex.org/W2605369788",
+    "https://openalex.org/W2612784563",
+    "https://openalex.org/W2621393405",
+    "https://openalex.org/W2766118959",
+    "https://openalex.org/W2769698474",
+    "https://openalex.org/W2773766732",
+    "https://openalex.org/W2788376770",
+    "https://openalex.org/W2888725678",
+    "https://openalex.org/W2890771157",
+    "https://openalex.org/W2904548584",
+    "https://openalex.org/W2915717782",
+    "https://openalex.org/W2954133571",
+    "https://openalex.org/W2971986416",
+    "https://openalex.org/W2984854563",
+    "https://openalex.org/W2987940819",
+    "https://openalex.org/W2991248607",
+    "https://openalex.org/W2998636480",
+    "https://openalex.org/W3010903030",
+    "https://openalex.org/W3026158129",
+    "https://openalex.org/W3035134858",
+    "https://openalex.org/W3042309757",
+    "https://openalex.org/W3164161224",
+    "https://openalex.org/W3172752297",
+    "https://openalex.org/W3179439373",
+    "https://openalex.org/W3187418415",
+    "https://openalex.org/W3194578317",
+    "https://openalex.org/W3200335709",
+    "https://openalex.org/W3201495269",
+    "https://openalex.org/W3208212759",
+    "https://openalex.org/W4206279515",
+    "https://openalex.org/W4224300339",
+    "https://openalex.org/W4281569137",
+    "https://openalex.org/W4297917728",
+    "https://openalex.org/W4321248315",
+    "https://openalex.org/W6607032493",
+    "https://openalex.org/W6678733958",
+    "https://openalex.org/W6773012721",
+    "https://openalex.org/W6798436164"
+  ],
+  "related_works": [
+    "https://openalex.org/W1531314664",
+    "https://openalex.org/W2019672297",
+    "https://openalex.org/W2110110734",
+    "https://openalex.org/W2171768130",
+    "https://openalex.org/W2049401141",
+    "https://openalex.org/W4244803653",
+    "https://openalex.org/W2069640228",
+    "https://openalex.org/W2020161413",
+    "https://openalex.org/W1559031924",
+    "https://openalex.org/W2169724852"
+  ],
+  "abstract_inverted_index": {
+    "We": [
+      0
+    ],
+    "analyzed": [
+      1
+    ],
+    "actin": [
+      2
+    ],
+    "cytoskeleton": [
+      3
+    ],
+    "alterations": [
+      4
+    ],
+    "during": [
+      5
+    ],
+    "NET": [
+      6,
+      59,
+      186
+    ],
+    "extrusion": [
+      7,
+      60
+    ],
+    "by": [
+      8,
+      30,
+      37,
+      63,
+      71,
+      103,
+      123,
+      182,
+      190
+    ],
+    "neutrophil-like": [
+      9
+    ],
+    "dHL-60": [
+      10,
+      31
+    ],
+    "cells": [
+      11,
+      32
+    ],
+    "and": [
+      12,
+      26,
+      33,
+      46,
+      80
+    ],
+    "human": [
+      13,
+      201
+    ],
+    "neutrophils": [
+      14,
+      34,
+      202,
+      214
+    ],
+    "in": [
+      15,
+      135,
+      205
+    ],
+    "the": [
+      16,
+      51,
+      58,
+      67,
+      72,
+      82,
+      94,
+      112,
+      140,
+      150,
+      154,
+      172,
+      175,
+      191,
+      195
+    ],
+    "absence": [
+      17
+    ],
+    "of": [
+      18,
+      50,
+      66,
+      86,
+      119,
+      153,
+      174,
+      194,
+      208
+    ],
+    "DNase1": [
+      19
+    ],
+    "containing": [
+      20
+    ],
+    "serum": [
+      21
+    ],
+    "to": [
+      22,
+      100,
+      107,
+      111,
+      126
+    ],
+    "avoid": [
+      23
+    ],
+    "chromatin": [
+      24
+    ],
+    "degradation": [
+      25
+    ],
+    "microfilament": [
+      27
+    ],
+    "disassembly.": [
+      28
+    ],
+    "NET-formation": [
+      29
+    ],
+    "was": [
+      35,
+      161
+    ],
+    "induced": [
+      36
+    ],
+    "Ionomycin": [
+      38
+    ],
+    "or": [
+      39,
+      227
+    ],
+    "phorbol-12-myristat-13-acetate": [
+      40
+    ],
+    "(PMA).": [
+      41
+    ],
+    "Subsequent": [
+      42
+    ],
+    "staining": [
+      43,
+      146
+    ],
+    "with": [
+      44,
+      168,
+      215,
+      225
+    ],
+    "anti-actin": [
+      45
+    ],
+    "TRITC-phalloidin": [
+      47
+    ],
+    "showed": [
+      48,
+      131
+    ],
+    "depolymerization": [
+      49
+    ],
+    "cortical": [
+      52,
+      169
+    ],
+    "F-actin": [
+      53,
+      83,
+      116,
+      170
+    ],
+    "at": [
+      54
+    ],
+    "spatially": [
+      55
+    ],
+    "confined": [
+      56
+    ],
+    "areas,": [
+      57
+    ],
+    "sites,": [
+      61
+    ],
+    "effected": [
+      62
+    ],
+    "transient": [
+      64
+    ],
+    "activation": [
+      65
+    ],
+    "monooxygenase": [
+      68
+    ],
+    "MICAL-1": [
+      69,
+      97,
+      120
+    ],
+    "supported": [
+      70
+    ],
+    "G-actin": [
+      73
+    ],
+    "binding": [
+      74
+    ],
+    "proteins": [
+      75
+    ],
+    "cofilin,": [
+      76
+    ],
+    "profilin,": [
+      77
+    ],
+    "thymosin": [
+      78
+    ],
+    "ß4": [
+      79
+    ],
+    "probably": [
+      81
+    ],
+    "fragmenting": [
+      84
+    ],
+    "activity": [
+      85,
+      110,
+      118
+    ],
+    "gelsolin": [
+      87,
+      217,
+      229
+    ],
+    "and/or": [
+      88
+    ],
+    "its": [
+      89,
+      109
+    ],
+    "fragments,": [
+      90
+    ],
+    "which": [
+      91
+    ],
+    "also": [
+      92
+    ],
+    "decorated": [
+      93
+    ],
+    "formed": [
+      95,
+      220,
+      230
+    ],
+    "NETs.": [
+      96,
+      233
+    ],
+    "itself": [
+      98
+    ],
+    "appeared": [
+      99
+    ],
+    "be": [
+      101
+    ],
+    "proteolyzed": [
+      102
+    ],
+    "neutrophil": [
+      104
+    ],
+    "elastase": [
+      105
+    ],
+    "possibly": [
+      106
+    ],
+    "confine": [
+      108
+    ],
+    "NET-extrusion": [
+      113,
+      141
+    ],
+    "area.": [
+      114
+    ],
+    "The": [
+      115
+    ],
+    "oxidization": [
+      117
+    ],
+    "is": [
+      121
+    ],
+    "inhibited": [
+      122
+    ],
+    "Levosimendan": [
+      124
+    ],
+    "leading": [
+      125
+    ],
+    "reduced": [
+      127,
+      144
+    ],
+    "NET-formation.": [
+      128
+    ],
+    "Anti-gasdermin-D": [
+      129
+    ],
+    "immunohistochemistry": [
+      130
+    ],
+    "a": [
+      132
+    ],
+    "cytoplasmic": [
+      133
+    ],
+    "distribution": [
+      134,
+      160
+    ],
+    "non-stimulated": [
+      136
+    ],
+    "cells.": [
+      137
+    ],
+    "After": [
+      138,
+      212
+    ],
+    "stimulation": [
+      139,
+      213
+    ],
+    "pore": [
+      142
+    ],
+    "displayed": [
+      143,
+      203
+    ],
+    "anti-gasdermin-D": [
+      145
+    ],
+    "but": [
+      147
+    ],
+    "accumulated": [
+      148
+    ],
+    "underneath": [
+      149
+    ],
+    "plasma": [
+      151
+    ],
+    "membrane": [
+      152
+    ],
+    "remaining": [
+      155,
+      176
+    ],
+    "cell": [
+      156,
+      177
+    ],
+    "body.": [
+      157
+    ],
+    "A": [
+      158
+    ],
+    "similar": [
+      159
+    ],
+    "observed": [
+      162
+    ],
+    "for": [
+      163
+    ],
+    "myosin": [
+      164,
+      196
+    ],
+    "that": [
+      165
+    ],
+    "concentrated": [
+      166
+    ],
+    "together": [
+      167
+    ],
+    "along": [
+      171
+    ],
+    "periphery": [
+      173
+    ],
+    "body": [
+      178
+    ],
+    "suggesting": [
+      179
+    ],
+    "force": [
+      180
+    ],
+    "production": [
+      181
+    ],
+    "acto-myosin": [
+      183
+    ],
+    "interactions": [
+      184
+    ],
+    "supporting": [
+      185
+    ],
+    "expulsion": [
+      187
+    ],
+    "as": [
+      188
+    ],
+    "indicated": [
+      189
+    ],
+    "inhibitory": [
+      192
+    ],
+    "action": [
+      193
+    ],
+    "ATPase": [
+      197
+    ],
+    "inhibitor": [
+      198
+    ],
+    "blebbistatin.": [
+      199
+    ],
+    "Isolated": [
+      200
+    ],
+    "differences": [
+      204
+    ],
+    "their": [
+      206
+    ],
+    "content": [
+      207,
+      218
+    ],
+    "certain": [
+      209
+    ],
+    "cytoskeletal": [
+      210
+    ],
+    "proteins.": [
+      211
+    ],
+    "high": [
+      216
+    ],
+    "preferentially": [
+      219
+    ],
+    "\"cloud\"-like": [
+      221
+    ],
+    "NETs,": [
+      222
+    ],
+    "whereas": [
+      223
+    ],
+    "those": [
+      224
+    ],
+    "low": [
+      226
+    ],
+    "no": [
+      228
+    ],
+    "long": [
+      231
+    ],
+    "\"filamentous\"": [
+      232
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-06T08:25:59.206177",
+  "created_date": "2025-10-10T00:00:00"
+}

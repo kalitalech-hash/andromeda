@@ -1,0 +1,625 @@
+{
+  "id": "https://openalex.org/W3025681133",
+  "doi": "https://doi.org/10.1016/j.jormas.2020.05.012",
+  "title": "Sophistication assessment of existing FEM models of orbital blowout trauma: Is models valuation justified?",
+  "display_name": "Sophistication assessment of existing FEM models of orbital blowout trauma: Is models valuation justified?",
+  "publication_year": 2020,
+  "publication_date": "2020-05-17",
+  "ids": {
+    "openalex": "https://openalex.org/W3025681133",
+    "doi": "https://doi.org/10.1016/j.jormas.2020.05.012",
+    "mag": "3025681133",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32428601"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jormas.2020.05.012",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jormas.2020.05.012",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2898482364",
+      "display_name": "Journal of Stomatology Oral and Maxillofacial Surgery",
+      "issn_l": "2468-7855",
+      "issn": [
+        "2468-7855",
+        "2468-8509"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Stomatology, Oral and Maxillofacial Surgery",
+    "raw_type": "journal-article"
+  },
+  "type": "letter",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5048648360",
+        "display_name": "Marcin Zmuda Trzebiatowski",
+        "orcid": "https://orcid.org/0000-0001-8356-3367"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M.A. Zmuda Trzebiatowski",
+      "raw_affiliation_strings": [
+        "Department of Structural Mechanics, Faculty of Civil and Environmental Engineering Gdańsk University of Technology, 11/12, Gabriela-Narutowicza Street, 80-233 Gdańsk, Poland. Electronic address: marcin.trzebiatowski@pg.edu.pl",
+        "Department of Structural Mechanics, Faculty of Civil and Environmental Engineering Gdańsk University of Technology, 11/12, Gabriela-Narutowicza Street, 80-233 Gdańsk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Structural Mechanics, Faculty of Civil and Environmental Engineering Gdańsk University of Technology, 11/12, Gabriela-Narutowicza Street, 80-233 Gdańsk, Poland. Electronic address: marcin.trzebiatowski@pg.edu.pl",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Structural Mechanics, Faculty of Civil and Environmental Engineering Gdańsk University of Technology, 11/12, Gabriela-Narutowicza Street, 80-233 Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5081620906",
+        "display_name": "Andrzej Skorek",
+        "orcid": "https://orcid.org/0000-0002-0042-6314"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "A. Skorek",
+      "raw_affiliation_strings": [
+        "Department of Otolaryngology, Faculty of Medicine, Medical University of Gdańsk, 17, Mariana-Smoluchowskiego Street, 80-210 Gdańsk, Poland. Electronic address: askorek@gumed.edu.pl",
+        "Department of Otolaryngology, Faculty of Medicine, Medical University of Gdańsk, 17, Mariana-Smoluchowskiego Street, 80-210 Gdańsk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Otolaryngology, Faculty of Medicine, Medical University of Gdańsk, 17, Mariana-Smoluchowskiego Street, 80-210 Gdańsk, Poland. Electronic address: askorek@gumed.edu.pl",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Otolaryngology, Faculty of Medicine, Medical University of Gdańsk, 17, Mariana-Smoluchowskiego Street, 80-210 Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5081620906"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I75124487"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": null,
+  "fwci": 0.1266,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.50548812,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "121",
+    "issue": "5",
+    "first_page": "611",
+    "last_page": "613"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11487",
+    "display_name": "Automotive and Human Injury Biomechanics",
+    "score": 0.9624999761581421,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11487",
+      "display_name": "Automotive and Human Injury Biomechanics",
+      "score": 0.9624999761581421,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11562",
+      "display_name": "Facial Trauma and Fracture Management",
+      "score": 0.9232000112533569,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11701",
+      "display_name": "Space Satellite Systems and Control",
+      "score": 0.9212999939918518,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sophistication",
+      "display_name": "Sophistication",
+      "score": 0.9045991897583008
+    },
+    {
+      "id": "https://openalex.org/keywords/valuation",
+      "display_name": "Valuation (finance)",
+      "score": 0.65276038646698
+    },
+    {
+      "id": "https://openalex.org/keywords/finite-element-method",
+      "display_name": "Finite element method",
+      "score": 0.5626874566078186
+    },
+    {
+      "id": "https://openalex.org/keywords/econometrics",
+      "display_name": "Econometrics",
+      "score": 0.43668726086616516
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3482363820075989
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.30646175146102905
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.28060635924339294
+    },
+    {
+      "id": "https://openalex.org/keywords/structural-engineering",
+      "display_name": "Structural engineering",
+      "score": 0.24869486689567566
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.1530826985836029
+    },
+    {
+      "id": "https://openalex.org/keywords/accounting",
+      "display_name": "Accounting",
+      "score": 0.07850202918052673
+    },
+    {
+      "id": "https://openalex.org/keywords/social-science",
+      "display_name": "Social science",
+      "score": 0.0738166868686676
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C168725872",
+      "wikidata": "https://www.wikidata.org/wiki/Q991663",
+      "display_name": "Sophistication",
+      "level": 2,
+      "score": 0.9045991897583008
+    },
+    {
+      "id": "https://openalex.org/C186027771",
+      "wikidata": "https://www.wikidata.org/wiki/Q4008379",
+      "display_name": "Valuation (finance)",
+      "level": 2,
+      "score": 0.65276038646698
+    },
+    {
+      "id": "https://openalex.org/C135628077",
+      "wikidata": "https://www.wikidata.org/wiki/Q220184",
+      "display_name": "Finite element method",
+      "level": 2,
+      "score": 0.5626874566078186
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.43668726086616516
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3482363820075989
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.30646175146102905
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.28060635924339294
+    },
+    {
+      "id": "https://openalex.org/C66938386",
+      "wikidata": "https://www.wikidata.org/wiki/Q633538",
+      "display_name": "Structural engineering",
+      "level": 1,
+      "score": 0.24869486689567566
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.1530826985836029
+    },
+    {
+      "id": "https://openalex.org/C121955636",
+      "wikidata": "https://www.wikidata.org/wiki/Q4116214",
+      "display_name": "Accounting",
+      "level": 1,
+      "score": 0.07850202918052673
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.0738166868686676
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D005131",
+      "descriptor_name": "Eye Injuries",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005131",
+      "descriptor_name": "Eye Injuries",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005131",
+      "descriptor_name": "Eye Injuries",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009915",
+      "descriptor_name": "Orbit",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009915",
+      "descriptor_name": "Orbit",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009915",
+      "descriptor_name": "Orbit",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009916",
+      "descriptor_name": "Orbital Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009916",
+      "descriptor_name": "Orbital Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009916",
+      "descriptor_name": "Orbital Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009917",
+      "descriptor_name": "Orbital Fractures",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009917",
+      "descriptor_name": "Orbital Fractures",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009917",
+      "descriptor_name": "Orbital Fractures",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jormas.2020.05.012",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jormas.2020.05.012",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2898482364",
+        "display_name": "Journal of Stomatology Oral and Maxillofacial Surgery",
+        "issn_l": "2468-7855",
+        "issn": [
+          "2468-7855",
+          "2468-8509"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Stomatology, Oral and Maxillofacial Surgery",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:32428601",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32428601",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of stomatology, oral and maxillofacial surgery",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.7599999904632568,
+      "display_name": "Gender equality",
+      "id": "https://metadata.un.org/sdg/5"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1289856897",
+      "display_name": null,
+      "funder_award_id": "016/23/B/ST8/00115",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320322650",
+      "display_name": "Narodowym Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 8,
+  "referenced_works": [
+    "https://openalex.org/W2027572579",
+    "https://openalex.org/W2056837041",
+    "https://openalex.org/W2148785021",
+    "https://openalex.org/W2153037141",
+    "https://openalex.org/W2218544706",
+    "https://openalex.org/W2479180469",
+    "https://openalex.org/W2594735349",
+    "https://openalex.org/W2895590943"
+  ],
+  "related_works": [
+    "https://openalex.org/W4241263575",
+    "https://openalex.org/W2317823609",
+    "https://openalex.org/W2902287117",
+    "https://openalex.org/W3130462184",
+    "https://openalex.org/W2401463593",
+    "https://openalex.org/W4318256508",
+    "https://openalex.org/W2349808627",
+    "https://openalex.org/W2391671934",
+    "https://openalex.org/W3023500690",
+    "https://openalex.org/W3124280623"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-04-09T08:11:56.329763",
+  "created_date": "2025-10-10T00:00:00"
+}

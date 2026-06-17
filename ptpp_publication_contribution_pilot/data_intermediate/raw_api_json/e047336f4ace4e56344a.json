@@ -1,0 +1,709 @@
+{
+  "id": "https://openalex.org/W4403486461",
+  "doi": "https://doi.org/10.3233/faia241072",
+  "title": "Fuzzy Ensemble Learning and Lightweight CNN for Stress Classification",
+  "display_name": "Fuzzy Ensemble Learning and Lightweight CNN for Stress Classification",
+  "publication_year": 2024,
+  "publication_date": "2024-10-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4403486461",
+    "doi": "https://doi.org/10.3233/faia241072"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3233/faia241072",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3233/faia241072",
+    "pdf_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241072",
+    "source": {
+      "id": "https://openalex.org/S4210201731",
+      "display_name": "Frontiers in artificial intelligence and applications",
+      "issn_l": "0922-6389",
+      "issn": [
+        "0922-6389",
+        "1879-8314"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Artificial Intelligence and Applications",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241072",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5045568755",
+        "display_name": "Katarzyna Baran",
+        "orcid": "https://orcid.org/0000-0002-3011-7221"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8264552",
+          "display_name": "Lublin University of Technology",
+          "ror": "https://ror.org/024zjzd49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8264552"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Katarzyna Baran",
+      "raw_affiliation_strings": [
+        "Lublin Univeristy of Technology"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lublin Univeristy of Technology",
+          "institution_ids": [
+            "https://openalex.org/I8264552"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5045568755"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I8264552"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.53100089,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10667",
+    "display_name": "Emotion and Mood Recognition",
+    "score": 0.8659999966621399,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10667",
+      "display_name": "Emotion and Mood Recognition",
+      "score": 0.8659999966621399,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12597",
+      "display_name": "Fire Detection and Safety Systems",
+      "score": 0.7721999883651733,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2213",
+        "display_name": "Safety, Risk, Reliability and Quality"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/ensemble-learning",
+      "display_name": "Ensemble learning",
+      "score": 0.5365211367607117
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5352066159248352
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.5323494076728821
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.3765143156051636
+    },
+    {
+      "id": "https://openalex.org/keywords/pattern-recognition",
+      "display_name": "Pattern recognition (psychology)",
+      "score": 0.3419598937034607
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C45942800",
+      "wikidata": "https://www.wikidata.org/wiki/Q245652",
+      "display_name": "Ensemble learning",
+      "level": 2,
+      "score": 0.5365211367607117
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5352066159248352
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5323494076728821
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.3765143156051636
+    },
+    {
+      "id": "https://openalex.org/C153180895",
+      "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+      "display_name": "Pattern recognition (psychology)",
+      "level": 2,
+      "score": 0.3419598937034607
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.3233/faia241072",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3233/faia241072",
+      "pdf_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241072",
+      "source": {
+        "id": "https://openalex.org/S4210201731",
+        "display_name": "Frontiers in artificial intelligence and applications",
+        "issn_l": "0922-6389",
+        "issn": [
+          "0922-6389",
+          "1879-8314"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Artificial Intelligence and Applications",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3233/faia241072",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3233/faia241072",
+    "pdf_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241072",
+    "source": {
+      "id": "https://openalex.org/S4210201731",
+      "display_name": "Frontiers in artificial intelligence and applications",
+      "issn_l": "0922-6389",
+      "issn": [
+        "0922-6389",
+        "1879-8314"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Artificial Intelligence and Applications",
+    "raw_type": "book-chapter"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8100000023841858,
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4403486461.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2961085424",
+    "https://openalex.org/W4306674287",
+    "https://openalex.org/W3046775127",
+    "https://openalex.org/W3107602296",
+    "https://openalex.org/W4394896187",
+    "https://openalex.org/W3170094116",
+    "https://openalex.org/W4386462264",
+    "https://openalex.org/W4364306694",
+    "https://openalex.org/W4312192474",
+    "https://openalex.org/W2033914206"
+  ],
+  "abstract_inverted_index": {
+    "Everyday": [
+      0
+    ],
+    "life": [
+      1
+    ],
+    "problems,": [
+      2
+    ],
+    "armed": [
+      3
+    ],
+    "conflicts,": [
+      4
+    ],
+    "pandemics,": [
+      5
+    ],
+    "and": [
+      6,
+      48,
+      83,
+      119
+    ],
+    "catastrophes": [
+      7
+    ],
+    "–": [
+      8
+    ],
+    "these": [
+      9
+    ],
+    "are": [
+      10,
+      13
+    ],
+    "situations": [
+      11
+    ],
+    "that": [
+      12
+    ],
+    "always": [
+      14
+    ],
+    "accompanied": [
+      15
+    ],
+    "by": [
+      16
+    ],
+    "stress.": [
+      17,
+      40
+    ],
+    "Its": [
+      18
+    ],
+    "chronic": [
+      19
+    ],
+    "form": [
+      20
+    ],
+    "can": [
+      21,
+      67
+    ],
+    "lead": [
+      22
+    ],
+    "to": [
+      23,
+      39,
+      45
+    ],
+    "so-called": [
+      24
+    ],
+    "stress-related": [
+      25
+    ],
+    "illnesses.": [
+      26
+    ],
+    "Despite": [
+      27
+    ],
+    "the": [
+      28,
+      61,
+      69,
+      108,
+      140
+    ],
+    "development": [
+      29
+    ],
+    "of": [
+      30,
+      65,
+      135,
+      142
+    ],
+    "health": [
+      31
+    ],
+    "prevention,": [
+      32
+    ],
+    "many": [
+      33
+    ],
+    "people": [
+      34
+    ],
+    "still": [
+      35
+    ],
+    "get": [
+      36
+    ],
+    "sick": [
+      37
+    ],
+    "due": [
+      38
+    ],
+    "Therefore,": [
+      41
+    ],
+    "it": [
+      42
+    ],
+    "is": [
+      43,
+      134
+    ],
+    "important": [
+      44
+    ],
+    "seek": [
+      46
+    ],
+    "detective": [
+      47
+    ],
+    "classificatory": [
+      49
+    ],
+    "solutions": [
+      50,
+      144
+    ],
+    "for": [
+      51,
+      94
+    ],
+    "stress,": [
+      52
+    ],
+    "which": [
+      53
+    ],
+    "may": [
+      54
+    ],
+    "influence": [
+      55
+    ],
+    "its": [
+      56
+    ],
+    "reduction": [
+      57
+    ],
+    "or": [
+      58
+    ],
+    "control": [
+      59
+    ],
+    "in": [
+      60,
+      74,
+      145
+    ],
+    "future.": [
+      62
+    ],
+    "The": [
+      63,
+      88,
+      121
+    ],
+    "example": [
+      64
+    ],
+    "this": [
+      66,
+      75
+    ],
+    "be": [
+      68
+    ],
+    "thermographic": [
+      70
+    ],
+    "stress": [
+      71,
+      95
+    ],
+    "registration": [
+      72
+    ],
+    "presented": [
+      73
+    ],
+    "article,": [
+      76
+    ],
+    "combined": [
+      77
+    ],
+    "with": [
+      78,
+      139
+    ],
+    "classification": [
+      79,
+      96,
+      128
+    ],
+    "using": [
+      80
+    ],
+    "lightweight": [
+      81,
+      112
+    ],
+    "CNN": [
+      82,
+      113
+    ],
+    "Choquet": [
+      84,
+      99
+    ],
+    "fuzzy": [
+      85,
+      100,
+      123
+    ],
+    "ensemble": [
+      86,
+      92,
+      124
+    ],
+    "learning.": [
+      87
+    ],
+    "article": [
+      89
+    ],
+    "proposed": [
+      90,
+      122
+    ],
+    "new": [
+      91
+    ],
+    "frameworks": [
+      93
+    ],
+    "based": [
+      97
+    ],
+    "on": [
+      98
+    ],
+    "integral,": [
+      101
+    ],
+    "serving": [
+      102
+    ],
+    "as": [
+      103
+    ],
+    "an": [
+      104
+    ],
+    "aggregation": [
+      105
+    ],
+    "function.": [
+      106
+    ],
+    "In": [
+      107
+    ],
+    "study,": [
+      109
+    ],
+    "three": [
+      110
+    ],
+    "pre-trained": [
+      111
+    ],
+    "models": [
+      114
+    ],
+    "were": [
+      115
+    ],
+    "used:": [
+      116
+    ],
+    "MobileNetV2,": [
+      117
+    ],
+    "Xception,": [
+      118
+    ],
+    "EfficientNet.": [
+      120
+    ],
+    "model": [
+      125
+    ],
+    "achieves": [
+      126
+    ],
+    "a": [
+      127,
+      136
+    ],
+    "accuracy": [
+      129
+    ],
+    "above": [
+      130
+    ],
+    "90%.": [
+      131
+    ],
+    "This": [
+      132
+    ],
+    "work": [
+      133
+    ],
+    "prospective": [
+      137
+    ],
+    "nature,": [
+      138
+    ],
+    "possibility": [
+      141
+    ],
+    "implementing": [
+      143
+    ],
+    "biomedical-psychological": [
+      146
+    ],
+    "activities.": [
+      147
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

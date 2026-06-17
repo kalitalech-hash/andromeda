@@ -1,0 +1,2860 @@
+{
+  "id": "https://openalex.org/W7124851713",
+  "doi": "https://doi.org/10.1038/s44321-026-00372-1",
+  "title": "A viral glycoprotein targets IgG+ memory B cells to mediate humoral immune evasion",
+  "display_name": "A viral glycoprotein targets IgG+ memory B cells to mediate humoral immune evasion",
+  "publication_year": 2026,
+  "publication_date": "2026-01-20",
+  "ids": {
+    "openalex": "https://openalex.org/W7124851713",
+    "doi": "https://doi.org/10.1038/s44321-026-00372-1",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41559372"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s44321-026-00372-1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s44321-026-00372-1",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1038/s44321-026-00372-1.pdf",
+    "source": {
+      "id": "https://openalex.org/S163075119",
+      "display_name": "EMBO Molecular Medicine",
+      "issn_l": "1757-4676",
+      "issn": [
+        "1757-4676",
+        "1757-4684"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "EMBO Molecular Medicine",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://link.springer.com/content/pdf/10.1038/s44321-026-00372-1.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Precious Cramer",
+        "orcid": "https://orcid.org/0000-0003-1683-6884"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1316535847",
+          "display_name": "Beth Israel Deaconess Medical Center",
+          "ror": "https://ror.org/04drvxt59",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1316535847"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I161046081",
+          "display_name": "University of Freiburg",
+          "ror": "https://ror.org/0245cg223",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Precious Cramer",
+      "raw_affiliation_strings": [
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA",
+        "Faculty of Biology, University of Freiburg, Freiburg, 79104, Germany",
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+        "Spemann Graduate School of Biology and Medicine (SGBM), University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1683-6884",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I1316535847"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Faculty of Biology, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Spemann Graduate School of Biology and Medicine (SGBM), University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123431051",
+        "display_name": "Stefan F H Neys",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefan F H Neys",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072823606",
+        "display_name": "Manuela Fiedler",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210089242",
+          "display_name": "Düsseldorf University Hospital",
+          "ror": "https://ror.org/006k2kk72",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210089242"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210139777",
+          "display_name": "Berlin Institute of Health at Charité - Universitätsmedizin Berlin",
+          "ror": "https://ror.org/0493xsw21",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210139777",
+            "https://openalex.org/I7877124"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I44260953",
+          "display_name": "Heinrich Heine University Düsseldorf",
+          "ror": "https://ror.org/024z2rq82",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44260953"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Manuela Fiedler",
+      "raw_affiliation_strings": [
+        "Berlin Institute of Health (BIH) at Charité - Universitätsmedizin Berlin, Berlin, Germany",
+        "Institute of Virology, Heinrich-Heine-University, University Hospital of Düsseldorf, Universitätsstr. 1, Düsseldorf, 40225, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0003-6664-2460",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Berlin Institute of Health (BIH) at Charité - Universitätsmedizin Berlin, Berlin, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139777"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Virology, Heinrich-Heine-University, University Hospital of Düsseldorf, Universitätsstr. 1, Düsseldorf, 40225, Germany",
+          "institution_ids": [
+            "https://openalex.org/I44260953",
+            "https://openalex.org/I4210089242"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001463705",
+        "display_name": "Raquel Lorenzetti",
+        "orcid": "https://orcid.org/0009-0008-0184-1609"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Raquel Lorenzetti",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073003523",
+        "display_name": "Henrike Reinhard",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210089242",
+          "display_name": "Düsseldorf University Hospital",
+          "ror": "https://ror.org/006k2kk72",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210089242"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I44260953",
+          "display_name": "Heinrich Heine University Düsseldorf",
+          "ror": "https://ror.org/024z2rq82",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44260953"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Henrike Reinhard",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Heinrich-Heine-University, University Hospital of Düsseldorf, Universitätsstr. 1, Düsseldorf, 40225, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Heinrich-Heine-University, University Hospital of Düsseldorf, Universitätsstr. 1, Düsseldorf, 40225, Germany",
+          "institution_ids": [
+            "https://openalex.org/I44260953",
+            "https://openalex.org/I4210089242"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030577896",
+        "display_name": "Iga Janowska",
+        "orcid": "https://orcid.org/0009-0004-7526-2803"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iga Janowska",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026576860",
+        "display_name": "Julian Staniek",
+        "orcid": "https://orcid.org/0000-0002-4050-2772"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julian Staniek",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123379053",
+        "display_name": "Ann-Katrin Kohl",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ann-Katrin Kohl",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010386798",
+        "display_name": "Petra Hadlová",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I21250087",
+          "display_name": "Charles University",
+          "ror": "https://ror.org/024d6js02",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I21250087"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Petra Hadlova",
+      "raw_affiliation_strings": [
+        "CLIP-Cytometry, Department of Paediatric Hematology and Oncology, 2nd Medical School, Charles University, V Uvalu 84, 150 06, Prague, 5, Czech Republic",
+        "Division of Clinical and Experimental Immunology, Institute of Immunology, Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna, Vienna, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CLIP-Cytometry, Department of Paediatric Hematology and Oncology, 2nd Medical School, Charles University, V Uvalu 84, 150 06, Prague, 5, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I21250087"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Clinical and Experimental Immunology, Institute of Immunology, Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003119147",
+        "display_name": "Magdalena Huber",
+        "orcid": "https://orcid.org/0000-0002-2963-0693"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Huber",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4916-5677",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054227288",
+        "display_name": "Bodo Plachter",
+        "orcid": "https://orcid.org/0000-0001-8388-2288"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197323543",
+          "display_name": "Johannes Gutenberg University Mainz",
+          "ror": "https://ror.org/023b0x485",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197323543"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094062",
+          "display_name": "University Medical Center of the Johannes Gutenberg University Mainz",
+          "ror": "https://ror.org/00q1fsf04",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210094062"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bodo Plachter",
+      "raw_affiliation_strings": [
+        "Institute for Virology, University Medical Center of the Johannes Gutenberg-University Mainz, Mainz, D-55131, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8388-2288",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Virology, University Medical Center of the Johannes Gutenberg-University Mainz, Mainz, D-55131, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210094062",
+            "https://openalex.org/I197323543"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084193924",
+        "display_name": "Clarissa Read",
+        "orcid": "https://orcid.org/0000-0002-4632-2684"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I196349391",
+          "display_name": "Universität Ulm",
+          "ror": "https://ror.org/032000t02",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I196349391"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clarissa Read",
+      "raw_affiliation_strings": [
+        "Central Facility for Electron Microscopy, Ulm University, Ulm, 89081, Germany",
+        "Institute of Virology, Ulm University Medical Center, Ulm, 89081, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4632-2684",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Central Facility for Electron Microscopy, Ulm University, Ulm, 89081, Germany",
+          "institution_ids": [
+            "https://openalex.org/I196349391"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Virology, Ulm University Medical Center, Ulm, 89081, Germany",
+          "institution_ids": [
+            "https://openalex.org/I196349391"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069736480",
+        "display_name": "Valeria Falcone",
+        "orcid": "https://orcid.org/0000-0003-1180-8737"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Valeria Falcone",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1180-8737",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006332749",
+        "display_name": "Jens von Einem",
+        "orcid": "https://orcid.org/0000-0001-7508-4702"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197323543",
+          "display_name": "Johannes Gutenberg University Mainz",
+          "ror": "https://ror.org/023b0x485",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197323543"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094062",
+          "display_name": "University Medical Center of the Johannes Gutenberg University Mainz",
+          "ror": "https://ror.org/00q1fsf04",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210094062"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens von Einem",
+      "raw_affiliation_strings": [
+        "Institute for Virology, University Medical Center of the Johannes Gutenberg-University Mainz, Mainz, D-55131, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Virology, University Medical Center of the Johannes Gutenberg-University Mainz, Mainz, D-55131, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210094062",
+            "https://openalex.org/I197323543"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048297524",
+        "display_name": "Katja Hoffmann",
+        "orcid": "https://orcid.org/0000-0003-3749-9047"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katja Hoffmann",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123385861",
+        "display_name": "Tihana Lenac Rovis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154347574",
+          "display_name": "University of Rijeka",
+          "ror": "https://ror.org/05r8dqr10",
+          "country_code": "HR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154347574"
+          ]
+        }
+      ],
+      "countries": [
+        "HR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tihana Lenac Rovis",
+      "raw_affiliation_strings": [
+        "Center for Proteomics University of Rijeka Faculty of Medicine Brace Branchetta 20, Rijeka, 51000, Croatia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Proteomics University of Rijeka Faculty of Medicine Brace Branchetta 20, Rijeka, 51000, Croatia",
+          "institution_ids": [
+            "https://openalex.org/I154347574"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038051461",
+        "display_name": "Stipan Jonjić",
+        "orcid": "https://orcid.org/0000-0001-5003-3108"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154347574",
+          "display_name": "University of Rijeka",
+          "ror": "https://ror.org/05r8dqr10",
+          "country_code": "HR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154347574"
+          ]
+        }
+      ],
+      "countries": [
+        "HR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stipan Jonjic",
+      "raw_affiliation_strings": [
+        "Center for Proteomics University of Rijeka Faculty of Medicine Brace Branchetta 20, Rijeka, 51000, Croatia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Proteomics University of Rijeka Faculty of Medicine Brace Branchetta 20, Rijeka, 51000, Croatia",
+          "institution_ids": [
+            "https://openalex.org/I154347574"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071388866",
+        "display_name": "Philipp Kolb",
+        "orcid": "https://orcid.org/0000-0001-7935-217X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Kolb",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7935-217X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018411391",
+        "display_name": "Marta Rizzi",
+        "orcid": "https://orcid.org/0000-0002-5153-6089"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161046081",
+          "display_name": "University of Freiburg",
+          "ror": "https://ror.org/0245cg223",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131993",
+          "display_name": "Institute of Immunology",
+          "ror": "https://ror.org/02zhyrb63",
+          "country_code": "HR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210131993"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "DE",
+        "HR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Rizzi",
+      "raw_affiliation_strings": [
+        "CIBSS - Centre for Integrative Biological Signalling Studies, University of Freiburg, Freiburg, Germany. marta.rizzi@uniklinik-freiburg.de",
+        "Center for Chronic Immunodeficiency, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany. marta.rizzi@uniklinik-freiburg.de",
+        "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany. marta.rizzi@uniklinik-freiburg.de",
+        "Division of Clinical and Experimental Immunology, Institute of Immunology, Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna, Vienna, Austria. marta.rizzi@uniklinik-freiburg.de"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5153-6089",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CIBSS - Centre for Integrative Biological Signalling Studies, University of Freiburg, Freiburg, Germany. marta.rizzi@uniklinik-freiburg.de",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Chronic Immunodeficiency, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany. marta.rizzi@uniklinik-freiburg.de",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany. marta.rizzi@uniklinik-freiburg.de",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Clinical and Experimental Immunology, Institute of Immunology, Center for Pathophysiology, Infectiology and Immunology, Medical University of Vienna, Vienna, Austria. marta.rizzi@uniklinik-freiburg.de",
+          "institution_ids": [
+            "https://openalex.org/I76134821",
+            "https://openalex.org/I4210131993"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5044552413",
+        "display_name": "Hartmut Hengel",
+        "orcid": "https://orcid.org/0000-0002-3482-816X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801240073",
+          "display_name": "University Medical Center Freiburg",
+          "ror": "https://ror.org/03vzbgh69",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Hartmut Hengel",
+      "raw_affiliation_strings": [
+        "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany. hartmut.hengel@uniklinik-freiburg.de"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3482-816X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Virology, Medical Center and Faculty of Medicine, University of Freiburg, Freiburg, 79104, Germany. hartmut.hengel@uniklinik-freiburg.de",
+          "institution_ids": [
+            "https://openalex.org/I2801240073"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 20,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5044552413"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2801240073"
+  ],
+  "apc_list": {
+    "value": 5000,
+    "currency": "USD",
+    "value_usd": 5000
+  },
+  "apc_paid": {
+    "value": 5000,
+    "currency": "USD",
+    "value_usd": 5000
+  },
+  "fwci": 26.6985,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.99094416,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "18",
+    "issue": "2",
+    "first_page": "795",
+    "last_page": "823"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10981",
+    "display_name": "Cytomegalovirus and herpesvirus research",
+    "score": 0.6980000138282776,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2713",
+      "display_name": "Epidemiology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10981",
+      "display_name": "Cytomegalovirus and herpesvirus research",
+      "score": 0.6980000138282776,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10031",
+      "display_name": "T-cell and B-cell Immunology",
+      "score": 0.11140000075101852,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11016",
+      "display_name": "Monoclonal and Polyclonal Antibodies Research",
+      "score": 0.07119999825954437,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2741",
+        "display_name": "Radiology, Nuclear Medicine and Imaging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/internalization",
+      "display_name": "Internalization",
+      "score": 0.6791999936103821
+    },
+    {
+      "id": "https://openalex.org/keywords/immune-system",
+      "display_name": "Immune system",
+      "score": 0.5723999738693237
+    },
+    {
+      "id": "https://openalex.org/keywords/humoral-immunity",
+      "display_name": "Humoral immunity",
+      "score": 0.558899998664856
+    },
+    {
+      "id": "https://openalex.org/keywords/downregulation-and-upregulation",
+      "display_name": "Downregulation and upregulation",
+      "score": 0.527400016784668
+    },
+    {
+      "id": "https://openalex.org/keywords/antibody",
+      "display_name": "Antibody",
+      "score": 0.5181000232696533
+    },
+    {
+      "id": "https://openalex.org/keywords/b-cell",
+      "display_name": "B cell",
+      "score": 0.5055999755859375
+    },
+    {
+      "id": "https://openalex.org/keywords/immunoglobulin-class-switching",
+      "display_name": "Immunoglobulin class switching",
+      "score": 0.4975000023841858
+    },
+    {
+      "id": "https://openalex.org/keywords/b-cell-receptor",
+      "display_name": "B-cell receptor",
+      "score": 0.44440001249313354
+    },
+    {
+      "id": "https://openalex.org/keywords/memory-b-cell",
+      "display_name": "Memory B cell",
+      "score": 0.4388999938964844
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C139770010",
+      "wikidata": "https://www.wikidata.org/wiki/Q1339807",
+      "display_name": "Internalization",
+      "level": 3,
+      "score": 0.6791999936103821
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6632000207901001
+    },
+    {
+      "id": "https://openalex.org/C8891405",
+      "wikidata": "https://www.wikidata.org/wiki/Q1059",
+      "display_name": "Immune system",
+      "level": 2,
+      "score": 0.5723999738693237
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.5608000159263611
+    },
+    {
+      "id": "https://openalex.org/C2776548049",
+      "wikidata": "https://www.wikidata.org/wiki/Q1142875",
+      "display_name": "Humoral immunity",
+      "level": 3,
+      "score": 0.558899998664856
+    },
+    {
+      "id": "https://openalex.org/C127561419",
+      "wikidata": "https://www.wikidata.org/wiki/Q224527",
+      "display_name": "Downregulation and upregulation",
+      "level": 3,
+      "score": 0.527400016784668
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5184999704360962
+    },
+    {
+      "id": "https://openalex.org/C159654299",
+      "wikidata": "https://www.wikidata.org/wiki/Q79460",
+      "display_name": "Antibody",
+      "level": 2,
+      "score": 0.5181000232696533
+    },
+    {
+      "id": "https://openalex.org/C2778453870",
+      "wikidata": "https://www.wikidata.org/wiki/Q188930",
+      "display_name": "B cell",
+      "level": 3,
+      "score": 0.5055999755859375
+    },
+    {
+      "id": "https://openalex.org/C137756551",
+      "wikidata": "https://www.wikidata.org/wiki/Q2386881",
+      "display_name": "Immunoglobulin class switching",
+      "level": 4,
+      "score": 0.4975000023841858
+    },
+    {
+      "id": "https://openalex.org/C157695867",
+      "wikidata": "https://www.wikidata.org/wiki/Q1100474",
+      "display_name": "B-cell receptor",
+      "level": 4,
+      "score": 0.44440001249313354
+    },
+    {
+      "id": "https://openalex.org/C2779359726",
+      "wikidata": "https://www.wikidata.org/wiki/Q1195394",
+      "display_name": "Memory B cell",
+      "level": 4,
+      "score": 0.4388999938964844
+    },
+    {
+      "id": "https://openalex.org/C24998067",
+      "wikidata": "https://www.wikidata.org/wiki/Q4114622",
+      "display_name": "Stimulation",
+      "level": 2,
+      "score": 0.4359000027179718
+    },
+    {
+      "id": "https://openalex.org/C200180986",
+      "wikidata": "https://www.wikidata.org/wiki/Q3269473",
+      "display_name": "Naive B cell",
+      "level": 5,
+      "score": 0.40779998898506165
+    },
+    {
+      "id": "https://openalex.org/C2780898057",
+      "wikidata": "https://www.wikidata.org/wiki/Q79448",
+      "display_name": "Immunoglobulin G",
+      "level": 3,
+      "score": 0.40619999170303345
+    },
+    {
+      "id": "https://openalex.org/C170493617",
+      "wikidata": "https://www.wikidata.org/wiki/Q208467",
+      "display_name": "Receptor",
+      "level": 2,
+      "score": 0.4052000045776367
+    },
+    {
+      "id": "https://openalex.org/C2781251061",
+      "wikidata": "https://www.wikidata.org/wiki/Q5416089",
+      "display_name": "Evasion (ethics)",
+      "level": 3,
+      "score": 0.3982999920845032
+    },
+    {
+      "id": "https://openalex.org/C159047783",
+      "wikidata": "https://www.wikidata.org/wiki/Q7215",
+      "display_name": "Virology",
+      "level": 1,
+      "score": 0.3917999863624573
+    },
+    {
+      "id": "https://openalex.org/C170286685",
+      "wikidata": "https://www.wikidata.org/wiki/Q409346",
+      "display_name": "B-cell activating factor",
+      "level": 4,
+      "score": 0.3797000050544739
+    },
+    {
+      "id": "https://openalex.org/C2777732132",
+      "wikidata": "https://www.wikidata.org/wiki/Q6946",
+      "display_name": "Cytomegalovirus",
+      "level": 5,
+      "score": 0.3528999984264374
+    },
+    {
+      "id": "https://openalex.org/C62478195",
+      "wikidata": "https://www.wikidata.org/wiki/Q828130",
+      "display_name": "Signal transduction",
+      "level": 2,
+      "score": 0.33799999952316284
+    },
+    {
+      "id": "https://openalex.org/C108625454",
+      "wikidata": "https://www.wikidata.org/wiki/Q187126",
+      "display_name": "Glycoprotein",
+      "level": 2,
+      "score": 0.33340001106262207
+    },
+    {
+      "id": "https://openalex.org/C193419808",
+      "wikidata": "https://www.wikidata.org/wiki/Q1645075",
+      "display_name": "Acquired immune system",
+      "level": 3,
+      "score": 0.30469998717308044
+    },
+    {
+      "id": "https://openalex.org/C2780405999",
+      "wikidata": "https://www.wikidata.org/wiki/Q3483597",
+      "display_name": "Co-stimulation",
+      "level": 5,
+      "score": 0.30329999327659607
+    },
+    {
+      "id": "https://openalex.org/C2522874641",
+      "wikidata": "https://www.wikidata.org/wiki/Q808",
+      "display_name": "Virus",
+      "level": 2,
+      "score": 0.29820001125335693
+    },
+    {
+      "id": "https://openalex.org/C2779341262",
+      "wikidata": "https://www.wikidata.org/wiki/Q182581",
+      "display_name": "Immunity",
+      "level": 3,
+      "score": 0.2881999909877777
+    },
+    {
+      "id": "https://openalex.org/C145558887",
+      "wikidata": "https://www.wikidata.org/wiki/Q3832893",
+      "display_name": "B-1 cell",
+      "level": 5,
+      "score": 0.28700000047683716
+    },
+    {
+      "id": "https://openalex.org/C43907098",
+      "wikidata": "https://www.wikidata.org/wiki/Q903924",
+      "display_name": "breakpoint cluster region",
+      "level": 3,
+      "score": 0.27480000257492065
+    },
+    {
+      "id": "https://openalex.org/C2779102806",
+      "wikidata": "https://www.wikidata.org/wiki/Q79453",
+      "display_name": "Immunoglobulin A",
+      "level": 4,
+      "score": 0.2581999897956848
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000091245",
+      "descriptor_name": "Memory B Cells",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000091245",
+      "descriptor_name": "Memory B Cells",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000091245",
+      "descriptor_name": "Memory B Cells",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000091245",
+      "descriptor_name": "Memory B Cells",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000091245",
+      "descriptor_name": "Memory B Cells",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000091245",
+      "descriptor_name": "Memory B Cells",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001402",
+      "descriptor_name": "B-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001402",
+      "descriptor_name": "B-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001402",
+      "descriptor_name": "B-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001402",
+      "descriptor_name": "B-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001402",
+      "descriptor_name": "B-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001402",
+      "descriptor_name": "B-Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003587",
+      "descriptor_name": "Cytomegalovirus",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003587",
+      "descriptor_name": "Cytomegalovirus",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003587",
+      "descriptor_name": "Cytomegalovirus",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003587",
+      "descriptor_name": "Cytomegalovirus",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003587",
+      "descriptor_name": "Cytomegalovirus",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003587",
+      "descriptor_name": "Cytomegalovirus",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006023",
+      "descriptor_name": "Glycoproteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007074",
+      "descriptor_name": "Immunoglobulin G",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007156",
+      "descriptor_name": "Immunologic Memory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007156",
+      "descriptor_name": "Immunologic Memory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007156",
+      "descriptor_name": "Immunologic Memory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008213",
+      "descriptor_name": "Lymphocyte Activation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011947",
+      "descriptor_name": "Receptors, Antigen, B-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011947",
+      "descriptor_name": "Receptors, Antigen, B-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011947",
+      "descriptor_name": "Receptors, Antigen, B-Cell",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014764",
+      "descriptor_name": "Viral Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056724",
+      "descriptor_name": "Immunity, Humoral",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D056724",
+      "descriptor_name": "Immunity, Humoral",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D056724",
+      "descriptor_name": "Immunity, Humoral",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D056724",
+      "descriptor_name": "Immunity, Humoral",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D056724",
+      "descriptor_name": "Immunity, Humoral",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D056724",
+      "descriptor_name": "Immunity, Humoral",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057131",
+      "descriptor_name": "Immune Evasion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057131",
+      "descriptor_name": "Immune Evasion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057131",
+      "descriptor_name": "Immune Evasion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057131",
+      "descriptor_name": "Immune Evasion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057131",
+      "descriptor_name": "Immune Evasion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057131",
+      "descriptor_name": "Immune Evasion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1038/s44321-026-00372-1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s44321-026-00372-1",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1038/s44321-026-00372-1.pdf",
+      "source": {
+        "id": "https://openalex.org/S163075119",
+        "display_name": "EMBO Molecular Medicine",
+        "issn_l": "1757-4676",
+        "issn": [
+          "1757-4676",
+          "1757-4684"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "EMBO Molecular Medicine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41559372",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41559372",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "EMBO molecular medicine",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:400f7da8832e4ed88d939c0925b70ace",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/400f7da8832e4ed88d939c0925b70ace",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "EMBO Molecular Medicine, Vol 18, Iss 2, Pp 795-823 (2026)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11712033",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12905349",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:freidok.uni-freiburg.de:277302",
+      "is_oa": false,
+      "landing_page_url": "https://freidok.uni-freiburg.de/data/277302",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401057",
+        "display_name": "FreiDok plus (Universitätsbibliothek Freiburg)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I161046081",
+        "host_organization_name": "University of Freiburg",
+        "host_organization_lineage": [
+          "https://openalex.org/I161046081"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "EMBO molecular medicine. - 18, 2 (2026) , 795-823, ISSN: 1757-4684",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12905349",
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905349/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "EMBO Mol Med",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s44321-026-00372-1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s44321-026-00372-1",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1038/s44321-026-00372-1.pdf",
+    "source": {
+      "id": "https://openalex.org/S163075119",
+      "display_name": "EMBO Molecular Medicine",
+      "issn_l": "1757-4676",
+      "issn": [
+        "1757-4676",
+        "1757-4684"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "EMBO Molecular Medicine",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2171898597",
+      "display_name": null,
+      "funder_award_id": "KK.01.1",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G2181880775",
+      "display_name": null,
+      "funder_award_id": "KK.01.1.1.01",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G355258679",
+      "display_name": null,
+      "funder_award_id": "GSC-4",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G3890793441",
+      "display_name": null,
+      "funder_award_id": "KK.01.1.1.01.0006",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G4050496063",
+      "display_name": null,
+      "funder_award_id": "SFB1160",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G4628688569",
+      "display_name": null,
+      "funder_award_id": "uniri-biomed-18-233",
+      "funder_id": "https://openalex.org/F1002590718",
+      "funder_display_name": "Sveučilište u Rijeci"
+    },
+    {
+      "id": "https://openalex.org/G4925376223",
+      "display_name": null,
+      "funder_award_id": "KK.01.1.1.01.0006",
+      "funder_id": "https://openalex.org/F1002590718",
+      "funder_display_name": "Sveučilište u Rijeci"
+    },
+    {
+      "id": "https://openalex.org/G5167328779",
+      "display_name": null,
+      "funder_award_id": "468499998",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G641187091",
+      "display_name": null,
+      "funder_award_id": "KK.01.1.1.01.0006",
+      "funder_id": "https://openalex.org/F4320322674",
+      "funder_display_name": "Hrvatska Zaklada za Znanost"
+    },
+    {
+      "id": "https://openalex.org/G6462038999",
+      "display_name": null,
+      "funder_award_id": "IP-2020-02",
+      "funder_id": "https://openalex.org/F4320322674",
+      "funder_display_name": "Hrvatska Zaklada za Znanost"
+    },
+    {
+      "id": "https://openalex.org/G681575759",
+      "display_name": null,
+      "funder_award_id": "KK.01.1.1.01",
+      "funder_id": "https://openalex.org/F4320322674",
+      "funder_display_name": "Hrvatska Zaklada za Znanost"
+    },
+    {
+      "id": "https://openalex.org/G7627334883",
+      "display_name": null,
+      "funder_award_id": "HE2526/9-2",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G7738337847",
+      "display_name": null,
+      "funder_award_id": "SFP1160",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8618518428",
+      "display_name": null,
+      "funder_award_id": "KK.01.1.1.01.",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G8761923982",
+      "display_name": null,
+      "funder_award_id": "JO1634/1-1",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G987466172",
+      "display_name": null,
+      "funder_award_id": "IP-2020-02-6617",
+      "funder_id": "https://openalex.org/F4320322674",
+      "funder_display_name": "Hrvatska Zaklada za Znanost"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F1002590718",
+      "display_name": "Sveučilište u Rijeci",
+      "ror": "https://ror.org/05r8dqr10"
+    },
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    },
+    {
+      "id": "https://openalex.org/F4320322674",
+      "display_name": "Hrvatska Zaklada za Znanost",
+      "ror": "https://ror.org/03n51vw80"
+    },
+    {
+      "id": "https://openalex.org/F4320335322",
+      "display_name": "European Regional Development Fund",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7124851713.pdf"
+  },
+  "referenced_works_count": 121,
+  "referenced_works": [
+    "https://openalex.org/W178781555",
+    "https://openalex.org/W198207004",
+    "https://openalex.org/W1480579410",
+    "https://openalex.org/W1533597107",
+    "https://openalex.org/W1545439918",
+    "https://openalex.org/W1571886555",
+    "https://openalex.org/W1607206251",
+    "https://openalex.org/W1672109414",
+    "https://openalex.org/W1776652835",
+    "https://openalex.org/W1785971308",
+    "https://openalex.org/W1818313483",
+    "https://openalex.org/W1903287340",
+    "https://openalex.org/W1969209186",
+    "https://openalex.org/W1970275309",
+    "https://openalex.org/W1975653620",
+    "https://openalex.org/W1984105046",
+    "https://openalex.org/W1991308016",
+    "https://openalex.org/W1994443456",
+    "https://openalex.org/W1994753721",
+    "https://openalex.org/W1998404540",
+    "https://openalex.org/W2001414186",
+    "https://openalex.org/W2002188119",
+    "https://openalex.org/W2004781357",
+    "https://openalex.org/W2005936857",
+    "https://openalex.org/W2007797448",
+    "https://openalex.org/W2008748520",
+    "https://openalex.org/W2010005720",
+    "https://openalex.org/W2010309083",
+    "https://openalex.org/W2019372560",
+    "https://openalex.org/W2019447967",
+    "https://openalex.org/W2023627966",
+    "https://openalex.org/W2025437724",
+    "https://openalex.org/W2032522421",
+    "https://openalex.org/W2033970156",
+    "https://openalex.org/W2039073711",
+    "https://openalex.org/W2039673714",
+    "https://openalex.org/W2045944192",
+    "https://openalex.org/W2046231714",
+    "https://openalex.org/W2050077279",
+    "https://openalex.org/W2051103323",
+    "https://openalex.org/W2052746029",
+    "https://openalex.org/W2053222068",
+    "https://openalex.org/W2056309685",
+    "https://openalex.org/W2063434780",
+    "https://openalex.org/W2064813139",
+    "https://openalex.org/W2067092950",
+    "https://openalex.org/W2069465259",
+    "https://openalex.org/W2072105499",
+    "https://openalex.org/W2076971074",
+    "https://openalex.org/W2082670780",
+    "https://openalex.org/W2086655007",
+    "https://openalex.org/W2087578663",
+    "https://openalex.org/W2087736036",
+    "https://openalex.org/W2088966331",
+    "https://openalex.org/W2090007108",
+    "https://openalex.org/W2091055845",
+    "https://openalex.org/W2091696429",
+    "https://openalex.org/W2095651237",
+    "https://openalex.org/W2103794276",
+    "https://openalex.org/W2103937578",
+    "https://openalex.org/W2104012811",
+    "https://openalex.org/W2106937142",
+    "https://openalex.org/W2106962511",
+    "https://openalex.org/W2109634012",
+    "https://openalex.org/W2112599054",
+    "https://openalex.org/W2113043267",
+    "https://openalex.org/W2114825231",
+    "https://openalex.org/W2119313807",
+    "https://openalex.org/W2121198677",
+    "https://openalex.org/W2125424508",
+    "https://openalex.org/W2128902404",
+    "https://openalex.org/W2129806278",
+    "https://openalex.org/W2130762696",
+    "https://openalex.org/W2136302374",
+    "https://openalex.org/W2137816745",
+    "https://openalex.org/W2138118903",
+    "https://openalex.org/W2141755034",
+    "https://openalex.org/W2143608789",
+    "https://openalex.org/W2146621458",
+    "https://openalex.org/W2160401113",
+    "https://openalex.org/W2162633432",
+    "https://openalex.org/W2166693967",
+    "https://openalex.org/W2167514041",
+    "https://openalex.org/W2167940840",
+    "https://openalex.org/W2169067144",
+    "https://openalex.org/W2170837110",
+    "https://openalex.org/W2174825619",
+    "https://openalex.org/W2201242299",
+    "https://openalex.org/W2242932973",
+    "https://openalex.org/W2256356112",
+    "https://openalex.org/W2343060625",
+    "https://openalex.org/W2398642289",
+    "https://openalex.org/W2399203228",
+    "https://openalex.org/W2512784295",
+    "https://openalex.org/W2595861080",
+    "https://openalex.org/W2606513998",
+    "https://openalex.org/W2607097647",
+    "https://openalex.org/W2612526179",
+    "https://openalex.org/W2659662159",
+    "https://openalex.org/W2744377419",
+    "https://openalex.org/W2789349251",
+    "https://openalex.org/W2889231021",
+    "https://openalex.org/W2889955775",
+    "https://openalex.org/W2910389536",
+    "https://openalex.org/W2927160314",
+    "https://openalex.org/W2928776601",
+    "https://openalex.org/W2959793769",
+    "https://openalex.org/W2995806710",
+    "https://openalex.org/W3033665744",
+    "https://openalex.org/W3122252863",
+    "https://openalex.org/W3125939843",
+    "https://openalex.org/W3127046227",
+    "https://openalex.org/W3136794850",
+    "https://openalex.org/W3172510351",
+    "https://openalex.org/W4246504300",
+    "https://openalex.org/W4293068704",
+    "https://openalex.org/W4313377124",
+    "https://openalex.org/W4364352057",
+    "https://openalex.org/W4406979142",
+    "https://openalex.org/W4414322979",
+    "https://openalex.org/W4416958202"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Virus": [
+      0
+    ],
+    "infections": [
+      1
+    ],
+    "elicit": [
+      2
+    ],
+    "long-term": [
+      3
+    ],
+    "IgG": [
+      4,
+      89
+    ],
+    "antibody": [
+      5
+    ],
+    "and": [
+      6,
+      16,
+      54,
+      71,
+      87,
+      104,
+      115,
+      138
+    ],
+    "memory": [
+      7,
+      40,
+      125
+    ],
+    "responses.": [
+      8
+    ],
+    "Human": [
+      9
+    ],
+    "cytomegalovirus": [
+      10
+    ],
+    "(HCMV)": [
+      11
+    ],
+    "is": [
+      12
+    ],
+    "widespread": [
+      13
+    ],
+    "in": [
+      14,
+      57,
+      111
+    ],
+    "humans": [
+      15
+    ],
+    "disseminates": [
+      17
+    ],
+    "despite": [
+      18
+    ],
+    "the": [
+      19,
+      28,
+      51,
+      133
+    ],
+    "presence": [
+      20
+    ],
+    "of": [
+      21,
+      50,
+      69,
+      146
+    ],
+    "virus-specific": [
+      22
+    ],
+    "antibodies.": [
+      23
+    ],
+    "Here,": [
+      24
+    ],
+    "we": [
+      25
+    ],
+    "report": [
+      26
+    ],
+    "that": [
+      27
+    ],
+    "HCMV": [
+      29
+    ],
+    "Fcγ-binding": [
+      30
+    ],
+    "glycoprotein": [
+      31
+    ],
+    "34": [
+      32
+    ],
+    "modulates": [
+      33
+    ],
+    "humoral": [
+      34
+    ],
+    "immunity": [
+      35
+    ],
+    "by": [
+      36,
+      152
+    ],
+    "binding": [
+      37
+    ],
+    "to": [
+      38
+    ],
+    "IgG⁺": [
+      39,
+      99,
+      124
+    ],
+    "B": [
+      41,
+      100,
+      106,
+      126
+    ],
+    "cells.": [
+      42
+    ],
+    "gp34-B": [
+      43
+    ],
+    "cell": [
+      44
+    ],
+    "receptor": [
+      45
+    ],
+    "(BCR)": [
+      46
+    ],
+    "interaction": [
+      47,
+      78
+    ],
+    "initiates": [
+      48
+    ],
+    "activation": [
+      49,
+      66
+    ],
+    "PDK1/AKT/mTOR/S6": [
+      52
+    ],
+    "pathway": [
+      53
+    ],
+    "BCR": [
+      55
+    ],
+    "internalization": [
+      56
+    ],
+    "a": [
+      58,
+      74,
+      129,
+      143
+    ],
+    "SYK-independent": [
+      59
+    ],
+    "manner.": [
+      60
+    ],
+    "Prolonged": [
+      61
+    ],
+    "stimulation": [
+      62,
+      97
+    ],
+    "also": [
+      63
+    ],
+    "induces": [
+      64
+    ],
+    "B-cell": [
+      65,
+      82,
+      134,
+      150
+    ],
+    "via": [
+      67
+    ],
+    "upregulation": [
+      68
+    ],
+    "CD69": [
+      70
+    ],
+    "CD86.": [
+      72
+    ],
+    "In": [
+      73,
+      118
+    ],
+    "T-cell-dependent": [
+      75
+    ],
+    "response,": [
+      76
+    ],
+    "however,": [
+      77
+    ],
+    "with": [
+      79,
+      123
+    ],
+    "gp34": [
+      80,
+      96,
+      120
+    ],
+    "blocks": [
+      81
+    ],
+    "proliferation,": [
+      83,
+      112
+    ],
+    "differentiation": [
+      84
+    ],
+    "into": [
+      85
+    ],
+    "plasmablasts,": [
+      86
+    ],
+    "soluble": [
+      88
+    ],
+    "production,": [
+      90
+    ],
+    "while": [
+      91
+    ],
+    "stimulating": [
+      92
+    ],
+    "TNF-α": [
+      93
+    ],
+    "secretion.": [
+      94,
+      117
+    ],
+    "Through": [
+      95
+    ],
+    "on": [
+      98
+    ],
+    "cells,": [
+      101,
+      127
+    ],
+    "neighboring": [
+      102
+    ],
+    "IgM⁺": [
+      103
+    ],
+    "IgA⁺": [
+      105
+    ],
+    "cells": [
+      107
+    ],
+    "are": [
+      108
+    ],
+    "likewise": [
+      109
+    ],
+    "impaired": [
+      110
+    ],
+    "plasmablast": [
+      113
+    ],
+    "formation,": [
+      114
+    ],
+    "immunoglobulin": [
+      116
+    ],
+    "summary,": [
+      119
+    ],
+    "specifically": [
+      121
+    ],
+    "interacts": [
+      122
+    ],
+    "inducing": [
+      128
+    ],
+    "hyporesponsive": [
+      130
+    ],
+    "state": [
+      131
+    ],
+    "across": [
+      132
+    ],
+    "compartment": [
+      135
+    ],
+    "through": [
+      136
+    ],
+    "direct": [
+      137
+    ],
+    "indirect": [
+      139
+    ],
+    "regulation.": [
+      140
+    ],
+    "This": [
+      141
+    ],
+    "reveals": [
+      142
+    ],
+    "novel": [
+      144
+    ],
+    "mode": [
+      145
+    ],
+    "viral": [
+      147
+    ],
+    "evasion": [
+      148
+    ],
+    "from": [
+      149
+    ],
+    "responses": [
+      151
+    ],
+    "suppressing": [
+      153
+    ],
+    "secondary": [
+      154
+    ],
+    "immunity.": [
+      155
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2026-01-21T00:00:00"
+}

@@ -1,0 +1,815 @@
+{
+  "id": "https://openalex.org/W2549310381",
+  "doi": "https://doi.org/10.1109/iccd.2016.7753304",
+  "title": "A fast, fully verifiable, and hardware predictable ASIC design methodology",
+  "display_name": "A fast, fully verifiable, and hardware predictable ASIC design methodology",
+  "publication_year": 2016,
+  "publication_date": "2016-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2549310381",
+    "doi": "https://doi.org/10.1109/iccd.2016.7753304",
+    "mag": "2549310381"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/iccd.2016.7753304",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/iccd.2016.7753304",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2016 IEEE 34th International Conference on Computer Design (ICCD)",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5063911057",
+        "display_name": "Ping-Lin Yang",
+        "orcid": "https://orcid.org/0000-0002-6723-8190"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154570441",
+          "display_name": "University of California, Santa Barbara",
+          "ror": "https://ror.org/02t274463",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ping-Lin Yang",
+      "raw_affiliation_strings": [
+        "Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5063371595",
+        "display_name": "Malgorzata Marek-Sadowska",
+        "orcid": "https://orcid.org/0000-0002-3934-7031"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154570441",
+          "display_name": "University of California, Santa Barbara",
+          "ror": "https://ror.org/02t274463",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Malgorzata Marek-Sadowska",
+      "raw_affiliation_strings": [
+        "Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.372,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.67333005,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "32",
+    "issue": null,
+    "first_page": "364",
+    "last_page": "367"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11522",
+    "display_name": "VLSI and FPGA Design Techniques",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11522",
+      "display_name": "VLSI and FPGA Design Techniques",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10363",
+      "display_name": "Low-power high-performance VLSI design",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11527",
+      "display_name": "3D IC and TSV technologies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/application-specific-integrated-circuit",
+      "display_name": "Application-specific integrated circuit",
+      "score": 0.8926451802253723
+    },
+    {
+      "id": "https://openalex.org/keywords/field-programmable-gate-array",
+      "display_name": "Field-programmable gate array",
+      "score": 0.804471492767334
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6880455017089844
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.6031121611595154
+    },
+    {
+      "id": "https://openalex.org/keywords/design-flow",
+      "display_name": "Design flow",
+      "score": 0.5871453285217285
+    },
+    {
+      "id": "https://openalex.org/keywords/fpga-prototype",
+      "display_name": "FPGA prototype",
+      "score": 0.5441627502441406
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-hardware",
+      "display_name": "Computer hardware",
+      "score": 0.5051749348640442
+    },
+    {
+      "id": "https://openalex.org/keywords/benchmark",
+      "display_name": "Benchmark (surveying)",
+      "score": 0.4527358412742615
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C77390884",
+      "wikidata": "https://www.wikidata.org/wiki/Q217302",
+      "display_name": "Application-specific integrated circuit",
+      "level": 2,
+      "score": 0.8926451802253723
+    },
+    {
+      "id": "https://openalex.org/C42935608",
+      "wikidata": "https://www.wikidata.org/wiki/Q190411",
+      "display_name": "Field-programmable gate array",
+      "level": 2,
+      "score": 0.804471492767334
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6880455017089844
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.6031121611595154
+    },
+    {
+      "id": "https://openalex.org/C37135326",
+      "wikidata": "https://www.wikidata.org/wiki/Q931942",
+      "display_name": "Design flow",
+      "level": 2,
+      "score": 0.5871453285217285
+    },
+    {
+      "id": "https://openalex.org/C203864433",
+      "wikidata": "https://www.wikidata.org/wiki/Q5426992",
+      "display_name": "FPGA prototype",
+      "level": 3,
+      "score": 0.5441627502441406
+    },
+    {
+      "id": "https://openalex.org/C9390403",
+      "wikidata": "https://www.wikidata.org/wiki/Q3966",
+      "display_name": "Computer hardware",
+      "level": 1,
+      "score": 0.5051749348640442
+    },
+    {
+      "id": "https://openalex.org/C185798385",
+      "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+      "display_name": "Benchmark (surveying)",
+      "level": 2,
+      "score": 0.4527358412742615
+    },
+    {
+      "id": "https://openalex.org/C13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/iccd.2016.7753304",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/iccd.2016.7753304",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2016 IEEE 34th International Conference on Computer Design (ICCD)",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 16,
+  "referenced_works": [
+    "https://openalex.org/W1616249851",
+    "https://openalex.org/W2005602803",
+    "https://openalex.org/W2016461982",
+    "https://openalex.org/W2043301750",
+    "https://openalex.org/W2045617353",
+    "https://openalex.org/W2070686838",
+    "https://openalex.org/W2073530424",
+    "https://openalex.org/W2112813001",
+    "https://openalex.org/W2128337944",
+    "https://openalex.org/W2128473621",
+    "https://openalex.org/W2161903232",
+    "https://openalex.org/W2168635756",
+    "https://openalex.org/W2290590898",
+    "https://openalex.org/W4244413711",
+    "https://openalex.org/W6676777394",
+    "https://openalex.org/W6696841707"
+  ],
+  "related_works": [
+    "https://openalex.org/W1485756991",
+    "https://openalex.org/W2998132311",
+    "https://openalex.org/W2207067480",
+    "https://openalex.org/W4383823603",
+    "https://openalex.org/W1692883217",
+    "https://openalex.org/W2406926880",
+    "https://openalex.org/W2332075903",
+    "https://openalex.org/W2376218453",
+    "https://openalex.org/W2984236338",
+    "https://openalex.org/W2091330445"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      57
+    ],
+    "this": [
+      1,
+      30,
+      55
+    ],
+    "paper,": [
+      2
+    ],
+    "a": [
+      3,
+      50,
+      67,
+      72,
+      78
+    ],
+    "fast,": [
+      4
+    ],
+    "fully": [
+      5
+    ],
+    "verifiable,": [
+      6
+    ],
+    "and": [
+      7,
+      15,
+      35,
+      44,
+      108,
+      195
+    ],
+    "hardware": [
+      8
+    ],
+    "predictable": [
+      9
+    ],
+    "ASIC": [
+      10,
+      127,
+      173
+    ],
+    "design": [
+      11,
+      75,
+      89,
+      154,
+      184
+    ],
+    "methodology": [
+      12,
+      31,
+      147
+    ],
+    "is": [
+      13,
+      49,
+      63,
+      95
+    ],
+    "proposed": [
+      14,
+      59,
+      146
+    ],
+    "demonstrated": [
+      16
+    ],
+    "for": [
+      17,
+      120
+    ],
+    "the": [
+      18,
+      33,
+      58,
+      61,
+      88,
+      92,
+      98,
+      105,
+      109,
+      114,
+      121,
+      129,
+      133,
+      140,
+      150,
+      164,
+      167,
+      170,
+      178,
+      181
+    ],
+    "Vertical": [
+      19
+    ],
+    "Slit": [
+      20
+    ],
+    "FET": [
+      21
+    ],
+    "(VeSFET)": [
+      22
+    ],
+    "based": [
+      23
+    ],
+    "integrated": [
+      24
+    ],
+    "circuits.": [
+      25
+    ],
+    "The": [
+      26,
+      125,
+      145
+    ],
+    "key": [
+      27
+    ],
+    "enablers": [
+      28
+    ],
+    "of": [
+      29,
+      38,
+      54,
+      83,
+      143,
+      152,
+      169,
+      180
+    ],
+    "are": [
+      32,
+      186
+    ],
+    "unique": [
+      34
+    ],
+    "powerful": [
+      36
+    ],
+    "capabilities": [
+      37
+    ],
+    "pillar-based": [
+      39
+    ],
+    "two-side": [
+      40
+    ],
+    "accessible": [
+      41
+    ],
+    "transistor": [
+      42,
+      53
+    ],
+    "arrays": [
+      43
+    ],
+    "monolithic": [
+      45
+    ],
+    "3D": [
+      46,
+      68,
+      93,
+      115,
+      135,
+      182
+    ],
+    "integration.": [
+      47
+    ],
+    "VeSFET": [
+      48
+    ],
+    "successfully": [
+      51
+    ],
+    "fabricated": [
+      52
+    ],
+    "kind.": [
+      56
+    ],
+    "methodology,": [
+      60
+    ],
+    "circuit": [
+      62
+    ],
+    "first": [
+      64
+    ],
+    "designed": [
+      65
+    ],
+    "on": [
+      66,
+      91,
+      113,
+      187
+    ],
+    "FPGA": [
+      69,
+      74,
+      94,
+      116,
+      153,
+      183
+    ],
+    "platform": [
+      70,
+      117,
+      185
+    ],
+    "using": [
+      71
+    ],
+    "conventional": [
+      73
+    ],
+    "flow.": [
+      76,
+      155
+    ],
+    "With": [
+      77
+    ],
+    "little": [
+      79
+    ],
+    "extra": [
+      80
+    ],
+    "Back": [
+      81
+    ],
+    "End": [
+      82
+    ],
+    "Line": [
+      84
+    ],
+    "(BEOL)": [
+      85
+    ],
+    "masking": [
+      86
+    ],
+    "cost,": [
+      87
+    ],
+    "implemented": [
+      90
+    ],
+    "migrated": [
+      96
+    ],
+    "to": [
+      97,
+      163
+    ],
+    "final": [
+      99,
+      122,
+      171
+    ],
+    "2D": [
+      100,
+      123,
+      126,
+      165,
+      172
+    ],
+    "ASIC,": [
+      101
+    ],
+    "which": [
+      102,
+      137
+    ],
+    "has": [
+      103,
+      128
+    ],
+    "exactly": [
+      104
+    ],
+    "same": [
+      106,
+      130
+    ],
+    "performance": [
+      107,
+      168,
+      179
+    ],
+    "verification": [
+      110
+    ],
+    "tasks": [
+      111
+    ],
+    "performed": [
+      112
+    ],
+    "remain": [
+      118
+    ],
+    "valid": [
+      119
+    ],
+    "ASIC.": [
+      124
+    ],
+    "layout": [
+      131
+    ],
+    "as": [
+      132,
+      175,
+      177
+    ],
+    "silicon-proven": [
+      134
+    ],
+    "FPGA,": [
+      136,
+      166
+    ],
+    "greatly": [
+      138
+    ],
+    "mitigates": [
+      139
+    ],
+    "unpredictable": [
+      141
+    ],
+    "factors": [
+      142
+    ],
+    "fabrication.": [
+      144
+    ],
+    "retains": [
+      148
+    ],
+    "all": [
+      149
+    ],
+    "benefits": [
+      151
+    ],
+    "Eleven": [
+      156
+    ],
+    "MCNC": [
+      157
+    ],
+    "benchmark": [
+      158
+    ],
+    "circuits": [
+      159
+    ],
+    "were": [
+      160
+    ],
+    "implemented.": [
+      161
+    ],
+    "Comparing": [
+      162
+    ],
+    "implementation": [
+      174
+    ],
+    "well": [
+      176
+    ],
+    "average": [
+      188
+    ],
+    "15%": [
+      189
+    ],
+    "faster,": [
+      190
+    ],
+    "consume": [
+      191
+    ],
+    "17%": [
+      192
+    ],
+    "less": [
+      193,
+      197
+    ],
+    "power": [
+      194
+    ],
+    "44%": [
+      196
+    ],
+    "area.": [
+      198
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2018,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

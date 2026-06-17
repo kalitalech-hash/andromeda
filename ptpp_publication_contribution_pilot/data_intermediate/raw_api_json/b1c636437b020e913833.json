@@ -1,0 +1,922 @@
+{
+  "id": "https://openalex.org/W4404764689",
+  "doi": "https://doi.org/10.5506/aphyspolbsupp.17.7-a9",
+  "title": "Range Monitoring Capabilities with the SiFi-CC Detector: Spectral-spatial Imaging with Monte Carlo-simulated Data",
+  "display_name": "Range Monitoring Capabilities with the SiFi-CC Detector: Spectral-spatial Imaging with Monte Carlo-simulated Data",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4404764689",
+    "doi": "https://doi.org/10.5506/aphyspolbsupp.17.7-a9"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5506/aphyspolbsupp.17.7-a9",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5506/aphyspolbsupp.17.7-a9",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210192929",
+      "display_name": "Acta Physica Polonica B Proceedings Supplement",
+      "issn_l": "1899-2358",
+      "issn": [
+        "1899-2358",
+        "2082-7865"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317381",
+      "host_organization_name": "Jagiellonian University",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317381"
+      ],
+      "host_organization_lineage_names": [
+        "Jagiellonian University"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Physica Polonica B Proceedings Supplement",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.5506/aphyspolbsupp.17.7-a9",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5079344589",
+        "display_name": "J. Röser",
+        "orcid": "https://orcid.org/0000-0002-5739-1132"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "J. Roser",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085577749",
+        "display_name": "M. Rafecas",
+        "orcid": "https://orcid.org/0000-0001-5691-7756"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M. Rafecas",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037141896",
+        "display_name": "Ronja Hetzel",
+        "orcid": "https://orcid.org/0000-0002-6142-6609"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "R. Hetzel",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057295502",
+        "display_name": "Ph.P.J.E. Clément",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P. Clement",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114824023",
+        "display_name": "Alexander Fenger",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A. Fenger",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110252795",
+        "display_name": "J. Kasper",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "J. Kasper",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085735564",
+        "display_name": "Lara Mielke",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "L. Mielke",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055290893",
+        "display_name": "A. Stahl",
+        "orcid": "https://orcid.org/0000-0002-8369-7506"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A. Stahl",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092418402",
+        "display_name": "Monika Kercz",
+        "orcid": "https://orcid.org/0009-0007-6792-8945"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M. Kercz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047913755",
+        "display_name": "Magdalena Kołodziej",
+        "orcid": "https://orcid.org/0000-0001-6956-6975"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M. Kołodziej",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053480752",
+        "display_name": "Katarzyna Rusiecka",
+        "orcid": "https://orcid.org/0000-0003-2554-0612"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "K. Rusiecka",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5103275204",
+        "display_name": "A. Wrońska",
+        "orcid": "https://orcid.org/0000-0003-0126-3315"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A. Wrońska",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.1856,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.52634392,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "17",
+    "issue": "7",
+    "first_page": "1",
+    "last_page": "1"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11992",
+    "display_name": "CCD and CMOS Imaging Sensors",
+    "score": 0.8913999795913696,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11992",
+      "display_name": "CCD and CMOS Imaging Sensors",
+      "score": 0.8913999795913696,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12039",
+      "display_name": "Electron and X-Ray Spectroscopy Techniques",
+      "score": 0.8458999991416931,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2508",
+        "display_name": "Surfaces, Coatings and Films"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11169",
+      "display_name": "Silicon Nanostructures and Photoluminescence",
+      "score": 0.8439000248908997,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/monte-carlo-method",
+      "display_name": "Monte Carlo method",
+      "score": 0.7557826042175293
+    },
+    {
+      "id": "https://openalex.org/keywords/detector",
+      "display_name": "Detector",
+      "score": 0.5203002095222473
+    },
+    {
+      "id": "https://openalex.org/keywords/range",
+      "display_name": "Range (aeronautics)",
+      "score": 0.48338738083839417
+    },
+    {
+      "id": "https://openalex.org/keywords/statistical-physics",
+      "display_name": "Statistical physics",
+      "score": 0.374189555644989
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.3235466480255127
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.24523133039474487
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.17626217007637024
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.1559385061264038
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.15314128994941711
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C19499675",
+      "wikidata": "https://www.wikidata.org/wiki/Q232207",
+      "display_name": "Monte Carlo method",
+      "level": 2,
+      "score": 0.7557826042175293
+    },
+    {
+      "id": "https://openalex.org/C94915269",
+      "wikidata": "https://www.wikidata.org/wiki/Q1834857",
+      "display_name": "Detector",
+      "level": 2,
+      "score": 0.5203002095222473
+    },
+    {
+      "id": "https://openalex.org/C204323151",
+      "wikidata": "https://www.wikidata.org/wiki/Q905424",
+      "display_name": "Range (aeronautics)",
+      "level": 2,
+      "score": 0.48338738083839417
+    },
+    {
+      "id": "https://openalex.org/C121864883",
+      "wikidata": "https://www.wikidata.org/wiki/Q677916",
+      "display_name": "Statistical physics",
+      "level": 1,
+      "score": 0.374189555644989
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.3235466480255127
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.24523133039474487
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.17626217007637024
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.1559385061264038
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.15314128994941711
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.5506/aphyspolbsupp.17.7-a9",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5506/aphyspolbsupp.17.7-a9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210192929",
+        "display_name": "Acta Physica Polonica B Proceedings Supplement",
+        "issn_l": "1899-2358",
+        "issn": [
+          "1899-2358",
+          "2082-7865"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310317381",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310317381"
+        ],
+        "host_organization_lineage_names": [
+          "Jagiellonian University"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta Physica Polonica B Proceedings Supplement",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/542132",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/handle/item/542132",
+      "pdf_url": "http://ruj.uj.edu.pl/bitstreams/bfe211e2-e100-4886-a9bb-bbbec15feff1/download",
+      "source": {
+        "id": "https://openalex.org/S4306401249",
+        "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I126596746",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/I126596746"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5506/aphyspolbsupp.17.7-a9",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5506/aphyspolbsupp.17.7-a9",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210192929",
+      "display_name": "Acta Physica Polonica B Proceedings Supplement",
+      "issn_l": "1899-2358",
+      "issn": [
+        "1899-2358",
+        "2082-7865"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317381",
+      "host_organization_name": "Jagiellonian University",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317381"
+      ],
+      "host_organization_lineage_names": [
+        "Jagiellonian University"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Physica Polonica B Proceedings Supplement",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.4099999964237213,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3973332551",
+      "display_name": null,
+      "funder_award_id": "383681334",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2935759653",
+    "https://openalex.org/W3105167352",
+    "https://openalex.org/W54078636",
+    "https://openalex.org/W2954470139",
+    "https://openalex.org/W1501425562",
+    "https://openalex.org/W2902782467",
+    "https://openalex.org/W3084825885",
+    "https://openalex.org/W2298861036",
+    "https://openalex.org/W2005266888"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      98
+    ],
+    "SiFi-CC": [
+      1,
+      105
+    ],
+    "group": [
+      2
+    ],
+    "is": [
+      3,
+      44
+    ],
+    "developing": [
+      4
+    ],
+    "a": [
+      5,
+      56
+    ],
+    "scintillating-fiber-based": [
+      6
+    ],
+    "Compton": [
+      7
+    ],
+    "camera": [
+      8
+    ],
+    "for": [
+      9,
+      15,
+      32,
+      40,
+      68
+    ],
+    "high-efficiency": [
+      10
+    ],
+    "gamma-ray": [
+      11
+    ],
+    "imaging,": [
+      12
+    ],
+    "specifically": [
+      13
+    ],
+    "tailored": [
+      14
+    ],
+    "online": [
+      16
+    ],
+    "range": [
+      17,
+      42
+    ],
+    "verification": [
+      18
+    ],
+    "in": [
+      19
+    ],
+    "particle": [
+      20
+    ],
+    "therapy.": [
+      21
+    ],
+    "After": [
+      22
+    ],
+    "thorough": [
+      23
+    ],
+    "optimization": [
+      24
+    ],
+    "studies,": [
+      25
+    ],
+    "including": [
+      26
+    ],
+    "the": [
+      27,
+      35,
+      38,
+      61,
+      69,
+      73,
+      80,
+      85,
+      101,
+      104,
+      110
+    ],
+    "development": [
+      28
+    ],
+    "of": [
+      29,
+      37,
+      87,
+      103
+    ],
+    "neural-network": [
+      30
+    ],
+    "approaches": [
+      31
+    ],
+    "event": [
+      33
+    ],
+    "selection,": [
+      34
+    ],
+    "capability": [
+      36,
+      102
+    ],
+    "prototype": [
+      39,
+      107
+    ],
+    "detecting": [
+      41
+    ],
+    "deviations": [
+      43
+    ],
+    "being": [
+      45
+    ],
+    "studied": [
+      46
+    ],
+    "by": [
+      47
+    ],
+    "using": [
+      48
+    ],
+    "realistic": [
+      49
+    ],
+    "Monte": [
+      50
+    ],
+    "Carlo": [
+      51
+    ],
+    "simulations.": [
+      52
+    ],
+    "We": [
+      53
+    ],
+    "have": [
+      54
+    ],
+    "implemented": [
+      55
+    ],
+    "spectral-spatial": [
+      57
+    ],
+    "reconstruction": [
+      58
+    ],
+    "based": [
+      59
+    ],
+    "on": [
+      60
+    ],
+    "LM-MLEM": [
+      62
+    ],
+    "algorithm": [
+      63
+    ],
+    "and": [
+      64,
+      72,
+      115
+    ],
+    "spectral": [
+      65
+    ],
+    "analytical": [
+      66
+    ],
+    "models": [
+      67
+    ],
+    "system": [
+      70
+    ],
+    "matrix": [
+      71
+    ],
+    "sensitivity.": [
+      74
+    ],
+    "In": [
+      75
+    ],
+    "this": [
+      76
+    ],
+    "work,": [
+      77
+    ],
+    "we": [
+      78
+    ],
+    "show": [
+      79,
+      100
+    ],
+    "reconstructed": [
+      81
+    ],
+    "images": [
+      82
+    ],
+    "obtained": [
+      83
+    ],
+    "from": [
+      84
+    ],
+    "irradiation": [
+      86
+    ],
+    "PMMA": [
+      88
+    ],
+    "phantoms": [
+      89
+    ],
+    "with": [
+      90
+    ],
+    "4": [
+      91
+    ],
+    "$\\times$": [
+      92
+    ],
+    "10$^{9}$": [
+      93
+    ],
+    "protons": [
+      94
+    ],
+    "at": [
+      95
+    ],
+    "therapeutic": [
+      96
+    ],
+    "energies.": [
+      97
+    ],
+    "results": [
+      99
+    ],
+    "detector": [
+      106
+    ],
+    "to": [
+      108,
+      116
+    ],
+    "recover": [
+      109
+    ],
+    "4.44": [
+      111
+    ],
+    "MeV": [
+      112
+    ],
+    "prompt-gamma": [
+      113
+    ],
+    "line": [
+      114
+    ],
+    "detect": [
+      117
+    ],
+    "5": [
+      118
+    ],
+    "mm": [
+      119
+    ],
+    "Bragg": [
+      120
+    ],
+    "peak": [
+      121
+    ],
+    "shifts.": [
+      122
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

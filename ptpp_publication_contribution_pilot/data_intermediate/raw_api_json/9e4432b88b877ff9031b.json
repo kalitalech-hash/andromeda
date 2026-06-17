@@ -1,0 +1,1342 @@
+{
+  "id": "https://openalex.org/W4395670964",
+  "doi": "https://doi.org/10.1101/2024.04.21.590436",
+  "title": "Metabolic Reprogramming Driven by Ant2 -Targeting Augments T-Cell Function and Anti-Tumor Immunity",
+  "display_name": "Metabolic Reprogramming Driven by Ant2 -Targeting Augments T-Cell Function and Anti-Tumor Immunity",
+  "publication_year": 2024,
+  "publication_date": "2024-04-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4395670964",
+    "doi": "https://doi.org/10.1101/2024.04.21.590436"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/2024.04.21.590436",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2024.04.21.590436",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/25/2024.04.21.590436.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/25/2024.04.21.590436.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5029083173",
+        "display_name": "Omri Yosef",
+        "orcid": "https://orcid.org/0000-0003-4035-6506"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Omri Yosef",
+      "raw_affiliation_strings": [
+        "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079868259",
+        "display_name": "Leonor Cohen‐Daniel",
+        "orcid": "https://orcid.org/0000-0002-4904-1087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Leonor Cohen-Daniel",
+      "raw_affiliation_strings": [
+        "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063591705",
+        "display_name": "Oded Shamriz",
+        "orcid": "https://orcid.org/0000-0003-3188-2707"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Oded Shamriz",
+      "raw_affiliation_strings": [
+        "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5095905722",
+        "display_name": "Zahala Bar-On",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zahala Bar-On",
+      "raw_affiliation_strings": [
+        "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063987649",
+        "display_name": "Amijai Saragovi",
+        "orcid": "https://orcid.org/0000-0002-4376-1390"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amijai Saragovi",
+      "raw_affiliation_strings": [
+        "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078268438",
+        "display_name": "Ifat Abramovich",
+        "orcid": "https://orcid.org/0009-0009-8760-6630"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I174306211",
+          "display_name": "Technion – Israel Institute of Technology",
+          "ror": "https://ror.org/03qryx823",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I174306211"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ifat Abramovich",
+      "raw_affiliation_strings": [
+        "The Ruth and Bruce Rappaport, Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Ruth and Bruce Rappaport, Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel",
+          "institution_ids": [
+            "https://openalex.org/I174306211"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030529097",
+        "display_name": "Bella Agranovich",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I174306211",
+          "display_name": "Technion – Israel Institute of Technology",
+          "ror": "https://ror.org/03qryx823",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I174306211"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bella Agranovich",
+      "raw_affiliation_strings": [
+        "The Ruth and Bruce Rappaport, Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Ruth and Bruce Rappaport, Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel",
+          "institution_ids": [
+            "https://openalex.org/I174306211"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028766257",
+        "display_name": "Veronika Lutz",
+        "orcid": "https://orcid.org/0000-0002-3139-0916"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Veronika Lutz",
+      "raw_affiliation_strings": [
+        "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064634234",
+        "display_name": "Joseph Tam",
+        "orcid": "https://orcid.org/0000-0002-0948-0093"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joseph Tam",
+      "raw_affiliation_strings": [
+        "Obesity and Metabolism Laboratory, The Institute for Drug Research, School of Pharmacy, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity and Metabolism Laboratory, The Institute for Drug Research, School of Pharmacy, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102954823",
+        "display_name": "Anna Permyakova",
+        "orcid": "https://orcid.org/0000-0003-3016-050X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Permyakova",
+      "raw_affiliation_strings": [
+        "Obesity and Metabolism Laboratory, The Institute for Drug Research, School of Pharmacy, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity and Metabolism Laboratory, The Institute for Drug Research, School of Pharmacy, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091741754",
+        "display_name": "Eyal Gottlieb",
+        "orcid": "https://orcid.org/0000-0002-9770-0956"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1343551460",
+          "display_name": "The University of Texas MD Anderson Cancer Center",
+          "ror": "https://ror.org/04twxam07",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1343551460"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eyal Gottlieb",
+      "raw_affiliation_strings": [
+        "Department of Cancer Biology, University of Texas MD Anderson Cancer Center, Houston, TX, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer Biology, University of Texas MD Anderson Cancer Center, Houston, TX, USA",
+          "institution_ids": [
+            "https://openalex.org/I1343551460"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003119147",
+        "display_name": "Magdalena Huber",
+        "orcid": "https://orcid.org/0000-0002-2963-0693"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Huber",
+      "raw_affiliation_strings": [
+        "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Systems Immunology, Philipps-University Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5003105833",
+        "display_name": "Michael Berger",
+        "orcid": "https://orcid.org/0000-0002-3469-0076"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Michael Berger",
+      "raw_affiliation_strings": [
+        "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3469-0076",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Institute for Medical Research Israel-Canada, The Hebrew University Medical School, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 13,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5003105833"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I197251160"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10839",
+    "display_name": "Pancreatic function and diabetes",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2746",
+      "display_name": "Surgery"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10839",
+      "display_name": "Pancreatic function and diabetes",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10631",
+      "display_name": "Cancer, Hypoxia, and Metabolism",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "score": 0.9919000267982483,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/reprogramming",
+      "display_name": "Reprogramming",
+      "score": 0.7934231162071228
+    },
+    {
+      "id": "https://openalex.org/keywords/immunity",
+      "display_name": "Immunity",
+      "score": 0.6222130060195923
+    },
+    {
+      "id": "https://openalex.org/keywords/function",
+      "display_name": "Function (biology)",
+      "score": 0.5850907564163208
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.5020890235900879
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.3899092376232147
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.37505578994750977
+    },
+    {
+      "id": "https://openalex.org/keywords/immune-system",
+      "display_name": "Immune system",
+      "score": 0.37297767400741577
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-research",
+      "display_name": "Cancer research",
+      "score": 0.34903571009635925
+    },
+    {
+      "id": "https://openalex.org/keywords/immunology",
+      "display_name": "Immunology",
+      "score": 0.3114953935146332
+    },
+    {
+      "id": "https://openalex.org/keywords/cell",
+      "display_name": "Cell",
+      "score": 0.30275535583496094
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.1438717544078827
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C77255625",
+      "wikidata": "https://www.wikidata.org/wiki/Q402093",
+      "display_name": "Reprogramming",
+      "level": 3,
+      "score": 0.7934231162071228
+    },
+    {
+      "id": "https://openalex.org/C2779341262",
+      "wikidata": "https://www.wikidata.org/wiki/Q182581",
+      "display_name": "Immunity",
+      "level": 3,
+      "score": 0.6222130060195923
+    },
+    {
+      "id": "https://openalex.org/C14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "level": 2,
+      "score": 0.5850907564163208
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5020890235900879
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.3899092376232147
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.37505578994750977
+    },
+    {
+      "id": "https://openalex.org/C8891405",
+      "wikidata": "https://www.wikidata.org/wiki/Q1059",
+      "display_name": "Immune system",
+      "level": 2,
+      "score": 0.37297767400741577
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.34903571009635925
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.3114953935146332
+    },
+    {
+      "id": "https://openalex.org/C1491633281",
+      "wikidata": "https://www.wikidata.org/wiki/Q7868",
+      "display_name": "Cell",
+      "level": 2,
+      "score": 0.30275535583496094
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.1438717544078827
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/2024.04.21.590436",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/2024.04.21.590436",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/25/2024.04.21.590436.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/2024.04.21.590436",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2024.04.21.590436",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/25/2024.04.21.590436.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306155",
+      "display_name": "Cancer Research Institute",
+      "ror": "https://ror.org/02f3xk561"
+    },
+    {
+      "id": "https://openalex.org/F4320306740",
+      "display_name": "Israel Cancer Research Fund",
+      "ror": "https://ror.org/02h43gk75"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4395670964.pdf"
+  },
+  "referenced_works_count": 71,
+  "referenced_works": [
+    "https://openalex.org/W1578040179",
+    "https://openalex.org/W1859082030",
+    "https://openalex.org/W1967727543",
+    "https://openalex.org/W1970400427",
+    "https://openalex.org/W1975566288",
+    "https://openalex.org/W1976714959",
+    "https://openalex.org/W1979379426",
+    "https://openalex.org/W1988751970",
+    "https://openalex.org/W1996311090",
+    "https://openalex.org/W2000148777",
+    "https://openalex.org/W2018371251",
+    "https://openalex.org/W2052059019",
+    "https://openalex.org/W2063820965",
+    "https://openalex.org/W2069166009",
+    "https://openalex.org/W2072904608",
+    "https://openalex.org/W2084034472",
+    "https://openalex.org/W2091920256",
+    "https://openalex.org/W2093897123",
+    "https://openalex.org/W2103304356",
+    "https://openalex.org/W2105697998",
+    "https://openalex.org/W2122830690",
+    "https://openalex.org/W2125399852",
+    "https://openalex.org/W2134294998",
+    "https://openalex.org/W2145933283",
+    "https://openalex.org/W2180760460",
+    "https://openalex.org/W2216910489",
+    "https://openalex.org/W2300430609",
+    "https://openalex.org/W2337576976",
+    "https://openalex.org/W2344717682",
+    "https://openalex.org/W2472560175",
+    "https://openalex.org/W2505159449",
+    "https://openalex.org/W2579054962",
+    "https://openalex.org/W2588735543",
+    "https://openalex.org/W2601181501",
+    "https://openalex.org/W2607349616",
+    "https://openalex.org/W2620012347",
+    "https://openalex.org/W2743056880",
+    "https://openalex.org/W2755168258",
+    "https://openalex.org/W2760375764",
+    "https://openalex.org/W2761314975",
+    "https://openalex.org/W2761356900",
+    "https://openalex.org/W2765878450",
+    "https://openalex.org/W2786055362",
+    "https://openalex.org/W2901847109",
+    "https://openalex.org/W2904437342",
+    "https://openalex.org/W2928665623",
+    "https://openalex.org/W2967050212",
+    "https://openalex.org/W2980348324",
+    "https://openalex.org/W2980583633",
+    "https://openalex.org/W2989776509",
+    "https://openalex.org/W2997046468",
+    "https://openalex.org/W3000377151",
+    "https://openalex.org/W3009792425",
+    "https://openalex.org/W3015893062",
+    "https://openalex.org/W3048248937",
+    "https://openalex.org/W3092645651",
+    "https://openalex.org/W3097472101",
+    "https://openalex.org/W3113834486",
+    "https://openalex.org/W3132765763",
+    "https://openalex.org/W3159656072",
+    "https://openalex.org/W3161479873",
+    "https://openalex.org/W3195609384",
+    "https://openalex.org/W3199626601",
+    "https://openalex.org/W3206910313",
+    "https://openalex.org/W4214503098",
+    "https://openalex.org/W4225710977",
+    "https://openalex.org/W4229021889",
+    "https://openalex.org/W4254834756",
+    "https://openalex.org/W4285037668",
+    "https://openalex.org/W4386264924",
+    "https://openalex.org/W4390744421"
+  ],
+  "related_works": [
+    "https://openalex.org/W1631979401",
+    "https://openalex.org/W2395945797",
+    "https://openalex.org/W1497716427",
+    "https://openalex.org/W2129470469",
+    "https://openalex.org/W2368295610",
+    "https://openalex.org/W1543102035",
+    "https://openalex.org/W2946692299",
+    "https://openalex.org/W3014941007",
+    "https://openalex.org/W2183075003",
+    "https://openalex.org/W2990520546"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "T-cell": [
+      1,
+      136,
+      149
+    ],
+    "activation": [
+      2
+    ],
+    "requires": [
+      3
+    ],
+    "a": [
+      4,
+      43
+    ],
+    "substantial": [
+      5
+    ],
+    "increase": [
+      6
+    ],
+    "in": [
+      7,
+      102,
+      147
+    ],
+    "NAD": [
+      8,
+      62
+    ],
+    "+": [
+      9,
+      63
+    ],
+    "production,": [
+      10
+    ],
+    "often": [
+      11
+    ],
+    "exceeding": [
+      12
+    ],
+    "the": [
+      13,
+      107,
+      126,
+      141,
+      153
+    ],
+    "capacity": [
+      14
+    ],
+    "of": [
+      15,
+      41,
+      100,
+      116,
+      144,
+      156
+    ],
+    "oxidative": [
+      16
+    ],
+    "phosphorylation": [
+      17
+    ],
+    "(OXPHOS).": [
+      18
+    ],
+    "To": [
+      19
+    ],
+    "investigate": [
+      20
+    ],
+    "how": [
+      21
+    ],
+    "T": [
+      22,
+      31,
+      69,
+      104,
+      123
+    ],
+    "cells": [
+      23,
+      70,
+      87,
+      105,
+      124
+    ],
+    "adapt": [
+      24
+    ],
+    "to": [
+      25,
+      79,
+      134
+    ],
+    "this": [
+      26
+    ],
+    "metabolic": [
+      27,
+      91,
+      128
+    ],
+    "challenge,": [
+      28
+    ],
+    "we": [
+      29
+    ],
+    "generated": [
+      30
+    ],
+    "cell-specific": [
+      32
+    ],
+    "ADP/ATP": [
+      33,
+      47
+    ],
+    "translocase-2": [
+      34
+    ],
+    "knockout": [
+      35
+    ],
+    "(Ant2": [
+      36
+    ],
+    "−/−": [
+      37,
+      67,
+      109
+    ],
+    ")": [
+      38
+    ],
+    "mice.": [
+      39
+    ],
+    "Loss": [
+      40
+    ],
+    "Ant2,": [
+      42
+    ],
+    "crucial": [
+      44
+    ],
+    "protein": [
+      45
+    ],
+    "mediating": [
+      46
+    ],
+    "exchange": [
+      48
+    ],
+    "between": [
+      49
+    ],
+    "mitochondria": [
+      50
+    ],
+    "and": [
+      51,
+      75,
+      96,
+      111,
+      151
+    ],
+    "cytoplasm,": [
+      52
+    ],
+    "induces": [
+      53
+    ],
+    "OXPHOS": [
+      54
+    ],
+    "restriction": [
+      55
+    ],
+    "by": [
+      56
+    ],
+    "limiting": [
+      57
+    ],
+    "ATP": [
+      58
+    ],
+    "synthase": [
+      59
+    ],
+    "activity,": [
+      60
+    ],
+    "impeding": [
+      61
+    ],
+    "regeneration.": [
+      64
+    ],
+    "Interestingly,": [
+      65
+    ],
+    "Ant2": [
+      66,
+      108
+    ],
+    "naïve": [
+      68
+    ],
+    "exhibited": [
+      71
+    ],
+    "enhanced": [
+      72,
+      135
+    ],
+    "activation,": [
+      73,
+      132
+    ],
+    "proliferation,": [
+      74
+    ],
+    "effector": [
+      76
+    ],
+    "functions": [
+      77
+    ],
+    "compared": [
+      78
+    ],
+    "wild-type": [
+      80,
+      103
+    ],
+    "controls.": [
+      81
+    ],
+    "Metabolic": [
+      82
+    ],
+    "profiling": [
+      83
+    ],
+    "revealed": [
+      84
+    ],
+    "that": [
+      85,
+      121
+    ],
+    "these": [
+      86
+    ],
+    "adopt": [
+      88
+    ],
+    "an": [
+      89
+    ],
+    "activated-like": [
+      90
+    ],
+    "program": [
+      92
+    ],
+    "with": [
+      93
+    ],
+    "increased": [
+      94
+    ],
+    "mitobiogenesis": [
+      95
+    ],
+    "anabolism.": [
+      97
+    ],
+    "Pharmacological": [
+      98
+    ],
+    "inhibition": [
+      99
+    ],
+    "ANT": [
+      101,
+      158
+    ],
+    "recapitulated": [
+      106
+    ],
+    "phenotype,": [
+      110
+    ],
+    "improved": [
+      112
+    ],
+    "adoptive": [
+      113
+    ],
+    "cell": [
+      114
+    ],
+    "therapy": [
+      115
+    ],
+    "cancer.": [
+      117
+    ],
+    "Our": [
+      118
+    ],
+    "findings": [
+      119
+    ],
+    "suggest": [
+      120
+    ],
+    "Ant2-deficient": [
+      122
+    ],
+    "bypass": [
+      125
+    ],
+    "typical": [
+      127
+    ],
+    "reprogramming": [
+      129
+    ],
+    "required": [
+      130
+    ],
+    "for": [
+      131,
+      159
+    ],
+    "leading": [
+      133
+    ],
+    "function.": [
+      137
+    ],
+    "These": [
+      138
+    ],
+    "results": [
+      139
+    ],
+    "highlight": [
+      140
+    ],
+    "critical": [
+      142
+    ],
+    "role": [
+      143
+    ],
+    "mitochondrial": [
+      145
+    ],
+    "metabolism": [
+      146
+    ],
+    "regulating": [
+      148
+    ],
+    "fate": [
+      150
+    ],
+    "underscore": [
+      152
+    ],
+    "therapeutic": [
+      154
+    ],
+    "potential": [
+      155
+    ],
+    "targeting": [
+      157
+    ],
+    "immune": [
+      160
+    ],
+    "modulation.": [
+      161
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,2047 @@
+{
+  "id": "https://openalex.org/W2023524392",
+  "doi": "https://doi.org/10.1371/journal.pone.0122479",
+  "title": "Genome-Wide Analysis of In Vivo Binding of the Master Regulator DasR in Streptomyces coelicolor Identifies Novel Non-Canonical Targets",
+  "display_name": "Genome-Wide Analysis of In Vivo Binding of the Master Regulator DasR in Streptomyces coelicolor Identifies Novel Non-Canonical Targets",
+  "publication_year": 2015,
+  "publication_date": "2015-04-15",
+  "ids": {
+    "openalex": "https://openalex.org/W2023524392",
+    "doi": "https://doi.org/10.1371/journal.pone.0122479",
+    "mag": "2023524392",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/25875084"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1371/journal.pone.0122479",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0122479",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0122479&type=printable",
+    "source": {
+      "id": "https://openalex.org/S202381698",
+      "display_name": "PLoS ONE",
+      "issn_l": "1932-6203",
+      "issn": [
+        "1932-6203"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS ONE",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0122479&type=printable",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5077834397",
+        "display_name": "Magdalena A. Świątek‐Połatyńska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena A. Świątek-Połatyńska",
+      "raw_affiliation_strings": [
+        "Molecular Biotechnology, Institute of Biology Leiden, Leiden University, PO Box 9502, 2300 RA Leiden, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Molecular Biotechnology, Institute of Biology Leiden, Leiden University, PO Box 9502, 2300 RA Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062205436",
+        "display_name": "Giselda Bucca",
+        "orcid": "https://orcid.org/0000-0001-5286-7771"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28290843",
+          "display_name": "University of Surrey",
+          "ror": "https://ror.org/00ks66431",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giselda Bucca",
+      "raw_affiliation_strings": [
+        "Department of Microbial and Cellular Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbial and Cellular Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040416265",
+        "display_name": "Emma Laing",
+        "orcid": "https://orcid.org/0000-0002-2095-2442"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28290843",
+          "display_name": "University of Surrey",
+          "ror": "https://ror.org/00ks66431",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emma Laing",
+      "raw_affiliation_strings": [
+        "Department of Microbial and Cellular Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbial and Cellular Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021317839",
+        "display_name": "Jacob Gubbens",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacob Gubbens",
+      "raw_affiliation_strings": [
+        "Molecular Biotechnology, Institute of Biology Leiden, Leiden University, PO Box 9502, 2300 RA Leiden, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Molecular Biotechnology, Institute of Biology Leiden, Leiden University, PO Box 9502, 2300 RA Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033578450",
+        "display_name": "Fritz Titgemeyer",
+        "orcid": "https://orcid.org/0009-0002-6235-398X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63274643",
+          "display_name": "FH Münster",
+          "ror": "https://ror.org/00pv45a02",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63274643"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fritz Titgemeyer",
+      "raw_affiliation_strings": [
+        "Department of Oecotrophologie, Münster University of Applied Sciences, Corrensstr. 25, 48149 Münster, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oecotrophologie, Münster University of Applied Sciences, Corrensstr. 25, 48149 Münster, Germany",
+          "institution_ids": [
+            "https://openalex.org/I63274643"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002779798",
+        "display_name": "Colin P. Smith",
+        "orcid": "https://orcid.org/0000-0001-9042-2263"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28290843",
+          "display_name": "University of Surrey",
+          "ror": "https://ror.org/00ks66431",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Colin P. Smith",
+      "raw_affiliation_strings": [
+        "Department of Microbial and Cellular Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbial and Cellular Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052155181",
+        "display_name": "Sébastien Rigali",
+        "orcid": "https://orcid.org/0000-0003-4022-7325"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157674565",
+          "display_name": "University of Liège",
+          "ror": "https://ror.org/00afp2z80",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157674565"
+          ]
+        }
+      ],
+      "countries": [
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sébastien Rigali",
+      "raw_affiliation_strings": [
+        "Centre for Protein Engineering, Université de Liège, Institut de Chimie B6a, Sart-Tilman, B-4000 Liège, Belgium"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Protein Engineering, Université de Liège, Institut de Chimie B6a, Sart-Tilman, B-4000 Liège, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I157674565"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5091052284",
+        "display_name": "Gilles P. van Wezel",
+        "orcid": "https://orcid.org/0000-0003-0341-1561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Gilles P. van Wezel",
+      "raw_affiliation_strings": [
+        "Molecular Biotechnology, Institute of Biology Leiden, Leiden University, PO Box 9502, 2300 RA Leiden, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Molecular Biotechnology, Institute of Biology Leiden, Leiden University, PO Box 9502, 2300 RA Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5091052284"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I121797337"
+  ],
+  "apc_list": {
+    "value": 1805,
+    "currency": "USD",
+    "value_usd": 1805
+  },
+  "apc_paid": {
+    "value": 1805,
+    "currency": "USD",
+    "value_usd": 1805
+  },
+  "fwci": 7.6655,
+  "has_fulltext": true,
+  "cited_by_count": 63,
+  "citation_normalized_percentile": {
+    "value": 0.9750315,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "10",
+    "issue": "4",
+    "first_page": "e0122479",
+    "last_page": "e0122479"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10252",
+    "display_name": "Microbial Natural Products and Biosynthesis",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2736",
+      "display_name": "Pharmacology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10252",
+      "display_name": "Microbial Natural Products and Biosynthesis",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10015",
+      "display_name": "Genomics and Phylogenetic Studies",
+      "score": 0.9918000102043152,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10835",
+      "display_name": "Carbohydrate Chemistry and Synthesis",
+      "score": 0.9869999885559082,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1605",
+        "display_name": "Organic Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/streptomyces-coelicolor",
+      "display_name": "Streptomyces coelicolor",
+      "score": 0.9628405570983887
+    },
+    {
+      "id": "https://openalex.org/keywords/regulon",
+      "display_name": "Regulon",
+      "score": 0.9522724151611328
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.7385681867599487
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.58338463306427
+    },
+    {
+      "id": "https://openalex.org/keywords/secondary-metabolism",
+      "display_name": "Secondary metabolism",
+      "score": 0.5758563876152039
+    },
+    {
+      "id": "https://openalex.org/keywords/regulator",
+      "display_name": "Regulator",
+      "score": 0.570378303527832
+    },
+    {
+      "id": "https://openalex.org/keywords/transcriptome",
+      "display_name": "Transcriptome",
+      "score": 0.5641660094261169
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.554619550704956
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.5067573189735413
+    },
+    {
+      "id": "https://openalex.org/keywords/response-regulator",
+      "display_name": "Response regulator",
+      "score": 0.4943356513977051
+    },
+    {
+      "id": "https://openalex.org/keywords/streptomyces",
+      "display_name": "Streptomyces",
+      "score": 0.4602465033531189
+    },
+    {
+      "id": "https://openalex.org/keywords/promoter",
+      "display_name": "Promoter",
+      "score": 0.4567192792892456
+    },
+    {
+      "id": "https://openalex.org/keywords/regulation-of-gene-expression",
+      "display_name": "Regulation of gene expression",
+      "score": 0.44423747062683105
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.4255506992340088
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.4037333130836487
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.2696577310562134
+    },
+    {
+      "id": "https://openalex.org/keywords/bacteria",
+      "display_name": "Bacteria",
+      "score": 0.1177290678024292
+    },
+    {
+      "id": "https://openalex.org/keywords/biosynthesis",
+      "display_name": "Biosynthesis",
+      "score": 0.10543769598007202
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780681812",
+      "wikidata": "https://www.wikidata.org/wiki/Q22286833",
+      "display_name": "Streptomyces coelicolor",
+      "level": 4,
+      "score": 0.9628405570983887
+    },
+    {
+      "id": "https://openalex.org/C62361671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1754612",
+      "display_name": "Regulon",
+      "level": 4,
+      "score": 0.9522724151611328
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.7385681867599487
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.58338463306427
+    },
+    {
+      "id": "https://openalex.org/C2777157883",
+      "wikidata": "https://www.wikidata.org/wiki/Q3360529",
+      "display_name": "Secondary metabolism",
+      "level": 4,
+      "score": 0.5758563876152039
+    },
+    {
+      "id": "https://openalex.org/C6929976",
+      "wikidata": "https://www.wikidata.org/wiki/Q3771881",
+      "display_name": "Regulator",
+      "level": 3,
+      "score": 0.570378303527832
+    },
+    {
+      "id": "https://openalex.org/C162317418",
+      "wikidata": "https://www.wikidata.org/wiki/Q252857",
+      "display_name": "Transcriptome",
+      "level": 4,
+      "score": 0.5641660094261169
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.554619550704956
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.5067573189735413
+    },
+    {
+      "id": "https://openalex.org/C2781196521",
+      "wikidata": "https://www.wikidata.org/wiki/Q24965710",
+      "display_name": "Response regulator",
+      "level": 4,
+      "score": 0.4943356513977051
+    },
+    {
+      "id": "https://openalex.org/C2779920670",
+      "wikidata": "https://www.wikidata.org/wiki/Q1144013",
+      "display_name": "Streptomyces",
+      "level": 3,
+      "score": 0.4602465033531189
+    },
+    {
+      "id": "https://openalex.org/C101762097",
+      "wikidata": "https://www.wikidata.org/wiki/Q224093",
+      "display_name": "Promoter",
+      "level": 4,
+      "score": 0.4567192792892456
+    },
+    {
+      "id": "https://openalex.org/C165864922",
+      "wikidata": "https://www.wikidata.org/wiki/Q411391",
+      "display_name": "Regulation of gene expression",
+      "level": 3,
+      "score": 0.44423747062683105
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.4255506992340088
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.4037333130836487
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.2696577310562134
+    },
+    {
+      "id": "https://openalex.org/C523546767",
+      "wikidata": "https://www.wikidata.org/wiki/Q10876",
+      "display_name": "Bacteria",
+      "level": 2,
+      "score": 0.1177290678024292
+    },
+    {
+      "id": "https://openalex.org/C553450214",
+      "wikidata": "https://www.wikidata.org/wiki/Q851162",
+      "display_name": "Biosynthesis",
+      "level": 3,
+      "score": 0.10543769598007202
+    },
+    {
+      "id": "https://openalex.org/C143065580",
+      "wikidata": "https://www.wikidata.org/wiki/Q3285695",
+      "display_name": "Mutant",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000117",
+      "descriptor_name": "Acetylglucosamine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000117",
+      "descriptor_name": "Acetylglucosamine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000117",
+      "descriptor_name": "Acetylglucosamine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011401",
+      "descriptor_name": "Promoter Regions, Genetic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011401",
+      "descriptor_name": "Promoter Regions, Genetic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011401",
+      "descriptor_name": "Promoter Regions, Genetic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011485",
+      "descriptor_name": "Protein Binding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011485",
+      "descriptor_name": "Protein Binding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011485",
+      "descriptor_name": "Protein Binding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015964",
+      "descriptor_name": "Gene Expression Regulation, Bacterial",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015964",
+      "descriptor_name": "Gene Expression Regulation, Bacterial",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015964",
+      "descriptor_name": "Gene Expression Regulation, Bacterial",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016680",
+      "descriptor_name": "Genome, Bacterial",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016680",
+      "descriptor_name": "Genome, Bacterial",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016680",
+      "descriptor_name": "Genome, Bacterial",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018085",
+      "descriptor_name": "Regulon",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018085",
+      "descriptor_name": "Regulon",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018085",
+      "descriptor_name": "Regulon",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020218",
+      "descriptor_name": "Response Elements",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020218",
+      "descriptor_name": "Response Elements",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020218",
+      "descriptor_name": "Response Elements",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020411",
+      "descriptor_name": "Oligonucleotide Array Sequence Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020411",
+      "descriptor_name": "Oligonucleotide Array Sequence Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020411",
+      "descriptor_name": "Oligonucleotide Array Sequence Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048372",
+      "descriptor_name": "Streptomyces coelicolor",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048372",
+      "descriptor_name": "Streptomyces coelicolor",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048372",
+      "descriptor_name": "Streptomyces coelicolor",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048372",
+      "descriptor_name": "Streptomyces coelicolor",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048372",
+      "descriptor_name": "Streptomyces coelicolor",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048372",
+      "descriptor_name": "Streptomyces coelicolor",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 11,
+  "locations": [
+    {
+      "id": "doi:10.1371/journal.pone.0122479",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0122479",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0122479&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:25875084",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/25875084",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PloS one",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:alma.44SUR_INST:11139814910002346",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210197018",
+        "display_name": "View",
+        "issn_l": "2688-268X",
+        "issn": [
+          "2688-268X",
+          "2688-3988"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "",
+      "raw_type": ""
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire/ee33c80e-d6d3-4ba2-9098-81138353b4d3",
+      "is_oa": true,
+      "landing_page_url": "https://research.brighton.ac.uk/en/publications/ee33c80e-d6d3-4ba2-9098-81138353b4d3",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401758",
+        "display_name": "University of Brighton Repository (University of Brighton)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I71637028",
+        "host_organization_name": "University of Brighton",
+        "host_organization_lineage": [
+          "https://openalex.org/I71637028"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Swiatek-Polatynska, M A, Bucca, G, Laing, E, Gubbens, J, Titgemeyer, F, Smith, C, Rigali, S & Wezel, G P V 2015, 'Genome-Wide Analysis of In Vivo Binding of the Master Regulator DasR in Streptomyces coelicolor Identifies Novel Non-Canonical Targets', PLoS ONE, vol. 10, no. 4, e0122479. https://doi.org/10.1371/journal.pone.0122479",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:72837298f25f4cbe9ac070a4ea6957c4",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/72837298f25f4cbe9ac070a4ea6957c4",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS ONE, Vol 10, Iss 4, p e0122479 (2015)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:epubs.surrey.ac.uk:809060",
+      "is_oa": false,
+      "landing_page_url": "http://epubs.surrey.ac.uk/809060/8/SRI_deposit_agreement.pdf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400680",
+        "display_name": "Surrey Research Insight Open Access (The University of Surrey)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I28290843",
+        "host_organization_name": "University of Surrey",
+        "host_organization_lineage": [
+          "https://openalex.org/I28290843"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/1380869",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/dataset/Genome_Wide_Analysis_of_In_Vivo_Binding_of_the_Master_Regulator_DasR_in_Streptomyces_coelicolor_Identifies_Novel_Non_Canonical_Targets/1380869",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Dataset"
+    },
+    {
+      "id": "pmh:oai:orbi.ulg.ac.be:2268/180667",
+      "is_oa": true,
+      "landing_page_url": "https://orbi.uliege.be/handle/2268/180667",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400651",
+        "display_name": "Open Repository and Bibliography (University of Liège)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I157674565",
+        "host_organization_name": "University of Liège",
+        "host_organization_lineage": [
+          "https://openalex.org/I157674565"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS ONE (2015)",
+      "raw_type": "peer reviewed"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:4398421",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4398421",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS One",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_2864954",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/1887/50893",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400850",
+        "display_name": "Leiden Repository (Leiden University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I121797337",
+        "host_organization_name": "Leiden University",
+        "host_organization_lineage": [
+          "https://openalex.org/I121797337"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS ONE",
+      "raw_type": "Article / Letter to editor"
+    },
+    {
+      "id": "pmh:ul:oai:scholarlypublications.universiteitleiden.nl:item_2864954",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1887/50893",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS ONE, 10(4), e0122479",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1371/journal.pone.0122479",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0122479",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0122479&type=printable",
+    "source": {
+      "id": "https://openalex.org/S202381698",
+      "display_name": "PLoS ONE",
+      "issn_l": "1932-6203",
+      "issn": [
+        "1932-6203"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS ONE",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/2",
+      "display_name": "Zero hunger",
+      "score": 0.7599999904632568
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320332167",
+      "display_name": "Directorate for Biological Sciences",
+      "ror": "https://ror.org/001xhss06"
+    },
+    {
+      "id": "https://openalex.org/F4320334629",
+      "display_name": "Biotechnology and Biological Sciences Research Council",
+      "ror": "https://ror.org/00cwqg982"
+    },
+    {
+      "id": "https://openalex.org/F4320334893",
+      "display_name": "Stichting voor de Technische Wetenschappen",
+      "ror": "https://ror.org/057tq3593"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2023524392.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2023524392.grobid-xml"
+  },
+  "referenced_works_count": 96,
+  "referenced_works": [
+    "https://openalex.org/W193147843",
+    "https://openalex.org/W280973352",
+    "https://openalex.org/W1484859898",
+    "https://openalex.org/W1496517435",
+    "https://openalex.org/W1513678377",
+    "https://openalex.org/W1528246601",
+    "https://openalex.org/W1539580523",
+    "https://openalex.org/W1552239458",
+    "https://openalex.org/W1571701196",
+    "https://openalex.org/W1578780319",
+    "https://openalex.org/W1720021748",
+    "https://openalex.org/W1732928315",
+    "https://openalex.org/W1820164811",
+    "https://openalex.org/W1827848435",
+    "https://openalex.org/W1942644614",
+    "https://openalex.org/W1963836821",
+    "https://openalex.org/W1964141703",
+    "https://openalex.org/W1977739164",
+    "https://openalex.org/W1978439945",
+    "https://openalex.org/W1981473608",
+    "https://openalex.org/W1982887082",
+    "https://openalex.org/W1985029525",
+    "https://openalex.org/W1987637706",
+    "https://openalex.org/W1987770849",
+    "https://openalex.org/W1993245659",
+    "https://openalex.org/W1995346298",
+    "https://openalex.org/W1995354591",
+    "https://openalex.org/W1995995599",
+    "https://openalex.org/W2002683215",
+    "https://openalex.org/W2008343440",
+    "https://openalex.org/W2012960603",
+    "https://openalex.org/W2013444425",
+    "https://openalex.org/W2014084220",
+    "https://openalex.org/W2025046721",
+    "https://openalex.org/W2026116367",
+    "https://openalex.org/W2032445747",
+    "https://openalex.org/W2035133853",
+    "https://openalex.org/W2035421116",
+    "https://openalex.org/W2036449301",
+    "https://openalex.org/W2037294630",
+    "https://openalex.org/W2038683612",
+    "https://openalex.org/W2039751039",
+    "https://openalex.org/W2043823149",
+    "https://openalex.org/W2044927713",
+    "https://openalex.org/W2047095757",
+    "https://openalex.org/W2047712032",
+    "https://openalex.org/W2049725457",
+    "https://openalex.org/W2064240525",
+    "https://openalex.org/W2071618429",
+    "https://openalex.org/W2085335776",
+    "https://openalex.org/W2085746561",
+    "https://openalex.org/W2087503372",
+    "https://openalex.org/W2090192231",
+    "https://openalex.org/W2090307824",
+    "https://openalex.org/W2092524432",
+    "https://openalex.org/W2093715738",
+    "https://openalex.org/W2098875065",
+    "https://openalex.org/W2099898297",
+    "https://openalex.org/W2100119937",
+    "https://openalex.org/W2105106534",
+    "https://openalex.org/W2114439260",
+    "https://openalex.org/W2114769401",
+    "https://openalex.org/W2115656352",
+    "https://openalex.org/W2117047085",
+    "https://openalex.org/W2117087308",
+    "https://openalex.org/W2117363410",
+    "https://openalex.org/W2118762870",
+    "https://openalex.org/W2120762679",
+    "https://openalex.org/W2122641710",
+    "https://openalex.org/W2127763825",
+    "https://openalex.org/W2129282478",
+    "https://openalex.org/W2131033516",
+    "https://openalex.org/W2134223473",
+    "https://openalex.org/W2138862768",
+    "https://openalex.org/W2139640138",
+    "https://openalex.org/W2140324175",
+    "https://openalex.org/W2141829569",
+    "https://openalex.org/W2144634347",
+    "https://openalex.org/W2144827388",
+    "https://openalex.org/W2148563505",
+    "https://openalex.org/W2151783974",
+    "https://openalex.org/W2153584471",
+    "https://openalex.org/W2153884250",
+    "https://openalex.org/W2155029893",
+    "https://openalex.org/W2155516053",
+    "https://openalex.org/W2159023046",
+    "https://openalex.org/W2161425107",
+    "https://openalex.org/W2161692455",
+    "https://openalex.org/W2163180793",
+    "https://openalex.org/W2165496299",
+    "https://openalex.org/W2171164225",
+    "https://openalex.org/W2172215633",
+    "https://openalex.org/W2314225431",
+    "https://openalex.org/W4232262300",
+    "https://openalex.org/W4249758294",
+    "https://openalex.org/W6681170628"
+  ],
+  "related_works": [
+    "https://openalex.org/W1983317759",
+    "https://openalex.org/W2786431479",
+    "https://openalex.org/W2346368181",
+    "https://openalex.org/W2808171228",
+    "https://openalex.org/W2023524392",
+    "https://openalex.org/W2103386164",
+    "https://openalex.org/W2147505626",
+    "https://openalex.org/W2058874218",
+    "https://openalex.org/W307040268",
+    "https://openalex.org/W2218874127"
+  ],
+  "abstract_inverted_index": {
+    "Streptomycetes": [
+      0
+    ],
+    "produce": [
+      1
+    ],
+    "a": [
+      2,
+      78,
+      130,
+      152
+    ],
+    "wealth": [
+      3
+    ],
+    "of": [
+      4,
+      10,
+      67,
+      81,
+      111,
+      138,
+      145,
+      156,
+      170,
+      176
+    ],
+    "natural": [
+      5
+    ],
+    "products,": [
+      6
+    ],
+    "including": [
+      7
+    ],
+    "over": [
+      8
+    ],
+    "half": [
+      9
+    ],
+    "all": [
+      11,
+      171
+    ],
+    "known": [
+      12
+    ],
+    "antibiotics.": [
+      13
+    ],
+    "It": [
+      14
+    ],
+    "was": [
+      15,
+      73,
+      148
+    ],
+    "previously": [
+      16,
+      60,
+      74
+    ],
+    "demonstrated": [
+      17
+    ],
+    "that": [
+      18,
+      31,
+      43,
+      54,
+      163
+    ],
+    "N-acetylglucosamine": [
+      19,
+      88,
+      123
+    ],
+    "and": [
+      20,
+      42,
+      76,
+      96,
+      129,
+      191
+    ],
+    "secondary": [
+      21,
+      192
+    ],
+    "metabolism": [
+      22
+    ],
+    "are": [
+      23
+    ],
+    "closely": [
+      24
+    ],
+    "entwined": [
+      25
+    ],
+    "in": [
+      26,
+      49,
+      117,
+      120,
+      127,
+      179
+    ],
+    "streptomycetes.": [
+      27
+    ],
+    "Here": [
+      28
+    ],
+    "we": [
+      29
+    ],
+    "show": [
+      30
+    ],
+    "DNA": [
+      32,
+      97
+    ],
+    "recognition": [
+      33
+    ],
+    "by": [
+      34,
+      134,
+      151
+    ],
+    "the": [
+      35,
+      50,
+      65,
+      100,
+      109,
+      136,
+      157,
+      168
+    ],
+    "N-acetylglucosamine-responsive": [
+      36
+    ],
+    "regulator": [
+      37
+    ],
+    "DasR": [
+      38,
+      44,
+      68,
+      101,
+      118,
+      139,
+      146,
+      164
+    ],
+    "is": [
+      39,
+      140,
+      142,
+      161
+    ],
+    "growth-phase": [
+      40
+    ],
+    "dependent,": [
+      41
+    ],
+    "can": [
+      45
+    ],
+    "bind": [
+      46
+    ],
+    "to": [
+      47,
+      59,
+      108,
+      167
+    ],
+    "sites": [
+      48
+    ],
+    "S.": [
+      51,
+      180
+    ],
+    "coelicolor": [
+      52
+    ],
+    "genome": [
+      53
+    ],
+    "have": [
+      55
+    ],
+    "no": [
+      56
+    ],
+    "obvious": [
+      57
+    ],
+    "resemblance": [
+      58
+    ],
+    "identified": [
+      61
+    ],
+    "DasR-responsive": [
+      62,
+      113
+    ],
+    "elements.": [
+      63,
+      114
+    ],
+    "Thus,": [
+      64
+    ],
+    "regulon": [
+      66,
+      102
+    ],
+    "extends": [
+      69
+    ],
+    "well": [
+      70
+    ],
+    "beyond": [
+      71
+    ],
+    "what": [
+      72
+    ],
+    "predicted": [
+      75
+    ],
+    "includes": [
+      77
+    ],
+    "large": [
+      79
+    ],
+    "number": [
+      80
+    ],
+    "genes": [
+      82,
+      92,
+      172
+    ],
+    "with": [
+      83
+    ],
+    "functions": [
+      84
+    ],
+    "far": [
+      85
+    ],
+    "removed": [
+      86
+    ],
+    "from": [
+      87
+    ],
+    "metabolism,": [
+      89
+    ],
+    "such": [
+      90
+    ],
+    "as": [
+      91
+    ],
+    "for": [
+      93
+    ],
+    "small": [
+      94
+    ],
+    "RNAs": [
+      95
+    ],
+    "transposases.": [
+      98
+    ],
+    "Conversely,": [
+      99
+    ],
+    "during": [
+      103
+    ],
+    "vegetative": [
+      104
+    ],
+    "growth": [
+      105
+    ],
+    "largely": [
+      106
+    ],
+    "correlates": [
+      107
+    ],
+    "presence": [
+      110
+    ],
+    "canonical": [
+      112
+    ],
+    "The": [
+      115
+    ],
+    "changes": [
+      116
+    ],
+    "binding": [
+      119,
+      147
+    ],
+    "vivo": [
+      121
+    ],
+    "following": [
+      122
+    ],
+    "induction": [
+      124
+    ],
+    "were": [
+      125
+    ],
+    "studied": [
+      126
+    ],
+    "detail": [
+      128
+    ],
+    "possible": [
+      131
+    ],
+    "molecular": [
+      132
+    ],
+    "mechanism": [
+      133
+    ],
+    "which": [
+      135
+    ],
+    "influence": [
+      137
+    ],
+    "extended": [
+      141
+    ],
+    "discussed.": [
+      143
+    ],
+    "Discussion": [
+      144
+    ],
+    "further": [
+      149
+    ],
+    "informed": [
+      150
+    ],
+    "parallel": [
+      153
+    ],
+    "transcriptome": [
+      154
+    ],
+    "analysis": [
+      155
+    ],
+    "respective": [
+      158
+    ],
+    "cultures.": [
+      159
+    ],
+    "Evidence": [
+      160
+    ],
+    "provided": [
+      162
+    ],
+    "binds": [
+      165
+    ],
+    "directly": [
+      166
+    ],
+    "promoters": [
+      169
+    ],
+    "encoding": [
+      173
+    ],
+    "pathway-specific": [
+      174
+    ],
+    "regulators": [
+      175
+    ],
+    "antibiotic": [
+      177
+    ],
+    "production": [
+      178
+    ],
+    "coelicolor,": [
+      181
+    ],
+    "thereby": [
+      182
+    ],
+    "providing": [
+      183
+    ],
+    "an": [
+      184
+    ],
+    "exquisitely": [
+      185
+    ],
+    "simple": [
+      186
+    ],
+    "link": [
+      187
+    ],
+    "between": [
+      188
+    ],
+    "nutritional": [
+      189
+    ],
+    "control": [
+      190
+    ],
+    "metabolism.": [
+      193
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-06-13T07:54:00.901334",
+  "created_date": "2025-10-10T00:00:00"
+}

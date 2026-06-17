@@ -1,0 +1,3003 @@
+{
+  "id": "https://openalex.org/W3044267291",
+  "doi": "https://doi.org/10.1038/s41586-020-2504-5",
+  "title": "Distinct subnetworks of the thalamic reticular nucleus",
+  "display_name": "Distinct subnetworks of the thalamic reticular nucleus",
+  "publication_year": 2020,
+  "publication_date": "2020-07-22",
+  "ids": {
+    "openalex": "https://openalex.org/W3044267291",
+    "doi": "https://doi.org/10.1038/s41586-020-2504-5",
+    "mag": "3044267291",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32699411"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41586-020-2504-5",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1038/s41586-020-2504-5",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S137773608",
+      "display_name": "Nature",
+      "issn_l": "0028-0836",
+      "issn": [
+        "0028-0836",
+        "1476-4687"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://hdl.handle.net/1721.1/130405",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5023813504",
+        "display_name": "Yinqing Li",
+        "orcid": "https://orcid.org/0000-0002-9096-8482"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210115644",
+          "display_name": "Chinese Institute for Brain Research",
+          "ror": "https://ror.org/029819q61",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210115644"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yinqing Li",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "School of Pharmaceutical Sciences, IDG/McGovern Institute for Brain Research, Center for Synthetic and Systems Biology, Tsinghua University, Beijing, P. R. China",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Pharmaceutical Sciences, IDG/McGovern Institute for Brain Research, Center for Synthetic and Systems Biology, Tsinghua University, Beijing, P. R. China",
+          "institution_ids": [
+            "https://openalex.org/I4210115644",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088485145",
+        "display_name": "Violeta G. López-Huerta",
+        "orcid": "https://orcid.org/0000-0003-1906-3557"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I8961855",
+          "display_name": "Universidad Nacional Autónoma de México",
+          "ror": "https://ror.org/01tmp8f25",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8961855"
+          ]
+        }
+      ],
+      "countries": [
+        "MX",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Violeta G. Lopez-Huerta",
+      "raw_affiliation_strings": [
+        "Institute of Cellular Physiology, National Autonomous University of Mexico, Mexico City, Mexico",
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Cellular Physiology, National Autonomous University of Mexico, Mexico City, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I8961855"
+          ]
+        },
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080948604",
+        "display_name": "Xian Adiconis",
+        "orcid": "https://orcid.org/0000-0002-4052-2503"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xian Adiconis",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020066216",
+        "display_name": "Kirsten Levandowski",
+        "orcid": "https://orcid.org/0000-0002-4811-9217"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kirsten Levandowski",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071930198",
+        "display_name": "Soonwook Choi",
+        "orcid": "https://orcid.org/0000-0001-8785-8584"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Soonwook Choi",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017886169",
+        "display_name": "Sean Simmons",
+        "orcid": "https://orcid.org/0000-0002-1537-4000"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sean K. Simmons",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059621003",
+        "display_name": "Mario A. Arias-García",
+        "orcid": "https://orcid.org/0000-0002-4160-7891"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I8961855",
+          "display_name": "Universidad Nacional Autónoma de México",
+          "ror": "https://ror.org/01tmp8f25",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8961855"
+          ]
+        }
+      ],
+      "countries": [
+        "MX",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mario A. Arias-Garcia",
+      "raw_affiliation_strings": [
+        "Faculty of Psychology, National Autonomous University of Mexico, Mexico City, Mexico",
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Psychology, National Autonomous University of Mexico, Mexico City, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I8961855"
+          ]
+        },
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071534148",
+        "display_name": "Baolin Guo",
+        "orcid": "https://orcid.org/0000-0001-7309-5774"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Baolin Guo",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7309-5774",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021200562",
+        "display_name": "Annie Y. Yao",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Annie Y. Yao",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040901025",
+        "display_name": "Timothy R. Blosser",
+        "orcid": "https://orcid.org/0000-0002-7739-922X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Timothy R. Blosser",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003853545",
+        "display_name": "Ralf Wimmer",
+        "orcid": "https://orcid.org/0000-0002-8596-0574"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ralf D. Wimmer",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047849556",
+        "display_name": "Tomomi Aida",
+        "orcid": "https://orcid.org/0000-0003-2021-4439"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomomi Aida",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080311869",
+        "display_name": "Alexander Atamian",
+        "orcid": "https://orcid.org/0009-0004-5525-2018"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexander Atamian",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072967547",
+        "display_name": "Tina Naik",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tina Naik",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060109363",
+        "display_name": "Xuyun Sun",
+        "orcid": "https://orcid.org/0000-0001-6348-926X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76130692",
+          "display_name": "Zhejiang University",
+          "ror": "https://ror.org/00a2xv884",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76130692"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xuyun Sun",
+      "raw_affiliation_strings": [
+        "College of Computer Science and Technology, Zhejiang University, Hangzhou, P. R. China",
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Computer Science and Technology, Zhejiang University, Hangzhou, P. R. China",
+          "institution_ids": [
+            "https://openalex.org/I76130692"
+          ]
+        },
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083732362",
+        "display_name": "Dasheng Bi",
+        "orcid": "https://orcid.org/0009-0002-9631-2211"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dasheng Bi",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074500339",
+        "display_name": "Diya Malhotra",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Diya Malhotra",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074538778",
+        "display_name": "Cynthia C. Hession",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cynthia C. Hession",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044544300",
+        "display_name": "Reut Shema",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Reut Shema",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030161052",
+        "display_name": "Marcos António Gomes",
+        "orcid": "https://orcid.org/0000-0002-8392-0376"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4394709155",
+          "display_name": "Centro de Neurociências e Biologia Celular",
+          "ror": "https://ror.org/01nzkd566",
+          "country_code": "PT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4394709155",
+            "https://openalex.org/I76903346"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76903346",
+          "display_name": "University of Coimbra",
+          "ror": "https://ror.org/04z8k9a98",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76903346"
+          ]
+        }
+      ],
+      "countries": [
+        "PT",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcos Gomes",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "University of Coimbra, Center for Neuroscience and Cell Biology, Coimbra, Portugal",
+        "University of Coimbra, Institute for Interdisciplinary Research, Coimbra, Portugal"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8392-0376",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Coimbra, Center for Neuroscience and Cell Biology, Coimbra, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I76903346",
+            "https://openalex.org/I4394709155"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Coimbra, Institute for Interdisciplinary Research, Coimbra, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I76903346"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050296122",
+        "display_name": "Taibo Li",
+        "orcid": "https://orcid.org/0000-0002-6624-9293"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Taibo Li",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6624-9293",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103984788",
+        "display_name": "Eunjin Hwang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I58716616",
+          "display_name": "Korea Institute of Science and Technology",
+          "ror": "https://ror.org/05kzfa883",
+          "country_code": "KR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I27494661",
+            "https://openalex.org/I2801339556",
+            "https://openalex.org/I2801339556",
+            "https://openalex.org/I4210144908",
+            "https://openalex.org/I4387152098",
+            "https://openalex.org/I4387152098",
+            "https://openalex.org/I58716616"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eunjin Hwang",
+      "raw_affiliation_strings": [
+        "Center for Neuroscience, Korea Institute of Science and Technology, Seoul, South Korea"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Neuroscience, Korea Institute of Science and Technology, Seoul, South Korea",
+          "institution_ids": [
+            "https://openalex.org/I58716616"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067562133",
+        "display_name": "Alexandra Krol",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexandra Krol",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003816289",
+        "display_name": "Monika S. Kowalczyk",
+        "orcid": "https://orcid.org/0000-0003-0525-9196"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Kowalczyk",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058984825",
+        "display_name": "João Peça",
+        "orcid": "https://orcid.org/0000-0003-4989-2129"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4394709155",
+          "display_name": "Centro de Neurociências e Biologia Celular",
+          "ror": "https://ror.org/01nzkd566",
+          "country_code": "PT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4394709155",
+            "https://openalex.org/I76903346"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76903346",
+          "display_name": "University of Coimbra",
+          "ror": "https://ror.org/04z8k9a98",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76903346"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "João Peça",
+      "raw_affiliation_strings": [
+        "University of Coimbra, Center for Neuroscience and Cell Biology, Coimbra, Portugal",
+        "University of Coimbra, Department of Life Sciences, Coimbra, Portugal",
+        "University of Coimbra, Institute for Interdisciplinary Research, Coimbra, Portugal"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Coimbra, Center for Neuroscience and Cell Biology, Coimbra, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I76903346",
+            "https://openalex.org/I4394709155"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Coimbra, Department of Life Sciences, Coimbra, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I76903346"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Coimbra, Institute for Interdisciplinary Research, Coimbra, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I76903346"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084291326",
+        "display_name": "Gang Pan",
+        "orcid": "https://orcid.org/0000-0002-4049-6181"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76130692",
+          "display_name": "Zhejiang University",
+          "ror": "https://ror.org/00a2xv884",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76130692"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gang Pan",
+      "raw_affiliation_strings": [
+        "College of Computer Science and Technology, Zhejiang University, Hangzhou, P. R. China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Computer Science and Technology, Zhejiang University, Hangzhou, P. R. China",
+          "institution_ids": [
+            "https://openalex.org/I76130692"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084779684",
+        "display_name": "Michael M. Halassa",
+        "orcid": "https://orcid.org/0000-0003-1386-0336"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael M. Halassa",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1386-0336",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024425176",
+        "display_name": "Joshua Z. Levin",
+        "orcid": "https://orcid.org/0000-0002-0170-3598"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Joshua Z. Levin",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. jlevin@broadinstitute.org",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. jlevin@broadinstitute.org",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0170-3598",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. jlevin@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. jlevin@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062559817",
+        "display_name": "Zhanyan Fu",
+        "orcid": "https://orcid.org/0000-0001-9473-2402"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zhanyan Fu",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA. zfu@broadinstitute.org",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. zfu@broadinstitute.org",
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA. zfu@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I144112489"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. zfu@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5014241947",
+        "display_name": "Guoping Feng",
+        "orcid": "https://orcid.org/0000-0002-8021-277X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Guoping Feng",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA. fengg@mit.edu",
+        "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. fengg@mit.edu",
+        "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8021-277X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA. fengg@mit.edu",
+          "institution_ids": [
+            "https://openalex.org/I144112489"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. fengg@mit.edu",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 30,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5014241947",
+    "https://openalex.org/A5024425176",
+    "https://openalex.org/A5062559817"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I107606265",
+    "https://openalex.org/I144112489",
+    "https://openalex.org/I63966007"
+  ],
+  "apc_list": {
+    "value": 9750,
+    "currency": "EUR",
+    "value_usd": 11690
+  },
+  "apc_paid": null,
+  "fwci": 13.1363,
+  "has_fulltext": true,
+  "cited_by_count": 210,
+  "citation_normalized_percentile": {
+    "value": 0.99388755,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "583",
+    "issue": "7818",
+    "first_page": "819",
+    "last_page": "824"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10581",
+    "display_name": "Neural dynamics and brain function",
+    "score": 0.9991000294685364,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10581",
+      "display_name": "Neural dynamics and brain function",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11289",
+      "display_name": "Single-cell and spatial transcriptomics",
+      "score": 0.996399998664856,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10985",
+      "display_name": "Sleep and Wakefulness Research",
+      "score": 0.995199978351593,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/thalamic-reticular-nucleus",
+      "display_name": "Thalamic reticular nucleus",
+      "score": 0.9503209590911865
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.79298996925354
+    },
+    {
+      "id": "https://openalex.org/keywords/thalamus",
+      "display_name": "Thalamus",
+      "score": 0.6994832158088684
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.6277163624763489
+    },
+    {
+      "id": "https://openalex.org/keywords/reticular-connective-tissue",
+      "display_name": "Reticular connective tissue",
+      "score": 0.5855575799942017
+    },
+    {
+      "id": "https://openalex.org/keywords/transcriptome",
+      "display_name": "Transcriptome",
+      "score": 0.558107316493988
+    },
+    {
+      "id": "https://openalex.org/keywords/sensory-system",
+      "display_name": "Sensory system",
+      "score": 0.5522428154945374
+    },
+    {
+      "id": "https://openalex.org/keywords/electrophysiology",
+      "display_name": "Electrophysiology",
+      "score": 0.5104964971542358
+    },
+    {
+      "id": "https://openalex.org/keywords/nucleus",
+      "display_name": "Nucleus",
+      "score": 0.4246251583099365
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.2658080756664276
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.17720991373062134
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.1594657301902771
+    },
+    {
+      "id": "https://openalex.org/keywords/anatomy",
+      "display_name": "Anatomy",
+      "score": 0.15592065453529358
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778135649",
+      "wikidata": "https://www.wikidata.org/wiki/Q1432371",
+      "display_name": "Thalamic reticular nucleus",
+      "level": 3,
+      "score": 0.9503209590911865
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.79298996925354
+    },
+    {
+      "id": "https://openalex.org/C2779246727",
+      "wikidata": "https://www.wikidata.org/wiki/Q184215",
+      "display_name": "Thalamus",
+      "level": 2,
+      "score": 0.6994832158088684
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6277163624763489
+    },
+    {
+      "id": "https://openalex.org/C95190701",
+      "wikidata": "https://www.wikidata.org/wiki/Q3268002",
+      "display_name": "Reticular connective tissue",
+      "level": 2,
+      "score": 0.5855575799942017
+    },
+    {
+      "id": "https://openalex.org/C162317418",
+      "wikidata": "https://www.wikidata.org/wiki/Q252857",
+      "display_name": "Transcriptome",
+      "level": 4,
+      "score": 0.558107316493988
+    },
+    {
+      "id": "https://openalex.org/C94487597",
+      "wikidata": "https://www.wikidata.org/wiki/Q11101",
+      "display_name": "Sensory system",
+      "level": 2,
+      "score": 0.5522428154945374
+    },
+    {
+      "id": "https://openalex.org/C185263204",
+      "wikidata": "https://www.wikidata.org/wiki/Q1154774",
+      "display_name": "Electrophysiology",
+      "level": 2,
+      "score": 0.5104964971542358
+    },
+    {
+      "id": "https://openalex.org/C2780723820",
+      "wikidata": "https://www.wikidata.org/wiki/Q1934178",
+      "display_name": "Nucleus",
+      "level": 2,
+      "score": 0.4246251583099365
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.2658080756664276
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.17720991373062134
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.1594657301902771
+    },
+    {
+      "id": "https://openalex.org/C105702510",
+      "wikidata": "https://www.wikidata.org/wiki/Q514",
+      "display_name": "Anatomy",
+      "level": 1,
+      "score": 0.15592065453529358
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008666",
+      "descriptor_name": "Metalloendopeptidases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008666",
+      "descriptor_name": "Metalloendopeptidases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008666",
+      "descriptor_name": "Metalloendopeptidases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009434",
+      "descriptor_name": "Neural Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009434",
+      "descriptor_name": "Neural Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009434",
+      "descriptor_name": "Neural Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012890",
+      "descriptor_name": "Sleep",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012890",
+      "descriptor_name": "Sleep",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012890",
+      "descriptor_name": "Sleep",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012890",
+      "descriptor_name": "Sleep",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012890",
+      "descriptor_name": "Sleep",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012890",
+      "descriptor_name": "Sleep",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013787",
+      "descriptor_name": "Thalamic Nuclei",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016000",
+      "descriptor_name": "Cluster Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016000",
+      "descriptor_name": "Cluster Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016000",
+      "descriptor_name": "Cluster Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017404",
+      "descriptor_name": "In Situ Hybridization, Fluorescence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017404",
+      "descriptor_name": "In Situ Hybridization, Fluorescence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017404",
+      "descriptor_name": "In Situ Hybridization, Fluorescence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018408",
+      "descriptor_name": "Patch-Clamp Techniques",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018408",
+      "descriptor_name": "Patch-Clamp Techniques",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018408",
+      "descriptor_name": "Patch-Clamp Techniques",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053263",
+      "descriptor_name": "Gene Regulatory Networks",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053263",
+      "descriptor_name": "Gene Regulatory Networks",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053263",
+      "descriptor_name": "Gene Regulatory Networks",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053495",
+      "descriptor_name": "Osteopontin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053495",
+      "descriptor_name": "Osteopontin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053495",
+      "descriptor_name": "Osteopontin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059010",
+      "descriptor_name": "Single-Cell Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059010",
+      "descriptor_name": "Single-Cell Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059010",
+      "descriptor_name": "Single-Cell Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41586-020-2504-5",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1038/s41586-020-2504-5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S137773608",
+        "display_name": "Nature",
+        "issn_l": "0028-0836",
+        "issn": [
+          "0028-0836",
+          "1476-4687"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:32699411",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32699411",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:RePEc:nat:nature:v:583:y:2020:i:7818:d:10.1038_s41586-020-2504-5",
+      "is_oa": false,
+      "landing_page_url": "https://www.nature.com/articles/s41586-020-2504-5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:dspace.mit.edu:1721.1/130405",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1721.1/130405",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400425",
+        "display_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I63966007",
+        "host_organization_name": "Massachusetts Institute of Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/I63966007"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PMC",
+      "raw_type": "http://purl.org/eprint/type/JournalArticle"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:6722642",
+      "is_oa": false,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC7394718",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7394718",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7394718",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:dspace.mit.edu:1721.1/130405",
+    "is_oa": true,
+    "landing_page_url": "https://hdl.handle.net/1721.1/130405",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400425",
+      "display_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I63966007",
+      "host_organization_name": "Massachusetts Institute of Technology",
+      "host_organization_lineage": [
+        "https://openalex.org/I63966007"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "PMC",
+    "raw_type": "http://purl.org/eprint/type/JournalArticle"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2124730448",
+      "display_name": null,
+      "funder_award_id": "R01MH107680",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G3902622221",
+      "display_name": null,
+      "funder_award_id": "R01MH107680",
+      "funder_id": "https://openalex.org/F4320337346",
+      "funder_display_name": "National Institute of Mental Health"
+    },
+    {
+      "id": "https://openalex.org/G6868086268",
+      "display_name": null,
+      "funder_award_id": "R01NS098505",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320314070",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142"
+    },
+    {
+      "id": "https://openalex.org/F4320322392",
+      "display_name": "Tsinghua University",
+      "ror": "https://ror.org/03cve4549"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320333423",
+      "display_name": "Stanley Center for Psychiatric Research, Broad Institute",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320333572",
+      "display_name": "Klarman Cell Observatory, Broad Institute",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320334335",
+      "display_name": "Simons Center for the Social Brain, Massachusetts Institute of Technology",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320334399",
+      "display_name": "McGovern Institute for Brain Research, Massachusetts Institute of Technology",
+      "ror": "https://ror.org/05ymca674"
+    },
+    {
+      "id": "https://openalex.org/F4320337346",
+      "display_name": "National Institute of Mental Health",
+      "ror": "https://ror.org/04xeg9z08"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 68,
+  "referenced_works": [
+    "https://openalex.org/W1492748883",
+    "https://openalex.org/W1586815491",
+    "https://openalex.org/W1841190780",
+    "https://openalex.org/W1878348233",
+    "https://openalex.org/W1972476556",
+    "https://openalex.org/W1980288648",
+    "https://openalex.org/W1987106464",
+    "https://openalex.org/W1987332038",
+    "https://openalex.org/W1989741977",
+    "https://openalex.org/W1990225504",
+    "https://openalex.org/W1993782477",
+    "https://openalex.org/W1999574084",
+    "https://openalex.org/W2009176628",
+    "https://openalex.org/W2020418921",
+    "https://openalex.org/W2033233305",
+    "https://openalex.org/W2036176224",
+    "https://openalex.org/W2063786220",
+    "https://openalex.org/W2065188087",
+    "https://openalex.org/W2073248356",
+    "https://openalex.org/W2090407505",
+    "https://openalex.org/W2105287799",
+    "https://openalex.org/W2107411892",
+    "https://openalex.org/W2111911706",
+    "https://openalex.org/W2115438550",
+    "https://openalex.org/W2120836623",
+    "https://openalex.org/W2121469024",
+    "https://openalex.org/W2123391170",
+    "https://openalex.org/W2137303544",
+    "https://openalex.org/W2137672824",
+    "https://openalex.org/W2140729960",
+    "https://openalex.org/W2142727895",
+    "https://openalex.org/W2146639650",
+    "https://openalex.org/W2165892338",
+    "https://openalex.org/W2170551349",
+    "https://openalex.org/W2174272243",
+    "https://openalex.org/W2190545194",
+    "https://openalex.org/W2203529929",
+    "https://openalex.org/W2239186975",
+    "https://openalex.org/W2267554996",
+    "https://openalex.org/W2268971953",
+    "https://openalex.org/W2279350325",
+    "https://openalex.org/W2409925429",
+    "https://openalex.org/W2467209921",
+    "https://openalex.org/W2486101807",
+    "https://openalex.org/W2486882743",
+    "https://openalex.org/W2510746232",
+    "https://openalex.org/W2531751353",
+    "https://openalex.org/W2601885162",
+    "https://openalex.org/W2611485120",
+    "https://openalex.org/W2615702226",
+    "https://openalex.org/W2618007863",
+    "https://openalex.org/W2624100641",
+    "https://openalex.org/W2641667423",
+    "https://openalex.org/W2729250854",
+    "https://openalex.org/W2766036708",
+    "https://openalex.org/W2770934683",
+    "https://openalex.org/W2777388159",
+    "https://openalex.org/W2782635280",
+    "https://openalex.org/W2799489824",
+    "https://openalex.org/W2888747982",
+    "https://openalex.org/W2906656539",
+    "https://openalex.org/W2943545400",
+    "https://openalex.org/W2949693884",
+    "https://openalex.org/W2951619011",
+    "https://openalex.org/W2968096654",
+    "https://openalex.org/W2991860444",
+    "https://openalex.org/W6659440081",
+    "https://openalex.org/W6750043948"
+  ],
+  "related_works": [
+    "https://openalex.org/W4295308958",
+    "https://openalex.org/W2090407505",
+    "https://openalex.org/W2024653157",
+    "https://openalex.org/W2013152712",
+    "https://openalex.org/W2088562371",
+    "https://openalex.org/W4312115034",
+    "https://openalex.org/W1993353338",
+    "https://openalex.org/W2608087632",
+    "https://openalex.org/W2047466950",
+    "https://openalex.org/W2103413125"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 47
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 44
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,682 @@
+{
+  "id": "https://openalex.org/W4398795954",
+  "doi": "https://doi.org/10.48550/arxiv.2405.13705",
+  "title": "Low Fidelity Digital Twin for Automated Driving Systems: Use Cases and Automatic Generation",
+  "display_name": "Low Fidelity Digital Twin for Automated Driving Systems: Use Cases and Automatic Generation",
+  "publication_year": 2024,
+  "publication_date": "2024-05-22",
+  "ids": {
+    "openalex": "https://openalex.org/W4398795954",
+    "doi": "https://doi.org/10.48550/arxiv.2405.13705"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2405.13705",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2405.13705",
+    "pdf_url": "https://arxiv.org/pdf/2405.13705",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2405.13705",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067490841",
+        "display_name": "Jiri Vlasak",
+        "orcid": "https://orcid.org/0000-0002-6618-8152"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Vlasak, Jiri",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055495838",
+        "display_name": "Jaroslav Klapálek",
+        "orcid": "https://orcid.org/0000-0001-8816-2773"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Klapálek, Jaroslav",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5098821259",
+        "display_name": "Adam Kollarčík",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kollarčík, Adam",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085476423",
+        "display_name": "Michał Sójka",
+        "orcid": "https://orcid.org/0000-0002-8738-075X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sojka, Michal",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5039174863",
+        "display_name": "Zdeněk Hanzálek",
+        "orcid": "https://orcid.org/0000-0002-8135-1296"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hanzálek, Zdeněk",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10763",
+    "display_name": "Digital Transformation in Industry",
+    "score": 0.9954000115394592,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2209",
+      "display_name": "Industrial and Manufacturing Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/fidelity",
+      "display_name": "Fidelity",
+      "score": 0.6202375888824463
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5716460943222046
+    },
+    {
+      "id": "https://openalex.org/keywords/high-fidelity",
+      "display_name": "High fidelity",
+      "score": 0.5222511887550354
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-graphics",
+      "display_name": "Computer graphics (images)",
+      "score": 0.334480345249176
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.3335791230201721
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.18619462847709656
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.11109662055969238
+    },
+    {
+      "id": "https://openalex.org/keywords/electrical-engineering",
+      "display_name": "Electrical engineering",
+      "score": 0.08064699172973633
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776459999",
+      "wikidata": "https://www.wikidata.org/wiki/Q2119376",
+      "display_name": "Fidelity",
+      "level": 2,
+      "score": 0.6202375888824463
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5716460943222046
+    },
+    {
+      "id": "https://openalex.org/C113364801",
+      "wikidata": "https://www.wikidata.org/wiki/Q26674",
+      "display_name": "High fidelity",
+      "level": 2,
+      "score": 0.5222511887550354
+    },
+    {
+      "id": "https://openalex.org/C121684516",
+      "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+      "display_name": "Computer graphics (images)",
+      "level": 1,
+      "score": 0.334480345249176
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.3335791230201721
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.18619462847709656
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.11109662055969238
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.08064699172973633
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2405.13705",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2405.13705",
+      "pdf_url": "https://arxiv.org/pdf/2405.13705",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2405.13705",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2405.13705",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2405.13705",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2405.13705",
+    "pdf_url": "https://arxiv.org/pdf/2405.13705",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G112504165",
+      "display_name": null,
+      "funder_award_id": "CZ.02.01.01/00/22_008/0004590",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309972",
+      "display_name": "České Vysoké Učení Technické v Praze",
+      "ror": "https://ror.org/03kqpb082"
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4398795954.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4313443006",
+    "https://openalex.org/W2945374968",
+    "https://openalex.org/W4385452045",
+    "https://openalex.org/W4293777179",
+    "https://openalex.org/W2164070813",
+    "https://openalex.org/W2135608140",
+    "https://openalex.org/W2895525995",
+    "https://openalex.org/W4224231624",
+    "https://openalex.org/W2332512904",
+    "https://openalex.org/W2319626700"
+  ],
+  "abstract_inverted_index": {
+    "Automated": [
+      0
+    ],
+    "driving": [
+      1
+    ],
+    "systems": [
+      2
+    ],
+    "are": [
+      3
+    ],
+    "an": [
+      4
+    ],
+    "integral": [
+      5
+    ],
+    "part": [
+      6
+    ],
+    "of": [
+      7,
+      82
+    ],
+    "the": [
+      8,
+      24,
+      26,
+      39,
+      53,
+      93,
+      97
+    ],
+    "automotive": [
+      9
+    ],
+    "industry.": [
+      10
+    ],
+    "Tools": [
+      11
+    ],
+    "such": [
+      12
+    ],
+    "as": [
+      13
+    ],
+    "Robot": [
+      14
+    ],
+    "Operating": [
+      15
+    ],
+    "System": [
+      16
+    ],
+    "and": [
+      17,
+      43,
+      56,
+      66
+    ],
+    "simulators": [
+      18
+    ],
+    "support": [
+      19
+    ],
+    "their": [
+      20,
+      30
+    ],
+    "development.": [
+      21
+    ],
+    "However,": [
+      22
+    ],
+    "in": [
+      23
+    ],
+    "end,": [
+      25
+    ],
+    "developers": [
+      27
+    ],
+    "must": [
+      28
+    ],
+    "test": [
+      29
+    ],
+    "algorithms": [
+      31
+    ],
+    "on": [
+      32
+    ],
+    "a": [
+      33,
+      84,
+      88
+    ],
+    "real": [
+      34,
+      54,
+      98
+    ],
+    "vehicle.": [
+      35,
+      99
+    ],
+    "To": [
+      36
+    ],
+    "better": [
+      37
+    ],
+    "observe": [
+      38
+    ],
+    "difference": [
+      40
+    ],
+    "between": [
+      41,
+      52
+    ],
+    "reality": [
+      42,
+      45
+    ],
+    "simulation--the": [
+      44
+    ],
+    "gap--digital": [
+      46
+    ],
+    "twin": [
+      47,
+      64
+    ],
+    "technology": [
+      48
+    ],
+    "offers": [
+      49
+    ],
+    "real-time": [
+      50
+    ],
+    "communication": [
+      51
+    ],
+    "vehicle": [
+      55,
+      89
+    ],
+    "its": [
+      57
+    ],
+    "model.": [
+      58
+    ],
+    "We": [
+      59,
+      78
+    ],
+    "present": [
+      60
+    ],
+    "low": [
+      61
+    ],
+    "fidelity": [
+      62,
+      76
+    ],
+    "digital": [
+      63
+    ],
+    "generator": [
+      65
+    ],
+    "describe": [
+      67
+    ],
+    "situations": [
+      68
+    ],
+    "where": [
+      69
+    ],
+    "automatic": [
+      70
+    ],
+    "generation": [
+      71
+    ],
+    "is": [
+      72
+    ],
+    "preferable": [
+      73
+    ],
+    "to": [
+      74
+    ],
+    "high": [
+      75
+    ],
+    "simulation.": [
+      77
+    ],
+    "validated": [
+      79
+    ],
+    "our": [
+      80
+    ],
+    "approach": [
+      81
+    ],
+    "generating": [
+      83
+    ],
+    "virtual": [
+      85
+    ],
+    "environment": [
+      86
+    ],
+    "with": [
+      87
+    ],
+    "model": [
+      90
+    ],
+    "by": [
+      91
+    ],
+    "replaying": [
+      92
+    ],
+    "data": [
+      94
+    ],
+    "recorded": [
+      95
+    ],
+    "from": [
+      96
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

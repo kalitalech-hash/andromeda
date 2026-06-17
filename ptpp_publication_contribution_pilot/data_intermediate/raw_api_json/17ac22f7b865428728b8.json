@@ -1,0 +1,984 @@
+{
+  "id": "https://openalex.org/W7117582968",
+  "doi": "https://doi.org/10.14254/1795-6889.2025.21-3.2",
+  "title": "Unveiling scholarly narratives on human technology: A structural topic modeling approach",
+  "display_name": "Unveiling scholarly narratives on human technology: A structural topic modeling approach",
+  "publication_year": 2025,
+  "publication_date": "2025-12-30",
+  "ids": {
+    "openalex": "https://openalex.org/W7117582968",
+    "doi": "https://doi.org/10.14254/1795-6889.2025.21-3.2"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.14254/1795-6889.2025.21-3.2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.14254/1795-6889.2025.21-3.2",
+    "pdf_url": "https://ht.csr-pub.eu/index.php/ht/article/download/737/337",
+    "source": {
+      "id": "https://openalex.org/S4210224894",
+      "display_name": "Human Technology",
+      "issn_l": "1795-6889",
+      "issn": [
+        "1795-6889"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320377",
+      "host_organization_name": "University of Jyväskylä",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320377"
+      ],
+      "host_organization_lineage_names": [
+        "University of Jyväskylä"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Human Technology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://ht.csr-pub.eu/index.php/ht/article/download/737/337",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5008624018",
+        "display_name": "Wojciech Jarecki",
+        "orcid": "https://orcid.org/0000-0002-4463-7607"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I104588304",
+          "display_name": "University of Szczecin",
+          "ror": "https://ror.org/05vmz5070",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I104588304"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wojciech Jarecki",
+      "raw_affiliation_strings": [
+        "University of Szczecin, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4463-7607",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Szczecin, Poland",
+          "institution_ids": [
+            "https://openalex.org/I104588304"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031610932",
+        "display_name": "Magdalena Olczyk",
+        "orcid": "https://orcid.org/0000-0002-4880-5890"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Olczyk",
+      "raw_affiliation_strings": [
+        "Gdańsk University of Technology"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Gdańsk University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5098489880",
+        "display_name": "Przemysław Olczyk",
+        "orcid": "https://orcid.org/0009-0001-0899-1262"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40413290",
+          "display_name": "University of Gdańsk",
+          "ror": "https://ror.org/011dv8m48",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40413290"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Przemysław Olczyk",
+      "raw_affiliation_strings": [
+        "University of Gdańsk"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Gdańsk",
+          "institution_ids": [
+            "https://openalex.org/I40413290"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5121576178",
+        "display_name": "Monika Imreh-Toth",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I83579964",
+          "display_name": "Széchenyi István University",
+          "ror": "https://ror.org/04091f946",
+          "country_code": "HU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83579964"
+          ]
+        }
+      ],
+      "countries": [
+        "HU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Imreh-Toth",
+      "raw_affiliation_strings": [
+        "Széchenyi István University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Széchenyi István University",
+          "institution_ids": [
+            "https://openalex.org/I83579964"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 8.0031,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.97669492,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "21",
+    "issue": "3",
+    "first_page": "511",
+    "last_page": "529"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13910",
+    "display_name": "Computational and Text Analysis Methods",
+    "score": 0.9088000059127808,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3300",
+      "display_name": "General Social Sciences"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13910",
+      "display_name": "Computational and Text Analysis Methods",
+      "score": 0.9088000059127808,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12488",
+      "display_name": "Mental Health via Writing",
+      "score": 0.008899999782443047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10799",
+      "display_name": "Data Visualization and Analytics",
+      "score": 0.00570000009611249,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/thematic-analysis",
+      "display_name": "Thematic analysis",
+      "score": 0.597000002861023
+    },
+    {
+      "id": "https://openalex.org/keywords/workflow",
+      "display_name": "Workflow",
+      "score": 0.541100025177002
+    },
+    {
+      "id": "https://openalex.org/keywords/diversity",
+      "display_name": "Diversity (politics)",
+      "score": 0.5385000109672546
+    },
+    {
+      "id": "https://openalex.org/keywords/narrative",
+      "display_name": "Narrative",
+      "score": 0.5238999724388123
+    },
+    {
+      "id": "https://openalex.org/keywords/thematic-map",
+      "display_name": "Thematic map",
+      "score": 0.4925999939441681
+    },
+    {
+      "id": "https://openalex.org/keywords/topic-model",
+      "display_name": "Topic model",
+      "score": 0.460999995470047
+    },
+    {
+      "id": "https://openalex.org/keywords/thematic-structure",
+      "display_name": "Thematic structure",
+      "score": 0.4099999964237213
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.6101999878883362
+    },
+    {
+      "id": "https://openalex.org/C74196892",
+      "wikidata": "https://www.wikidata.org/wiki/Q7781188",
+      "display_name": "Thematic analysis",
+      "level": 3,
+      "score": 0.597000002861023
+    },
+    {
+      "id": "https://openalex.org/C177212765",
+      "wikidata": "https://www.wikidata.org/wiki/Q627335",
+      "display_name": "Workflow",
+      "level": 2,
+      "score": 0.541100025177002
+    },
+    {
+      "id": "https://openalex.org/C2781316041",
+      "wikidata": "https://www.wikidata.org/wiki/Q1230584",
+      "display_name": "Diversity (politics)",
+      "level": 2,
+      "score": 0.5385000109672546
+    },
+    {
+      "id": "https://openalex.org/C199033989",
+      "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+      "display_name": "Narrative",
+      "level": 2,
+      "score": 0.5238999724388123
+    },
+    {
+      "id": "https://openalex.org/C93692415",
+      "wikidata": "https://www.wikidata.org/wiki/Q1502030",
+      "display_name": "Thematic map",
+      "level": 2,
+      "score": 0.4925999939441681
+    },
+    {
+      "id": "https://openalex.org/C171686336",
+      "wikidata": "https://www.wikidata.org/wiki/Q3532085",
+      "display_name": "Topic model",
+      "level": 2,
+      "score": 0.460999995470047
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.44040000438690186
+    },
+    {
+      "id": "https://openalex.org/C2778109090",
+      "wikidata": "https://www.wikidata.org/wiki/Q7781195",
+      "display_name": "Thematic structure",
+      "level": 2,
+      "score": 0.4099999964237213
+    },
+    {
+      "id": "https://openalex.org/C179454799",
+      "wikidata": "https://www.wikidata.org/wiki/Q132151",
+      "display_name": "Ethnography",
+      "level": 2,
+      "score": 0.3855000138282776
+    },
+    {
+      "id": "https://openalex.org/C117893075",
+      "wikidata": "https://www.wikidata.org/wiki/Q6966213",
+      "display_name": "Narrative inquiry",
+      "level": 3,
+      "score": 0.3750999867916107
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.35420000553131104
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.35040000081062317
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.34610000252723694
+    },
+    {
+      "id": "https://openalex.org/C153997805",
+      "wikidata": "https://www.wikidata.org/wiki/Q42240",
+      "display_name": "Research ethics",
+      "level": 2,
+      "score": 0.3447999954223633
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.34389999508857727
+    },
+    {
+      "id": "https://openalex.org/C190248442",
+      "wikidata": "https://www.wikidata.org/wiki/Q839486",
+      "display_name": "Qualitative research",
+      "level": 2,
+      "score": 0.3375000059604645
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.3222000002861023
+    },
+    {
+      "id": "https://openalex.org/C202645933",
+      "wikidata": "https://www.wikidata.org/wiki/Q4930",
+      "display_name": "eHealth",
+      "level": 3,
+      "score": 0.31779998540878296
+    },
+    {
+      "id": "https://openalex.org/C161191863",
+      "wikidata": "https://www.wikidata.org/wiki/Q199655",
+      "display_name": "Library science",
+      "level": 1,
+      "score": 0.301800012588501
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.29429998993873596
+    },
+    {
+      "id": "https://openalex.org/C66204764",
+      "wikidata": "https://www.wikidata.org/wiki/Q219416",
+      "display_name": "Sustainability",
+      "level": 2,
+      "score": 0.2768999934196472
+    },
+    {
+      "id": "https://openalex.org/C93474598",
+      "wikidata": "https://www.wikidata.org/wiki/Q1662553",
+      "display_name": "Information ethics",
+      "level": 2,
+      "score": 0.2727000117301941
+    },
+    {
+      "id": "https://openalex.org/C2779363104",
+      "wikidata": "https://www.wikidata.org/wiki/Q17069079",
+      "display_name": "mHealth",
+      "level": 3,
+      "score": 0.2653999924659729
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.14254/1795-6889.2025.21-3.2",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.14254/1795-6889.2025.21-3.2",
+      "pdf_url": "https://ht.csr-pub.eu/index.php/ht/article/download/737/337",
+      "source": {
+        "id": "https://openalex.org/S4210224894",
+        "display_name": "Human Technology",
+        "issn_l": "1795-6889",
+        "issn": [
+          "1795-6889"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320377",
+        "host_organization_name": "University of Jyväskylä",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320377"
+        ],
+        "host_organization_lineage_names": [
+          "University of Jyväskylä"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Human Technology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.14254/1795-6889.2025.21-3.2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.14254/1795-6889.2025.21-3.2",
+    "pdf_url": "https://ht.csr-pub.eu/index.php/ht/article/download/737/337",
+    "source": {
+      "id": "https://openalex.org/S4210224894",
+      "display_name": "Human Technology",
+      "issn_l": "1795-6889",
+      "issn": [
+        "1795-6889"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320377",
+      "host_organization_name": "University of Jyväskylä",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320377"
+      ],
+      "host_organization_lineage_names": [
+        "University of Jyväskylä"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Human Technology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7117582968.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7117582968.grobid-xml"
+  },
+  "referenced_works_count": 29,
+  "referenced_works": [
+    "https://openalex.org/W2096974619",
+    "https://openalex.org/W2108760064",
+    "https://openalex.org/W2223092947",
+    "https://openalex.org/W2306119308",
+    "https://openalex.org/W2765218414",
+    "https://openalex.org/W2902634493",
+    "https://openalex.org/W3137875885",
+    "https://openalex.org/W3160856016",
+    "https://openalex.org/W3205095546",
+    "https://openalex.org/W4205559380",
+    "https://openalex.org/W4213145388",
+    "https://openalex.org/W4226498500",
+    "https://openalex.org/W4283810780",
+    "https://openalex.org/W4323900663",
+    "https://openalex.org/W4367163337",
+    "https://openalex.org/W4386122308",
+    "https://openalex.org/W4386619295",
+    "https://openalex.org/W4399045043",
+    "https://openalex.org/W4400688416",
+    "https://openalex.org/W4400926133",
+    "https://openalex.org/W4402923859",
+    "https://openalex.org/W4405111415",
+    "https://openalex.org/W4406376113",
+    "https://openalex.org/W4409564798",
+    "https://openalex.org/W4409889456",
+    "https://openalex.org/W4410426853",
+    "https://openalex.org/W4413399240",
+    "https://openalex.org/W4414042342",
+    "https://openalex.org/W4415116830"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "study": [
+      1,
+      99
+    ],
+    "systematically": [
+      2
+    ],
+    "maps": [
+      3
+    ],
+    "the": [
+      4,
+      25,
+      98
+    ],
+    "thematic": [
+      5
+    ],
+    "evolution": [
+      6
+    ],
+    "of": [
+      7,
+      27,
+      57,
+      116
+    ],
+    "human–technology": [
+      8,
+      123
+    ],
+    "research": [
+      9,
+      76,
+      95
+    ],
+    "from": [
+      10,
+      24,
+      70
+    ],
+    "2020": [
+      11
+    ],
+    "to": [
+      12,
+      20,
+      73
+    ],
+    "2025": [
+      13
+    ],
+    "using": [
+      14
+    ],
+    "Structural": [
+      15
+    ],
+    "Topic": [
+      16
+    ],
+    "Modelling": [
+      17
+    ],
+    "(STM)": [
+      18
+    ],
+    "applied": [
+      19,
+      134
+    ],
+    "over": [
+      21
+    ],
+    "2,000": [
+      22
+    ],
+    "abstracts": [
+      23
+    ],
+    "Web": [
+      26
+    ],
+    "Science": [
+      28
+    ],
+    "Core": [
+      29
+    ],
+    "Collection.": [
+      30
+    ],
+    "The": [
+      31,
+      64
+    ],
+    "analysis": [
+      32
+    ],
+    "identifies": [
+      33
+    ],
+    "six": [
+      34
+    ],
+    "dominant": [
+      35
+    ],
+    "themes:": [
+      36
+    ],
+    "Industry,": [
+      37
+    ],
+    "AI": [
+      38
+    ],
+    "and": [
+      39,
+      42,
+      48,
+      52,
+      55,
+      59,
+      62,
+      81,
+      93,
+      107,
+      128,
+      133
+    ],
+    "Sustainability;": [
+      40
+    ],
+    "Education": [
+      41
+    ],
+    "Human-Centred": [
+      43
+    ],
+    "Design;": [
+      44
+    ],
+    "Public": [
+      45
+    ],
+    "Health,": [
+      46
+    ],
+    "Community": [
+      47
+    ],
+    "Equity;": [
+      49
+    ],
+    "Robotics,": [
+      50
+    ],
+    "HRI": [
+      51
+    ],
+    "Ergonomics;": [
+      53
+    ],
+    "Philosophy": [
+      54
+    ],
+    "Ethics": [
+      56
+    ],
+    "Technology;": [
+      58
+    ],
+    "Clinical": [
+      60
+    ],
+    "mHealth": [
+      61
+    ],
+    "Usability.": [
+      63
+    ],
+    "results": [
+      65
+    ],
+    "reveal": [
+      66
+    ],
+    "a": [
+      67,
+      91,
+      101,
+      113
+    ],
+    "structural": [
+      68
+    ],
+    "realignment": [
+      69
+    ],
+    "pandemic-driven": [
+      71
+    ],
+    "experimentation": [
+      72
+    ],
+    "institutionalised,": [
+      74
+    ],
+    "interdisciplinary": [
+      75
+    ],
+    "embedded": [
+      77
+    ],
+    "in": [
+      78
+    ],
+    "industrial,": [
+      79
+    ],
+    "clinical,": [
+      80
+    ],
+    "community": [
+      82
+    ],
+    "systems.": [
+      83
+    ],
+    "Thematic": [
+      84
+    ],
+    "inequality": [
+      85
+    ],
+    "declined": [
+      86
+    ],
+    "while": [
+      87
+    ],
+    "diversity": [
+      88
+    ],
+    "stabilised,": [
+      89
+    ],
+    "indicating": [
+      90
+    ],
+    "mature": [
+      92
+    ],
+    "balanced": [
+      94
+    ],
+    "ecosystem.": [
+      96
+    ],
+    "Methodologically,": [
+      97
+    ],
+    "introduces": [
+      100
+    ],
+    "reproducible": [
+      102
+    ],
+    "STM-based": [
+      103
+    ],
+    "workflow": [
+      104
+    ],
+    "integrating": [
+      105
+    ],
+    "Gini": [
+      106
+    ],
+    "Shannon": [
+      108
+    ],
+    "indices.": [
+      109
+    ],
+    "Empirically,": [
+      110
+    ],
+    "it": [
+      111,
+      120
+    ],
+    "provides": [
+      112
+    ],
+    "data-driven": [
+      114
+    ],
+    "map": [
+      115
+    ],
+    "cross-disciplinary": [
+      117
+    ],
+    "convergence.": [
+      118
+    ],
+    "Conceptually,": [
+      119
+    ],
+    "demonstrates": [
+      121
+    ],
+    "that": [
+      122
+    ],
+    "inquiry": [
+      124
+    ],
+    "increasingly": [
+      125
+    ],
+    "operationalises": [
+      126
+    ],
+    "ethics": [
+      127
+    ],
+    "sustainability": [
+      129
+    ],
+    "through": [
+      130
+    ],
+    "design,": [
+      131
+    ],
+    "governance,": [
+      132
+    ],
+    "practice.": [
+      135
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-12-30T00:00:00"
+}

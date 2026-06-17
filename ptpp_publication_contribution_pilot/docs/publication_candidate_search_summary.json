@@ -1,0 +1,23 @@
+{
+  "created_at_utc": "2026-06-17T08:13:14+00:00",
+  "members_input_rows": 707,
+  "candidate_publications_rows": 9353,
+  "authorship_candidate_rows": 9617,
+  "authorship_candidates_by_source": {
+    "openalex": 5261,
+    "pubmed": 4356
+  },
+  "authorship_candidates_by_confidence_hint": {
+    "medium_candidate": 8805,
+    "low_candidate": 494,
+    "high_candidate": 306,
+    "very_low_candidate": 12
+  },
+  "sources_requested": [
+    "crossref",
+    "openalex",
+    "pubmed"
+  ],
+  "max_results_per_source": 20,
+  "note": "Candidates only. Do not interpret as verified PTPP member publications without manual audit."
+}

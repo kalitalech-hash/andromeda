@@ -1,0 +1,1374 @@
+{
+  "id": "https://openalex.org/W3159381135",
+  "doi": null,
+  "title": "Creating and validating UML class diagrams with the use of domain ontologies expressed in OWL 2",
+  "display_name": "Creating and validating UML class diagrams with the use of domain ontologies expressed in OWL 2",
+  "publication_year": 2020,
+  "publication_date": "2020-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3159381135",
+    "mag": "3159381135"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "mag:3159381135",
+    "is_oa": false,
+    "landing_page_url": "https://www.dbc.wroc.pl/publication/149482",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": null
+  },
+  "type": "article",
+  "indexed_in": [],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076439340",
+        "display_name": "Małgorzata Sadowska",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Małgorzata Sadowska",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5076439340"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.2542,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.66460642,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 93
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10703",
+    "display_name": "Business Process Modeling and Analysis",
+    "score": 0.9567999839782715,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1404",
+      "display_name": "Management Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/14",
+      "display_name": "Business, Management and Accounting"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10703",
+      "display_name": "Business Process Modeling and Analysis",
+      "score": 0.9567999839782715,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14419",
+      "display_name": "Banking Systems and Strategies",
+      "score": 0.9287999868392944,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10679",
+      "display_name": "Service-Oriented Architecture and Web Services",
+      "score": 0.9182999730110168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/unified-modeling-language",
+      "display_name": "Unified Modeling Language",
+      "score": 0.6862544417381287
+    },
+    {
+      "id": "https://openalex.org/keywords/class-diagram",
+      "display_name": "Class diagram",
+      "score": 0.6224145293235779
+    },
+    {
+      "id": "https://openalex.org/keywords/theology",
+      "display_name": "Theology",
+      "score": 0.4399515390396118
+    },
+    {
+      "id": "https://openalex.org/keywords/philosophy",
+      "display_name": "Philosophy",
+      "score": 0.38045790791511536
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.3578988313674927
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.35661494731903076
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.30944520235061646
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.0565963089466095
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C145644426",
+      "wikidata": "https://www.wikidata.org/wiki/Q169411",
+      "display_name": "Unified Modeling Language",
+      "level": 3,
+      "score": 0.6862544417381287
+    },
+    {
+      "id": "https://openalex.org/C202446494",
+      "wikidata": "https://www.wikidata.org/wiki/Q664166",
+      "display_name": "Class diagram",
+      "level": 4,
+      "score": 0.6224145293235779
+    },
+    {
+      "id": "https://openalex.org/C27206212",
+      "wikidata": "https://www.wikidata.org/wiki/Q34178",
+      "display_name": "Theology",
+      "level": 1,
+      "score": 0.4399515390396118
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.38045790791511536
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.3578988313674927
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.35661494731903076
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.30944520235061646
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.0565963089466095
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "mag:3159381135",
+      "is_oa": false,
+      "landing_page_url": "https://www.dbc.wroc.pl/publication/149482",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Modele": [
+      0
+    ],
+    "biznesowe": [
+      1
+    ],
+    "mają": [
+      2,
+      415
+    ],
+    "na": [
+      3,
+      67,
+      98,
+      273,
+      394,
+      405
+    ],
+    "celu": [
+      4
+    ],
+    "przedstawienie": [
+      5
+    ],
+    "zlozonej": [
+      6
+    ],
+    "rzeczywistości": [
+      7
+    ],
+    "biznesowej": [
+      8
+    ],
+    "w": [
+      9,
+      32,
+      57,
+      85,
+      90,
+      118,
+      130,
+      151,
+      190,
+      196,
+      204,
+      237,
+      268,
+      282,
+      285,
+      297,
+      340,
+      424
+    ],
+    "sposob": [
+      10,
+      425
+    ],
+    "uproszczony.": [
+      11
+    ],
+    "Sluzą": [
+      12
+    ],
+    "wsparciu": [
+      13
+    ],
+    "komunikacji": [
+      14
+    ],
+    "pomiedzy": [
+      15
+    ],
+    "udzialowcami": [
+      16
+    ],
+    "systemu,": [
+      17
+    ],
+    "a": [
+      18,
+      200,
+      229,
+      243,
+      451
+    ],
+    "tym": [
+      19,
+      131,
+      452
+    ],
+    "samym": [
+      20,
+      453
+    ],
+    "dostarczają": [
+      21
+    ],
+    "waznych": [
+      22,
+      55
+    ],
+    "informacji": [
+      23
+    ],
+    "wymaganych": [
+      24
+    ],
+    "do": [
+      25,
+      53,
+      82,
+      364
+    ],
+    "utworzenia": [
+      26
+    ],
+    "oprogramowania": [
+      27
+    ],
+    "i": [
+      28,
+      73,
+      133,
+      174,
+      213,
+      293,
+      390,
+      447,
+      466
+    ],
+    "odgrywają": [
+      29
+    ],
+    "kluczową": [
+      30
+    ],
+    "role": [
+      31
+    ],
+    "jego": [
+      33
+    ],
+    "dalszym": [
+      34
+    ],
+    "rozwoju.": [
+      35
+    ],
+    "Istotnym": [
+      36
+    ],
+    "elementem": [
+      37
+    ],
+    "modeli": [
+      38,
+      100,
+      172,
+      464
+    ],
+    "biznesowych": [
+      39,
+      101,
+      173,
+      465
+    ],
+    "są": [
+      40,
+      45,
+      78,
+      113,
+      281,
+      316
+    ],
+    "diagramy": [
+      41,
+      313
+    ],
+    "klas": [
+      42,
+      50,
+      145,
+      188,
+      227,
+      314,
+      369,
+      386,
+      393
+    ],
+    "UML,": [
+      43,
+      228,
+      265,
+      278
+    ],
+    "ktore": [
+      44,
+      279,
+      322
+    ],
+    "przedmiotem": [
+      46
+    ],
+    "niniejszej": [
+      47
+    ],
+    "rozprawy.": [
+      48
+    ],
+    "Diagramy": [
+      49
+    ],
+    "UML": [
+      51,
+      146,
+      189,
+      254,
+      315,
+      370
+    ],
+    "sluzą": [
+      52,
+      323
+    ],
+    "przedstawiania": [
+      54
+    ],
+    "pojec": [
+      56,
+      72
+    ],
+    "konkretnym": [
+      58
+    ],
+    "obszarze": [
+      59
+    ],
+    "dziedzinowym.": [
+      60
+    ],
+    "Ontologia": [
+      61
+    ],
+    "stanowi": [
+      62
+    ],
+    "reprezentacje": [
+      63
+    ],
+    "wybranej": [
+      64
+    ],
+    "dziedziny": [
+      65
+    ],
+    "wiedzy,": [
+      66
+    ],
+    "ktorą": [
+      68
+    ],
+    "sklada": [
+      69,
+      329
+    ],
+    "sie": [
+      70,
+      330
+    ],
+    "zapis": [
+      71
+    ],
+    "relacji": [
+      74
+    ],
+    "miedzy": [
+      75,
+      219,
+      224
+    ],
+    "nimi.": [
+      76
+    ],
+    "Ontologie": [
+      77
+    ],
+    "coraz": [
+      79
+    ],
+    "cześciej": [
+      80
+    ],
+    "wykorzystywane": [
+      81,
+      114
+    ],
+    "wspierania": [
+      83
+    ],
+    "modelowania": [
+      84,
+      92,
+      299
+    ],
+    "procesie": [
+      86
+    ],
+    "tworzenia": [
+      87,
+      143,
+      184,
+      209,
+      389
+    ],
+    "oprogramowania,": [
+      88
+    ],
+    "m.in.": [
+      89
+    ],
+    "fazie": [
+      91
+    ],
+    "biznesowego.": [
+      93
+    ],
+    "Korzystanie": [
+      94
+    ],
+    "z": [
+      95,
+      147,
+      331
+    ],
+    "ontologii": [
+      96,
+      129,
+      149,
+      167,
+      396,
+      408,
+      459
+    ],
+    "pozwala": [
+      97
+    ],
+    "tworzenie": [
+      99
+    ],
+    "bez": [
+      102
+    ],
+    "konieczności": [
+      103
+    ],
+    "posiadania": [
+      104
+    ],
+    "wiedzy": [
+      105
+    ],
+    "specjalistycznej": [
+      106
+    ],
+    "lub": [
+      107
+    ],
+    "wsparcia": [
+      108
+    ],
+    "ekspertow": [
+      109
+    ],
+    "dziedzinowych.": [
+      110
+    ],
+    "W": [
+      111,
+      161,
+      377
+    ],
+    "rozprawie": [
+      112
+    ],
+    "ontologie": [
+      115,
+      193,
+      414
+    ],
+    "dziedzinowe": [
+      116
+    ],
+    "wyrazone": [
+      117,
+      195
+    ],
+    "jezyku": [
+      119,
+      132,
+      197
+    ],
+    "OWL": [
+      120,
+      152,
+      198,
+      231,
+      409
+    ],
+    "2,": [
+      121,
+      199
+    ],
+    "poniewaz": [
+      122
+    ],
+    "obecnie": [
+      123
+    ],
+    "istnieje": [
+      124
+    ],
+    "bardzo": [
+      125
+    ],
+    "wiele": [
+      126
+    ],
+    "juz": [
+      127
+    ],
+    "utworzonych": [
+      128
+    ],
+    "ta": [
+      134
+    ],
+    "liczba": [
+      135
+    ],
+    "stale": [
+      136
+    ],
+    "rośnie.": [
+      137
+    ],
+    "Przedmiotem": [
+      138
+    ],
+    "rozprawy": [
+      139
+    ],
+    "doktorskiej": [
+      140
+    ],
+    "jest": [
+      141,
+      181,
+      289,
+      337,
+      371
+    ],
+    "proces": [
+      142
+    ],
+    "diagramow": [
+      144,
+      187,
+      210,
+      226,
+      385,
+      392
+    ],
+    "wykorzystaniem": [
+      148
+    ],
+    "dziedzinowych": [
+      150,
+      168,
+      460
+    ],
+    "2": [
+      153,
+      410
+    ],
+    "oraz": [
+      154,
+      185,
+      300,
+      343,
+      432
+    ],
+    "ich": [
+      155,
+      176,
+      468
+    ],
+    "poźniejszej": [
+      156
+    ],
+    "walidacji": [
+      157,
+      186,
+      305,
+      391
+    ],
+    "wzgledem": [
+      158
+    ],
+    "tych": [
+      159,
+      216
+    ],
+    "ontologii.": [
+      160,
+      286,
+      303
+    ],
+    "pracy": [
+      162,
+      180,
+      378
+    ],
+    "postawiono": [
+      163
+    ],
+    "teze,": [
+      164,
+      456
+    ],
+    "iz": [
+      165,
+      457
+    ],
+    "zastosowanie": [
+      166,
+      267,
+      458
+    ],
+    "sprzyja": [
+      169,
+      461
+    ],
+    "szybszemu": [
+      170,
+      462
+    ],
+    "tworzeniu": [
+      171,
+      463
+    ],
+    "podnosi": [
+      175,
+      467
+    ],
+    "jakośc": [
+      177,
+      469
+    ],
+    "semantyczną.": [
+      178,
+      470
+    ],
+    "Celem": [
+      179
+    ],
+    "zaproponowanie": [
+      182
+    ],
+    "metod": [
+      183,
+      203,
+      217
+    ],
+    "oparciu": [
+      191,
+      238
+    ],
+    "o": [
+      192,
+      239,
+      246,
+      353
+    ],
+    "dziedzinowe,": [
+      194
+    ],
+    "takze": [
+      201,
+      244
+    ],
+    "implementacja": [
+      202
+    ],
+    "narzedziu.": [
+      205
+    ],
+    "Zaproponowano": [
+      206
+    ],
+    "dwie": [
+      207
+    ],
+    "metody": [
+      208
+    ],
+    "klas:": [
+      211
+    ],
+    "bezpośrednią": [
+      212
+    ],
+    "rozszerzoną.": [
+      214
+    ],
+    "Opracowanie": [
+      215
+    ],
+    "wymagalo": [
+      218
+    ],
+    "innymi": [
+      220
+    ],
+    "zdefiniowania": [
+      221
+    ],
+    "regul": [
+      222
+    ],
+    "transformacji": [
+      223
+    ],
+    "elementami": [
+      225
+    ],
+    "konstrukcjami": [
+      230
+    ],
+    "2.": [
+      232
+    ],
+    "Reguly": [
+      233
+    ],
+    "te": [
+      234
+    ],
+    "zostaly": [
+      235
+    ],
+    "opracowane": [
+      236
+    ],
+    "systematyczny": [
+      240
+    ],
+    "przegląd": [
+      241
+    ],
+    "literatury,": [
+      242
+    ],
+    "rozszerzone": [
+      245,
+      288
+    ],
+    "nowe": [
+      247
+    ],
+    "autorskie": [
+      248
+    ],
+    "propozycje.": [
+      249
+    ],
+    "Metoda": [
+      250
+    ],
+    "bezpośredniego": [
+      251
+    ],
+    "wydobycia": [
+      252,
+      263
+    ],
+    "elementow": [
+      253,
+      264,
+      277
+    ],
+    "wykorzystuje": [
+      255,
+      357
+    ],
+    "jedynie": [
+      256
+    ],
+    "zdefiniowane": [
+      257,
+      284
+    ],
+    "reguly": [
+      258,
+      361
+    ],
+    "transformacji.": [
+      259
+    ],
+    "Natomiast": [
+      260
+    ],
+    "metoda": [
+      261
+    ],
+    "rozszerzonego": [
+      262
+    ],
+    "mająca": [
+      266
+    ],
+    "przypadku": [
+      269
+    ],
+    "niekompletnych": [
+      270
+    ],
+    "ontologii,": [
+      271
+    ],
+    "umozliwia": [
+      272
+    ],
+    "wydobycie": [
+      274
+    ],
+    "rowniez": [
+      275,
+      380
+    ],
+    "takich": [
+      276
+    ],
+    "nie": [
+      280
+    ],
+    "pelni": [
+      283
+    ],
+    "Podejście": [
+      287
+    ],
+    "oryginalną": [
+      290
+    ],
+    "propozycją": [
+      291
+    ],
+    "autorki": [
+      292
+    ],
+    "uzasadnione": [
+      294
+    ],
+    "praktycznymi": [
+      295
+    ],
+    "potrzebami": [
+      296
+    ],
+    "zakresie": [
+      298
+    ],
+    "postacią": [
+      301
+    ],
+    "rzeczywistych": [
+      302
+    ],
+    "Proces": [
+      304,
+      356
+    ],
+    "ma": [
+      306
+    ],
+    "za": [
+      307
+    ],
+    "zadanie": [
+      308
+    ],
+    "jednoznacznie": [
+      309
+    ],
+    "stwierdzic,": [
+      310
+    ],
+    "czy": [
+      311,
+      366
+    ],
+    "otrzymane": [
+      312
+    ],
+    "zgodne": [
+      317
+    ],
+    "ze": [
+      318,
+      373,
+      438
+    ],
+    "wskazanymi": [
+      319
+    ],
+    "ontologiami": [
+      320
+    ],
+    "dziedzinowymi,": [
+      321
+    ],
+    "jako": [
+      324,
+      398
+    ],
+    "baza": [
+      325
+    ],
+    "wiedzy.": [
+      326
+    ],
+    "Walidacja": [
+      327
+    ],
+    "diagramu": [
+      328
+    ],
+    "dwoch": [
+      332
+    ],
+    "etapow:": [
+      333
+    ],
+    "weryfikacji": [
+      334
+    ],
+    "formalnej,": [
+      335
+    ],
+    "ktora": [
+      336,
+      350
+    ],
+    "przeprowadzana": [
+      338
+    ],
+    "automatycznie": [
+      339,
+      381
+    ],
+    "proponowanym": [
+      341
+    ],
+    "narzedziu,": [
+      342
+    ],
+    "opcjonalnie,": [
+      344
+    ],
+    "akceptacji": [
+      345
+    ],
+    "wynikow": [
+      346
+    ],
+    "przez": [
+      347,
+      359
+    ],
+    "osobe": [
+      348
+    ],
+    "modelującą,": [
+      349
+    ],
+    "finalnie": [
+      351
+    ],
+    "decyduje": [
+      352
+    ],
+    "wyniku": [
+      354
+    ],
+    "walidacji.": [
+      355
+    ],
+    "zaproponowane": [
+      358
+    ],
+    "autorke": [
+      360
+    ],
+    "weryfikacji,": [
+      362
+    ],
+    "sluzące": [
+      363
+    ],
+    "sprawdzania,": [
+      365
+    ],
+    "tworzony": [
+      367
+    ],
+    "diagram": [
+      368
+    ],
+    "zgodny": [
+      372
+    ],
+    "wskazaną": [
+      374
+    ],
+    "ontologią": [
+      375
+    ],
+    "dziedzinową.": [
+      376
+    ],
+    "zaproponowano": [
+      379
+    ],
+    "generowane": [
+      382
+    ],
+    "sugestie": [
+      383
+    ],
+    "korekt": [
+      384
+    ],
+    "UML.": [
+      387
+    ],
+    "Metody": [
+      388
+    ],
+    "podstawie": [
+      395
+    ],
+    "zaimplementowano": [
+      397
+    ],
+    "rozszerzenie": [
+      399
+    ],
+    "programu": [
+      400
+    ],
+    "Visual": [
+      401
+    ],
+    "Paradigm.": [
+      402
+    ],
+    "Implementacja": [
+      403
+    ],
+    "bazuje": [
+      404
+    ],
+    "oryginalnym": [
+      406
+    ],
+    "przeksztalcaniu": [
+      407
+    ],
+    "nazwanym": [
+      411
+    ],
+    "normalizacją.": [
+      412
+    ],
+    "Znormalizowane": [
+      413
+    ],
+    "zunifikowaną": [
+      416
+    ],
+    "strukture": [
+      417
+    ],
+    "aksjomatow,": [
+      418
+    ],
+    "dzieki": [
+      419
+    ],
+    "czemu": [
+      420
+    ],
+    "latwiej": [
+      421
+    ],
+    "je": [
+      422
+    ],
+    "porownywac": [
+      423
+    ],
+    "algorytmiczny.": [
+      426
+    ],
+    "Narzedzie": [
+      427
+    ],
+    "zostalo": [
+      428
+    ],
+    "sprawdzone": [
+      429
+    ],
+    "przypadkami": [
+      430
+    ],
+    "testowymi": [
+      431
+    ],
+    "poddane": [
+      433
+    ],
+    "ocenie": [
+      434
+    ],
+    "empirycznej": [
+      435
+    ],
+    "poprzez": [
+      436
+    ],
+    "eksperyment": [
+      437
+    ],
+    "studentami": [
+      439
+    ],
+    "Politechniki": [
+      440
+    ],
+    "Wroclawskiej.": [
+      441
+    ],
+    "Przeprowadzone": [
+      442
+    ],
+    "badania": [
+      443
+    ],
+    "potwierdzily": [
+      444
+    ],
+    "praktyczny": [
+      445
+    ],
+    "potencjal": [
+      446
+    ],
+    "uzytecznośc": [
+      448
+    ],
+    "proponowanych": [
+      449
+    ],
+    "metod,": [
+      450
+    ],
+    "udowodnily": [
+      454
+    ],
+    "postawioną": [
+      455
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T04:12:42.849631",
+  "created_date": "2025-10-10T00:00:00"
+}

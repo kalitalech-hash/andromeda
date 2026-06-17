@@ -1,0 +1,664 @@
+{
+  "id": "https://openalex.org/W4393300368",
+  "doi": "https://doi.org/10.48550/arxiv.2403.18534",
+  "title": "Creating spanning trees in Waiter-Client games",
+  "display_name": "Creating spanning trees in Waiter-Client games",
+  "publication_year": 2024,
+  "publication_date": "2024-03-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4393300368",
+    "doi": "https://doi.org/10.48550/arxiv.2403.18534"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2403.18534",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2403.18534",
+    "pdf_url": "https://arxiv.org/pdf/2403.18534",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2403.18534",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083585343",
+        "display_name": "Grzegorz Adamski",
+        "orcid": "https://orcid.org/0000-0003-0381-0351"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Adamski, Grzegorz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024664393",
+        "display_name": "Sylwia Antoniuk",
+        "orcid": "https://orcid.org/0000-0001-7868-2791"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Antoniuk, Sylwia",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017542027",
+        "display_name": "Małgorzata Bednarska-Bzdȩga",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bednarska-Bzdęga, Małgorzata",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035121909",
+        "display_name": "Dennis Clemens",
+        "orcid": "https://orcid.org/0000-0001-5940-6556"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Clemens, Dennis",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017784934",
+        "display_name": "Fabian Hamann",
+        "orcid": "https://orcid.org/0000-0001-7166-1437"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hamann, Fabian",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5087342333",
+        "display_name": "Yannick Mogge",
+        "orcid": "https://orcid.org/0000-0003-4239-9112"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mogge, Yannick",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10742",
+    "display_name": "Peer-to-Peer Network Technologies",
+    "score": 0.9732999801635742,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10742",
+      "display_name": "Peer-to-Peer Network Technologies",
+      "score": 0.9732999801635742,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11197",
+      "display_name": "Digital Games and Media",
+      "score": 0.9502000212669373,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/spanning-tree",
+      "display_name": "Spanning tree",
+      "score": 0.7027020454406738
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4779786467552185
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.3705730140209198
+    },
+    {
+      "id": "https://openalex.org/keywords/combinatorics",
+      "display_name": "Combinatorics",
+      "score": 0.17517852783203125
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.15856051445007324
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C64331007",
+      "wikidata": "https://www.wikidata.org/wiki/Q831672",
+      "display_name": "Spanning tree",
+      "level": 2,
+      "score": 0.7027020454406738
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4779786467552185
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.3705730140209198
+    },
+    {
+      "id": "https://openalex.org/C114614502",
+      "wikidata": "https://www.wikidata.org/wiki/Q76592",
+      "display_name": "Combinatorics",
+      "level": 1,
+      "score": 0.17517852783203125
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.15856051445007324
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2403.18534",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2403.18534",
+      "pdf_url": "https://arxiv.org/pdf/2403.18534",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2403.18534",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2403.18534",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2403.18534",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2403.18534",
+    "pdf_url": "https://arxiv.org/pdf/2403.18534",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4393300368.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4393300368.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W2478288626",
+    "https://openalex.org/W4391913857",
+    "https://openalex.org/W2350741829",
+    "https://openalex.org/W2530322880"
+  ],
+  "abstract_inverted_index": {
+    "For": [
+      0
+    ],
+    "a": [
+      1,
+      6,
+      34,
+      56,
+      70,
+      75,
+      87
+    ],
+    "positive": [
+      2,
+      71
+    ],
+    "integer": [
+      3
+    ],
+    "$n$": [
+      4,
+      10,
+      49,
+      96
+    ],
+    "and": [
+      5,
+      48,
+      74
+    ],
+    "tree": [
+      7
+    ],
+    "$T_n$": [
+      8
+    ],
+    "on": [
+      9,
+      20
+    ],
+    "vertices,": [
+      11
+    ],
+    "we": [
+      12,
+      65
+    ],
+    "consider": [
+      13,
+      101
+    ],
+    "an": [
+      14
+    ],
+    "unbiased": [
+      15
+    ],
+    "Waiter-Client": [
+      16
+    ],
+    "game": [
+      17,
+      93
+    ],
+    "$\\textrm{WC}(n,T_n)$": [
+      18,
+      92
+    ],
+    "played": [
+      19
+    ],
+    "the": [
+      21,
+      62,
+      91,
+      102,
+      106,
+      110
+    ],
+    "complete": [
+      22
+    ],
+    "graph~$K_n$,": [
+      23
+    ],
+    "in": [
+      24,
+      59,
+      90,
+      105
+    ],
+    "which": [
+      25
+    ],
+    "Waiter's": [
+      26
+    ],
+    "goal": [
+      27
+    ],
+    "is": [
+      28,
+      50
+    ],
+    "to": [
+      29,
+      32
+    ],
+    "force": [
+      30
+    ],
+    "Client": [
+      31,
+      85
+    ],
+    "build": [
+      33
+    ],
+    "copy": [
+      35
+    ],
+    "of": [
+      36,
+      77,
+      109
+    ],
+    "$T_n$.": [
+      37
+    ],
+    "We": [
+      38,
+      99
+    ],
+    "prove": [
+      39
+    ],
+    "that": [
+      40,
+      67,
+      84
+    ],
+    "for": [
+      41,
+      94
+    ],
+    "every": [
+      42,
+      95
+    ],
+    "constant": [
+      43,
+      72
+    ],
+    "$c&lt;1/3$,": [
+      44
+    ],
+    "if": [
+      45
+    ],
+    "$Δ(T_n)\\le": [
+      46,
+      81
+    ],
+    "cn$": [
+      47
+    ],
+    "sufficiently": [
+      51,
+      97
+    ],
+    "large,": [
+      52
+    ],
+    "then": [
+      53
+    ],
+    "Waiter": [
+      54
+    ],
+    "has": [
+      55,
+      86
+    ],
+    "winning": [
+      57,
+      88
+    ],
+    "strategy": [
+      58,
+      89
+    ],
+    "$\\textrm{WC}(n,T_n)$.": [
+      60
+    ],
+    "On": [
+      61
+    ],
+    "other": [
+      63
+    ],
+    "hand,": [
+      64
+    ],
+    "show": [
+      66
+    ],
+    "there": [
+      68
+    ],
+    "exist": [
+      69
+    ],
+    "$c'&lt;1/2$": [
+      73
+    ],
+    "family": [
+      76
+    ],
+    "trees": [
+      78
+    ],
+    "$T_{n}$": [
+      79
+    ],
+    "with": [
+      80
+    ],
+    "c'n$": [
+      82
+    ],
+    "such": [
+      83
+    ],
+    "large.": [
+      98
+    ],
+    "also": [
+      100
+    ],
+    "corresponding": [
+      103
+    ],
+    "problem": [
+      104
+    ],
+    "Client-Waiter": [
+      107
+    ],
+    "version": [
+      108
+    ],
+    "game.": [
+      111
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

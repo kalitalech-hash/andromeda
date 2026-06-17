@@ -1,0 +1,620 @@
+{
+  "id": "https://openalex.org/W2912733310",
+  "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2019.01.144",
+  "title": "Direct numerical simulation of flow and heat transfer in a simplified pressurized thermal shock scenario",
+  "display_name": "Direct numerical simulation of flow and heat transfer in a simplified pressurized thermal shock scenario",
+  "publication_year": 2019,
+  "publication_date": "2019-02-11",
+  "ids": {
+    "openalex": "https://openalex.org/W2912733310",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2019.01.144",
+    "mag": "2912733310"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.ijheatmasstransfer.2019.01.144",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.ijheatmasstransfer.2019.01.144",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S90999920",
+      "display_name": "International Journal of Heat and Mass Transfer",
+      "issn_l": "0017-9310",
+      "issn": [
+        "0017-9310",
+        "1879-2189"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Heat and Mass Transfer",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5013995576",
+        "display_name": "Afaque Shams",
+        "orcid": "https://orcid.org/0000-0003-1287-1607"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I58176456",
+          "display_name": "Nuclear Research and Consultancy Group",
+          "ror": "https://ror.org/034b4g685",
+          "country_code": "NL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "A. Shams",
+      "raw_affiliation_strings": [
+        "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043481834",
+        "display_name": "D. De Santis",
+        "orcid": "https://orcid.org/0000-0002-0704-8395"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I58176456",
+          "display_name": "Nuclear Research and Consultancy Group",
+          "ror": "https://ror.org/034b4g685",
+          "country_code": "NL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "D. De Santis",
+      "raw_affiliation_strings": [
+        "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067499215",
+        "display_name": "Donato De Rosa",
+        "orcid": "https://orcid.org/0000-0003-0809-7057"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I58176456",
+          "display_name": "Nuclear Research and Consultancy Group",
+          "ror": "https://ror.org/034b4g685",
+          "country_code": "NL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "D. Rosa",
+      "raw_affiliation_strings": [
+        "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071433068",
+        "display_name": "Tomasz Kwiatkowski",
+        "orcid": "https://orcid.org/0000-0002-5483-265X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210097150",
+          "display_name": "National Centre for Nuclear Research",
+          "ror": "https://ror.org/00nzsxq20",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210097150"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T. Kwiatkowski",
+      "raw_affiliation_strings": [
+        "National Centre for Nuclear Research, Andrzeja Sołtana 7, 05-400 Otwock-Świerk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Centre for Nuclear Research, Andrzeja Sołtana 7, 05-400 Otwock-Świerk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210097150"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5029900458",
+        "display_name": "E.J.M. Komen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I58176456",
+          "display_name": "Nuclear Research and Consultancy Group",
+          "ror": "https://ror.org/034b4g685",
+          "country_code": "NL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "E.J.M. Komen",
+      "raw_affiliation_strings": [
+        "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nuclear Research and Consultancy Group (NRG), Westerduinweg 3, 1755 LE, Petten, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5013995576"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I58176456"
+  ],
+  "apc_list": {
+    "value": 4160,
+    "currency": "USD",
+    "value_usd": 4160
+  },
+  "apc_paid": null,
+  "fwci": 0.9668,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.71783505,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "135",
+    "issue": null,
+    "first_page": "517",
+    "last_page": "540"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10360",
+    "display_name": "Fluid Dynamics and Turbulent Flows",
+    "score": 0.9990000128746033,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10360",
+      "display_name": "Fluid Dynamics and Turbulent Flows",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10173",
+      "display_name": "Computational Fluid Dynamics and Aerodynamics",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11945",
+      "display_name": "Heat Transfer Mechanisms",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/mechanics",
+      "display_name": "Mechanics",
+      "score": 0.7133806943893433
+    },
+    {
+      "id": "https://openalex.org/keywords/turbulence",
+      "display_name": "Turbulence",
+      "score": 0.6295617818832397
+    },
+    {
+      "id": "https://openalex.org/keywords/reynolds-number",
+      "display_name": "Reynolds number",
+      "score": 0.5568945407867432
+    },
+    {
+      "id": "https://openalex.org/keywords/duct",
+      "display_name": "Duct (anatomy)",
+      "score": 0.5262488722801208
+    },
+    {
+      "id": "https://openalex.org/keywords/heat-transfer",
+      "display_name": "Heat transfer",
+      "score": 0.5092364549636841
+    },
+    {
+      "id": "https://openalex.org/keywords/prandtl-number",
+      "display_name": "Prandtl number",
+      "score": 0.4952944815158844
+    },
+    {
+      "id": "https://openalex.org/keywords/secondary-flow",
+      "display_name": "Secondary flow",
+      "score": 0.48667436838150024
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.39512893557548523
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.392500102519989
+    },
+    {
+      "id": "https://openalex.org/keywords/thermodynamics",
+      "display_name": "Thermodynamics",
+      "score": 0.38718268275260925
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C57879066",
+      "wikidata": "https://www.wikidata.org/wiki/Q41217",
+      "display_name": "Mechanics",
+      "level": 1,
+      "score": 0.7133806943893433
+    },
+    {
+      "id": "https://openalex.org/C196558001",
+      "wikidata": "https://www.wikidata.org/wiki/Q190132",
+      "display_name": "Turbulence",
+      "level": 2,
+      "score": 0.6295617818832397
+    },
+    {
+      "id": "https://openalex.org/C182748727",
+      "wikidata": "https://www.wikidata.org/wiki/Q178932",
+      "display_name": "Reynolds number",
+      "level": 3,
+      "score": 0.5568945407867432
+    },
+    {
+      "id": "https://openalex.org/C2781212128",
+      "wikidata": "https://www.wikidata.org/wiki/Q2256181",
+      "display_name": "Duct (anatomy)",
+      "level": 2,
+      "score": 0.5262488722801208
+    },
+    {
+      "id": "https://openalex.org/C50517652",
+      "wikidata": "https://www.wikidata.org/wiki/Q179635",
+      "display_name": "Heat transfer",
+      "level": 2,
+      "score": 0.5092364549636841
+    },
+    {
+      "id": "https://openalex.org/C72687893",
+      "wikidata": "https://www.wikidata.org/wiki/Q815306",
+      "display_name": "Prandtl number",
+      "level": 3,
+      "score": 0.4952944815158844
+    },
+    {
+      "id": "https://openalex.org/C2778384633",
+      "wikidata": "https://www.wikidata.org/wiki/Q689151",
+      "display_name": "Secondary flow",
+      "level": 3,
+      "score": 0.48667436838150024
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.39512893557548523
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.392500102519989
+    },
+    {
+      "id": "https://openalex.org/C97355855",
+      "wikidata": "https://www.wikidata.org/wiki/Q11473",
+      "display_name": "Thermodynamics",
+      "level": 1,
+      "score": 0.38718268275260925
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.ijheatmasstransfer.2019.01.144",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.ijheatmasstransfer.2019.01.144",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S90999920",
+        "display_name": "International Journal of Heat and Mass Transfer",
+        "issn_l": "0017-9310",
+        "issn": [
+          "0017-9310",
+          "1879-2189"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Heat and Mass Transfer",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.7300000190734863,
+      "display_name": "Clean water and sanitation",
+      "id": "https://metadata.un.org/sdg/6"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321780",
+      "display_name": "Ministerie van Economische Zaken",
+      "ror": "https://ror.org/00bc6bw85"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 33,
+  "referenced_works": [
+    "https://openalex.org/W861629042",
+    "https://openalex.org/W1543561423",
+    "https://openalex.org/W1551258729",
+    "https://openalex.org/W1979176272",
+    "https://openalex.org/W1979677378",
+    "https://openalex.org/W1996073856",
+    "https://openalex.org/W2002303236",
+    "https://openalex.org/W2017156430",
+    "https://openalex.org/W2039729930",
+    "https://openalex.org/W2048036381",
+    "https://openalex.org/W2049119514",
+    "https://openalex.org/W2052221657",
+    "https://openalex.org/W2062112764",
+    "https://openalex.org/W2067003866",
+    "https://openalex.org/W2072078432",
+    "https://openalex.org/W2078453696",
+    "https://openalex.org/W2088176239",
+    "https://openalex.org/W2099091496",
+    "https://openalex.org/W2124319423",
+    "https://openalex.org/W2160486873",
+    "https://openalex.org/W2167029698",
+    "https://openalex.org/W2194050752",
+    "https://openalex.org/W2195236165",
+    "https://openalex.org/W2281247636",
+    "https://openalex.org/W2505896530",
+    "https://openalex.org/W2789910059",
+    "https://openalex.org/W2794556454",
+    "https://openalex.org/W2800437807",
+    "https://openalex.org/W2886380140",
+    "https://openalex.org/W2899519961",
+    "https://openalex.org/W2966982515",
+    "https://openalex.org/W6684198682",
+    "https://openalex.org/W6687048313"
+  ],
+  "related_works": [
+    "https://openalex.org/W2082984609",
+    "https://openalex.org/W2590396971",
+    "https://openalex.org/W4385150657",
+    "https://openalex.org/W2374609629",
+    "https://openalex.org/W4233523705",
+    "https://openalex.org/W2922512902",
+    "https://openalex.org/W2155528228",
+    "https://openalex.org/W2005186544",
+    "https://openalex.org/W1986058458",
+    "https://openalex.org/W2064618823"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

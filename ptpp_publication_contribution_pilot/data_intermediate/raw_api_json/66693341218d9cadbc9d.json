@@ -1,0 +1,1975 @@
+{
+  "id": "https://openalex.org/W1914594852",
+  "doi": "https://doi.org/10.1007/s00253-015-6863-z",
+  "title": "Fine-tuning recA expression in Staphylococcus aureus for antimicrobial photoinactivation: importance of photo-induced DNA damage in the photoinactivation mechanism",
+  "display_name": "Fine-tuning recA expression in Staphylococcus aureus for antimicrobial photoinactivation: importance of photo-induced DNA damage in the photoinactivation mechanism",
+  "publication_year": 2015,
+  "publication_date": "2015-08-07",
+  "ids": {
+    "openalex": "https://openalex.org/W1914594852",
+    "doi": "https://doi.org/10.1007/s00253-015-6863-z",
+    "mag": "1914594852",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/26252968"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s00253-015-6863-z",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s00253-015-6863-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-015-6863-z.pdf",
+    "source": {
+      "id": "https://openalex.org/S70979998",
+      "display_name": "Applied Microbiology and Biotechnology",
+      "issn_l": "0175-7598",
+      "issn": [
+        "0175-7598",
+        "1432-0614"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Microbiology and Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s00253-015-6863-z.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5054715340",
+        "display_name": "Mariusz Grinholc",
+        "orcid": "https://orcid.org/0000-0003-4041-0891"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mariusz Grinholc",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland. mariusz.grinholc@biotech.ug.edu.pl",
+        "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland. mariusz.grinholc@biotech.ug.edu.pl",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013041719",
+        "display_name": "Aleksandra Rodziewicz",
+        "orcid": "https://orcid.org/0000-0003-1591-8343"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Rodziewicz",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064752880",
+        "display_name": "Katarzyna Forys",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Forys",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011181510",
+        "display_name": "Aleksandra Rapacka-Zdończyk",
+        "orcid": "https://orcid.org/0000-0002-7611-0359"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Rapacka-Zdonczyk",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038569067",
+        "display_name": "Anna Kawiak",
+        "orcid": "https://orcid.org/0000-0001-8105-2555"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Kawiak",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology, Division of Plant Protection and Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+        "Laboratory of Human Physiology, Medical University of Gdansk, Tuwima 15, 80-210, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology, Division of Plant Protection and Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Human Physiology, Medical University of Gdansk, Tuwima 15, 80-210, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018299754",
+        "display_name": "Anna Domachowska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Domachowska",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology, Division of Plant Protection and Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology, Division of Plant Protection and Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089417637",
+        "display_name": "Grzegorz Gołuński",
+        "orcid": "https://orcid.org/0000-0002-5526-0497"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Golunski",
+      "raw_affiliation_strings": [
+        "Laboratory of Biophysics, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biophysics, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015330208",
+        "display_name": "Christiane Wolz",
+        "orcid": "https://orcid.org/0000-0003-3909-5281"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8087733",
+          "display_name": "University of Tübingen",
+          "ror": "https://ror.org/03a1kwz48",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christiane Wolz",
+      "raw_affiliation_strings": [
+        "Interfaculty Institute of Microbiology and Infection Medicine, University of Tubingen, Wlfriede-Aulhorn-Strasse 6, 72076, Tubingen, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Interfaculty Institute of Microbiology and Infection Medicine, University of Tubingen, Wlfriede-Aulhorn-Strasse 6, 72076, Tubingen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004649851",
+        "display_name": "Lili R. Mesak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204250578",
+          "display_name": "University of California, Irvine",
+          "ror": "https://ror.org/04gyf1771",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204250578"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lili Mesak",
+      "raw_affiliation_strings": [
+        "Outreach, Research Training and Minority Science Program, Ayala School of Biological Sciences, University of California, 333 Steinhaus Hall, Irvine, CA, 92697-2525, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Outreach, Research Training and Minority Science Program, Ayala School of Biological Sciences, University of California, 333 Steinhaus Hall, Irvine, CA, 92697-2525, USA",
+          "institution_ids": [
+            "https://openalex.org/I204250578"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070963176",
+        "display_name": "Karsten Becker",
+        "orcid": "https://orcid.org/0000-0002-6391-1341"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210103666",
+          "display_name": "University Hospital Münster",
+          "ror": "https://ror.org/01856cw59",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210103666"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karsten Becker",
+      "raw_affiliation_strings": [
+        "Institute of Medical Microbiology, University Hospital Münster, Domagkstr. 10, 48149, Münster, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Medical Microbiology, University Hospital Münster, Domagkstr. 10, 48149, Münster, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210103666"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5076169771",
+        "display_name": "Krzysztof Piotr Bielawski",
+        "orcid": "https://orcid.org/0000-0002-5812-6314"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof P. Bielawski",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Diagnostics, Department of Biotechnology, Intercollegiate Faculty of Biotechnology, University of Gdansk and Medical University of Gdansk, Kladki 24, 80-822, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5054715340"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I75124487"
+  ],
+  "apc_list": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "apc_paid": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "fwci": 2.8753,
+  "has_fulltext": true,
+  "cited_by_count": 56,
+  "citation_normalized_percentile": {
+    "value": 0.90761785,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "99",
+    "issue": "21",
+    "first_page": "9161",
+    "last_page": "9176"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10957",
+    "display_name": "Photodynamic Therapy Research Studies",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10957",
+      "display_name": "Photodynamic Therapy Research Studies",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12561",
+      "display_name": "bioluminescence and chemiluminescence research",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11013",
+      "display_name": "Skin Protection and Aging",
+      "score": 0.9941999912261963,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2708",
+        "display_name": "Dermatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/novobiocin",
+      "display_name": "Novobiocin",
+      "score": 0.878868818283081
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-damage",
+      "display_name": "DNA damage",
+      "score": 0.7422773838043213
+    },
+    {
+      "id": "https://openalex.org/keywords/staphylococcus-aureus",
+      "display_name": "Staphylococcus aureus",
+      "score": 0.5573568940162659
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.5488225221633911
+    },
+    {
+      "id": "https://openalex.org/keywords/sos-response",
+      "display_name": "SOS response",
+      "score": 0.5179218649864197
+    },
+    {
+      "id": "https://openalex.org/keywords/molecular-biology",
+      "display_name": "Molecular biology",
+      "score": 0.5090348124504089
+    },
+    {
+      "id": "https://openalex.org/keywords/mutant",
+      "display_name": "Mutant",
+      "score": 0.4843674600124359
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.4777211844921112
+    },
+    {
+      "id": "https://openalex.org/keywords/microbiology",
+      "display_name": "Microbiology",
+      "score": 0.46780943870544434
+    },
+    {
+      "id": "https://openalex.org/keywords/escherichia-coli",
+      "display_name": "Escherichia coli",
+      "score": 0.4499194025993347
+    },
+    {
+      "id": "https://openalex.org/keywords/methylene-blue",
+      "display_name": "Methylene blue",
+      "score": 0.4393691122531891
+    },
+    {
+      "id": "https://openalex.org/keywords/mutagenesis",
+      "display_name": "Mutagenesis",
+      "score": 0.4392620027065277
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-repair",
+      "display_name": "DNA repair",
+      "score": 0.429951012134552
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.37962836027145386
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.2565523386001587
+    },
+    {
+      "id": "https://openalex.org/keywords/bacteria",
+      "display_name": "Bacteria",
+      "score": 0.1685505211353302
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.11169329285621643
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.08773303031921387
+    },
+    {
+      "id": "https://openalex.org/keywords/antibiotics",
+      "display_name": "Antibiotics",
+      "score": 0.08122122287750244
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779904463",
+      "wikidata": "https://www.wikidata.org/wiki/Q1639291",
+      "display_name": "Novobiocin",
+      "level": 3,
+      "score": 0.878868818283081
+    },
+    {
+      "id": "https://openalex.org/C143425029",
+      "wikidata": "https://www.wikidata.org/wiki/Q5205747",
+      "display_name": "DNA damage",
+      "level": 3,
+      "score": 0.7422773838043213
+    },
+    {
+      "id": "https://openalex.org/C2779489039",
+      "wikidata": "https://www.wikidata.org/wiki/Q188121",
+      "display_name": "Staphylococcus aureus",
+      "level": 3,
+      "score": 0.5573568940162659
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.5488225221633911
+    },
+    {
+      "id": "https://openalex.org/C2780852648",
+      "wikidata": "https://www.wikidata.org/wiki/Q143584",
+      "display_name": "SOS response",
+      "level": 4,
+      "score": 0.5179218649864197
+    },
+    {
+      "id": "https://openalex.org/C153911025",
+      "wikidata": "https://www.wikidata.org/wiki/Q7202",
+      "display_name": "Molecular biology",
+      "level": 1,
+      "score": 0.5090348124504089
+    },
+    {
+      "id": "https://openalex.org/C143065580",
+      "wikidata": "https://www.wikidata.org/wiki/Q3285695",
+      "display_name": "Mutant",
+      "level": 3,
+      "score": 0.4843674600124359
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.4777211844921112
+    },
+    {
+      "id": "https://openalex.org/C89423630",
+      "wikidata": "https://www.wikidata.org/wiki/Q7193",
+      "display_name": "Microbiology",
+      "level": 1,
+      "score": 0.46780943870544434
+    },
+    {
+      "id": "https://openalex.org/C547475151",
+      "wikidata": "https://www.wikidata.org/wiki/Q25419",
+      "display_name": "Escherichia coli",
+      "level": 3,
+      "score": 0.4499194025993347
+    },
+    {
+      "id": "https://openalex.org/C2779191827",
+      "wikidata": "https://www.wikidata.org/wiki/Q422134",
+      "display_name": "Methylene blue",
+      "level": 4,
+      "score": 0.4393691122531891
+    },
+    {
+      "id": "https://openalex.org/C16318435",
+      "wikidata": "https://www.wikidata.org/wiki/Q149299",
+      "display_name": "Mutagenesis",
+      "level": 4,
+      "score": 0.4392620027065277
+    },
+    {
+      "id": "https://openalex.org/C134935766",
+      "wikidata": "https://www.wikidata.org/wiki/Q210538",
+      "display_name": "DNA repair",
+      "level": 3,
+      "score": 0.429951012134552
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.37962836027145386
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.2565523386001587
+    },
+    {
+      "id": "https://openalex.org/C523546767",
+      "wikidata": "https://www.wikidata.org/wiki/Q10876",
+      "display_name": "Bacteria",
+      "level": 2,
+      "score": 0.1685505211353302
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.11169329285621643
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.08773303031921387
+    },
+    {
+      "id": "https://openalex.org/C501593827",
+      "wikidata": "https://www.wikidata.org/wiki/Q12187",
+      "display_name": "Antibiotics",
+      "level": 2,
+      "score": 0.08122122287750244
+    },
+    {
+      "id": "https://openalex.org/C161790260",
+      "wikidata": "https://www.wikidata.org/wiki/Q82264",
+      "display_name": "Catalysis",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C65165184",
+      "wikidata": "https://www.wikidata.org/wiki/Q218831",
+      "display_name": "Photocatalysis",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000528",
+      "qualifier_name": "radiation effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000528",
+      "qualifier_name": "radiation effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000528",
+      "qualifier_name": "radiation effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009675",
+      "descriptor_name": "Novobiocin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009675",
+      "descriptor_name": "Novobiocin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009675",
+      "descriptor_name": "Novobiocin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011938",
+      "descriptor_name": "Rec A Recombinases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011938",
+      "descriptor_name": "Rec A Recombinases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011938",
+      "descriptor_name": "Rec A Recombinases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011938",
+      "descriptor_name": "Rec A Recombinases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011938",
+      "descriptor_name": "Rec A Recombinases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011938",
+      "descriptor_name": "Rec A Recombinases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000528",
+      "qualifier_name": "radiation effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000528",
+      "qualifier_name": "radiation effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013211",
+      "descriptor_name": "Staphylococcus aureus",
+      "qualifier_ui": "Q000528",
+      "qualifier_name": "radiation effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017319",
+      "descriptor_name": "Photosensitizing Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017319",
+      "descriptor_name": "Photosensitizing Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017319",
+      "descriptor_name": "Photosensitizing Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017353",
+      "descriptor_name": "Gene Deletion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017353",
+      "descriptor_name": "Gene Deletion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017353",
+      "descriptor_name": "Gene Deletion",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D027081",
+      "descriptor_name": "DNA Gyrase",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D027081",
+      "descriptor_name": "DNA Gyrase",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D027081",
+      "descriptor_name": "DNA Gyrase",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1007/s00253-015-6863-z",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s00253-015-6863-z",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-015-6863-z.pdf",
+      "source": {
+        "id": "https://openalex.org/S70979998",
+        "display_name": "Applied Microbiology and Biotechnology",
+        "issn_l": "0175-7598",
+        "issn": [
+          "0175-7598",
+          "1432-0614"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Microbiology and Biotechnology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:26252968",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/26252968",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied microbiology and biotechnology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:4619464",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4619464",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Appl Microbiol Biotechnol",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s00253-015-6863-z",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s00253-015-6863-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-015-6863-z.pdf",
+    "source": {
+      "id": "https://openalex.org/S70979998",
+      "display_name": "Applied Microbiology and Biotechnology",
+      "issn_l": "0175-7598",
+      "issn": [
+        "0175-7598",
+        "1432-0614"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Microbiology and Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4281892301",
+      "display_name": null,
+      "funder_award_id": "HHSN272200700055C",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G5504013355",
+      "display_name": null,
+      "funder_award_id": "HHSN272200700055C",
+      "funder_id": "https://openalex.org/F4320337355",
+      "funder_display_name": "National Institute of Allergy and Infectious Diseases"
+    },
+    {
+      "id": "https://openalex.org/G5903061775",
+      "display_name": null,
+      "funder_award_id": "NIAID",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320335039",
+      "display_name": "Narodowe Centrum Badań i Rozwoju",
+      "ror": "https://ror.org/05pwfyy15"
+    },
+    {
+      "id": "https://openalex.org/F4320337355",
+      "display_name": "National Institute of Allergy and Infectious Diseases",
+      "ror": "https://ror.org/043z4tv69"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1914594852.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1914594852.grobid-xml"
+  },
+  "referenced_works_count": 42,
+  "referenced_works": [
+    "https://openalex.org/W1553462090",
+    "https://openalex.org/W1586957091",
+    "https://openalex.org/W1608826984",
+    "https://openalex.org/W1964893456",
+    "https://openalex.org/W1968577485",
+    "https://openalex.org/W1971712477",
+    "https://openalex.org/W1973707885",
+    "https://openalex.org/W1973879072",
+    "https://openalex.org/W1978227254",
+    "https://openalex.org/W1982836127",
+    "https://openalex.org/W1991848397",
+    "https://openalex.org/W1999271022",
+    "https://openalex.org/W2000919475",
+    "https://openalex.org/W2003094032",
+    "https://openalex.org/W2008202569",
+    "https://openalex.org/W2008586567",
+    "https://openalex.org/W2016047701",
+    "https://openalex.org/W2024688052",
+    "https://openalex.org/W2033474116",
+    "https://openalex.org/W2051695178",
+    "https://openalex.org/W2054229424",
+    "https://openalex.org/W2057239986",
+    "https://openalex.org/W2058236414",
+    "https://openalex.org/W2072231848",
+    "https://openalex.org/W2079542855",
+    "https://openalex.org/W2084626432",
+    "https://openalex.org/W2087689120",
+    "https://openalex.org/W2097566310",
+    "https://openalex.org/W2099507709",
+    "https://openalex.org/W2108780462",
+    "https://openalex.org/W2112047872",
+    "https://openalex.org/W2112628872",
+    "https://openalex.org/W2117967460",
+    "https://openalex.org/W2124347560",
+    "https://openalex.org/W2126682695",
+    "https://openalex.org/W2135673226",
+    "https://openalex.org/W2136248634",
+    "https://openalex.org/W2148879375",
+    "https://openalex.org/W2149928068",
+    "https://openalex.org/W2151722492",
+    "https://openalex.org/W2317236306",
+    "https://openalex.org/W4255848904"
+  ],
+  "related_works": [
+    "https://openalex.org/W2054750250",
+    "https://openalex.org/W2099507709",
+    "https://openalex.org/W2223128171",
+    "https://openalex.org/W3118750904",
+    "https://openalex.org/W2398355375",
+    "https://openalex.org/W2085233792",
+    "https://openalex.org/W2085831108",
+    "https://openalex.org/W2119192147",
+    "https://openalex.org/W2085407738",
+    "https://openalex.org/W2150975376"
+  ],
+  "abstract_inverted_index": {
+    "Bacterial": [
+      0
+    ],
+    "cell": [
+      1
+    ],
+    "envelope": [
+      2
+    ],
+    "is": [
+      3,
+      16,
+      172,
+      175,
+      219,
+      231
+    ],
+    "generally": [
+      4
+    ],
+    "accepted": [
+      5
+    ],
+    "as": [
+      6,
+      154,
+      245
+    ],
+    "the": [
+      7,
+      23,
+      29,
+      38,
+      126,
+      188,
+      198,
+      229
+    ],
+    "primary": [
+      8
+    ],
+    "target": [
+      9
+    ],
+    "for": [
+      10,
+      248
+    ],
+    "a": [
+      11,
+      137
+    ],
+    "photo-induced": [
+      12
+    ],
+    "oxidative": [
+      13
+    ],
+    "stress.": [
+      14
+    ],
+    "It": [
+      15
+    ],
+    "plausible": [
+      17
+    ],
+    "that": [
+      18,
+      178,
+      209,
+      228,
+      240
+    ],
+    "DNA": [
+      19,
+      32,
+      42,
+      85,
+      91,
+      144,
+      193
+    ],
+    "damage": [
+      20,
+      33,
+      86,
+      92,
+      145,
+      194
+    ],
+    "occurs": [
+      21
+    ],
+    "during": [
+      22,
+      195
+    ],
+    "antimicrobial": [
+      24,
+      249
+    ],
+    "photoinactivation.": [
+      25,
+      196,
+      250
+    ],
+    "Here": [
+      26
+    ],
+    "we": [
+      27,
+      185,
+      207,
+      236
+    ],
+    "investigate": [
+      28
+    ],
+    "correlation": [
+      30
+    ],
+    "between": [
+      31
+    ],
+    "and": [
+      34,
+      69,
+      105,
+      204,
+      217
+    ],
+    "photoinactivation": [
+      35,
+      132,
+      169,
+      210
+    ],
+    "by": [
+      36,
+      120,
+      124,
+      168
+    ],
+    "evaluating": [
+      37
+    ],
+    "level": [
+      39,
+      112,
+      162
+    ],
+    "of": [
+      40,
+      84,
+      97,
+      109,
+      141,
+      190,
+      200,
+      253
+    ],
+    "RecA-based": [
+      41
+    ],
+    "repair": [
+      43
+    ],
+    "system": [
+      44
+    ],
+    "in": [
+      45,
+      90,
+      102,
+      192
+    ],
+    "Staphylococcus": [
+      46
+    ],
+    "aureus.": [
+      47
+    ],
+    "By": [
+      48
+    ],
+    "using": [
+      49
+    ],
+    "exogenous": [
+      50
+    ],
+    "photosensitizers": [
+      51
+    ],
+    "(new": [
+      52
+    ],
+    "methylene": [
+      53
+    ],
+    "blue": [
+      54,
+      57,
+      73
+    ],
+    "(NMB),": [
+      55
+    ],
+    "toluidine": [
+      56
+    ],
+    "O": [
+      58
+    ],
+    "(TBO),": [
+      59
+    ],
+    "5,10,15,20-tetrakis(1-methyl-4-pyridinio)porphyrin": [
+      60
+    ],
+    "tetra(p-toluenesulfonate)": [
+      61
+    ],
+    "(TMPyP),": [
+      62
+    ],
+    "zinc": [
+      63
+    ],
+    "phthalocyanine": [
+      64
+    ],
+    "(ZnPc),": [
+      65
+    ],
+    "Rose": [
+      66
+    ],
+    "Bengal": [
+      67
+    ],
+    "(RB))": [
+      68
+    ],
+    "ALA-induced": [
+      70
+    ],
+    "endogenous": [
+      71
+    ],
+    "porphyrin-dependent": [
+      72
+    ],
+    "light": [
+      74
+    ],
+    "(405": [
+      75
+    ],
+    "nm),": [
+      76
+    ],
+    "several": [
+      77
+    ],
+    "outcomes": [
+      78
+    ],
+    "were": [
+      79
+    ],
+    "observed:": [
+      80
+    ],
+    "(i)": [
+      81
+    ],
+    "an": [
+      82,
+      95,
+      107,
+      238
+    ],
+    "increase": [
+      83,
+      96,
+      108,
+      213
+    ],
+    "(from": [
+      87
+    ],
+    "gel": [
+      88
+    ],
+    "electrophoresis": [
+      89
+    ],
+    "assay),": [
+      93
+    ],
+    "(ii)": [
+      94
+    ],
+    "recA": [
+      98,
+      116,
+      182,
+      241
+    ],
+    "expression": [
+      99,
+      117
+    ],
+    "(luminescence": [
+      100
+    ],
+    "assay": [
+      101
+    ],
+    "recA-lux": [
+      103
+    ],
+    "strain),": [
+      104
+    ],
+    "(iii)": [
+      106
+    ],
+    "RecA": [
+      110,
+      142,
+      160,
+      191
+    ],
+    "protein": [
+      111,
+      161
+    ],
+    "(Western": [
+      113
+    ],
+    "blotting).": [
+      114
+    ],
+    "When": [
+      115
+    ],
+    "was": [
+      118,
+      133,
+      166
+    ],
+    "repressed": [
+      119
+    ],
+    "novobiocin,": [
+      121
+    ],
+    "or": [
+      122
+    ],
+    "abolished": [
+      123
+    ],
+    "deleting": [
+      125
+    ],
+    "gene,": [
+      127
+    ],
+    "S.": [
+      128,
+      214
+    ],
+    "aureus": [
+      129,
+      215
+    ],
+    "susceptibility": [
+      130,
+      165
+    ],
+    "towards": [
+      131
+    ],
+    "increased": [
+      134
+    ],
+    "at": [
+      135
+    ],
+    "approximately": [
+      136
+    ],
+    "hundred-fold.": [
+      138
+    ],
+    "The": [
+      139,
+      225
+    ],
+    "absence": [
+      140
+    ],
+    "increases": [
+      143
+    ],
+    "to": [
+      146,
+      156,
+      176
+    ],
+    "yield": [
+      147
+    ],
+    "bactericidal": [
+      148
+    ],
+    "effect.": [
+      149
+    ],
+    "In": [
+      150,
+      234
+    ],
+    "novobiocin-resistant": [
+      151
+    ],
+    "mutant": [
+      152
+    ],
+    "(gyrB),": [
+      153
+    ],
+    "opposed": [
+      155
+    ],
+    "wild": [
+      157
+    ],
+    "type,": [
+      158
+    ],
+    "neither": [
+      159
+    ],
+    "nor": [
+      163
+    ],
+    "cell's": [
+      164
+    ],
+    "affected": [
+      167
+    ],
+    "(when": [
+      170
+    ],
+    "novobiocin": [
+      171
+    ],
+    "present).": [
+      173
+    ],
+    "This": [
+      174
+    ],
+    "suggest": [
+      177,
+      227
+    ],
+    "GyrB-dependent": [
+      179
+    ],
+    "inhibition": [
+      180
+    ],
+    "mediated": [
+      181
+    ],
+    "repression.": [
+      183
+    ],
+    "Therefore,": [
+      184
+    ],
+    "have": [
+      186
+    ],
+    "established": [
+      187
+    ],
+    "role": [
+      189
+    ],
+    "With": [
+      197
+    ],
+    "use": [
+      199
+    ],
+    "rifampicin": [
+      201
+    ],
+    "mutation": [
+      202
+    ],
+    "frequency": [
+      203
+    ],
+    "Ames": [
+      205
+    ],
+    "tests,": [
+      206
+    ],
+    "demonstrated": [
+      208
+    ],
+    "did": [
+      211
+    ],
+    "not": [
+      212,
+      220
+    ],
+    "mutagenesis": [
+      216
+    ],
+    "potentially": [
+      218
+    ],
+    "mutagenic": [
+      221
+    ],
+    "toward": [
+      222
+    ],
+    "eukaryotic": [
+      223
+    ],
+    "cells.": [
+      224
+    ],
+    "results": [
+      226
+    ],
+    "treatment": [
+      230
+    ],
+    "considered": [
+      232
+    ],
+    "safe.": [
+      233
+    ],
+    "conclusion,": [
+      235
+    ],
+    "provide": [
+      237
+    ],
+    "evidence": [
+      239
+    ],
+    "inhibitor": [
+      242
+    ],
+    "may": [
+      243
+    ],
+    "serve": [
+      244
+    ],
+    "therapeutic": [
+      246
+    ],
+    "adjuvant": [
+      247
+    ],
+    "Clinical": [
+      251
+    ],
+    "relevance": [
+      252
+    ],
+    "our": [
+      254
+    ],
+    "findings": [
+      255
+    ],
+    "warrants": [
+      256
+    ],
+    "further": [
+      257
+    ],
+    "investigations.": [
+      258
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-04-21T08:09:41.155169",
+  "created_date": "2025-10-10T00:00:00"
+}

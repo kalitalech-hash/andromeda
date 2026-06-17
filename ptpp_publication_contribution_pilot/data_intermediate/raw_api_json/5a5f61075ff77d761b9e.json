@@ -1,0 +1,1893 @@
+{
+  "id": "https://openalex.org/W4386647801",
+  "doi": "https://doi.org/10.48550/arxiv.2309.05080",
+  "title": "Spin decoherence and off-resonance behavior of radiofrequency-driven spin rotations in storage rings",
+  "display_name": "Spin decoherence and off-resonance behavior of radiofrequency-driven spin rotations in storage rings",
+  "publication_year": 2023,
+  "publication_date": "2023-09-10",
+  "ids": {
+    "openalex": "https://openalex.org/W4386647801",
+    "doi": "https://doi.org/10.48550/arxiv.2309.05080"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2309.05080",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2309.05080",
+    "pdf_url": "https://arxiv.org/pdf/2309.05080",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2309.05080",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5010041139",
+        "display_name": "N. N. Nikolaev",
+        "orcid": "https://orcid.org/0000-0001-9362-4813"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nikolaev, N. N.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068581821",
+        "display_name": "F. Rathmann",
+        "orcid": "https://orcid.org/0000-0003-0824-2103"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rathmann, F.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031832054",
+        "display_name": "J. Slim",
+        "orcid": "https://orcid.org/0000-0002-9418-8459"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Slim, J.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057931529",
+        "display_name": "A. Andres",
+        "orcid": "https://orcid.org/0000-0002-1717-4328"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Andres, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059596431",
+        "display_name": "V. Hejny",
+        "orcid": "https://orcid.org/0000-0003-0713-5859"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hejny, V.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021654900",
+        "display_name": "A. Nass",
+        "orcid": "https://orcid.org/0000-0003-2929-9109"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nass, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077664712",
+        "display_name": "A. Kacharava",
+        "orcid": "https://orcid.org/0000-0003-4864-8087"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kacharava, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020251842",
+        "display_name": "P. Lenisa",
+        "orcid": "https://orcid.org/0000-0003-3509-1240"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lenisa, P.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005684023",
+        "display_name": "J. Pretz",
+        "orcid": "https://orcid.org/0000-0001-9128-419X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pretz, J.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037052886",
+        "display_name": "A. Saleev",
+        "orcid": "https://orcid.org/0000-0002-4289-3762"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Saleev, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020970418",
+        "display_name": "V. Shmakova",
+        "orcid": "https://orcid.org/0000-0003-4035-4949"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Shmakova, V.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000178961",
+        "display_name": "Helmut Soltner",
+        "orcid": "https://orcid.org/0000-0001-8595-3393"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Soltner, H.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008439799",
+        "display_name": "F. Abusaif",
+        "orcid": "https://orcid.org/0000-0002-2434-6378"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Abusaif, F.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072803170",
+        "display_name": "A. Aggarwal",
+        "orcid": "https://orcid.org/0000-0002-1100-1936"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Aggarwal, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006755383",
+        "display_name": "A. Aksentev",
+        "orcid": "https://orcid.org/0000-0002-2652-3112"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Aksentev, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083099637",
+        "display_name": "B. Alberdi",
+        "orcid": "https://orcid.org/0000-0003-3047-0663"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Alberdi, B.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034169153",
+        "display_name": "L. Barion",
+        "orcid": "https://orcid.org/0000-0002-2453-9989"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Barion, L.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Bekman, I.",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bekman, I.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039032290",
+        "display_name": "M. Beyß",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Beyß, M.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090293399",
+        "display_name": "C. Böhme",
+        "orcid": "https://orcid.org/0000-0001-7184-4348"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Böhme, C.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016904831",
+        "display_name": "B. Breitkreutz",
+        "orcid": "https://orcid.org/0000-0001-8089-8153"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Breitkreutz, B.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079467368",
+        "display_name": "N. Canale",
+        "orcid": "https://orcid.org/0000-0003-2262-7077"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Canale, N.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091648560",
+        "display_name": "G. Ciullo",
+        "orcid": "https://orcid.org/0000-0001-8297-2206"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ciullo, G.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054537109",
+        "display_name": "S. Dymov",
+        "orcid": "https://orcid.org/0000-0003-3328-6087"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Dymov, S.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058058181",
+        "display_name": "N.-O. Fröhlich",
+        "orcid": "https://orcid.org/0000-0001-5629-1749"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Fröhlich, N. -O.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076996129",
+        "display_name": "R. Gebel",
+        "orcid": "https://orcid.org/0000-0001-5290-4237"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Gebel, R.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060018877",
+        "display_name": "M. Gaißer",
+        "orcid": "https://orcid.org/0000-0002-8938-3815"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Gaisser, M.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049672194",
+        "display_name": "K. Grigoryev",
+        "orcid": "https://orcid.org/0000-0002-6693-8021"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Grigoryev, K.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066881251",
+        "display_name": "D. Grzonka",
+        "orcid": "https://orcid.org/0000-0001-6172-3841"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Grzonka, D.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082761820",
+        "display_name": "J. Hetzel",
+        "orcid": "https://orcid.org/0000-0003-4665-3034"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hetzel, J.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056303425",
+        "display_name": "O. Javakhishvili",
+        "orcid": "https://orcid.org/0000-0002-1454-4274"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Javakhishvili, O.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004365891",
+        "display_name": "V. Kamerdzhiev",
+        "orcid": "https://orcid.org/0000-0001-8996-994X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kamerdzhiev, V.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033406706",
+        "display_name": "S. Karanth",
+        "orcid": "https://orcid.org/0000-0001-9439-3439"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Karanth, S.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005268838",
+        "display_name": "I. Keshelashvili",
+        "orcid": "https://orcid.org/0000-0001-9894-1092"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Keshelashvili, I.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055964204",
+        "display_name": "A. Kononov",
+        "orcid": "https://orcid.org/0000-0001-7500-2340"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kononov, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065231579",
+        "display_name": "K. Laihem",
+        "orcid": "https://orcid.org/0000-0001-5753-4546"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Laihem, K.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088350233",
+        "display_name": "A. Lehrach",
+        "orcid": "https://orcid.org/0000-0002-6991-2257"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lehrach, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068776814",
+        "display_name": "N. Lomidze",
+        "orcid": "https://orcid.org/0009-0004-2322-4725"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lomidze, N.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042412921",
+        "display_name": "B. Lorentz",
+        "orcid": "https://orcid.org/0000-0002-1086-3737"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lorentz, B.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044422779",
+        "display_name": "G. Macharashvili",
+        "orcid": "https://orcid.org/0000-0002-5823-6396"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Macharashvili, G.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051674295",
+        "display_name": "A. Magiera",
+        "orcid": "https://orcid.org/0000-0002-7561-6366"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Magiera, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016342290",
+        "display_name": "D. Mchedlishvili",
+        "orcid": "https://orcid.org/0000-0002-1979-5857"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mchedlishvili, D.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086295021",
+        "display_name": "Alexey Melnikov",
+        "orcid": "https://orcid.org/0000-0002-5033-4063"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Melnikov, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050366942",
+        "display_name": "F. Müller",
+        "orcid": "https://orcid.org/0009-0009-5888-4578"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Müller, F.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103082410",
+        "display_name": "A. Pesce",
+        "orcid": "https://orcid.org/0000-0002-1641-852X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pesce, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055313462",
+        "display_name": "V. Poncza",
+        "orcid": "https://orcid.org/0000-0002-9267-8868"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Poncza, V.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083496677",
+        "display_name": "D. Prasuhn",
+        "orcid": "https://orcid.org/0000-0003-0057-6942"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Prasuhn, D.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059506199",
+        "display_name": "D. Shergelashvili",
+        "orcid": "https://orcid.org/0009-0000-5437-2836"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Shergelashvili, D.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079632515",
+        "display_name": "Nikolay Shurkhno",
+        "orcid": "https://orcid.org/0000-0002-5642-4537"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Shurkhno, N.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102968126",
+        "display_name": "S. Siddique",
+        "orcid": "https://orcid.org/0000-0002-0465-9828"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Siddique, S.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012757930",
+        "display_name": "Alexander J. Silenko",
+        "orcid": "https://orcid.org/0000-0002-5313-7460"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Silenko, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092854556",
+        "display_name": "S. Stassen",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Stassen, S.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024633000",
+        "display_name": "E. J. Stephenson",
+        "orcid": "https://orcid.org/0000-0003-3671-8877"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Stephenson, E. J.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113547283",
+        "display_name": "H. Ströher",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ströher, H.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091492346",
+        "display_name": "M. Tabidze",
+        "orcid": "https://orcid.org/0009-0002-5975-6710"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tabidze, M.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072109852",
+        "display_name": "G. Tagliente",
+        "orcid": "https://orcid.org/0000-0003-1665-4191"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tagliente, G.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026591891",
+        "display_name": "Yu. Valdau",
+        "orcid": "https://orcid.org/0000-0001-8751-1185"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Valdau, Y.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049326257",
+        "display_name": "M. Vitz",
+        "orcid": "https://orcid.org/0000-0003-1280-3823"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Vitz, M.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060490297",
+        "display_name": "Tim Wagner",
+        "orcid": "https://orcid.org/0000-0002-4865-851X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wagner, T.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018607503",
+        "display_name": "A. Wirzba",
+        "orcid": "https://orcid.org/0000-0001-5860-6409"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wirzba, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103275204",
+        "display_name": "A. Wrońska",
+        "orcid": "https://orcid.org/0000-0003-0126-3315"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wrońska, A.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108086789",
+        "display_name": "P. Wüstner",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wüstner, P.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018016903",
+        "display_name": "M. Źurek",
+        "orcid": "https://orcid.org/0000-0003-4201-4921"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Żurek, M.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 63,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11993",
+    "display_name": "Atomic and Subatomic Physics Research",
+    "score": 0.9983999729156494,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3107",
+      "display_name": "Atomic and Molecular Physics, and Optics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11993",
+      "display_name": "Atomic and Subatomic Physics Research",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11809",
+      "display_name": "Advanced NMR Techniques and Applications",
+      "score": 0.9883000254631042,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1607",
+        "display_name": "Spectroscopy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10559",
+      "display_name": "Particle Accelerators and Free-Electron Lasers",
+      "score": 0.9840999841690063,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.6902614831924438
+    },
+    {
+      "id": "https://openalex.org/keywords/quantum-decoherence",
+      "display_name": "Quantum decoherence",
+      "score": 0.562139630317688
+    },
+    {
+      "id": "https://openalex.org/keywords/dipole",
+      "display_name": "Dipole",
+      "score": 0.5530510544776917
+    },
+    {
+      "id": "https://openalex.org/keywords/spin-polarization",
+      "display_name": "Spin polarization",
+      "score": 0.5190051794052124
+    },
+    {
+      "id": "https://openalex.org/keywords/electric-dipole-moment",
+      "display_name": "Electric dipole moment",
+      "score": 0.5036799311637878
+    },
+    {
+      "id": "https://openalex.org/keywords/polarization",
+      "display_name": "Polarization (electrochemistry)",
+      "score": 0.41180670261383057
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-physics",
+      "display_name": "Computational physics",
+      "score": 0.36449697613716125
+    },
+    {
+      "id": "https://openalex.org/keywords/quantum-mechanics",
+      "display_name": "Quantum mechanics",
+      "score": 0.3098527193069458
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.11203005909919739
+    },
+    {
+      "id": "https://openalex.org/keywords/electron",
+      "display_name": "Electron",
+      "score": 0.07915806770324707
+    },
+    {
+      "id": "https://openalex.org/keywords/quantum",
+      "display_name": "Quantum",
+      "score": 0.07029587030410767
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.6902614831924438
+    },
+    {
+      "id": "https://openalex.org/C122527463",
+      "wikidata": "https://www.wikidata.org/wiki/Q578430",
+      "display_name": "Quantum decoherence",
+      "level": 3,
+      "score": 0.562139630317688
+    },
+    {
+      "id": "https://openalex.org/C173523689",
+      "wikidata": "https://www.wikidata.org/wiki/Q215589",
+      "display_name": "Dipole",
+      "level": 2,
+      "score": 0.5530510544776917
+    },
+    {
+      "id": "https://openalex.org/C21690051",
+      "wikidata": "https://www.wikidata.org/wiki/Q962347",
+      "display_name": "Spin polarization",
+      "level": 3,
+      "score": 0.5190051794052124
+    },
+    {
+      "id": "https://openalex.org/C202449340",
+      "wikidata": "https://www.wikidata.org/wiki/Q735135",
+      "display_name": "Electric dipole moment",
+      "level": 3,
+      "score": 0.5036799311637878
+    },
+    {
+      "id": "https://openalex.org/C205049153",
+      "wikidata": "https://www.wikidata.org/wiki/Q2698605",
+      "display_name": "Polarization (electrochemistry)",
+      "level": 2,
+      "score": 0.41180670261383057
+    },
+    {
+      "id": "https://openalex.org/C30475298",
+      "wikidata": "https://www.wikidata.org/wiki/Q909554",
+      "display_name": "Computational physics",
+      "level": 1,
+      "score": 0.36449697613716125
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.3098527193069458
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.11203005909919739
+    },
+    {
+      "id": "https://openalex.org/C147120987",
+      "wikidata": "https://www.wikidata.org/wiki/Q2225",
+      "display_name": "Electron",
+      "level": 2,
+      "score": 0.07915806770324707
+    },
+    {
+      "id": "https://openalex.org/C84114770",
+      "wikidata": "https://www.wikidata.org/wiki/Q46344",
+      "display_name": "Quantum",
+      "level": 2,
+      "score": 0.07029587030410767
+    },
+    {
+      "id": "https://openalex.org/C147789679",
+      "wikidata": "https://www.wikidata.org/wiki/Q11372",
+      "display_name": "Physical chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2309.05080",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2309.05080",
+      "pdf_url": "https://arxiv.org/pdf/2309.05080",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "pmh:oai:repository.gsi.de:358798",
+      "is_oa": true,
+      "landing_page_url": "https://repository.gsi.de/record/358798",
+      "pdf_url": "https://repository.gsi.de/record/358798/files/PhysRevAccelBeams.27.111002.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400339",
+        "display_name": "GSI Repository (GSI Helmholtzzentrum für Schwerionenforschung)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I169556180",
+        "host_organization_name": "GSI Helmholtz Centre for Heavy Ion Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I169556180"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Physical review accelerators and beams 27(11), 111002 (2024). doi:10.1103/PhysRevAccelBeams.27.111002",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2309.05080",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2309.05080",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2309.05080",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2309.05080",
+    "pdf_url": "https://arxiv.org/pdf/2309.05080",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G14744916",
+      "display_name": null,
+      "funder_award_id": "STRONG-2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G3111662533",
+      "display_name": null,
+      "funder_award_id": "824093",
+      "funder_id": "https://openalex.org/F4320314997",
+      "funder_display_name": "Strong"
+    },
+    {
+      "id": "https://openalex.org/G3448330449",
+      "display_name": null,
+      "funder_award_id": "824093",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G4386159974",
+      "display_name": null,
+      "funder_award_id": "694340",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G7614597539",
+      "display_name": null,
+      "funder_award_id": "DI-18-298",
+      "funder_id": "https://openalex.org/F4320322898",
+      "funder_display_name": "Shota Rustaveli National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G7842005466",
+      "display_name": null,
+      "funder_award_id": "Horizon 2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320314997",
+      "display_name": "Strong",
+      "ror": "https://ror.org/041vyzr56"
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320322898",
+      "display_name": "Shota Rustaveli National Science Foundation",
+      "ror": "https://ror.org/00xc87681"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4386647801.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2065768577",
+    "https://openalex.org/W1495733284",
+    "https://openalex.org/W2495352552",
+    "https://openalex.org/W2070539137",
+    "https://openalex.org/W2012123139",
+    "https://openalex.org/W2032831175",
+    "https://openalex.org/W1587440208",
+    "https://openalex.org/W2014082632",
+    "https://openalex.org/W1998106131",
+    "https://openalex.org/W2107075767"
+  ],
+  "abstract_inverted_index": {
+    "Radiofrequency-driven": [
+      0
+    ],
+    "resonant": [
+      1
+    ],
+    "spin": [
+      2,
+      30,
+      34,
+      57,
+      124,
+      163
+    ],
+    "rotators": [
+      3
+    ],
+    "are": [
+      4
+    ],
+    "routinely": [
+      5
+    ],
+    "used": [
+      6,
+      121
+    ],
+    "as": [
+      7,
+      122,
+      154,
+      173
+    ],
+    "standard": [
+      8
+    ],
+    "instruments": [
+      9
+    ],
+    "in": [
+      10,
+      13,
+      126,
+      165
+    ],
+    "polarization": [
+      11,
+      153
+    ],
+    "experiments": [
+      12
+    ],
+    "particle": [
+      14
+    ],
+    "and": [
+      15,
+      32,
+      62
+    ],
+    "nuclear": [
+      16
+    ],
+    "physics.": [
+      17
+    ],
+    "Maintaining": [
+      18
+    ],
+    "the": [
+      19,
+      26,
+      29,
+      33,
+      42,
+      51,
+      55,
+      60,
+      63,
+      68,
+      74,
+      79,
+      90,
+      94,
+      97,
+      101,
+      108,
+      112,
+      115,
+      127,
+      139,
+      143,
+      148,
+      151,
+      158,
+      161,
+      178,
+      183,
+      189,
+      201
+    ],
+    "continuous": [
+      20
+    ],
+    "exact": [
+      21,
+      56
+    ],
+    "parametric": [
+      22
+    ],
+    "spin-resonance": [
+      23,
+      109
+    ],
+    "condition": [
+      24,
+      110
+    ],
+    "of": [
+      25,
+      28,
+      41,
+      50,
+      53,
+      67,
+      73,
+      81,
+      89,
+      96,
+      114,
+      142,
+      147,
+      150,
+      157,
+      160,
+      185
+    ],
+    "equality": [
+      27
+    ],
+    "rotator": [
+      31,
+      125
+    ],
+    "precession": [
+      35
+    ],
+    "frequency": [
+      36
+    ],
+    "during": [
+      37,
+      111
+    ],
+    "operation": [
+      38,
+      113
+    ],
+    "constitutes": [
+      39
+    ],
+    "one": [
+      40
+    ],
+    "challenges.": [
+      43
+    ],
+    "We": [
+      44,
+      86,
+      137
+    ],
+    "present": [
+      45
+    ],
+    "a": [
+      46,
+      123,
+      174
+    ],
+    "detailed": [
+      47
+    ],
+    "analytic": [
+      48
+    ],
+    "description": [
+      49
+    ],
+    "impact": [
+      52
+    ],
+    "detuning": [
+      54
+    ],
+    "resonance": [
+      58
+    ],
+    "on": [
+      59,
+      100,
+      182
+    ],
+    "vertical": [
+      61
+    ],
+    "in-plane": [
+      64
+    ],
+    "precessing": [
+      65
+    ],
+    "components": [
+      66
+    ],
+    "polarization.": [
+      69
+    ],
+    "An": [
+      70
+    ],
+    "important": [
+      71
+    ],
+    "part": [
+      72
+    ],
+    "formalism": [
+      75,
+      92
+    ],
+    "presented": [
+      76,
+      170
+    ],
+    "here": [
+      77,
+      171
+    ],
+    "is": [
+      78,
+      120
+    ],
+    "consideration": [
+      80
+    ],
+    "experimentally": [
+      82
+    ],
+    "relevant": [
+      83
+    ],
+    "spin-decoherence": [
+      84
+    ],
+    "effects.": [
+      85
+    ],
+    "discuss": [
+      87
+    ],
+    "applications": [
+      88
+    ],
+    "developed": [
+      91,
+      196
+    ],
+    "to": [
+      93,
+      106,
+      177,
+      197
+    ],
+    "interpretation": [
+      95
+    ],
+    "experimental": [
+      98
+    ],
+    "data": [
+      99
+    ],
+    "novel": [
+      102
+    ],
+    "pilot": [
+      103,
+      191
+    ],
+    "bunch": [
+      104,
+      192
+    ],
+    "approach": [
+      105,
+      193
+    ],
+    "control": [
+      107
+    ],
+    "radiofrequency-driven": [
+      116,
+      162
+    ],
+    "Wien": [
+      117
+    ],
+    "filter": [
+      118
+    ],
+    "that": [
+      119,
+      194
+    ],
+    "first": [
+      128
+    ],
+    "direct": [
+      129
+    ],
+    "deuteron": [
+      130,
+      202
+    ],
+    "electric": [
+      131,
+      203
+    ],
+    "dipole": [
+      132,
+      204
+    ],
+    "moment": [
+      133,
+      205
+    ],
+    "measurement": [
+      134
+    ],
+    "at": [
+      135,
+      207
+    ],
+    "COSY.": [
+      136,
+      208
+    ],
+    "emphasize": [
+      138
+    ],
+    "potential": [
+      140
+    ],
+    "importance": [
+      141
+    ],
+    "hitherto": [
+      144
+    ],
+    "unexplored": [
+      145
+    ],
+    "phase": [
+      146
+    ],
+    "envelope": [
+      149
+    ],
+    "horizontal": [
+      152
+    ],
+    "an": [
+      155
+    ],
+    "indicator": [
+      156
+    ],
+    "stability": [
+      159
+    ],
+    "rotations": [
+      164
+    ],
+    "storage": [
+      166
+    ],
+    "rings.": [
+      167
+    ],
+    "The": [
+      168
+    ],
+    "work": [
+      169,
+      179
+    ],
+    "serves": [
+      172
+    ],
+    "satellite": [
+      175
+    ],
+    "publication": [
+      176
+    ],
+    "published": [
+      180
+    ],
+    "concurrently": [
+      181
+    ],
+    "proof": [
+      184
+    ],
+    "principle": [
+      186
+    ],
+    "experiment": [
+      187,
+      206
+    ],
+    "about": [
+      188
+    ],
+    "so-called": [
+      190
+    ],
+    "was": [
+      195
+    ],
+    "provide": [
+      198
+    ],
+    "co-magnetometry": [
+      199
+    ],
+    "for": [
+      200
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2024-11-20T00:00:00"
+}

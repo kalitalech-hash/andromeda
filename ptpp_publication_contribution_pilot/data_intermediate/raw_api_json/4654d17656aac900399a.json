@@ -1,0 +1,1642 @@
+{
+  "id": "https://openalex.org/W4416085523",
+  "doi": "https://doi.org/10.1093/neuonc/noaf201.1802",
+  "title": "TMIC-47. Integrative sc-cell transcriptomic and multimodal spatial analyses reveal composition, functionalities and niches of immune cells in paediatric high grade gliomas",
+  "display_name": "TMIC-47. Integrative sc-cell transcriptomic and multimodal spatial analyses reveal composition, functionalities and niches of immune cells in paediatric high grade gliomas",
+  "publication_year": 2025,
+  "publication_date": "2025-11-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4416085523",
+    "doi": "https://doi.org/10.1093/neuonc/noaf201.1802"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1093/neuonc/noaf201.1802",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1093/neuonc/noaf201.1802",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106908163",
+      "display_name": "Neuro-Oncology",
+      "issn_l": "1522-8517",
+      "issn": [
+        "1522-8517",
+        "1523-5866"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311648",
+      "host_organization_name": "Oxford University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311648",
+        "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+        "Oxford University Press",
+        "University of Oxford"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Neuro-Oncology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055257104",
+        "display_name": "Bożena Kamińska",
+        "orcid": "https://orcid.org/0000-0002-2642-4616"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bozena Kaminska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044365051",
+        "display_name": "Katarzyna B. Leszczyńska",
+        "orcid": "https://orcid.org/0000-0002-3504-1553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Leszczynska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+        "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences , Warsaw,",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032140542",
+        "display_name": "Anna M. Lenkiewicz",
+        "orcid": "https://orcid.org/0000-0003-2358-8372"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Lenkiewicz",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037639435",
+        "display_name": "Maciej Florczyk",
+        "orcid": "https://orcid.org/0000-0003-2277-312X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maciej Florczyk",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041804886",
+        "display_name": "Monika Dźwigońska",
+        "orcid": "https://orcid.org/0000-0003-1774-3671"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Dzwigonska",
+      "raw_affiliation_strings": [
+        "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences , Warsaw,",
+        "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018655788",
+        "display_name": "Szymon Lipiec",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Szymon Lipiec",
+      "raw_affiliation_strings": [
+        "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences , Warsaw,",
+        "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Tumour Hypoxia and Epigenomics, Nencki Institute of Experimental Biology Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Shrinath Dhanapal",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shrinath Dhanapal",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences ,, Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology Polish Academy of Sciences,, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027149529",
+        "display_name": "Wieslawa Grajkowska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wieslawa Grajkowska",
+      "raw_affiliation_strings": [
+        "The Children’s Memorial Health Institute , Warsaw,",
+        "The Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Children’s Memorial Health Institute , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028077452",
+        "display_name": "Katarzyna Kotulska",
+        "orcid": "https://orcid.org/0000-0002-5015-250X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Kotulska",
+      "raw_affiliation_strings": [
+        "The Children’s Memorial Health Institute , Warsaw,",
+        "The Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Children’s Memorial Health Institute , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017681066",
+        "display_name": "Joanna Trubicka",
+        "orcid": "https://orcid.org/0000-0002-9848-3674"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joanna Trubicka",
+      "raw_affiliation_strings": [
+        "The Children’s Memorial Health Institute , Warsaw,",
+        "The Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Children’s Memorial Health Institute , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074321738",
+        "display_name": "Maciej Ciołkowski",
+        "orcid": "https://orcid.org/0000-0003-3919-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maciej Ciołkowski",
+      "raw_affiliation_strings": [
+        "The Children’s Memorial Health Institute , Warsaw,",
+        "The Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Children’s Memorial Health Institute , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5120334363",
+        "display_name": "Bożenna Dembińska-Bagińska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bożenna Dembińska-Bagińska",
+      "raw_affiliation_strings": [
+        "The Children’s Memorial Health Institute , Warsaw,",
+        "The Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Children’s Memorial Health Institute , Warsaw,",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 4612,
+    "currency": "USD",
+    "value_usd": 4612
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.25691514,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "27",
+    "issue": "Supplement_5",
+    "first_page": "v454",
+    "last_page": "v454"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11289",
+    "display_name": "Single-cell and spatial transcriptomics",
+    "score": 0.36629998683929443,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11289",
+      "display_name": "Single-cell and spatial transcriptomics",
+      "score": 0.36629998683929443,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10129",
+      "display_name": "Glioma Diagnosis and Treatment",
+      "score": 0.17870000004768372,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2716",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11266",
+      "display_name": "Neuroinflammation and Neurodegeneration Mechanisms",
+      "score": 0.05389999970793724,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2808",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/microglia",
+      "display_name": "Microglia",
+      "score": 0.7339000105857849
+    },
+    {
+      "id": "https://openalex.org/keywords/immune-system",
+      "display_name": "Immune system",
+      "score": 0.7293000221252441
+    },
+    {
+      "id": "https://openalex.org/keywords/transcriptome",
+      "display_name": "Transcriptome",
+      "score": 0.7178999781608582
+    },
+    {
+      "id": "https://openalex.org/keywords/chemokine",
+      "display_name": "Chemokine",
+      "score": 0.6105999946594238
+    },
+    {
+      "id": "https://openalex.org/keywords/glioma",
+      "display_name": "Glioma",
+      "score": 0.5663999915122986
+    },
+    {
+      "id": "https://openalex.org/keywords/immunotherapy",
+      "display_name": "Immunotherapy",
+      "score": 0.4733000099658966
+    },
+    {
+      "id": "https://openalex.org/keywords/phenotype",
+      "display_name": "Phenotype",
+      "score": 0.4480000138282776
+    },
+    {
+      "id": "https://openalex.org/keywords/cell",
+      "display_name": "Cell",
+      "score": 0.3264999985694885
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779830541",
+      "wikidata": "https://www.wikidata.org/wiki/Q1622829",
+      "display_name": "Microglia",
+      "level": 3,
+      "score": 0.7339000105857849
+    },
+    {
+      "id": "https://openalex.org/C8891405",
+      "wikidata": "https://www.wikidata.org/wiki/Q1059",
+      "display_name": "Immune system",
+      "level": 2,
+      "score": 0.7293000221252441
+    },
+    {
+      "id": "https://openalex.org/C162317418",
+      "wikidata": "https://www.wikidata.org/wiki/Q252857",
+      "display_name": "Transcriptome",
+      "level": 4,
+      "score": 0.7178999781608582
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6471999883651733
+    },
+    {
+      "id": "https://openalex.org/C13373296",
+      "wikidata": "https://www.wikidata.org/wiki/Q421866",
+      "display_name": "Chemokine",
+      "level": 3,
+      "score": 0.6105999946594238
+    },
+    {
+      "id": "https://openalex.org/C2778227246",
+      "wikidata": "https://www.wikidata.org/wiki/Q1365309",
+      "display_name": "Glioma",
+      "level": 2,
+      "score": 0.5663999915122986
+    },
+    {
+      "id": "https://openalex.org/C2777701055",
+      "wikidata": "https://www.wikidata.org/wiki/Q1427096",
+      "display_name": "Immunotherapy",
+      "level": 3,
+      "score": 0.4733000099658966
+    },
+    {
+      "id": "https://openalex.org/C127716648",
+      "wikidata": "https://www.wikidata.org/wiki/Q104053",
+      "display_name": "Phenotype",
+      "level": 3,
+      "score": 0.4480000138282776
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.4465000033378601
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.3483000099658966
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.3449000120162964
+    },
+    {
+      "id": "https://openalex.org/C1491633281",
+      "wikidata": "https://www.wikidata.org/wiki/Q7868",
+      "display_name": "Cell",
+      "level": 2,
+      "score": 0.3264999985694885
+    },
+    {
+      "id": "https://openalex.org/C2776107976",
+      "wikidata": "https://www.wikidata.org/wiki/Q1786433",
+      "display_name": "Tumor microenvironment",
+      "level": 3,
+      "score": 0.32339999079704285
+    },
+    {
+      "id": "https://openalex.org/C2776914184",
+      "wikidata": "https://www.wikidata.org/wiki/Q101991",
+      "display_name": "Inflammation",
+      "level": 2,
+      "score": 0.323199987411499
+    },
+    {
+      "id": "https://openalex.org/C2776090121",
+      "wikidata": "https://www.wikidata.org/wiki/Q193529",
+      "display_name": "T cell",
+      "level": 3,
+      "score": 0.32120001316070557
+    },
+    {
+      "id": "https://openalex.org/C201934248",
+      "wikidata": "https://www.wikidata.org/wiki/Q2492999",
+      "display_name": "Neuroimmunology",
+      "level": 3,
+      "score": 0.31360000371932983
+    },
+    {
+      "id": "https://openalex.org/C54166955",
+      "wikidata": "https://www.wikidata.org/wiki/Q658145",
+      "display_name": "Chemotaxis",
+      "level": 3,
+      "score": 0.2842999994754791
+    },
+    {
+      "id": "https://openalex.org/C136449434",
+      "wikidata": "https://www.wikidata.org/wiki/Q428253",
+      "display_name": "Innate immune system",
+      "level": 3,
+      "score": 0.2824000120162964
+    },
+    {
+      "id": "https://openalex.org/C189206191",
+      "wikidata": "https://www.wikidata.org/wiki/Q222046",
+      "display_name": "Genomics",
+      "level": 4,
+      "score": 0.26669999957084656
+    },
+    {
+      "id": "https://openalex.org/C19317047",
+      "wikidata": "https://www.wikidata.org/wiki/Q412037",
+      "display_name": "T-cell receptor",
+      "level": 4,
+      "score": 0.26350000500679016
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.25189998745918274
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1093/neuonc/noaf201.1802",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/neuonc/noaf201.1802",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106908163",
+        "display_name": "Neuro-Oncology",
+        "issn_l": "1522-8517",
+        "issn": [
+          "1522-8517",
+          "1523-5866"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648",
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "Oxford University Press",
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Neuro-Oncology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Paediatric": [
+      1
+    ],
+    "high-grade": [
+      2
+    ],
+    "gliomas": [
+      3,
+      159
+    ],
+    "(pHGGs)": [
+      4
+    ],
+    "are": [
+      5,
+      33,
+      61
+    ],
+    "aggressive": [
+      6
+    ],
+    "brain": [
+      7,
+      57
+    ],
+    "tumours": [
+      8,
+      32
+    ],
+    "and": [
+      9,
+      82,
+      117,
+      128,
+      148,
+      195,
+      202,
+      212,
+      216,
+      235,
+      242,
+      254,
+      267,
+      274,
+      293
+    ],
+    "the": [
+      10,
+      24,
+      46,
+      50,
+      56,
+      65,
+      226,
+      248,
+      263,
+      268,
+      279,
+      290
+    ],
+    "leading": [
+      11
+    ],
+    "cause": [
+      12
+    ],
+    "of": [
+      13,
+      19,
+      23,
+      75,
+      88,
+      137,
+      153,
+      172,
+      200,
+      209,
+      220,
+      229,
+      237,
+      250,
+      257,
+      265,
+      271
+    ],
+    "deaths": [
+      14
+    ],
+    "in": [
+      15,
+      27,
+      55,
+      166,
+      240
+    ],
+    "children.": [
+      16
+    ],
+    "The": [
+      17
+    ],
+    "management": [
+      18
+    ],
+    "pHGGs": [
+      20,
+      258
+    ],
+    "is": [
+      21,
+      39
+    ],
+    "one": [
+      22
+    ],
+    "greatest": [
+      25
+    ],
+    "challenges": [
+      26
+    ],
+    "paediatric": [
+      28,
+      90
+    ],
+    "oncology": [
+      29
+    ],
+    "as": [
+      30
+    ],
+    "those": [
+      31,
+      89
+    ],
+    "considered": [
+      34
+    ],
+    "“cold”,": [
+      35
+    ],
+    "immunosuppressed.": [
+      36
+    ],
+    "Preclinical": [
+      37
+    ],
+    "research": [
+      38
+    ],
+    "struggling": [
+      40
+    ],
+    "to": [
+      41,
+      48,
+      70,
+      120,
+      133,
+      192,
+      262
+    ],
+    "find": [
+      42
+    ],
+    "new": [
+      43,
+      79
+    ],
+    "targets": [
+      44,
+      81
+    ],
+    "with": [
+      45,
+      96,
+      175,
+      180,
+      197
+    ],
+    "potential": [
+      47
+    ],
+    "revolutionise": [
+      49
+    ],
+    "therapeutic": [
+      51
+    ],
+    "approach.": [
+      52
+    ],
+    "Tumour-host": [
+      53
+    ],
+    "interactions": [
+      54
+    ],
+    "tumour": [
+      58
+    ],
+    "microenvironment": [
+      59
+    ],
+    "(TME)": [
+      60
+    ],
+    "poorly": [
+      62
+    ],
+    "understood.": [
+      63
+    ],
+    "In": [
+      64
+    ],
+    "HIT-GLIO": [
+      66,
+      285
+    ],
+    "project": [
+      67,
+      286
+    ],
+    "we": [
+      68,
+      141
+    ],
+    "aim": [
+      69
+    ],
+    "perform": [
+      71
+    ],
+    "a": [
+      72,
+      134
+    ],
+    "comprehensive": [
+      73
+    ],
+    "analysis": [
+      74
+    ],
+    "pHGG": [
+      76,
+      167
+    ],
+    "TME,": [
+      77
+    ],
+    "define": [
+      78,
+      121
+    ],
+    "immunological": [
+      80
+    ],
+    "compounds/strategies": [
+      83
+    ],
+    "that": [
+      84,
+      131,
+      163
+    ],
+    "would": [
+      85
+    ],
+    "change": [
+      86
+    ],
+    "future": [
+      87
+    ],
+    "patients.": [
+      91
+    ],
+    "We": [
+      92,
+      161
+    ],
+    "combined": [
+      93
+    ],
+    "single-cell": [
+      94
+    ],
+    "(sc)RNseq": [
+      95
+    ],
+    "40": [
+      97
+    ],
+    "immune": [
+      98,
+      123,
+      144
+    ],
+    "cell": [
+      99,
+      102,
+      124
+    ],
+    "markers,": [
+      100
+    ],
+    "sc-T": [
+      101
+    ],
+    "receptor": [
+      103
+    ],
+    "(TCR)": [
+      104
+    ],
+    "profiling,": [
+      105
+    ],
+    "Visium": [
+      106
+    ],
+    "10X": [
+      107
+    ],
+    "Genomics": [
+      108
+    ],
+    "spatial": [
+      109,
+      129
+    ],
+    "transcriptomics,": [
+      110
+    ],
+    "multimodal": [
+      111
+    ],
+    "CODEX": [
+      112
+    ],
+    "(Co-detection": [
+      113
+    ],
+    "by": [
+      114,
+      278,
+      289
+    ],
+    "indexing)": [
+      115
+    ],
+    "staining": [
+      116
+    ],
+    "computational": [
+      118
+    ],
+    "approaches": [
+      119
+    ],
+    "diverse": [
+      122
+    ],
+    "types,": [
+      125
+    ],
+    "cellular": [
+      126
+    ],
+    "states": [
+      127
+    ],
+    "niches": [
+      130
+    ],
+    "contribute": [
+      132,
+      261
+    ],
+    "cold": [
+      135
+    ],
+    "TME": [
+      136
+    ],
+    "pHGGs.": [
+      138
+    ],
+    "Thus": [
+      139
+    ],
+    "far,": [
+      140
+    ],
+    "profiled": [
+      142
+    ],
+    "180,000": [
+      143
+    ],
+    "cells": [
+      145,
+      165,
+      239
+    ],
+    "from": [
+      146
+    ],
+    "biopsies": [
+      147
+    ],
+    "corresponding": [
+      149
+    ],
+    "cerebrospinal": [
+      150
+    ],
+    "fluids": [
+      151
+    ],
+    "(CSF)": [
+      152
+    ],
+    "eight": [
+      154
+    ],
+    "pHGGs,": [
+      155
+    ],
+    "4": [
+      156
+    ],
+    "diffuse": [
+      157
+    ],
+    "midline": [
+      158
+    ],
+    "(DMGs).": [
+      160
+    ],
+    "found": [
+      162
+    ],
+    "CD45+": [
+      164
+    ],
+    "tissue": [
+      168
+    ],
+    "samples": [
+      169
+    ],
+    "predominantly": [
+      170
+    ],
+    "comprise": [
+      171
+    ],
+    "CD11b+/TMEM119": [
+      173
+    ],
+    "microglia": [
+      174,
+      187,
+      273
+    ],
+    "less": [
+      176
+    ],
+    "frequent": [
+      177
+    ],
+    "immunosuppressive": [
+      178,
+      217,
+      269
+    ],
+    "CD68+Gal3+macrophages,": [
+      179
+    ],
+    "very": [
+      181
+    ],
+    "few": [
+      182
+    ],
+    "CD3+": [
+      183
+    ],
+    "T": [
+      184,
+      238
+    ],
+    "lymphocytes.": [
+      185
+    ],
+    "pHGG-associated": [
+      186,
+      272
+    ],
+    "express": [
+      188
+    ],
+    "transcriptomic": [
+      189
+    ],
+    "programs": [
+      190
+    ],
+    "related": [
+      191
+    ],
+    "ECM": [
+      193
+    ],
+    "remodeling": [
+      194
+    ],
+    "angiogenesis,": [
+      196
+    ],
+    "low": [
+      198,
+      207,
+      252
+    ],
+    "expression": [
+      199,
+      208
+    ],
+    "chemokines": [
+      201
+    ],
+    "cytokines.": [
+      203
+    ],
+    "Tumour-associated": [
+      204
+    ],
+    "monocytes": [
+      205
+    ],
+    "show": [
+      206
+    ],
+    "inflammatory": [
+      210,
+      253
+    ],
+    "factors,": [
+      211
+    ],
+    "macrophages": [
+      213
+    ],
+    "display": [
+      214
+    ],
+    "phagocytic": [
+      215
+    ],
+    "phenotypes.": [
+      218
+    ],
+    "Analysis": [
+      219
+    ],
+    "paired": [
+      221
+    ],
+    "scRNA/TCR": [
+      222
+    ],
+    "sequencing": [
+      223
+    ],
+    "data": [
+      224,
+      246
+    ],
+    "revealed": [
+      225
+    ],
+    "combinatorial": [
+      227
+    ],
+    "impact": [
+      228
+    ],
+    "TCR": [
+      230
+    ],
+    "utilization": [
+      231
+    ],
+    "on": [
+      232
+    ],
+    "phenotypic": [
+      233
+    ],
+    "diversity": [
+      234
+    ],
+    "clonality": [
+      236
+    ],
+    "CSF": [
+      241
+    ],
+    "tumours.": [
+      243
+    ],
+    "Overall,": [
+      244
+    ],
+    "our": [
+      245
+    ],
+    "demonstrate": [
+      247
+    ],
+    "abundance": [
+      249
+    ],
+    "microglia,": [
+      251
+    ],
+    "chemotactic": [
+      255
+    ],
+    "signature": [
+      256
+    ],
+    "which": [
+      259
+    ],
+    "may": [
+      260
+    ],
+    "lack": [
+      264
+    ],
+    "lymphocytes": [
+      266
+    ],
+    "phenotype": [
+      270
+    ],
+    "macrophages.": [
+      275
+    ],
+    "Studies": [
+      276
+    ],
+    "supported": [
+      277
+    ],
+    "EU": [
+      280
+    ],
+    "Cancer": [
+      281
+    ],
+    "Mission": [
+      282
+    ],
+    "Horizon": [
+      283
+    ],
+    "Europe": [
+      284
+    ],
+    "(101136835)": [
+      287
+    ],
+    "founded": [
+      288
+    ],
+    "European": [
+      291
+    ],
+    "Health": [
+      292
+    ],
+    "Digital": [
+      294
+    ],
+    "Executive": [
+      295
+    ],
+    "Agency.": [
+      296
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-11-11T00:00:00"
+}

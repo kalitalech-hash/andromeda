@@ -1,0 +1,1441 @@
+{
+  "id": "https://openalex.org/W3173269141",
+  "doi": "https://doi.org/10.3390/pathogens10070801",
+  "title": "Transcriptional Regulation of the Multiple Resistance Mechanisms in Salmonella—A Review",
+  "display_name": "Transcriptional Regulation of the Multiple Resistance Mechanisms in Salmonella—A Review",
+  "publication_year": 2021,
+  "publication_date": "2021-06-24",
+  "ids": {
+    "openalex": "https://openalex.org/W3173269141",
+    "doi": "https://doi.org/10.3390/pathogens10070801",
+    "mag": "3173269141",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34202800"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/pathogens10070801",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/pathogens10070801",
+    "pdf_url": "https://www.mdpi.com/2076-0817/10/7/801/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210239906",
+      "display_name": "Pathogens",
+      "issn_l": "2076-0817",
+      "issn": [
+        "2076-0817"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Pathogens",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2076-0817/10/7/801/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088330912",
+        "display_name": "Michał Wójcicki",
+        "orcid": "https://orcid.org/0000-0003-0573-3337"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michał Wójcicki",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0573-3337",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022506039",
+        "display_name": "Olga Świder",
+        "orcid": "https://orcid.org/0000-0003-4126-4179"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Olga Świder",
+      "raw_affiliation_strings": [
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031832104",
+        "display_name": "Kamila J. Daniluk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kamila J. Daniluk",
+      "raw_affiliation_strings": [
+        "Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074460022",
+        "display_name": "Paulina Średnicka",
+        "orcid": "https://orcid.org/0000-0001-8597-301X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulina Średnicka",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8597-301X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070932802",
+        "display_name": "Monika Kowalczyk",
+        "orcid": "https://orcid.org/0000-0001-8688-4748"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Akimowicz",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8688-4748",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077042379",
+        "display_name": "Marek Roszko",
+        "orcid": "https://orcid.org/0000-0003-1848-2100"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Ł. Roszko",
+      "raw_affiliation_strings": [
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058453188",
+        "display_name": "Barbara Sokołowska",
+        "orcid": "https://orcid.org/0000-0002-6217-2401"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Barbara Sokołowska",
+      "raw_affiliation_strings": [
+        "Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6217-2401",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5068161989",
+        "display_name": "Edyta Juszczuk‐Kubiak",
+        "orcid": "https://orcid.org/0000-0001-5093-5320"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Edyta Juszczuk-Kubiak",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5093-5320",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology—State Research Institute, Rakowiecka 36 Street, 02-532 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5068161989"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210110077"
+  ],
+  "apc_list": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "apc_paid": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "fwci": 1.5984,
+  "has_fulltext": true,
+  "cited_by_count": 39,
+  "citation_normalized_percentile": {
+    "value": 0.83002775,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "10",
+    "issue": "7",
+    "first_page": "801",
+    "last_page": "801"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10147",
+    "display_name": "Antibiotic Resistance in Bacteria",
+    "score": 0.9991999864578247,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1313",
+      "display_name": "Molecular Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10147",
+      "display_name": "Antibiotic Resistance in Bacteria",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1313",
+        "display_name": "Molecular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10486",
+      "display_name": "Salmonella and Campylobacter epidemiology",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10120",
+      "display_name": "Bacterial Genetics and Biotechnology",
+      "score": 0.9812999963760376,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/salmonella",
+      "display_name": "Salmonella",
+      "score": 0.8530997037887573
+    },
+    {
+      "id": "https://openalex.org/keywords/antibiotic-resistance",
+      "display_name": "Antibiotic resistance",
+      "score": 0.7014912366867065
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.66432785987854
+    },
+    {
+      "id": "https://openalex.org/keywords/antibiotics",
+      "display_name": "Antibiotics",
+      "score": 0.5938507914543152
+    },
+    {
+      "id": "https://openalex.org/keywords/microbiology",
+      "display_name": "Microbiology",
+      "score": 0.5803778171539307
+    },
+    {
+      "id": "https://openalex.org/keywords/multiple-drug-resistance",
+      "display_name": "Multiple drug resistance",
+      "score": 0.5703848600387573
+    },
+    {
+      "id": "https://openalex.org/keywords/pathogen",
+      "display_name": "Pathogen",
+      "score": 0.5201528668403625
+    },
+    {
+      "id": "https://openalex.org/keywords/regulon",
+      "display_name": "Regulon",
+      "score": 0.5011749267578125
+    },
+    {
+      "id": "https://openalex.org/keywords/bacteria",
+      "display_name": "Bacteria",
+      "score": 0.3752773106098175
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.3273773789405823
+    },
+    {
+      "id": "https://openalex.org/keywords/regulation-of-gene-expression",
+      "display_name": "Regulation of gene expression",
+      "score": 0.3018128275871277
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.2935696244239807
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2781065037",
+      "wikidata": "https://www.wikidata.org/wiki/Q150839",
+      "display_name": "Salmonella",
+      "level": 3,
+      "score": 0.8530997037887573
+    },
+    {
+      "id": "https://openalex.org/C94665300",
+      "wikidata": "https://www.wikidata.org/wiki/Q63391344",
+      "display_name": "Antibiotic resistance",
+      "level": 3,
+      "score": 0.7014912366867065
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.66432785987854
+    },
+    {
+      "id": "https://openalex.org/C501593827",
+      "wikidata": "https://www.wikidata.org/wiki/Q12187",
+      "display_name": "Antibiotics",
+      "level": 2,
+      "score": 0.5938507914543152
+    },
+    {
+      "id": "https://openalex.org/C89423630",
+      "wikidata": "https://www.wikidata.org/wiki/Q7193",
+      "display_name": "Microbiology",
+      "level": 1,
+      "score": 0.5803778171539307
+    },
+    {
+      "id": "https://openalex.org/C133936738",
+      "wikidata": "https://www.wikidata.org/wiki/Q643839",
+      "display_name": "Multiple drug resistance",
+      "level": 3,
+      "score": 0.5703848600387573
+    },
+    {
+      "id": "https://openalex.org/C2776460866",
+      "wikidata": "https://www.wikidata.org/wiki/Q170065",
+      "display_name": "Pathogen",
+      "level": 2,
+      "score": 0.5201528668403625
+    },
+    {
+      "id": "https://openalex.org/C62361671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1754612",
+      "display_name": "Regulon",
+      "level": 4,
+      "score": 0.5011749267578125
+    },
+    {
+      "id": "https://openalex.org/C523546767",
+      "wikidata": "https://www.wikidata.org/wiki/Q10876",
+      "display_name": "Bacteria",
+      "level": 2,
+      "score": 0.3752773106098175
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.3273773789405823
+    },
+    {
+      "id": "https://openalex.org/C165864922",
+      "wikidata": "https://www.wikidata.org/wiki/Q411391",
+      "display_name": "Regulation of gene expression",
+      "level": 3,
+      "score": 0.3018128275871277
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.2935696244239807
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3390/pathogens10070801",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/pathogens10070801",
+      "pdf_url": "https://www.mdpi.com/2076-0817/10/7/801/pdf",
+      "source": {
+        "id": "https://openalex.org/S4210239906",
+        "display_name": "Pathogens",
+        "issn_l": "2076-0817",
+        "issn": [
+          "2076-0817"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Pathogens",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34202800",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34202800",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Pathogens (Basel, Switzerland)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b2fa56bf09d541e095154693eefc9572",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/b2fa56bf09d541e095154693eefc9572",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Pathogens, Vol 10, Iss 7, p 801 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/2076-0817/10/7/801/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/pathogens10070801",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Pathogens; Volume 10; Issue 7; Pages: 801",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8308502",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8308502",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Pathogens",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/pathogens10070801",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/pathogens10070801",
+    "pdf_url": "https://www.mdpi.com/2076-0817/10/7/801/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210239906",
+      "display_name": "Pathogens",
+      "issn_l": "2076-0817",
+      "issn": [
+        "2076-0817"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Pathogens",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3173269141.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3173269141.grobid-xml"
+  },
+  "referenced_works_count": 175,
+  "referenced_works": [
+    "https://openalex.org/W1845106204",
+    "https://openalex.org/W1967596948",
+    "https://openalex.org/W1968611716",
+    "https://openalex.org/W1973261412",
+    "https://openalex.org/W1973978530",
+    "https://openalex.org/W1982204394",
+    "https://openalex.org/W1984171637",
+    "https://openalex.org/W1989238773",
+    "https://openalex.org/W2003660859",
+    "https://openalex.org/W2006252065",
+    "https://openalex.org/W2011740551",
+    "https://openalex.org/W2013603999",
+    "https://openalex.org/W2017215141",
+    "https://openalex.org/W2018632977",
+    "https://openalex.org/W2033104568",
+    "https://openalex.org/W2036492728",
+    "https://openalex.org/W2037051030",
+    "https://openalex.org/W2044331794",
+    "https://openalex.org/W2044882852",
+    "https://openalex.org/W2046131957",
+    "https://openalex.org/W2046833621",
+    "https://openalex.org/W2049588263",
+    "https://openalex.org/W2052354811",
+    "https://openalex.org/W2060334792",
+    "https://openalex.org/W2066442834",
+    "https://openalex.org/W2075944578",
+    "https://openalex.org/W2079518832",
+    "https://openalex.org/W2079742452",
+    "https://openalex.org/W2088624564",
+    "https://openalex.org/W2090390408",
+    "https://openalex.org/W2094293768",
+    "https://openalex.org/W2099153693",
+    "https://openalex.org/W2100901400",
+    "https://openalex.org/W2106171353",
+    "https://openalex.org/W2109214045",
+    "https://openalex.org/W2111905194",
+    "https://openalex.org/W2113621708",
+    "https://openalex.org/W2114047144",
+    "https://openalex.org/W2119317228",
+    "https://openalex.org/W2119380976",
+    "https://openalex.org/W2119666507",
+    "https://openalex.org/W2126996677",
+    "https://openalex.org/W2130224428",
+    "https://openalex.org/W2134195706",
+    "https://openalex.org/W2136332979",
+    "https://openalex.org/W2138271600",
+    "https://openalex.org/W2139649460",
+    "https://openalex.org/W2142072948",
+    "https://openalex.org/W2142400495",
+    "https://openalex.org/W2146624622",
+    "https://openalex.org/W2154704910",
+    "https://openalex.org/W2158796608",
+    "https://openalex.org/W2159671439",
+    "https://openalex.org/W2160506634",
+    "https://openalex.org/W2163596877",
+    "https://openalex.org/W2165036780",
+    "https://openalex.org/W2166338964",
+    "https://openalex.org/W2170040879",
+    "https://openalex.org/W2171535756",
+    "https://openalex.org/W2171865415",
+    "https://openalex.org/W2205551391",
+    "https://openalex.org/W2273920208",
+    "https://openalex.org/W2286191331",
+    "https://openalex.org/W2289390264",
+    "https://openalex.org/W2300436290",
+    "https://openalex.org/W2307959386",
+    "https://openalex.org/W2334631750",
+    "https://openalex.org/W2345103162",
+    "https://openalex.org/W2443044113",
+    "https://openalex.org/W2461359428",
+    "https://openalex.org/W2469133291",
+    "https://openalex.org/W2488719483",
+    "https://openalex.org/W2498485322",
+    "https://openalex.org/W2513012002",
+    "https://openalex.org/W2545359414",
+    "https://openalex.org/W2552065760",
+    "https://openalex.org/W2564553224",
+    "https://openalex.org/W2591852349",
+    "https://openalex.org/W2607787413",
+    "https://openalex.org/W2620727364",
+    "https://openalex.org/W2641819558",
+    "https://openalex.org/W2659083529",
+    "https://openalex.org/W2732085395",
+    "https://openalex.org/W2734378828",
+    "https://openalex.org/W2736611508",
+    "https://openalex.org/W2746656672",
+    "https://openalex.org/W2748777487",
+    "https://openalex.org/W2758814752",
+    "https://openalex.org/W2764155647",
+    "https://openalex.org/W2765470504",
+    "https://openalex.org/W2767735528",
+    "https://openalex.org/W2768314250",
+    "https://openalex.org/W2775152474",
+    "https://openalex.org/W2784164631",
+    "https://openalex.org/W2788838304",
+    "https://openalex.org/W2789283961",
+    "https://openalex.org/W2796220266",
+    "https://openalex.org/W2801249807",
+    "https://openalex.org/W2802080273",
+    "https://openalex.org/W2803932130",
+    "https://openalex.org/W2804419162",
+    "https://openalex.org/W2807440277",
+    "https://openalex.org/W2813910014",
+    "https://openalex.org/W2859592219",
+    "https://openalex.org/W2885206504",
+    "https://openalex.org/W2886093319",
+    "https://openalex.org/W2886896337",
+    "https://openalex.org/W2888299959",
+    "https://openalex.org/W2895318552",
+    "https://openalex.org/W2897611067",
+    "https://openalex.org/W2902045785",
+    "https://openalex.org/W2902388046",
+    "https://openalex.org/W2902485109",
+    "https://openalex.org/W2910014778",
+    "https://openalex.org/W2910121244",
+    "https://openalex.org/W2911217809",
+    "https://openalex.org/W2913786501",
+    "https://openalex.org/W2921372701",
+    "https://openalex.org/W2921734812",
+    "https://openalex.org/W2922544451",
+    "https://openalex.org/W2926668511",
+    "https://openalex.org/W2943007999",
+    "https://openalex.org/W2944323785",
+    "https://openalex.org/W2944402106",
+    "https://openalex.org/W2945143211",
+    "https://openalex.org/W2954361991",
+    "https://openalex.org/W2955548921",
+    "https://openalex.org/W2956000590",
+    "https://openalex.org/W2957229007",
+    "https://openalex.org/W2961276096",
+    "https://openalex.org/W2961369392",
+    "https://openalex.org/W2963430233",
+    "https://openalex.org/W2965142258",
+    "https://openalex.org/W2972163196",
+    "https://openalex.org/W2973104231",
+    "https://openalex.org/W2979227573",
+    "https://openalex.org/W2979951883",
+    "https://openalex.org/W2981483842",
+    "https://openalex.org/W2982524302",
+    "https://openalex.org/W2987805268",
+    "https://openalex.org/W2996261849",
+    "https://openalex.org/W2996524318",
+    "https://openalex.org/W2999164718",
+    "https://openalex.org/W3001281716",
+    "https://openalex.org/W3003820224",
+    "https://openalex.org/W3006164655",
+    "https://openalex.org/W3007083816",
+    "https://openalex.org/W3007270540",
+    "https://openalex.org/W3011456554",
+    "https://openalex.org/W3013112980",
+    "https://openalex.org/W3013152031",
+    "https://openalex.org/W3014715119",
+    "https://openalex.org/W3015758459",
+    "https://openalex.org/W3018655165",
+    "https://openalex.org/W3024360179",
+    "https://openalex.org/W3024802608",
+    "https://openalex.org/W3027735785",
+    "https://openalex.org/W3032753254",
+    "https://openalex.org/W3033222342",
+    "https://openalex.org/W3035249994",
+    "https://openalex.org/W3038533369",
+    "https://openalex.org/W3042309938",
+    "https://openalex.org/W3047458894",
+    "https://openalex.org/W3088021536",
+    "https://openalex.org/W3088299783",
+    "https://openalex.org/W3088347913",
+    "https://openalex.org/W3089147333",
+    "https://openalex.org/W3103151126",
+    "https://openalex.org/W3135086474",
+    "https://openalex.org/W3164017600",
+    "https://openalex.org/W4246908174",
+    "https://openalex.org/W6696409056",
+    "https://openalex.org/W6755727963",
+    "https://openalex.org/W6764858628",
+    "https://openalex.org/W6769626034"
+  ],
+  "related_works": [
+    "https://openalex.org/W61127607",
+    "https://openalex.org/W1984136937",
+    "https://openalex.org/W1786268878",
+    "https://openalex.org/W2794893700",
+    "https://openalex.org/W4281651837",
+    "https://openalex.org/W4313622135",
+    "https://openalex.org/W2590145803",
+    "https://openalex.org/W1930517486",
+    "https://openalex.org/W4296449001",
+    "https://openalex.org/W2040814006"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      81
+    ],
+    "widespread": [
+      1
+    ],
+    "use": [
+      2
+    ],
+    "of": [
+      3,
+      11,
+      18,
+      24,
+      35,
+      41,
+      69,
+      75,
+      84,
+      98,
+      115,
+      125,
+      136,
+      160,
+      164,
+      170,
+      177,
+      185
+    ],
+    "antibiotics,": [
+      4,
+      174
+    ],
+    "especially": [
+      5
+    ],
+    "those": [
+      6
+    ],
+    "with": [
+      7
+    ],
+    "a": [
+      8,
+      90
+    ],
+    "broad": [
+      9
+    ],
+    "spectrum": [
+      10
+    ],
+    "activity,": [
+      12
+    ],
+    "has": [
+      13
+    ],
+    "resulted": [
+      14
+    ],
+    "in": [
+      15,
+      21,
+      87,
+      103
+    ],
+    "the": [
+      16,
+      31,
+      39,
+      73,
+      99,
+      109,
+      113,
+      122,
+      158,
+      161,
+      165,
+      178
+    ],
+    "development": [
+      17
+    ],
+    "multidrug": [
+      19,
+      100,
+      171
+    ],
+    "resistance": [
+      20,
+      70,
+      86,
+      101,
+      135,
+      166,
+      172
+    ],
+    "many": [
+      22
+    ],
+    "strains": [
+      23
+    ],
+    "bacteria,": [
+      25
+    ],
+    "including": [
+      26
+    ],
+    "Salmonella.": [
+      27
+    ],
+    "Salmonella": [
+      28,
+      88,
+      104,
+      137
+    ],
+    "is": [
+      29,
+      51,
+      105
+    ],
+    "among": [
+      30
+    ],
+    "most": [
+      32
+    ],
+    "prevalent": [
+      33
+    ],
+    "causes": [
+      34
+    ],
+    "intoxication": [
+      36
+    ],
+    "due": [
+      37
+    ],
+    "to": [
+      38,
+      133,
+      167,
+      173
+    ],
+    "consumption": [
+      40
+    ],
+    "contaminated": [
+      42
+    ],
+    "food": [
+      43
+    ],
+    "and": [
+      44,
+      60,
+      77,
+      94,
+      146
+    ],
+    "water.": [
+      45
+    ],
+    "Salmonellosis": [
+      46
+    ],
+    "caused": [
+      47
+    ],
+    "by": [
+      48
+    ],
+    "this": [
+      49,
+      118
+    ],
+    "pathogen": [
+      50,
+      64
+    ],
+    "pharmacologically": [
+      52
+    ],
+    "treated": [
+      53
+    ],
+    "using": [
+      54
+    ],
+    "antibiotics": [
+      55
+    ],
+    "such": [
+      56
+    ],
+    "as": [
+      57,
+      143,
+      148,
+      150,
+      181,
+      183
+    ],
+    "fluoroquinolones,": [
+      58
+    ],
+    "ceftriaxone,": [
+      59
+    ],
+    "azithromycin.": [
+      61
+    ],
+    "This": [
+      62
+    ],
+    "foodborne": [
+      63
+    ],
+    "developed": [
+      65
+    ],
+    "several": [
+      66
+    ],
+    "molecular": [
+      67,
+      126,
+      162
+    ],
+    "mechanisms": [
+      68,
+      102,
+      127,
+      163
+    ],
+    "both": [
+      71
+    ],
+    "on": [
+      72
+    ],
+    "level": [
+      74
+    ],
+    "global": [
+      76,
+      92,
+      175
+    ],
+    "local": [
+      78
+    ],
+    "transcription": [
+      79,
+      144
+    ],
+    "modulators.": [
+      80
+    ],
+    "increasing": [
+      82
+    ],
+    "rate": [
+      83
+    ],
+    "antibiotic": [
+      85,
+      111,
+      134
+    ],
+    "poses": [
+      89
+    ],
+    "significant": [
+      91
+    ],
+    "concern,": [
+      93
+    ],
+    "an": [
+      95
+    ],
+    "improved": [
+      96
+    ],
+    "understanding": [
+      97
+    ],
+    "essential": [
+      106
+    ],
+    "for": [
+      107,
+      112
+    ],
+    "choosing": [
+      108
+    ],
+    "suitable": [
+      110
+    ],
+    "treatment": [
+      114
+    ],
+    "infections.": [
+      116
+    ],
+    "In": [
+      117
+    ],
+    "review,": [
+      119
+    ],
+    "we": [
+      120
+    ],
+    "summarized": [
+      121
+    ],
+    "current": [
+      123
+    ],
+    "knowledge": [
+      124
+    ],
+    "that": [
+      128
+    ],
+    "control": [
+      129
+    ],
+    "gene": [
+      130
+    ],
+    "expression": [
+      131
+    ],
+    "related": [
+      132
+    ],
+    "strains.": [
+      138
+    ],
+    "We": [
+      139,
+      155
+    ],
+    "characterized": [
+      140
+    ],
+    "regulators": [
+      141,
+      169,
+      176,
+      184
+    ],
+    "acting": [
+      142
+    ],
+    "activators": [
+      145
+    ],
+    "repressors,": [
+      147
+    ],
+    "well": [
+      149,
+      182
+    ],
+    "two-component": [
+      151
+    ],
+    "signal": [
+      152
+    ],
+    "transduction": [
+      153
+    ],
+    "systems.": [
+      154
+    ],
+    "also": [
+      156
+    ],
+    "discuss": [
+      157
+    ],
+    "background": [
+      159
+    ],
+    "metals,": [
+      168
+    ],
+    "LysR": [
+      179
+    ],
+    "family,": [
+      180
+    ],
+    "histone-like": [
+      186
+    ],
+    "proteins.": [
+      187
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1741 @@
+{
+  "id": "https://openalex.org/W4384694713",
+  "doi": "https://doi.org/10.3390/s23146464",
+  "title": "Frugal Heart Rate Correction Method for Scalable Health and Safety Monitoring in Construction Sites",
+  "display_name": "Frugal Heart Rate Correction Method for Scalable Health and Safety Monitoring in Construction Sites",
+  "publication_year": 2023,
+  "publication_date": "2023-07-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4384694713",
+    "doi": "https://doi.org/10.3390/s23146464",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37514757"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/s23146464",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/s23146464",
+    "pdf_url": "https://www.mdpi.com/1424-8220/23/14/6464/pdf?version=1689591118",
+    "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "issn_l": "1424-8220",
+      "issn": [
+        "1424-8220"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sensors",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1424-8220/23/14/6464/pdf?version=1689591118",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5069048632",
+        "display_name": "Piotr Sowiński",
+        "orcid": "https://orcid.org/0000-0002-2543-9461"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Piotr Sowiński",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2543-9461",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046534919",
+        "display_name": "Kajetan Rachwał",
+        "orcid": "https://orcid.org/0000-0003-1524-7877"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kajetan Rachwał",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1524-7877",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088868361",
+        "display_name": "Anastasiya Danilenka",
+        "orcid": "https://orcid.org/0000-0002-3080-0303"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anastasiya Danilenka",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3080-0303",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karolina Bogacka",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7109-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068091156",
+        "display_name": "Monika Kobus",
+        "orcid": "https://orcid.org/0000-0003-3217-1050"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139689",
+          "display_name": "Central Institute for Labour Protection",
+          "ror": "https://ror.org/03x0yya69",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Kobus",
+      "raw_affiliation_strings": [
+        "Department of Personal Protective Equipment, Central Institute for Labour Protection—National Research Institute, ul. Wierzbowa 48, 90-133 Lodz, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3217-1050",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Personal Protective Equipment, Central Institute for Labour Protection—National Research Institute, ul. Wierzbowa 48, 90-133 Lodz, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015442520",
+        "display_name": "Anna Dąbrowska",
+        "orcid": "https://orcid.org/0000-0003-4295-3005"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139689",
+          "display_name": "Central Institute for Labour Protection",
+          "ror": "https://ror.org/03x0yya69",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Dąbrowska",
+      "raw_affiliation_strings": [
+        "Department of Personal Protective Equipment, Central Institute for Labour Protection—National Research Institute, ul. Wierzbowa 48, 90-133 Lodz, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4295-3005",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Personal Protective Equipment, Central Institute for Labour Protection—National Research Institute, ul. Wierzbowa 48, 90-133 Lodz, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075897693",
+        "display_name": "Andrzej Paszkiewicz",
+        "orcid": "https://orcid.org/0000-0001-7573-3856"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111664937",
+          "display_name": "Rzeszów University of Technology",
+          "ror": "https://ror.org/056xse072",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111664937"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrzej Paszkiewicz",
+      "raw_affiliation_strings": [
+        "Department of Complex Systems, Faculty of Electrical and Computer Engineering, Rzeszow University of Technology, al. Powstańców Warszawy 12, 35-959 Rzeszów, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7573-3856",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Complex Systems, Faculty of Electrical and Computer Engineering, Rzeszow University of Technology, al. Powstańców Warszawy 12, 35-959 Rzeszów, Poland",
+          "institution_ids": [
+            "https://openalex.org/I111664937"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048442470",
+        "display_name": "Marek Bolanowski",
+        "orcid": "https://orcid.org/0000-0003-4645-967X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111664937",
+          "display_name": "Rzeszów University of Technology",
+          "ror": "https://ror.org/056xse072",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111664937"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Bolanowski",
+      "raw_affiliation_strings": [
+        "Department of Complex Systems, Faculty of Electrical and Computer Engineering, Rzeszow University of Technology, al. Powstańców Warszawy 12, 35-959 Rzeszów, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4645-967X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Complex Systems, Faculty of Electrical and Computer Engineering, Rzeszow University of Technology, al. Powstańców Warszawy 12, 35-959 Rzeszów, Poland",
+          "institution_ids": [
+            "https://openalex.org/I111664937"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017025137",
+        "display_name": "Maria Ganzha",
+        "orcid": "https://orcid.org/0000-0001-7714-4844"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria Ganzha",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7714-4844",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5053781299",
+        "display_name": "Marcin Paprzycki",
+        "orcid": "https://orcid.org/0000-0002-8069-2152"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Paprzycki",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8069-2152",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5069048632"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I108403487",
+    "https://openalex.org/I66083562",
+    "https://openalex.org/I99542240"
+  ],
+  "apc_list": {
+    "value": 2400,
+    "currency": "CHF",
+    "value_usd": 2598
+  },
+  "apc_paid": {
+    "value": 2400,
+    "currency": "CHF",
+    "value_usd": 2598
+  },
+  "fwci": 1.3565,
+  "has_fulltext": true,
+  "cited_by_count": 13,
+  "citation_normalized_percentile": {
+    "value": 0.7893068,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "14",
+    "first_page": "6464",
+    "last_page": "6464"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11196",
+    "display_name": "Non-Invasive Vital Sign Monitoring",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2204",
+      "display_name": "Biomedical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11196",
+      "display_name": "Non-Invasive Vital Sign Monitoring",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11021",
+      "display_name": "ECG Monitoring and Analysis",
+      "score": 0.9908999800682068,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2705",
+        "display_name": "Cardiology and Cardiovascular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10429",
+      "display_name": "EEG and Brain-Computer Interfaces",
+      "score": 0.9854000210762024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/smartwatch",
+      "display_name": "Smartwatch",
+      "score": 0.7901995778083801
+    },
+    {
+      "id": "https://openalex.org/keywords/scalability",
+      "display_name": "Scalability",
+      "score": 0.688057541847229
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6817598938941956
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.5946172475814819
+    },
+    {
+      "id": "https://openalex.org/keywords/wearable-technology",
+      "display_name": "Wearable technology",
+      "score": 0.4101908802986145
+    },
+    {
+      "id": "https://openalex.org/keywords/real-time-computing",
+      "display_name": "Real-time computing",
+      "score": 0.3538397550582886
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.35257506370544434
+    },
+    {
+      "id": "https://openalex.org/keywords/wearable-computer",
+      "display_name": "Wearable computer",
+      "score": 0.3523808717727661
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability-engineering",
+      "display_name": "Reliability engineering",
+      "score": 0.3285773992538452
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.2264913022518158
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C29794715",
+      "wikidata": "https://www.wikidata.org/wiki/Q5362345",
+      "display_name": "Smartwatch",
+      "level": 3,
+      "score": 0.7901995778083801
+    },
+    {
+      "id": "https://openalex.org/C48044578",
+      "wikidata": "https://www.wikidata.org/wiki/Q727490",
+      "display_name": "Scalability",
+      "level": 2,
+      "score": 0.688057541847229
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6817598938941956
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.5946172475814819
+    },
+    {
+      "id": "https://openalex.org/C54290928",
+      "wikidata": "https://www.wikidata.org/wiki/Q4845080",
+      "display_name": "Wearable technology",
+      "level": 3,
+      "score": 0.4101908802986145
+    },
+    {
+      "id": "https://openalex.org/C79403827",
+      "wikidata": "https://www.wikidata.org/wiki/Q3988",
+      "display_name": "Real-time computing",
+      "level": 1,
+      "score": 0.3538397550582886
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.35257506370544434
+    },
+    {
+      "id": "https://openalex.org/C150594956",
+      "wikidata": "https://www.wikidata.org/wiki/Q1334829",
+      "display_name": "Wearable computer",
+      "level": 2,
+      "score": 0.3523808717727661
+    },
+    {
+      "id": "https://openalex.org/C200601418",
+      "wikidata": "https://www.wikidata.org/wiki/Q2193887",
+      "display_name": "Reliability engineering",
+      "level": 1,
+      "score": 0.3285773992538452
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.2264913022518158
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004562",
+      "descriptor_name": "Electrocardiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004562",
+      "descriptor_name": "Electrocardiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004562",
+      "descriptor_name": "Electrocardiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006339",
+      "descriptor_name": "Heart Rate",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006339",
+      "descriptor_name": "Heart Rate",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006339",
+      "descriptor_name": "Heart Rate",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008991",
+      "descriptor_name": "Monitoring, Physiologic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008991",
+      "descriptor_name": "Monitoring, Physiologic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008991",
+      "descriptor_name": "Monitoring, Physiologic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017132",
+      "descriptor_name": "Workplace",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017132",
+      "descriptor_name": "Workplace",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017132",
+      "descriptor_name": "Workplace",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3390/s23146464",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/s23146464",
+      "pdf_url": "https://www.mdpi.com/1424-8220/23/14/6464/pdf?version=1689591118",
+      "source": {
+        "id": "https://openalex.org/S101949793",
+        "display_name": "Sensors",
+        "issn_l": "1424-8220",
+        "issn": [
+          "1424-8220"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sensors",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37514757",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37514757",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sensors (Basel, Switzerland)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10385062",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10385062",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10385062/pdf/sensors-23-06464.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sensors (Basel)",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:3ae7786ef0d646169b08ea606d64974f",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/3ae7786ef0d646169b08ea606d64974f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sensors, Vol 23, Iss 14, p 6464 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/1424-8220/23/14/6464/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/s23146464",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sensors; Volume 23; Issue 14; Pages: 6464",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/s23146464",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/s23146464",
+    "pdf_url": "https://www.mdpi.com/1424-8220/23/14/6464/pdf?version=1689591118",
+    "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "issn_l": "1424-8220",
+      "issn": [
+        "1424-8220"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sensors",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8030676201",
+      "display_name": null,
+      "funder_award_id": "957258",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4384694713.pdf"
+  },
+  "referenced_works_count": 43,
+  "referenced_works": [
+    "https://openalex.org/W1665214252",
+    "https://openalex.org/W1696484305",
+    "https://openalex.org/W1967202115",
+    "https://openalex.org/W1978000259",
+    "https://openalex.org/W1984596947",
+    "https://openalex.org/W1988681682",
+    "https://openalex.org/W2117310055",
+    "https://openalex.org/W2127076760",
+    "https://openalex.org/W2135522403",
+    "https://openalex.org/W2170159762",
+    "https://openalex.org/W2295890767",
+    "https://openalex.org/W2475767192",
+    "https://openalex.org/W2550783935",
+    "https://openalex.org/W2618581983",
+    "https://openalex.org/W2746899083",
+    "https://openalex.org/W2783015502",
+    "https://openalex.org/W2807988688",
+    "https://openalex.org/W2912850190",
+    "https://openalex.org/W2917448342",
+    "https://openalex.org/W2943541732",
+    "https://openalex.org/W2962182608",
+    "https://openalex.org/W3005348902",
+    "https://openalex.org/W3036805627",
+    "https://openalex.org/W3067862503",
+    "https://openalex.org/W3083941446",
+    "https://openalex.org/W3087508233",
+    "https://openalex.org/W3130956469",
+    "https://openalex.org/W3133389405",
+    "https://openalex.org/W3136366894",
+    "https://openalex.org/W3164504725",
+    "https://openalex.org/W3170087796",
+    "https://openalex.org/W4221045651",
+    "https://openalex.org/W4283791586",
+    "https://openalex.org/W4287639545",
+    "https://openalex.org/W4308963722",
+    "https://openalex.org/W4319596460",
+    "https://openalex.org/W4321096498",
+    "https://openalex.org/W4328118732",
+    "https://openalex.org/W4361770648",
+    "https://openalex.org/W4384694713",
+    "https://openalex.org/W6677161943",
+    "https://openalex.org/W6784225549",
+    "https://openalex.org/W6847310496"
+  ],
+  "related_works": [
+    "https://openalex.org/W4285587629",
+    "https://openalex.org/W2765158217",
+    "https://openalex.org/W2993132146",
+    "https://openalex.org/W2599755607",
+    "https://openalex.org/W3090300519",
+    "https://openalex.org/W2514492205",
+    "https://openalex.org/W4250401876",
+    "https://openalex.org/W2943851981",
+    "https://openalex.org/W2756171776",
+    "https://openalex.org/W2971637278"
+  ],
+  "abstract_inverted_index": {
+    "Continuous,": [
+      0
+    ],
+    "real-time": [
+      1
+    ],
+    "monitoring": [
+      2,
+      67,
+      114
+    ],
+    "of": [
+      3,
+      20,
+      33,
+      54,
+      109,
+      134,
+      148,
+      154,
+      164
+    ],
+    "occupational": [
+      4
+    ],
+    "health": [
+      5,
+      61,
+      111
+    ],
+    "and": [
+      6,
+      105,
+      112,
+      139,
+      157,
+      173,
+      186,
+      196
+    ],
+    "safety": [
+      7,
+      19,
+      113
+    ],
+    "in": [
+      8,
+      26,
+      68,
+      128,
+      132,
+      179
+    ],
+    "high-risk": [
+      9
+    ],
+    "workplaces": [
+      10
+    ],
+    "such": [
+      11,
+      24,
+      35
+    ],
+    "as": [
+      12,
+      36
+    ],
+    "construction": [
+      13
+    ],
+    "sites": [
+      14
+    ],
+    "can": [
+      15
+    ],
+    "substantially": [
+      16
+    ],
+    "improve": [
+      17,
+      73
+    ],
+    "the": [
+      18,
+      39,
+      52,
+      74,
+      103,
+      106,
+      110,
+      118,
+      162,
+      165,
+      180,
+      191,
+      193,
+      200
+    ],
+    "workers.": [
+      21
+    ],
+    "However,": [
+      22
+    ],
+    "introducing": [
+      23
+    ],
+    "systems": [
+      25
+    ],
+    "practice": [
+      27
+    ],
+    "is": [
+      28,
+      85,
+      174
+    ],
+    "associated": [
+      29
+    ],
+    "with": [
+      30,
+      92,
+      102
+    ],
+    "a": [
+      31,
+      69,
+      79,
+      93,
+      129,
+      158
+    ],
+    "number": [
+      32
+    ],
+    "challenges,": [
+      34
+    ],
+    "scaling": [
+      37
+    ],
+    "up": [
+      38
+    ],
+    "solution": [
+      40
+    ],
+    "while": [
+      41
+    ],
+    "keeping": [
+      42
+    ],
+    "its": [
+      43,
+      135,
+      197
+    ],
+    "cost": [
+      44
+    ],
+    "low.": [
+      45
+    ],
+    "In": [
+      46
+    ],
+    "this": [
+      47,
+      49,
+      97,
+      167
+    ],
+    "context,": [
+      48
+    ],
+    "work": [
+      50
+    ],
+    "investigates": [
+      51
+    ],
+    "use": [
+      53
+    ],
+    "an": [
+      55,
+      142
+    ],
+    "off-the-shelf,": [
+      56
+    ],
+    "low-cost": [
+      57
+    ],
+    "smartwatch": [
+      58,
+      104,
+      201
+    ],
+    "to": [
+      59,
+      176,
+      187
+    ],
+    "detect": [
+      60
+    ],
+    "issues": [
+      62
+    ],
+    "based": [
+      63
+    ],
+    "on": [
+      64,
+      117,
+      161,
+      199
+    ],
+    "heart": [
+      65
+    ],
+    "rate": [
+      66
+    ],
+    "privacy-preserving": [
+      70
+    ],
+    "manner.": [
+      71
+    ],
+    "To": [
+      72,
+      183
+    ],
+    "smartwatch's": [
+      75
+    ],
+    "low": [
+      76
+    ],
+    "measurement": [
+      77,
+      89
+    ],
+    "quality,": [
+      78
+    ],
+    "novel,": [
+      80
+    ],
+    "frugal": [
+      81
+    ],
+    "machine": [
+      82
+    ],
+    "learning": [
+      83
+    ],
+    "method": [
+      84,
+      125,
+      168
+    ],
+    "proposed": [
+      86
+    ],
+    "that": [
+      87
+    ],
+    "corrects": [
+      88
+    ],
+    "errors,": [
+      90
+    ],
+    "along": [
+      91
+    ],
+    "new": [
+      94
+    ],
+    "dataset": [
+      95
+    ],
+    "for": [
+      96
+    ],
+    "task.": [
+      98
+    ],
+    "This": [
+      99,
+      124
+    ],
+    "method's": [
+      100
+    ],
+    "integration": [
+      101
+    ],
+    "remaining": [
+      107
+    ],
+    "parts": [
+      108
+    ],
+    "system": [
+      115
+    ],
+    "(built": [
+      116
+    ],
+    "ASSIST-IoT": [
+      119
+    ],
+    "reference": [
+      120
+    ],
+    "architecture)": [
+      121
+    ],
+    "are": [
+      122
+    ],
+    "presented.": [
+      123
+    ],
+    "was": [
+      126
+    ],
+    "evaluated": [
+      127
+    ],
+    "laboratory": [
+      130
+    ],
+    "environment": [
+      131
+    ],
+    "terms": [
+      133
+    ],
+    "accuracy,": [
+      136
+    ],
+    "computational": [
+      137
+    ],
+    "requirements,": [
+      138
+    ],
+    "frugality.": [
+      140
+    ],
+    "With": [
+      141
+    ],
+    "experimentally": [
+      143
+    ],
+    "established": [
+      144
+    ],
+    "mean": [
+      145
+    ],
+    "absolute": [
+      146
+    ],
+    "error": [
+      147
+    ],
+    "8.19": [
+      149
+    ],
+    "BPM,": [
+      150
+    ],
+    "only": [
+      151
+    ],
+    "880": [
+      152
+    ],
+    "bytes": [
+      153
+    ],
+    "required": [
+      155
+    ],
+    "memory,": [
+      156
+    ],
+    "negligible": [
+      159
+    ],
+    "impact": [
+      160
+    ],
+    "performance": [
+      163
+    ],
+    "device,": [
+      166
+    ],
+    "meets": [
+      169
+    ],
+    "all": [
+      170
+    ],
+    "relevant": [
+      171
+    ],
+    "requirements": [
+      172
+    ],
+    "expected": [
+      175
+    ],
+    "be": [
+      177
+    ],
+    "field-tested": [
+      178
+    ],
+    "coming": [
+      181
+    ],
+    "months.": [
+      182
+    ],
+    "support": [
+      184
+    ],
+    "reproducibility": [
+      185
+    ],
+    "encourage": [
+      188
+    ],
+    "alternative": [
+      189
+    ],
+    "approaches,": [
+      190
+    ],
+    "dataset,": [
+      192
+    ],
+    "trained": [
+      194
+    ],
+    "model,": [
+      195
+    ],
+    "implementation": [
+      198
+    ],
+    "were": [
+      202
+    ],
+    "published": [
+      203
+    ],
+    "under": [
+      204
+    ],
+    "free": [
+      205
+    ],
+    "licenses.": [
+      206
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

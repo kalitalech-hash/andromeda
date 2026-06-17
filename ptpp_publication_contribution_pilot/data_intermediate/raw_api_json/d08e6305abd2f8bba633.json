@@ -1,0 +1,1345 @@
+{
+  "id": "https://openalex.org/W4390989952",
+  "doi": "https://doi.org/10.1088/1748-0221/19/01/p01019",
+  "title": "Comparison of readout systems for high-rate silicon photomultiplier applications",
+  "display_name": "Comparison of readout systems for high-rate silicon photomultiplier applications",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4390989952",
+    "doi": "https://doi.org/10.1088/1748-0221/19/01/p01019"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1088/1748-0221/19/01/p01019",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1748-0221/19/01/p01019",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01019/pdf",
+    "source": {
+      "id": "https://openalex.org/S116045149",
+      "display_name": "Journal of Instrumentation",
+      "issn_l": "1748-0221",
+      "issn": [
+        "1748-0221"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311669",
+      "host_organization_name": "Institute of Physics",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Instrumentation",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01019/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5068587387",
+        "display_name": "Ming-Liang Wong",
+        "orcid": "https://orcid.org/0000-0002-9530-1222"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "M.L. Wong",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9530-1222",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101903654",
+        "display_name": "Magdalena Kołodziej",
+        "orcid": "https://orcid.org/0000-0001-8016-9495"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Kołodziej",
+      "raw_affiliation_strings": [
+        "Doctoral School of Exact and Natural Sciences, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8016-9495",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Doctoral School of Exact and Natural Sciences, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052452228",
+        "display_name": "Konrad Briggl",
+        "orcid": "https://orcid.org/0000-0003-0274-8023"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I223822909",
+          "display_name": "Heidelberg University",
+          "ror": "https://ror.org/038t36y30",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I223822909"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210128947",
+          "display_name": "Kirchhoff (Germany)",
+          "ror": "https://ror.org/031fvch84",
+          "country_code": "DE",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210128947"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "K. Briggl",
+      "raw_affiliation_strings": [
+        "Kirchhoff-Institute for Physics, Heidelberg University, Im Neuenheimer Feld 227, Heidelberg, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0274-8023",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Kirchhoff-Institute for Physics, Heidelberg University, Im Neuenheimer Feld 227, Heidelberg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I223822909",
+            "https://openalex.org/I4210128947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037141896",
+        "display_name": "Ronja Hetzel",
+        "orcid": "https://orcid.org/0000-0002-6142-6609"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R. Hetzel",
+      "raw_affiliation_strings": [
+        "III. Physikalisches Institut B, RWTH Aachen University, Templergraben 55, Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6142-6609",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, Templergraben 55, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031765383",
+        "display_name": "G. Korcyl",
+        "orcid": "https://orcid.org/0000-0001-6244-7287"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "G. Korcyl",
+      "raw_affiliation_strings": [
+        "Institute of Applied Computer Science, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6244-7287",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Computer Science, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001570504",
+        "display_name": "R. Lalik",
+        "orcid": "https://orcid.org/0000-0003-1313-3729"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R. Lalik",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1313-3729",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026718551",
+        "display_name": "A. Malige",
+        "orcid": "https://orcid.org/0000-0002-5855-2372"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I78577930",
+          "display_name": "Columbia University",
+          "ror": "https://ror.org/00hj8s172",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I78577930"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Malige",
+      "raw_affiliation_strings": [
+        "Department of Physics, Columbia University, 538 W 120 St, New York, U.S.A"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5855-2372",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Physics, Columbia University, 538 W 120 St, New York, U.S.A",
+          "institution_ids": [
+            "https://openalex.org/I78577930"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051674295",
+        "display_name": "A. Magiera",
+        "orcid": "https://orcid.org/0000-0002-7561-6366"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Magiera",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7561-6366",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093470952",
+        "display_name": "Gabriel Ostrzołek",
+        "orcid": "https://orcid.org/0009-0007-3108-7910"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "G. Ostrzołek",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0007-3108-7910",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053480752",
+        "display_name": "Katarzyna Rusiecka",
+        "orcid": "https://orcid.org/0000-0003-2554-0612"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "K. Rusiecka",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2554-0612",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055290893",
+        "display_name": "A. Stahl",
+        "orcid": "https://orcid.org/0000-0002-8369-7506"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Stahl",
+      "raw_affiliation_strings": [
+        "III. Physikalisches Institut B, RWTH Aachen University, Templergraben 55, Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8369-7506",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, Templergraben 55, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039834374",
+        "display_name": "Vitalii Urbanevych",
+        "orcid": "https://orcid.org/0000-0002-1858-4708"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V. Urbanevych",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1858-4708",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009375043",
+        "display_name": "M. G. Wiebusch",
+        "orcid": "https://orcid.org/0000-0003-0381-9022"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169556180",
+          "display_name": "GSI Helmholtz Centre for Heavy Ion Research",
+          "ror": "https://ror.org/02k8cbn47",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I169556180"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Wiebusch",
+      "raw_affiliation_strings": [
+        "Experimentelektronik, GSI Helmholtzzentrum für Schwerionenforschung GmbH, Planckstraße 1, Darmstadt, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0381-9022",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Experimentelektronik, GSI Helmholtzzentrum für Schwerionenforschung GmbH, Planckstraße 1, Darmstadt, Germany",
+          "institution_ids": [
+            "https://openalex.org/I169556180"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5103275204",
+        "display_name": "A. Wrońska",
+        "orcid": "https://orcid.org/0000-0003-0126-3315"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Wrońska",
+      "raw_affiliation_strings": [
+        "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0126-3315",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "M. Smoluchowski Institute of Physics, Jagiellonian University, prof. Stanisława Łojasiewicza 11, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 14,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5031765383",
+    "https://openalex.org/A5068587387",
+    "https://openalex.org/A5093470952"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.0596,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.71860309,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "19",
+    "issue": "01",
+    "first_page": "P01019",
+    "last_page": "P01019"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11216",
+    "display_name": "Radiation Detection and Scintillator Technologies",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3108",
+      "display_name": "Radiation"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11216",
+      "display_name": "Radiation Detection and Scintillator Technologies",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11949",
+      "display_name": "Nuclear Physics and Applications",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11176",
+      "display_name": "Radiation Therapy and Dosimetry",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/silicon-photomultiplier",
+      "display_name": "Silicon photomultiplier",
+      "score": 0.9694485664367676
+    },
+    {
+      "id": "https://openalex.org/keywords/detector",
+      "display_name": "Detector",
+      "score": 0.6694144010543823
+    },
+    {
+      "id": "https://openalex.org/keywords/photomultiplier",
+      "display_name": "Photomultiplier",
+      "score": 0.6598364114761353
+    },
+    {
+      "id": "https://openalex.org/keywords/dynamic-range",
+      "display_name": "Dynamic range",
+      "score": 0.5268862247467041
+    },
+    {
+      "id": "https://openalex.org/keywords/dead-time",
+      "display_name": "Dead time",
+      "score": 0.49959492683410645
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.48565447330474854
+    },
+    {
+      "id": "https://openalex.org/keywords/wide-dynamic-range",
+      "display_name": "Wide dynamic range",
+      "score": 0.4310384690761566
+    },
+    {
+      "id": "https://openalex.org/keywords/power-consumption",
+      "display_name": "Power consumption",
+      "score": 0.4285685122013092
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.3701055645942688
+    },
+    {
+      "id": "https://openalex.org/keywords/electrical-engineering",
+      "display_name": "Electrical engineering",
+      "score": 0.33165669441223145
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-hardware",
+      "display_name": "Computer hardware",
+      "score": 0.3233329653739929
+    },
+    {
+      "id": "https://openalex.org/keywords/power",
+      "display_name": "Power (physics)",
+      "score": 0.3203524947166443
+    },
+    {
+      "id": "https://openalex.org/keywords/scintillator",
+      "display_name": "Scintillator",
+      "score": 0.2225189208984375
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.21461650729179382
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.14669227600097656
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.10800230503082275
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C104335537",
+      "wikidata": "https://www.wikidata.org/wiki/Q1085747",
+      "display_name": "Silicon photomultiplier",
+      "level": 4,
+      "score": 0.9694485664367676
+    },
+    {
+      "id": "https://openalex.org/C94915269",
+      "wikidata": "https://www.wikidata.org/wiki/Q1834857",
+      "display_name": "Detector",
+      "level": 2,
+      "score": 0.6694144010543823
+    },
+    {
+      "id": "https://openalex.org/C113879476",
+      "wikidata": "https://www.wikidata.org/wiki/Q61897384",
+      "display_name": "Photomultiplier",
+      "level": 3,
+      "score": 0.6598364114761353
+    },
+    {
+      "id": "https://openalex.org/C87133666",
+      "wikidata": "https://www.wikidata.org/wiki/Q1161699",
+      "display_name": "Dynamic range",
+      "level": 2,
+      "score": 0.5268862247467041
+    },
+    {
+      "id": "https://openalex.org/C159484563",
+      "wikidata": "https://www.wikidata.org/wiki/Q628723",
+      "display_name": "Dead time",
+      "level": 2,
+      "score": 0.49959492683410645
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.48565447330474854
+    },
+    {
+      "id": "https://openalex.org/C2776179129",
+      "wikidata": "https://www.wikidata.org/wiki/Q7998640",
+      "display_name": "Wide dynamic range",
+      "level": 2,
+      "score": 0.4310384690761566
+    },
+    {
+      "id": "https://openalex.org/C2984118289",
+      "wikidata": "https://www.wikidata.org/wiki/Q29954",
+      "display_name": "Power consumption",
+      "level": 3,
+      "score": 0.4285685122013092
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.3701055645942688
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.33165669441223145
+    },
+    {
+      "id": "https://openalex.org/C9390403",
+      "wikidata": "https://www.wikidata.org/wiki/Q3966",
+      "display_name": "Computer hardware",
+      "level": 1,
+      "score": 0.3233329653739929
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.3203524947166443
+    },
+    {
+      "id": "https://openalex.org/C161694136",
+      "wikidata": "https://www.wikidata.org/wiki/Q910990",
+      "display_name": "Scintillator",
+      "level": 3,
+      "score": 0.2225189208984375
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.21461650729179382
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.14669227600097656
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.10800230503082275
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1088/1748-0221/19/01/p01019",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1088/1748-0221/19/01/p01019",
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01019/pdf",
+      "source": {
+        "id": "https://openalex.org/S116045149",
+        "display_name": "Journal of Instrumentation",
+        "issn_l": "1748-0221",
+        "issn": [
+          "1748-0221"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311669",
+        "host_organization_name": "Institute of Physics",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Instrumentation",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/327343",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/327343",
+      "pdf_url": "http://ruj.uj.edu.pl/bitstreams/2fa9fd78-cdda-4409-bd44-6b02cf98cf99/download",
+      "source": {
+        "id": "https://openalex.org/S4306400316",
+        "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "artykuł w czasopiśmie"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1088/1748-0221/19/01/p01019",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1748-0221/19/01/p01019",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01019/pdf",
+    "source": {
+      "id": "https://openalex.org/S116045149",
+      "display_name": "Journal of Instrumentation",
+      "issn_l": "1748-0221",
+      "issn": [
+        "1748-0221"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311669",
+      "host_organization_name": "Institute of Physics",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Instrumentation",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.9100000262260437,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4390989952.pdf"
+  },
+  "referenced_works_count": 29,
+  "referenced_works": [
+    "https://openalex.org/W2030810464",
+    "https://openalex.org/W2043027482",
+    "https://openalex.org/W2071450958",
+    "https://openalex.org/W2101107848",
+    "https://openalex.org/W2102562921",
+    "https://openalex.org/W2109353530",
+    "https://openalex.org/W2174497067",
+    "https://openalex.org/W2200766025",
+    "https://openalex.org/W2473221512",
+    "https://openalex.org/W2545619498",
+    "https://openalex.org/W2772290661",
+    "https://openalex.org/W2790470968",
+    "https://openalex.org/W2803541638",
+    "https://openalex.org/W2969931670",
+    "https://openalex.org/W2973914871",
+    "https://openalex.org/W3017143864",
+    "https://openalex.org/W3046263430",
+    "https://openalex.org/W3081249747",
+    "https://openalex.org/W3101426474",
+    "https://openalex.org/W3102833296",
+    "https://openalex.org/W3128121897",
+    "https://openalex.org/W3211791277",
+    "https://openalex.org/W4200020507",
+    "https://openalex.org/W4200587381",
+    "https://openalex.org/W4207075430",
+    "https://openalex.org/W4226082832",
+    "https://openalex.org/W4232928953",
+    "https://openalex.org/W4311168987",
+    "https://openalex.org/W6675515830"
+  ],
+  "related_works": [
+    "https://openalex.org/W2295222028",
+    "https://openalex.org/W2030171141",
+    "https://openalex.org/W4385733096",
+    "https://openalex.org/W1991661439",
+    "https://openalex.org/W2053377655",
+    "https://openalex.org/W2041213051",
+    "https://openalex.org/W1986230200",
+    "https://openalex.org/W2011470011",
+    "https://openalex.org/W1986962734",
+    "https://openalex.org/W785445970"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Recent": [
+      1
+    ],
+    "years": [
+      2
+    ],
+    "have": [
+      3,
+      20
+    ],
+    "shown": [
+      4
+    ],
+    "an": [
+      5
+    ],
+    "increased": [
+      6
+    ],
+    "use": [
+      7,
+      57
+    ],
+    "of": [
+      8,
+      17,
+      32,
+      40,
+      58,
+      78,
+      86,
+      108
+    ],
+    "silicon": [
+      9
+    ],
+    "photomultipliers": [
+      10
+    ],
+    "(SiPM)": [
+      11
+    ],
+    "in": [
+      12,
+      29,
+      101
+    ],
+    "experiments": [
+      13,
+      47
+    ],
+    "as": [
+      14
+    ],
+    "they": [
+      15
+    ],
+    "are": [
+      16,
+      26,
+      48,
+      88,
+      111
+    ],
+    "reasonable": [
+      18
+    ],
+    "cost,": [
+      19
+    ],
+    "relatively": [
+      21
+    ],
+    "low": [
+      22
+    ],
+    "power": [
+      23
+    ],
+    "consumption": [
+      24
+    ],
+    "and": [
+      25,
+      75
+    ],
+    "easily": [
+      27
+    ],
+    "available": [
+      28
+    ],
+    "a": [
+      30,
+      37,
+      99,
+      102
+    ],
+    "variety": [
+      31
+    ],
+    "form": [
+      33
+    ],
+    "factors": [
+      34
+    ],
+    "allowing": [
+      35
+    ],
+    "for": [
+      36,
+      95
+    ],
+    "large": [
+      38
+    ],
+    "number": [
+      39
+    ],
+    "readout": [
+      41,
+      61,
+      81
+    ],
+    "channels.": [
+      42
+    ],
+    "At": [
+      43
+    ],
+    "the": [
+      44,
+      56,
+      66,
+      92,
+      109
+    ],
+    "same": [
+      45
+    ],
+    "time,": [
+      46,
+      68
+    ],
+    "generating": [
+      49
+    ],
+    "data": [
+      50,
+      97
+    ],
+    "at": [
+      51,
+      83
+    ],
+    "increasingly": [
+      52
+    ],
+    "high": [
+      53,
+      103
+    ],
+    "rates": [
+      54
+    ],
+    "requiring": [
+      55
+    ],
+    "more": [
+      59
+    ],
+    "efficient": [
+      60
+    ],
+    "systems.": [
+      62
+    ],
+    "In": [
+      63
+    ],
+    "this": [
+      64
+    ],
+    "work,": [
+      65
+    ],
+    "dead": [
+      67
+    ],
+    "efficiency,": [
+      69
+    ],
+    "dynamic": [
+      70
+    ],
+    "range,": [
+      71
+    ],
+    "coincidence": [
+      72
+    ],
+    "time": [
+      73
+    ],
+    "resolution": [
+      74,
+      77
+    ],
+    "energy": [
+      76
+    ],
+    "five": [
+      79
+    ],
+    "different": [
+      80
+    ],
+    "systems": [
+      82,
+      110
+    ],
+    "various": [
+      84
+    ],
+    "stages": [
+      85
+    ],
+    "maturity": [
+      87
+    ],
+    "evaluated": [
+      89
+    ],
+    "to": [
+      90
+    ],
+    "determine": [
+      91
+    ],
+    "best": [
+      93
+    ],
+    "system": [
+      94
+    ],
+    "acquiring": [
+      96
+    ],
+    "from": [
+      98
+    ],
+    "detector": [
+      100
+    ],
+    "rate": [
+      104
+    ],
+    "experiment.": [
+      105
+    ],
+    "Additional": [
+      106
+    ],
+    "functionalities": [
+      107
+    ],
+    "also": [
+      112
+    ],
+    "discussed.": [
+      113
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

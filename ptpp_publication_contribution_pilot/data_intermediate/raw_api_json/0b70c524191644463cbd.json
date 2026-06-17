@@ -1,0 +1,1562 @@
+{
+  "id": "https://openalex.org/W3093207601",
+  "doi": "https://doi.org/10.1016/j.isci.2020.101668",
+  "title": "Pharmacological Inhibition of ATR Can Block Autophagy through an ATR-Independent Mechanism",
+  "display_name": "Pharmacological Inhibition of ATR Can Block Autophagy through an ATR-Independent Mechanism",
+  "publication_year": 2020,
+  "publication_date": "2020-10-14",
+  "ids": {
+    "openalex": "https://openalex.org/W3093207601",
+    "doi": "https://doi.org/10.1016/j.isci.2020.101668",
+    "mag": "3093207601",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33134898"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.isci.2020.101668",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.isci.2020.101668",
+    "pdf_url": "http://www.cell.com/article/S2589004220308609/pdf",
+    "source": {
+      "id": "https://openalex.org/S2898358376",
+      "display_name": "iScience",
+      "issn_l": "2589-0042",
+      "issn": [
+        "2589-0042"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "iScience",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.cell.com/article/S2589004220308609/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001458356",
+        "display_name": "Elizabeth Bowler",
+        "orcid": "https://orcid.org/0000-0003-0808-1653"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth Bowler",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0808-1653",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003340533",
+        "display_name": "Anna Skwarska",
+        "orcid": "https://orcid.org/0000-0002-0979-026X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Skwarska",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0979-026X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043601277",
+        "display_name": "Joseph D. Wilson",
+        "orcid": "https://orcid.org/0000-0001-8878-5882"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joseph D. Wilson",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8878-5882",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021256948",
+        "display_name": "Shaliny Ramachandran",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shaliny Ramachandran",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021805123",
+        "display_name": "Hannah R. Bolland",
+        "orcid": "https://orcid.org/0000-0003-3740-1046"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hannah Bolland",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3740-1046",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083633476",
+        "display_name": "Alistair Easton",
+        "orcid": "https://orcid.org/0000-0001-8148-5406"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210158028",
+          "display_name": "Cancer Research UK Oxford Centre",
+          "ror": "https://ror.org/05kgg0s20",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210147381",
+            "https://openalex.org/I4210158028"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alistair Easton",
+      "raw_affiliation_strings": [
+        "Translational Histopathology Lab, Oxford Cancer Centre, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8148-5406",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Translational Histopathology Lab, Oxford Cancer Centre, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210158028"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013436966",
+        "display_name": "C. Ostheimer",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Ostheimer",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077829245",
+        "display_name": "Ming‐Shih Hwang",
+        "orcid": "https://orcid.org/0000-0001-9044-3099"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ming-Shih Hwang",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9044-3099",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044365051",
+        "display_name": "Katarzyna B. Leszczyńska",
+        "orcid": "https://orcid.org/0000-0002-3504-1553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna B. Leszczynska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3504-1553",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005006946",
+        "display_name": "Stuart J. Conway",
+        "orcid": "https://orcid.org/0000-0002-5148-117X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stuart J. Conway",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5148-117X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, UK",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018081801",
+        "display_name": "Ester M. Hammond",
+        "orcid": "https://orcid.org/0000-0002-2335-3146"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ester M. Hammond",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2335-3146",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, The University of Oxford, Oxford OX3 7DQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5018081801"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I40120149",
+    "https://openalex.org/I4210106471"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "fwci": 0.7773,
+  "has_fulltext": false,
+  "cited_by_count": 14,
+  "citation_normalized_percentile": {
+    "value": 0.68052847,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "11",
+    "first_page": "101668",
+    "last_page": "101668"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11150",
+    "display_name": "Endoplasmic Reticulum Stress and Disease",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1307",
+      "display_name": "Cell Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11150",
+      "display_name": "Endoplasmic Reticulum Stress and Disease",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10587",
+      "display_name": "Autophagy in Disease and Therapy",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10294",
+      "display_name": "Cell death mechanisms and regulation",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/autophagy",
+      "display_name": "Autophagy",
+      "score": 0.91106116771698
+    },
+    {
+      "id": "https://openalex.org/keywords/kinase",
+      "display_name": "Kinase",
+      "score": 0.4948658347129822
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanism",
+      "display_name": "Mechanism (biology)",
+      "score": 0.4580908715724945
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.43532896041870117
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-culture",
+      "display_name": "Cell culture",
+      "score": 0.43495672941207886
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.40537887811660767
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.331967294216156
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.3138355016708374
+    },
+    {
+      "id": "https://openalex.org/keywords/apoptosis",
+      "display_name": "Apoptosis",
+      "score": 0.13232597708702087
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.09108737111091614
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C203522944",
+      "wikidata": "https://www.wikidata.org/wiki/Q288322",
+      "display_name": "Autophagy",
+      "level": 3,
+      "score": 0.91106116771698
+    },
+    {
+      "id": "https://openalex.org/C184235292",
+      "wikidata": "https://www.wikidata.org/wiki/Q421851",
+      "display_name": "Kinase",
+      "level": 2,
+      "score": 0.4948658347129822
+    },
+    {
+      "id": "https://openalex.org/C89611455",
+      "wikidata": "https://www.wikidata.org/wiki/Q6804646",
+      "display_name": "Mechanism (biology)",
+      "level": 2,
+      "score": 0.4580908715724945
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.43532896041870117
+    },
+    {
+      "id": "https://openalex.org/C81885089",
+      "wikidata": "https://www.wikidata.org/wiki/Q189082",
+      "display_name": "Cell culture",
+      "level": 2,
+      "score": 0.43495672941207886
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.40537887811660767
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.331967294216156
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.3138355016708374
+    },
+    {
+      "id": "https://openalex.org/C190283241",
+      "wikidata": "https://www.wikidata.org/wiki/Q14599311",
+      "display_name": "Apoptosis",
+      "level": 2,
+      "score": 0.13232597708702087
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.09108737111091614
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.isci.2020.101668",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.isci.2020.101668",
+      "pdf_url": "http://www.cell.com/article/S2589004220308609/pdf",
+      "source": {
+        "id": "https://openalex.org/S2898358376",
+        "display_name": "iScience",
+        "issn_l": "2589-0042",
+        "issn": [
+          "2589-0042"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "iScience",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33134898",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33134898",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "iScience",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:9101f532972247d3b9744910af5a4602",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/9101f532972247d3b9744910af5a4602",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "iScience, Vol 23, Iss 11, Pp 101668- (2020)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:6536974",
+      "is_oa": false,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC7588853",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:ora.ox.ac.uk:uuid:c5b7b0c7-49d5-41bf-b1c5-2db7b105bdff",
+      "is_oa": true,
+      "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:c5b7b0c7-49d5-41bf-b1c5-2db7b105bdff",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402636",
+        "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I40120149",
+        "host_organization_name": "University of Oxford",
+        "host_organization_lineage": [
+          "https://openalex.org/I40120149"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Symplectic Elements",
+      "raw_type": "Journal article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7588853",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7588853",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "iScience",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.isci.2020.101668",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.isci.2020.101668",
+    "pdf_url": "http://www.cell.com/article/S2589004220308609/pdf",
+    "source": {
+      "id": "https://openalex.org/S2898358376",
+      "display_name": "iScience",
+      "issn_l": "2589-0042",
+      "issn": [
+        "2589-0042"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "iScience",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.8100000023841858
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3802636750",
+      "display_name": null,
+      "funder_award_id": "EP/S019901/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G7446058286",
+      "display_name": null,
+      "funder_award_id": "MR/N009460/1",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320319985",
+      "display_name": "Cancer Research UK",
+      "ror": "https://ror.org/054225q67"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    },
+    {
+      "id": "https://openalex.org/F4320334627",
+      "display_name": "Engineering and Physical Sciences Research Council",
+      "ror": "https://ror.org/0439y7842"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3093207601.pdf"
+  },
+  "referenced_works_count": 32,
+  "referenced_works": [
+    "https://openalex.org/W1800944583",
+    "https://openalex.org/W1969310368",
+    "https://openalex.org/W1997581921",
+    "https://openalex.org/W2095215050",
+    "https://openalex.org/W2149841333",
+    "https://openalex.org/W2327887515",
+    "https://openalex.org/W2335332173",
+    "https://openalex.org/W2417546716",
+    "https://openalex.org/W2466321927",
+    "https://openalex.org/W2471420689",
+    "https://openalex.org/W2554366527",
+    "https://openalex.org/W2555458952",
+    "https://openalex.org/W2580339440",
+    "https://openalex.org/W2593370060",
+    "https://openalex.org/W2611224317",
+    "https://openalex.org/W2745330422",
+    "https://openalex.org/W2748137738",
+    "https://openalex.org/W2752326209",
+    "https://openalex.org/W2773572971",
+    "https://openalex.org/W2784022040",
+    "https://openalex.org/W2784311670",
+    "https://openalex.org/W2790226049",
+    "https://openalex.org/W2792213332",
+    "https://openalex.org/W2795845448",
+    "https://openalex.org/W2810414233",
+    "https://openalex.org/W2897726163",
+    "https://openalex.org/W2912622559",
+    "https://openalex.org/W2914013234",
+    "https://openalex.org/W2968590403",
+    "https://openalex.org/W2978188039",
+    "https://openalex.org/W2982034959",
+    "https://openalex.org/W3084874923"
+  ],
+  "related_works": [
+    "https://openalex.org/W3150996080",
+    "https://openalex.org/W2498134948",
+    "https://openalex.org/W3151903987",
+    "https://openalex.org/W3149538430",
+    "https://openalex.org/W2382353027",
+    "https://openalex.org/W3141893332",
+    "https://openalex.org/W18792685",
+    "https://openalex.org/W4389990101",
+    "https://openalex.org/W4391787356",
+    "https://openalex.org/W1888956084"
+  ],
+  "abstract_inverted_index": {
+    "Inhibition": [
+      0
+    ],
+    "of": [
+      1,
+      18,
+      68,
+      83,
+      88,
+      112,
+      149
+    ],
+    "the": [
+      2,
+      16,
+      36,
+      65,
+      69,
+      101,
+      110,
+      126,
+      135,
+      147
+    ],
+    "ATR": [
+      3,
+      33,
+      45,
+      56,
+      66,
+      73,
+      127,
+      140
+    ],
+    "kinase": [
+      4
+    ],
+    "has": [
+      5,
+      131
+    ],
+    "emerged": [
+      6
+    ],
+    "as": [
+      7
+    ],
+    "a": [
+      8,
+      29,
+      89
+    ],
+    "therapeutically": [
+      9
+    ],
+    "attractive": [
+      10
+    ],
+    "means": [
+      11
+    ],
+    "to": [
+      12,
+      54,
+      63,
+      78,
+      80,
+      125,
+      138
+    ],
+    "target": [
+      13
+    ],
+    "cancer": [
+      14,
+      41
+    ],
+    "since": [
+      15
+    ],
+    "development": [
+      17
+    ],
+    "potent": [
+      19
+    ],
+    "inhibitors,": [
+      20
+    ],
+    "which": [
+      21,
+      142
+    ],
+    "are": [
+      22
+    ],
+    "now": [
+      23
+    ],
+    "in": [
+      24,
+      39,
+      49,
+      94,
+      99,
+      115,
+      143
+    ],
+    "clinical": [
+      25,
+      50,
+      136
+    ],
+    "testing.": [
+      26,
+      51
+    ],
+    "We": [
+      27
+    ],
+    "investigated": [
+      28
+    ],
+    "potential": [
+      30
+    ],
+    "link": [
+      31
+    ],
+    "between": [
+      32
+    ],
+    "inhibition": [
+      34
+    ],
+    "and": [
+      35,
+      85,
+      98,
+      119
+    ],
+    "autophagy": [
+      37
+    ],
+    "process": [
+      38
+    ],
+    "esophageal": [
+      40
+    ],
+    "cells": [
+      42
+    ],
+    "using": [
+      43
+    ],
+    "four": [
+      44
+    ],
+    "inhibitors": [
+      46,
+      57
+    ],
+    "including": [
+      47
+    ],
+    "two": [
+      48
+    ],
+    "The": [
+      52,
+      72
+    ],
+    "response": [
+      53,
+      124,
+      137
+    ],
+    "pharmacological": [
+      55,
+      139
+    ],
+    "was": [
+      58,
+      76,
+      120
+    ],
+    "compared": [
+      59
+    ],
+    "with": [
+      60
+    ],
+    "genetic": [
+      61
+    ],
+    "systems": [
+      62
+    ],
+    "investigate": [
+      64
+    ],
+    "dependence": [
+      67
+    ],
+    "effects": [
+      70
+    ],
+    "observed.": [
+      71
+    ],
+    "inhibitor,": [
+      74
+    ],
+    "VX-970,": [
+      75
+    ],
+    "found": [
+      77
+    ],
+    "lead": [
+      79
+    ],
+    "an": [
+      81,
+      116,
+      122
+    ],
+    "accumulation": [
+      82,
+      111
+    ],
+    "p62": [
+      84,
+      95,
+      113
+    ],
+    "LC3-II": [
+      86
+    ],
+    "indicative": [
+      87
+    ],
+    "blocked": [
+      90
+    ],
+    "autophagy.": [
+      91,
+      150
+    ],
+    "This": [
+      92,
+      129
+    ],
+    "increase": [
+      93
+    ],
+    "occurred": [
+      96,
+      114
+    ],
+    "post-transcriptionally": [
+      97
+    ],
+    "all": [
+      100
+    ],
+    "cell": [
+      102
+    ],
+    "lines": [
+      103
+    ],
+    "tested.": [
+      104
+    ],
+    "However,": [
+      105
+    ],
+    "our": [
+      106
+    ],
+    "data": [
+      107
+    ],
+    "indicate": [
+      108
+    ],
+    "that": [
+      109
+    ],
+    "ATR-independent": [
+      117
+    ],
+    "manner": [
+      118
+    ],
+    "instead": [
+      121
+    ],
+    "off-target": [
+      123
+    ],
+    "inhibitor.": [
+      128
+    ],
+    "study": [
+      130
+    ],
+    "important": [
+      132
+    ],
+    "implications": [
+      133
+    ],
+    "for": [
+      134
+    ],
+    "inhibition,": [
+      141
+    ],
+    "some": [
+      144
+    ],
+    "cases": [
+      145
+    ],
+    "includes": [
+      146
+    ],
+    "blockage": [
+      148
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-05-22T06:13:13.366637",
+  "created_date": "2025-10-10T00:00:00"
+}

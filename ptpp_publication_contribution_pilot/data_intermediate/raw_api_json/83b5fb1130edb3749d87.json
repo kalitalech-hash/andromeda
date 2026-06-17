@@ -1,0 +1,722 @@
+{
+  "id": "https://openalex.org/W2799993181",
+  "doi": "https://doi.org/10.1016/j.molliq.2018.04.098",
+  "title": "Investigation of the influence of β-cyclodextrin on cholesterol lodgement — A molecular dynamics simulation study",
+  "display_name": "Investigation of the influence of β-cyclodextrin on cholesterol lodgement — A molecular dynamics simulation study",
+  "publication_year": 2018,
+  "publication_date": "2018-04-24",
+  "ids": {
+    "openalex": "https://openalex.org/W2799993181",
+    "doi": "https://doi.org/10.1016/j.molliq.2018.04.098",
+    "mag": "2799993181"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.molliq.2018.04.098",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.molliq.2018.04.098",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S189140625",
+      "display_name": "Journal of Molecular Liquids",
+      "issn_l": "0167-7322",
+      "issn": [
+        "0167-7322",
+        "1873-3166"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Molecular Liquids",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5052007149",
+        "display_name": "D. Makieła",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I864159182",
+          "display_name": "University of Silesia in Katowice",
+          "ror": "https://ror.org/0104rcc94",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Damian Makieła",
+      "raw_affiliation_strings": [
+        "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+        "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008429489",
+        "display_name": "Iwona Janus-Zygmunt",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I864159182",
+          "display_name": "University of Silesia in Katowice",
+          "ror": "https://ror.org/0104rcc94",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iwona Janus-Zygmunt",
+      "raw_affiliation_strings": [
+        "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+        "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061150147",
+        "display_name": "Krzysztof Górny",
+        "orcid": "https://orcid.org/0000-0001-9472-0620"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I864159182",
+          "display_name": "University of Silesia in Katowice",
+          "ror": "https://ror.org/0104rcc94",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Górny",
+      "raw_affiliation_strings": [
+        "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+        "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9472-0620",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5025506620",
+        "display_name": "Z. Gburski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I864159182",
+          "display_name": "University of Silesia in Katowice",
+          "ror": "https://ror.org/0104rcc94",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zygmunt Gburski",
+      "raw_affiliation_strings": [
+        "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+        "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Institute of Physics, 75 Pułku Piechoty 1, 41-500 Chorzów, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Silesia in Katowice, Silesian Centre of Education & Interdisciplinary Research, 75 Pułku Piechoty 1a, Chorzów 41-500, Poland",
+          "institution_ids": [
+            "https://openalex.org/I864159182"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5025506620"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210086947",
+    "https://openalex.org/I864159182"
+  ],
+  "apc_list": {
+    "value": 3380,
+    "currency": "USD",
+    "value_usd": 3380
+  },
+  "apc_paid": null,
+  "fwci": 0.9181,
+  "has_fulltext": false,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.76087044,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "262",
+    "issue": null,
+    "first_page": "451",
+    "last_page": "459"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11721",
+    "display_name": "Blood properties and coagulation",
+    "score": 0.9926000237464905,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11721",
+      "display_name": "Blood properties and coagulation",
+      "score": 0.9926000237464905,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11379",
+      "display_name": "Rheology and Fluid Dynamics Studies",
+      "score": 0.9864000082015991,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1507",
+        "display_name": "Fluid Flow and Transfer Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12793",
+      "display_name": "Caveolin-1 and cellular processes",
+      "score": 0.9794999957084656,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cyclodextrin",
+      "display_name": "Cyclodextrin",
+      "score": 0.7789750695228577
+    },
+    {
+      "id": "https://openalex.org/keywords/molecule",
+      "display_name": "Molecule",
+      "score": 0.6903642416000366
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.6602517366409302
+    },
+    {
+      "id": "https://openalex.org/keywords/cholesterol",
+      "display_name": "Cholesterol",
+      "score": 0.6538874506950378
+    },
+    {
+      "id": "https://openalex.org/keywords/bioavailability",
+      "display_name": "Bioavailability",
+      "score": 0.620927631855011
+    },
+    {
+      "id": "https://openalex.org/keywords/solubility",
+      "display_name": "Solubility",
+      "score": 0.5614479780197144
+    },
+    {
+      "id": "https://openalex.org/keywords/molecular-dynamics",
+      "display_name": "Molecular dynamics",
+      "score": 0.5262340903282166
+    },
+    {
+      "id": "https://openalex.org/keywords/aqueous-solution",
+      "display_name": "Aqueous solution",
+      "score": 0.4726918041706085
+    },
+    {
+      "id": "https://openalex.org/keywords/nanomedicine",
+      "display_name": "Nanomedicine",
+      "score": 0.4276667833328247
+    },
+    {
+      "id": "https://openalex.org/keywords/combinatorial-chemistry",
+      "display_name": "Combinatorial chemistry",
+      "score": 0.3568600118160248
+    },
+    {
+      "id": "https://openalex.org/keywords/organic-chemistry",
+      "display_name": "Organic chemistry",
+      "score": 0.2804785370826721
+    },
+    {
+      "id": "https://openalex.org/keywords/nanotechnology",
+      "display_name": "Nanotechnology",
+      "score": 0.2628091275691986
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-chemistry",
+      "display_name": "Computational chemistry",
+      "score": 0.25662070512771606
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.2300311028957367
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.19757124781608582
+    },
+    {
+      "id": "https://openalex.org/keywords/nanoparticle",
+      "display_name": "Nanoparticle",
+      "score": 0.14824828505516052
+    },
+    {
+      "id": "https://openalex.org/keywords/pharmacology",
+      "display_name": "Pharmacology",
+      "score": 0.12850460410118103
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779433975",
+      "wikidata": "https://www.wikidata.org/wiki/Q40417805",
+      "display_name": "Cyclodextrin",
+      "level": 2,
+      "score": 0.7789750695228577
+    },
+    {
+      "id": "https://openalex.org/C32909587",
+      "wikidata": "https://www.wikidata.org/wiki/Q11369",
+      "display_name": "Molecule",
+      "level": 2,
+      "score": 0.6903642416000366
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.6602517366409302
+    },
+    {
+      "id": "https://openalex.org/C2778163477",
+      "wikidata": "https://www.wikidata.org/wiki/Q43656",
+      "display_name": "Cholesterol",
+      "level": 2,
+      "score": 0.6538874506950378
+    },
+    {
+      "id": "https://openalex.org/C181389837",
+      "wikidata": "https://www.wikidata.org/wiki/Q461809",
+      "display_name": "Bioavailability",
+      "level": 2,
+      "score": 0.620927631855011
+    },
+    {
+      "id": "https://openalex.org/C155574463",
+      "wikidata": "https://www.wikidata.org/wiki/Q170731",
+      "display_name": "Solubility",
+      "level": 2,
+      "score": 0.5614479780197144
+    },
+    {
+      "id": "https://openalex.org/C59593255",
+      "wikidata": "https://www.wikidata.org/wiki/Q901663",
+      "display_name": "Molecular dynamics",
+      "level": 2,
+      "score": 0.5262340903282166
+    },
+    {
+      "id": "https://openalex.org/C184651966",
+      "wikidata": "https://www.wikidata.org/wiki/Q906356",
+      "display_name": "Aqueous solution",
+      "level": 2,
+      "score": 0.4726918041706085
+    },
+    {
+      "id": "https://openalex.org/C15083742",
+      "wikidata": "https://www.wikidata.org/wiki/Q261659",
+      "display_name": "Nanomedicine",
+      "level": 3,
+      "score": 0.4276667833328247
+    },
+    {
+      "id": "https://openalex.org/C21951064",
+      "wikidata": "https://www.wikidata.org/wiki/Q899212",
+      "display_name": "Combinatorial chemistry",
+      "level": 1,
+      "score": 0.3568600118160248
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.2804785370826721
+    },
+    {
+      "id": "https://openalex.org/C171250308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11468",
+      "display_name": "Nanotechnology",
+      "level": 1,
+      "score": 0.2628091275691986
+    },
+    {
+      "id": "https://openalex.org/C147597530",
+      "wikidata": "https://www.wikidata.org/wiki/Q369472",
+      "display_name": "Computational chemistry",
+      "level": 1,
+      "score": 0.25662070512771606
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.2300311028957367
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.19757124781608582
+    },
+    {
+      "id": "https://openalex.org/C155672457",
+      "wikidata": "https://www.wikidata.org/wiki/Q61231",
+      "display_name": "Nanoparticle",
+      "level": 2,
+      "score": 0.14824828505516052
+    },
+    {
+      "id": "https://openalex.org/C98274493",
+      "wikidata": "https://www.wikidata.org/wiki/Q128406",
+      "display_name": "Pharmacology",
+      "level": 1,
+      "score": 0.12850460410118103
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.molliq.2018.04.098",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.molliq.2018.04.098",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S189140625",
+        "display_name": "Journal of Molecular Liquids",
+        "issn_l": "0167-7322",
+        "issn": [
+          "0167-7322",
+          "1873-3166"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Molecular Liquids",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 25,
+  "referenced_works": [
+    "https://openalex.org/W1972483153",
+    "https://openalex.org/W1976499671",
+    "https://openalex.org/W1976847633",
+    "https://openalex.org/W1979856599",
+    "https://openalex.org/W1988870819",
+    "https://openalex.org/W2001328643",
+    "https://openalex.org/W2010265988",
+    "https://openalex.org/W2027578254",
+    "https://openalex.org/W2029667189",
+    "https://openalex.org/W2061716395",
+    "https://openalex.org/W2067174909",
+    "https://openalex.org/W2069262457",
+    "https://openalex.org/W2073059665",
+    "https://openalex.org/W2082400315",
+    "https://openalex.org/W2126457882",
+    "https://openalex.org/W2128175348",
+    "https://openalex.org/W2130813021",
+    "https://openalex.org/W2132262459",
+    "https://openalex.org/W2150981663",
+    "https://openalex.org/W2321207811",
+    "https://openalex.org/W2330260612",
+    "https://openalex.org/W2330691955",
+    "https://openalex.org/W2908069341",
+    "https://openalex.org/W6702341809",
+    "https://openalex.org/W6758079613"
+  ],
+  "related_works": [
+    "https://openalex.org/W2046280088",
+    "https://openalex.org/W1505739641",
+    "https://openalex.org/W2110192055",
+    "https://openalex.org/W2073177056",
+    "https://openalex.org/W2099575842",
+    "https://openalex.org/W4249106212",
+    "https://openalex.org/W2044251933",
+    "https://openalex.org/W2027491976",
+    "https://openalex.org/W230338489",
+    "https://openalex.org/W2472563970"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

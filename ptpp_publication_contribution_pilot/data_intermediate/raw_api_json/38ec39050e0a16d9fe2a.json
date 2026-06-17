@@ -1,0 +1,2335 @@
+{
+  "id": "https://openalex.org/W4223925331",
+  "doi": "https://doi.org/10.1016/j.jbc.2022.101939",
+  "title": "Primary acute lymphoblastic leukemia cells are susceptible to microtubule depolymerization in G1 and M phases through distinct cell death pathways",
+  "display_name": "Primary acute lymphoblastic leukemia cells are susceptible to microtubule depolymerization in G1 and M phases through distinct cell death pathways",
+  "publication_year": 2022,
+  "publication_date": "2022-04-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4223925331",
+    "doi": "https://doi.org/10.1016/j.jbc.2022.101939",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35436470"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jbc.2022.101939",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jbc.2022.101939",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S140251998",
+      "display_name": "Journal of Biological Chemistry",
+      "issn_l": "0021-9258",
+      "issn": [
+        "0021-9258",
+        "1067-8816",
+        "1083-351X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Biological Chemistry",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.jbc.2022.101939",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5014896423",
+        "display_name": "Magdalena Delgado",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Delgado",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040281259",
+        "display_name": "Randall R Rainwater",
+        "orcid": "https://orcid.org/0009-0002-0840-1784"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Randall R. Rainwater",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015397150",
+        "display_name": "Billie Heflin",
+        "orcid": "https://orcid.org/0000-0001-8774-4579"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Billie Heflin",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8774-4579",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071926958",
+        "display_name": "Alicja Urbaniak",
+        "orcid": "https://orcid.org/0000-0002-0807-1263"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alicja Urbaniak",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0807-1263",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031440393",
+        "display_name": "Kaitlynn Butler",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kaitlynn Butler",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048587881",
+        "display_name": "Mari K. Davidson",
+        "orcid": "https://orcid.org/0000-0003-3949-8347"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mari Davidson",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3949-8347",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045279673",
+        "display_name": "Reine U. Protacio",
+        "orcid": "https://orcid.org/0000-0003-4091-8724"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Reine M. Protacio",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4091-8724",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103130996",
+        "display_name": "Giulia Baldini",
+        "orcid": "https://orcid.org/0000-0003-4689-3695"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giulia Baldini",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007856773",
+        "display_name": "Andrea Edwards",
+        "orcid": "https://orcid.org/0000-0001-9780-7908"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea Edwards",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089015875",
+        "display_name": "Megan R. Reed",
+        "orcid": "https://orcid.org/0000-0001-5086-7938"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Megan R. Reed",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5086-7938",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008476359",
+        "display_name": "Kevin D. Raney",
+        "orcid": "https://orcid.org/0000-0002-7290-0206"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kevin D. Raney",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5037985020",
+        "display_name": "Timothy C. Chambers",
+        "orcid": "https://orcid.org/0000-0002-3122-9794"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799656382",
+          "display_name": "University of Arkansas Medical Center",
+          "ror": "https://ror.org/005k4dn45",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799656382"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Timothy C. Chambers",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA. Electronic address: chamberstimothyc@uams.edu",
+        "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA. Electronic address: chamberstimothyc@uams.edu",
+          "institution_ids": [
+            "https://openalex.org/I79620101",
+            "https://openalex.org/I2799656382"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas, USA",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5037985020"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2799656382",
+    "https://openalex.org/I79620101"
+  ],
+  "apc_list": {
+    "value": 2500,
+    "currency": "USD",
+    "value_usd": 2500
+  },
+  "apc_paid": {
+    "value": 2500,
+    "currency": "USD",
+    "value_usd": 2500
+  },
+  "fwci": 0.0868,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.40900121,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "298",
+    "issue": "6",
+    "first_page": "101939",
+    "last_page": "101939"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10294",
+    "display_name": "Cell death mechanisms and regulation",
+    "score": 0.9980999827384949,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10294",
+      "display_name": "Cell death mechanisms and regulation",
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10492",
+      "display_name": "Microtubule and mitosis dynamics",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10950",
+      "display_name": "Acute Lymphoblastic Leukemia research",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/programmed-cell-death",
+      "display_name": "Programmed cell death",
+      "score": 0.7262725830078125
+    },
+    {
+      "id": "https://openalex.org/keywords/mitosis",
+      "display_name": "Mitosis",
+      "score": 0.6998393535614014
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.6064891219139099
+    },
+    {
+      "id": "https://openalex.org/keywords/apoptosis",
+      "display_name": "Apoptosis",
+      "score": 0.5584520697593689
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5460749268531799
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-cycle",
+      "display_name": "Cell cycle",
+      "score": 0.523267388343811
+    },
+    {
+      "id": "https://openalex.org/keywords/nocodazole",
+      "display_name": "Nocodazole",
+      "score": 0.5011451244354248
+    },
+    {
+      "id": "https://openalex.org/keywords/microtubule",
+      "display_name": "Microtubule",
+      "score": 0.4562647342681885
+    },
+    {
+      "id": "https://openalex.org/keywords/caspase",
+      "display_name": "Caspase",
+      "score": 0.4455123543739319
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.33914244174957275
+    },
+    {
+      "id": "https://openalex.org/keywords/cell",
+      "display_name": "Cell",
+      "score": 0.32267898321151733
+    },
+    {
+      "id": "https://openalex.org/keywords/cytoskeleton",
+      "display_name": "Cytoskeleton",
+      "score": 0.2335115671157837
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.15656158328056335
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C31573885",
+      "wikidata": "https://www.wikidata.org/wiki/Q304484",
+      "display_name": "Programmed cell death",
+      "level": 3,
+      "score": 0.7262725830078125
+    },
+    {
+      "id": "https://openalex.org/C93304396",
+      "wikidata": "https://www.wikidata.org/wiki/Q14763008",
+      "display_name": "Mitosis",
+      "level": 2,
+      "score": 0.6998393535614014
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.6064891219139099
+    },
+    {
+      "id": "https://openalex.org/C190283241",
+      "wikidata": "https://www.wikidata.org/wiki/Q14599311",
+      "display_name": "Apoptosis",
+      "level": 2,
+      "score": 0.5584520697593689
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5460749268531799
+    },
+    {
+      "id": "https://openalex.org/C29537977",
+      "wikidata": "https://www.wikidata.org/wiki/Q188941",
+      "display_name": "Cell cycle",
+      "level": 3,
+      "score": 0.523267388343811
+    },
+    {
+      "id": "https://openalex.org/C2779363559",
+      "wikidata": "https://www.wikidata.org/wiki/Q2506092",
+      "display_name": "Nocodazole",
+      "level": 4,
+      "score": 0.5011451244354248
+    },
+    {
+      "id": "https://openalex.org/C20418707",
+      "wikidata": "https://www.wikidata.org/wiki/Q189933",
+      "display_name": "Microtubule",
+      "level": 2,
+      "score": 0.4562647342681885
+    },
+    {
+      "id": "https://openalex.org/C98424977",
+      "wikidata": "https://www.wikidata.org/wiki/Q25805",
+      "display_name": "Caspase",
+      "level": 4,
+      "score": 0.4455123543739319
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.33914244174957275
+    },
+    {
+      "id": "https://openalex.org/C1491633281",
+      "wikidata": "https://www.wikidata.org/wiki/Q7868",
+      "display_name": "Cell",
+      "level": 2,
+      "score": 0.32267898321151733
+    },
+    {
+      "id": "https://openalex.org/C142669718",
+      "wikidata": "https://www.wikidata.org/wiki/Q154626",
+      "display_name": "Cytoskeleton",
+      "level": 3,
+      "score": 0.2335115671157837
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.15656158328056335
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002453",
+      "descriptor_name": "Cell Cycle",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004789",
+      "descriptor_name": "Enzyme Activation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008870",
+      "descriptor_name": "Microtubules",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008938",
+      "descriptor_name": "Mitosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014750",
+      "descriptor_name": "Vincristine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017209",
+      "descriptor_name": "Apoptosis",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051028",
+      "descriptor_name": "bcl-2-Associated X Protein",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053148",
+      "descriptor_name": "Caspase 3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D054198",
+      "descriptor_name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jbc.2022.101939",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jbc.2022.101939",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S140251998",
+        "display_name": "Journal of Biological Chemistry",
+        "issn_l": "0021-9258",
+        "issn": [
+          "0021-9258",
+          "1067-8816",
+          "1083-351X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Biological Chemistry",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35436470",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35436470",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Journal of biological chemistry",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9123221",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9123221",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Biol Chem",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.jbc.2022.101939",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jbc.2022.101939",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S140251998",
+      "display_name": "Journal of Biological Chemistry",
+      "issn_l": "0021-9258",
+      "issn": [
+        "0021-9258",
+        "1067-8816",
+        "1083-351X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Biological Chemistry",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "score": 0.8399999737739563,
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 67,
+  "referenced_works": [
+    "https://openalex.org/W175465163",
+    "https://openalex.org/W1845459216",
+    "https://openalex.org/W1964420304",
+    "https://openalex.org/W1967194777",
+    "https://openalex.org/W1967381786",
+    "https://openalex.org/W1968610346",
+    "https://openalex.org/W1969660254",
+    "https://openalex.org/W1981433220",
+    "https://openalex.org/W1982746572",
+    "https://openalex.org/W1990983360",
+    "https://openalex.org/W1994406643",
+    "https://openalex.org/W1995645765",
+    "https://openalex.org/W2008564830",
+    "https://openalex.org/W2015424171",
+    "https://openalex.org/W2016540525",
+    "https://openalex.org/W2017855868",
+    "https://openalex.org/W2020908793",
+    "https://openalex.org/W2022273982",
+    "https://openalex.org/W2022794800",
+    "https://openalex.org/W2025665129",
+    "https://openalex.org/W2029606078",
+    "https://openalex.org/W2031008935",
+    "https://openalex.org/W2036411709",
+    "https://openalex.org/W2036505818",
+    "https://openalex.org/W2052605153",
+    "https://openalex.org/W2052607700",
+    "https://openalex.org/W2052846308",
+    "https://openalex.org/W2052867923",
+    "https://openalex.org/W2068790232",
+    "https://openalex.org/W2075152619",
+    "https://openalex.org/W2075706433",
+    "https://openalex.org/W2077815337",
+    "https://openalex.org/W2088883749",
+    "https://openalex.org/W2091128204",
+    "https://openalex.org/W2093855538",
+    "https://openalex.org/W2107386437",
+    "https://openalex.org/W2117049355",
+    "https://openalex.org/W2124420768",
+    "https://openalex.org/W2125610733",
+    "https://openalex.org/W2134983040",
+    "https://openalex.org/W2138509357",
+    "https://openalex.org/W2152075000",
+    "https://openalex.org/W2158900550",
+    "https://openalex.org/W2213012239",
+    "https://openalex.org/W2255765109",
+    "https://openalex.org/W2346384209",
+    "https://openalex.org/W2530922306",
+    "https://openalex.org/W2553938351",
+    "https://openalex.org/W2602035017",
+    "https://openalex.org/W2602955853",
+    "https://openalex.org/W2620241325",
+    "https://openalex.org/W2767932146",
+    "https://openalex.org/W2788640168",
+    "https://openalex.org/W2806574348",
+    "https://openalex.org/W2851078713",
+    "https://openalex.org/W2896851031",
+    "https://openalex.org/W2904260281",
+    "https://openalex.org/W2910046601",
+    "https://openalex.org/W2940442212",
+    "https://openalex.org/W2965244259",
+    "https://openalex.org/W3142512726",
+    "https://openalex.org/W3143964410",
+    "https://openalex.org/W4255412302",
+    "https://openalex.org/W6607194359",
+    "https://openalex.org/W6657694491",
+    "https://openalex.org/W6745936516",
+    "https://openalex.org/W6755186370"
+  ],
+  "related_works": [
+    "https://openalex.org/W2312992091",
+    "https://openalex.org/W2071528423",
+    "https://openalex.org/W2069851853",
+    "https://openalex.org/W34790991",
+    "https://openalex.org/W2067495959",
+    "https://openalex.org/W1543755059",
+    "https://openalex.org/W2041724957",
+    "https://openalex.org/W2015893917",
+    "https://openalex.org/W2138300261",
+    "https://openalex.org/W1993379114"
+  ],
+  "abstract_inverted_index": {
+    "Microtubule": [
+      0
+    ],
+    "targeting": [
+      1
+    ],
+    "agents": [
+      2
+    ],
+    "(MTAs)": [
+      3
+    ],
+    "are": [
+      4
+    ],
+    "widely": [
+      5
+    ],
+    "used": [
+      6
+    ],
+    "cancer": [
+      7
+    ],
+    "chemotherapeutics": [
+      8
+    ],
+    "which": [
+      9,
+      35,
+      181,
+      202
+    ],
+    "conventionally": [
+      10
+    ],
+    "exert": [
+      11
+    ],
+    "their": [
+      12
+    ],
+    "effects": [
+      13
+    ],
+    "during": [
+      14,
+      33,
+      201
+    ],
+    "mitosis,": [
+      15
+    ],
+    "leading": [
+      16
+    ],
+    "to": [
+      17,
+      75,
+      93
+    ],
+    "mitotic": [
+      18
+    ],
+    "or": [
+      19,
+      104,
+      156
+    ],
+    "postmitotic": [
+      20
+    ],
+    "death.": [
+      21,
+      85
+    ],
+    "However,": [
+      22
+    ],
+    "accumulating": [
+      23
+    ],
+    "evidence": [
+      24
+    ],
+    "suggests": [
+      25
+    ],
+    "that": [
+      26,
+      48,
+      191,
+      213
+    ],
+    "MTAs": [
+      27
+    ],
+    "can": [
+      28,
+      219
+    ],
+    "also": [
+      29,
+      62
+    ],
+    "generate": [
+      30
+    ],
+    "death": [
+      31,
+      55,
+      116,
+      145,
+      197,
+      231
+    ],
+    "signals": [
+      32
+    ],
+    "interphase,": [
+      34
+    ],
+    "may": [
+      36
+    ],
+    "represent": [
+      37
+    ],
+    "a": [
+      38,
+      214,
+      221,
+      239
+    ],
+    "key": [
+      39
+    ],
+    "mechanism": [
+      40
+    ],
+    "in": [
+      41,
+      58,
+      63,
+      66,
+      100
+    ],
+    "the": [
+      42,
+      79,
+      205
+    ],
+    "clinical": [
+      43,
+      245
+    ],
+    "setting.": [
+      44
+    ],
+    "We": [
+      45,
+      114
+    ],
+    "reported": [
+      46
+    ],
+    "previously": [
+      47
+    ],
+    "vincristine": [
+      49
+    ],
+    "and": [
+      50,
+      77,
+      96,
+      110,
+      139,
+      174,
+      177,
+      225,
+      234
+    ],
+    "other": [
+      51
+    ],
+    "microtubule": [
+      52,
+      192,
+      208
+    ],
+    "destabilizers": [
+      53
+    ],
+    "induce": [
+      54,
+      226
+    ],
+    "not": [
+      56,
+      151
+    ],
+    "only": [
+      57
+    ],
+    "M": [
+      59,
+      118
+    ],
+    "phase": [
+      60,
+      65,
+      102,
+      119,
+      148,
+      203
+    ],
+    "but": [
+      61,
+      159
+    ],
+    "G1": [
+      64,
+      101,
+      147
+    ],
+    "primary": [
+      67
+    ],
+    "acute": [
+      68,
+      87
+    ],
+    "lymphoblastic": [
+      69,
+      88
+    ],
+    "leukemia": [
+      70,
+      89
+    ],
+    "cells.": [
+      71
+    ],
+    "Here,": [
+      72
+    ],
+    "we": [
+      73
+    ],
+    "sought": [
+      74
+    ],
+    "investigate": [
+      76
+    ],
+    "compare": [
+      78
+    ],
+    "pathways": [
+      80,
+      198
+    ],
+    "responsible": [
+      81
+    ],
+    "for": [
+      82,
+      241
+    ],
+    "phase-specific": [
+      83
+    ],
+    "cell": [
+      84,
+      97,
+      196,
+      206,
+      223
+    ],
+    "Primary": [
+      86
+    ],
+    "cells": [
+      90,
+      120,
+      149
+    ],
+    "were": [
+      91,
+      108
+    ],
+    "subjected": [
+      92
+    ],
+    "centrifugal": [
+      94
+    ],
+    "elutriation,": [
+      95
+    ],
+    "populations": [
+      98
+    ],
+    "enriched": [
+      99
+    ],
+    "(97%)": [
+      103
+    ],
+    "G2/M": [
+      105
+    ],
+    "phases": [
+      106
+    ],
+    "(80%)": [
+      107
+    ],
+    "obtained": [
+      109
+    ],
+    "treated": [
+      111
+    ],
+    "with": [
+      112,
+      123,
+      153,
+      162
+    ],
+    "vincristine.": [
+      113
+    ],
+    "found": [
+      115
+    ],
+    "of": [
+      117,
+      126,
+      133,
+      146,
+      164,
+      171,
+      186,
+      204,
+      217,
+      230,
+      244,
+      247
+    ],
+    "was": [
+      121,
+      150,
+      160,
+      182
+    ],
+    "associated": [
+      122,
+      152,
+      161
+    ],
+    "established": [
+      124
+    ],
+    "features": [
+      125
+    ],
+    "mitochondrial-mediated": [
+      127
+    ],
+    "apoptosis,": [
+      128
+    ],
+    "including": [
+      129
+    ],
+    "Bax": [
+      130,
+      155
+    ],
+    "activation,": [
+      131,
+      138
+    ],
+    "loss": [
+      132,
+      163
+    ],
+    "mitochondrial": [
+      134,
+      165
+    ],
+    "transmembrane": [
+      135,
+      166
+    ],
+    "potential,": [
+      136,
+      167
+    ],
+    "caspase-3": [
+      137,
+      157
+    ],
+    "nucleosomal": [
+      140
+    ],
+    "DNA": [
+      141,
+      179
+    ],
+    "fragmentation.": [
+      142
+    ],
+    "In": [
+      143
+    ],
+    "contrast,": [
+      144
+    ],
+    "pronounced": [
+      154
+    ],
+    "activation": [
+      158
+    ],
+    "parylation,": [
+      168
+    ],
+    "nuclear": [
+      169
+    ],
+    "translocation": [
+      170
+    ],
+    "apoptosis-inducing": [
+      172
+    ],
+    "factor": [
+      173
+    ],
+    "endonuclease": [
+      175
+    ],
+    "G,": [
+      176
+    ],
+    "supra-nucleosomal": [
+      178
+    ],
+    "fragmentation,": [
+      180
+    ],
+    "enhanced": [
+      183
+    ],
+    "by": [
+      184
+    ],
+    "inhibition": [
+      185
+    ],
+    "autophagy.": [
+      187
+    ],
+    "The": [
+      188,
+      211
+    ],
+    "results": [
+      189
+    ],
+    "indicate": [
+      190
+    ],
+    "depolymerization": [
+      193
+    ],
+    "induces": [
+      194
+    ],
+    "distinct": [
+      195
+    ],
+    "depending": [
+      199
+    ],
+    "on": [
+      200
+    ],
+    "cycle": [
+      207
+    ],
+    "perturbation": [
+      209
+    ],
+    "occurs.": [
+      210
+    ],
+    "observation": [
+      212
+    ],
+    "specific": [
+      215
+    ],
+    "type": [
+      216,
+      224
+    ],
+    "drug": [
+      218
+    ],
+    "enter": [
+      220
+    ],
+    "single": [
+      222
+    ],
+    "two": [
+      227
+    ],
+    "different": [
+      228
+    ],
+    "modes": [
+      229
+    ],
+    "is": [
+      232
+    ],
+    "novel": [
+      233
+    ],
+    "intriguing.": [
+      235
+    ],
+    "These": [
+      236
+    ],
+    "findings": [
+      237
+    ],
+    "provide": [
+      238
+    ],
+    "basis": [
+      240
+    ],
+    "advancing": [
+      242
+    ],
+    "knowledge": [
+      243
+    ],
+    "mechanisms": [
+      246
+    ],
+    "MTAs.": [
+      248
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-01-13T01:12:25.745995",
+  "created_date": "2025-10-10T00:00:00"
+}

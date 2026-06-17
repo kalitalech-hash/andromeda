@@ -1,0 +1,1408 @@
+{
+  "id": "https://openalex.org/W4398249516",
+  "doi": "https://doi.org/10.1109/access.2024.3404866",
+  "title": "Neural Networks in Selected Aspects of Communications and Networking",
+  "display_name": "Neural Networks in Selected Aspects of Communications and Networking",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4398249516",
+    "doi": "https://doi.org/10.1109/access.2024.3404866"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/access.2024.3404866",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/access.2024.3404866",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10538129.pdf",
+    "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "issn_l": "2169-3536",
+      "issn": [
+        "2169-3536"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Access",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10538129.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5041283809",
+        "display_name": "Piotr Boryło",
+        "orcid": "https://orcid.org/0000-0001-8973-0672"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Borylo",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8973-0672",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Edyta Biernacka",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6501-1048",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jerzy Domzal",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062774547",
+        "display_name": "Bartosz Kądziołka",
+        "orcid": "https://orcid.org/0000-0003-3093-9089"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartosz Kadziolka",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3093-9089",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088422280",
+        "display_name": "Mirosław Kantor",
+        "orcid": "https://orcid.org/0000-0002-3160-6422"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Miroslaw Kantor",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047003405",
+        "display_name": "Krzysztof Rusek",
+        "orcid": "https://orcid.org/0000-0003-4336-7841"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Rusek",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4336-7841",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031000853",
+        "display_name": "Maciej Skała",
+        "orcid": "https://orcid.org/0000-0002-6360-1407"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maciej Skala",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6360-1407",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010347649",
+        "display_name": "Krzysztof Wajda",
+        "orcid": "https://orcid.org/0000-0001-7743-2600"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Wajda",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7743-2600",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018395274",
+        "display_name": "Robert Wójcik",
+        "orcid": "https://orcid.org/0000-0002-9562-606X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Wojcik",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9562-606X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5092032888",
+        "display_name": "Wojciech Ząbek",
+        "orcid": "https://orcid.org/0000-0002-9475-9143"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149723",
+          "display_name": "Krakow Cardiovascular Research Institute",
+          "ror": "https://ror.org/05c3cgy93",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210149723"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wojciech Zabek",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9475-9143",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow, Institute of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210149723",
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1850,
+    "currency": "USD",
+    "value_usd": 1850
+  },
+  "apc_paid": {
+    "value": 1850,
+    "currency": "USD",
+    "value_usd": 1850
+  },
+  "fwci": 2.4977,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.89565057,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": null,
+    "first_page": "132856",
+    "last_page": "132890"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14353",
+    "display_name": "Wireless Sensor Networks for Data Analysis",
+    "score": 0.7940999865531921,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14353",
+      "display_name": "Wireless Sensor Networks for Data Analysis",
+      "score": 0.7940999865531921,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13615",
+      "display_name": "Transportation Systems and Safety",
+      "score": 0.7648000121116638,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1704",
+        "display_name": "Computer Graphics and Computer-Aided Design"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6980637907981873
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.46131277084350586
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-network",
+      "display_name": "Computer network",
+      "score": 0.45729243755340576
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.3480234146118164
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.20495086908340454
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6980637907981873
+    },
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.46131277084350586
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.45729243755340576
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.3480234146118164
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.20495086908340454
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1109/access.2024.3404866",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1109/access.2024.3404866",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10538129.pdf",
+      "source": {
+        "id": "https://openalex.org/S2485537415",
+        "display_name": "IEEE Access",
+        "issn_l": "2169-3536",
+        "issn": [
+          "2169-3536"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Access",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:061d9370b837455bb5123dc718b8f7c2",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/061d9370b837455bb5123dc718b8f7c2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "IEEE Access, Vol 12, Pp 132856-132890 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1109/access.2024.3404866",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/access.2024.3404866",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10538129.pdf",
+    "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "issn_l": "2169-3536",
+      "issn": [
+        "2169-3536"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Access",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3579311829",
+      "display_name": null,
+      "funder_award_id": "2017/25/B/ST6/02186",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4398249516.pdf"
+  },
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W1990008269",
+    "https://openalex.org/W2086419853",
+    "https://openalex.org/W2103329036",
+    "https://openalex.org/W2105547707",
+    "https://openalex.org/W2117063635",
+    "https://openalex.org/W2124503759",
+    "https://openalex.org/W2136922672",
+    "https://openalex.org/W2145563843",
+    "https://openalex.org/W2158488708",
+    "https://openalex.org/W2168595508",
+    "https://openalex.org/W2483357665",
+    "https://openalex.org/W2511063986",
+    "https://openalex.org/W2567615407",
+    "https://openalex.org/W2612472936",
+    "https://openalex.org/W2617931713",
+    "https://openalex.org/W2783741806",
+    "https://openalex.org/W2806003270",
+    "https://openalex.org/W2809684781",
+    "https://openalex.org/W2858441627",
+    "https://openalex.org/W2891656869",
+    "https://openalex.org/W2915905517",
+    "https://openalex.org/W2919221886",
+    "https://openalex.org/W2921881548",
+    "https://openalex.org/W2949186411",
+    "https://openalex.org/W2950022823",
+    "https://openalex.org/W2955338161",
+    "https://openalex.org/W2963209930",
+    "https://openalex.org/W2963432161",
+    "https://openalex.org/W2963504849",
+    "https://openalex.org/W2995496823",
+    "https://openalex.org/W2998696623",
+    "https://openalex.org/W3013382035",
+    "https://openalex.org/W3149647141",
+    "https://openalex.org/W3185310975",
+    "https://openalex.org/W4206800817",
+    "https://openalex.org/W4378528858"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W4396696052",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W4395014643"
+  ],
+  "abstract_inverted_index": {
+    "As": [
+      0,
+      61
+    ],
+    "a": [
+      1,
+      39,
+      56,
+      62,
+      156
+    ],
+    "consequence": [
+      2
+    ],
+    "of": [
+      3,
+      8,
+      12,
+      41,
+      59,
+      74,
+      80,
+      101,
+      111,
+      129,
+      147,
+      167
+    ],
+    "increased": [
+      4
+    ],
+    "complexity,": [
+      5
+    ],
+    "technical": [
+      6
+    ],
+    "requirements": [
+      7
+    ],
+    "services": [
+      9
+    ],
+    "and": [
+      10,
+      16,
+      29,
+      34,
+      54,
+      76,
+      113,
+      122,
+      127,
+      143,
+      160,
+      165,
+      172
+    ],
+    "expectations": [
+      11
+    ],
+    "end-users,": [
+      13
+    ],
+    "telecommunication": [
+      14
+    ],
+    "networks": [
+      15
+    ],
+    "systems": [
+      17
+    ],
+    "must": [
+      18
+    ],
+    "still": [
+      19
+    ],
+    "increase": [
+      20
+    ],
+    "their": [
+      21
+    ],
+    "efficiency.": [
+      22
+    ],
+    "Research": [
+      23
+    ],
+    "currently": [
+      24
+    ],
+    "focuses": [
+      25
+    ],
+    "on": [
+      26,
+      150
+    ],
+    "introducing": [
+      27
+    ],
+    "automation": [
+      28
+    ],
+    "intelligence": [
+      30
+    ],
+    "into": [
+      31
+    ],
+    "network": [
+      32
+    ],
+    "control": [
+      33
+    ],
+    "management.": [
+      35
+    ],
+    "Neural": [
+      36,
+      64,
+      91
+    ],
+    "Networks": [
+      37
+    ],
+    "form": [
+      38
+    ],
+    "class": [
+      40,
+      51
+    ],
+    "Machine": [
+      42
+    ],
+    "Learning": [
+      43
+    ],
+    "techniques": [
+      44
+    ],
+    "utilizing": [
+      45
+    ],
+    "the": [
+      46,
+      72,
+      90,
+      99,
+      140,
+      151
+    ],
+    "supervised": [
+      47
+    ],
+    "learning": [
+      48
+    ],
+    "paradigm.": [
+      49
+    ],
+    "The": [
+      50,
+      78
+    ],
+    "is": [
+      52,
+      83
+    ],
+    "mature": [
+      53
+    ],
+    "comprises": [
+      55
+    ],
+    "significant": [
+      57
+    ],
+    "number": [
+      58
+    ],
+    "algorithms.": [
+      60
+    ],
+    "result,": [
+      63
+    ],
+    "Networks-based": [
+      65
+    ],
+    "solutions": [
+      66,
+      104
+    ],
+    "are": [
+      67,
+      116
+    ],
+    "widely": [
+      68
+    ],
+    "applicable,": [
+      69
+    ],
+    "also": [
+      70
+    ],
+    "in": [
+      71,
+      108,
+      170
+    ],
+    "context": [
+      73
+    ],
+    "communications": [
+      75,
+      112,
+      171
+    ],
+    "networking.": [
+      77,
+      114,
+      173
+    ],
+    "aim": [
+      79
+    ],
+    "this": [
+      81
+    ],
+    "tutorial": [
+      82,
+      141
+    ],
+    "twofold.": [
+      84
+    ],
+    "Firstly,": [
+      85
+    ],
+    "to": [
+      86,
+      96,
+      105
+    ],
+    "provide": [
+      87
+    ],
+    "fundamentals": [
+      88
+    ],
+    "regarding": [
+      89
+    ],
+    "Network": [
+      92
+    ],
+    "(NN)": [
+      93
+    ],
+    "method.": [
+      94
+    ],
+    "Secondly,": [
+      95
+    ],
+    "comprehensively": [
+      97
+    ],
+    "study": [
+      98
+    ],
+    "examples": [
+      100
+    ],
+    "applying": [
+      102
+    ],
+    "NN-based": [
+      103
+    ],
+    "solve": [
+      106
+    ],
+    "problems": [
+      107
+    ],
+    "different": [
+      109
+    ],
+    "aspects": [
+      110
+    ],
+    "Studies": [
+      115
+    ],
+    "supplemented": [
+      117
+    ],
+    "with": [
+      118
+    ],
+    "additional": [
+      119
+    ],
+    "explanations,": [
+      120
+    ],
+    "figures": [
+      121
+    ],
+    "critical": [
+      123
+    ],
+    "considerations,": [
+      124
+    ],
+    "including": [
+      125
+    ],
+    "pros": [
+      126
+    ],
+    "cons": [
+      128
+    ],
+    "using": [
+      130,
+      168
+    ],
+    "selected": [
+      131
+    ],
+    "methods": [
+      132
+    ],
+    "for": [
+      133
+    ],
+    "particular": [
+      134
+    ],
+    "purposes.": [
+      135
+    ],
+    "This": [
+      136
+    ],
+    "part": [
+      137
+    ],
+    "uniquely": [
+      138
+    ],
+    "complements": [
+      139
+    ],
+    "one": [
+      142
+    ],
+    "facilitates": [
+      144
+    ],
+    "in-depth": [
+      145
+    ],
+    "understanding": [
+      146
+    ],
+    "NN.": [
+      148
+    ],
+    "Based": [
+      149
+    ],
+    "conducted": [
+      152
+    ],
+    "studies,": [
+      153
+    ],
+    "we": [
+      154
+    ],
+    "draw": [
+      155
+    ],
+    "comparative": [
+      157
+    ],
+    "analysis,": [
+      158
+    ],
+    "summaries": [
+      159
+    ],
+    "expected": [
+      161
+    ],
+    "future": [
+      162
+    ],
+    "research": [
+      163
+    ],
+    "topics": [
+      164
+    ],
+    "challenges": [
+      166
+    ],
+    "NN": [
+      169
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

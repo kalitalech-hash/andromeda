@@ -1,0 +1,1031 @@
+{
+  "id": "https://openalex.org/W4381786564",
+  "doi": "https://doi.org/10.1109/wf-iot54382.2022.10152142",
+  "title": "Introducing Federated Learning into Internet of Things ecosystems – preliminary considerations",
+  "display_name": "Introducing Federated Learning into Internet of Things ecosystems – preliminary considerations",
+  "publication_year": 2022,
+  "publication_date": "2022-10-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4381786564",
+    "doi": "https://doi.org/10.1109/wf-iot54382.2022.10152142"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/wf-iot54382.2022.10152142",
+    "is_oa": false,
+    "landing_page_url": "http://dx.doi.org/10.1109/wf-iot54382.2022.10152142",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2022 IEEE 8th World Forum on Internet of Things (WF-IoT)",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karolina Bogacka",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences,Warsaw,Poland",
+        "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7109-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences,Warsaw,Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077749913",
+        "display_name": "Katarzyna Wasielewska-Michniewska",
+        "orcid": "https://orcid.org/0000-0002-3763-2373"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Wasielewska-Michniewska",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences,Warsaw,Poland",
+        "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3763-2373",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences,Warsaw,Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053781299",
+        "display_name": "Marcin Paprzycki",
+        "orcid": "https://orcid.org/0000-0002-8069-2152"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Paprzycki",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences,Warsaw,Poland",
+        "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8069-2152",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences,Warsaw,Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017025137",
+        "display_name": "Maria Ganzha",
+        "orcid": "https://orcid.org/0000-0001-7714-4844"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria Ganzha",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology,Warsaw,Poland",
+        "Warsaw University of Technology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7714-4844",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology,Warsaw,Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088868361",
+        "display_name": "Anastasiya Danilenka",
+        "orcid": "https://orcid.org/0000-0002-3080-0303"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anastasiya Danilenka",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology,Warsaw,Poland",
+        "Warsaw University of Technology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3080-0303",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology,Warsaw,Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067284175",
+        "display_name": "Lambis Tassakos",
+        "orcid": "https://orcid.org/0000-0003-2511-9035"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126231",
+          "display_name": "Robotic Research (United States)",
+          "ror": "https://ror.org/035w78024",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210126231"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lambis Tassakos",
+      "raw_affiliation_strings": [
+        "TwoTronic Gmbh,Meitingen,Germany",
+        "TwoTronic Gmbh, Meitingen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2511-9035",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TwoTronic Gmbh,Meitingen,Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210126231"
+          ]
+        },
+        {
+          "raw_affiliation_string": "TwoTronic Gmbh, Meitingen, Germany",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023233897",
+        "display_name": "Eduardo Garro",
+        "orcid": "https://orcid.org/0000-0002-8160-0125"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210136377",
+          "display_name": "Prodevelop (Spain)",
+          "ror": "https://ror.org/0412jyn76",
+          "country_code": "ES",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210136377"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduardo Garro",
+      "raw_affiliation_strings": [
+        "Prodevelop,Valencia,Spain",
+        "Prodevelop, Valencia, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8160-0125",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prodevelop,Valencia,Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210136377"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Prodevelop, Valencia, Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210136377"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.5549,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.73570525,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 97
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "7"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10764",
+    "display_name": "Privacy-Preserving Technologies in Data",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10764",
+      "display_name": "Privacy-Preserving Technologies in Data",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11612",
+      "display_name": "Stochastic Gradient Optimization Techniques",
+      "score": 0.961899995803833,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "score": 0.9545999765396118,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8216903209686279
+    },
+    {
+      "id": "https://openalex.org/keywords/adaptation",
+      "display_name": "Adaptation (eye)",
+      "score": 0.7625845074653625
+    },
+    {
+      "id": "https://openalex.org/keywords/architecture",
+      "display_name": "Architecture",
+      "score": 0.6500250101089478
+    },
+    {
+      "id": "https://openalex.org/keywords/the-internet",
+      "display_name": "The Internet",
+      "score": 0.6430386304855347
+    },
+    {
+      "id": "https://openalex.org/keywords/federated-learning",
+      "display_name": "Federated learning",
+      "score": 0.6206883192062378
+    },
+    {
+      "id": "https://openalex.org/keywords/core",
+      "display_name": "Core (optical fiber)",
+      "score": 0.5507369041442871
+    },
+    {
+      "id": "https://openalex.org/keywords/internet-of-things",
+      "display_name": "Internet of Things",
+      "score": 0.5250261425971985
+    },
+    {
+      "id": "https://openalex.org/keywords/information-privacy",
+      "display_name": "Information privacy",
+      "score": 0.42934268712997437
+    },
+    {
+      "id": "https://openalex.org/keywords/data-modeling",
+      "display_name": "Data modeling",
+      "score": 0.4245312809944153
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.37355977296829224
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.356955885887146
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.29538434743881226
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-security",
+      "display_name": "Computer security",
+      "score": 0.2690633535385132
+    },
+    {
+      "id": "https://openalex.org/keywords/database",
+      "display_name": "Database",
+      "score": 0.16559794545173645
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.11582857370376587
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8216903209686279
+    },
+    {
+      "id": "https://openalex.org/C139807058",
+      "wikidata": "https://www.wikidata.org/wiki/Q352374",
+      "display_name": "Adaptation (eye)",
+      "level": 2,
+      "score": 0.7625845074653625
+    },
+    {
+      "id": "https://openalex.org/C123657996",
+      "wikidata": "https://www.wikidata.org/wiki/Q12271",
+      "display_name": "Architecture",
+      "level": 2,
+      "score": 0.6500250101089478
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.6430386304855347
+    },
+    {
+      "id": "https://openalex.org/C2992525071",
+      "wikidata": "https://www.wikidata.org/wiki/Q50818671",
+      "display_name": "Federated learning",
+      "level": 2,
+      "score": 0.6206883192062378
+    },
+    {
+      "id": "https://openalex.org/C2164484",
+      "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+      "display_name": "Core (optical fiber)",
+      "level": 2,
+      "score": 0.5507369041442871
+    },
+    {
+      "id": "https://openalex.org/C81860439",
+      "wikidata": "https://www.wikidata.org/wiki/Q251212",
+      "display_name": "Internet of Things",
+      "level": 2,
+      "score": 0.5250261425971985
+    },
+    {
+      "id": "https://openalex.org/C123201435",
+      "wikidata": "https://www.wikidata.org/wiki/Q456632",
+      "display_name": "Information privacy",
+      "level": 2,
+      "score": 0.42934268712997437
+    },
+    {
+      "id": "https://openalex.org/C67186912",
+      "wikidata": "https://www.wikidata.org/wiki/Q367664",
+      "display_name": "Data modeling",
+      "level": 2,
+      "score": 0.4245312809944153
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.37355977296829224
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.356955885887146
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.29538434743881226
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.2690633535385132
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.16559794545173645
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.11582857370376587
+    },
+    {
+      "id": "https://openalex.org/C153349607",
+      "wikidata": "https://www.wikidata.org/wiki/Q36649",
+      "display_name": "Visual arts",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/wf-iot54382.2022.10152142",
+      "is_oa": false,
+      "landing_page_url": "http://dx.doi.org/10.1109/wf-iot54382.2022.10152142",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2022 IEEE 8th World Forum on Internet of Things (WF-IoT)",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "score": 0.5099999904632568,
+      "display_name": "Life in Land"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8030676201",
+      "display_name": null,
+      "funder_award_id": "957258",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4311097251",
+    "https://openalex.org/W4298221930",
+    "https://openalex.org/W2777914285",
+    "https://openalex.org/W2625093826",
+    "https://openalex.org/W2921026492",
+    "https://openalex.org/W3013363440",
+    "https://openalex.org/W4361251261",
+    "https://openalex.org/W3031181660",
+    "https://openalex.org/W4285201139",
+    "https://openalex.org/W4385625427"
+  ],
+  "abstract_inverted_index": {
+    "Federated": [
+      0
+    ],
+    "learning": [
+      1,
+      40
+    ],
+    "(FL)": [
+      2
+    ],
+    "was": [
+      3
+    ],
+    "proposed": [
+      4
+    ],
+    "to": [
+      5,
+      31,
+      42,
+      67,
+      82
+    ],
+    "train": [
+      6
+    ],
+    "models": [
+      7
+    ],
+    "in": [
+      8,
+      59
+    ],
+    "distributed": [
+      9
+    ],
+    "environments.": [
+      10
+    ],
+    "It": [
+      11
+    ],
+    "facilitates": [
+      12
+    ],
+    "data": [
+      13,
+      44,
+      53
+    ],
+    "privacy": [
+      14,
+      45
+    ],
+    "and": [
+      15,
+      96
+    ],
+    "uses": [
+      16
+    ],
+    "local": [
+      17
+    ],
+    "resources": [
+      18
+    ],
+    "for": [
+      19
+    ],
+    "model": [
+      20
+    ],
+    "training.": [
+      21
+    ],
+    "Until": [
+      22
+    ],
+    "now,": [
+      23
+    ],
+    "the": [
+      24,
+      32,
+      92
+    ],
+    "majority": [
+      25
+    ],
+    "of": [
+      26,
+      38,
+      51,
+      74,
+      94
+    ],
+    "research": [
+      27
+    ],
+    "has": [
+      28
+    ],
+    "been": [
+      29
+    ],
+    "devoted": [
+      30
+    ],
+    "“core": [
+      33
+    ],
+    "issues”,": [
+      34
+    ],
+    "such": [
+      35
+    ],
+    "as": [
+      36
+    ],
+    "adaptation": [
+      37
+    ],
+    "machine": [
+      39
+    ],
+    "algorithms": [
+      41
+    ],
+    "FL,": [
+      43
+    ],
+    "protection,": [
+      46
+    ],
+    "or": [
+      47
+    ],
+    "dealing": [
+      48
+    ],
+    "with": [
+      49
+    ],
+    "effects": [
+      50
+    ],
+    "unbalanced": [
+      52
+    ],
+    "distribution.": [
+      54
+    ],
+    "This": [
+      55
+    ],
+    "contribution": [
+      56
+    ],
+    "is": [
+      57,
+      66,
+      100
+    ],
+    "anchored": [
+      58
+    ],
+    "a": [
+      60
+    ],
+    "practical": [
+      61
+    ],
+    "use": [
+      62
+    ],
+    "case,": [
+      63
+    ],
+    "where": [
+      64
+    ],
+    "FL": [
+      65,
+      98
+    ],
+    "be": [
+      68,
+      83
+    ],
+    "actually": [
+      69
+    ],
+    "deployed": [
+      70
+    ],
+    "within": [
+      71
+    ],
+    "an": [
+      72,
+      88
+    ],
+    "Internet": [
+      73
+    ],
+    "Things": [
+      75
+    ],
+    "ecosystem.": [
+      76
+    ],
+    "Hence,": [
+      77
+    ],
+    "different": [
+      78
+    ],
+    "issues": [
+      79
+    ],
+    "that": [
+      80,
+      90
+    ],
+    "need": [
+      81
+    ],
+    "considered": [
+      84
+    ],
+    "are": [
+      85
+    ],
+    "identified.": [
+      86
+    ],
+    "Moreover,": [
+      87
+    ],
+    "architecture": [
+      89
+    ],
+    "enables": [
+      91
+    ],
+    "building": [
+      93
+    ],
+    "flexible,": [
+      95
+    ],
+    "adaptable,": [
+      97
+    ],
+    "solutions": [
+      99
+    ],
+    "introduced.": [
+      101
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

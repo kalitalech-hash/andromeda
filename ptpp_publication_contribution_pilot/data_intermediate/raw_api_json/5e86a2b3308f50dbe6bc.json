@@ -1,0 +1,586 @@
+{
+  "id": "https://openalex.org/W3171835633",
+  "doi": "https://doi.org/10.1007/978-3-030-77967-2_58",
+  "title": "Electrocardiogram Quality Assessment with Autoencoder",
+  "display_name": "Electrocardiogram Quality Assessment with Autoencoder",
+  "publication_year": 2021,
+  "publication_date": "2021-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3171835633",
+    "doi": "https://doi.org/10.1007/978-3-030-77967-2_58",
+    "mag": "3171835633"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-030-77967-2_58",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-030-77967-2_58",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106296714",
+      "display_name": "Lecture notes in computer science",
+      "issn_l": "0302-9743",
+      "issn": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Lecture Notes in Computer Science",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5042243370",
+        "display_name": "Jan Garus",
+        "orcid": "https://orcid.org/0000-0001-5573-5141"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210093152",
+          "display_name": "Comarch (Poland)",
+          "ror": "https://ror.org/00jeje538",
+          "country_code": "PL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210093152"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan Garus",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, Krakow, Poland",
+        "Healthcare Department, Comarch SA, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5573-5141",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Healthcare Department, Comarch SA, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210093152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057878140",
+        "display_name": "Mateusz Pabian",
+        "orcid": "https://orcid.org/0000-0001-8200-5283"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210093152",
+          "display_name": "Comarch (Poland)",
+          "ror": "https://ror.org/00jeje538",
+          "country_code": "PL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210093152"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mateusz Pabian",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, Krakow, Poland",
+        "Healthcare Department, Comarch SA, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8200-5283",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Healthcare Department, Comarch SA, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210093152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103115874",
+        "display_name": "Marcin Wiśniewski",
+        "orcid": "https://orcid.org/0000-0003-1473-1640"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210093152",
+          "display_name": "Comarch (Poland)",
+          "ror": "https://ror.org/00jeje538",
+          "country_code": "PL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210093152"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Wisniewski",
+      "raw_affiliation_strings": [
+        "Healthcare Department, Comarch SA, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1473-1640",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Healthcare Department, Comarch SA, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210093152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5067892569",
+        "display_name": "Bartłomiej Śnieżyński",
+        "orcid": "https://orcid.org/0000-0002-4206-9052"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartlomiej Sniezynski",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4206-9052",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 5000,
+    "currency": "EUR",
+    "value_usd": 5392
+  },
+  "apc_paid": null,
+  "fwci": 2.2255,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.88460039,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "693",
+    "last_page": "706"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11021",
+    "display_name": "ECG Monitoring and Analysis",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2705",
+      "display_name": "Cardiology and Cardiovascular Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11021",
+      "display_name": "ECG Monitoring and Analysis",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2705",
+        "display_name": "Cardiology and Cardiovascular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10429",
+      "display_name": "EEG and Brain-Computer Interfaces",
+      "score": 0.9860000014305115,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11196",
+      "display_name": "Non-Invasive Vital Sign Monitoring",
+      "score": 0.9853000044822693,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/autoencoder",
+      "display_name": "Autoencoder",
+      "score": 0.87026047706604
+    },
+    {
+      "id": "https://openalex.org/keywords/quality",
+      "display_name": "Quality (philosophy)",
+      "score": 0.44142022728919983
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3897796869277954
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3528241217136383
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability-engineering",
+      "display_name": "Reliability engineering",
+      "score": 0.34608685970306396
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.31328168511390686
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.19102522730827332
+    },
+    {
+      "id": "https://openalex.org/keywords/philosophy",
+      "display_name": "Philosophy",
+      "score": 0.10512515902519226
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.07248449325561523
+    },
+    {
+      "id": "https://openalex.org/keywords/epistemology",
+      "display_name": "Epistemology",
+      "score": 0.041228413581848145
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C101738243",
+      "wikidata": "https://www.wikidata.org/wiki/Q786435",
+      "display_name": "Autoencoder",
+      "level": 3,
+      "score": 0.87026047706604
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.44142022728919983
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3897796869277954
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3528241217136383
+    },
+    {
+      "id": "https://openalex.org/C200601418",
+      "wikidata": "https://www.wikidata.org/wiki/Q2193887",
+      "display_name": "Reliability engineering",
+      "level": 1,
+      "score": 0.34608685970306396
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.31328168511390686
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.19102522730827332
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.10512515902519226
+    },
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.07248449325561523
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.041228413581848145
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-030-77967-2_58",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-030-77967-2_58",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106296714",
+        "display_name": "Lecture notes in computer science",
+        "issn_l": "0302-9743",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Lecture Notes in Computer Science",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 39,
+  "referenced_works": [
+    "https://openalex.org/W1540190034",
+    "https://openalex.org/W1580851578",
+    "https://openalex.org/W1909332241",
+    "https://openalex.org/W1915489093",
+    "https://openalex.org/W1965421420",
+    "https://openalex.org/W1965695390",
+    "https://openalex.org/W2017257315",
+    "https://openalex.org/W2032639994",
+    "https://openalex.org/W2038436648",
+    "https://openalex.org/W2053688325",
+    "https://openalex.org/W2068258779",
+    "https://openalex.org/W2095409369",
+    "https://openalex.org/W2101608115",
+    "https://openalex.org/W2102409316",
+    "https://openalex.org/W2106336403",
+    "https://openalex.org/W2109127420",
+    "https://openalex.org/W2122930900",
+    "https://openalex.org/W2129689968",
+    "https://openalex.org/W2145094598",
+    "https://openalex.org/W2146341717",
+    "https://openalex.org/W2148143831",
+    "https://openalex.org/W2162800060",
+    "https://openalex.org/W2168891233",
+    "https://openalex.org/W2507698194",
+    "https://openalex.org/W2594610061",
+    "https://openalex.org/W2597701414",
+    "https://openalex.org/W2609716011",
+    "https://openalex.org/W2714024555",
+    "https://openalex.org/W2794550444",
+    "https://openalex.org/W2799246531",
+    "https://openalex.org/W2805313241",
+    "https://openalex.org/W2897574883",
+    "https://openalex.org/W2899609137",
+    "https://openalex.org/W2914889202",
+    "https://openalex.org/W2919664113",
+    "https://openalex.org/W2991456394",
+    "https://openalex.org/W2994666230",
+    "https://openalex.org/W3151314558",
+    "https://openalex.org/W3153872861"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W3031052312",
+    "https://openalex.org/W4389568370",
+    "https://openalex.org/W3032375762",
+    "https://openalex.org/W1995515455",
+    "https://openalex.org/W2080531066",
+    "https://openalex.org/W2586801360",
+    "https://openalex.org/W3108674512",
+    "https://openalex.org/W1506200166",
+    "https://openalex.org/W4220775285"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

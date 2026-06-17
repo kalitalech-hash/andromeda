@@ -1,0 +1,2088 @@
+{
+  "id": "https://openalex.org/W7124177824",
+  "doi": "https://doi.org/10.48550/arxiv.2601.08645",
+  "title": "A Parallel Cross-Lingual Benchmark for Multimodal Idiomaticity Understanding",
+  "display_name": "A Parallel Cross-Lingual Benchmark for Multimodal Idiomaticity Understanding",
+  "publication_year": 2026,
+  "publication_date": "2026-01-13",
+  "ids": {
+    "openalex": "https://openalex.org/W7124177824",
+    "doi": "https://doi.org/10.48550/arxiv.2601.08645"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:doi:10.48550/arxiv.2601.08645",
+    "is_oa": true,
+    "landing_page_url": null,
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4406922384",
+      "display_name": "Open MIND",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Article"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": null,
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071278958",
+        "display_name": "Dilara Torunoğlu-Selamet",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Torunoğlu-Selamet, Dilara",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123052514",
+        "display_name": "Dogukan Arslan",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Arslan, Dogukan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034564787",
+        "display_name": "Rodrigo Wilkens",
+        "orcid": "https://orcid.org/0000-0003-4366-1215"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wilkens, Rodrigo",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123015398",
+        "display_name": "Wei He",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "He, Wei",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123038297",
+        "display_name": "Doruk Eryiğit",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Eryiğit, Doruk",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089249716",
+        "display_name": "Thomas Pickard",
+        "orcid": "https://orcid.org/0000-0002-2523-2364"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pickard, Thomas",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123029295",
+        "display_name": "Adriana S. Pagano",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pagano, Adriana S.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5122998352",
+        "display_name": "Aline Villavicencio",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Villavicencio, Aline",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030279774",
+        "display_name": "Gülşen Eryiğit",
+        "orcid": "https://orcid.org/0000-0003-4607-7305"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Eryiğit, Gülşen",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002266291",
+        "display_name": "Ágnes Abuczki",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Abuczki, Ágnes",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076602316",
+        "display_name": "Aida Cardoso",
+        "orcid": "https://orcid.org/0000-0003-1667-1813"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Cardoso, Aida",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123026503",
+        "display_name": "Alesia Lazarenka",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lazarenka, Alesia",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123030042",
+        "display_name": "Dina Almassova",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Almassova, Dina",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046211773",
+        "display_name": "Amália Mendes",
+        "orcid": "https://orcid.org/0000-0001-6815-2674"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mendes, Amalia",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5116214990",
+        "display_name": "Anna Kanellopoulou",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kanellopoulou, Anna",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5121557615",
+        "display_name": "Antoni Brosa-Rodríguez",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Brosa-Rodríguez, Antoni",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123049739",
+        "display_name": "Baiba Saulite",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Saulite, Baiba",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084005531",
+        "display_name": "Beata Wójtowicz",
+        "orcid": "https://orcid.org/0000-0002-8819-3219"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wojtowicz, Beata",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123051254",
+        "display_name": "Bolette Pedersen",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pedersen, Bolette",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035658385",
+        "display_name": "Carlos Manuel Hidalgo-Ternero",
+        "orcid": "https://orcid.org/0000-0002-8338-2627"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hidalgo-Ternero, Carlos Manuel",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071295058",
+        "display_name": "Chaya Liebeskind",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Liebeskind, Chaya",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076163427",
+        "display_name": "Danka Jokić",
+        "orcid": "https://orcid.org/0000-0002-7621-5847"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jokić, Danka",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015766952",
+        "display_name": "Diego Zilio Alves",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Alves, Diego",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012819479",
+        "display_name": "ELENI TRIANTAFYLLIDI",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Triantafyllidi, Eleni",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080146945",
+        "display_name": "Erik Velldal",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Velldal, Erik",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018702042",
+        "display_name": "Fred Philippy",
+        "orcid": "https://orcid.org/0000-0001-5842-4285"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Philippy, Fred",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123018726",
+        "display_name": "Giedre Valunaite Oleskeviciene",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Oleskeviciene, Giedre Valunaite",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5099381197",
+        "display_name": "Ieva Rizgelienė",
+        "orcid": "https://orcid.org/0009-0000-3211-5126"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rizgeliene, Ieva",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5122994048",
+        "display_name": "Inguna Skadina",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Skadina, Inguna",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034392015",
+        "display_name": "Irina Lobzhanidze",
+        "orcid": "https://orcid.org/0000-0002-3040-1847"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lobzhanidze, Irina",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123051527",
+        "display_name": "Isabell Stinessen Haugen",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Haugen, Isabell Stinessen",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119204366",
+        "display_name": "Jauza Akbar Krito",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Krito, Jauza Akbar",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101520718",
+        "display_name": "Jelena Marković",
+        "orcid": "https://orcid.org/0000-0002-5231-4744"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Marković, Jelena M.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056123517",
+        "display_name": "Johanna Monti",
+        "orcid": "https://orcid.org/0000-0002-4563-5988"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Monti, Johanna",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123000955",
+        "display_name": "Josue Alejandro Sauca",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sauca, Josue Alejandro",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5115518615",
+        "display_name": "Kaja Dobrovoljc",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Dobrovoljc, Kaja",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008568289",
+        "display_name": "Kingsley O. Ugwuanyi",
+        "orcid": "https://orcid.org/0000-0002-6480-0352"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ugwuanyi, Kingsley O.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Rituma, Laura",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rituma, Laura",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Øvrelid, Lilja",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Øvrelid, Lilja",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001472194",
+        "display_name": "Maha Tufail Agro",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Agro, Maha Tufail",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086880892",
+        "display_name": "Manzura Abjalova",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Abjalova, Manzura",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5122996478",
+        "display_name": "Maria Chatzigrigoriou",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Chatzigrigoriou, Maria",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032078892",
+        "display_name": "María del Mar Sánchez Ramos",
+        "orcid": "https://orcid.org/0000-0001-5684-1552"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ramos, María del Mar Sánchez",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123001861",
+        "display_name": "Marija Pendevska",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pendevska, Marija",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123000548",
+        "display_name": "Masoumeh Seyyedrezaei",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Seyyedrezaei, Masoumeh",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085075919",
+        "display_name": "Mehrnoush ShamsFard",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Shamsfard, Mehrnoush",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104157672",
+        "display_name": "Momina Ahsan",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ahsan, Momina",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123042610",
+        "display_name": "Muhammad Ahsan Riaz Khan",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Khan, Muhammad Ahsan Riaz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5120694675",
+        "display_name": "Nathalie Carmen Hau Norman",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Norman, Nathalie Carmen Hau",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022929575",
+        "display_name": "Nilay Erdem Ayyıldız",
+        "orcid": "https://orcid.org/0000-0002-1779-8464"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ayyıldız, Nilay Erdem",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060530051",
+        "display_name": "Nina Hosseini-Kivanani",
+        "orcid": "https://orcid.org/0000-0002-0821-9125"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hosseini-Kivanani, Nina",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005415440",
+        "display_name": "Noémi Ligeti-Nagy",
+        "orcid": "https://orcid.org/0000-0003-0851-7621"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ligeti-Nagy, Noémi",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107568564",
+        "display_name": "Numaan Naeem",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Naeem, Numaan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112997402",
+        "display_name": "Olha Kanishcheva",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kanishcheva, Olha",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123013237",
+        "display_name": "Olha Yatsyshyna",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Yatsyshyna, Olha",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000211688",
+        "display_name": "Daniil Orel",
+        "orcid": "https://orcid.org/0009-0007-5600-7032"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Orel, Daniil",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123026132",
+        "display_name": "Petra Giommarelli",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Giommarelli, Petra",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076723837",
+        "display_name": "Petya Osenova",
+        "orcid": "https://orcid.org/0000-0002-4484-5027"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Osenova, Petya",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034550090",
+        "display_name": "Radovan Garabík",
+        "orcid": "https://orcid.org/0000-0003-1691-3157"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Garabik, Radovan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123038214",
+        "display_name": "Regina E. Semou",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Semou, Regina E.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023544534",
+        "display_name": "Rozane Rodrigues Rebechi",
+        "orcid": "https://orcid.org/0000-0002-1878-7548"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rebechi, Rozane",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077258657",
+        "display_name": "Salsabila Zahirah Pranida",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pranida, Salsabila Zahirah",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057619458",
+        "display_name": "Samia Touileb",
+        "orcid": "https://orcid.org/0000-0003-4584-2554"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Touileb, Samia",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123010934",
+        "display_name": "Sanni Nimb",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nimb, Sanni",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Ahmad, Sarfraz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ahmad, Sarfraz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Sharipova, Sarvinoz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sharipova, Sarvinoz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086963139",
+        "display_name": "Shahar Golan",
+        "orcid": "https://orcid.org/0000-0002-7361-7971"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Golan, Shahar",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Ji, Shaoxiong",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ji, Shaoxiong",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007623533",
+        "display_name": "Sopuruchi Christian Aboh",
+        "orcid": "https://orcid.org/0000-0003-3318-8014"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Aboh, Sopuruchi Christian",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123012409",
+        "display_name": "Srdjan Sucur",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sucur, Srdjan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055983666",
+        "display_name": "Στέλλα Μαρκαντωνάτου",
+        "orcid": "https://orcid.org/0000-0002-9256-8300"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Markantonatou, Stella",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123041993",
+        "display_name": "Sussi Olsen",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Olsen, Sussi",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058034740",
+        "display_name": "Vahide Tajalli",
+        "orcid": "https://orcid.org/0000-0003-3118-2903"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tajalli, Vahide",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Lipp, Veronika",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lipp, Veronika",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042878168",
+        "display_name": "Voula Giouli",
+        "orcid": "https://orcid.org/0000-0002-1501-9754"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Giouli, Voula",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5115542535",
+        "display_name": "Yelda Yeşildal Eraydın",
+        "orcid": "https://orcid.org/0000-0002-1132-695X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Eraydın, Yelda Yeşildal",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5117862532",
+        "display_name": "Zahra Saaberi",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Saaberi, Zahra",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5122931759",
+        "display_name": "Zhuohan Xie",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Xie, Zhuohan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 78,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10181",
+    "display_name": "Natural Language Processing Techniques",
+    "score": 0.3481000065803528,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "score": 0.3481000065803528,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.19280000030994415,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.09880000352859497,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/benchmark",
+      "display_name": "Benchmark (surveying)",
+      "score": 0.6123999953269958
+    },
+    {
+      "id": "https://openalex.org/keywords/literal",
+      "display_name": "Literal (mathematical logic)",
+      "score": 0.5480999946594238
+    },
+    {
+      "id": "https://openalex.org/keywords/modality",
+      "display_name": "Modality (human–computer interaction)",
+      "score": 0.5365999937057495
+    },
+    {
+      "id": "https://openalex.org/keywords/contrast",
+      "display_name": "Contrast (vision)",
+      "score": 0.42340001463890076
+    },
+    {
+      "id": "https://openalex.org/keywords/language-understanding",
+      "display_name": "Language understanding",
+      "score": 0.39969998598098755
+    },
+    {
+      "id": "https://openalex.org/keywords/focus",
+      "display_name": "Focus (optics)",
+      "score": 0.374099999666214
+    },
+    {
+      "id": "https://openalex.org/keywords/variation",
+      "display_name": "Variation (astronomy)",
+      "score": 0.3610999882221222
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7444999814033508
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.6622999906539917
+    },
+    {
+      "id": "https://openalex.org/C185798385",
+      "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+      "display_name": "Benchmark (surveying)",
+      "level": 2,
+      "score": 0.6123999953269958
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5659000277519226
+    },
+    {
+      "id": "https://openalex.org/C2780882242",
+      "wikidata": "https://www.wikidata.org/wiki/Q14235582",
+      "display_name": "Literal (mathematical logic)",
+      "level": 2,
+      "score": 0.5480999946594238
+    },
+    {
+      "id": "https://openalex.org/C2780226545",
+      "wikidata": "https://www.wikidata.org/wiki/Q6888030",
+      "display_name": "Modality (human–computer interaction)",
+      "level": 2,
+      "score": 0.5365999937057495
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.5133000016212463
+    },
+    {
+      "id": "https://openalex.org/C2776502983",
+      "wikidata": "https://www.wikidata.org/wiki/Q690182",
+      "display_name": "Contrast (vision)",
+      "level": 2,
+      "score": 0.42340001463890076
+    },
+    {
+      "id": "https://openalex.org/C2983448237",
+      "wikidata": "https://www.wikidata.org/wiki/Q1078276",
+      "display_name": "Language understanding",
+      "level": 2,
+      "score": 0.39969998598098755
+    },
+    {
+      "id": "https://openalex.org/C192209626",
+      "wikidata": "https://www.wikidata.org/wiki/Q190909",
+      "display_name": "Focus (optics)",
+      "level": 2,
+      "score": 0.374099999666214
+    },
+    {
+      "id": "https://openalex.org/C2778334786",
+      "wikidata": "https://www.wikidata.org/wiki/Q1586270",
+      "display_name": "Variation (astronomy)",
+      "level": 2,
+      "score": 0.3610999882221222
+    },
+    {
+      "id": "https://openalex.org/C155092808",
+      "wikidata": "https://www.wikidata.org/wiki/Q182557",
+      "display_name": "Computational linguistics",
+      "level": 2,
+      "score": 0.3528999984264374
+    },
+    {
+      "id": "https://openalex.org/C184337299",
+      "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+      "display_name": "Semantics (computer science)",
+      "level": 2,
+      "score": 0.3513999879360199
+    },
+    {
+      "id": "https://openalex.org/C182306322",
+      "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+      "display_name": "Order (exchange)",
+      "level": 2,
+      "score": 0.30169999599456787
+    },
+    {
+      "id": "https://openalex.org/C2780878386",
+      "wikidata": "https://www.wikidata.org/wiki/Q1659648",
+      "display_name": "Visual language",
+      "level": 2,
+      "score": 0.29030001163482666
+    },
+    {
+      "id": "https://openalex.org/C168167062",
+      "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+      "display_name": "Component (thermodynamics)",
+      "level": 2,
+      "score": 0.2793999910354614
+    },
+    {
+      "id": "https://openalex.org/C2780910867",
+      "wikidata": "https://www.wikidata.org/wiki/Q1952416",
+      "display_name": "Multimodality",
+      "level": 2,
+      "score": 0.27709999680519104
+    },
+    {
+      "id": "https://openalex.org/C511192102",
+      "wikidata": "https://www.wikidata.org/wiki/Q5156948",
+      "display_name": "Comprehension",
+      "level": 2,
+      "score": 0.2671999931335449
+    },
+    {
+      "id": "https://openalex.org/C11693617",
+      "wikidata": "https://www.wikidata.org/wiki/Q181839",
+      "display_name": "Pragmatics",
+      "level": 2,
+      "score": 0.2572000026702881
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "pmh:doi:10.48550/arxiv.2601.08645",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4406922384",
+        "display_name": "Open MIND",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/5fca0232-1fe6-49e8-bb78-27f40b75f50a",
+      "is_oa": false,
+      "landing_page_url": "https://researchprofiles.ku.dk/da/publications/5fca0232-1fe6-49e8-bb78-27f40b75f50a",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401983",
+        "display_name": "Research at the University of Copenhagen (University of Copenhagen)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I124055696",
+        "host_organization_name": "University of Copenhagen",
+        "host_organization_lineage": [
+          "https://openalex.org/I124055696"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Torunoğlu-Selamet , D , Pedersen , B S , Nimb , S , Olsen , S , Norman , N C H , (...) & Xie , Z 2026 , A Parallel Cross-Lingual Benchmark for Multimodal Idiomaticity Understanding . in Proceedings of Language Resources and Evaluation Conference . Palma de Mallorca, Spain .",
+      "raw_type": "contributionToPeriodical"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2601.08645",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2601.08645",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:doi:10.48550/arxiv.2601.08645",
+    "is_oa": true,
+    "landing_page_url": null,
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4406922384",
+      "display_name": "Open MIND",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.8278869986534119
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Potentially": [
+      0
+    ],
+    "idiomatic": [
+      1,
+      51,
+      67,
+      100,
+      173,
+      194
+    ],
+    "expressions": [
+      2
+    ],
+    "(PIEs)": [
+      3
+    ],
+    "construe": [
+      4
+    ],
+    "meanings": [
+      5
+    ],
+    "inherently": [
+      6
+    ],
+    "tied": [
+      7
+    ],
+    "to": [
+      8,
+      29,
+      76,
+      87,
+      108,
+      123,
+      125,
+      174
+    ],
+    "the": [
+      9,
+      26,
+      111,
+      114
+    ],
+    "everyday": [
+      10
+    ],
+    "experience": [
+      11
+    ],
+    "of": [
+      12,
+      34,
+      49,
+      66,
+      116
+    ],
+    "a": [
+      13,
+      43,
+      92,
+      170,
+      186
+    ],
+    "given": [
+      14,
+      93
+    ],
+    "language": [
+      15,
+      104,
+      149,
+      195
+    ],
+    "community.": [
+      16
+    ],
+    "As": [
+      17
+    ],
+    "such,": [
+      18
+    ],
+    "they": [
+      19
+    ],
+    "constitute": [
+      20
+    ],
+    "an": [
+      21
+    ],
+    "interesting": [
+      22
+    ],
+    "challenge": [
+      23
+    ],
+    "for": [
+      24,
+      91,
+      189
+    ],
+    "assessing": [
+      25
+    ],
+    "linguistic": [
+      27
+    ],
+    "(and": [
+      28
+    ],
+    "some": [
+      30
+    ],
+    "extent": [
+      31,
+      127
+    ],
+    "cultural)": [
+      32
+    ],
+    "capabilities": [
+      33
+    ],
+    "NLP": [
+      35
+    ],
+    "systems.": [
+      36
+    ],
+    "In": [
+      37
+    ],
+    "this": [
+      38
+    ],
+    "paper,": [
+      39
+    ],
+    "we": [
+      40
+    ],
+    "present": [
+      41
+    ],
+    "XMPIE,": [
+      42
+    ],
+    "parallel": [
+      44,
+      84
+    ],
+    "multilingual": [
+      45,
+      159,
+      191
+    ],
+    "and": [
+      46,
+      58,
+      72,
+      98,
+      120,
+      154,
+      161,
+      180,
+      192
+    ],
+    "multimodal": [
+      47,
+      193
+    ],
+    "dataset": [
+      48,
+      85,
+      112
+    ],
+    "potentially": [
+      50
+    ],
+    "expressions.": [
+      52
+    ],
+    "The": [
+      53,
+      144,
+      183
+    ],
+    "dataset,": [
+      54
+    ],
+    "containing": [
+      55
+    ],
+    "34": [
+      56
+    ],
+    "languages": [
+      57,
+      97
+    ],
+    "over": [
+      59
+    ],
+    "ten": [
+      60
+    ],
+    "thousand": [
+      61
+    ],
+    "items,": [
+      62
+    ],
+    "allows": [
+      63,
+      86
+    ],
+    "comparative": [
+      64
+    ],
+    "analyses": [
+      65
+    ],
+    "patterns": [
+      68
+    ],
+    "among": [
+      69
+    ],
+    "language-specific": [
+      70
+    ],
+    "realisations": [
+      71
+    ],
+    "preferences": [
+      73
+    ],
+    "in": [
+      74,
+      95,
+      102,
+      130,
+      136,
+      138
+    ],
+    "order": [
+      75
+    ],
+    "gather": [
+      77
+    ],
+    "insights": [
+      78
+    ],
+    "about": [
+      79
+    ],
+    "shared": [
+      80
+    ],
+    "cultural": [
+      81
+    ],
+    "aspects.": [
+      82
+    ],
+    "This": [
+      83
+    ],
+    "evaluate": [
+      88
+    ],
+    "model": [
+      89
+    ],
+    "performance": [
+      90
+    ],
+    "PIE": [
+      94,
+      128,
+      163
+    ],
+    "different": [
+      96
+    ],
+    "whether": [
+      99
+    ],
+    "understanding": [
+      101,
+      129,
+      137
+    ],
+    "one": [
+      103,
+      131
+    ],
+    "can": [
+      105
+    ],
+    "be": [
+      106
+    ],
+    "transferred": [
+      107
+    ],
+    "another.": [
+      109
+    ],
+    "Moreover,": [
+      110
+    ],
+    "supports": [
+      113
+    ],
+    "study": [
+      115
+    ],
+    "PIEs": [
+      117
+    ],
+    "across": [
+      118
+    ],
+    "textual": [
+      119,
+      153
+    ],
+    "visual": [
+      121,
+      155
+    ],
+    "modalities,": [
+      122
+    ],
+    "measure": [
+      124
+    ],
+    "what": [
+      126
+    ],
+    "modality": [
+      132,
+      140
+    ],
+    "transfers": [
+      133
+    ],
+    "or": [
+      134
+    ],
+    "implies": [
+      135
+    ],
+    "another": [
+      139
+    ],
+    "(text": [
+      141
+    ],
+    "vs.": [
+      142
+    ],
+    "image).": [
+      143
+    ],
+    "data": [
+      145
+    ],
+    "was": [
+      146
+    ],
+    "created": [
+      147
+    ],
+    "by": [
+      148,
+      166
+    ],
+    "experts,": [
+      150
+    ],
+    "with": [
+      151
+    ],
+    "both": [
+      152
+    ],
+    "components": [
+      156
+    ],
+    "crafted": [
+      157
+    ],
+    "under": [
+      158
+    ],
+    "guidelines,": [
+      160
+    ],
+    "each": [
+      162
+    ],
+    "is": [
+      164,
+      185
+    ],
+    "accompanied": [
+      165
+    ],
+    "five": [
+      167
+    ],
+    "images": [
+      168
+    ],
+    "representing": [
+      169
+    ],
+    "spectrum": [
+      171
+    ],
+    "from": [
+      172
+    ],
+    "literal": [
+      175
+    ],
+    "meanings,": [
+      176
+    ],
+    "including": [
+      177
+    ],
+    "semantically": [
+      178
+    ],
+    "related": [
+      179
+    ],
+    "random": [
+      181
+    ],
+    "distractors.": [
+      182
+    ],
+    "result": [
+      184
+    ],
+    "high-quality": [
+      187
+    ],
+    "benchmark": [
+      188
+    ],
+    "evaluating": [
+      190
+    ],
+    "understanding.": [
+      196
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2026-01-15T00:00:00"
+}

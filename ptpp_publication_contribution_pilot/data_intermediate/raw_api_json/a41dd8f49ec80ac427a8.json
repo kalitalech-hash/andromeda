@@ -1,0 +1,862 @@
+{
+  "id": "https://openalex.org/W2964107352",
+  "doi": "https://doi.org/10.48550/arxiv.1612.02156",
+  "title": "Proper colouring Painter-Builder game",
+  "display_name": "Proper colouring Painter-Builder game",
+  "publication_year": 2016,
+  "publication_date": "2016-12-07",
+  "ids": {
+    "openalex": "https://openalex.org/W2964107352",
+    "doi": "https://doi.org/10.48550/arxiv.1612.02156",
+    "mag": "2964107352"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:1612.02156",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1612.02156",
+    "pdf_url": "https://arxiv.org/pdf/1612.02156",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/1612.02156",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5017542027",
+        "display_name": "Małgorzata Bednarska-Bzdȩga",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bednarska-Bzdęga, Małgorzata",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102759207",
+        "display_name": "Michael Krivelevich",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16391192",
+          "display_name": "Tel Aviv University",
+          "ror": "https://ror.org/04mhzgx49",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I16391192"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krivelevich, Michael",
+      "raw_affiliation_strings": [
+        "School of Mathematical Sciences Raymond and Beverly Sackler Faculty of Exact Sciences Tel Aviv University Tel Aviv 6997801 Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Mathematical Sciences Raymond and Beverly Sackler Faculty of Exact Sciences Tel Aviv University Tel Aviv 6997801 Israel",
+          "institution_ids": [
+            "https://openalex.org/I16391192"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090236950",
+        "display_name": "Viola Mészáros",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mészáros, Viola",
+      "raw_affiliation_strings": [
+        "Bolyai Intézet, Aradi vértanúk tere 1, Szeged 6720, Hungary"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bolyai Intézet, Aradi vértanúk tere 1, Szeged 6720, Hungary",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5055051460",
+        "display_name": "Clément Requilé",
+        "orcid": "https://orcid.org/0000-0002-7689-7972"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121883995",
+          "display_name": "Johannes Kepler University of Linz",
+          "ror": "https://ror.org/052r2xn60",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121883995"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Requilé, Clément",
+      "raw_affiliation_strings": [
+        "Institute for Algebra, Johannes Kepler Universität Linz, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Algebra, Johannes Kepler Universität Linz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I121883995"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11797",
+    "display_name": "graph theory and CDMA systems",
+    "score": 0.9521999955177307,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11797",
+      "display_name": "graph theory and CDMA systems",
+      "score": 0.9521999955177307,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/painting",
+      "display_name": "Painting",
+      "score": 0.789418637752533
+    },
+    {
+      "id": "https://openalex.org/keywords/combinatorics",
+      "display_name": "Combinatorics",
+      "score": 0.6972144842147827
+    },
+    {
+      "id": "https://openalex.org/keywords/vertex",
+      "display_name": "Vertex (graph theory)",
+      "score": 0.6417085528373718
+    },
+    {
+      "id": "https://openalex.org/keywords/graph",
+      "display_name": "Graph",
+      "score": 0.5290129780769348
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.4684975743293762
+    },
+    {
+      "id": "https://openalex.org/keywords/order",
+      "display_name": "Order (exchange)",
+      "score": 0.4276392459869385
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3773600459098816
+    },
+    {
+      "id": "https://openalex.org/keywords/art",
+      "display_name": "Art",
+      "score": 0.3251040279865265
+    },
+    {
+      "id": "https://openalex.org/keywords/art-history",
+      "display_name": "Art history",
+      "score": 0.2552751302719116
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.07917693257331848
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C205783811",
+      "wikidata": "https://www.wikidata.org/wiki/Q11629",
+      "display_name": "Painting",
+      "level": 2,
+      "score": 0.789418637752533
+    },
+    {
+      "id": "https://openalex.org/C114614502",
+      "wikidata": "https://www.wikidata.org/wiki/Q76592",
+      "display_name": "Combinatorics",
+      "level": 1,
+      "score": 0.6972144842147827
+    },
+    {
+      "id": "https://openalex.org/C80899671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1304193",
+      "display_name": "Vertex (graph theory)",
+      "level": 3,
+      "score": 0.6417085528373718
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.5290129780769348
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.4684975743293762
+    },
+    {
+      "id": "https://openalex.org/C182306322",
+      "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+      "display_name": "Order (exchange)",
+      "level": 2,
+      "score": 0.4276392459869385
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3773600459098816
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.3251040279865265
+    },
+    {
+      "id": "https://openalex.org/C52119013",
+      "wikidata": "https://www.wikidata.org/wiki/Q50637",
+      "display_name": "Art history",
+      "level": 1,
+      "score": 0.2552751302719116
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.07917693257331848
+    },
+    {
+      "id": "https://openalex.org/C10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:1612.02156",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/1612.02156",
+      "pdf_url": "https://arxiv.org/pdf/1612.02156",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "mag:2964107352",
+      "is_oa": true,
+      "landing_page_url": "https://arxiv.org/pdf/1612.02156",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "arXiv (Cornell University)",
+      "raw_type": null
+    },
+    {
+      "id": "doi:10.48550/arxiv.1612.02156",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.1612.02156",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:1612.02156",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1612.02156",
+    "pdf_url": "https://arxiv.org/pdf/1612.02156",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 2,
+  "referenced_works": [
+    "https://openalex.org/W2086631032",
+    "https://openalex.org/W2124391922"
+  ],
+  "related_works": [
+    "https://openalex.org/W2560113382",
+    "https://openalex.org/W2910330463",
+    "https://openalex.org/W3135525587",
+    "https://openalex.org/W2960585633",
+    "https://openalex.org/W3214140134",
+    "https://openalex.org/W1494890830",
+    "https://openalex.org/W3186599071",
+    "https://openalex.org/W2962806684",
+    "https://openalex.org/W1559821680",
+    "https://openalex.org/W3136243908",
+    "https://openalex.org/W3133791337",
+    "https://openalex.org/W2900294431",
+    "https://openalex.org/W3104362493",
+    "https://openalex.org/W2163503431",
+    "https://openalex.org/W3029997586",
+    "https://openalex.org/W1559458968",
+    "https://openalex.org/W1976103239",
+    "https://openalex.org/W2092476405",
+    "https://openalex.org/W2794408178",
+    "https://openalex.org/W2961528149"
+  ],
+  "abstract_inverted_index": {
+    "We": [
+      0,
+      111
+    ],
+    "consider": [
+      1
+    ],
+    "the": [
+      2,
+      32,
+      51,
+      70,
+      72,
+      96,
+      101,
+      104,
+      109,
+      114,
+      128,
+      136
+    ],
+    "following": [
+      3
+    ],
+    "two-player": [
+      4
+    ],
+    "game,": [
+      5,
+      102
+    ],
+    "parametrised": [
+      6
+    ],
+    "by": [
+      7,
+      48
+    ],
+    "positive": [
+      8
+    ],
+    "integers": [
+      9
+    ],
+    "$n$": [
+      10,
+      36,
+      84
+    ],
+    "and": [
+      11,
+      19,
+      54
+    ],
+    "$k$.": [
+      12
+    ],
+    "The": [
+      13,
+      28,
+      78
+    ],
+    "game": [
+      14,
+      29,
+      71,
+      79,
+      137
+    ],
+    "is": [
+      15,
+      108,
+      123
+    ],
+    "played": [
+      16
+    ],
+    "between": [
+      17,
+      59
+    ],
+    "Painter": [
+      18,
+      25,
+      41,
+      90,
+      99
+    ],
+    "Builder,": [
+      20
+    ],
+    "alternately": [
+      21
+    ],
+    "taking": [
+      22
+    ],
+    "turns,": [
+      23
+    ],
+    "with": [
+      24,
+      31
+    ],
+    "moving": [
+      26
+    ],
+    "first.": [
+      27
+    ],
+    "starts": [
+      30
+    ],
+    "empty": [
+      33
+    ],
+    "graph": [
+      34,
+      73
+    ],
+    "on": [
+      35
+    ],
+    "vertices.": [
+      37,
+      63
+    ],
+    "In": [
+      38,
+      95
+    ],
+    "each": [
+      39
+    ],
+    "round": [
+      40
+    ],
+    "colours": [
+      42,
+      53,
+      118
+    ],
+    "a": [
+      43,
+      75
+    ],
+    "vertex": [
+      44
+    ],
+    "of": [
+      45,
+      50,
+      117,
+      124,
+      130,
+      135
+    ],
+    "her": [
+      46
+    ],
+    "choice": [
+      47
+    ],
+    "one": [
+      49,
+      106
+    ],
+    "$k$": [
+      52
+    ],
+    "Builder": [
+      55,
+      107
+    ],
+    "claims": [
+      56
+    ],
+    "an": [
+      57
+    ],
+    "edge": [
+      58
+    ],
+    "two": [
+      60
+    ],
+    "previously": [
+      61
+    ],
+    "unconnected": [
+      62
+    ],
+    "Both": [
+      64
+    ],
+    "players": [
+      65
+    ],
+    "should": [
+      66
+    ],
+    "maintain": [
+      67
+    ],
+    "that": [
+      68,
+      113
+    ],
+    "during": [
+      69
+    ],
+    "admits": [
+      74
+    ],
+    "proper": [
+      76
+    ],
+    "$k$-colouring.": [
+      77
+    ],
+    "ends": [
+      80
+    ],
+    "if": [
+      81
+    ],
+    "either": [
+      82
+    ],
+    "all": [
+      83
+    ],
+    "vertices": [
+      85,
+      131
+    ],
+    "have": [
+      86
+    ],
+    "been": [
+      87
+    ],
+    "coloured,": [
+      88
+    ],
+    "or": [
+      89
+    ],
+    "has": [
+      91
+    ],
+    "no": [
+      92
+    ],
+    "legal": [
+      93
+    ],
+    "move.": [
+      94
+    ],
+    "former": [
+      97
+    ],
+    "case,": [
+      98
+    ],
+    "wins": [
+      100
+    ],
+    "in": [
+      103,
+      127
+    ],
+    "latter": [
+      105
+    ],
+    "winner.": [
+      110
+    ],
+    "prove": [
+      112
+    ],
+    "minimal": [
+      115
+    ],
+    "number": [
+      116,
+      129
+    ],
+    "$k=k(n)$": [
+      119
+    ],
+    "allowing": [
+      120
+    ],
+    "Painter's": [
+      121
+    ],
+    "win": [
+      122
+    ],
+    "logarithmic": [
+      125
+    ],
+    "order": [
+      126
+    ],
+    "$n$.": [
+      132
+    ],
+    "Biased": [
+      133
+    ],
+    "versions": [
+      134
+    ],
+    "are": [
+      138
+    ],
+    "also": [
+      139
+    ],
+    "considered.": [
+      140
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

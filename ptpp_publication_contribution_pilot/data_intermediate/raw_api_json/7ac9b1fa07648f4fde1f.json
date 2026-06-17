@@ -1,0 +1,1375 @@
+{
+  "id": "https://openalex.org/W3134278673",
+  "doi": "https://doi.org/10.1101/2021.02.26.433021",
+  "title": "Extended numerical analysis of an eyeball injury under direct impact",
+  "display_name": "Extended numerical analysis of an eyeball injury under direct impact",
+  "publication_year": 2021,
+  "publication_date": "2021-02-26",
+  "ids": {
+    "openalex": "https://openalex.org/W3134278673",
+    "doi": "https://doi.org/10.1101/2021.02.26.433021",
+    "mag": "3134278673"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/2021.02.26.433021",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2021.02.26.433021",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/02/26/2021.02.26.433021.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2021/02/26/2021.02.26.433021.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016137698",
+        "display_name": "Mateusz Koberda",
+        "orcid": "https://orcid.org/0000-0002-8108-9136"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Koberda",
+      "raw_affiliation_strings": [
+        "Department of Ophthalmology at the Medical University of Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Ophthalmology at the Medical University of Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081620906",
+        "display_name": "Andrzej Skorek",
+        "orcid": "https://orcid.org/0000-0002-0042-6314"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "A. Skorek",
+      "raw_affiliation_strings": [
+        "Department of Otolaryngology at the Medical University of Gdańsk, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0042-6314",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Otolaryngology at the Medical University of Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039586903",
+        "display_name": "Paweł Kłosowski",
+        "orcid": "https://orcid.org/0000-0002-4329-2678"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P. Kłosowski",
+      "raw_affiliation_strings": [
+        "Department of Mechanics of Materials and Structures, Faculty of Civil and Environmental Engineering at the Gdańsk University of Technology, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mechanics of Materials and Structures, Faculty of Civil and Environmental Engineering at the Gdańsk University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048648360",
+        "display_name": "Marcin Zmuda Trzebiatowski",
+        "orcid": "https://orcid.org/0000-0001-8356-3367"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Żmuda-Trzebiatowski",
+      "raw_affiliation_strings": [
+        "Department of Mechanics of Materials and Structures, Faculty of Civil and Environmental Engineering at the Gdańsk University of Technology, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mechanics of Materials and Structures, Faculty of Civil and Environmental Engineering at the Gdańsk University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089608054",
+        "display_name": "Krzysztof Żerdzicki",
+        "orcid": "https://orcid.org/0000-0003-2315-5358"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "K. Żerdzicki",
+      "raw_affiliation_strings": [
+        "Department of Mechanics of Materials and Structures, Faculty of Civil and Environmental Engineering at the Gdańsk University of Technology, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mechanics of Materials and Structures, Faculty of Civil and Environmental Engineering at the Gdańsk University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020399778",
+        "display_name": "Paweł Lemski",
+        "orcid": "https://orcid.org/0000-0003-0630-1798"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P. Lemski",
+      "raw_affiliation_strings": [
+        "Department of Otolaryngology at the Medical University of Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Otolaryngology at the Medical University of Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5076324310",
+        "display_name": "Urszula Stodolska-Koberda",
+        "orcid": "https://orcid.org/0000-0002-7153-6190"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "U. Stodolska-Koberda",
+      "raw_affiliation_strings": [
+        "Department of Ophthalmology at the Medical University of Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Ophthalmology at the Medical University of Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5081620906"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I75124487"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11867",
+    "display_name": "Traumatic Ocular and Foreign Body Injuries",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2731",
+      "display_name": "Ophthalmology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11867",
+      "display_name": "Traumatic Ocular and Foreign Body Injuries",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2731",
+        "display_name": "Ophthalmology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11562",
+      "display_name": "Facial Trauma and Fracture Management",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10706",
+      "display_name": "Traumatic Brain Injury and Neurovascular Disturbances",
+      "score": 0.9534000158309937,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2728",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sclera",
+      "display_name": "Sclera",
+      "score": 0.7931149005889893
+    },
+    {
+      "id": "https://openalex.org/keywords/blunt",
+      "display_name": "Blunt",
+      "score": 0.7928905487060547
+    },
+    {
+      "id": "https://openalex.org/keywords/orbit",
+      "display_name": "Orbit (dynamics)",
+      "score": 0.5682047605514526
+    },
+    {
+      "id": "https://openalex.org/keywords/blunt-trauma",
+      "display_name": "Blunt trauma",
+      "score": 0.5140501260757446
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.44484665989875793
+    },
+    {
+      "id": "https://openalex.org/keywords/surgery",
+      "display_name": "Surgery",
+      "score": 0.35881632566452026
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.1828702986240387
+    },
+    {
+      "id": "https://openalex.org/keywords/aerospace-engineering",
+      "display_name": "Aerospace engineering",
+      "score": 0.15234467387199402
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777100477",
+      "wikidata": "https://www.wikidata.org/wiki/Q193107",
+      "display_name": "Sclera",
+      "level": 2,
+      "score": 0.7931149005889893
+    },
+    {
+      "id": "https://openalex.org/C105698618",
+      "wikidata": "https://www.wikidata.org/wiki/Q886371",
+      "display_name": "Blunt",
+      "level": 2,
+      "score": 0.7928905487060547
+    },
+    {
+      "id": "https://openalex.org/C196644772",
+      "wikidata": "https://www.wikidata.org/wiki/Q3884964",
+      "display_name": "Orbit (dynamics)",
+      "level": 2,
+      "score": 0.5682047605514526
+    },
+    {
+      "id": "https://openalex.org/C2777521253",
+      "wikidata": "https://www.wikidata.org/wiki/Q770709",
+      "display_name": "Blunt trauma",
+      "level": 2,
+      "score": 0.5140501260757446
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.44484665989875793
+    },
+    {
+      "id": "https://openalex.org/C141071460",
+      "wikidata": "https://www.wikidata.org/wiki/Q40821",
+      "display_name": "Surgery",
+      "level": 1,
+      "score": 0.35881632566452026
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.1828702986240387
+    },
+    {
+      "id": "https://openalex.org/C146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "level": 1,
+      "score": 0.15234467387199402
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/2021.02.26.433021",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/2021.02.26.433021",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/02/26/2021.02.26.433021.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/2021.02.26.433021",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2021.02.26.433021",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/02/26/2021.02.26.433021.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5699999928474426,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3134278673.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3134278673.grobid-xml"
+  },
+  "referenced_works_count": 23,
+  "referenced_works": [
+    "https://openalex.org/W9894142",
+    "https://openalex.org/W85040274",
+    "https://openalex.org/W1846316517",
+    "https://openalex.org/W1976052270",
+    "https://openalex.org/W1976362149",
+    "https://openalex.org/W1980462176",
+    "https://openalex.org/W1980517950",
+    "https://openalex.org/W1994214238",
+    "https://openalex.org/W2005810245",
+    "https://openalex.org/W2021619126",
+    "https://openalex.org/W2056837041",
+    "https://openalex.org/W2057370773",
+    "https://openalex.org/W2084710939",
+    "https://openalex.org/W2085025209",
+    "https://openalex.org/W2087517108",
+    "https://openalex.org/W2104426502",
+    "https://openalex.org/W2128182242",
+    "https://openalex.org/W2134983098",
+    "https://openalex.org/W2137500516",
+    "https://openalex.org/W2148785021",
+    "https://openalex.org/W2156821909",
+    "https://openalex.org/W2218544706",
+    "https://openalex.org/W2315538067"
+  ],
+  "related_works": [
+    "https://openalex.org/W3120875152",
+    "https://openalex.org/W4360976881",
+    "https://openalex.org/W4323058694",
+    "https://openalex.org/W2020147041",
+    "https://openalex.org/W1584072789",
+    "https://openalex.org/W2811324112",
+    "https://openalex.org/W4308221277",
+    "https://openalex.org/W2076044131",
+    "https://openalex.org/W2939283782",
+    "https://openalex.org/W1520258403"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1,
+      99,
+      116,
+      228
+    ],
+    "objective": [
+      2
+    ],
+    "of": [
+      3,
+      12,
+      37,
+      74,
+      101,
+      113,
+      125,
+      131,
+      151,
+      163,
+      174,
+      185,
+      202,
+      209,
+      224,
+      255,
+      272,
+      290,
+      302,
+      319,
+      334,
+      348
+    ],
+    "this": [
+      4,
+      179
+    ],
+    "study": [
+      5,
+      327
+    ],
+    "was": [
+      6
+    ],
+    "to": [
+      7,
+      17,
+      22,
+      26,
+      32,
+      59,
+      107,
+      136,
+      141,
+      181,
+      221,
+      252,
+      280,
+      287,
+      297,
+      312,
+      330,
+      345,
+      355
+    ],
+    "develop": [
+      8
+    ],
+    "a": [
+      9,
+      19,
+      34,
+      60,
+      71,
+      160,
+      249,
+      256,
+      316,
+      331
+    ],
+    "numerical": [
+      10,
+      72,
+      102,
+      156
+    ],
+    "model": [
+      11,
+      73,
+      157
+    ],
+    "the": [
+      13,
+      23,
+      38,
+      42,
+      47,
+      75,
+      77,
+      81,
+      87,
+      122,
+      129,
+      142,
+      149,
+      155,
+      170,
+      175,
+      183,
+      193,
+      200,
+      203,
+      207,
+      214,
+      218,
+      222,
+      225,
+      233,
+      238,
+      241,
+      253,
+      264,
+      269,
+      273,
+      303,
+      323,
+      346,
+      356
+    ],
+    "eyeball": [
+      14,
+      24,
+      56,
+      164,
+      210,
+      229,
+      349
+    ],
+    "and": [
+      15,
+      68,
+      80,
+      111,
+      337
+    ],
+    "orbit": [
+      16
+    ],
+    "simulate": [
+      18
+    ],
+    "blunt": [
+      20,
+      61,
+      93,
+      138
+    ],
+    "injury": [
+      21,
+      95,
+      335
+    ],
+    "leading": [
+      25
+    ],
+    "its": [
+      27
+    ],
+    "rupture,": [
+      28
+    ],
+    "as": [
+      29,
+      31,
+      321
+    ],
+    "well": [
+      30
+    ],
+    "conduct": [
+      33
+    ],
+    "comparative": [
+      35
+    ],
+    "analysis": [
+      36
+    ],
+    "results": [
+      39,
+      100,
+      118
+    ],
+    "obtained": [
+      40,
+      117
+    ],
+    "using": [
+      41
+    ],
+    "finite": [
+      43
+    ],
+    "element": [
+      44
+    ],
+    "method": [
+      45
+    ],
+    "against": [
+      46,
+      121
+    ],
+    "clinical": [
+      48,
+      123
+    ],
+    "material": [
+      49
+    ],
+    "concerning": [
+      50
+    ],
+    "patients": [
+      51,
+      126
+    ],
+    "who": [
+      52
+    ],
+    "had": [
+      53
+    ],
+    "suffered": [
+      54
+    ],
+    "an": [
+      55
+    ],
+    "rupture": [
+      57,
+      165,
+      215,
+      230
+    ],
+    "due": [
+      58,
+      135
+    ],
+    "force": [
+      62,
+      94,
+      139
+    ],
+    "trauma.": [
+      63
+    ],
+    "Using": [
+      64
+    ],
+    "available": [
+      65
+    ],
+    "sclera": [
+      66
+    ],
+    "biometric": [
+      67
+    ],
+    "strength": [
+      69
+    ],
+    "data,": [
+      70
+    ],
+    "eyeball,": [
+      76
+    ],
+    "orbital": [
+      78
+    ],
+    "contents,": [
+      79
+    ],
+    "bony": [
+      82
+    ],
+    "walls": [
+      83
+    ],
+    "were": [
+      84,
+      97,
+      119
+    ],
+    "developed": [
+      85
+    ],
+    "from": [
+      86,
+      169
+    ],
+    "ground": [
+      88
+    ],
+    "up.": [
+      89
+    ],
+    "Then,": [
+      90
+    ],
+    "eight": [
+      91
+    ],
+    "different": [
+      92
+    ],
+    "scenarios": [
+      96
+    ],
+    "simulated.": [
+      98
+    ],
+    "analyses": [
+      103
+    ],
+    "made": [
+      104
+    ],
+    "it": [
+      105,
+      246,
+      309
+    ],
+    "possible": [
+      106,
+      109,
+      161,
+      311
+    ],
+    "identify": [
+      108
+    ],
+    "locations": [
+      110
+    ],
+    "configurations": [
+      112,
+      173
+    ],
+    "scleral": [
+      114,
+      176
+    ],
+    "rupture.": [
+      115,
+      211
+    ],
+    "compared": [
+      120
+    ],
+    "picture": [
+      124
+    ],
+    "hospitalized": [
+      127
+    ],
+    "at": [
+      128,
+      217,
+      248
+    ],
+    "Clinic": [
+      130
+    ],
+    "Ophthalmology": [
+      132
+    ],
+    "in": [
+      133,
+      232,
+      300
+    ],
+    "2010–2016": [
+      134
+    ],
+    "isolated": [
+      137
+    ],
+    "trauma": [
+      140
+    ],
+    "eyeball.": [
+      143,
+      194,
+      274
+    ],
+    "It": [
+      144,
+      195,
+      259,
+      341
+    ],
+    "has": [
+      145,
+      196,
+      260
+    ],
+    "been": [
+      146,
+      197,
+      261
+    ],
+    "demonstrated": [
+      147
+    ],
+    "that": [
+      148,
+      158,
+      199,
+      245,
+      263
+    ],
+    "extent": [
+      150
+    ],
+    "damage": [
+      152
+    ],
+    "observed": [
+      153,
+      172
+    ],
+    "on": [
+      154,
+      192,
+      314
+    ],
+    "indicated": [
+      159
+    ],
+    "location": [
+      162,
+      208
+    ],
+    "did": [
+      166,
+      187
+    ],
+    "not": [
+      167,
+      188
+    ],
+    "differ": [
+      168
+    ],
+    "clinically": [
+      171
+    ],
+    "injuries,": [
+      177
+    ],
+    "however": [
+      178
+    ],
+    "applies": [
+      180
+    ],
+    "injuries": [
+      182,
+      265
+    ],
+    "extend": [
+      184
+    ],
+    "which": [
+      186
+    ],
+    "exceed": [
+      189
+    ],
+    "2–3": [
+      190
+    ],
+    "clock-hours": [
+      191
+    ],
+    "found": [
+      198
+    ],
+    "direction": [
+      201
+    ],
+    "impact": [
+      204,
+      226
+    ],
+    "applied": [
+      205
+    ],
+    "determines": [
+      206
+    ],
+    "Most": [
+      212
+    ],
+    "often": [
+      213,
+      267,
+      295
+    ],
+    "occurs": [
+      216,
+      231
+    ],
+    "point": [
+      219
+    ],
+    "opposite": [
+      220
+    ],
+    "clock-hour": [
+      223
+    ],
+    "application.": [
+      227
+    ],
+    "first": [
+      234
+    ],
+    "7–8": [
+      235
+    ],
+    "milliseconds": [
+      236
+    ],
+    "after": [
+      237
+    ],
+    "contact": [
+      239
+    ],
+    "with": [
+      240
+    ],
+    "striking": [
+      242
+    ],
+    "object,": [
+      243
+    ],
+    "assuming": [
+      244
+    ],
+    "strikes": [
+      247
+    ],
+    "speed": [
+      250,
+      254
+    ],
+    "close": [
+      251
+    ],
+    "human": [
+      257
+    ],
+    "fist.": [
+      258
+    ],
+    "established": [
+      262
+    ],
+    "most": [
+      266,
+      294
+    ],
+    "affected": [
+      268
+    ],
+    "upper": [
+      270
+    ],
+    "sectors": [
+      271
+    ],
+    "Men": [
+      275
+    ],
+    "are": [
+      276
+    ],
+    "definitely": [
+      277
+    ],
+    "more": [
+      278
+    ],
+    "likely": [
+      279
+    ],
+    "sustain": [
+      281
+    ],
+    "such": [
+      282
+    ],
+    "injuries.": [
+      283,
+      358
+    ],
+    "Eyeball": [
+      284
+    ],
+    "ruptures": [
+      285
+    ],
+    "lead": [
+      286
+    ],
+    "significant": [
+      288
+    ],
+    "impairment": [
+      289
+    ],
+    "visual": [
+      291,
+      317
+    ],
+    "acuity": [
+      292,
+      318
+    ],
+    "being": [
+      293
+    ],
+    "degraded": [
+      296
+    ],
+    "light": [
+      298
+    ],
+    "perception": [
+      299
+    ],
+    "front": [
+      301
+    ],
+    "eye.": [
+      304
+    ],
+    "Despite": [
+      305
+    ],
+    "immediate": [
+      306
+    ],
+    "specialist": [
+      307
+    ],
+    "treatment,": [
+      308
+    ],
+    "is": [
+      310
+    ],
+    "achieve,": [
+      313
+    ],
+    "average,": [
+      315
+    ],
+    "0.26": [
+      320
+    ],
+    "per": [
+      322
+    ],
+    "Snellen": [
+      324
+    ],
+    "scale.": [
+      325
+    ],
+    "This": [
+      326
+    ],
+    "may": [
+      328,
+      342
+    ],
+    "contribute": [
+      329,
+      344
+    ],
+    "better": [
+      332,
+      338
+    ],
+    "understanding": [
+      333
+    ],
+    "mechanisms": [
+      336
+    ],
+    "treatment": [
+      339
+    ],
+    "planning.": [
+      340
+    ],
+    "also": [
+      343
+    ],
+    "development": [
+      347
+    ],
+    "protection": [
+      350
+    ],
+    "methods": [
+      351
+    ],
+    "for": [
+      352
+    ],
+    "persons": [
+      353
+    ],
+    "exposed": [
+      354
+    ],
+    "above-mentioned": [
+      357
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

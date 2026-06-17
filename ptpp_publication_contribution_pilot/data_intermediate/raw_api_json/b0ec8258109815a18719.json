@@ -1,0 +1,1420 @@
+{
+  "id": "https://openalex.org/W4386639413",
+  "doi": "https://doi.org/10.3390/rs15184478",
+  "title": "Comparative Analysis of the H2PT Ionosphere Model",
+  "display_name": "Comparative Analysis of the H2PT Ionosphere Model",
+  "publication_year": 2023,
+  "publication_date": "2023-09-12",
+  "ids": {
+    "openalex": "https://openalex.org/W4386639413",
+    "doi": "https://doi.org/10.3390/rs15184478"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/rs15184478",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/rs15184478",
+    "pdf_url": "https://www.mdpi.com/2072-4292/15/18/4478/pdf?version=1694497693",
+    "source": {
+      "id": "https://openalex.org/S43295729",
+      "display_name": "Remote Sensing",
+      "issn_l": "2072-4292",
+      "issn": [
+        "2072-4292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Remote Sensing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2072-4292/15/18/4478/pdf?version=1694497693",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5092852814",
+        "display_name": "Paulina Gajdowska",
+        "orcid": "https://orcid.org/0009-0008-5848-5625"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Paulina Gajdowska",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0008-5848-5625",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010927456",
+        "display_name": "Anna Świątek",
+        "orcid": "https://orcid.org/0000-0002-8659-4545"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Świątek",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8659-4545",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024253772",
+        "display_name": "Łukasz Tomasik",
+        "orcid": "https://orcid.org/0000-0002-9128-3514"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Łukasz Tomasik",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9128-3514",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5073126590",
+        "display_name": "Mariusz Pożoga",
+        "orcid": "https://orcid.org/0000-0002-6467-7091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mariusz Pożoga",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6467-7091",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych Polskiej Akademii Nauk, Bartycka 18A, 00-716 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5092852814"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I122697084"
+  ],
+  "apc_list": {
+    "value": 2500,
+    "currency": "CHF",
+    "value_usd": 2707
+  },
+  "apc_paid": {
+    "value": 2500,
+    "currency": "CHF",
+    "value_usd": 2707
+  },
+  "fwci": 0.1719,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.58562776,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "18",
+    "first_page": "4478",
+    "last_page": "4478"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10159",
+    "display_name": "Ionosphere and magnetosphere dynamics",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3103",
+      "display_name": "Astronomy and Astrophysics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10159",
+      "display_name": "Ionosphere and magnetosphere dynamics",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10655",
+      "display_name": "GNSS positioning and interference",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11405",
+      "display_name": "Geophysics and Gravity Measurements",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/ionosphere",
+      "display_name": "Ionosphere",
+      "score": 0.781857430934906
+    },
+    {
+      "id": "https://openalex.org/keywords/gnss-applications",
+      "display_name": "GNSS applications",
+      "score": 0.7276197075843811
+    },
+    {
+      "id": "https://openalex.org/keywords/total-electron-content",
+      "display_name": "Total electron content",
+      "score": 0.5981013178825378
+    },
+    {
+      "id": "https://openalex.org/keywords/longitude",
+      "display_name": "Longitude",
+      "score": 0.5369313359260559
+    },
+    {
+      "id": "https://openalex.org/keywords/satellite",
+      "display_name": "Satellite",
+      "score": 0.5138523578643799
+    },
+    {
+      "id": "https://openalex.org/keywords/latitude",
+      "display_name": "Latitude",
+      "score": 0.5058233737945557
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.48957833647727966
+    },
+    {
+      "id": "https://openalex.org/keywords/geodesy",
+      "display_name": "Geodesy",
+      "score": 0.4547913670539856
+    },
+    {
+      "id": "https://openalex.org/keywords/satellite-system",
+      "display_name": "Satellite system",
+      "score": 0.418760746717453
+    },
+    {
+      "id": "https://openalex.org/keywords/remote-sensing",
+      "display_name": "Remote sensing",
+      "score": 0.3911733329296112
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.3766421675682068
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.36151641607284546
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.34566354751586914
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.2794364094734192
+    },
+    {
+      "id": "https://openalex.org/keywords/tec",
+      "display_name": "TEC",
+      "score": 0.21023407578468323
+    },
+    {
+      "id": "https://openalex.org/keywords/geophysics",
+      "display_name": "Geophysics",
+      "score": 0.12988990545272827
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.1269640028476715
+    },
+    {
+      "id": "https://openalex.org/keywords/astronomy",
+      "display_name": "Astronomy",
+      "score": 0.0676318109035492
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C116403925",
+      "wikidata": "https://www.wikidata.org/wiki/Q162219",
+      "display_name": "Ionosphere",
+      "level": 2,
+      "score": 0.781857430934906
+    },
+    {
+      "id": "https://openalex.org/C14279187",
+      "wikidata": "https://www.wikidata.org/wiki/Q5514012",
+      "display_name": "GNSS applications",
+      "level": 3,
+      "score": 0.7276197075843811
+    },
+    {
+      "id": "https://openalex.org/C165391973",
+      "wikidata": "https://www.wikidata.org/wiki/Q844304",
+      "display_name": "Total electron content",
+      "level": 4,
+      "score": 0.5981013178825378
+    },
+    {
+      "id": "https://openalex.org/C2780554747",
+      "wikidata": "https://www.wikidata.org/wiki/Q36477",
+      "display_name": "Longitude",
+      "level": 3,
+      "score": 0.5369313359260559
+    },
+    {
+      "id": "https://openalex.org/C19269812",
+      "wikidata": "https://www.wikidata.org/wiki/Q26540",
+      "display_name": "Satellite",
+      "level": 2,
+      "score": 0.5138523578643799
+    },
+    {
+      "id": "https://openalex.org/C122523270",
+      "wikidata": "https://www.wikidata.org/wiki/Q34027",
+      "display_name": "Latitude",
+      "level": 2,
+      "score": 0.5058233737945557
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.48957833647727966
+    },
+    {
+      "id": "https://openalex.org/C13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "level": 1,
+      "score": 0.4547913670539856
+    },
+    {
+      "id": "https://openalex.org/C2778027091",
+      "wikidata": "https://www.wikidata.org/wiki/Q25346003",
+      "display_name": "Satellite system",
+      "level": 4,
+      "score": 0.418760746717453
+    },
+    {
+      "id": "https://openalex.org/C62649853",
+      "wikidata": "https://www.wikidata.org/wiki/Q199687",
+      "display_name": "Remote sensing",
+      "level": 1,
+      "score": 0.3911733329296112
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.3766421675682068
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.36151641607284546
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.34566354751586914
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.2794364094734192
+    },
+    {
+      "id": "https://openalex.org/C176379880",
+      "wikidata": "https://www.wikidata.org/wiki/Q18031939",
+      "display_name": "TEC",
+      "level": 3,
+      "score": 0.21023407578468323
+    },
+    {
+      "id": "https://openalex.org/C8058405",
+      "wikidata": "https://www.wikidata.org/wiki/Q46255",
+      "display_name": "Geophysics",
+      "level": 1,
+      "score": 0.12988990545272827
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.1269640028476715
+    },
+    {
+      "id": "https://openalex.org/C1276947",
+      "wikidata": "https://www.wikidata.org/wiki/Q333",
+      "display_name": "Astronomy",
+      "level": 1,
+      "score": 0.0676318109035492
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/rs15184478",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/rs15184478",
+      "pdf_url": "https://www.mdpi.com/2072-4292/15/18/4478/pdf?version=1694497693",
+      "source": {
+        "id": "https://openalex.org/S43295729",
+        "display_name": "Remote Sensing",
+        "issn_l": "2072-4292",
+        "issn": [
+          "2072-4292"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Remote Sensing",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:332a2c17a9cd45dbb8773a0faf264cb3",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/332a2c17a9cd45dbb8773a0faf264cb3",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Remote Sensing, Vol 15, Iss 18, p 4478 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/rs15184478",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/rs15184478",
+    "pdf_url": "https://www.mdpi.com/2072-4292/15/18/4478/pdf?version=1694497693",
+    "source": {
+      "id": "https://openalex.org/S43295729",
+      "display_name": "Remote Sensing",
+      "issn_l": "2072-4292",
+      "issn": [
+        "2072-4292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Remote Sensing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5,
+      "id": "https://metadata.un.org/sdg/14",
+      "display_name": "Life below water"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4386639413.pdf"
+  },
+  "referenced_works_count": 25,
+  "referenced_works": [
+    "https://openalex.org/W1978108609",
+    "https://openalex.org/W1987326676",
+    "https://openalex.org/W1995447757",
+    "https://openalex.org/W2021594447",
+    "https://openalex.org/W2038698475",
+    "https://openalex.org/W2058160370",
+    "https://openalex.org/W2075056964",
+    "https://openalex.org/W2080527848",
+    "https://openalex.org/W2095093213",
+    "https://openalex.org/W2132338983",
+    "https://openalex.org/W2153105094",
+    "https://openalex.org/W2539003465",
+    "https://openalex.org/W2581791561",
+    "https://openalex.org/W2583473598",
+    "https://openalex.org/W2588308723",
+    "https://openalex.org/W2611351333",
+    "https://openalex.org/W2625043143",
+    "https://openalex.org/W2765631674",
+    "https://openalex.org/W2769355536",
+    "https://openalex.org/W2937993478",
+    "https://openalex.org/W2992602072",
+    "https://openalex.org/W3161875376",
+    "https://openalex.org/W3173302115",
+    "https://openalex.org/W4249989757",
+    "https://openalex.org/W6732447318"
+  ],
+  "related_works": [
+    "https://openalex.org/W1989070650",
+    "https://openalex.org/W2550010074",
+    "https://openalex.org/W2995463382",
+    "https://openalex.org/W2038143119",
+    "https://openalex.org/W4387332347",
+    "https://openalex.org/W2606296569",
+    "https://openalex.org/W3187839235",
+    "https://openalex.org/W2375040471",
+    "https://openalex.org/W2068158190",
+    "https://openalex.org/W2916802843"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      179,
+      265,
+      282
+    ],
+    "ionosphere": [
+      1,
+      74,
+      247
+    ],
+    "stands": [
+      2
+    ],
+    "in": [
+      3,
+      72,
+      113,
+      170,
+      182,
+      196,
+      279,
+      310
+    ],
+    "the": [
+      4,
+      20,
+      26,
+      38,
+      50,
+      61,
+      65,
+      68,
+      73,
+      81,
+      104,
+      120,
+      124,
+      157,
+      161,
+      165,
+      171,
+      199,
+      202,
+      205,
+      208,
+      221,
+      234,
+      246,
+      263,
+      273,
+      280,
+      303,
+      306
+    ],
+    "path": [
+      5
+    ],
+    "of": [
+      6,
+      28,
+      52,
+      60,
+      67,
+      78,
+      96,
+      106,
+      126,
+      134,
+      144,
+      173,
+      223,
+      245,
+      275,
+      287,
+      305
+    ],
+    "signals": [
+      7
+    ],
+    "emitted": [
+      8
+    ],
+    "by": [
+      9,
+      92,
+      240
+    ],
+    "Global": [
+      10
+    ],
+    "Navigation": [
+      11
+    ],
+    "Satellite": [
+      12
+    ],
+    "System": [
+      13
+    ],
+    "(GNSS)": [
+      14
+    ],
+    "satellites": [
+      15
+    ],
+    "to": [
+      16,
+      34,
+      48,
+      108,
+      155,
+      187,
+      191,
+      229,
+      250,
+      256,
+      262,
+      299,
+      302
+    ],
+    "receivers": [
+      17
+    ],
+    "located": [
+      18
+    ],
+    "on": [
+      19,
+      83,
+      103
+    ],
+    "Earth’s": [
+      21
+    ],
+    "surface.": [
+      22
+    ],
+    "Many": [
+      23
+    ],
+    "factors": [
+      24
+    ],
+    "affect": [
+      25
+    ],
+    "accuracy": [
+      27
+    ],
+    "satellite": [
+      29,
+      84
+    ],
+    "positioning,": [
+      30
+    ],
+    "but": [
+      31
+    ],
+    "error": [
+      32
+    ],
+    "due": [
+      33
+    ],
+    "ionospheric": [
+      35,
+      53,
+      56,
+      308
+    ],
+    "refraction": [
+      36
+    ],
+    "is": [
+      37,
+      46,
+      75,
+      86,
+      286
+    ],
+    "largest": [
+      39
+    ],
+    "among": [
+      40
+    ],
+    "them.": [
+      41
+    ],
+    "For": [
+      42
+    ],
+    "this": [
+      43,
+      118
+    ],
+    "reason,": [
+      44
+    ],
+    "it": [
+      45,
+      90,
+      216
+    ],
+    "important": [
+      47
+    ],
+    "minimize": [
+      49
+    ],
+    "impact": [
+      51
+    ],
+    "refraction,": [
+      54
+    ],
+    "and": [
+      55,
+      94,
+      98,
+      137,
+      148,
+      291
+    ],
+    "models": [
+      57,
+      101
+    ],
+    "are": [
+      58,
+      110
+    ],
+    "one": [
+      59
+    ],
+    "methods": [
+      62
+    ],
+    "used.": [
+      63
+    ],
+    "As": [
+      64
+    ],
+    "intensity": [
+      66
+    ],
+    "processes": [
+      69
+    ],
+    "taking": [
+      70
+    ],
+    "place": [
+      71
+    ],
+    "variable": [
+      76
+    ],
+    "because": [
+      77
+    ],
+    "solar": [
+      79
+    ],
+    "activity,": [
+      80
+    ],
+    "influence": [
+      82
+    ],
+    "observations": [
+      85
+    ],
+    "also": [
+      87
+    ],
+    "not": [
+      88
+    ],
+    "constant;": [
+      89
+    ],
+    "varies": [
+      91
+    ],
+    "location": [
+      93
+    ],
+    "time": [
+      95
+    ],
+    "day": [
+      97
+    ],
+    "year.": [
+      99
+    ],
+    "Therefore,": [
+      100
+    ],
+    "focusing": [
+      102
+    ],
+    "region": [
+      105,
+      125
+    ],
+    "interest": [
+      107
+    ],
+    "users": [
+      109
+    ],
+    "especially": [
+      111
+    ],
+    "useful": [
+      112
+    ],
+    "precise": [
+      114
+    ],
+    "GNSS": [
+      115,
+      167,
+      311
+    ],
+    "applications.": [
+      116
+    ],
+    "In": [
+      117
+    ],
+    "research,": [
+      119
+    ],
+    "H2PT": [
+      121,
+      158,
+      180
+    ],
+    "model": [
+      122,
+      159
+    ],
+    "covering": [
+      123
+    ],
+    "Europe": [
+      127
+    ],
+    "was": [
+      128,
+      201,
+      217
+    ],
+    "examined": [
+      129
+    ],
+    "at": [
+      130
+    ],
+    "a": [
+      131,
+      213,
+      224,
+      251,
+      269,
+      288,
+      293
+    ],
+    "temporal": [
+      132
+    ],
+    "resolution": [
+      133
+    ],
+    "15": [
+      135
+    ],
+    "min": [
+      136
+    ],
+    "two": [
+      138
+    ],
+    "spatial": [
+      139
+    ],
+    "resolutions": [
+      140
+    ],
+    "(latitude": [
+      141
+    ],
+    "×": [
+      142,
+      146,
+      150
+    ],
+    "longitude)": [
+      143
+    ],
+    "1°": [
+      145,
+      147
+    ],
+    "5°": [
+      149
+    ],
+    "5°.": [
+      151
+    ],
+    "This": [
+      152
+    ],
+    "study": [
+      153
+    ],
+    "aimed": [
+      154
+    ],
+    "compare": [
+      156
+    ],
+    "with": [
+      160,
+      268
+    ],
+    "solution": [
+      162
+    ],
+    "obtained": [
+      163
+    ],
+    "from": [
+      164,
+      236
+    ],
+    "International": [
+      166
+    ],
+    "Service": [
+      168
+    ],
+    "(IGS)": [
+      169
+    ],
+    "context": [
+      172
+    ],
+    "vertical": [
+      174
+    ],
+    "total": [
+      175
+    ],
+    "electron": [
+      176
+    ],
+    "content": [
+      177
+    ],
+    "(VTEC).": [
+      178
+    ],
+    "values": [
+      181
+    ],
+    "high-latitude": [
+      183
+    ],
+    "regions": [
+      184
+    ],
+    "turned": [
+      185
+    ],
+    "out": [
+      186
+    ],
+    "be": [
+      188,
+      300
+    ],
+    "overestimated": [
+      189
+    ],
+    "compared": [
+      190
+    ],
+    "IGS": [
+      192
+    ],
+    "VTEC": [
+      193
+    ],
+    "maps,": [
+      194
+    ],
+    "while,": [
+      195
+    ],
+    "low-latitude": [
+      197
+    ],
+    "regions,": [
+      198
+    ],
+    "situation": [
+      200
+    ],
+    "opposite.": [
+      203
+    ],
+    "Although": [
+      204
+    ],
+    "differences": [
+      206
+    ],
+    "between": [
+      207
+    ],
+    "analyzed": [
+      209,
+      283
+    ],
+    "maps": [
+      210
+    ],
+    "were": [
+      211,
+      248
+    ],
+    "usually": [
+      212
+    ],
+    "few": [
+      214
+    ],
+    "TECUs,": [
+      215
+    ],
+    "observed": [
+      218
+    ],
+    "that,": [
+      219
+    ],
+    "during": [
+      220
+    ],
+    "course": [
+      222
+    ],
+    "day,": [
+      225
+    ],
+    "they": [
+      226
+    ],
+    "could": [
+      227
+    ],
+    "increase": [
+      228
+    ],
+    "several": [
+      230
+    ],
+    "dozen": [
+      231
+    ],
+    "TECUs.": [
+      232
+    ],
+    "Furthermore,": [
+      233
+    ],
+    "data": [
+      235,
+      266
+    ],
+    "selected": [
+      237
+    ],
+    "days": [
+      238
+    ],
+    "characterized": [
+      239
+    ],
+    "high": [
+      241,
+      295
+    ],
+    "or": [
+      242
+    ],
+    "low": [
+      243
+    ],
+    "activity": [
+      244
+    ],
+    "subjected": [
+      249
+    ],
+    "detailed": [
+      252
+    ],
+    "analysis": [
+      253
+    ],
+    "(in": [
+      254
+    ],
+    "relation": [
+      255
+    ],
+    "quiet": [
+      257
+    ],
+    "days,": [
+      258
+    ],
+    "as": [
+      259,
+      261
+    ],
+    "well": [
+      260
+    ],
+    "median).": [
+      264
+    ],
+    "available": [
+      267
+    ],
+    "15-min": [
+      270
+    ],
+    "interval": [
+      271
+    ],
+    "allowed": [
+      272
+    ],
+    "identification": [
+      274
+    ],
+    "short-term": [
+      276
+    ],
+    "disturbances": [
+      277
+    ],
+    "appearing": [
+      278
+    ],
+    "ionosphere.": [
+      281
+    ],
+    "model,": [
+      284
+    ],
+    "which": [
+      285
+    ],
+    "regional": [
+      289
+    ],
+    "nature": [
+      290
+    ],
+    "has": [
+      292
+    ],
+    "relatively": [
+      294
+    ],
+    "resolution,": [
+      296
+    ],
+    "allows": [
+      297
+    ],
+    "improvement": [
+      298
+    ],
+    "made": [
+      301
+    ],
+    "quality": [
+      304
+    ],
+    "determined": [
+      307
+    ],
+    "correction": [
+      309
+    ],
+    "positioning.": [
+      312
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

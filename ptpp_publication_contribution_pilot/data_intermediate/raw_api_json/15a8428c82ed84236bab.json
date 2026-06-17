@@ -1,0 +1,576 @@
+{
+  "id": "https://openalex.org/W3036006578",
+  "doi": "https://doi.org/10.1007/978-3-030-50423-6_14",
+  "title": "Fingerprinting of URL Logs: Continuous User Authentication from Behavioural Patterns",
+  "display_name": "Fingerprinting of URL Logs: Continuous User Authentication from Behavioural Patterns",
+  "publication_year": 2020,
+  "publication_date": "2020-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3036006578",
+    "doi": "https://doi.org/10.1007/978-3-030-50423-6_14",
+    "mag": "3036006578"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-030-50423-6_14",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-030-50423-6_14",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106296714",
+      "display_name": "Lecture notes in computer science",
+      "issn_l": "0302-9743",
+      "issn": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Lecture Notes in Computer Science",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7303709",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5057695150",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-1572-3426"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [
+        "Czȩstochowa University of Technology, Al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1572-3426",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czȩstochowa University of Technology, Al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030544448",
+        "display_name": "Taras Holotyak",
+        "orcid": "https://orcid.org/0009-0002-2490-0276"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Taras Holotyak",
+      "raw_affiliation_strings": [
+        "Department of Computer Science, University of Geneva, Geneva, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science, University of Geneva, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047316191",
+        "display_name": "Marcin Korytkowski",
+        "orcid": "https://orcid.org/0000-0002-6002-2733"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Korytkowski",
+      "raw_affiliation_strings": [
+        "Czȩstochowa University of Technology, Al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6002-2733",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czȩstochowa University of Technology, Al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036573895",
+        "display_name": "Rafał Scherer",
+        "orcid": "https://orcid.org/0000-0001-9592-262X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rafał Scherer",
+      "raw_affiliation_strings": [
+        "Czȩstochowa University of Technology, Al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9592-262X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czȩstochowa University of Technology, Al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5091506990",
+        "display_name": "Slava Voloshynovskiy",
+        "orcid": "https://orcid.org/0000-0003-0416-9674"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Slava Voloshynovskiy",
+      "raw_affiliation_strings": [
+        "Department of Computer Science, University of Geneva, Geneva, Switzerland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0416-9674",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science, University of Geneva, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 5000,
+    "currency": "EUR",
+    "value_usd": 5392
+  },
+  "apc_paid": null,
+  "fwci": 1.8498,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.85728796,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "184",
+    "last_page": "195"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11241",
+    "display_name": "Advanced Malware Detection Techniques",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1711",
+      "display_name": "Signal Processing"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11241",
+      "display_name": "Advanced Malware Detection Techniques",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1711",
+        "display_name": "Signal Processing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10400",
+      "display_name": "Network Security and Intrusion Detection",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8694038391113281
+    },
+    {
+      "id": "https://openalex.org/keywords/authentication",
+      "display_name": "Authentication (law)",
+      "score": 0.5766465067863464
+    },
+    {
+      "id": "https://openalex.org/keywords/biometrics",
+      "display_name": "Biometrics",
+      "score": 0.41848987340927124
+    },
+    {
+      "id": "https://openalex.org/keywords/information-retrieval",
+      "display_name": "Information retrieval",
+      "score": 0.3372730612754822
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-security",
+      "display_name": "Computer security",
+      "score": 0.3006284832954407
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8694038391113281
+    },
+    {
+      "id": "https://openalex.org/C148417208",
+      "wikidata": "https://www.wikidata.org/wiki/Q4825882",
+      "display_name": "Authentication (law)",
+      "level": 2,
+      "score": 0.5766465067863464
+    },
+    {
+      "id": "https://openalex.org/C184297639",
+      "wikidata": "https://www.wikidata.org/wiki/Q177765",
+      "display_name": "Biometrics",
+      "level": 2,
+      "score": 0.41848987340927124
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.3372730612754822
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.3006284832954407
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-030-50423-6_14",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-030-50423-6_14",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106296714",
+        "display_name": "Lecture notes in computer science",
+        "issn_l": "0302-9743",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Lecture Notes in Computer Science",
+      "raw_type": "book-chapter"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7303709",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7303709",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Computational Science – ICCS 2020",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:pubmedcentral.nih.gov:7303709",
+    "is_oa": true,
+    "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7303709",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1299303238",
+      "host_organization_name": "National Institutes of Health",
+      "host_organization_lineage": [
+        "https://openalex.org/I1299303238"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Computational Science – ICCS 2020",
+    "raw_type": "Text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 21,
+  "referenced_works": [
+    "https://openalex.org/W1633071488",
+    "https://openalex.org/W1901129140",
+    "https://openalex.org/W2012481173",
+    "https://openalex.org/W2099471712",
+    "https://openalex.org/W2144172034",
+    "https://openalex.org/W2147152072",
+    "https://openalex.org/W2170240176",
+    "https://openalex.org/W2407949107",
+    "https://openalex.org/W2476548250",
+    "https://openalex.org/W2480074974",
+    "https://openalex.org/W2617978315",
+    "https://openalex.org/W2741961238",
+    "https://openalex.org/W2798956329",
+    "https://openalex.org/W2883778034",
+    "https://openalex.org/W2903621324",
+    "https://openalex.org/W2913087274",
+    "https://openalex.org/W2913932916",
+    "https://openalex.org/W2949117887",
+    "https://openalex.org/W3104966193",
+    "https://openalex.org/W6600020652",
+    "https://openalex.org/W6679338098"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2076845124",
+    "https://openalex.org/W2183964146",
+    "https://openalex.org/W2379932303",
+    "https://openalex.org/W3147744369",
+    "https://openalex.org/W4241440711",
+    "https://openalex.org/W2062586268",
+    "https://openalex.org/W2019582947",
+    "https://openalex.org/W3104966193",
+    "https://openalex.org/W2912135041"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

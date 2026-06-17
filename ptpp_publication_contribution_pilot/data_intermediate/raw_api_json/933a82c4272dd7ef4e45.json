@@ -1,0 +1,1085 @@
+{
+  "id": "https://openalex.org/W4388092045",
+  "doi": "https://doi.org/10.3390/ph16111539",
+  "title": "Searching for Natural Aurora a Kinase Inhibitors from Peppers Using Molecular Docking and Molecular Dynamics",
+  "display_name": "Searching for Natural Aurora a Kinase Inhibitors from Peppers Using Molecular Docking and Molecular Dynamics",
+  "publication_year": 2023,
+  "publication_date": "2023-10-31",
+  "ids": {
+    "openalex": "https://openalex.org/W4388092045",
+    "doi": "https://doi.org/10.3390/ph16111539",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38004405"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/ph16111539",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/ph16111539",
+    "pdf_url": "https://www.mdpi.com/1424-8247/16/11/1539/pdf?version=1699342992",
+    "source": {
+      "id": "https://openalex.org/S16322639",
+      "display_name": "Pharmaceuticals",
+      "issn_l": "1424-8247",
+      "issn": [
+        "1424-8247"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Pharmaceuticals",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1424-8247/16/11/1539/pdf?version=1699342992",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001041981",
+        "display_name": "Paweł Siudem",
+        "orcid": "https://orcid.org/0000-0002-8674-3774"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Paweł Siudem",
+      "raw_affiliation_strings": [
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8674-3774",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080388782",
+        "display_name": "Łukasz Szeleszczuk",
+        "orcid": "https://orcid.org/0000-0002-5302-3797"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Łukasz Szeleszczuk",
+      "raw_affiliation_strings": [
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5302-3797",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5043791899",
+        "display_name": "Katarzyna Paradowska",
+        "orcid": "https://orcid.org/0000-0002-9613-856X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Paradowska",
+      "raw_affiliation_strings": [
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9613-856X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5001041981"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I268303160"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "fwci": 1.57,
+  "has_fulltext": true,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.82305366,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "11",
+    "first_page": "1539",
+    "last_page": "1539"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10492",
+    "display_name": "Microtubule and mitosis dynamics",
+    "score": 0.9905999898910522,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1307",
+      "display_name": "Cell Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10492",
+      "display_name": "Microtubule and mitosis dynamics",
+      "score": 0.9905999898910522,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11845",
+      "display_name": "Cancer therapeutics and mechanisms",
+      "score": 0.9846000075340271,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12412",
+      "display_name": "Enzyme function and inhibition",
+      "score": 0.9825000166893005,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/aurora-kinase",
+      "display_name": "Aurora kinase",
+      "score": 0.6682353019714355
+    },
+    {
+      "id": "https://openalex.org/keywords/docking",
+      "display_name": "Docking (animal)",
+      "score": 0.5746749639511108
+    },
+    {
+      "id": "https://openalex.org/keywords/kinase",
+      "display_name": "Kinase",
+      "score": 0.5177294611930847
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-cell-lines",
+      "display_name": "Cancer cell lines",
+      "score": 0.5057778358459473
+    },
+    {
+      "id": "https://openalex.org/keywords/piper",
+      "display_name": "Piper",
+      "score": 0.485635906457901
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.479892373085022
+    },
+    {
+      "id": "https://openalex.org/keywords/aurora-a-kinase",
+      "display_name": "Aurora A kinase",
+      "score": 0.452776700258255
+    },
+    {
+      "id": "https://openalex.org/keywords/in-vitro",
+      "display_name": "In vitro",
+      "score": 0.44637665152549744
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.42422235012054443
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-cell",
+      "display_name": "Cancer cell",
+      "score": 0.31227949261665344
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.3027849495410919
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.27056172490119934
+    },
+    {
+      "id": "https://openalex.org/keywords/cell",
+      "display_name": "Cell",
+      "score": 0.22458496689796448
+    },
+    {
+      "id": "https://openalex.org/keywords/botany",
+      "display_name": "Botany",
+      "score": 0.19411331415176392
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.1619919240474701
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.13288521766662598
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-cycle",
+      "display_name": "Cell cycle",
+      "score": 0.0731528103351593
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780808130",
+      "wikidata": "https://www.wikidata.org/wiki/Q24745285",
+      "display_name": "Aurora kinase",
+      "level": 4,
+      "score": 0.6682353019714355
+    },
+    {
+      "id": "https://openalex.org/C41685203",
+      "wikidata": "https://www.wikidata.org/wiki/Q1974042",
+      "display_name": "Docking (animal)",
+      "level": 2,
+      "score": 0.5746749639511108
+    },
+    {
+      "id": "https://openalex.org/C184235292",
+      "wikidata": "https://www.wikidata.org/wiki/Q421851",
+      "display_name": "Kinase",
+      "level": 2,
+      "score": 0.5177294611930847
+    },
+    {
+      "id": "https://openalex.org/C2994372470",
+      "wikidata": "https://www.wikidata.org/wiki/Q4118072",
+      "display_name": "Cancer cell lines",
+      "level": 4,
+      "score": 0.5057778358459473
+    },
+    {
+      "id": "https://openalex.org/C2777155639",
+      "wikidata": "https://www.wikidata.org/wiki/Q159536",
+      "display_name": "Piper",
+      "level": 2,
+      "score": 0.485635906457901
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.479892373085022
+    },
+    {
+      "id": "https://openalex.org/C2779425043",
+      "wikidata": "https://www.wikidata.org/wiki/Q14905704",
+      "display_name": "Aurora A kinase",
+      "level": 3,
+      "score": 0.452776700258255
+    },
+    {
+      "id": "https://openalex.org/C202751555",
+      "wikidata": "https://www.wikidata.org/wiki/Q221681",
+      "display_name": "In vitro",
+      "level": 2,
+      "score": 0.44637665152549744
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.42422235012054443
+    },
+    {
+      "id": "https://openalex.org/C96232424",
+      "wikidata": "https://www.wikidata.org/wiki/Q4118072",
+      "display_name": "Cancer cell",
+      "level": 3,
+      "score": 0.31227949261665344
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3027849495410919
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.27056172490119934
+    },
+    {
+      "id": "https://openalex.org/C1491633281",
+      "wikidata": "https://www.wikidata.org/wiki/Q7868",
+      "display_name": "Cell",
+      "level": 2,
+      "score": 0.22458496689796448
+    },
+    {
+      "id": "https://openalex.org/C59822182",
+      "wikidata": "https://www.wikidata.org/wiki/Q441",
+      "display_name": "Botany",
+      "level": 1,
+      "score": 0.19411331415176392
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.1619919240474701
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.13288521766662598
+    },
+    {
+      "id": "https://openalex.org/C29537977",
+      "wikidata": "https://www.wikidata.org/wiki/Q188941",
+      "display_name": "Cell cycle",
+      "level": 3,
+      "score": 0.0731528103351593
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.3390/ph16111539",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/ph16111539",
+      "pdf_url": "https://www.mdpi.com/1424-8247/16/11/1539/pdf?version=1699342992",
+      "source": {
+        "id": "https://openalex.org/S16322639",
+        "display_name": "Pharmaceuticals",
+        "issn_l": "1424-8247",
+        "issn": [
+          "1424-8247"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Pharmaceuticals",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38004405",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38004405",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Pharmaceuticals (Basel, Switzerland)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10674409",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10674409",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10674409/pdf/pharmaceuticals-16-01539.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Pharmaceuticals (Basel)",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:60ad0abc2b824e62acef2fbd3b6a5545",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/60ad0abc2b824e62acef2fbd3b6a5545",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Pharmaceuticals, Vol 16, Iss 11, p 1539 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/ph16111539",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/ph16111539",
+    "pdf_url": "https://www.mdpi.com/1424-8247/16/11/1539/pdf?version=1699342992",
+    "source": {
+      "id": "https://openalex.org/S16322639",
+      "display_name": "Pharmaceuticals",
+      "issn_l": "1424-8247",
+      "issn": [
+        "1424-8247"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Pharmaceuticals",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.6200000047683716,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G25309509",
+      "display_name": null,
+      "funder_award_id": "NCN 2021/05/X/NZ7/00150",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4388092045.pdf"
+  },
+  "referenced_works_count": 43,
+  "referenced_works": [
+    "https://openalex.org/W1488179916",
+    "https://openalex.org/W1970815499",
+    "https://openalex.org/W1976499671",
+    "https://openalex.org/W1979688569",
+    "https://openalex.org/W1997851369",
+    "https://openalex.org/W2012426485",
+    "https://openalex.org/W2020773324",
+    "https://openalex.org/W2027741380",
+    "https://openalex.org/W2034748783",
+    "https://openalex.org/W2037988871",
+    "https://openalex.org/W2047825840",
+    "https://openalex.org/W2064261028",
+    "https://openalex.org/W2064875360",
+    "https://openalex.org/W2067115862",
+    "https://openalex.org/W2067468321",
+    "https://openalex.org/W2073259012",
+    "https://openalex.org/W2073457703",
+    "https://openalex.org/W2096200847",
+    "https://openalex.org/W2105668062",
+    "https://openalex.org/W2107204084",
+    "https://openalex.org/W2112715977",
+    "https://openalex.org/W2115654148",
+    "https://openalex.org/W2128814059",
+    "https://openalex.org/W2130479394",
+    "https://openalex.org/W2140366256",
+    "https://openalex.org/W2152630148",
+    "https://openalex.org/W2179574945",
+    "https://openalex.org/W2224794379",
+    "https://openalex.org/W2230336731",
+    "https://openalex.org/W2276913308",
+    "https://openalex.org/W2621289677",
+    "https://openalex.org/W2791959110",
+    "https://openalex.org/W2794102506",
+    "https://openalex.org/W2804636211",
+    "https://openalex.org/W2965992457",
+    "https://openalex.org/W2971726448",
+    "https://openalex.org/W3023294244",
+    "https://openalex.org/W3105652843",
+    "https://openalex.org/W3119261195",
+    "https://openalex.org/W4284888856",
+    "https://openalex.org/W4309736747",
+    "https://openalex.org/W4385555211",
+    "https://openalex.org/W6674588551"
+  ],
+  "related_works": [
+    "https://openalex.org/W2048257547",
+    "https://openalex.org/W2027057177",
+    "https://openalex.org/W2094394948",
+    "https://openalex.org/W2833206184",
+    "https://openalex.org/W2033923680",
+    "https://openalex.org/W2012833528",
+    "https://openalex.org/W2111599174",
+    "https://openalex.org/W3010271627",
+    "https://openalex.org/W3127935805",
+    "https://openalex.org/W3158394715"
+  ],
+  "abstract_inverted_index": {
+    ")": [
+      0
+    ],
+    "are": [
+      1
+    ],
+    "a": [
+      2,
+      86
+    ],
+    "rich": [
+      3
+    ],
+    "source": [
+      4
+    ],
+    "of": [
+      5,
+      13,
+      31,
+      41,
+      47,
+      51,
+      75,
+      91,
+      98
+    ],
+    "compounds": [
+      6,
+      33,
+      69,
+      123
+    ],
+    "with": [
+      7,
+      106
+    ],
+    "potential": [
+      8
+    ],
+    "multidirectional": [
+      9
+    ],
+    "biological": [
+      10
+    ],
+    "activity.": [
+      11,
+      19
+    ],
+    "One": [
+      12
+    ],
+    "the": [
+      14,
+      29,
+      32,
+      39,
+      45,
+      73,
+      89,
+      92,
+      96,
+      122,
+      139
+    ],
+    "studied": [
+      15,
+      109
+    ],
+    "directions": [
+      16
+    ],
+    "is": [
+      17,
+      49,
+      85,
+      135
+    ],
+    "antitumor": [
+      18
+    ],
+    "Little": [
+      20
+    ],
+    "research": [
+      21,
+      119,
+      134
+    ],
+    "has": [
+      22
+    ],
+    "been": [
+      23
+    ],
+    "carried": [
+      24
+    ],
+    "out": [
+      25
+    ],
+    "so": [
+      26
+    ],
+    "far": [
+      27
+    ],
+    "on": [
+      28,
+      111
+    ],
+    "ability": [
+      30
+    ],
+    "contained": [
+      34,
+      124
+    ],
+    "in": [
+      35,
+      125,
+      132
+    ],
+    "peppers": [
+      36,
+      126
+    ],
+    "to": [
+      37,
+      81,
+      137
+    ],
+    "inhibit": [
+      38,
+      72,
+      128
+    ],
+    "activity": [
+      40,
+      74,
+      108
+    ],
+    "Aurora": [
+      42,
+      76,
+      99,
+      129
+    ],
+    "A": [
+      43,
+      77,
+      100
+    ],
+    "kinase,": [
+      44
+    ],
+    "overexpression": [
+      46
+    ],
+    "which": [
+      48
+    ],
+    "characteristic": [
+      50
+    ],
+    "cancer": [
+      52,
+      116
+    ],
+    "development.": [
+      53
+    ],
+    "In": [
+      54
+    ],
+    "this": [
+      55
+    ],
+    "study,": [
+      56
+    ],
+    "molecular": [
+      57,
+      63
+    ],
+    "docking": [
+      58
+    ],
+    "methods,": [
+      59
+    ],
+    "as": [
+      60,
+      62
+    ],
+    "well": [
+      61
+    ],
+    "dynamics,": [
+      64
+    ],
+    "were": [
+      65
+    ],
+    "used,": [
+      66
+    ],
+    "looking": [
+      67
+    ],
+    "for": [
+      68
+    ],
+    "that": [
+      70,
+      121
+    ],
+    "could": [
+      71
+    ],
+    "kinase": [
+      78
+    ],
+    "and": [
+      79,
+      95
+    ],
+    "trying": [
+      80
+    ],
+    "determine": [
+      82
+    ],
+    "whether": [
+      83
+    ],
+    "there": [
+      84
+    ],
+    "relationship": [
+      87
+    ],
+    "between": [
+      88
+    ],
+    "stimulation": [
+      90
+    ],
+    "TRPV1": [
+      93
+    ],
+    "receptor": [
+      94
+    ],
+    "inhibition": [
+      97
+    ],
+    "kinase.": [
+      101
+    ],
+    "We": [
+      102
+    ],
+    "compared": [
+      103
+    ],
+    "our": [
+      104
+    ],
+    "results": [
+      105
+    ],
+    "anticancer": [
+      107
+    ],
+    "earlier": [
+      110
+    ],
+    "MCF-7": [
+      112
+    ],
+    "cell": [
+      113
+    ],
+    "lines": [
+      114
+    ],
+    "(breast": [
+      115
+    ],
+    "cells).": [
+      117
+    ],
+    "Our": [
+      118
+    ],
+    "indicates": [
+      120
+    ],
+    "can": [
+      127
+    ],
+    "A.": [
+      130
+    ],
+    "Further": [
+      131
+    ],
+    "vitro": [
+      133
+    ],
+    "planned": [
+      136
+    ],
+    "confirm": [
+      138
+    ],
+    "obtained": [
+      140
+    ],
+    "results.": [
+      141
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,906 @@
+{
+  "id": "https://openalex.org/W2406177692",
+  "doi": "https://doi.org/10.1109/mcas.2016.2549948",
+  "title": "Automated Routing for VLSI: Kuh's Group Contributions",
+  "display_name": "Automated Routing for VLSI: Kuh's Group Contributions",
+  "publication_year": 2016,
+  "publication_date": "2016-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2406177692",
+    "doi": "https://doi.org/10.1109/mcas.2016.2549948",
+    "mag": "2406177692"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/mcas.2016.2549948",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/mcas.2016.2549948",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S163901751",
+      "display_name": "IEEE Circuits and Systems Magazine",
+      "issn_l": "1531-636X",
+      "issn": [
+        "1531-636X",
+        "1558-0830"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Circuits and Systems Magazine",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5063371595",
+        "display_name": "Malgorzata Marek-Sadowska",
+        "orcid": "https://orcid.org/0000-0002-3934-7031"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154570441",
+          "display_name": "University of California, Santa Barbara",
+          "ror": "https://ror.org/02t274463",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Malgorzata Marek-Sadowska",
+      "raw_affiliation_strings": [
+        "University of California, Santa Barbara, CA, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of California, Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5063371595"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I154570441"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.31904403,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.65523441,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "2",
+    "first_page": "35",
+    "last_page": "49"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11522",
+    "display_name": "VLSI and FPGA Design Techniques",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11522",
+      "display_name": "VLSI and FPGA Design Techniques",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11032",
+      "display_name": "VLSI and Analog Circuit Testing",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10363",
+      "display_name": "Low-power high-performance VLSI design",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/routing",
+      "display_name": "Routing (electronic design automation)",
+      "score": 0.7634892463684082
+    },
+    {
+      "id": "https://openalex.org/keywords/electronic-design-automation",
+      "display_name": "Electronic design automation",
+      "score": 0.7405226826667786
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-design",
+      "display_name": "Physical design",
+      "score": 0.5940738916397095
+    },
+    {
+      "id": "https://openalex.org/keywords/very-large-scale-integration",
+      "display_name": "Very-large-scale integration",
+      "score": 0.5708811283111572
+    },
+    {
+      "id": "https://openalex.org/keywords/group",
+      "display_name": "Group (periodic table)",
+      "score": 0.553663432598114
+    },
+    {
+      "id": "https://openalex.org/keywords/liberian-dollar",
+      "display_name": "Liberian dollar",
+      "score": 0.5501754879951477
+    },
+    {
+      "id": "https://openalex.org/keywords/automation",
+      "display_name": "Automation",
+      "score": 0.5061752200126648
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.48870542645454407
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.4356675148010254
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.3718511760234833
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing-engineering",
+      "display_name": "Manufacturing engineering",
+      "score": 0.34049248695373535
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.3341587781906128
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-engineering",
+      "display_name": "Computer engineering",
+      "score": 0.3266998827457428
+    },
+    {
+      "id": "https://openalex.org/keywords/circuit-design",
+      "display_name": "Circuit design",
+      "score": 0.26331737637519836
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.22125685214996338
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.12142685055732727
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.08895877003669739
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.0839616060256958
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74172769",
+      "wikidata": "https://www.wikidata.org/wiki/Q1446839",
+      "display_name": "Routing (electronic design automation)",
+      "level": 2,
+      "score": 0.7634892463684082
+    },
+    {
+      "id": "https://openalex.org/C64260653",
+      "wikidata": "https://www.wikidata.org/wiki/Q1194864",
+      "display_name": "Electronic design automation",
+      "level": 2,
+      "score": 0.7405226826667786
+    },
+    {
+      "id": "https://openalex.org/C188817802",
+      "wikidata": "https://www.wikidata.org/wiki/Q13426855",
+      "display_name": "Physical design",
+      "level": 3,
+      "score": 0.5940738916397095
+    },
+    {
+      "id": "https://openalex.org/C14580979",
+      "wikidata": "https://www.wikidata.org/wiki/Q876049",
+      "display_name": "Very-large-scale integration",
+      "level": 2,
+      "score": 0.5708811283111572
+    },
+    {
+      "id": "https://openalex.org/C2781311116",
+      "wikidata": "https://www.wikidata.org/wiki/Q83306",
+      "display_name": "Group (periodic table)",
+      "level": 2,
+      "score": 0.553663432598114
+    },
+    {
+      "id": "https://openalex.org/C109168655",
+      "wikidata": "https://www.wikidata.org/wiki/Q242988",
+      "display_name": "Liberian dollar",
+      "level": 2,
+      "score": 0.5501754879951477
+    },
+    {
+      "id": "https://openalex.org/C115901376",
+      "wikidata": "https://www.wikidata.org/wiki/Q184199",
+      "display_name": "Automation",
+      "level": 2,
+      "score": 0.5061752200126648
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.48870542645454407
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.4356675148010254
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.3718511760234833
+    },
+    {
+      "id": "https://openalex.org/C117671659",
+      "wikidata": "https://www.wikidata.org/wiki/Q11049265",
+      "display_name": "Manufacturing engineering",
+      "level": 1,
+      "score": 0.34049248695373535
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.3341587781906128
+    },
+    {
+      "id": "https://openalex.org/C113775141",
+      "wikidata": "https://www.wikidata.org/wiki/Q428691",
+      "display_name": "Computer engineering",
+      "level": 1,
+      "score": 0.3266998827457428
+    },
+    {
+      "id": "https://openalex.org/C190560348",
+      "wikidata": "https://www.wikidata.org/wiki/Q3245116",
+      "display_name": "Circuit design",
+      "level": 2,
+      "score": 0.26331737637519836
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.22125685214996338
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.12142685055732727
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.08895877003669739
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0839616060256958
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/mcas.2016.2549948",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/mcas.2016.2549948",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S163901751",
+        "display_name": "IEEE Circuits and Systems Magazine",
+        "issn_l": "1531-636X",
+        "issn": [
+          "1531-636X",
+          "1558-0830"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Circuits and Systems Magazine",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "score": 0.6399999856948853,
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 131,
+  "referenced_works": [
+    "https://openalex.org/W193683448",
+    "https://openalex.org/W298028999",
+    "https://openalex.org/W365312244",
+    "https://openalex.org/W1563813552",
+    "https://openalex.org/W1601301859",
+    "https://openalex.org/W1610053640",
+    "https://openalex.org/W1890767989",
+    "https://openalex.org/W1891501273",
+    "https://openalex.org/W1955488204",
+    "https://openalex.org/W1970008974",
+    "https://openalex.org/W1984379110",
+    "https://openalex.org/W1986503911",
+    "https://openalex.org/W1987980734",
+    "https://openalex.org/W1990135887",
+    "https://openalex.org/W1993323467",
+    "https://openalex.org/W1993614657",
+    "https://openalex.org/W1994707866",
+    "https://openalex.org/W1997252335",
+    "https://openalex.org/W2000828740",
+    "https://openalex.org/W2002886574",
+    "https://openalex.org/W2002982872",
+    "https://openalex.org/W2003309297",
+    "https://openalex.org/W2016432840",
+    "https://openalex.org/W2018868256",
+    "https://openalex.org/W2024726466",
+    "https://openalex.org/W2035046819",
+    "https://openalex.org/W2035692895",
+    "https://openalex.org/W2044944864",
+    "https://openalex.org/W2046079692",
+    "https://openalex.org/W2046803742",
+    "https://openalex.org/W2053894614",
+    "https://openalex.org/W2057197877",
+    "https://openalex.org/W2061907194",
+    "https://openalex.org/W2064086982",
+    "https://openalex.org/W2069595436",
+    "https://openalex.org/W2070149883",
+    "https://openalex.org/W2071193138",
+    "https://openalex.org/W2072974175",
+    "https://openalex.org/W2079296661",
+    "https://openalex.org/W2089651609",
+    "https://openalex.org/W2090972413",
+    "https://openalex.org/W2094923634",
+    "https://openalex.org/W2096746526",
+    "https://openalex.org/W2096746872",
+    "https://openalex.org/W2097118245",
+    "https://openalex.org/W2097191249",
+    "https://openalex.org/W2098765048",
+    "https://openalex.org/W2100723149",
+    "https://openalex.org/W2102939466",
+    "https://openalex.org/W2103223568",
+    "https://openalex.org/W2103959098",
+    "https://openalex.org/W2105565203",
+    "https://openalex.org/W2106352604",
+    "https://openalex.org/W2107166889",
+    "https://openalex.org/W2109179738",
+    "https://openalex.org/W2110105538",
+    "https://openalex.org/W2110410453",
+    "https://openalex.org/W2111419578",
+    "https://openalex.org/W2115092364",
+    "https://openalex.org/W2116580823",
+    "https://openalex.org/W2117003191",
+    "https://openalex.org/W2119698567",
+    "https://openalex.org/W2120161320",
+    "https://openalex.org/W2120542406",
+    "https://openalex.org/W2122148260",
+    "https://openalex.org/W2122533670",
+    "https://openalex.org/W2123728905",
+    "https://openalex.org/W2124660480",
+    "https://openalex.org/W2124750239",
+    "https://openalex.org/W2126234424",
+    "https://openalex.org/W2128967676",
+    "https://openalex.org/W2130626635",
+    "https://openalex.org/W2130871230",
+    "https://openalex.org/W2131140212",
+    "https://openalex.org/W2131852028",
+    "https://openalex.org/W2134487287",
+    "https://openalex.org/W2137618877",
+    "https://openalex.org/W2139071021",
+    "https://openalex.org/W2143301580",
+    "https://openalex.org/W2145260588",
+    "https://openalex.org/W2146723773",
+    "https://openalex.org/W2148609278",
+    "https://openalex.org/W2149339848",
+    "https://openalex.org/W2149417654",
+    "https://openalex.org/W2149616802",
+    "https://openalex.org/W2150406161",
+    "https://openalex.org/W2154127087",
+    "https://openalex.org/W2155957882",
+    "https://openalex.org/W2156523233",
+    "https://openalex.org/W2157868906",
+    "https://openalex.org/W2158290480",
+    "https://openalex.org/W2160347664",
+    "https://openalex.org/W2161534792",
+    "https://openalex.org/W2163233359",
+    "https://openalex.org/W2164456300",
+    "https://openalex.org/W2165214930",
+    "https://openalex.org/W2170525862",
+    "https://openalex.org/W2170960762",
+    "https://openalex.org/W2171002526",
+    "https://openalex.org/W2171698844",
+    "https://openalex.org/W2294195206",
+    "https://openalex.org/W3150135088",
+    "https://openalex.org/W3151993598",
+    "https://openalex.org/W3174555395",
+    "https://openalex.org/W3201393311",
+    "https://openalex.org/W3209981646",
+    "https://openalex.org/W4240965876",
+    "https://openalex.org/W4250174872",
+    "https://openalex.org/W4250593837",
+    "https://openalex.org/W4251026061",
+    "https://openalex.org/W4251258078",
+    "https://openalex.org/W4254412263",
+    "https://openalex.org/W4254660551",
+    "https://openalex.org/W4295134884",
+    "https://openalex.org/W6612420899",
+    "https://openalex.org/W6639595799",
+    "https://openalex.org/W6642514482",
+    "https://openalex.org/W6646498220",
+    "https://openalex.org/W6648532534",
+    "https://openalex.org/W6650539900",
+    "https://openalex.org/W6661955950",
+    "https://openalex.org/W6673376693",
+    "https://openalex.org/W6675828980",
+    "https://openalex.org/W6676570070",
+    "https://openalex.org/W6677860294",
+    "https://openalex.org/W6678232722",
+    "https://openalex.org/W6680048320",
+    "https://openalex.org/W6680333994",
+    "https://openalex.org/W6680394710",
+    "https://openalex.org/W6681260343",
+    "https://openalex.org/W6682461866"
+  ],
+  "related_works": [
+    "https://openalex.org/W2181385951",
+    "https://openalex.org/W1727049600",
+    "https://openalex.org/W1481897060",
+    "https://openalex.org/W2183812348",
+    "https://openalex.org/W2742852324",
+    "https://openalex.org/W2171793444",
+    "https://openalex.org/W2743305891",
+    "https://openalex.org/W1483017465",
+    "https://openalex.org/W4313890168",
+    "https://openalex.org/W3173072440"
+  ],
+  "abstract_inverted_index": {
+    "EDA": [
+      0,
+      64
+    ],
+    "(Electronic": [
+      1
+    ],
+    "Design": [
+      2
+    ],
+    "Automation)": [
+      3
+    ],
+    "industry": [
+      4
+    ],
+    "is": [
+      5,
+      57
+    ],
+    "now": [
+      6
+    ],
+    "a": [
+      7
+    ],
+    "multibillion": [
+      8
+    ],
+    "dollar": [
+      9
+    ],
+    "business": [
+      10
+    ],
+    "and": [
+      11,
+      14,
+      78
+    ],
+    "numerous": [
+      12
+    ],
+    "commercial": [
+      13
+    ],
+    "university": [
+      15
+    ],
+    "tools": [
+      16
+    ],
+    "exist": [
+      17
+    ],
+    "to": [
+      18,
+      58,
+      63,
+      66,
+      69,
+      79,
+      102
+    ],
+    "automatically": [
+      19
+    ],
+    "solve": [
+      20
+    ],
+    "various": [
+      21
+    ],
+    "sub-problems": [
+      22
+    ],
+    "of": [
+      23,
+      31,
+      35,
+      54
+    ],
+    "the": [
+      24,
+      32,
+      36,
+      81,
+      84,
+      96
+    ],
+    "IC": [
+      25
+    ],
+    "(integrated": [
+      26
+    ],
+    "circuit)": [
+      27
+    ],
+    "design": [
+      28,
+      76
+    ],
+    "process.": [
+      29
+    ],
+    "Many": [
+      30
+    ],
+    "underlying": [
+      33
+    ],
+    "ideas": [
+      34,
+      85
+    ],
+    "algorithms": [
+      37
+    ],
+    "implemented": [
+      38
+    ],
+    "in": [
+      39,
+      43,
+      74,
+      88
+    ],
+    "those": [
+      40
+    ],
+    "programs": [
+      41
+    ],
+    "originated": [
+      42,
+      87
+    ],
+    "Professor": [
+      44
+    ],
+    "Ernest": [
+      45
+    ],
+    "Kuh's": [
+      46,
+      60,
+      89
+    ],
+    "research": [
+      47
+    ],
+    "group": [
+      48,
+      61,
+      90
+    ],
+    "at": [
+      49
+    ],
+    "UC": [
+      50
+    ],
+    "Berkeley.": [
+      51
+    ],
+    "The": [
+      52
+    ],
+    "objective": [
+      53
+    ],
+    "this": [
+      55,
+      70
+    ],
+    "paper": [
+      56
+    ],
+    "trace": [
+      59
+    ],
+    "contributions": [
+      62
+    ],
+    ",": [
+      65
+    ],
+    "bring": [
+      67
+    ],
+    "attention": [
+      68,
+      101
+    ],
+    "group's": [
+      71
+    ],
+    "many": [
+      72
+    ],
+    "accomplishments": [
+      73
+    ],
+    "physical": [
+      75
+    ],
+    "area": [
+      77
+    ],
+    "show": [
+      80
+    ],
+    "effects": [
+      82
+    ],
+    "that": [
+      83
+    ],
+    "which": [
+      86
+    ],
+    "have": [
+      91
+    ],
+    "had": [
+      92
+    ],
+    "on": [
+      93
+    ],
+    "researchers": [
+      94
+    ],
+    "throughout": [
+      95
+    ],
+    "years.": [
+      97
+    ],
+    "We": [
+      98
+    ],
+    "limit": [
+      99
+    ],
+    "our": [
+      100
+    ],
+    "routing": [
+      103
+    ],
+    "problems": [
+      104
+    ],
+    "only.": [
+      105
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2017,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

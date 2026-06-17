@@ -1,0 +1,1365 @@
+{
+  "id": "https://openalex.org/W4413180740",
+  "doi": "https://doi.org/10.3390/jcm14165686",
+  "title": "Cluster Analysis as a Statistical Method for Planning the Optimal Placement of Automated External Defibrillators",
+  "display_name": "Cluster Analysis as a Statistical Method for Planning the Optimal Placement of Automated External Defibrillators",
+  "publication_year": 2025,
+  "publication_date": "2025-08-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4413180740",
+    "doi": "https://doi.org/10.3390/jcm14165686",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40869511"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/jcm14165686",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/jcm14165686",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2737969411",
+      "display_name": "Journal of Clinical Medicine",
+      "issn_l": "2077-0383",
+      "issn": [
+        "2077-0383"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Clinical Medicine",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.3390/jcm14165686",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5105713638",
+        "display_name": "Rafał Milewski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rafał Milewski",
+      "raw_affiliation_strings": [
+        "Department of Biostatistics and Medical Informatics, Medical University of Bialystok, 15-096 Bialystok, Poland",
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biostatistics and Medical Informatics, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057953504",
+        "display_name": "Jolanta Lewko",
+        "orcid": "https://orcid.org/0000-0003-3074-1320"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jolanta Lewko",
+      "raw_affiliation_strings": [
+        "Department of Primary Health Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3074-1320",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Primary Health Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078937289",
+        "display_name": "Magda Orzechowska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magda Orzechowska",
+      "raw_affiliation_strings": [
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000188755",
+        "display_name": "Agnieszka Lankau",
+        "orcid": "https://orcid.org/0000-0002-3456-5822"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka Lankau",
+      "raw_affiliation_strings": [
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059799709",
+        "display_name": "Anna Baranowska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Baranowska",
+      "raw_affiliation_strings": [
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031109089",
+        "display_name": "Beata Kowalewska",
+        "orcid": "https://orcid.org/0000-0003-4261-0248"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Kowalewska",
+      "raw_affiliation_strings": [
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4261-0248",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017179206",
+        "display_name": "Robert Milewski",
+        "orcid": "https://orcid.org/0000-0001-6241-8283"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Milewski",
+      "raw_affiliation_strings": [
+        "Department of Biostatistics and Medical Informatics, Medical University of Bialystok, 15-096 Bialystok, Poland",
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6241-8283",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biostatistics and Medical Informatics, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069857644",
+        "display_name": "Mateusz Cybulski",
+        "orcid": "https://orcid.org/0000-0002-5116-3497"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mateusz Cybulski",
+      "raw_affiliation_strings": [
+        "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5116-3497",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Integrated Medical Care, Medical University of Bialystok, 15-096 Bialystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5057953504",
+    "https://openalex.org/A5105713638"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I146122375"
+  ],
+  "apc_list": {
+    "value": 2400,
+    "currency": "CHF",
+    "value_usd": 2598
+  },
+  "apc_paid": {
+    "value": 2400,
+    "currency": "CHF",
+    "value_usd": 2598
+  },
+  "fwci": 1.7444,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.85616079,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "16",
+    "first_page": "5686",
+    "last_page": "5686"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10645",
+    "display_name": "Cardiac Arrest and Resuscitation",
+    "score": 0.9970999956130981,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2711",
+      "display_name": "Emergency Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10645",
+      "display_name": "Cardiac Arrest and Resuscitation",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2711",
+        "display_name": "Emergency Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13248",
+      "display_name": "Healthcare Technology and Patient Monitoring",
+      "score": 0.9383999705314636,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8628266453742981
+    },
+    {
+      "id": "https://openalex.org/keywords/automated-external-defibrillator",
+      "display_name": "Automated external defibrillator",
+      "score": 0.7178553938865662
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-emergency",
+      "display_name": "Medical emergency",
+      "score": 0.6077595949172974
+    },
+    {
+      "id": "https://openalex.org/keywords/defibrillation",
+      "display_name": "Defibrillation",
+      "score": 0.5296765565872192
+    },
+    {
+      "id": "https://openalex.org/keywords/emergency-medical-services",
+      "display_name": "Emergency medical services",
+      "score": 0.4730781018733978
+    },
+    {
+      "id": "https://openalex.org/keywords/cluster",
+      "display_name": "Cluster (spacecraft)",
+      "score": 0.4472985565662384
+    },
+    {
+      "id": "https://openalex.org/keywords/emergency-medicine",
+      "display_name": "Emergency medicine",
+      "score": 0.3768959045410156
+    },
+    {
+      "id": "https://openalex.org/keywords/cardiopulmonary-resuscitation",
+      "display_name": "Cardiopulmonary resuscitation",
+      "score": 0.1125946044921875
+    },
+    {
+      "id": "https://openalex.org/keywords/resuscitation",
+      "display_name": "Resuscitation",
+      "score": 0.10182538628578186
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.10123574733734131
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8628266453742981
+    },
+    {
+      "id": "https://openalex.org/C2779729227",
+      "wikidata": "https://www.wikidata.org/wiki/Q787407",
+      "display_name": "Automated external defibrillator",
+      "level": 4,
+      "score": 0.7178553938865662
+    },
+    {
+      "id": "https://openalex.org/C545542383",
+      "wikidata": "https://www.wikidata.org/wiki/Q2751242",
+      "display_name": "Medical emergency",
+      "level": 1,
+      "score": 0.6077595949172974
+    },
+    {
+      "id": "https://openalex.org/C2777795826",
+      "wikidata": "https://www.wikidata.org/wiki/Q954202",
+      "display_name": "Defibrillation",
+      "level": 2,
+      "score": 0.5296765565872192
+    },
+    {
+      "id": "https://openalex.org/C545288138",
+      "wikidata": "https://www.wikidata.org/wiki/Q860447",
+      "display_name": "Emergency medical services",
+      "level": 2,
+      "score": 0.4730781018733978
+    },
+    {
+      "id": "https://openalex.org/C164866538",
+      "wikidata": "https://www.wikidata.org/wiki/Q367351",
+      "display_name": "Cluster (spacecraft)",
+      "level": 2,
+      "score": 0.4472985565662384
+    },
+    {
+      "id": "https://openalex.org/C194828623",
+      "wikidata": "https://www.wikidata.org/wiki/Q2861470",
+      "display_name": "Emergency medicine",
+      "level": 1,
+      "score": 0.3768959045410156
+    },
+    {
+      "id": "https://openalex.org/C2777055891",
+      "wikidata": "https://www.wikidata.org/wiki/Q185325",
+      "display_name": "Cardiopulmonary resuscitation",
+      "level": 3,
+      "score": 0.1125946044921875
+    },
+    {
+      "id": "https://openalex.org/C2778165595",
+      "wikidata": "https://www.wikidata.org/wiki/Q5491454",
+      "display_name": "Resuscitation",
+      "level": 2,
+      "score": 0.10182538628578186
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.10123574733734131
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3390/jcm14165686",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/jcm14165686",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2737969411",
+        "display_name": "Journal of Clinical Medicine",
+        "issn_l": "2077-0383",
+        "issn": [
+          "2077-0383"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Clinical Medicine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40869511",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40869511",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of clinical medicine",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11193899",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12386200",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/jcm14165686",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/jcm14165686",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2737969411",
+      "display_name": "Journal of Clinical Medicine",
+      "issn_l": "2077-0383",
+      "issn": [
+        "2077-0383"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Clinical Medicine",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 37,
+  "referenced_works": [
+    "https://openalex.org/W1497007582",
+    "https://openalex.org/W1499845087",
+    "https://openalex.org/W1989062419",
+    "https://openalex.org/W2031813555",
+    "https://openalex.org/W2064975602",
+    "https://openalex.org/W2073016751",
+    "https://openalex.org/W2077015042",
+    "https://openalex.org/W2101027297",
+    "https://openalex.org/W2110488567",
+    "https://openalex.org/W2111620175",
+    "https://openalex.org/W2165465814",
+    "https://openalex.org/W2214094658",
+    "https://openalex.org/W2260414167",
+    "https://openalex.org/W2430175290",
+    "https://openalex.org/W2475995454",
+    "https://openalex.org/W2566284196",
+    "https://openalex.org/W2733186492",
+    "https://openalex.org/W2771148358",
+    "https://openalex.org/W2900948956",
+    "https://openalex.org/W2905811541",
+    "https://openalex.org/W2914467250",
+    "https://openalex.org/W2922512870",
+    "https://openalex.org/W3004053867",
+    "https://openalex.org/W3036900753",
+    "https://openalex.org/W3081228078",
+    "https://openalex.org/W3152457746",
+    "https://openalex.org/W3159387539",
+    "https://openalex.org/W3161997412",
+    "https://openalex.org/W3199198482",
+    "https://openalex.org/W4206204386",
+    "https://openalex.org/W4287838895",
+    "https://openalex.org/W4302425346",
+    "https://openalex.org/W4403218450",
+    "https://openalex.org/W4412076657",
+    "https://openalex.org/W6676594245",
+    "https://openalex.org/W6756334653",
+    "https://openalex.org/W6806893276"
+  ],
+  "related_works": [
+    "https://openalex.org/W2891427371",
+    "https://openalex.org/W2395576036",
+    "https://openalex.org/W2890154578",
+    "https://openalex.org/W2031946591",
+    "https://openalex.org/W2605164097",
+    "https://openalex.org/W2484913093",
+    "https://openalex.org/W2073054446",
+    "https://openalex.org/W2514322635",
+    "https://openalex.org/W2268029871",
+    "https://openalex.org/W2108375612"
+  ],
+  "abstract_inverted_index": {
+    "Background/Objectives:": [
+      0
+    ],
+    "Out-of-hospital": [
+      1
+    ],
+    "cardiac": [
+      2,
+      136
+    ],
+    "arrest": [
+      3
+    ],
+    "(OHCA)": [
+      4
+    ],
+    "remains": [
+      5
+    ],
+    "a": [
+      6,
+      219
+    ],
+    "major": [
+      7
+    ],
+    "public": [
+      8,
+      119,
+      217
+    ],
+    "health": [
+      9
+    ],
+    "challenge,": [
+      10
+    ],
+    "with": [
+      11,
+      78,
+      157,
+      178
+    ],
+    "survival": [
+      12,
+      233
+    ],
+    "rates": [
+      13
+    ],
+    "significantly": [
+      14,
+      201
+    ],
+    "dependent": [
+      15
+    ],
+    "on": [
+      16,
+      110
+    ],
+    "early": [
+      17
+    ],
+    "defibrillation.": [
+      18
+    ],
+    "In": [
+      19
+    ],
+    "Bialystok,": [
+      20
+    ],
+    "Poland,": [
+      21
+    ],
+    "the": [
+      22,
+      35,
+      98,
+      111,
+      158
+    ],
+    "bystander": [
+      23
+    ],
+    "usage": [
+      24
+    ],
+    "rate": [
+      25
+    ],
+    "of": [
+      26,
+      38,
+      49,
+      114,
+      130,
+      133,
+      143
+    ],
+    "automated": [
+      27
+    ],
+    "external": [
+      28
+    ],
+    "defibrillators": [
+      29
+    ],
+    "(AEDs)": [
+      30
+    ],
+    "is": [
+      31,
+      189
+    ],
+    "extremely": [
+      32
+    ],
+    "low,": [
+      33
+    ],
+    "and": [
+      34,
+      92,
+      120,
+      212,
+      223,
+      232
+    ],
+    "current": [
+      36,
+      159,
+      184
+    ],
+    "distribution": [
+      37,
+      113,
+      186
+    ],
+    "public-access": [
+      39
+    ],
+    "AEDs": [
+      40,
+      124
+    ],
+    "may": [
+      41
+    ],
+    "not": [
+      42
+    ],
+    "support": [
+      43
+    ],
+    "optimal": [
+      44,
+      106,
+      151
+    ],
+    "response": [
+      45,
+      194
+    ],
+    "times.": [
+      46
+    ],
+    "The": [
+      47,
+      101,
+      183
+    ],
+    "aim": [
+      48
+    ],
+    "this": [
+      50
+    ],
+    "study": [
+      51
+    ],
+    "was": [
+      52,
+      103
+    ],
+    "to": [
+      53,
+      73,
+      94,
+      104,
+      149,
+      176,
+      195,
+      209
+    ],
+    "identify": [
+      54
+    ],
+    "an": [
+      55,
+      170,
+      192
+    ],
+    "effective": [
+      56,
+      193
+    ],
+    "AED": [
+      57,
+      107,
+      152,
+      160,
+      172,
+      185,
+      221,
+      230
+    ],
+    "placement": [
+      58,
+      203
+    ],
+    "strategy": [
+      59
+    ],
+    "using": [
+      60,
+      97
+    ],
+    "spatial": [
+      61
+    ],
+    "analysis.": [
+      62
+    ],
+    "Methods:": [
+      63
+    ],
+    "We": [
+      64
+    ],
+    "retrospectively": [
+      65
+    ],
+    "analyzed": [
+      66
+    ],
+    "49,649": [
+      67
+    ],
+    "emergency": [
+      68
+    ],
+    "dispatch": [
+      69
+    ],
+    "records": [
+      70
+    ],
+    "from": [
+      71
+    ],
+    "2018": [
+      72
+    ],
+    "2019,": [
+      74
+    ],
+    "identifying": [
+      75
+    ],
+    "787": [
+      76
+    ],
+    "patients": [
+      77
+    ],
+    "OHCA": [
+      79,
+      115
+    ],
+    "within": [
+      80
+    ],
+    "Bialystok’s": [
+      81
+    ],
+    "city": [
+      82
+    ],
+    "limits.": [
+      83
+    ],
+    "After": [
+      84
+    ],
+    "excluding": [
+      85
+    ],
+    "ineligible": [
+      86
+    ],
+    "records,": [
+      87
+    ],
+    "766": [
+      88
+    ],
+    "cases": [
+      89,
+      116,
+      132
+    ],
+    "were": [
+      90,
+      125
+    ],
+    "geolocated": [
+      91
+    ],
+    "subjected": [
+      93
+    ],
+    "cluster": [
+      95,
+      198
+    ],
+    "analysis": [
+      96,
+      146,
+      199
+    ],
+    "K-means": [
+      99
+    ],
+    "algorithm.": [
+      100
+    ],
+    "goal": [
+      102
+    ],
+    "determine": [
+      105
+    ],
+    "locations": [
+      108
+    ],
+    "based": [
+      109
+    ],
+    "geographic": [
+      112
+    ],
+    "in": [
+      117,
+      127,
+      139,
+      187
+    ],
+    "both": [
+      118
+    ],
+    "residential": [
+      121,
+      210
+    ],
+    "settings.": [
+      122
+    ],
+    "Results:": [
+      123
+    ],
+    "used": [
+      126
+    ],
+    "only": [
+      128
+    ],
+    "0.51%": [
+      129
+    ],
+    "all": [
+      131
+    ],
+    "OHCA.": [
+      134,
+      196
+    ],
+    "Most": [
+      135
+    ],
+    "arrests": [
+      137
+    ],
+    "occurred": [
+      138
+    ],
+    "private": [
+      140
+    ],
+    "homes": [
+      141
+    ],
+    "(80.05%": [
+      142
+    ],
+    "cases).": [
+      144
+    ],
+    "Cluster": [
+      145
+    ],
+    "identified": [
+      147,
+      179
+    ],
+    "18": [
+      148
+    ],
+    "36": [
+      150
+    ],
+    "locations,": [
+      153
+    ],
+    "revealing": [
+      154
+    ],
+    "significant": [
+      155
+    ],
+    "mismatches": [
+      156
+    ],
+    "network.": [
+      161
+    ],
+    "Notably,": [
+      162
+    ],
+    "grocery": [
+      163
+    ],
+    "store": [
+      164
+    ],
+    "chain": [
+      165
+    ],
+    "“PSS": [
+      166
+    ],
+    "Spolem”": [
+      167
+    ],
+    "emerged": [
+      168
+    ],
+    "as": [
+      169
+    ],
+    "ideal": [
+      171
+    ],
+    "deployment": [
+      173
+    ],
+    "partner": [
+      174
+    ],
+    "due": [
+      175
+    ],
+    "alignment": [
+      177
+    ],
+    "high-incidence": [
+      180
+    ],
+    "clusters.": [
+      181
+    ],
+    "Conclusions:": [
+      182
+    ],
+    "Bialystok": [
+      188
+    ],
+    "inadequate": [
+      190
+    ],
+    "for": [
+      191,
+      228
+    ],
+    "Geographic": [
+      197
+    ],
+    "can": [
+      200
+    ],
+    "improve": [
+      202
+    ],
+    "strategies.": [
+      204
+    ],
+    "Priority": [
+      205
+    ],
+    "should": [
+      206
+    ],
+    "be": [
+      207
+    ],
+    "given": [
+      208
+    ],
+    "areas": [
+      211
+    ],
+    "commonly": [
+      213
+    ],
+    "accessed": [
+      214
+    ],
+    "sites.": [
+      215
+    ],
+    "Enhanced": [
+      216
+    ],
+    "education,": [
+      218
+    ],
+    "national": [
+      220
+    ],
+    "registry,": [
+      222
+    ],
+    "improved": [
+      224
+    ],
+    "accessibility": [
+      225
+    ],
+    "are": [
+      226
+    ],
+    "essential": [
+      227
+    ],
+    "increasing": [
+      229
+    ],
+    "use": [
+      231
+    ],
+    "rates.": [
+      234
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-12T08:23:45.883708",
+  "created_date": "2025-10-10T00:00:00"
+}

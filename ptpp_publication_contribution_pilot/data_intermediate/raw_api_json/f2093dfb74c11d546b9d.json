@@ -1,0 +1,1790 @@
+{
+  "id": "https://openalex.org/W4206348701",
+  "doi": "https://doi.org/10.1186/s12874-021-01448-x",
+  "title": "The impact of lookback windows on the prevalence and incidence of chronic diseases among people living with HIV: an exploration in administrative health data in Canada",
+  "display_name": "The impact of lookback windows on the prevalence and incidence of chronic diseases among people living with HIV: an exploration in administrative health data in Canada",
+  "publication_year": 2022,
+  "publication_date": "2022-01-06",
+  "ids": {
+    "openalex": "https://openalex.org/W4206348701",
+    "doi": "https://doi.org/10.1186/s12874-021-01448-x",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34991473"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s12874-021-01448-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12874-021-01448-x",
+    "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/s12874-021-01448-x",
+    "source": {
+      "id": "https://openalex.org/S185874209",
+      "display_name": "BMC Medical Research Methodology",
+      "issn_l": "1471-2288",
+      "issn": [
+        "1471-2288"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "BMC Medical Research Methodology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/s12874-021-01448-x",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5057043710",
+        "display_name": "Ni Gusti Ayu Nanditha",
+        "orcid": "https://orcid.org/0000-0002-3723-6418"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ni Gusti Ayu Nanditha",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+        "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077666850",
+        "display_name": "Xinzhe Dong",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xinzhe Dong",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009347646",
+        "display_name": "Taylor McLinden",
+        "orcid": "https://orcid.org/0000-0001-7425-2719"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Taylor McLinden",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059179960",
+        "display_name": "Paul Sereda",
+        "orcid": "https://orcid.org/0000-0002-6411-8089"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paul Sereda",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101665680",
+        "display_name": "Jacek A Kopec",
+        "orcid": "https://orcid.org/0000-0003-0175-0164"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099137",
+          "display_name": "Research Canada",
+          "ror": "https://ror.org/0103eqz62",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210099137"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Kopec",
+      "raw_affiliation_strings": [
+        "Arthritis Research Canada, Richmond, BC, Canada",
+        "School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Arthritis Research Canada, Richmond, BC, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210099137"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034865907",
+        "display_name": "Robert S. Hogg",
+        "orcid": "https://orcid.org/0000-0003-3463-5488"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I18014758",
+          "display_name": "Simon Fraser University",
+          "ror": "https://ror.org/0213rcc28",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I18014758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert S. Hogg",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+        "Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada",
+          "institution_ids": [
+            "https://openalex.org/I18014758"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074441717",
+        "display_name": "Julio Montaner",
+        "orcid": "https://orcid.org/0000-0002-6201-9829"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julio S. G. Montaner",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+        "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5044801510",
+        "display_name": "Viviane D. Lima",
+        "orcid": "https://orcid.org/0000-0003-4943-091X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141945490",
+          "display_name": "University of British Columbia",
+          "ror": "https://ror.org/03rmrcq20",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141945490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131951",
+          "display_name": "AIDS Vancouver",
+          "ror": "https://ror.org/02mgny734",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210131951"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Viviane D. Lima",
+      "raw_affiliation_strings": [
+        "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada. vlima@bccfe.ca",
+        "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada. vlima@bccfe.ca",
+        "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Columbia Centre for Excellence in HIV/AIDS, 608-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada. vlima@bccfe.ca",
+          "institution_ids": [
+            "https://openalex.org/I4210131951"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada. vlima@bccfe.ca",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, Canada",
+          "institution_ids": [
+            "https://openalex.org/I141945490"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1790,
+    "currency": "GBP",
+    "value_usd": 2195
+  },
+  "apc_paid": {
+    "value": 1790,
+    "currency": "GBP",
+    "value_usd": 2195
+  },
+  "fwci": 8.3995,
+  "has_fulltext": true,
+  "cited_by_count": 36,
+  "citation_normalized_percentile": {
+    "value": 0.98265439,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "22",
+    "issue": "1",
+    "first_page": "1",
+    "last_page": "1"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11655",
+    "display_name": "HIV-related health complications and treatments",
+    "score": 0.49160000681877136,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2711",
+      "display_name": "Emergency Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11655",
+      "display_name": "HIV-related health complications and treatments",
+      "score": 0.49160000681877136,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2711",
+        "display_name": "Emergency Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10082",
+      "display_name": "HIV/AIDS Research and Interventions",
+      "score": 0.24729999899864197,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12246",
+      "display_name": "Chronic Disease Management Strategies",
+      "score": 0.06379999965429306,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/incidence",
+      "display_name": "Incidence (geometry)",
+      "score": 0.7763904333114624
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6757858991622925
+    },
+    {
+      "id": "https://openalex.org/keywords/comparability",
+      "display_name": "Comparability",
+      "score": 0.6330806612968445
+    },
+    {
+      "id": "https://openalex.org/keywords/demography",
+      "display_name": "Demography",
+      "score": 0.5646014213562012
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.5521772503852844
+    },
+    {
+      "id": "https://openalex.org/keywords/human-immunodeficiency-virus",
+      "display_name": "Human immunodeficiency virus (HIV)",
+      "score": 0.4626636505126953
+    },
+    {
+      "id": "https://openalex.org/keywords/public-health",
+      "display_name": "Public health",
+      "score": 0.42719346284866333
+    },
+    {
+      "id": "https://openalex.org/keywords/epidemiology",
+      "display_name": "Epidemiology",
+      "score": 0.4212602376937866
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.33826518058776855
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.22992506623268127
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.17991143465042114
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C61511704",
+      "wikidata": "https://www.wikidata.org/wiki/Q1671857",
+      "display_name": "Incidence (geometry)",
+      "level": 2,
+      "score": 0.7763904333114624
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6757858991622925
+    },
+    {
+      "id": "https://openalex.org/C197947376",
+      "wikidata": "https://www.wikidata.org/wiki/Q5155608",
+      "display_name": "Comparability",
+      "level": 2,
+      "score": 0.6330806612968445
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.5646014213562012
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.5521772503852844
+    },
+    {
+      "id": "https://openalex.org/C3013748606",
+      "wikidata": "https://www.wikidata.org/wiki/Q15787",
+      "display_name": "Human immunodeficiency virus (HIV)",
+      "level": 2,
+      "score": 0.4626636505126953
+    },
+    {
+      "id": "https://openalex.org/C138816342",
+      "wikidata": "https://www.wikidata.org/wiki/Q189603",
+      "display_name": "Public health",
+      "level": 2,
+      "score": 0.42719346284866333
+    },
+    {
+      "id": "https://openalex.org/C107130276",
+      "wikidata": "https://www.wikidata.org/wiki/Q133805",
+      "display_name": "Epidemiology",
+      "level": 2,
+      "score": 0.4212602376937866
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.33826518058776855
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.22992506623268127
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.17991143465042114
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C114614502",
+      "wikidata": "https://www.wikidata.org/wiki/Q76592",
+      "display_name": "Combinatorics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D001955",
+      "descriptor_name": "British Columbia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001955",
+      "descriptor_name": "British Columbia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001955",
+      "descriptor_name": "British Columbia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001955",
+      "descriptor_name": "British Columbia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012189",
+      "descriptor_name": "Retrospective Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012189",
+      "descriptor_name": "Retrospective Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012189",
+      "descriptor_name": "Retrospective Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012189",
+      "descriptor_name": "Retrospective Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015331",
+      "descriptor_name": "Cohort Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015331",
+      "descriptor_name": "Cohort Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015331",
+      "descriptor_name": "Cohort Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015331",
+      "descriptor_name": "Cohort Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015658",
+      "descriptor_name": "HIV Infections",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015658",
+      "descriptor_name": "HIV Infections",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015658",
+      "descriptor_name": "HIV Infections",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015658",
+      "descriptor_name": "HIV Infections",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015994",
+      "descriptor_name": "Incidence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015994",
+      "descriptor_name": "Incidence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015994",
+      "descriptor_name": "Incidence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015994",
+      "descriptor_name": "Incidence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1186/s12874-021-01448-x",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12874-021-01448-x",
+      "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/s12874-021-01448-x",
+      "source": {
+        "id": "https://openalex.org/S185874209",
+        "display_name": "BMC Medical Research Methodology",
+        "issn_l": "1471-2288",
+        "issn": [
+          "1471-2288"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Medical Research Methodology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34991473",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34991473",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC medical research methodology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8734246",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8734246",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Med Res Methodol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:circle.library.ubc.ca:2429/80736",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/2429/80736",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196297",
+        "display_name": "cIRcle (University of British Columbia)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I141945490",
+        "host_organization_name": "University of British Columbia",
+        "host_organization_lineage": [
+          "https://openalex.org/I141945490"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:dc292595161446269e9edbfff1d48b10",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/dc292595161446269e9edbfff1d48b10",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "BMC Medical Research Methodology, Vol 22, Iss 1, Pp 1-11 (2022)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s12874-021-01448-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12874-021-01448-x",
+    "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/s12874-021-01448-x",
+    "source": {
+      "id": "https://openalex.org/S185874209",
+      "display_name": "BMC Medical Research Methodology",
+      "issn_l": "1471-2288",
+      "issn": [
+        "1471-2288"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "BMC Medical Research Methodology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being",
+      "score": 0.75
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3785457862",
+      "display_name": null,
+      "funder_award_id": "30-101",
+      "funder_id": "https://openalex.org/F4320310350",
+      "funder_display_name": "Canadian Foundation for AIDS Research"
+    },
+    {
+      "id": "https://openalex.org/G3872481153",
+      "display_name": null,
+      "funder_award_id": "130419",
+      "funder_id": "https://openalex.org/F4320334506",
+      "funder_display_name": "Canadian Institutes of Health Research"
+    },
+    {
+      "id": "https://openalex.org/G5770997768",
+      "display_name": null,
+      "funder_award_id": "PJT-148595",
+      "funder_id": "https://openalex.org/F4320334506",
+      "funder_display_name": "Canadian Institutes of Health Research"
+    },
+    {
+      "id": "https://openalex.org/G5907478052",
+      "display_name": null,
+      "funder_award_id": "143342",
+      "funder_id": "https://openalex.org/F4320334506",
+      "funder_display_name": "Canadian Institutes of Health Research"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320310350",
+      "display_name": "Canadian Foundation for AIDS Research",
+      "ror": "https://ror.org/04hfyyk07"
+    },
+    {
+      "id": "https://openalex.org/F4320312568",
+      "display_name": "Public Health Agency of Canada",
+      "ror": "https://ror.org/023xf2a37"
+    },
+    {
+      "id": "https://openalex.org/F4320319965",
+      "display_name": "Michael Smith Health Research BC",
+      "ror": "https://ror.org/020x39229"
+    },
+    {
+      "id": "https://openalex.org/F4320320853",
+      "display_name": "Public Health Agency",
+      "ror": "https://ror.org/03ek62e72"
+    },
+    {
+      "id": "https://openalex.org/F4320322836",
+      "display_name": "Ministry of Health, British Columbia",
+      "ror": "https://ror.org/05smbmp94"
+    },
+    {
+      "id": "https://openalex.org/F4320323180",
+      "display_name": "University of British Columbia",
+      "ror": "https://ror.org/03rmrcq20"
+    },
+    {
+      "id": "https://openalex.org/F4320332011",
+      "display_name": "Victoria General Hospital Foundation",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320334392",
+      "display_name": "Health Canada",
+      "ror": "https://ror.org/05p8nb362"
+    },
+    {
+      "id": "https://openalex.org/F4320334506",
+      "display_name": "Canadian Institutes of Health Research",
+      "ror": "https://ror.org/01gavpb45"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4206348701.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4206348701.grobid-xml"
+  },
+  "referenced_works_count": 22,
+  "referenced_works": [
+    "https://openalex.org/W1994649415",
+    "https://openalex.org/W1999307390",
+    "https://openalex.org/W2053237747",
+    "https://openalex.org/W2134228527",
+    "https://openalex.org/W2134235928",
+    "https://openalex.org/W2166746687",
+    "https://openalex.org/W2171427509",
+    "https://openalex.org/W2173953943",
+    "https://openalex.org/W2508754352",
+    "https://openalex.org/W2582608184",
+    "https://openalex.org/W2607035474",
+    "https://openalex.org/W2670786370",
+    "https://openalex.org/W2768656124",
+    "https://openalex.org/W2782594897",
+    "https://openalex.org/W2796034004",
+    "https://openalex.org/W2799580103",
+    "https://openalex.org/W2903844485",
+    "https://openalex.org/W2921100359",
+    "https://openalex.org/W2986017531",
+    "https://openalex.org/W2993610649",
+    "https://openalex.org/W3010187537",
+    "https://openalex.org/W3120382374"
+  ],
+  "related_works": [
+    "https://openalex.org/W2365594754",
+    "https://openalex.org/W2575292835",
+    "https://openalex.org/W4287902769",
+    "https://openalex.org/W3001140700",
+    "https://openalex.org/W2995453361",
+    "https://openalex.org/W3021704418",
+    "https://openalex.org/W4390295458",
+    "https://openalex.org/W1990407237",
+    "https://openalex.org/W2092282998",
+    "https://openalex.org/W2408973000"
+  ],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "We": [
+      1,
+      62
+    ],
+    "described": [
+      2
+    ],
+    "the": [
+      3,
+      23,
+      131,
+      136,
+      146,
+      174,
+      205
+    ],
+    "impact": [
+      4,
+      162
+    ],
+    "of": [
+      5,
+      8,
+      27,
+      68,
+      148,
+      154,
+      163,
+      176,
+      192,
+      204,
+      209
+    ],
+    "different": [
+      6,
+      198
+    ],
+    "lengths": [
+      7
+    ],
+    "lookback": [
+      9
+    ],
+    "window": [
+      10
+    ],
+    "(LW),": [
+      11
+    ],
+    "a": [
+      12,
+      90,
+      106
+    ],
+    "retrospective": [
+      13
+    ],
+    "time": [
+      14
+    ],
+    "period": [
+      15,
+      64
+    ],
+    "to": [
+      16,
+      77,
+      119,
+      157
+    ],
+    "observe": [
+      17
+    ],
+    "diagnoses": [
+      18
+    ],
+    "in": [
+      19,
+      51,
+      70,
+      86,
+      98
+    ],
+    "administrative": [
+      20,
+      122
+    ],
+    "data,": [
+      21
+    ],
+    "on": [
+      22
+    ],
+    "prevalence": [
+      24,
+      65,
+      193
+    ],
+    "and": [
+      25,
+      43,
+      60,
+      66,
+      93,
+      141,
+      151,
+      168,
+      180,
+      194,
+      207
+    ],
+    "incidence": [
+      26,
+      67,
+      152,
+      195
+    ],
+    "eight": [
+      28
+    ],
+    "chronic": [
+      29
+    ],
+    "diseases.": [
+      30
+    ],
+    "METHODS:": [
+      31
+    ],
+    "Our": [
+      32
+    ],
+    "study": [
+      33,
+      172
+    ],
+    "populations": [
+      34
+    ],
+    "included": [
+      35
+    ],
+    "people": [
+      36
+    ],
+    "living": [
+      37
+    ],
+    "with": [
+      38,
+      55,
+      100
+    ],
+    "HIV": [
+      39
+    ],
+    "(N": [
+      40,
+      48
+    ],
+    "=": [
+      41,
+      49
+    ],
+    "5151)": [
+      42
+    ],
+    "1:5": [
+      44
+    ],
+    "age-sex-matched": [
+      45
+    ],
+    "HIV-negative": [
+      46
+    ],
+    "individuals": [
+      47
+    ],
+    "25,755)": [
+      50
+    ],
+    "British": [
+      52
+    ],
+    "Columbia,": [
+      53
+    ],
+    "Canada,": [
+      54
+    ],
+    "complete": [
+      56
+    ],
+    "follow-up": [
+      57
+    ],
+    "between": [
+      58
+    ],
+    "1996": [
+      59
+    ],
+    "2012.": [
+      61
+    ],
+    "measured": [
+      63
+    ],
+    "diseases": [
+      69,
+      156,
+      167
+    ],
+    "2012": [
+      71,
+      87,
+      99
+    ],
+    "using": [
+      72,
+      114,
+      127
+    ],
+    "LWs": [
+      73,
+      138,
+      164,
+      179
+    ],
+    "ranging": [
+      74
+    ],
+    "from": [
+      75
+    ],
+    "1": [
+      76
+    ],
+    "16": [
+      78
+    ],
+    "years.": [
+      79
+    ],
+    "Cases": [
+      80
+    ],
+    "were": [
+      81,
+      112
+    ],
+    "deemed": [
+      82
+    ],
+    "prevalent": [
+      83,
+      150
+    ],
+    "if": [
+      84,
+      95
+    ],
+    "identified": [
+      85,
+      97,
+      129
+    ],
+    "or": [
+      88
+    ],
+    "within": [
+      89,
+      105
+    ],
+    "defined": [
+      91,
+      107
+    ],
+    "LW,": [
+      92
+    ],
+    "incident": [
+      94
+    ],
+    "newly": [
+      96
+    ],
+    "no": [
+      101
+    ],
+    "previous": [
+      102
+    ],
+    "cases": [
+      103,
+      111,
+      128,
+      153
+    ],
+    "detected": [
+      104
+    ],
+    "LW.": [
+      108
+    ],
+    "Chronic": [
+      109
+    ],
+    "disease": [
+      110
+    ],
+    "ascertained": [
+      113
+    ],
+    "published": [
+      115
+    ],
+    "case-finding": [
+      116
+    ],
+    "algorithms": [
+      117
+    ],
+    "applied": [
+      118
+    ],
+    "population-based": [
+      120
+    ],
+    "provincial": [
+      121
+    ],
+    "health": [
+      123
+    ],
+    "datasets.": [
+      124
+    ],
+    "RESULTS:": [
+      125
+    ],
+    "Overall,": [
+      126
+    ],
+    "by": [
+      130
+    ],
+    "full": [
+      132
+    ],
+    "16-year": [
+      133
+    ],
+    "LW": [
+      134
+    ],
+    "as": [
+      135
+    ],
+    "reference,": [
+      137
+    ],
+    "≥8": [
+      139
+    ],
+    "years": [
+      140,
+      144
+    ],
+    "≥": [
+      142
+    ],
+    "4": [
+      143
+    ],
+    "reduced": [
+      145
+    ],
+    "proportion": [
+      147
+    ],
+    "misclassified": [
+      149
+    ],
+    "most": [
+      155
+    ],
+    "<": [
+      158
+    ],
+    "20%,": [
+      159
+    ],
+    "respectively.": [
+      160
+    ],
+    "The": [
+      161
+    ],
+    "varied": [
+      165
+    ],
+    "across": [
+      166,
+      197
+    ],
+    "populations.": [
+      169
+    ],
+    "CONCLUSIONS:": [
+      170
+    ],
+    "This": [
+      171
+    ],
+    "underscored": [
+      173
+    ],
+    "importance": [
+      175
+    ],
+    "carefully": [
+      177
+    ],
+    "choosing": [
+      178
+    ],
+    "demonstrated": [
+      181
+    ],
+    "data-driven": [
+      182
+    ],
+    "approaches": [
+      183
+    ],
+    "that": [
+      184
+    ],
+    "may": [
+      185
+    ],
+    "inform": [
+      186
+    ],
+    "these": [
+      187
+    ],
+    "choices.": [
+      188
+    ],
+    "To": [
+      189
+    ],
+    "improve": [
+      190
+    ],
+    "comparability": [
+      191
+    ],
+    "estimates": [
+      196
+    ],
+    "settings,": [
+      199
+    ],
+    "we": [
+      200
+    ],
+    "recommend": [
+      201
+    ],
+    "transparent": [
+      202
+    ],
+    "reporting": [
+      203
+    ],
+    "rationale": [
+      206
+    ],
+    "limitations": [
+      208
+    ],
+    "chosen": [
+      210
+    ],
+    "LWs.": [
+      211
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

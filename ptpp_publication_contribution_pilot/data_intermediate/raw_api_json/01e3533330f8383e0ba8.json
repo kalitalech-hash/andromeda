@@ -1,0 +1,1392 @@
+{
+  "id": "https://openalex.org/W4406104394",
+  "doi": "https://doi.org/10.1038/s41594-024-01448-7",
+  "title": "Mechanism of mammalian transcriptional repression by noncoding RNA",
+  "display_name": "Mechanism of mammalian transcriptional repression by noncoding RNA",
+  "publication_year": 2025,
+  "publication_date": "2025-01-06",
+  "ids": {
+    "openalex": "https://openalex.org/W4406104394",
+    "doi": "https://doi.org/10.1038/s41594-024-01448-7",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39762629"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41594-024-01448-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41594-024-01448-7",
+    "pdf_url": "https://www.nature.com/articles/s41594-024-01448-7.pdf",
+    "source": {
+      "id": "https://openalex.org/S139253143",
+      "display_name": "Nature Structural & Molecular Biology",
+      "issn_l": "1545-9985",
+      "issn": [
+        "1545-9985",
+        "1545-9993"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Structural &amp; Molecular Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.nature.com/articles/s41594-024-01448-7.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5052487553",
+        "display_name": "Katarína Tlučková",
+        "orcid": "https://orcid.org/0000-0002-2808-1725"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarína Tlučková",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104273213",
+        "display_name": "Beata Kaczmarek",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Kaczmarek",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004197287",
+        "display_name": "Anita Salmazo",
+        "orcid": "https://orcid.org/0000-0001-8164-3777"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anita Salmazo",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5065570966",
+        "display_name": "Carrie Bernecky",
+        "orcid": "https://orcid.org/0000-0003-0893-7036"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Carrie Bernecky",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria. carrie.bernecky@ist.ac.at",
+        "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0893-7036",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria. carrie.bernecky@ist.ac.at",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5065570966"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I157556583"
+  ],
+  "apc_list": {
+    "value": 9750,
+    "currency": "EUR",
+    "value_usd": 11690
+  },
+  "apc_paid": {
+    "value": 9750,
+    "currency": "EUR",
+    "value_usd": 11690
+  },
+  "fwci": 3.4135,
+  "has_fulltext": true,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.91470789,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "32",
+    "issue": "4",
+    "first_page": "607",
+    "last_page": "612"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11482",
+    "display_name": "RNA modifications and cancer",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10521",
+      "display_name": "RNA and protein synthesis mechanisms",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychological-repression",
+      "display_name": "Psychological repression",
+      "score": 0.7215957045555115
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanism",
+      "display_name": "Mechanism (biology)",
+      "score": 0.6862068176269531
+    },
+    {
+      "id": "https://openalex.org/keywords/non-coding-rna",
+      "display_name": "Non-coding RNA",
+      "score": 0.5204548835754395
+    },
+    {
+      "id": "https://openalex.org/keywords/rna",
+      "display_name": "RNA",
+      "score": 0.49636369943618774
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.4845530092716217
+    },
+    {
+      "id": "https://openalex.org/keywords/long-non-coding-rna",
+      "display_name": "Long non-coding RNA",
+      "score": 0.4745517671108246
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.45640432834625244
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.44358325004577637
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.38120517134666443
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.2413959503173828
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.20472437143325806
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C186310378",
+      "wikidata": "https://www.wikidata.org/wiki/Q941796",
+      "display_name": "Psychological repression",
+      "level": 4,
+      "score": 0.7215957045555115
+    },
+    {
+      "id": "https://openalex.org/C89611455",
+      "wikidata": "https://www.wikidata.org/wiki/Q6804646",
+      "display_name": "Mechanism (biology)",
+      "level": 2,
+      "score": 0.6862068176269531
+    },
+    {
+      "id": "https://openalex.org/C194993378",
+      "wikidata": "https://www.wikidata.org/wiki/Q427087",
+      "display_name": "Non-coding RNA",
+      "level": 4,
+      "score": 0.5204548835754395
+    },
+    {
+      "id": "https://openalex.org/C67705224",
+      "wikidata": "https://www.wikidata.org/wiki/Q11053",
+      "display_name": "RNA",
+      "level": 3,
+      "score": 0.49636369943618774
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.4845530092716217
+    },
+    {
+      "id": "https://openalex.org/C62203573",
+      "wikidata": "https://www.wikidata.org/wiki/Q15087973",
+      "display_name": "Long non-coding RNA",
+      "level": 4,
+      "score": 0.4745517671108246
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.45640432834625244
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.44358325004577637
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.38120517134666443
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.2413959503173828
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.20472437143325806
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004247",
+      "descriptor_name": "DNA",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004247",
+      "descriptor_name": "DNA",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004247",
+      "descriptor_name": "DNA",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004247",
+      "descriptor_name": "DNA",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012319",
+      "descriptor_name": "RNA Polymerase II",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019473",
+      "descriptor_name": "Transcription Factors, TFII",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020087",
+      "descriptor_name": "Alu Elements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020087",
+      "descriptor_name": "Alu Elements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020087",
+      "descriptor_name": "Alu Elements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020087",
+      "descriptor_name": "Alu Elements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020285",
+      "descriptor_name": "Cryoelectron Microscopy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D022661",
+      "descriptor_name": "RNA, Untranslated",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41594-024-01448-7",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41594-024-01448-7",
+      "pdf_url": "https://www.nature.com/articles/s41594-024-01448-7.pdf",
+      "source": {
+        "id": "https://openalex.org/S139253143",
+        "display_name": "Nature Structural & Molecular Biology",
+        "issn_l": "1545-9985",
+        "issn": [
+          "1545-9985",
+          "1545-9993"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Structural &amp; Molecular Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39762629",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39762629",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature structural & molecular biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:europepmc.org:10808694",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11996674",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11996674/pdf/41594_2024_Article_1448.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41594-024-01448-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41594-024-01448-7",
+    "pdf_url": "https://www.nature.com/articles/s41594-024-01448-7.pdf",
+    "source": {
+      "id": "https://openalex.org/S139253143",
+      "display_name": "Nature Structural & Molecular Biology",
+      "issn_l": "1545-9985",
+      "issn": [
+        "1545-9985",
+        "1545-9993"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Structural &amp; Molecular Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4495373907",
+      "display_name": null,
+      "funder_award_id": "DOI 10.55776",
+      "funder_id": "https://openalex.org/F4320321181",
+      "funder_display_name": "Austrian Science Fund"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309434",
+      "display_name": "University of Wisconsin-Madison",
+      "ror": "https://ror.org/01y2jtd41"
+    },
+    {
+      "id": "https://openalex.org/F4320315473",
+      "display_name": "Institute of Science and Technology Austria",
+      "ror": "https://ror.org/03gnh5541"
+    },
+    {
+      "id": "https://openalex.org/F4320321181",
+      "display_name": "Austrian Science Fund",
+      "ror": "https://ror.org/013tf3c58"
+    },
+    {
+      "id": "https://openalex.org/F4320321691",
+      "display_name": "Universität Wien",
+      "ror": "https://ror.org/03prydq77"
+    },
+    {
+      "id": "https://openalex.org/F4320323437",
+      "display_name": "Medizinische Universität Wien",
+      "ror": "https://ror.org/05n3x4p02"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4406104394.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4406104394.grobid-xml"
+  },
+  "referenced_works_count": 49,
+  "referenced_works": [
+    "https://openalex.org/W1521156175",
+    "https://openalex.org/W1815848944",
+    "https://openalex.org/W1974410673",
+    "https://openalex.org/W1985804692",
+    "https://openalex.org/W1996083680",
+    "https://openalex.org/W2001082232",
+    "https://openalex.org/W2026537834",
+    "https://openalex.org/W2026805262",
+    "https://openalex.org/W2038280179",
+    "https://openalex.org/W2052295885",
+    "https://openalex.org/W2064430845",
+    "https://openalex.org/W2073509281",
+    "https://openalex.org/W2078077589",
+    "https://openalex.org/W2086561953",
+    "https://openalex.org/W2095687920",
+    "https://openalex.org/W2107624922",
+    "https://openalex.org/W2115527235",
+    "https://openalex.org/W2118237502",
+    "https://openalex.org/W2124026197",
+    "https://openalex.org/W2125290921",
+    "https://openalex.org/W2128671635",
+    "https://openalex.org/W2132629607",
+    "https://openalex.org/W2141363391",
+    "https://openalex.org/W2150125096",
+    "https://openalex.org/W2154921607",
+    "https://openalex.org/W2164366364",
+    "https://openalex.org/W2166830202",
+    "https://openalex.org/W2180229411",
+    "https://openalex.org/W2273249288",
+    "https://openalex.org/W2358564002",
+    "https://openalex.org/W2411559641",
+    "https://openalex.org/W2587625522",
+    "https://openalex.org/W2754916294",
+    "https://openalex.org/W2764077044",
+    "https://openalex.org/W2793402357",
+    "https://openalex.org/W2801376357",
+    "https://openalex.org/W2899714098",
+    "https://openalex.org/W2953017129",
+    "https://openalex.org/W2953320394",
+    "https://openalex.org/W2977933365",
+    "https://openalex.org/W3014900738",
+    "https://openalex.org/W3083406432",
+    "https://openalex.org/W3103292928",
+    "https://openalex.org/W3114526705",
+    "https://openalex.org/W3147847912",
+    "https://openalex.org/W3182767159",
+    "https://openalex.org/W3204646384",
+    "https://openalex.org/W3207952997",
+    "https://openalex.org/W4256254146"
+  ],
+  "related_works": [
+    "https://openalex.org/W3199602943",
+    "https://openalex.org/W2058984380",
+    "https://openalex.org/W1988125422",
+    "https://openalex.org/W2900182103",
+    "https://openalex.org/W3183769948",
+    "https://openalex.org/W3184762873",
+    "https://openalex.org/W2547129954",
+    "https://openalex.org/W1924910987",
+    "https://openalex.org/W3146486132",
+    "https://openalex.org/W2276469649"
+  ],
+  "abstract_inverted_index": {
+    "Transcription": [
+      0
+    ],
+    "by": [
+      1,
+      10,
+      21
+    ],
+    "RNA": [
+      2,
+      16,
+      46,
+      51,
+      80
+    ],
+    "polymerase": [
+      3
+    ],
+    "II": [
+      4,
+      37,
+      55
+    ],
+    "(Pol": [
+      5
+    ],
+    "II)": [
+      6
+    ],
+    "can": [
+      7,
+      81
+    ],
+    "be": [
+      8
+    ],
+    "repressed": [
+      9
+    ],
+    "noncoding": [
+      11,
+      79
+    ],
+    "RNA,": [
+      12,
+      41
+    ],
+    "including": [
+      13
+    ],
+    "the": [
+      14,
+      19,
+      66
+    ],
+    "human": [
+      15
+    ],
+    "Alu.": [
+      17
+    ],
+    "However,": [
+      18
+    ],
+    "mechanism": [
+      20
+    ],
+    "which": [
+      22,
+      42
+    ],
+    "endogenous": [
+      23
+    ],
+    "RNAs": [
+      24
+    ],
+    "repress": [
+      25
+    ],
+    "transcription": [
+      26,
+      57,
+      68
+    ],
+    "remains": [
+      27
+    ],
+    "unclear.": [
+      28
+    ],
+    "Here": [
+      29
+    ],
+    "we": [
+      30,
+      60,
+      75
+    ],
+    "present": [
+      31
+    ],
+    "cryogenic-electron": [
+      32
+    ],
+    "microscopy": [
+      33
+    ],
+    "structures": [
+      34
+    ],
+    "of": [
+      35,
+      65
+    ],
+    "Pol": [
+      36,
+      54
+    ],
+    "bound": [
+      38
+    ],
+    "to": [
+      39,
+      53
+    ],
+    "Alu": [
+      40,
+      45
+    ],
+    "reveal": [
+      43,
+      76
+    ],
+    "that": [
+      44
+    ],
+    "mimics": [
+      47
+    ],
+    "how": [
+      48,
+      62,
+      77
+    ],
+    "DNA": [
+      49
+    ],
+    "and": [
+      50
+    ],
+    "bind": [
+      52
+    ],
+    "during": [
+      56
+    ],
+    "elongation.": [
+      58
+    ],
+    "Further,": [
+      59
+    ],
+    "show": [
+      61
+    ],
+    "distinct": [
+      63
+    ],
+    "domains": [
+      64
+    ],
+    "general": [
+      67
+    ],
+    "factor": [
+      69
+    ],
+    "TFIIF": [
+      70
+    ],
+    "control": [
+      71
+    ],
+    "repressive": [
+      72
+    ],
+    "activity.": [
+      73
+    ],
+    "Together,": [
+      74
+    ],
+    "a": [
+      78
+    ],
+    "regulate": [
+      82
+    ],
+    "mammalian": [
+      83
+    ],
+    "gene": [
+      84
+    ],
+    "expression.": [
+      85
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

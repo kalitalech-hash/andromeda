@@ -1,0 +1,876 @@
+{
+  "id": "https://openalex.org/W2956411360",
+  "doi": "https://doi.org/10.1016/j.comnet.2019.06.022",
+  "title": "A survey on multi-layer IP and optical Software-Defined Networks",
+  "display_name": "A survey on multi-layer IP and optical Software-Defined Networks",
+  "publication_year": 2019,
+  "publication_date": "2019-07-16",
+  "ids": {
+    "openalex": "https://openalex.org/W2956411360",
+    "doi": "https://doi.org/10.1016/j.comnet.2019.06.022",
+    "mag": "2956411360"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.comnet.2019.06.022",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.comnet.2019.06.022",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S63392143",
+      "display_name": "Computer Networks",
+      "issn_l": "1389-1286",
+      "issn": [
+        "1389-1286",
+        "1872-7069"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computer Networks",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088422280",
+        "display_name": "Mirosław Kantor",
+        "orcid": "https://orcid.org/0000-0002-3160-6422"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mirosław Kantor",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Edyta Biernacka",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6501-1048",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041283809",
+        "display_name": "Piotr Boryło",
+        "orcid": "https://orcid.org/0000-0001-8973-0672"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Boryło",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jerzy Domżał",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033013378",
+        "display_name": "Piotr Jurkiewicz",
+        "orcid": "https://orcid.org/0000-0002-0774-610X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Jurkiewicz",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011919684",
+        "display_name": "Miłosz Stypiński",
+        "orcid": "https://orcid.org/0000-0001-7137-3195"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Miłosz Stypiński",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7137-3195",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018395274",
+        "display_name": "Robert Wójcik",
+        "orcid": "https://orcid.org/0000-0002-9562-606X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Wójcik",
+      "raw_affiliation_strings": [
+        "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Telecommunications, AGH University of Science and Technology, Al. Mickiewicza 30, Kraków 30-059, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5088422280"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I686019"
+  ],
+  "apc_list": {
+    "value": 2370,
+    "currency": "USD",
+    "value_usd": 2370
+  },
+  "apc_paid": null,
+  "fwci": 1.4857,
+  "has_fulltext": false,
+  "cited_by_count": 16,
+  "citation_normalized_percentile": {
+    "value": 0.8410273,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "162",
+    "issue": null,
+    "first_page": "106844",
+    "last_page": "106844"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10714",
+    "display_name": "Software-Defined Networks and 5G",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10714",
+      "display_name": "Software-Defined Networks and 5G",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10767",
+      "display_name": "Advanced Photonic Communication Systems",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10847",
+      "display_name": "Advanced Optical Network Technologies",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8860864639282227
+    },
+    {
+      "id": "https://openalex.org/keywords/software-defined-networking",
+      "display_name": "Software-defined networking",
+      "score": 0.7612422704696655
+    },
+    {
+      "id": "https://openalex.org/keywords/layer",
+      "display_name": "Layer (electronics)",
+      "score": 0.6379088163375854
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-network",
+      "display_name": "Computer network",
+      "score": 0.5666661262512207
+    },
+    {
+      "id": "https://openalex.org/keywords/application-layer",
+      "display_name": "Application layer",
+      "score": 0.5433654189109802
+    },
+    {
+      "id": "https://openalex.org/keywords/network-management",
+      "display_name": "Network management",
+      "score": 0.5279221534729004
+    },
+    {
+      "id": "https://openalex.org/keywords/network-layer",
+      "display_name": "Network layer",
+      "score": 0.516351580619812
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.45828431844711304
+    },
+    {
+      "id": "https://openalex.org/keywords/networking-hardware",
+      "display_name": "Networking hardware",
+      "score": 0.4453646242618561
+    },
+    {
+      "id": "https://openalex.org/keywords/osi-model",
+      "display_name": "OSI model",
+      "score": 0.44169536232948303
+    },
+    {
+      "id": "https://openalex.org/keywords/network-architecture",
+      "display_name": "Network architecture",
+      "score": 0.4341290593147278
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.37123212218284607
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.07985800504684448
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8860864639282227
+    },
+    {
+      "id": "https://openalex.org/C77270119",
+      "wikidata": "https://www.wikidata.org/wiki/Q1655198",
+      "display_name": "Software-defined networking",
+      "level": 2,
+      "score": 0.7612422704696655
+    },
+    {
+      "id": "https://openalex.org/C2779227376",
+      "wikidata": "https://www.wikidata.org/wiki/Q6505497",
+      "display_name": "Layer (electronics)",
+      "level": 2,
+      "score": 0.6379088163375854
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.5666661262512207
+    },
+    {
+      "id": "https://openalex.org/C190793597",
+      "wikidata": "https://www.wikidata.org/wiki/Q189768",
+      "display_name": "Application layer",
+      "level": 3,
+      "score": 0.5433654189109802
+    },
+    {
+      "id": "https://openalex.org/C129763632",
+      "wikidata": "https://www.wikidata.org/wiki/Q1454667",
+      "display_name": "Network management",
+      "level": 2,
+      "score": 0.5279221534729004
+    },
+    {
+      "id": "https://openalex.org/C117468950",
+      "wikidata": "https://www.wikidata.org/wiki/Q208074",
+      "display_name": "Network layer",
+      "level": 3,
+      "score": 0.516351580619812
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.45828431844711304
+    },
+    {
+      "id": "https://openalex.org/C159631557",
+      "wikidata": "https://www.wikidata.org/wiki/Q1546066",
+      "display_name": "Networking hardware",
+      "level": 2,
+      "score": 0.4453646242618561
+    },
+    {
+      "id": "https://openalex.org/C168535184",
+      "wikidata": "https://www.wikidata.org/wiki/Q93312",
+      "display_name": "OSI model",
+      "level": 3,
+      "score": 0.44169536232948303
+    },
+    {
+      "id": "https://openalex.org/C193415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q639681",
+      "display_name": "Network architecture",
+      "level": 2,
+      "score": 0.4341290593147278
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.37123212218284607
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.07985800504684448
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C123745756",
+      "wikidata": "https://www.wikidata.org/wiki/Q1665949",
+      "display_name": "Interconnection",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.comnet.2019.06.022",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.comnet.2019.06.022",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S63392143",
+        "display_name": "Computer Networks",
+        "issn_l": "1389-1286",
+        "issn": [
+          "1389-1286",
+          "1872-7069"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computer Networks",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure",
+      "score": 0.5799999833106995
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3579311829",
+      "display_name": null,
+      "funder_award_id": "2017/25/B/ST6/02186",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 163,
+  "referenced_works": [
+    "https://openalex.org/W1529620455",
+    "https://openalex.org/W1536780246",
+    "https://openalex.org/W1559321233",
+    "https://openalex.org/W1583470631",
+    "https://openalex.org/W1969611313",
+    "https://openalex.org/W1972041827",
+    "https://openalex.org/W1976631240",
+    "https://openalex.org/W1978035947",
+    "https://openalex.org/W1978539378",
+    "https://openalex.org/W1992081479",
+    "https://openalex.org/W1994458580",
+    "https://openalex.org/W2001879085",
+    "https://openalex.org/W2003894436",
+    "https://openalex.org/W2005955140",
+    "https://openalex.org/W2014080510",
+    "https://openalex.org/W2017885226",
+    "https://openalex.org/W2022758041",
+    "https://openalex.org/W2024084417",
+    "https://openalex.org/W2024687912",
+    "https://openalex.org/W2032035594",
+    "https://openalex.org/W2034884600",
+    "https://openalex.org/W2040340473",
+    "https://openalex.org/W2040890324",
+    "https://openalex.org/W2052531814",
+    "https://openalex.org/W2058223283",
+    "https://openalex.org/W2062012755",
+    "https://openalex.org/W2076265580",
+    "https://openalex.org/W2083160512",
+    "https://openalex.org/W2084718899",
+    "https://openalex.org/W2084792824",
+    "https://openalex.org/W2094761032",
+    "https://openalex.org/W2094774324",
+    "https://openalex.org/W2102570031",
+    "https://openalex.org/W2110722699",
+    "https://openalex.org/W2112404269",
+    "https://openalex.org/W2116498842",
+    "https://openalex.org/W2126822952",
+    "https://openalex.org/W2131613319",
+    "https://openalex.org/W2133149344",
+    "https://openalex.org/W2140122627",
+    "https://openalex.org/W2145440831",
+    "https://openalex.org/W2148712273",
+    "https://openalex.org/W2181889655",
+    "https://openalex.org/W2214992965",
+    "https://openalex.org/W2219506060",
+    "https://openalex.org/W2226152253",
+    "https://openalex.org/W2277977059",
+    "https://openalex.org/W2283981096",
+    "https://openalex.org/W2290512731",
+    "https://openalex.org/W2295247813",
+    "https://openalex.org/W2310584864",
+    "https://openalex.org/W2314462266",
+    "https://openalex.org/W2315187995",
+    "https://openalex.org/W2317057258",
+    "https://openalex.org/W2321669339",
+    "https://openalex.org/W2324625658",
+    "https://openalex.org/W2331343212",
+    "https://openalex.org/W2340154871",
+    "https://openalex.org/W2463012949",
+    "https://openalex.org/W2500896683",
+    "https://openalex.org/W2507302405",
+    "https://openalex.org/W2507944307",
+    "https://openalex.org/W2525085862",
+    "https://openalex.org/W2532199618",
+    "https://openalex.org/W2533666503",
+    "https://openalex.org/W2546703045",
+    "https://openalex.org/W2547531959",
+    "https://openalex.org/W2560178266",
+    "https://openalex.org/W2565245277",
+    "https://openalex.org/W2578978964",
+    "https://openalex.org/W2582100233",
+    "https://openalex.org/W2584459069",
+    "https://openalex.org/W2587508615",
+    "https://openalex.org/W2591588643",
+    "https://openalex.org/W2593506718",
+    "https://openalex.org/W2603253565",
+    "https://openalex.org/W2603496711",
+    "https://openalex.org/W2621076407",
+    "https://openalex.org/W2621663928",
+    "https://openalex.org/W2651397102",
+    "https://openalex.org/W2733006614",
+    "https://openalex.org/W2735302922",
+    "https://openalex.org/W2739668746",
+    "https://openalex.org/W2744079410",
+    "https://openalex.org/W2751101781",
+    "https://openalex.org/W2751791012",
+    "https://openalex.org/W2751957645",
+    "https://openalex.org/W2759175790",
+    "https://openalex.org/W2766328038",
+    "https://openalex.org/W2772865543",
+    "https://openalex.org/W2774357826",
+    "https://openalex.org/W2774705049",
+    "https://openalex.org/W2780839858",
+    "https://openalex.org/W2783337179",
+    "https://openalex.org/W2785556916",
+    "https://openalex.org/W2786868301",
+    "https://openalex.org/W2789493100",
+    "https://openalex.org/W2790163784",
+    "https://openalex.org/W2791436622",
+    "https://openalex.org/W2792595997",
+    "https://openalex.org/W2793329432",
+    "https://openalex.org/W2796037377",
+    "https://openalex.org/W2800051653",
+    "https://openalex.org/W2889941759",
+    "https://openalex.org/W2890627666",
+    "https://openalex.org/W2907872783",
+    "https://openalex.org/W2912274232",
+    "https://openalex.org/W3037826211",
+    "https://openalex.org/W3105178180",
+    "https://openalex.org/W3151647019",
+    "https://openalex.org/W3157170857",
+    "https://openalex.org/W4245469447",
+    "https://openalex.org/W4246642988",
+    "https://openalex.org/W4300890120",
+    "https://openalex.org/W4386129672",
+    "https://openalex.org/W6631559111",
+    "https://openalex.org/W6633429265",
+    "https://openalex.org/W6635117258",
+    "https://openalex.org/W6644431847",
+    "https://openalex.org/W6648543044",
+    "https://openalex.org/W6649015449",
+    "https://openalex.org/W6651387276",
+    "https://openalex.org/W6658839189",
+    "https://openalex.org/W6662208237",
+    "https://openalex.org/W6663601554",
+    "https://openalex.org/W6664757032",
+    "https://openalex.org/W6666384805",
+    "https://openalex.org/W6669641001",
+    "https://openalex.org/W6671126006",
+    "https://openalex.org/W6671607341",
+    "https://openalex.org/W6677679113",
+    "https://openalex.org/W6680358987",
+    "https://openalex.org/W6685974814",
+    "https://openalex.org/W6688693920",
+    "https://openalex.org/W6689005759",
+    "https://openalex.org/W6689799649",
+    "https://openalex.org/W6696499285",
+    "https://openalex.org/W6698637516",
+    "https://openalex.org/W6699037260",
+    "https://openalex.org/W6699045864",
+    "https://openalex.org/W6700549669",
+    "https://openalex.org/W6700990682",
+    "https://openalex.org/W6724270219",
+    "https://openalex.org/W6725443398",
+    "https://openalex.org/W6725508397",
+    "https://openalex.org/W6728710318",
+    "https://openalex.org/W6729238792",
+    "https://openalex.org/W6732757072",
+    "https://openalex.org/W6733629915",
+    "https://openalex.org/W6735954809",
+    "https://openalex.org/W6738937356",
+    "https://openalex.org/W6740659957",
+    "https://openalex.org/W6741490138",
+    "https://openalex.org/W6743512408",
+    "https://openalex.org/W6743532068",
+    "https://openalex.org/W6744965184",
+    "https://openalex.org/W6745108719",
+    "https://openalex.org/W6747916660",
+    "https://openalex.org/W6747941396",
+    "https://openalex.org/W6748343997",
+    "https://openalex.org/W6748899934",
+    "https://openalex.org/W6749977266",
+    "https://openalex.org/W7011552958"
+  ],
+  "related_works": [
+    "https://openalex.org/W567653476",
+    "https://openalex.org/W2183913980",
+    "https://openalex.org/W3021937834",
+    "https://openalex.org/W2497803134",
+    "https://openalex.org/W4306985820",
+    "https://openalex.org/W1566045620",
+    "https://openalex.org/W2091289313",
+    "https://openalex.org/W1984276548",
+    "https://openalex.org/W2916064159",
+    "https://openalex.org/W2617523174"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

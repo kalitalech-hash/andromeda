@@ -1,0 +1,1834 @@
+{
+  "id": "https://openalex.org/W2944525406",
+  "doi": "https://doi.org/10.1101/632216",
+  "title": "Systematic comparative analysis of single cell RNA-sequencing methods",
+  "display_name": "Systematic comparative analysis of single cell RNA-sequencing methods",
+  "publication_year": 2019,
+  "publication_date": "2019-05-09",
+  "ids": {
+    "openalex": "https://openalex.org/W2944525406",
+    "doi": "https://doi.org/10.1101/632216",
+    "mag": "2944525406"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/632216",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/632216",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/05/23/632216.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2019/05/23/632216.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5050542674",
+        "display_name": "Jiarui Ding",
+        "orcid": "https://orcid.org/0000-0003-3670-7764"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jiarui Ding",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080948604",
+        "display_name": "Xian Adiconis",
+        "orcid": "https://orcid.org/0000-0002-4052-2503"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xian Adiconis",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017886169",
+        "display_name": "Sean Simmons",
+        "orcid": "https://orcid.org/0000-0002-1537-4000"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sean K. Simmons",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003816289",
+        "display_name": "Monika S. Kowalczyk",
+        "orcid": "https://orcid.org/0000-0003-0525-9196"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika S. Kowalczyk",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074538778",
+        "display_name": "Cynthia C. Hession",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cynthia C. Hession",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002496340",
+        "display_name": "Nemanja D. Marjanovic",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nemanja D. Marjanovic",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Travis K. Hughes",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802422659",
+          "display_name": "Ragon Institute of MGH, MIT and Harvard",
+          "ror": "https://ror.org/053r20n13",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I2802422659",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Travis K. Hughes",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+        "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+        "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I2802422659"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008493016",
+        "display_name": "Marc H. Wadsworth",
+        "orcid": "https://orcid.org/0000-0001-9479-8516"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802422659",
+          "display_name": "Ragon Institute of MGH, MIT and Harvard",
+          "ror": "https://ror.org/053r20n13",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I2802422659",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marc H. Wadsworth",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+        "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+        "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I2802422659"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069518373",
+        "display_name": "Tyler Burks",
+        "orcid": "https://orcid.org/0000-0003-4031-4445"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tyler Burks",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022079363",
+        "display_name": "Lan Nguyễn",
+        "orcid": "https://orcid.org/0000-0002-1791-0436"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lan T. Nguyen",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021583342",
+        "display_name": "John Kwon",
+        "orcid": "https://orcid.org/0000-0001-5700-238X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "John Y. H. Kwon",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000871493",
+        "display_name": "Boaz Barak",
+        "orcid": "https://orcid.org/0000-0001-9724-4578"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144112489",
+          "display_name": "McGovern Institute for Brain Research",
+          "ror": "https://ror.org/05ymca674",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144112489",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Boaz Barak",
+      "raw_affiliation_strings": [
+        "McGovern Institute for Brain Research and Department of Brain & Cognitive Sciences, MIT, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McGovern Institute for Brain Research and Department of Brain & Cognitive Sciences, MIT, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I144112489"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002886528",
+        "display_name": "William Ge",
+        "orcid": "https://orcid.org/0000-0002-2278-8201"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "William Ge",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022792225",
+        "display_name": "Amanda J. Kedaigle",
+        "orcid": "https://orcid.org/0000-0001-6156-5046"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amanda J. Kedaigle",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042157267",
+        "display_name": "Shaina L. Carroll",
+        "orcid": "https://orcid.org/0000-0002-8051-5850"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802422659",
+          "display_name": "Ragon Institute of MGH, MIT and Harvard",
+          "ror": "https://ror.org/053r20n13",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I2802422659",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shaina Carroll",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+        "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+        "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I2802422659"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101895849",
+        "display_name": "Shuqiang Li",
+        "orcid": "https://orcid.org/0000-0003-4507-5922"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shuqiang Li",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048859270",
+        "display_name": "Nir Hacohen",
+        "orcid": "https://orcid.org/0000-0002-2349-2656"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149717",
+          "display_name": "Center for Cancer Research",
+          "ror": "https://ror.org/05bjen692",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210140884",
+            "https://openalex.org/I4210149717"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nir Hacohen",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Center for Cancer Research, Dept. of Medicine, Massachusetts General Hospital, Boston, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Cancer Research, Dept. of Medicine, Massachusetts General Hospital, Boston, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210149717",
+            "https://openalex.org/I4210087915"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071415389",
+        "display_name": "Orit Rozenblatt–Rosen",
+        "orcid": "https://orcid.org/0000-0001-6313-3570"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Orit Rozenblatt-Rosen",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083743078",
+        "display_name": "Alex K. Shalek",
+        "orcid": "https://orcid.org/0000-0001-5670-8778"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802422659",
+          "display_name": "Ragon Institute of MGH, MIT and Harvard",
+          "ror": "https://ror.org/053r20n13",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I2802422659",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alex K. Shalek",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+        "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+        "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I2802422659"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute for Medical Engineering & Science, Dept. of Chemistry, MIT, Cambridge, MA USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047691305",
+        "display_name": "Alexandra–Chloé Villani",
+        "orcid": "https://orcid.org/0000-0001-7461-0408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149717",
+          "display_name": "Center for Cancer Research",
+          "ror": "https://ror.org/05bjen692",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210140884",
+            "https://openalex.org/I4210149717"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexandra-Chloé Villani",
+      "raw_affiliation_strings": [
+        "Center for Cancer Research, Dept. of Medicine, Massachusetts General Hospital, Boston, MA USA",
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Center for Immunology and Inflammatory Diseases, Massachusetts General Hospital, Charlestown, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Cancer Research, Dept. of Medicine, Massachusetts General Hospital, Boston, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210149717",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Massachusetts General Hospital, Charlestown, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004067604",
+        "display_name": "Aviv Regev",
+        "orcid": "https://orcid.org/0000-0003-3293-3158"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aviv Regev",
+      "raw_affiliation_strings": [
+        "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+        "Howard Hughes Medical Institute, Dept. of Biology, MIT, Cambridge, MA USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Koch Institute of Integrative Cancer Research, Cambridge, MA USA",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Dept. of Biology, MIT, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5024425176",
+        "display_name": "Joshua Z. Levin",
+        "orcid": "https://orcid.org/0000-0002-0170-3598"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Joshua Z. Levin",
+      "raw_affiliation_strings": [
+        "Broad Institute of MIT & Harvard, Cambridge, MA USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0170-3598",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of MIT & Harvard, Cambridge, MA USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 22,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5024425176"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I107606265"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 118,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11289",
+    "display_name": "Single-cell and spatial transcriptomics",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11289",
+      "display_name": "Single-cell and spatial transcriptomics",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10773",
+      "display_name": "Extracellular vesicles in disease",
+      "score": 0.9854000210762024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10062",
+      "display_name": "MicroRNA in disease regulation",
+      "score": 0.9616000056266785,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6754778027534485
+    },
+    {
+      "id": "https://openalex.org/keywords/profiling",
+      "display_name": "Profiling (computer programming)",
+      "score": 0.6311161518096924
+    },
+    {
+      "id": "https://openalex.org/keywords/pipeline",
+      "display_name": "Pipeline (software)",
+      "score": 0.5814667344093323
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.5462720394134521
+    },
+    {
+      "id": "https://openalex.org/keywords/benchmark",
+      "display_name": "Benchmark (surveying)",
+      "score": 0.5263261198997498
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.2352883517742157
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6754778027534485
+    },
+    {
+      "id": "https://openalex.org/C187191949",
+      "wikidata": "https://www.wikidata.org/wiki/Q1138496",
+      "display_name": "Profiling (computer programming)",
+      "level": 2,
+      "score": 0.6311161518096924
+    },
+    {
+      "id": "https://openalex.org/C43521106",
+      "wikidata": "https://www.wikidata.org/wiki/Q2165493",
+      "display_name": "Pipeline (software)",
+      "level": 2,
+      "score": 0.5814667344093323
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5462720394134521
+    },
+    {
+      "id": "https://openalex.org/C185798385",
+      "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+      "display_name": "Benchmark (surveying)",
+      "level": 2,
+      "score": 0.5263261198997498
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.2352883517742157
+    },
+    {
+      "id": "https://openalex.org/C13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/632216",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/632216",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/05/23/632216.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/632216",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/632216",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/05/23/632216.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2944525406.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2944525406.grobid-xml"
+  },
+  "referenced_works_count": 65,
+  "referenced_works": [
+    "https://openalex.org/W1631320694",
+    "https://openalex.org/W1979283544",
+    "https://openalex.org/W1979551322",
+    "https://openalex.org/W1981641790",
+    "https://openalex.org/W1999574084",
+    "https://openalex.org/W2019552331",
+    "https://openalex.org/W2026641296",
+    "https://openalex.org/W2046157927",
+    "https://openalex.org/W2071960085",
+    "https://openalex.org/W2096237610",
+    "https://openalex.org/W2102212449",
+    "https://openalex.org/W2102278945",
+    "https://openalex.org/W2104005232",
+    "https://openalex.org/W2116830437",
+    "https://openalex.org/W2124985265",
+    "https://openalex.org/W2131681506",
+    "https://openalex.org/W2135937351",
+    "https://openalex.org/W2138207763",
+    "https://openalex.org/W2152045787",
+    "https://openalex.org/W2169456326",
+    "https://openalex.org/W2170551349",
+    "https://openalex.org/W2231058499",
+    "https://openalex.org/W2273246571",
+    "https://openalex.org/W2286142055",
+    "https://openalex.org/W2336440223",
+    "https://openalex.org/W2342688693",
+    "https://openalex.org/W2486882743",
+    "https://openalex.org/W2510746232",
+    "https://openalex.org/W2550707452",
+    "https://openalex.org/W2551884408",
+    "https://openalex.org/W2564176045",
+    "https://openalex.org/W2572662684",
+    "https://openalex.org/W2587100721",
+    "https://openalex.org/W2588569583",
+    "https://openalex.org/W2591733518",
+    "https://openalex.org/W2596244203",
+    "https://openalex.org/W2734414396",
+    "https://openalex.org/W2746479894",
+    "https://openalex.org/W2747545374",
+    "https://openalex.org/W2747841296",
+    "https://openalex.org/W2753908609",
+    "https://openalex.org/W2755681539",
+    "https://openalex.org/W2759615793",
+    "https://openalex.org/W2774761491",
+    "https://openalex.org/W2788348358",
+    "https://openalex.org/W2788560984",
+    "https://openalex.org/W2794083495",
+    "https://openalex.org/W2794480084",
+    "https://openalex.org/W2810097927",
+    "https://openalex.org/W2821961608",
+    "https://openalex.org/W2885307522",
+    "https://openalex.org/W2898824002",
+    "https://openalex.org/W2906213364",
+    "https://openalex.org/W2914966303",
+    "https://openalex.org/W2916020270",
+    "https://openalex.org/W2919632356",
+    "https://openalex.org/W2944073176",
+    "https://openalex.org/W2951506174",
+    "https://openalex.org/W2951890476",
+    "https://openalex.org/W2952109315",
+    "https://openalex.org/W2952630931",
+    "https://openalex.org/W2953170162",
+    "https://openalex.org/W3099768174",
+    "https://openalex.org/W4213108508",
+    "https://openalex.org/W6763966122"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2378211422",
+    "https://openalex.org/W4321353415",
+    "https://openalex.org/W2745001401",
+    "https://openalex.org/W2130974462",
+    "https://openalex.org/W2028665553",
+    "https://openalex.org/W2086519370",
+    "https://openalex.org/W4246352526"
+  ],
+  "abstract_inverted_index": {
+    "ABSTRACT": [
+      0
+    ],
+    "A": [
+      1
+    ],
+    "multitude": [
+      2
+    ],
+    "of": [
+      3,
+      57
+    ],
+    "single-cell": [
+      4
+    ],
+    "RNA": [
+      5
+    ],
+    "sequencing": [
+      6
+    ],
+    "methods": [
+      7,
+      33,
+      46,
+      105,
+      130
+    ],
+    "have": [
+      8,
+      34
+    ],
+    "been": [
+      9,
+      36
+    ],
+    "developed": [
+      10,
+      86
+    ],
+    "in": [
+      11,
+      17,
+      73,
+      77,
+      119,
+      131
+    ],
+    "recent": [
+      12
+    ],
+    "years,": [
+      13
+    ],
+    "with": [
+      14,
+      128
+    ],
+    "dramatic": [
+      15
+    ],
+    "advances": [
+      16
+    ],
+    "scale": [
+      18,
+      27
+    ],
+    "and": [
+      19,
+      21,
+      25,
+      38,
+      66,
+      87,
+      110,
+      144
+    ],
+    "power,": [
+      20
+    ],
+    "enabling": [
+      22
+    ],
+    "major": [
+      23
+    ],
+    "discoveries": [
+      24
+    ],
+    "large": [
+      26
+    ],
+    "cell": [
+      28,
+      49,
+      60
+    ],
+    "mapping": [
+      29
+    ],
+    "efforts.": [
+      30
+    ],
+    "However,": [
+      31
+    ],
+    "these": [
+      32,
+      83
+    ],
+    "not": [
+      35
+    ],
+    "systematically": [
+      37
+    ],
+    "comprehensively": [
+      39
+    ],
+    "benchmarked.": [
+      40
+    ],
+    "Here,": [
+      41
+    ],
+    "we": [
+      42,
+      85
+    ],
+    "directly": [
+      43
+    ],
+    "compare": [
+      44
+    ],
+    "seven": [
+      45
+    ],
+    "for": [
+      47,
+      98,
+      106,
+      111,
+      141,
+      145
+    ],
+    "single": [
+      48,
+      51,
+      79
+    ],
+    "and/or": [
+      50
+    ],
+    "nucleus": [
+      52
+    ],
+    "profiling": [
+      53
+    ],
+    "from": [
+      54
+    ],
+    "three": [
+      55
+    ],
+    "types": [
+      56
+    ],
+    "samples": [
+      58
+    ],
+    "–": [
+      59,
+      69
+    ],
+    "lines,": [
+      61
+    ],
+    "peripheral": [
+      62
+    ],
+    "blood": [
+      63
+    ],
+    "mononuclear": [
+      64
+    ],
+    "cells": [
+      65
+    ],
+    "brain": [
+      67
+    ],
+    "tissue": [
+      68
+    ],
+    "generating": [
+      70
+    ],
+    "36": [
+      71
+    ],
+    "libraries": [
+      72
+    ],
+    "six": [
+      74
+    ],
+    "separate": [
+      75
+    ],
+    "experiments": [
+      76,
+      127
+    ],
+    "a": [
+      78,
+      90,
+      139
+    ],
+    "center.": [
+      80
+    ],
+    "To": [
+      81
+    ],
+    "analyze": [
+      82
+    ],
+    "datasets,": [
+      84
+    ],
+    "applied": [
+      88
+    ],
+    "scumi,": [
+      89
+    ],
+    "flexible": [
+      91
+    ],
+    "computational": [
+      92,
+      146
+    ],
+    "pipeline": [
+      93
+    ],
+    "that": [
+      94
+    ],
+    "can": [
+      95
+    ],
+    "be": [
+      96
+    ],
+    "used": [
+      97
+    ],
+    "any": [
+      99
+    ],
+    "scRNA-seq": [
+      100
+    ],
+    "method.": [
+      101
+    ],
+    "We": [
+      102
+    ],
+    "evaluated": [
+      103
+    ],
+    "the": [
+      104,
+      120,
+      129
+    ],
+    "both": [
+      107
+    ],
+    "basic": [
+      108
+    ],
+    "performance": [
+      109
+    ],
+    "their": [
+      112
+    ],
+    "ability": [
+      113
+    ],
+    "to": [
+      114
+    ],
+    "recover": [
+      115
+    ],
+    "known": [
+      116
+    ],
+    "biological": [
+      117
+    ],
+    "information": [
+      118
+    ],
+    "samples.": [
+      121
+    ],
+    "Our": [
+      122
+    ],
+    "study": [
+      123,
+      133
+    ],
+    "will": [
+      124
+    ],
+    "help": [
+      125
+    ],
+    "guide": [
+      126
+    ],
+    "this": [
+      132
+    ],
+    "as": [
+      134,
+      136,
+      138
+    ],
+    "well": [
+      135
+    ],
+    "serve": [
+      137
+    ],
+    "benchmark": [
+      140
+    ],
+    "future": [
+      142
+    ],
+    "studies": [
+      143
+    ],
+    "algorithm": [
+      147
+    ],
+    "development.": [
+      148
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 43
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 20
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

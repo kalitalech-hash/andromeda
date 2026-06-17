@@ -1,0 +1,1684 @@
+{
+  "id": "https://openalex.org/W3042876374",
+  "doi": "https://doi.org/10.1101/2020.07.16.206789",
+  "title": "PartSeg, a Tool for Quantitative Feature Extraction From 3D Microscopy Images for Dummies",
+  "display_name": "PartSeg, a Tool for Quantitative Feature Extraction From 3D Microscopy Images for Dummies",
+  "publication_year": 2020,
+  "publication_date": "2020-07-17",
+  "ids": {
+    "openalex": "https://openalex.org/W3042876374",
+    "doi": "https://doi.org/10.1101/2020.07.16.206789",
+    "mag": "3042876374"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/2020.07.16.206789",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2020.07.16.206789",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/07/17/2020.07.16.206789.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2020/07/17/2020.07.16.206789.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5020346637",
+        "display_name": "Grzegorz Bokota",
+        "orcid": "https://orcid.org/0000-0002-5470-1676"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Bokota",
+      "raw_affiliation_strings": [
+        "Institute of Informatics, University of Warsaw, Warsaw, Poland",
+        "Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Informatics, University of Warsaw, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091346096",
+        "display_name": "Jacek Sroka",
+        "orcid": "https://orcid.org/0000-0002-1714-9667"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Sroka",
+      "raw_affiliation_strings": [
+        "Institute of Informatics, University of Warsaw, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Informatics, University of Warsaw, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043105133",
+        "display_name": "Subhadip Basu",
+        "orcid": "https://orcid.org/0000-0003-1780-0461"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I170979836",
+          "display_name": "Jadavpur University",
+          "ror": "https://ror.org/02af4h012",
+          "country_code": "IN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I170979836"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Subhadip Basu",
+      "raw_affiliation_strings": [
+        "Department of Computer Science and Engineering, Jadavpur University, Kolkata, India"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science and Engineering, Jadavpur University, Kolkata, India",
+          "institution_ids": [
+            "https://openalex.org/I170979836"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103210031",
+        "display_name": "Nirmal Das",
+        "orcid": "https://orcid.org/0000-0001-8980-2111"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I170979836",
+          "display_name": "Jadavpur University",
+          "ror": "https://ror.org/02af4h012",
+          "country_code": "IN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I170979836"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nirmal Das",
+      "raw_affiliation_strings": [
+        "Department of Computer Science and Engineering, Jadavpur University, Kolkata, India"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science and Engineering, Jadavpur University, Kolkata, India",
+          "institution_ids": [
+            "https://openalex.org/I170979836"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066356874",
+        "display_name": "Paweł Trzaskoma",
+        "orcid": "https://orcid.org/0000-0002-5823-6572"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paweł Trzaskoma",
+      "raw_affiliation_strings": [
+        "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052104121",
+        "display_name": "Yana Yushkevich",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yana Yushkevich",
+      "raw_affiliation_strings": [
+        "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101547290",
+        "display_name": "Agnieszka Grabowska",
+        "orcid": "https://orcid.org/0000-0002-8804-6817"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka Grabowska",
+      "raw_affiliation_strings": [
+        "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034325899",
+        "display_name": "Adriana Magalska",
+        "orcid": "https://orcid.org/0000-0002-0517-7134"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Adriana Magalska",
+      "raw_affiliation_strings": [
+        "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5021916927",
+        "display_name": "Dariusz Plewczyński",
+        "orcid": "https://orcid.org/0000-0002-3840-7610"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Dariusz Plewczyński",
+      "raw_affiliation_strings": [
+        "Laboratory of Bioinformatics and Computational Genomics, Faculty of Mathematics and Information Science, Warsaw University of Technology, Warsaw, Poland",
+        "Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3840-7610",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Bioinformatics and Computational Genomics, Faculty of Mathematics and Information Science, Warsaw University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5021916927",
+    "https://openalex.org/A5034325899"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I108403487",
+    "https://openalex.org/I16778253",
+    "https://openalex.org/I4654613",
+    "https://openalex.org/I99542240"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12859",
+    "display_name": "Cell Image Analysis Techniques",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1304",
+      "display_name": "Biophysics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12859",
+      "display_name": "Cell Image Analysis Techniques",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1304",
+        "display_name": "Biophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13937",
+      "display_name": "Genetics, Bioinformatics, and Biomedical Research",
+      "score": 0.9869999885559082,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10540",
+      "display_name": "Advanced Fluorescence Microscopy Techniques",
+      "score": 0.9865999817848206,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1304",
+        "display_name": "Biophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7369073629379272
+    },
+    {
+      "id": "https://openalex.org/keywords/python",
+      "display_name": "Python (programming language)",
+      "score": 0.7113730907440186
+    },
+    {
+      "id": "https://openalex.org/keywords/segmentation",
+      "display_name": "Segmentation",
+      "score": 0.680068850517273
+    },
+    {
+      "id": "https://openalex.org/keywords/interface",
+      "display_name": "Interface (matter)",
+      "score": 0.49320024251937866
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.4605409801006317
+    },
+    {
+      "id": "https://openalex.org/keywords/image-processing",
+      "display_name": "Image processing",
+      "score": 0.4505883753299713
+    },
+    {
+      "id": "https://openalex.org/keywords/programmer",
+      "display_name": "Programmer",
+      "score": 0.42970722913742065
+    },
+    {
+      "id": "https://openalex.org/keywords/feature-extraction",
+      "display_name": "Feature extraction",
+      "score": 0.41253456473350525
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.33979061245918274
+    },
+    {
+      "id": "https://openalex.org/keywords/pattern-recognition",
+      "display_name": "Pattern recognition (psychology)",
+      "score": 0.33284640312194824
+    },
+    {
+      "id": "https://openalex.org/keywords/image",
+      "display_name": "Image (mathematics)",
+      "score": 0.18564051389694214
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7369073629379272
+    },
+    {
+      "id": "https://openalex.org/C519991488",
+      "wikidata": "https://www.wikidata.org/wiki/Q28865",
+      "display_name": "Python (programming language)",
+      "level": 2,
+      "score": 0.7113730907440186
+    },
+    {
+      "id": "https://openalex.org/C89600930",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423946",
+      "display_name": "Segmentation",
+      "level": 2,
+      "score": 0.680068850517273
+    },
+    {
+      "id": "https://openalex.org/C113843644",
+      "wikidata": "https://www.wikidata.org/wiki/Q901882",
+      "display_name": "Interface (matter)",
+      "level": 4,
+      "score": 0.49320024251937866
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4605409801006317
+    },
+    {
+      "id": "https://openalex.org/C9417928",
+      "wikidata": "https://www.wikidata.org/wiki/Q1070689",
+      "display_name": "Image processing",
+      "level": 3,
+      "score": 0.4505883753299713
+    },
+    {
+      "id": "https://openalex.org/C2778514511",
+      "wikidata": "https://www.wikidata.org/wiki/Q1374194",
+      "display_name": "Programmer",
+      "level": 2,
+      "score": 0.42970722913742065
+    },
+    {
+      "id": "https://openalex.org/C52622490",
+      "wikidata": "https://www.wikidata.org/wiki/Q1026626",
+      "display_name": "Feature extraction",
+      "level": 2,
+      "score": 0.41253456473350525
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.33979061245918274
+    },
+    {
+      "id": "https://openalex.org/C153180895",
+      "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+      "display_name": "Pattern recognition (psychology)",
+      "level": 2,
+      "score": 0.33284640312194824
+    },
+    {
+      "id": "https://openalex.org/C115961682",
+      "wikidata": "https://www.wikidata.org/wiki/Q860623",
+      "display_name": "Image (mathematics)",
+      "level": 2,
+      "score": 0.18564051389694214
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C173608175",
+      "wikidata": "https://www.wikidata.org/wiki/Q232661",
+      "display_name": "Parallel computing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C129307140",
+      "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+      "display_name": "Maximum bubble pressure method",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C157915830",
+      "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+      "display_name": "Bubble",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/2020.07.16.206789",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/2020.07.16.206789",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/07/17/2020.07.16.206789.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/2020.07.16.206789",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2020.07.16.206789",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/07/17/2020.07.16.206789.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.46000000834465027,
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3244438289",
+      "display_name": null,
+      "funder_award_id": "2014/15/B/ST6/05082",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G7842005466",
+      "display_name": null,
+      "funder_award_id": "Horizon 2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G8305975903",
+      "display_name": null,
+      "funder_award_id": "1U54DK107967-01",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320321042",
+      "display_name": "Fundacja na rzecz Nauki Polskiej",
+      "ror": "https://ror.org/048zd9m77"
+    },
+    {
+      "id": "https://openalex.org/F4320334740",
+      "display_name": "Human Resource Development Group",
+      "ror": "https://ror.org/0577j0g35"
+    },
+    {
+      "id": "https://openalex.org/F4320335322",
+      "display_name": "European Regional Development Fund",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3042876374.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3042876374.grobid-xml"
+  },
+  "referenced_works_count": 31,
+  "referenced_works": [
+    "https://openalex.org/W1652775531",
+    "https://openalex.org/W1966397414",
+    "https://openalex.org/W1980280904",
+    "https://openalex.org/W1993570130",
+    "https://openalex.org/W2015149377",
+    "https://openalex.org/W2031124365",
+    "https://openalex.org/W2034184519",
+    "https://openalex.org/W2037947871",
+    "https://openalex.org/W2107554012",
+    "https://openalex.org/W2115685806",
+    "https://openalex.org/W2116529502",
+    "https://openalex.org/W2138957397",
+    "https://openalex.org/W2142408776",
+    "https://openalex.org/W2160908077",
+    "https://openalex.org/W2195190137",
+    "https://openalex.org/W2298086467",
+    "https://openalex.org/W2344305341",
+    "https://openalex.org/W2570002305",
+    "https://openalex.org/W2580035316",
+    "https://openalex.org/W2616198309",
+    "https://openalex.org/W2738075018",
+    "https://openalex.org/W2801097912",
+    "https://openalex.org/W2801422562",
+    "https://openalex.org/W2806530968",
+    "https://openalex.org/W2954536112",
+    "https://openalex.org/W3003623648",
+    "https://openalex.org/W3021714323",
+    "https://openalex.org/W3099064910",
+    "https://openalex.org/W3100296314",
+    "https://openalex.org/W3103545209",
+    "https://openalex.org/W4246607059"
+  ],
+  "related_works": [
+    "https://openalex.org/W2379153735",
+    "https://openalex.org/W2046172023",
+    "https://openalex.org/W2972896947",
+    "https://openalex.org/W2170146914",
+    "https://openalex.org/W2355105570",
+    "https://openalex.org/W2083974823",
+    "https://openalex.org/W2072751097",
+    "https://openalex.org/W4237177615",
+    "https://openalex.org/W2341492732",
+    "https://openalex.org/W2790335623"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Background": [
+      1
+    ],
+    "Bioimaging": [
+      2
+    ],
+    "techniques": [
+      3
+    ],
+    "offer": [
+      4,
+      195
+    ],
+    "a": [
+      5,
+      40,
+      66,
+      90,
+      128,
+      154,
+      199,
+      244,
+      304
+    ],
+    "robust": [
+      6
+    ],
+    "tool": [
+      7,
+      129,
+      259,
+      305
+    ],
+    "for": [
+      8,
+      42,
+      94,
+      130,
+      139,
+      158,
+      214,
+      231,
+      253,
+      306,
+      320,
+      330,
+      338
+    ],
+    "studying": [
+      9
+    ],
+    "molecular": [
+      10
+    ],
+    "pathways": [
+      11
+    ],
+    "and": [
+      12,
+      49,
+      77,
+      132,
+      160,
+      169,
+      188,
+      250,
+      266,
+      308,
+      311,
+      324,
+      344
+    ],
+    "morphological": [
+      13
+    ],
+    "phenotypes": [
+      14
+    ],
+    "of": [
+      15,
+      34,
+      53,
+      62,
+      69,
+      74,
+      108,
+      115,
+      118,
+      134,
+      142,
+      149,
+      163,
+      172,
+      184,
+      220,
+      222,
+      235,
+      274,
+      280,
+      291,
+      313,
+      341
+    ],
+    "cell": [
+      16,
+      56,
+      143,
+      321
+    ],
+    "populations": [
+      17
+    ],
+    "subjected": [
+      18
+    ],
+    "to": [
+      19,
+      30,
+      194
+    ],
+    "various": [
+      20
+    ],
+    "conditions.": [
+      21
+    ],
+    "As": [
+      22,
+      217
+    ],
+    "modern": [
+      23
+    ],
+    "high": [
+      24,
+      35
+    ],
+    "resolution": [
+      25
+    ],
+    "3D": [
+      26,
+      135,
+      164,
+      314
+    ],
+    "microscopy": [
+      27,
+      136,
+      165,
+      315
+    ],
+    "provides": [
+      28
+    ],
+    "access": [
+      29
+    ],
+    "an": [
+      31,
+      46,
+      206
+    ],
+    "ever-increasing": [
+      32
+    ],
+    "amount": [
+      33
+    ],
+    "quality": [
+      36
+    ],
+    "images,": [
+      37,
+      137
+    ],
+    "there": [
+      38
+    ],
+    "arises": [
+      39
+    ],
+    "need": [
+      41,
+      213
+    ],
+    "their": [
+      43
+    ],
+    "analysis": [
+      44,
+      162,
+      183,
+      234,
+      290,
+      323
+    ],
+    "in": [
+      45,
+      71,
+      105,
+      179,
+      205,
+      284,
+      350
+    ],
+    "automated,": [
+      47
+    ],
+    "unbiased": [
+      48
+    ],
+    "simple": [
+      50
+    ],
+    "way.": [
+      51
+    ],
+    "Segmentation": [
+      52
+    ],
+    "structures": [
+      54
+    ],
+    "within": [
+      55,
+      246,
+      255
+    ],
+    "nucleus,": [
+      57
+    ],
+    "which": [
+      58,
+      111,
+      302
+    ],
+    "is": [
+      59,
+      102,
+      209,
+      260,
+      282,
+      303,
+      318
+    ],
+    "the": [
+      60,
+      72,
+      82,
+      85,
+      113,
+      140,
+      212,
+      218,
+      272,
+      278,
+      288
+    ],
+    "focus": [
+      61
+    ],
+    "this": [
+      63,
+      123,
+      296,
+      331
+    ],
+    "paper,": [
+      64,
+      124,
+      297
+    ],
+    "presents": [
+      65
+    ],
+    "new": [
+      67,
+      95,
+      155,
+      264
+    ],
+    "layer": [
+      68
+    ],
+    "complexity": [
+      70
+    ],
+    "form": [
+      73,
+      117
+    ],
+    "dense": [
+      75
+    ],
+    "packing": [
+      76
+    ],
+    "significant": [
+      78
+    ],
+    "signal": [
+      79
+    ],
+    "overlap.": [
+      80
+    ],
+    "At": [
+      81
+    ],
+    "same": [
+      83
+    ],
+    "time": [
+      84
+    ],
+    "available": [
+      86
+    ],
+    "segmentation": [
+      87,
+      131,
+      159,
+      310,
+      327
+    ],
+    "tools": [
+      88
+    ],
+    "provide": [
+      89
+    ],
+    "steep": [
+      91
+    ],
+    "learning": [
+      92
+    ],
+    "curve": [
+      93
+    ],
+    "users": [
+      96,
+      238
+    ],
+    "with": [
+      97,
+      177,
+      191,
+      198
+    ],
+    "limited": [
+      98
+    ],
+    "technical": [
+      99
+    ],
+    "background.": [
+      100
+    ],
+    "This": [
+      101
+    ],
+    "especially": [
+      103
+    ],
+    "apparent": [
+      104
+    ],
+    "bulk": [
+      106,
+      226,
+      339
+    ],
+    "processing": [
+      107,
+      204,
+      227,
+      249,
+      340
+    ],
+    "image": [
+      109
+    ],
+    "sets,": [
+      110
+    ],
+    "requires": [
+      112
+    ],
+    "use": [
+      114,
+      186,
+      240,
+      273
+    ],
+    "some": [
+      116
+    ],
+    "programming": [
+      119
+    ],
+    "notation.": [
+      120
+    ],
+    "Results": [
+      121
+    ],
+    "In": [
+      122,
+      295
+    ],
+    "we": [
+      125,
+      298
+    ],
+    "present": [
+      126
+    ],
+    "PartSeg,": [
+      127
+    ],
+    "reconstruction": [
+      133,
+      312
+    ],
+    "optimised": [
+      138,
+      319
+    ],
+    "study": [
+      141
+    ],
+    "nucleus.": [
+      144
+    ],
+    "PartSeg": [
+      145,
+      173,
+      241,
+      281,
+      301,
+      317,
+      333
+    ],
+    "integrates": [
+      146
+    ],
+    "refined": [
+      147
+    ],
+    "versions": [
+      148
+    ],
+    "several": [
+      150,
+      285
+    ],
+    "state-of-the-art": [
+      151
+    ],
+    "algorithms,": [
+      152
+    ],
+    "including": [
+      153
+    ],
+    "multi-scale": [
+      156
+    ],
+    "approach": [
+      157
+    ],
+    "quantitative": [
+      161,
+      289
+    ],
+    "images.": [
+      166,
+      316
+    ],
+    "The": [
+      167,
+      258
+    ],
+    "features": [
+      168
+    ],
+    "user-friendly": [
+      170
+    ],
+    "interface": [
+      171,
+      197
+    ],
+    "were": [
+      174
+    ],
+    "carefully": [
+      175
+    ],
+    "planned": [
+      176
+    ],
+    "biologists": [
+      178,
+      277
+    ],
+    "mind,": [
+      180
+    ],
+    "based": [
+      181
+    ],
+    "on": [
+      182
+    ],
+    "multiple": [
+      185,
+      342
+    ],
+    "cases": [
+      187
+    ],
+    "difficulties": [
+      189
+    ],
+    "encountered": [
+      190
+    ],
+    "other": [
+      192,
+      351
+    ],
+    "tools,": [
+      193
+    ],
+    "ergonomic": [
+      196
+    ],
+    "minimal": [
+      200
+    ],
+    "entry": [
+      201
+    ],
+    "barrier.": [
+      202
+    ],
+    "Bulk": [
+      203
+    ],
+    "ad-hoc": [
+      207
+    ],
+    "manner": [
+      208
+    ],
+    "possible": [
+      210
+    ],
+    "without": [
+      211
+    ],
+    "programmer": [
+      215
+    ],
+    "support.": [
+      216
+    ],
+    "size": [
+      219
+    ],
+    "datasets": [
+      221
+    ],
+    "interest": [
+      223
+    ],
+    "grows,": [
+      224
+    ],
+    "such": [
+      225
+    ],
+    "solutions": [
+      228
+    ],
+    "become": [
+      229
+    ],
+    "essential": [
+      230
+    ],
+    "proper": [
+      232
+    ],
+    "statistical": [
+      233
+    ],
+    "results.": [
+      236
+    ],
+    "Advanced": [
+      237
+    ],
+    "can": [
+      239,
+      268,
+      334,
+      347
+    ],
+    "components": [
+      242,
+      346
+    ],
+    "as": [
+      243
+    ],
+    "library": [
+      245
+    ],
+    "Python": [
+      247
+    ],
+    "data": [
+      248
+    ],
+    "visualisation": [
+      251
+    ],
+    "pipelines,": [
+      252
+    ],
+    "example": [
+      254
+    ],
+    "Jupyter": [
+      256
+    ],
+    "notebooks.": [
+      257
+    ],
+    "extensible": [
+      261
+    ],
+    "so": [
+      262
+    ],
+    "that": [
+      263
+    ],
+    "functionality": [
+      265
+    ],
+    "algorithms": [
+      267,
+      328
+    ],
+    "be": [
+      269,
+      336,
+      348
+    ],
+    "added": [
+      270
+    ],
+    "by": [
+      271
+    ],
+    "plugins.": [
+      275
+    ],
+    "For": [
+      276
+    ],
+    "utility": [
+      279
+    ],
+    "presented": [
+      283,
+      300
+    ],
+    "scenarios,": [
+      286
+    ],
+    "showing": [
+      287
+    ],
+    "nuclear": [
+      292
+    ],
+    "structures.": [
+      293
+    ],
+    "Conclusions": [
+      294
+    ],
+    "have": [
+      299
+    ],
+    "precise": [
+      307
+    ],
+    "verifiable": [
+      309
+    ],
+    "nucleus": [
+      322
+    ],
+    "offers": [
+      325
+    ],
+    "multiscale": [
+      326
+    ],
+    "best-suited": [
+      329
+    ],
+    "task.": [
+      332
+    ],
+    "also": [
+      335
+    ],
+    "used": [
+      337
+    ],
+    "images": [
+      343
+    ],
+    "its": [
+      345
+    ],
+    "reused": [
+      349
+    ],
+    "systems": [
+      352
+    ],
+    "or": [
+      353
+    ],
+    "computational": [
+      354
+    ],
+    "experiments.": [
+      355
+    ],
+    "Contact": [
+      356
+    ],
+    "g.bokota@cent.uw.edu.pl": [
+      357
+    ],
+    ",": [
+      358,
+      360
+    ],
+    "a.magalska@nencki.edu.pl": [
+      359
+    ],
+    "d.plewczynski@cent.uw.edu.pl": [
+      361
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,2914 @@
+{
+  "id": "https://openalex.org/W4414124470",
+  "doi": "https://doi.org/10.1021/acs.jmedchem.5c01520",
+  "title": "Azapeptide-Based SARS-CoV-2 Main Protease Inhibitors: Design, Synthesis, Enzyme Inhibition, Structural Determination, and Antiviral Activity",
+  "display_name": "Azapeptide-Based SARS-CoV-2 Main Protease Inhibitors: Design, Synthesis, Enzyme Inhibition, Structural Determination, and Antiviral Activity",
+  "publication_year": 2025,
+  "publication_date": "2025-09-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4414124470",
+    "doi": "https://doi.org/10.1021/acs.jmedchem.5c01520",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40932417"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1021/acs.jmedchem.5c01520",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1021/acs.jmedchem.5c01520",
+    "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.5c01520?ref=article_openPDF",
+    "source": {
+      "id": "https://openalex.org/S162030435",
+      "display_name": "Journal of Medicinal Chemistry",
+      "issn_l": "0022-2623",
+      "issn": [
+        "0022-2623",
+        "1520-4804"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320006",
+      "host_organization_name": "American Chemical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320006"
+      ],
+      "host_organization_lineage_names": [
+        "American Chemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Medicinal Chemistry",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.5c01520?ref=article_openPDF",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5052661544",
+        "display_name": "Philipp Flury",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8087733",
+          "display_name": "University of Tübingen",
+          "ror": "https://ror.org/03a1kwz48",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Flury",
+      "raw_affiliation_strings": [
+        "Institute of Pharmaceutical Sciences, Department of Pharmaceutical and Medicinal Chemistry, Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+        "Tübingen Center for Academic Drug Discovery & Development (TüCAD2), Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Sciences, Department of Pharmaceutical and Medicinal Chemistry, Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Tübingen Center for Academic Drug Discovery & Development (TüCAD2), Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103057742",
+        "display_name": "Jyoti Vishwakarma",
+        "orcid": "https://orcid.org/0009-0002-8576-4300"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jyoti Vishwakarma",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044381591",
+        "display_name": "Katharina Sylvester",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katharina Sylvester",
+      "raw_affiliation_strings": [
+        "PharmaCenter Bonn, Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, An der Immenburg 4, Bonn 53121, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PharmaCenter Bonn, Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, An der Immenburg 4, Bonn 53121, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012018663",
+        "display_name": "Nobuyo Higashi‐Kuwata",
+        "orcid": "https://orcid.org/0000-0002-9404-3532"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210094012",
+          "display_name": "National Center for Global Health and Medicine",
+          "ror": "https://ror.org/00r9w3j27",
+          "country_code": "JP",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210094012"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nobuyo Higashi-Kuwata",
+      "raw_affiliation_strings": [
+        "Department of Refractory Viral Diseases, National Institute of Global Health and Medicine, Japan Institute for Health Security, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Refractory Viral Diseases, National Institute of Global Health and Medicine, Japan Institute for Health Security, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan",
+          "institution_ids": [
+            "https://openalex.org/I4210094012"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057489119",
+        "display_name": "Agnieszka Dąbrowska",
+        "orcid": "https://orcid.org/0000-0003-1499-4950"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka K. Dabrowska",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113151258",
+        "display_name": "Renee Delgado",
+        "orcid": "https://orcid.org/0000-0002-7148-4917"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Renee Delgado",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5106681456",
+        "display_name": "Ashley Cuell",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ashley Cuell",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072920666",
+        "display_name": "Rahul Basu",
+        "orcid": "https://orcid.org/0009-0005-7048-4017"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rahul Basu",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065620364",
+        "display_name": "Alexander B. Taylor",
+        "orcid": "https://orcid.org/0000-0003-3517-6033"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210121077",
+          "display_name": "Cancer Research Institute of the Slovak Academy of Sciences",
+          "ror": "https://ror.org/02v8wkr26",
+          "country_code": "SK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I207624831",
+            "https://openalex.org/I4210121077"
+          ]
+        }
+      ],
+      "countries": [
+        "SK",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexander B. Taylor",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "Greehey Children’s Cancer Research Institute",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3517-6033",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Greehey Children’s Cancer Research Institute",
+          "institution_ids": [
+            "https://openalex.org/I4210121077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060191506",
+        "display_name": "Ellen Gonçalves de Oliveira",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I110200422",
+          "display_name": "Universidade Federal de Minas Gerais",
+          "ror": "https://ror.org/0176yjw32",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I110200422"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210096427",
+          "display_name": "Institut des Sciences Biologiques",
+          "ror": "https://ror.org/00rydyx93",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210096427"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I6750721",
+          "display_name": "University of Montana",
+          "ror": "https://ror.org/0078xmk34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I6750721"
+          ]
+        }
+      ],
+      "countries": [
+        "BR",
+        "FR",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ellen Gonçalves de Oliveira",
+      "raw_affiliation_strings": [
+        "Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, 9500 Gilman Drive, San Diego, La Jolla, California 92093-0657, United States",
+        "Department of Microbiology, Institute of Biological Sciences",
+        "Federal University of Minas Gerais",
+        "Department of Microbiology, Institute of Biological Sciences, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, 9500 Gilman Drive, San Diego, La Jolla, California 92093-0657, United States",
+          "institution_ids": [
+            "https://openalex.org/I6750721"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Microbiology, Institute of Biological Sciences",
+          "institution_ids": [
+            "https://openalex.org/I4210096427"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Federal University of Minas Gerais",
+          "institution_ids": [
+            "https://openalex.org/I110200422"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Microbiology, Institute of Biological Sciences, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I110200422"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088851840",
+        "display_name": "Mateus Sá Magalhães Serafim",
+        "orcid": "https://orcid.org/0000-0002-7505-8659"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I110200422",
+          "display_name": "Universidade Federal de Minas Gerais",
+          "ror": "https://ror.org/0176yjw32",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I110200422"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210096427",
+          "display_name": "Institut des Sciences Biologiques",
+          "ror": "https://ror.org/00rydyx93",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210096427"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I6750721",
+          "display_name": "University of Montana",
+          "ror": "https://ror.org/0078xmk34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I6750721"
+          ]
+        }
+      ],
+      "countries": [
+        "BR",
+        "FR",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mateus Sá Magalhães Serafim",
+      "raw_affiliation_strings": [
+        "Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, 9500 Gilman Drive, San Diego, La Jolla, California 92093-0657, United States",
+        "Department of Microbiology, Institute of Biological Sciences",
+        "Federal University of Minas Gerais",
+        "Department of Microbiology, Institute of Biological Sciences, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, 9500 Gilman Drive, San Diego, La Jolla, California 92093-0657, United States",
+          "institution_ids": [
+            "https://openalex.org/I6750721"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Microbiology, Institute of Biological Sciences",
+          "institution_ids": [
+            "https://openalex.org/I4210096427"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Federal University of Minas Gerais",
+          "institution_ids": [
+            "https://openalex.org/I110200422"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Microbiology, Institute of Biological Sciences, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I110200422"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103223832",
+        "display_name": "Jingxin Qiao",
+        "orcid": "https://orcid.org/0000-0002-8617-5148"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jingxin Qiao",
+      "raw_affiliation_strings": [
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital",
+        "Sichuan University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sichuan University",
+          "institution_ids": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100757986",
+        "display_name": "Chen Yan",
+        "orcid": "https://orcid.org/0000-0003-4242-1308"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yan Chen",
+      "raw_affiliation_strings": [
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital",
+        "Sichuan University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sichuan University",
+          "institution_ids": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069425796",
+        "display_name": "Shengyong Yang",
+        "orcid": "https://orcid.org/0000-0001-5147-3746"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24185976",
+          "display_name": "Sichuan University",
+          "ror": "https://ror.org/011ashp19",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I24185976"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4391768003",
+          "display_name": "State Key Laboratory of Biotherapy",
+          "ror": "https://ror.org/00x43yy22",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shengyong Yang",
+      "raw_affiliation_strings": [
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital",
+        "Sichuan University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5147-3746",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital",
+          "institution_ids": [
+            "https://openalex.org/I24185976",
+            "https://openalex.org/I4391768003"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sichuan University",
+          "institution_ids": [
+            "https://openalex.org/I24185976"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046154621",
+        "display_name": "Anthony J. O’Donoghue",
+        "orcid": "https://orcid.org/0000-0001-5695-0409"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6750721",
+          "display_name": "University of Montana",
+          "ror": "https://ror.org/0078xmk34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I6750721"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anthony J. O’Donoghue",
+      "raw_affiliation_strings": [
+        "Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, 9500 Gilman Drive, San Diego, La Jolla, California 92093-0657, United States"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Discovery and Innovation in Parasitic Diseases, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, 9500 Gilman Drive, San Diego, La Jolla, California 92093-0657, United States",
+          "institution_ids": [
+            "https://openalex.org/I6750721"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034448543",
+        "display_name": "Hiroaki Mitsuya",
+        "orcid": "https://orcid.org/0000-0001-9274-3853"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210094012",
+          "display_name": "National Center for Global Health and Medicine",
+          "ror": "https://ror.org/00r9w3j27",
+          "country_code": "JP",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210094012"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hiroaki Mitsuya",
+      "raw_affiliation_strings": [
+        "Department of Refractory Viral Diseases, National Institute of Global Health and Medicine, Japan Institute for Health Security, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Refractory Viral Diseases, National Institute of Global Health and Medicine, Japan Institute for Health Security, 1-21-1 Toyama, Shinjuku-ku, Tokyo 162-8655, Japan",
+          "institution_ids": [
+            "https://openalex.org/I4210094012"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036207297",
+        "display_name": "Michael Gütschow",
+        "orcid": "https://orcid.org/0000-0002-9376-7897"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Gütschow",
+      "raw_affiliation_strings": [
+        "PharmaCenter Bonn, Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, An der Immenburg 4, Bonn 53121, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9376-7897",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PharmaCenter Bonn, Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, An der Immenburg 4, Bonn 53121, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031324853",
+        "display_name": "Stefan Laufer",
+        "orcid": "https://orcid.org/0000-0001-6952-1486"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8087733",
+          "display_name": "University of Tübingen",
+          "ror": "https://ror.org/03a1kwz48",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefan A. Laufer",
+      "raw_affiliation_strings": [
+        "Institute of Pharmaceutical Sciences, Department of Pharmaceutical and Medicinal Chemistry, Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+        "Tübingen Center for Academic Drug Discovery & Development (TüCAD2), Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6952-1486",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Sciences, Department of Pharmaceutical and Medicinal Chemistry, Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Tübingen Center for Academic Drug Discovery & Development (TüCAD2), Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100635825",
+        "display_name": "Christa E. Müller",
+        "orcid": "https://orcid.org/0000-0002-0013-6624"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christa E. Müller",
+      "raw_affiliation_strings": [
+        "PharmaCenter Bonn, Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, An der Immenburg 4, Bonn 53121, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0013-6624",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PharmaCenter Bonn, Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, An der Immenburg 4, Bonn 53121, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035901749",
+        "display_name": "Reuben S. Harris",
+        "orcid": "https://orcid.org/0000-0002-9034-9112"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165951966",
+          "display_name": "The University of Texas at San Antonio Health Science Center",
+          "ror": "https://ror.org/02f6dcw23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165951966",
+            "https://openalex.org/I45438204"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Reuben S. Harris",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Structural Biology",
+        "Howard Hughes Medical Institute",
+        "University of Texas Health San Antonio",
+        "University of Texas Health Science Center at San Antonio"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Structural Biology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Texas Health Science Center at San Antonio",
+          "institution_ids": [
+            "https://openalex.org/I165951966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5017890506",
+        "display_name": "Thanigaimalai Pillaiyar",
+        "orcid": "https://orcid.org/0000-0001-5575-8896"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8087733",
+          "display_name": "University of Tübingen",
+          "ror": "https://ror.org/03a1kwz48",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Thanigaimalai Pillaiyar",
+      "raw_affiliation_strings": [
+        "Institute of Pharmaceutical Sciences, Department of Pharmaceutical and Medicinal Chemistry, Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+        "Tübingen Center for Academic Drug Discovery & Development (TüCAD2), Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5575-8896",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Sciences, Department of Pharmaceutical and Medicinal Chemistry, Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Tübingen Center for Academic Drug Discovery & Development (TüCAD2), Eberhard Karls University Tübingen, Auf der Morgenstelle 8, Tübingen 72076, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 7,
+  "institutions_distinct_count": 21,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5017890506"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I8087733"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 4.0014,
+  "has_fulltext": true,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.94221979,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "68",
+    "issue": "18",
+    "first_page": "19339",
+    "last_page": "19376"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10118",
+    "display_name": "SARS-CoV-2 and COVID-19 Research",
+    "score": 0.9975000023841858,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2725",
+      "display_name": "Infectious Diseases"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10118",
+      "display_name": "SARS-CoV-2 and COVID-19 Research",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10211",
+      "display_name": "Computational Drug Discovery Methods",
+      "score": 0.9894999861717224,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11668",
+      "display_name": "interferon and immune responses",
+      "score": 0.9821000099182129,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/enzyme",
+      "display_name": "Enzyme",
+      "score": 0.6468999981880188
+    },
+    {
+      "id": "https://openalex.org/keywords/protease",
+      "display_name": "Protease",
+      "score": 0.6122999787330627
+    },
+    {
+      "id": "https://openalex.org/keywords/cocrystal",
+      "display_name": "Cocrystal",
+      "score": 0.5449000000953674
+    },
+    {
+      "id": "https://openalex.org/keywords/structure–activity-relationship",
+      "display_name": "Structure–activity relationship",
+      "score": 0.5016999840736389
+    },
+    {
+      "id": "https://openalex.org/keywords/covalent-bond",
+      "display_name": "Covalent bond",
+      "score": 0.49630001187324524
+    },
+    {
+      "id": "https://openalex.org/keywords/cathepsin",
+      "display_name": "Cathepsin",
+      "score": 0.4844000041484833
+    },
+    {
+      "id": "https://openalex.org/keywords/enzyme-inhibitor",
+      "display_name": "Enzyme inhibitor",
+      "score": 0.4790000021457672
+    },
+    {
+      "id": "https://openalex.org/keywords/biological-activity",
+      "display_name": "Biological activity",
+      "score": 0.4250999987125397
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.8474000096321106
+    },
+    {
+      "id": "https://openalex.org/C181199279",
+      "wikidata": "https://www.wikidata.org/wiki/Q8047",
+      "display_name": "Enzyme",
+      "level": 2,
+      "score": 0.6468999981880188
+    },
+    {
+      "id": "https://openalex.org/C2776714187",
+      "wikidata": "https://www.wikidata.org/wiki/Q212410",
+      "display_name": "Protease",
+      "level": 3,
+      "score": 0.6122999787330627
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.5928999781608582
+    },
+    {
+      "id": "https://openalex.org/C100687433",
+      "wikidata": "https://www.wikidata.org/wiki/Q5139913",
+      "display_name": "Cocrystal",
+      "level": 4,
+      "score": 0.5449000000953674
+    },
+    {
+      "id": "https://openalex.org/C193042331",
+      "wikidata": "https://www.wikidata.org/wiki/Q1772003",
+      "display_name": "Structure–activity relationship",
+      "level": 3,
+      "score": 0.5016999840736389
+    },
+    {
+      "id": "https://openalex.org/C180577832",
+      "wikidata": "https://www.wikidata.org/wiki/Q127920",
+      "display_name": "Covalent bond",
+      "level": 2,
+      "score": 0.49630001187324524
+    },
+    {
+      "id": "https://openalex.org/C167844969",
+      "wikidata": "https://www.wikidata.org/wiki/Q426245",
+      "display_name": "Cathepsin",
+      "level": 3,
+      "score": 0.4844000041484833
+    },
+    {
+      "id": "https://openalex.org/C2776980637",
+      "wikidata": "https://www.wikidata.org/wiki/Q427492",
+      "display_name": "Enzyme inhibitor",
+      "level": 3,
+      "score": 0.4790000021457672
+    },
+    {
+      "id": "https://openalex.org/C116073593",
+      "wikidata": "https://www.wikidata.org/wiki/Q864491",
+      "display_name": "Biological activity",
+      "level": 3,
+      "score": 0.4250999987125397
+    },
+    {
+      "id": "https://openalex.org/C108204754",
+      "wikidata": "https://www.wikidata.org/wiki/Q353392",
+      "display_name": "Adduct",
+      "level": 2,
+      "score": 0.3864000141620636
+    },
+    {
+      "id": "https://openalex.org/C2781307694",
+      "wikidata": "https://www.wikidata.org/wiki/Q33123",
+      "display_name": "Proteolysis",
+      "level": 3,
+      "score": 0.3021000027656555
+    },
+    {
+      "id": "https://openalex.org/C21951064",
+      "wikidata": "https://www.wikidata.org/wiki/Q899212",
+      "display_name": "Combinatorial chemistry",
+      "level": 1,
+      "score": 0.2964000105857849
+    },
+    {
+      "id": "https://openalex.org/C41183919",
+      "wikidata": "https://www.wikidata.org/wiki/Q423026",
+      "display_name": "Active site",
+      "level": 3,
+      "score": 0.29409998655319214
+    },
+    {
+      "id": "https://openalex.org/C114373084",
+      "wikidata": "https://www.wikidata.org/wiki/Q273499",
+      "display_name": "Chemical synthesis",
+      "level": 3,
+      "score": 0.2937000095844269
+    },
+    {
+      "id": "https://openalex.org/C151701858",
+      "wikidata": "https://www.wikidata.org/wiki/Q14902024",
+      "display_name": "Cathepsin S",
+      "level": 4,
+      "score": 0.29249998927116394
+    },
+    {
+      "id": "https://openalex.org/C182220744",
+      "wikidata": "https://www.wikidata.org/wiki/Q7251226",
+      "display_name": "Proteases",
+      "level": 3,
+      "score": 0.2736000120639801
+    },
+    {
+      "id": "https://openalex.org/C28212737",
+      "wikidata": "https://www.wikidata.org/wiki/Q5381543",
+      "display_name": "Enzyme assay",
+      "level": 3,
+      "score": 0.26809999346733093
+    },
+    {
+      "id": "https://openalex.org/C74187038",
+      "wikidata": "https://www.wikidata.org/wiki/Q1418791",
+      "display_name": "Drug discovery",
+      "level": 2,
+      "score": 0.2621000111103058
+    },
+    {
+      "id": "https://openalex.org/C2522874641",
+      "wikidata": "https://www.wikidata.org/wiki/Q808",
+      "display_name": "Virus",
+      "level": 2,
+      "score": 0.257999986410141
+    },
+    {
+      "id": "https://openalex.org/C125209161",
+      "wikidata": "https://www.wikidata.org/wiki/Q422816",
+      "display_name": "Enzyme activator",
+      "level": 3,
+      "score": 0.25540000200271606
+    },
+    {
+      "id": "https://openalex.org/C2780034444",
+      "wikidata": "https://www.wikidata.org/wiki/Q5052485",
+      "display_name": "Cathepsin L",
+      "level": 4,
+      "score": 0.2542000114917755
+    },
+    {
+      "id": "https://openalex.org/C2779756493",
+      "wikidata": "https://www.wikidata.org/wiki/Q846227",
+      "display_name": "Antiviral drug",
+      "level": 3,
+      "score": 0.2506999969482422
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000037",
+      "qualifier_name": "antagonists & inhibitors",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000037",
+      "qualifier_name": "antagonists & inhibitors",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000037",
+      "qualifier_name": "antagonists & inhibitors",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000037",
+      "qualifier_name": "antagonists & inhibitors",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000037",
+      "qualifier_name": "antagonists & inhibitors",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000037",
+      "qualifier_name": "antagonists & inhibitors",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086782",
+      "descriptor_name": "Coronavirus 3C Proteases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000093485",
+      "descriptor_name": "COVID-19 Drug Treatment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000093485",
+      "descriptor_name": "COVID-19 Drug Treatment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000093485",
+      "descriptor_name": "COVID-19 Drug Treatment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000093485",
+      "descriptor_name": "COVID-19 Drug Treatment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000093485",
+      "descriptor_name": "COVID-19 Drug Treatment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000093485",
+      "descriptor_name": "COVID-19 Drug Treatment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000998",
+      "descriptor_name": "Antiviral Agents",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001372",
+      "descriptor_name": "Aza Compounds",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000138",
+      "qualifier_name": "chemical synthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011480",
+      "descriptor_name": "Protease Inhibitors",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013329",
+      "descriptor_name": "Structure-Activity Relationship",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013329",
+      "descriptor_name": "Structure-Activity Relationship",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013329",
+      "descriptor_name": "Structure-Activity Relationship",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013329",
+      "descriptor_name": "Structure-Activity Relationship",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013329",
+      "descriptor_name": "Structure-Activity Relationship",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013329",
+      "descriptor_name": "Structure-Activity Relationship",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015195",
+      "descriptor_name": "Drug Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015195",
+      "descriptor_name": "Drug Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015195",
+      "descriptor_name": "Drug Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015195",
+      "descriptor_name": "Drug Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015195",
+      "descriptor_name": "Drug Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015195",
+      "descriptor_name": "Drug Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062105",
+      "descriptor_name": "Molecular Docking Simulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062105",
+      "descriptor_name": "Molecular Docking Simulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062105",
+      "descriptor_name": "Molecular Docking Simulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062105",
+      "descriptor_name": "Molecular Docking Simulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062105",
+      "descriptor_name": "Molecular Docking Simulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D062105",
+      "descriptor_name": "Molecular Docking Simulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1021/acs.jmedchem.5c01520",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1021/acs.jmedchem.5c01520",
+      "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.5c01520?ref=article_openPDF",
+      "source": {
+        "id": "https://openalex.org/S162030435",
+        "display_name": "Journal of Medicinal Chemistry",
+        "issn_l": "0022-2623",
+        "issn": [
+          "0022-2623",
+          "1520-4804"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Medicinal Chemistry",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40932417",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40932417",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of medicinal chemistry",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11292297",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12481482",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12481482",
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12481482/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Med Chem",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1021/acs.jmedchem.5c01520",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1021/acs.jmedchem.5c01520",
+    "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.5c01520?ref=article_openPDF",
+    "source": {
+      "id": "https://openalex.org/S162030435",
+      "display_name": "Journal of Medicinal Chemistry",
+      "issn_l": "0022-2623",
+      "issn": [
+        "0022-2623",
+        "1520-4804"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320006",
+      "host_organization_name": "American Chemical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320006"
+      ],
+      "host_organization_lineage_names": [
+        "American Chemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Medicinal Chemistry",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2993882519",
+      "display_name": null,
+      "funder_award_id": "200069/2024-1",
+      "funder_id": "https://openalex.org/F4320322025",
+      "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+    },
+    {
+      "id": "https://openalex.org/G4452146203",
+      "display_name": null,
+      "funder_award_id": "88887.911426/2023-00",
+      "funder_id": "https://openalex.org/F4320321091",
+      "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+    },
+    {
+      "id": "https://openalex.org/G5008237378",
+      "display_name": null,
+      "funder_award_id": "610041",
+      "funder_id": "https://openalex.org/F4320322990",
+      "funder_display_name": "Sichuan University"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306082",
+      "display_name": "Howard Hughes Medical Institute",
+      "ror": "https://ror.org/006w34k90"
+    },
+    {
+      "id": "https://openalex.org/F4320320882",
+      "display_name": "Volkswagen Foundation",
+      "ror": "https://ror.org/03bsmfz84"
+    },
+    {
+      "id": "https://openalex.org/F4320321091",
+      "display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "ror": "https://ror.org/00x0ma614"
+    },
+    {
+      "id": "https://openalex.org/F4320322025",
+      "display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "ror": "https://ror.org/03swz6y49"
+    },
+    {
+      "id": "https://openalex.org/F4320322990",
+      "display_name": "Sichuan University",
+      "ror": "https://ror.org/011ashp19"
+    },
+    {
+      "id": "https://openalex.org/F4320324900",
+      "display_name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+      "ror": "https://ror.org/041nas322"
+    },
+    {
+      "id": "https://openalex.org/F4320332603",
+      "display_name": "University of California, San Diego",
+      "ror": "https://ror.org/0168r3w48"
+    },
+    {
+      "id": "https://openalex.org/F4320332686",
+      "display_name": "University of Texas Health Science Center at San Antonio",
+      "ror": "https://ror.org/02f6dcw23"
+    },
+    {
+      "id": "https://openalex.org/F4320336042",
+      "display_name": "West China Hospital, Sichuan University",
+      "ror": "https://ror.org/007mrxy13"
+    },
+    {
+      "id": "https://openalex.org/F4320337610",
+      "display_name": "Skaggs School of Pharmacy and Pharmaceutical Sciences",
+      "ror": "https://ror.org/0168r3w48"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4414124470.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4414124470.grobid-xml"
+  },
+  "referenced_works_count": 81,
+  "referenced_works": [
+    "https://openalex.org/W760190795",
+    "https://openalex.org/W1863562706",
+    "https://openalex.org/W1979091677",
+    "https://openalex.org/W2026723999",
+    "https://openalex.org/W2027484375",
+    "https://openalex.org/W2029078941",
+    "https://openalex.org/W2031422993",
+    "https://openalex.org/W2058755751",
+    "https://openalex.org/W2074510629",
+    "https://openalex.org/W2095361639",
+    "https://openalex.org/W2127137755",
+    "https://openalex.org/W2135097474",
+    "https://openalex.org/W2143660875",
+    "https://openalex.org/W2144081223",
+    "https://openalex.org/W2146886475",
+    "https://openalex.org/W2149561634",
+    "https://openalex.org/W2152814571",
+    "https://openalex.org/W2163341755",
+    "https://openalex.org/W2167678937",
+    "https://openalex.org/W2180229411",
+    "https://openalex.org/W2284201926",
+    "https://openalex.org/W2585093856",
+    "https://openalex.org/W2623628426",
+    "https://openalex.org/W2932234207",
+    "https://openalex.org/W3003448227",
+    "https://openalex.org/W3004280078",
+    "https://openalex.org/W3007386177",
+    "https://openalex.org/W3013630838",
+    "https://openalex.org/W3015608194",
+    "https://openalex.org/W3020300207",
+    "https://openalex.org/W3021411957",
+    "https://openalex.org/W3023464695",
+    "https://openalex.org/W3047359420",
+    "https://openalex.org/W3081918364",
+    "https://openalex.org/W3087192622",
+    "https://openalex.org/W3092136311",
+    "https://openalex.org/W3112209032",
+    "https://openalex.org/W3131767541",
+    "https://openalex.org/W3135105068",
+    "https://openalex.org/W3150731319",
+    "https://openalex.org/W3162194831",
+    "https://openalex.org/W3186359705",
+    "https://openalex.org/W3188746092",
+    "https://openalex.org/W3189646261",
+    "https://openalex.org/W3215590980",
+    "https://openalex.org/W4205183254",
+    "https://openalex.org/W4210586598",
+    "https://openalex.org/W4214678806",
+    "https://openalex.org/W4223936486",
+    "https://openalex.org/W4224863638",
+    "https://openalex.org/W4225286967",
+    "https://openalex.org/W4247555443",
+    "https://openalex.org/W4282983750",
+    "https://openalex.org/W4283012611",
+    "https://openalex.org/W4306152454",
+    "https://openalex.org/W4308683905",
+    "https://openalex.org/W4313546219",
+    "https://openalex.org/W4313646830",
+    "https://openalex.org/W4315436946",
+    "https://openalex.org/W4321096373",
+    "https://openalex.org/W4327682566",
+    "https://openalex.org/W4361305322",
+    "https://openalex.org/W4362603494",
+    "https://openalex.org/W4363648471",
+    "https://openalex.org/W4376642484",
+    "https://openalex.org/W4378903932",
+    "https://openalex.org/W4382894102",
+    "https://openalex.org/W4383198933",
+    "https://openalex.org/W4385215555",
+    "https://openalex.org/W4385997556",
+    "https://openalex.org/W4386600153",
+    "https://openalex.org/W4388626591",
+    "https://openalex.org/W4389333752",
+    "https://openalex.org/W4391014330",
+    "https://openalex.org/W4392499020",
+    "https://openalex.org/W4393258750",
+    "https://openalex.org/W4396948905",
+    "https://openalex.org/W4401597535",
+    "https://openalex.org/W4403973859",
+    "https://openalex.org/W4406151777",
+    "https://openalex.org/W4406418811"
+  ],
+  "related_works": [
+    "https://openalex.org/W3127156785",
+    "https://openalex.org/W3009669391",
+    "https://openalex.org/W4200329650",
+    "https://openalex.org/W4205215807",
+    "https://openalex.org/W3005417802",
+    "https://openalex.org/W4205754011",
+    "https://openalex.org/W4226296940",
+    "https://openalex.org/W3028835529",
+    "https://openalex.org/W3036314732",
+    "https://openalex.org/W3134376730"
+  ],
+  "abstract_inverted_index": {
+    "High": [
+      0
+    ],
+    "Resolution": [
+      1
+    ],
+    "Image": [
+      2
+    ],
+    "Download": [
+      3
+    ],
+    "MS": [
+      4
+    ],
+    "PowerPoint": [
+      5
+    ],
+    "Slide": [
+      6
+    ],
+    "M": [
+      7,
+      52,
+      99,
+      134
+    ],
+    "pro": [
+      8,
+      53,
+      100,
+      135
+    ],
+    "of": [
+      9,
+      20,
+      49,
+      162
+    ],
+    "SARS-CoV-2": [
+      10,
+      51,
+      128
+    ],
+    "plays": [
+      11
+    ],
+    "a": [
+      12,
+      141
+    ],
+    "vital": [
+      13
+    ],
+    "role": [
+      14
+    ],
+    "in": [
+      15
+    ],
+    "the": [
+      16,
+      27,
+      43,
+      103,
+      126,
+      145,
+      160
+    ],
+    "replication": [
+      17
+    ],
+    "and": [
+      18,
+      46,
+      86,
+      97,
+      113,
+      123
+    ],
+    "pathogenesis": [
+      19
+    ],
+    "virus.": [
+      21
+    ],
+    "Additionally,": [
+      22
+    ],
+    "its": [
+      23
+    ],
+    "high": [
+      24
+    ],
+    "conservation": [
+      25
+    ],
+    "within": [
+      26
+    ],
+    "Coronaviridae": [
+      28
+    ],
+    "family": [
+      29
+    ],
+    "makes": [
+      30
+    ],
+    "it": [
+      31
+    ],
+    "an": [
+      32
+    ],
+    "attractive": [
+      33
+    ],
+    "therapeutic": [
+      34
+    ],
+    "target": [
+      35
+    ],
+    "for": [
+      36
+    ],
+    "developing": [
+      37
+    ],
+    "broad-spectrum": [
+      38
+    ],
+    "agents.": [
+      39
+    ],
+    "This": [
+      40
+    ],
+    "study": [
+      41
+    ],
+    "describes": [
+      42
+    ],
+    "design,": [
+      44
+    ],
+    "synthesis,": [
+      45
+    ],
+    "structure−activity": [
+      47
+    ],
+    "relationships": [
+      48
+    ],
+    "azapeptide-based": [
+      50
+    ],
+    "inhibitors,": [
+      54,
+      109
+    ],
+    "leading": [
+      55
+    ],
+    "to": [
+      56,
+      121,
+      159
+    ],
+    "several": [
+      57
+    ],
+    "compounds": [
+      58,
+      94
+    ],
+    "with": [
+      59,
+      118,
+      138,
+      144
+    ],
+    "nanomolar": [
+      60
+    ],
+    "IC": [
+      61,
+      81
+    ],
+    "50": [
+      62,
+      68,
+      74,
+      82,
+      89
+    ],
+    "values.": [
+      63
+    ],
+    "Examples": [
+      64
+    ],
+    "include": [
+      65
+    ],
+    "14r": [
+      66
+    ],
+    "(IC": [
+      67,
+      73,
+      88
+    ],
+    "=": [
+      69,
+      75,
+      83,
+      90
+    ],
+    "13.3": [
+      70
+    ],
+    "nM),": [
+      71,
+      77,
+      85
+    ],
+    "14s": [
+      72
+    ],
+    "30.6": [
+      76
+    ],
+    "20a": [
+      78,
+      112,
+      139
+    ],
+    "(": [
+      79
+    ],
+    "TPG-20a,": [
+      80
+    ],
+    "28.0": [
+      84
+    ],
+    "20g": [
+      87
+    ],
+    "30.4": [
+      91
+    ],
+    "nM).": [
+      92
+    ],
+    "Some": [
+      93
+    ],
+    "inhibit": [
+      95
+    ],
+    "MERS-CoV": [
+      96
+    ],
+    "SARS-CoV-1": [
+      98
+    ],
+    "but": [
+      101
+    ],
+    "not": [
+      102
+    ],
+    "human": [
+      104
+    ],
+    "protease": [
+      105
+    ],
+    "cathepsin": [
+      106
+    ],
+    "L.": [
+      107
+    ],
+    "Several": [
+      108
+    ],
+    "such": [
+      110
+    ],
+    "as": [
+      111
+    ],
+    "20f,": [
+      114
+    ],
+    "exhibit": [
+      115
+    ],
+    "antiviral": [
+      116
+    ],
+    "activity": [
+      117,
+      124
+    ],
+    "potencies": [
+      119
+    ],
+    "comparable": [
+      120
+    ],
+    "nirmatrelvir": [
+      122
+    ],
+    "against": [
+      125
+    ],
+    "E166V-carrying": [
+      127
+    ],
+    "variant": [
+      129
+    ],
+    "(SARS-CoV-2": [
+      130
+    ],
+    "E166V": [
+      131
+    ],
+    ").": [
+      132
+    ],
+    "An": [
+      133
+    ],
+    "cocrystal": [
+      136
+    ],
+    "structure": [
+      137
+    ],
+    "shows": [
+      140
+    ],
+    "covalent": [
+      142
+    ],
+    "adduct": [
+      143
+    ],
+    "catalytic": [
+      146
+    ],
+    "Cys145.": [
+      147
+    ],
+    "Overall,": [
+      148
+    ],
+    "these": [
+      149
+    ],
+    "new": [
+      150
+    ],
+    "inhibitors": [
+      151
+    ],
+    "are": [
+      152
+    ],
+    "promising": [
+      153
+    ],
+    "chemical": [
+      154
+    ],
+    "tools": [
+      155
+    ],
+    "that": [
+      156
+    ],
+    "may": [
+      157
+    ],
+    "contribute": [
+      158
+    ],
+    "identification": [
+      161
+    ],
+    "future": [
+      163
+    ],
+    "pan-anticoronaviral": [
+      164
+    ],
+    "drugs.": [
+      165
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1939 @@
+{
+  "id": "https://openalex.org/W4295359814",
+  "doi": "https://doi.org/10.1021/acschembio.2c00266",
+  "title": "Identification of Histone Peptide Binding Specificity and Small-Molecule Ligands for the TRIM33α and TRIM33β Bromodomains",
+  "display_name": "Identification of Histone Peptide Binding Specificity and Small-Molecule Ligands for the TRIM33α and TRIM33β Bromodomains",
+  "publication_year": 2022,
+  "publication_date": "2022-09-13",
+  "ids": {
+    "openalex": "https://openalex.org/W4295359814",
+    "doi": "https://doi.org/10.1021/acschembio.2c00266",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36098557"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1021/acschembio.2c00266",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1021/acschembio.2c00266",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S118914585",
+      "display_name": "ACS Chemical Biology",
+      "issn_l": "1554-8929",
+      "issn": [
+        "1554-8929",
+        "1554-8937"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320006",
+      "host_organization_name": "American Chemical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320006"
+      ],
+      "host_organization_lineage_names": [
+        "American Chemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "ACS Chemical Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1021/acschembio.2c00266",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5017327167",
+        "display_name": "Angelina R. Sekirnik",
+        "orcid": "https://orcid.org/0000-0002-0936-4615"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Angelina R. Sekirnik",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078536272",
+        "display_name": "Jessica K. Reynolds",
+        "orcid": "https://orcid.org/0000-0001-9507-590X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jessica K. Reynolds",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013853514",
+        "display_name": "Larissa See",
+        "orcid": "https://orcid.org/0000-0002-7192-9007"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Larissa See",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058605875",
+        "display_name": "Joseph P. Bluck",
+        "orcid": "https://orcid.org/0000-0001-9170-5919"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joseph P. Bluck",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, U.K",
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, U.K",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050532378",
+        "display_name": "Amy R. Scorah",
+        "orcid": "https://orcid.org/0000-0001-7327-4502"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amy R. Scorah",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079325913",
+        "display_name": "C. Tallant",
+        "orcid": "https://orcid.org/0000-0001-5645-435X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cynthia Tallant",
+      "raw_affiliation_strings": [
+        "Nuffield Department of Clinical Medicine, Structural Genomics Consortium, University of Oxford, Old Road Campus Research Building, Roosevelt Drive, Oxford OX3 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nuffield Department of Clinical Medicine, Structural Genomics Consortium, University of Oxford, Old Road Campus Research Building, Roosevelt Drive, Oxford OX3 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014854290",
+        "display_name": "Bernadette Lee",
+        "orcid": "https://orcid.org/0000-0001-8548-6756"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bernadette Lee",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044365051",
+        "display_name": "Katarzyna B. Leszczyńska",
+        "orcid": "https://orcid.org/0000-0002-3504-1553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna B. Leszczynska",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, University of Oxford, Old Road Campus Research Building, Oxford OX3 7DQ, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, University of Oxford, Old Road Campus Research Building, Oxford OX3 7DQ, U.K",
+          "institution_ids": [
+            "https://openalex.org/I4210106471"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033840732",
+        "display_name": "Rachel L. Grimley",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180857899",
+          "display_name": "Pfizer (United States)",
+          "ror": "https://ror.org/01xdqrp08",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I180857899"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rachel L. Grimley",
+      "raw_affiliation_strings": [
+        "Worldwide Medicinal Chemistry, Discovery Biology, Pfizer Ltd, The Portway, Granta Park, Cambridge CB21 6GS, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Worldwide Medicinal Chemistry, Discovery Biology, Pfizer Ltd, The Portway, Granta Park, Cambridge CB21 6GS, U.K",
+          "institution_ids": [
+            "https://openalex.org/I180857899"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050785711",
+        "display_name": "Richard Storer",
+        "orcid": "https://orcid.org/0000-0002-9186-786X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180857899",
+          "display_name": "Pfizer (United States)",
+          "ror": "https://ror.org/01xdqrp08",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I180857899"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R. Ian Storer",
+      "raw_affiliation_strings": [
+        "Worldwide Medicinal Chemistry, Discovery Biology, Pfizer Ltd, The Portway, Granta Park, Cambridge CB21 6GS, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Worldwide Medicinal Chemistry, Discovery Biology, Pfizer Ltd, The Portway, Granta Park, Cambridge CB21 6GS, U.K",
+          "institution_ids": [
+            "https://openalex.org/I180857899"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049969633",
+        "display_name": "Marta Malattia",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210148098",
+          "display_name": "Evotec (United Kingdom)",
+          "ror": "https://ror.org/04qvy9k41",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210130816",
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Malattia",
+      "raw_affiliation_strings": [
+        "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K",
+          "institution_ids": [
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085548136",
+        "display_name": "Sara Crespillo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210148098",
+          "display_name": "Evotec (United Kingdom)",
+          "ror": "https://ror.org/04qvy9k41",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210130816",
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sara Crespillo",
+      "raw_affiliation_strings": [
+        "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K",
+          "institution_ids": [
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015605647",
+        "display_name": "Sofia Caria",
+        "orcid": "https://orcid.org/0000-0001-7289-2093"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210148098",
+          "display_name": "Evotec (United Kingdom)",
+          "ror": "https://ror.org/04qvy9k41",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210130816",
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sofia Caria",
+      "raw_affiliation_strings": [
+        "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K",
+          "institution_ids": [
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008302110",
+        "display_name": "Stéphanie Duclos",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210148098",
+          "display_name": "Evotec (United Kingdom)",
+          "ror": "https://ror.org/04qvy9k41",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210130816",
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stephanie Duclos",
+      "raw_affiliation_strings": [
+        "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evotec (UK) Ltd, 90 Park Drive, Milton Park, Abingdon, Oxfordshire OX14 4RZ, U.K",
+          "institution_ids": [
+            "https://openalex.org/I4210148098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018081801",
+        "display_name": "Ester M. Hammond",
+        "orcid": "https://orcid.org/0000-0002-2335-3146"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ester M. Hammond",
+      "raw_affiliation_strings": [
+        "Oxford Institute for Radiation Oncology, Department of Oncology, University of Oxford, Old Road Campus Research Building, Oxford OX3 7DQ, U.K"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2335-3146",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oxford Institute for Radiation Oncology, Department of Oncology, University of Oxford, Old Road Campus Research Building, Oxford OX3 7DQ, U.K",
+          "institution_ids": [
+            "https://openalex.org/I4210106471"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013336817",
+        "display_name": "Stefan Knapp",
+        "orcid": "https://orcid.org/0000-0001-5995-6494"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114090438",
+          "display_name": "Goethe University Frankfurt",
+          "ror": "https://ror.org/04cvxnb49",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114090438"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefan Knapp",
+      "raw_affiliation_strings": [
+        "Institute of Pharmaceutical Chemistry, Goethe University, Max-von-Laue-Strasse 9, D-60438 Frankfurt am Main, Germany",
+        "Structural Genomics Consortium, Buchmann Institute for Life Sciences (BMLS), Goethe University, Max-von-Laue-Strasse 15, D-60438 Frankfurt am Main, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5995-6494",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Pharmaceutical Chemistry, Goethe University, Max-von-Laue-Strasse 9, D-60438 Frankfurt am Main, Germany",
+          "institution_ids": [
+            "https://openalex.org/I114090438"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Structural Genomics Consortium, Buchmann Institute for Life Sciences (BMLS), Goethe University, Max-von-Laue-Strasse 15, D-60438 Frankfurt am Main, Germany",
+          "institution_ids": [
+            "https://openalex.org/I114090438"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011245839",
+        "display_name": "Garrett M. Morris",
+        "orcid": "https://orcid.org/0000-0003-1731-8405"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Garrett M. Morris",
+      "raw_affiliation_strings": [
+        "Department of Statistics, University of Oxford, 24-29 St Giles’, Oxford OX1 3LB, U.K",
+        "Department of Statistics, University of Oxford, 24-29 St Giles', Oxford OX1 3LB, U.K"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Statistics, University of Oxford, 24-29 St Giles’, Oxford OX1 3LB, U.K",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Statistics, University of Oxford, 24-29 St Giles', Oxford OX1 3LB, U.K",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080148464",
+        "display_name": "Fernanda Duarte",
+        "orcid": "https://orcid.org/0000-0002-6062-8209"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fernanda Duarte",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6062-8209",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034236085",
+        "display_name": "Philip C. Biggin",
+        "orcid": "https://orcid.org/0000-0001-5100-8836"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philip C. Biggin",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, U.K"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5100-8836",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, U.K",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5005006946",
+        "display_name": "Stuart J. Conway",
+        "orcid": "https://orcid.org/0000-0002-5148-117X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131579929",
+          "display_name": "Mansfield University",
+          "ror": "https://ror.org/01emtgd92",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131579929"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802123492",
+          "display_name": "Oxford Research Group",
+          "ror": "https://ror.org/00z4w4f29",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802123492"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Stuart J. Conway",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5148-117X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Chemistry Research Laboratory, University of Oxford, Mansfield Road, Oxford OX1 3TA, U.K",
+          "institution_ids": [
+            "https://openalex.org/I131579929",
+            "https://openalex.org/I2802123492",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 20,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005006946"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I131579929",
+    "https://openalex.org/I2802123492",
+    "https://openalex.org/I40120149"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.6466,
+  "has_fulltext": false,
+  "cited_by_count": 21,
+  "citation_normalized_percentile": {
+    "value": 0.83967584,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "17",
+    "issue": "10",
+    "first_page": "2753",
+    "last_page": "2768"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12534",
+    "display_name": "Protein Degradation and Inhibitors",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12534",
+      "display_name": "Protein Degradation and Inhibitors",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11041",
+      "display_name": "Ubiquitin and proteasome pathways",
+      "score": 0.995199978351593,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11668",
+      "display_name": "interferon and immune responses",
+      "score": 0.9926000237464905,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/bromodomain",
+      "display_name": "Bromodomain",
+      "score": 0.7631662487983704
+    },
+    {
+      "id": "https://openalex.org/keywords/histone",
+      "display_name": "Histone",
+      "score": 0.6475642323493958
+    },
+    {
+      "id": "https://openalex.org/keywords/peptide",
+      "display_name": "Peptide",
+      "score": 0.6192140579223633
+    },
+    {
+      "id": "https://openalex.org/keywords/small-molecule",
+      "display_name": "Small molecule",
+      "score": 0.4912719130516052
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.4565200209617615
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.45640456676483154
+    },
+    {
+      "id": "https://openalex.org/keywords/histone-h4",
+      "display_name": "Histone H4",
+      "score": 0.44712740182876587
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.4145914316177368
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.3075929880142212
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.30647534132003784
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74401373",
+      "wikidata": "https://www.wikidata.org/wiki/Q1829843",
+      "display_name": "Bromodomain",
+      "level": 4,
+      "score": 0.7631662487983704
+    },
+    {
+      "id": "https://openalex.org/C64927066",
+      "wikidata": "https://www.wikidata.org/wiki/Q36293",
+      "display_name": "Histone",
+      "level": 3,
+      "score": 0.6475642323493958
+    },
+    {
+      "id": "https://openalex.org/C2779281246",
+      "wikidata": "https://www.wikidata.org/wiki/Q172847",
+      "display_name": "Peptide",
+      "level": 2,
+      "score": 0.6192140579223633
+    },
+    {
+      "id": "https://openalex.org/C161624437",
+      "wikidata": "https://www.wikidata.org/wiki/Q1988322",
+      "display_name": "Small molecule",
+      "level": 2,
+      "score": 0.4912719130516052
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.4565200209617615
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.45640456676483154
+    },
+    {
+      "id": "https://openalex.org/C2779085176",
+      "wikidata": "https://www.wikidata.org/wiki/Q24721644",
+      "display_name": "Histone H4",
+      "level": 4,
+      "score": 0.44712740182876587
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.4145914316177368
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.3075929880142212
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.30647534132003784
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004268",
+      "descriptor_name": "DNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008024",
+      "descriptor_name": "Ligands",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008024",
+      "descriptor_name": "Ligands",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008024",
+      "descriptor_name": "Ligands",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008239",
+      "descriptor_name": "Lysine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008239",
+      "descriptor_name": "Lysine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008239",
+      "descriptor_name": "Lysine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014452",
+      "descriptor_name": "Ubiquitins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014452",
+      "descriptor_name": "Ubiquitins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014452",
+      "descriptor_name": "Ubiquitins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015717",
+      "descriptor_name": "Peptide T",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015717",
+      "descriptor_name": "Peptide T",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015717",
+      "descriptor_name": "Peptide T",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044767",
+      "descriptor_name": "Ubiquitin-Protein Ligases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044767",
+      "descriptor_name": "Ubiquitin-Protein Ligases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044767",
+      "descriptor_name": "Ubiquitin-Protein Ligases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1021/acschembio.2c00266",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1021/acschembio.2c00266",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S118914585",
+        "display_name": "ACS Chemical Biology",
+        "issn_l": "1554-8929",
+        "issn": [
+          "1554-8929",
+          "1554-8937"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Chemical Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36098557",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36098557",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS chemical biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:escholarship.org:ark:/13030/qt4bh368ft",
+      "is_oa": true,
+      "landing_page_url": "https://escholarship.org/uc/item/4bh368ft",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ACS Chemical Biology, vol 17, iss 10",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:ora.ox.ac.uk:uuid:24aa5e49-faa9-4197-9b3c-05be4d5301c7",
+      "is_oa": true,
+      "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:24aa5e49-faa9-4197-9b3c-05be4d5301c7",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402636",
+        "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I40120149",
+        "host_organization_name": "University of Oxford",
+        "host_organization_lineage": [
+          "https://openalex.org/I40120149"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Symplectic Elements",
+      "raw_type": "Journal article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9594046",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9594046",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ACS Chem Biol",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1021/acschembio.2c00266",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1021/acschembio.2c00266",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S118914585",
+      "display_name": "ACS Chemical Biology",
+      "issn_l": "1554-8929",
+      "issn": [
+        "1554-8929",
+        "1554-8937"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320006",
+      "host_organization_name": "American Chemical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320006"
+      ],
+      "host_organization_lineage_names": [
+        "American Chemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "ACS Chemical Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2608500458",
+      "display_name": "EPSRC Centre for Doctoral Training in Synthesis for Biology and Medicine",
+      "funder_award_id": "EP/L015838/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G7743085660",
+      "display_name": "Industrial Doctorate Centre: Systems Approaches to Biomedical Science",
+      "funder_award_id": "EP/G037280/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G8920272071",
+      "display_name": "New sulfur-based reactive intermediates for synthesis and catalysis",
+      "funder_award_id": "EP/S03658X/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G918303939",
+      "display_name": null,
+      "funder_award_id": "EP/S03658X/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320307765",
+      "display_name": "Pfizer",
+      "ror": "https://ror.org/01xdqrp08"
+    },
+    {
+      "id": "https://openalex.org/F4320307773",
+      "display_name": "GlaxoSmithKline",
+      "ror": "https://ror.org/01xsqw823"
+    },
+    {
+      "id": "https://openalex.org/F4320307776",
+      "display_name": "Merck",
+      "ror": "https://ror.org/02891sr49"
+    },
+    {
+      "id": "https://openalex.org/F4320312517",
+      "display_name": "Vertex Pharmaceuticals",
+      "ror": "https://ror.org/00anb1726"
+    },
+    {
+      "id": "https://openalex.org/F4320320696",
+      "display_name": "Agency for Science, Technology and Research",
+      "ror": "https://ror.org/036wvzt09"
+    },
+    {
+      "id": "https://openalex.org/F4320326627",
+      "display_name": "Syngenta International",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320334627",
+      "display_name": "Engineering and Physical Sciences Research Council",
+      "ror": "https://ror.org/0439y7842"
+    },
+    {
+      "id": "https://openalex.org/F4320334656",
+      "display_name": "Lady Margaret Hall, University of Oxford",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 60,
+  "referenced_works": [
+    "https://openalex.org/W312927025",
+    "https://openalex.org/W1543571147",
+    "https://openalex.org/W1625510017",
+    "https://openalex.org/W1967381498",
+    "https://openalex.org/W1974606154",
+    "https://openalex.org/W1978727518",
+    "https://openalex.org/W1979646592",
+    "https://openalex.org/W2002285059",
+    "https://openalex.org/W2007916651",
+    "https://openalex.org/W2012317303",
+    "https://openalex.org/W2015681476",
+    "https://openalex.org/W2016907728",
+    "https://openalex.org/W2017297735",
+    "https://openalex.org/W2025816743",
+    "https://openalex.org/W2028561673",
+    "https://openalex.org/W2035087068",
+    "https://openalex.org/W2043148368",
+    "https://openalex.org/W2049312848",
+    "https://openalex.org/W2063887542",
+    "https://openalex.org/W2075231419",
+    "https://openalex.org/W2075430413",
+    "https://openalex.org/W2077676934",
+    "https://openalex.org/W2078140803",
+    "https://openalex.org/W2086675373",
+    "https://openalex.org/W2087543106",
+    "https://openalex.org/W2098764195",
+    "https://openalex.org/W2116773729",
+    "https://openalex.org/W2122344714",
+    "https://openalex.org/W2123647733",
+    "https://openalex.org/W2131648467",
+    "https://openalex.org/W2136741329",
+    "https://openalex.org/W2169982316",
+    "https://openalex.org/W2210685190",
+    "https://openalex.org/W2224210946",
+    "https://openalex.org/W2262681364",
+    "https://openalex.org/W2316698545",
+    "https://openalex.org/W2318831060",
+    "https://openalex.org/W2320653071",
+    "https://openalex.org/W2404861930",
+    "https://openalex.org/W2406478006",
+    "https://openalex.org/W2411462408",
+    "https://openalex.org/W2412620131",
+    "https://openalex.org/W2430244088",
+    "https://openalex.org/W2492484153",
+    "https://openalex.org/W2515947712",
+    "https://openalex.org/W2573216293",
+    "https://openalex.org/W2573264262",
+    "https://openalex.org/W2757784215",
+    "https://openalex.org/W2790979575",
+    "https://openalex.org/W2792397649",
+    "https://openalex.org/W2792980360",
+    "https://openalex.org/W2803653576",
+    "https://openalex.org/W2908616107",
+    "https://openalex.org/W2909295147",
+    "https://openalex.org/W2953873379",
+    "https://openalex.org/W2974302748",
+    "https://openalex.org/W2977874666",
+    "https://openalex.org/W2978626137",
+    "https://openalex.org/W2991463643",
+    "https://openalex.org/W3124288694"
+  ],
+  "related_works": [
+    "https://openalex.org/W2090460767",
+    "https://openalex.org/W1997974935",
+    "https://openalex.org/W2111157690",
+    "https://openalex.org/W2085806746",
+    "https://openalex.org/W2106187776",
+    "https://openalex.org/W1996707370",
+    "https://openalex.org/W2079458286",
+    "https://openalex.org/W2790955376",
+    "https://openalex.org/W1971201117",
+    "https://openalex.org/W1591456741"
+  ],
+  "abstract_inverted_index": {
+    "K18Ac.": [
+      0
+    ],
+    "We": [
+      1
+    ],
+    "used": [
+      2
+    ],
+    "this": [
+      3
+    ],
+    "information": [
+      4,
+      28
+    ],
+    "to": [
+      5,
+      50
+    ],
+    "develop": [
+      6
+    ],
+    "an": [
+      7
+    ],
+    "AlphaScreen": [
+      8
+    ],
+    "assay,": [
+      9
+    ],
+    "with": [
+      10
+    ],
+    "which": [
+      11,
+      30
+    ],
+    "we": [
+      12
+    ],
+    "have": [
+      13
+    ],
+    "identified": [
+      14
+    ],
+    "four": [
+      15
+    ],
+    "new": [
+      16,
+      27
+    ],
+    "ligands": [
+      17
+    ],
+    "for": [
+      18,
+      44
+    ],
+    "the": [
+      19,
+      45,
+      52
+    ],
+    "TRIM33": [
+      20,
+      39
+    ],
+    "PHD-BRD": [
+      21
+    ],
+    "cassette.": [
+      22
+    ],
+    "These": [
+      23
+    ],
+    "findings": [
+      24
+    ],
+    "provide": [
+      25
+    ],
+    "fundamental": [
+      26
+    ],
+    "regarding": [
+      29
+    ],
+    "histone": [
+      31
+    ],
+    "marks": [
+      32
+    ],
+    "are": [
+      33
+    ],
+    "recognized": [
+      34
+    ],
+    "by": [
+      35
+    ],
+    "both": [
+      36
+    ],
+    "isoforms": [
+      37
+    ],
+    "of": [
+      38,
+      47,
+      55
+    ],
+    "and": [
+      40
+    ],
+    "suggest": [
+      41
+    ],
+    "starting": [
+      42
+    ],
+    "points": [
+      43
+    ],
+    "development": [
+      46
+    ],
+    "chemical": [
+      48
+    ],
+    "probes": [
+      49
+    ],
+    "investigate": [
+      51
+    ],
+    "cellular": [
+      53
+    ],
+    "function": [
+      54
+    ],
+    "TRIM33.": [
+      56
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-04T08:30:34.212998",
+  "created_date": "2025-10-10T00:00:00"
+}

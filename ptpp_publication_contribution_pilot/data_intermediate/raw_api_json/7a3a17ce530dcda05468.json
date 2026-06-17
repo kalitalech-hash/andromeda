@@ -1,0 +1,3140 @@
+{
+  "id": "https://openalex.org/W3126563441",
+  "doi": "https://doi.org/10.1038/s41586-021-03188-w",
+  "title": "Skin-resident innate lymphoid cells converge on a pathogenic effector state",
+  "display_name": "Skin-resident innate lymphoid cells converge on a pathogenic effector state",
+  "publication_year": 2021,
+  "publication_date": "2021-02-03",
+  "ids": {
+    "openalex": "https://openalex.org/W3126563441",
+    "doi": "https://doi.org/10.1038/s41586-021-03188-w",
+    "mag": "3126563441",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33536623"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41586-021-03188-w",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1038/s41586-021-03188-w",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S137773608",
+      "display_name": "Nature",
+      "issn_l": "0028-0836",
+      "issn": [
+        "0028-0836",
+        "1476-4687"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://escholarship.org/uc/item/4cc9s2xz",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5084013211",
+        "display_name": "Piotr Bielecki",
+        "orcid": "https://orcid.org/0000-0002-5609-1066"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210140788",
+          "display_name": "Celsius Therapeutics (United States)",
+          "ror": "https://ror.org/04ynd9171",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210140788"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Piotr Bielecki",
+      "raw_affiliation_strings": [
+        "Celsius Therapeutics, Cambridge, MA, USA. piotr.stanislaw.bielecki@gmail.com",
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA. piotr.stanislaw.bielecki@gmail.com",
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5609-1066",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Celsius Therapeutics, Cambridge, MA, USA. piotr.stanislaw.bielecki@gmail.com",
+          "institution_ids": [
+            "https://openalex.org/I4210140788"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA. piotr.stanislaw.bielecki@gmail.com",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051621618",
+        "display_name": "Samantha J. Riesenfeld",
+        "orcid": "https://orcid.org/0000-0001-9144-021X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40347166",
+          "display_name": "University of Chicago",
+          "ror": "https://ror.org/024mw5h28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40347166"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Samantha J. Riesenfeld",
+      "raw_affiliation_strings": [
+        "Department of Medicine, University of Chicago, Chicago, IL, USA. sriesenfeld@uchicago.edu",
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. sriesenfeld@uchicago.edu",
+        "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA. sriesenfeld@uchicago.edu",
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9144-021X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medicine, University of Chicago, Chicago, IL, USA. sriesenfeld@uchicago.edu",
+          "institution_ids": [
+            "https://openalex.org/I40347166"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. sriesenfeld@uchicago.edu",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA. sriesenfeld@uchicago.edu",
+          "institution_ids": [
+            "https://openalex.org/I40347166"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029641905",
+        "display_name": "Jan-Christian Hütter",
+        "orcid": "https://orcid.org/0000-0002-1219-4821"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan-Christian Hütter",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1219-4821",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034024822",
+        "display_name": "Elena Torlai Triglia",
+        "orcid": "https://orcid.org/0000-0002-6059-0116"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Torlai Triglia",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6059-0116",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003816289",
+        "display_name": "Monika S. Kowalczyk",
+        "orcid": "https://orcid.org/0000-0003-0525-9196"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika S. Kowalczyk",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073624988",
+        "display_name": "Roberto R. Ricardo-González",
+        "orcid": "https://orcid.org/0000-0002-6135-4035"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180670191",
+          "display_name": "University of California, San Francisco",
+          "ror": "https://ror.org/043mz5j54",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I180670191"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Roberto R. Ricardo-Gonzalez",
+      "raw_affiliation_strings": [
+        "Department of Dermatology, University of California San Francisco, San Francisco, CA, USA",
+        "Department of Medicine, Sandler Asthma Research Center, University of California San Francisco, San Francisco, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6135-4035",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Dermatology, University of California San Francisco, San Francisco, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I180670191"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medicine, Sandler Asthma Research Center, University of California San Francisco, San Francisco, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I180670191"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065281115",
+        "display_name": "Lian Mi",
+        "orcid": "https://orcid.org/0000-0002-8300-3180"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161046081",
+          "display_name": "University of Freiburg",
+          "ror": "https://ror.org/0245cg223",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I25974101",
+          "display_name": "University of Würzburg",
+          "ror": "https://ror.org/00fbnyb24",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25974101"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mi Lian",
+      "raw_affiliation_strings": [
+        "Faculty of Biology, University of Freiburg, Freiburg, Germany",
+        "Würzburg Institute of Systems Immunology, Max Planck Research Group at the Julius-Maximilians-Universität Würzburg, Würzburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Biology, University of Freiburg, Freiburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161046081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Würzburg Institute of Systems Immunology, Max Planck Research Group at the Julius-Maximilians-Universität Würzburg, Würzburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I25974101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035003786",
+        "display_name": "María Carolina Amezcua Vesely",
+        "orcid": "https://orcid.org/0000-0001-9631-1249"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria C. Amezcua Vesely",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Chevy Chase, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012226374",
+        "display_name": "Lina Kroehling",
+        "orcid": "https://orcid.org/0000-0003-4996-7450"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lina Kroehling",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100685049",
+        "display_name": "Hao Xu",
+        "orcid": "https://orcid.org/0000-0002-2767-3665"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Xu",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079638347",
+        "display_name": "Michal Slyper",
+        "orcid": "https://orcid.org/0000-0002-3002-0366"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Slyper",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003686433",
+        "display_name": "Christoph Muus",
+        "orcid": "https://orcid.org/0000-0003-2779-0893"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christoph Muus",
+      "raw_affiliation_strings": [
+        "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA",
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077173552",
+        "display_name": "Leif S. Ludwig",
+        "orcid": "https://orcid.org/0000-0002-2916-2164"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Leif S. Ludwig",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2916-2164",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005267079",
+        "display_name": "Elena Christian",
+        "orcid": "https://orcid.org/0000-0002-5593-0155"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Christian",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101534774",
+        "display_name": "Liming Tao",
+        "orcid": "https://orcid.org/0000-0002-3034-925X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Liming Tao",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022792225",
+        "display_name": "Amanda J. Kedaigle",
+        "orcid": "https://orcid.org/0000-0001-6156-5046"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amanda J. Kedaigle",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6156-5046",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016747620",
+        "display_name": "Holly R. Steach",
+        "orcid": "https://orcid.org/0000-0003-0018-3129"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Holly R. Steach",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0018-3129",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002168682",
+        "display_name": "Autumn G. York",
+        "orcid": "https://orcid.org/0000-0002-0331-043X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Autumn G. York",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033936698",
+        "display_name": "Mathias Skadow",
+        "orcid": "https://orcid.org/0000-0001-6646-5810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mathias H. Skadow",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006663336",
+        "display_name": "Parastou Yaghoubi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Parastou Yaghoubi",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036978836",
+        "display_name": "Danielle Dionne",
+        "orcid": "https://orcid.org/0000-0002-8338-4323"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Danielle Dionne",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8338-4323",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016701730",
+        "display_name": "Abigail Jarret",
+        "orcid": "https://orcid.org/0000-0002-8864-9829"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abigail Jarret",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055292782",
+        "display_name": "Heather M. McGee",
+        "orcid": "https://orcid.org/0000-0003-3761-5087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1307098950",
+          "display_name": "Salk Institute for Biological Studies",
+          "ror": "https://ror.org/03xez1567",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1307098950"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Heather M. McGee",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+        "NOMIS Center for Immunobiology and Microbial Pathogenesis, Salk Institute for Biological Sciences, La Jolla, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "NOMIS Center for Immunobiology and Microbial Pathogenesis, Salk Institute for Biological Sciences, La Jolla, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I1307098950"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025262235",
+        "display_name": "Caroline Porter",
+        "orcid": "https://orcid.org/0000-0001-8294-5232"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Caroline B. M. Porter",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091455169",
+        "display_name": "Paula Licona-Limón",
+        "orcid": "https://orcid.org/0000-0002-7692-8900"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I8961855",
+          "display_name": "Universidad Nacional Autónoma de México",
+          "ror": "https://ror.org/01tmp8f25",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8961855"
+          ]
+        }
+      ],
+      "countries": [
+        "MX",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paula Licona-Limón",
+      "raw_affiliation_strings": [
+        "Departamento de Biología Celular y del Desarrollo, Instituto de Fisiología Celular, Universidad Nacional Autónoma de México, México City, Mexico",
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Departamento de Biología Celular y del Desarrollo, Instituto de Fisiología Celular, Universidad Nacional Autónoma de México, México City, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I8961855"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074643471",
+        "display_name": "Will Bailis",
+        "orcid": "https://orcid.org/0000-0001-9420-6250"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1335321130",
+          "display_name": "Children's Hospital of Philadelphia",
+          "ror": "https://ror.org/01z7r7q48",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I1335321130"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Will Bailis",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+        "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+        "Division of Protective Immunity, Children's Hospital of Philadelphia, Philadelphia, PA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9420-6250",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+          "institution_ids": [
+            "https://openalex.org/I79576946"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Protective Immunity, Children's Hospital of Philadelphia, Philadelphia, PA, USA",
+          "institution_ids": [
+            "https://openalex.org/I1335321130"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002052800",
+        "display_name": "Ruaidhrí Jackson",
+        "orcid": "https://orcid.org/0000-0002-7002-0010"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ruaidhrí Jackson",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037272617",
+        "display_name": "Nicola Gagliani",
+        "orcid": "https://orcid.org/0000-0001-8514-1395"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I159176309",
+          "display_name": "Universität Hamburg",
+          "ror": "https://ror.org/00g30e956",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159176309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210108711",
+          "display_name": "University Medical Center Hamburg-Eppendorf",
+          "ror": "https://ror.org/01zgy1s35",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I159176309",
+            "https://openalex.org/I4210108711"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "SE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicola Gagliani",
+      "raw_affiliation_strings": [
+        "Department of General, Visceral and Thoracic Surgery, University Medical Center Hamburg-Eppendorf, Hamburg, Germany",
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+        "Department of Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany",
+        "Immunology and Allergy Unit, Department of Medicine, Solna, Karolinska Institute and University Hospital, Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of General, Visceral and Thoracic Surgery, University Medical Center Hamburg-Eppendorf, Hamburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210108711",
+            "https://openalex.org/I159176309"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210108711",
+            "https://openalex.org/I159176309"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Immunology and Allergy Unit, Department of Medicine, Solna, Karolinska Institute and University Hospital, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011718692",
+        "display_name": "Georg Gasteiger",
+        "orcid": "https://orcid.org/0000-0001-6986-127X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25974101",
+          "display_name": "University of Würzburg",
+          "ror": "https://ror.org/00fbnyb24",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25974101"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Georg Gasteiger",
+      "raw_affiliation_strings": [
+        "Würzburg Institute of Systems Immunology, Max Planck Research Group at the Julius-Maximilians-Universität Würzburg, Würzburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Würzburg Institute of Systems Immunology, Max Planck Research Group at the Julius-Maximilians-Universität Würzburg, Würzburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I25974101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066993086",
+        "display_name": "Richard M. Locksley",
+        "orcid": "https://orcid.org/0000-0002-5468-6867"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I180670191",
+          "display_name": "University of California, San Francisco",
+          "ror": "https://ror.org/043mz5j54",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I180670191"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Richard M. Locksley",
+      "raw_affiliation_strings": [
+        "Department of Medicine, Sandler Asthma Research Center, University of California San Francisco, San Francisco, CA, USA",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5468-6867",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medicine, Sandler Asthma Research Center, University of California San Francisco, San Francisco, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I180670191"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Chevy Chase, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004067604",
+        "display_name": "Aviv Regev",
+        "orcid": "https://orcid.org/0000-0003-3293-3158"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210134442",
+          "display_name": "Kaiser Permanente South San Francisco Medical Center",
+          "ror": "https://ror.org/032qfz281",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1343052199",
+            "https://openalex.org/I4210134442"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aviv Regev",
+      "raw_affiliation_strings": [
+        "Genentech, South San Francisco, CA, USA. aregev@broadinstitute.org",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA. aregev@broadinstitute.org",
+        "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. aregev@broadinstitute.org",
+        "Koch Institute of Integrative Cancer Research, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA. aregev@broadinstitute.org",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3293-3158",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genentech, South San Francisco, CA, USA. aregev@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I4210134442"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Chevy Chase, MD, USA. aregev@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. aregev@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Koch Institute of Integrative Cancer Research, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA. aregev@broadinstitute.org",
+          "institution_ids": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Chevy Chase, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5064443404",
+        "display_name": "Richard A. Flavell",
+        "orcid": "https://orcid.org/0000-0003-4461-0778"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Richard A. Flavell",
+      "raw_affiliation_strings": [
+        "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA. richard.flavell@yale.edu",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA. richard.flavell@yale.edu",
+        "Howard Hughes Medical Institute, Chevy Chase, MD, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4461-0778",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA. richard.flavell@yale.edu",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Chevy Chase, MD, USA. richard.flavell@yale.edu",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Chevy Chase, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I1344073410"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 32,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5051621618",
+    "https://openalex.org/A5084013211"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I107606265",
+    "https://openalex.org/I32971472",
+    "https://openalex.org/I40347166",
+    "https://openalex.org/I4210140788"
+  ],
+  "apc_list": {
+    "value": 9750,
+    "currency": "EUR",
+    "value_usd": 11690
+  },
+  "apc_paid": null,
+  "fwci": 12.9281,
+  "has_fulltext": false,
+  "cited_by_count": 205,
+  "citation_normalized_percentile": {
+    "value": 0.99332184,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "592",
+    "issue": "7852",
+    "first_page": "128",
+    "last_page": "132"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12528",
+    "display_name": "IL-33, ST2, and ILC Pathways",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2403",
+      "display_name": "Immunology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/24",
+      "display_name": "Immunology and Microbiology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12528",
+      "display_name": "IL-33, ST2, and ILC Pathways",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11020",
+      "display_name": "Immune Cell Function and Interaction",
+      "score": 0.9919000267982483,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10469",
+      "display_name": "Psoriasis: Treatment and Pathogenesis",
+      "score": 0.9833999872207642,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/innate-lymphoid-cell",
+      "display_name": "Innate lymphoid cell",
+      "score": 0.9287624359130859
+    },
+    {
+      "id": "https://openalex.org/keywords/immunology",
+      "display_name": "Immunology",
+      "score": 0.6027883887290955
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5901350975036621
+    },
+    {
+      "id": "https://openalex.org/keywords/chromatin",
+      "display_name": "Chromatin",
+      "score": 0.5348018407821655
+    },
+    {
+      "id": "https://openalex.org/keywords/effector",
+      "display_name": "Effector",
+      "score": 0.5081934928894043
+    },
+    {
+      "id": "https://openalex.org/keywords/psoriasis",
+      "display_name": "Psoriasis",
+      "score": 0.4859994351863861
+    },
+    {
+      "id": "https://openalex.org/keywords/inflammation",
+      "display_name": "Inflammation",
+      "score": 0.47943443059921265
+    },
+    {
+      "id": "https://openalex.org/keywords/immune-system",
+      "display_name": "Immune system",
+      "score": 0.3708980679512024
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.35495322942733765
+    },
+    {
+      "id": "https://openalex.org/keywords/innate-immune-system",
+      "display_name": "Innate immune system",
+      "score": 0.3162776827812195
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.18388885259628296
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.08782395720481873
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C47742525",
+      "wikidata": "https://www.wikidata.org/wiki/Q13418826",
+      "display_name": "Innate lymphoid cell",
+      "level": 4,
+      "score": 0.9287624359130859
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.6027883887290955
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5901350975036621
+    },
+    {
+      "id": "https://openalex.org/C83640560",
+      "wikidata": "https://www.wikidata.org/wiki/Q180951",
+      "display_name": "Chromatin",
+      "level": 3,
+      "score": 0.5348018407821655
+    },
+    {
+      "id": "https://openalex.org/C51785407",
+      "wikidata": "https://www.wikidata.org/wiki/Q2627568",
+      "display_name": "Effector",
+      "level": 2,
+      "score": 0.5081934928894043
+    },
+    {
+      "id": "https://openalex.org/C2780564577",
+      "wikidata": "https://www.wikidata.org/wiki/Q179945",
+      "display_name": "Psoriasis",
+      "level": 2,
+      "score": 0.4859994351863861
+    },
+    {
+      "id": "https://openalex.org/C2776914184",
+      "wikidata": "https://www.wikidata.org/wiki/Q101991",
+      "display_name": "Inflammation",
+      "level": 2,
+      "score": 0.47943443059921265
+    },
+    {
+      "id": "https://openalex.org/C8891405",
+      "wikidata": "https://www.wikidata.org/wiki/Q1059",
+      "display_name": "Immune system",
+      "level": 2,
+      "score": 0.3708980679512024
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.35495322942733765
+    },
+    {
+      "id": "https://openalex.org/C136449434",
+      "wikidata": "https://www.wikidata.org/wiki/Q428253",
+      "display_name": "Innate immune system",
+      "level": 3,
+      "score": 0.3162776827812195
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.18388885259628296
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.08782395720481873
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000077272",
+      "descriptor_name": "Latent Class Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000077272",
+      "descriptor_name": "Latent Class Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000077272",
+      "descriptor_name": "Latent Class Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000077272",
+      "descriptor_name": "Latent Class Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000077272",
+      "descriptor_name": "Latent Class Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007113",
+      "descriptor_name": "Immunity, Innate",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007113",
+      "descriptor_name": "Immunity, Innate",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007113",
+      "descriptor_name": "Immunity, Innate",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007113",
+      "descriptor_name": "Immunity, Innate",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007113",
+      "descriptor_name": "Immunity, Innate",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008214",
+      "descriptor_name": "Lymphocytes",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011565",
+      "descriptor_name": "Psoriasis",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012867",
+      "descriptor_name": "Skin",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013997",
+      "descriptor_name": "Time Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013997",
+      "descriptor_name": "Time Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013997",
+      "descriptor_name": "Time Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013997",
+      "descriptor_name": "Time Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013997",
+      "descriptor_name": "Time Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019070",
+      "descriptor_name": "Cell Lineage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019070",
+      "descriptor_name": "Cell Lineage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019070",
+      "descriptor_name": "Cell Lineage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019070",
+      "descriptor_name": "Cell Lineage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019070",
+      "descriptor_name": "Cell Lineage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020733",
+      "descriptor_name": "RNA, Small Cytoplasmic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020733",
+      "descriptor_name": "RNA, Small Cytoplasmic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020733",
+      "descriptor_name": "RNA, Small Cytoplasmic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020733",
+      "descriptor_name": "RNA, Small Cytoplasmic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020733",
+      "descriptor_name": "RNA, Small Cytoplasmic",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053759",
+      "descriptor_name": "Interleukin-23",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053759",
+      "descriptor_name": "Interleukin-23",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053759",
+      "descriptor_name": "Interleukin-23",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053759",
+      "descriptor_name": "Interleukin-23",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053759",
+      "descriptor_name": "Interleukin-23",
+      "qualifier_ui": "Q000276",
+      "qualifier_name": "immunology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 9,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41586-021-03188-w",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1038/s41586-021-03188-w",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S137773608",
+        "display_name": "Nature",
+        "issn_l": "0028-0836",
+        "issn": [
+          "0028-0836",
+          "1476-4687"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33536623",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33536623",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:escholarship.org:ark:/13030/qt4cc9s2xz",
+      "is_oa": true,
+      "landing_page_url": "https://escholarship.org/uc/item/4cc9s2xz",
+      "pdf_url": "https://escholarship.org/uc/item/4cc9s2xz",
+      "source": {
+        "id": "https://openalex.org/S4306400115",
+        "display_name": "eScholarship (California Digital Library)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2801248553",
+        "host_organization_name": "California Digital Library",
+        "host_organization_lineage": [
+          "https://openalex.org/I2801248553"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature, vol 592, iss 7852",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:ark:/13030/qt4cc9s2xz",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:RePEc:nat:nature:v:592:y:2021:i:7852:d:10.1038_s41586-021-03188-w",
+      "is_oa": false,
+      "landing_page_url": "https://www.nature.com/articles/s41586-021-03188-w",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:dash.harvard.edu:1/37376744",
+      "is_oa": false,
+      "landing_page_url": "https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37376744",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401540",
+        "display_name": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I136199984",
+        "host_organization_name": "Harvard University",
+        "host_organization_lineage": [
+          "https://openalex.org/I136199984"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:edoc.mdc-berlin.de:19974",
+      "is_oa": false,
+      "landing_page_url": "https://edoc.mdc-berlin.de/19974/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400224",
+        "display_name": "MDC Repository (Max-Delbrueck-Center for Molecular Medicine)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I149899117",
+        "host_organization_name": "Max Planck Society",
+        "host_organization_lineage": [
+          "https://openalex.org/I149899117"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8336632",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8336632",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:qmro.qmul.ac.uk:123456789/94853",
+      "is_oa": false,
+      "landing_page_url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/94853",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400530",
+        "display_name": "Queen Mary Research Online (Queen Mary University of London)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I166337079",
+        "host_organization_name": "Queen Mary University of London",
+        "host_organization_lineage": [
+          "https://openalex.org/I166337079"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:escholarship.org:ark:/13030/qt4cc9s2xz",
+    "is_oa": true,
+    "landing_page_url": "https://escholarship.org/uc/item/4cc9s2xz",
+    "pdf_url": "https://escholarship.org/uc/item/4cc9s2xz",
+    "source": {
+      "id": "https://openalex.org/S4306400115",
+      "display_name": "eScholarship (California Digital Library)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2801248553",
+      "host_organization_name": "California Digital Library",
+      "host_organization_lineage": [
+        "https://openalex.org/I2801248553"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Nature, vol 592, iss 7852",
+    "raw_type": "article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5899999737739563,
+      "id": "https://metadata.un.org/sdg/15",
+      "display_name": "Life in Land"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3126563441.pdf"
+  },
+  "referenced_works_count": 74,
+  "referenced_works": [
+    "https://openalex.org/W1492083415",
+    "https://openalex.org/W1595949461",
+    "https://openalex.org/W1707175384",
+    "https://openalex.org/W1880262756",
+    "https://openalex.org/W1921702206",
+    "https://openalex.org/W1939997832",
+    "https://openalex.org/W1975187768",
+    "https://openalex.org/W1976026025",
+    "https://openalex.org/W1980690159",
+    "https://openalex.org/W1982840915",
+    "https://openalex.org/W1994875855",
+    "https://openalex.org/W1995070836",
+    "https://openalex.org/W1998568385",
+    "https://openalex.org/W1999696784",
+    "https://openalex.org/W2001042507",
+    "https://openalex.org/W2002549598",
+    "https://openalex.org/W2011203475",
+    "https://openalex.org/W2021340905",
+    "https://openalex.org/W2028151516",
+    "https://openalex.org/W2028695285",
+    "https://openalex.org/W2029529774",
+    "https://openalex.org/W2038846887",
+    "https://openalex.org/W2046271789",
+    "https://openalex.org/W2094771034",
+    "https://openalex.org/W2098126593",
+    "https://openalex.org/W2102158172",
+    "https://openalex.org/W2126162679",
+    "https://openalex.org/W2132827946",
+    "https://openalex.org/W2142943268",
+    "https://openalex.org/W2145634436",
+    "https://openalex.org/W2152222824",
+    "https://openalex.org/W2159513688",
+    "https://openalex.org/W2174706414",
+    "https://openalex.org/W2190545194",
+    "https://openalex.org/W2266367473",
+    "https://openalex.org/W2339462656",
+    "https://openalex.org/W2341872067",
+    "https://openalex.org/W2343795401",
+    "https://openalex.org/W2344776862",
+    "https://openalex.org/W2344906887",
+    "https://openalex.org/W2509957998",
+    "https://openalex.org/W2525469791",
+    "https://openalex.org/W2592526947",
+    "https://openalex.org/W2746722198",
+    "https://openalex.org/W2750049634",
+    "https://openalex.org/W2755681539",
+    "https://openalex.org/W2762349056",
+    "https://openalex.org/W2770178180",
+    "https://openalex.org/W2782130265",
+    "https://openalex.org/W2784395700",
+    "https://openalex.org/W2788263670",
+    "https://openalex.org/W2800392236",
+    "https://openalex.org/W2800912249",
+    "https://openalex.org/W2888376450",
+    "https://openalex.org/W2911279170",
+    "https://openalex.org/W2914479886",
+    "https://openalex.org/W2949177718",
+    "https://openalex.org/W2952109315",
+    "https://openalex.org/W2955613592",
+    "https://openalex.org/W2962842434",
+    "https://openalex.org/W2979460593",
+    "https://openalex.org/W2980897730",
+    "https://openalex.org/W2992607767",
+    "https://openalex.org/W2997280954",
+    "https://openalex.org/W3003257820",
+    "https://openalex.org/W3043574641",
+    "https://openalex.org/W3044388039",
+    "https://openalex.org/W3090770396",
+    "https://openalex.org/W3102485225",
+    "https://openalex.org/W3103145119",
+    "https://openalex.org/W4206037526",
+    "https://openalex.org/W6754227738",
+    "https://openalex.org/W6755861362",
+    "https://openalex.org/W6806115372"
+  ],
+  "related_works": [
+    "https://openalex.org/W4210767205",
+    "https://openalex.org/W2418145303",
+    "https://openalex.org/W2391784904",
+    "https://openalex.org/W2347638186",
+    "https://openalex.org/W3032407075",
+    "https://openalex.org/W2118575191",
+    "https://openalex.org/W3088742859",
+    "https://openalex.org/W2410175218",
+    "https://openalex.org/W3032824580",
+    "https://openalex.org/W4249576530"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 39
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 38
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 51
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 38
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 31
+    }
+  ],
+  "updated_date": "2026-06-03T09:05:47.796612",
+  "created_date": "2025-10-10T00:00:00"
+}

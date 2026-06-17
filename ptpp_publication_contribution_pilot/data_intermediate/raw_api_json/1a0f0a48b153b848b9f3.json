@@ -1,0 +1,1345 @@
+{
+  "id": "https://openalex.org/W3195258015",
+  "doi": "https://doi.org/10.3390/rs13163169",
+  "title": "Innovative UAV LiDAR Generated Point-Cloud Processing Algorithm in Python for Unsupervised Detection and Analysis of Agricultural Field-Plots",
+  "display_name": "Innovative UAV LiDAR Generated Point-Cloud Processing Algorithm in Python for Unsupervised Detection and Analysis of Agricultural Field-Plots",
+  "publication_year": 2021,
+  "publication_date": "2021-08-10",
+  "ids": {
+    "openalex": "https://openalex.org/W3195258015",
+    "doi": "https://doi.org/10.3390/rs13163169",
+    "mag": "3195258015"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/rs13163169",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/rs13163169",
+    "pdf_url": "https://www.mdpi.com/2072-4292/13/16/3169/pdf?version=1629797336",
+    "source": {
+      "id": "https://openalex.org/S43295729",
+      "display_name": "Remote Sensing",
+      "issn_l": "2072-4292",
+      "issn": [
+        "2072-4292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Remote Sensing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2072-4292/13/16/3169/pdf?version=1629797336",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5011671414",
+        "display_name": "Michal Polák",
+        "orcid": "https://orcid.org/0000-0001-9243-1753"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156025",
+          "display_name": "Czech Academy of Sciences, Institute of Experimental Botany",
+          "ror": "https://ror.org/057br4398",
+          "country_code": "CZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I202391551",
+            "https://openalex.org/I4210156025"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I70703428",
+          "display_name": "Palacký University Olomouc",
+          "ror": "https://ror.org/04qxnmv42",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Polák",
+      "raw_affiliation_strings": [
+        "Laboratory of Growth Regulators, Institute of Experimental Botany of the Czech Academy of Sciences & Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Growth Regulators, Institute of Experimental Botany of the Czech Academy of Sciences & Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210156025",
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085256848",
+        "display_name": "Jakub Miřijovský",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I70703428",
+          "display_name": "Palacký University Olomouc",
+          "ror": "https://ror.org/04qxnmv42",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jakub Miřijovský",
+      "raw_affiliation_strings": [
+        "Department of Geoinformatics, Faculty of Science, Palacký University, 17. Listopadu 50, 77146 Olomouc, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geoinformatics, Faculty of Science, Palacký University, 17. Listopadu 50, 77146 Olomouc, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003405335",
+        "display_name": "Alba E. Hernándiz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156025",
+          "display_name": "Czech Academy of Sciences, Institute of Experimental Botany",
+          "ror": "https://ror.org/057br4398",
+          "country_code": "CZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I202391551",
+            "https://openalex.org/I4210156025"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I70703428",
+          "display_name": "Palacký University Olomouc",
+          "ror": "https://ror.org/04qxnmv42",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alba E. Hernándiz",
+      "raw_affiliation_strings": [
+        "Laboratory of Growth Regulators, Institute of Experimental Botany of the Czech Academy of Sciences & Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Growth Regulators, Institute of Experimental Botany of the Czech Academy of Sciences & Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210156025",
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028935654",
+        "display_name": "Zdeněk Špíšek",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I70703428",
+          "display_name": "Palacký University Olomouc",
+          "ror": "https://ror.org/04qxnmv42",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zdeněk Špíšek",
+      "raw_affiliation_strings": [
+        "Department of Chemical Biology, Faculty of Science, Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemical Biology, Faculty of Science, Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041853000",
+        "display_name": "Radoslav Koprna",
+        "orcid": "https://orcid.org/0000-0003-2626-3506"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I70703428",
+          "display_name": "Palacký University Olomouc",
+          "ror": "https://ror.org/04qxnmv42",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Radoslav Koprna",
+      "raw_affiliation_strings": [
+        "Department of Chemical Biology, Faculty of Science, Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemical Biology, Faculty of Science, Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5010509017",
+        "display_name": "Jan F. Humplík",
+        "orcid": "https://orcid.org/0000-0002-8915-4369"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156025",
+          "display_name": "Czech Academy of Sciences, Institute of Experimental Botany",
+          "ror": "https://ror.org/057br4398",
+          "country_code": "CZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I202391551",
+            "https://openalex.org/I4210156025"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I70703428",
+          "display_name": "Palacký University Olomouc",
+          "ror": "https://ror.org/04qxnmv42",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan F. Humplík",
+      "raw_affiliation_strings": [
+        "Laboratory of Growth Regulators, Institute of Experimental Botany of the Czech Academy of Sciences & Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Growth Regulators, Institute of Experimental Botany of the Czech Academy of Sciences & Palacký University, Šlechtitelů 27, 78371 Olomouc, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210156025",
+            "https://openalex.org/I70703428"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5085256848"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I70703428"
+  ],
+  "apc_list": {
+    "value": 2500,
+    "currency": "CHF",
+    "value_usd": 2707
+  },
+  "apc_paid": {
+    "value": 2500,
+    "currency": "CHF",
+    "value_usd": 2707
+  },
+  "fwci": 0.1831,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.47622757,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "16",
+    "first_page": "3169",
+    "last_page": "3169"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11164",
+    "display_name": "Remote Sensing and LiDAR Applications",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11164",
+      "display_name": "Remote Sensing and LiDAR Applications",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12161",
+      "display_name": "Plant Surface Properties and Treatments",
+      "score": 0.9890999794006348,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10111",
+      "display_name": "Remote Sensing in Agriculture",
+      "score": 0.9884999990463257,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/lidar",
+      "display_name": "Lidar",
+      "score": 0.8177475333213806
+    },
+    {
+      "id": "https://openalex.org/keywords/python",
+      "display_name": "Python (programming language)",
+      "score": 0.7379021644592285
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6644731163978577
+    },
+    {
+      "id": "https://openalex.org/keywords/point-cloud",
+      "display_name": "Point cloud",
+      "score": 0.6301580667495728
+    },
+    {
+      "id": "https://openalex.org/keywords/remote-sensing",
+      "display_name": "Remote sensing",
+      "score": 0.550902783870697
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.5054817199707031
+    },
+    {
+      "id": "https://openalex.org/keywords/precision-agriculture",
+      "display_name": "Precision agriculture",
+      "score": 0.45090100169181824
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.2384190857410431
+    },
+    {
+      "id": "https://openalex.org/keywords/agriculture",
+      "display_name": "Agriculture",
+      "score": 0.19162505865097046
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C51399673",
+      "wikidata": "https://www.wikidata.org/wiki/Q504027",
+      "display_name": "Lidar",
+      "level": 2,
+      "score": 0.8177475333213806
+    },
+    {
+      "id": "https://openalex.org/C519991488",
+      "wikidata": "https://www.wikidata.org/wiki/Q28865",
+      "display_name": "Python (programming language)",
+      "level": 2,
+      "score": 0.7379021644592285
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6644731163978577
+    },
+    {
+      "id": "https://openalex.org/C131979681",
+      "wikidata": "https://www.wikidata.org/wiki/Q1899648",
+      "display_name": "Point cloud",
+      "level": 2,
+      "score": 0.6301580667495728
+    },
+    {
+      "id": "https://openalex.org/C62649853",
+      "wikidata": "https://www.wikidata.org/wiki/Q199687",
+      "display_name": "Remote sensing",
+      "level": 1,
+      "score": 0.550902783870697
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.5054817199707031
+    },
+    {
+      "id": "https://openalex.org/C120217122",
+      "wikidata": "https://www.wikidata.org/wiki/Q740083",
+      "display_name": "Precision agriculture",
+      "level": 3,
+      "score": 0.45090100169181824
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.2384190857410431
+    },
+    {
+      "id": "https://openalex.org/C118518473",
+      "wikidata": "https://www.wikidata.org/wiki/Q11451",
+      "display_name": "Agriculture",
+      "level": 2,
+      "score": 0.19162505865097046
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3390/rs13163169",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/rs13163169",
+      "pdf_url": "https://www.mdpi.com/2072-4292/13/16/3169/pdf?version=1629797336",
+      "source": {
+        "id": "https://openalex.org/S43295729",
+        "display_name": "Remote Sensing",
+        "issn_l": "2072-4292",
+        "issn": [
+          "2072-4292"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Remote Sensing",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:888121f0dc374228be8d56bfe79899fd",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/888121f0dc374228be8d56bfe79899fd",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Remote Sensing, Vol 13, Iss 16, p 3169 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/2072-4292/13/16/3169/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/rs13163169",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Remote Sensing",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/rs13163169",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/rs13163169",
+    "pdf_url": "https://www.mdpi.com/2072-4292/13/16/3169/pdf?version=1629797336",
+    "source": {
+      "id": "https://openalex.org/S43295729",
+      "display_name": "Remote Sensing",
+      "issn_l": "2072-4292",
+      "issn": [
+        "2072-4292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Remote Sensing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Zero hunger",
+      "score": 0.75,
+      "id": "https://metadata.un.org/sdg/2"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2289793844",
+      "display_name": null,
+      "funder_award_id": "CZ.02.1.01/0.0/0.0/16_019/0000827",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320335322",
+      "display_name": "European Regional Development Fund",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 13,
+  "referenced_works": [
+    "https://openalex.org/W2004816234",
+    "https://openalex.org/W2101234009",
+    "https://openalex.org/W2165558283",
+    "https://openalex.org/W2188563027",
+    "https://openalex.org/W2768558813",
+    "https://openalex.org/W2962927722",
+    "https://openalex.org/W2997159717",
+    "https://openalex.org/W3010938599",
+    "https://openalex.org/W3094271861",
+    "https://openalex.org/W3132993087",
+    "https://openalex.org/W3159378418",
+    "https://openalex.org/W6675354045",
+    "https://openalex.org/W6719677100"
+  ],
+  "related_works": [
+    "https://openalex.org/W4319317934",
+    "https://openalex.org/W4406302447",
+    "https://openalex.org/W2901265155",
+    "https://openalex.org/W4293094720",
+    "https://openalex.org/W2739701376",
+    "https://openalex.org/W2351984678",
+    "https://openalex.org/W2140032575",
+    "https://openalex.org/W2011860471",
+    "https://openalex.org/W2012196540",
+    "https://openalex.org/W3011451421"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      218
+    ],
+    "estimation": [
+      1
+    ],
+    "of": [
+      2,
+      27,
+      58,
+      72,
+      82,
+      108,
+      149,
+      195
+    ],
+    "plant": [
+      3,
+      28,
+      111,
+      139
+    ],
+    "growth": [
+      4,
+      29,
+      135
+    ],
+    "is": [
+      5,
+      226,
+      231
+    ],
+    "a": [
+      6,
+      109,
+      116,
+      192,
+      201
+    ],
+    "challenging": [
+      7
+    ],
+    "but": [
+      8
+    ],
+    "key": [
+      9
+    ],
+    "issue": [
+      10
+    ],
+    "that": [
+      11,
+      78
+    ],
+    "may": [
+      12
+    ],
+    "help": [
+      13
+    ],
+    "us": [
+      14
+    ],
+    "to": [
+      15,
+      47,
+      87,
+      123,
+      131,
+      157,
+      203
+    ],
+    "understand": [
+      16
+    ],
+    "crop": [
+      17
+    ],
+    "vs.": [
+      18
+    ],
+    "environment": [
+      19
+    ],
+    "interactions.": [
+      20
+    ],
+    "To": [
+      21
+    ],
+    "perform": [
+      22
+    ],
+    "precise": [
+      23
+    ],
+    "and": [
+      24,
+      37,
+      174,
+      179,
+      187,
+      230
+    ],
+    "high-throughput": [
+      25
+    ],
+    "analysis": [
+      26
+    ],
+    "in": [
+      30,
+      45,
+      61,
+      102,
+      115,
+      220
+    ],
+    "field": [
+      31,
+      74,
+      91,
+      126,
+      160
+    ],
+    "conditions,": [
+      32
+    ],
+    "remote": [
+      33
+    ],
+    "sensing": [
+      34
+    ],
+    "using": [
+      35
+    ],
+    "LiDAR": [
+      36,
+      59,
+      207
+    ],
+    "unmanned": [
+      38
+    ],
+    "aerial": [
+      39
+    ],
+    "vehicles": [
+      40
+    ],
+    "(UAV)": [
+      41
+    ],
+    "has": [
+      42
+    ],
+    "been": [
+      43
+    ],
+    "developed,": [
+      44
+    ],
+    "addition": [
+      46
+    ],
+    "other": [
+      48
+    ],
+    "approaches.": [
+      49
+    ],
+    "Although": [
+      50
+    ],
+    "there": [
+      51,
+      63
+    ],
+    "are": [
+      52,
+      64
+    ],
+    "software": [
+      53
+    ],
+    "tools": [
+      54,
+      67
+    ],
+    "for": [
+      55,
+      68,
+      215
+    ],
+    "the": [
+      56,
+      69,
+      106,
+      124,
+      129,
+      221,
+      236
+    ],
+    "processing": [
+      57
+    ],
+    "data": [
+      60
+    ],
+    "general,": [
+      62
+    ],
+    "no": [
+      65
+    ],
+    "specialized": [
+      66
+    ],
+    "automatic": [
+      70
+    ],
+    "extraction": [
+      71
+    ],
+    "experimental": [
+      73,
+      94
+    ],
+    "blocks": [
+      75
+    ],
+    "with": [
+      76,
+      154,
+      166,
+      206,
+      209
+    ],
+    "crops": [
+      77
+    ],
+    "represent": [
+      79,
+      105
+    ],
+    "specific": [
+      80,
+      125
+    ],
+    "“points": [
+      81
+    ],
+    "interest”.": [
+      83
+    ],
+    "Our": [
+      84
+    ],
+    "tool": [
+      85
+    ],
+    "aims": [
+      86
+    ],
+    "detect": [
+      88
+    ],
+    "precisely": [
+      89
+    ],
+    "individual": [
+      90,
+      159
+    ],
+    "plots,": [
+      92
+    ],
+    "small": [
+      93
+    ],
+    "plots": [
+      95,
+      127
+    ],
+    "(in": [
+      96
+    ],
+    "our": [
+      97,
+      163,
+      198
+    ],
+    "case": [
+      98,
+      164
+    ],
+    "10": [
+      99
+    ],
+    "m2)": [
+      100
+    ],
+    "which": [
+      101
+    ],
+    "agricultural": [
+      103
+    ],
+    "research": [
+      104
+    ],
+    "treatment": [
+      107
+    ],
+    "single": [
+      110
+    ],
+    "or": [
+      112,
+      141
+    ],
+    "one": [
+      113
+    ],
+    "genotype": [
+      114
+    ],
+    "breeding": [
+      117
+    ],
+    "trial.": [
+      118
+    ],
+    "Cutting": [
+      119
+    ],
+    "out": [
+      120
+    ],
+    "points": [
+      121,
+      186
+    ],
+    "belonging": [
+      122
+    ],
+    "allows": [
+      128
+    ],
+    "user": [
+      130
+    ],
+    "measure": [
+      132
+    ],
+    "automatically": [
+      133
+    ],
+    "their": [
+      134
+    ],
+    "characteristics,": [
+      136
+    ],
+    "such": [
+      137
+    ],
+    "as": [
+      138,
+      228
+    ],
+    "height": [
+      140
+    ],
+    "plot": [
+      142
+    ],
+    "biomass.": [
+      143
+    ],
+    "For": [
+      144
+    ],
+    "this": [
+      145
+    ],
+    "purpose,": [
+      146
+    ],
+    "new": [
+      147
+    ],
+    "method": [
+      148
+    ],
+    "edge": [
+      150
+    ],
+    "detection": [
+      151
+    ],
+    "was": [
+      152
+    ],
+    "combined": [
+      153
+    ],
+    "Fourier": [
+      155
+    ],
+    "transformation": [
+      156
+    ],
+    "find": [
+      158
+    ],
+    "plots.": [
+      161
+    ],
+    "In": [
+      162
+    ],
+    "study": [
+      165
+    ],
+    "winter": [
+      167
+    ],
+    "wheat,": [
+      168
+    ],
+    "two": [
+      169,
+      180
+    ],
+    "UAV": [
+      170
+    ],
+    "flight": [
+      171,
+      193
+    ],
+    "levels": [
+      172
+    ],
+    "(20": [
+      173
+    ],
+    "40": [
+      175
+    ],
+    "m": [
+      176
+    ],
+    "above": [
+      177
+    ],
+    "ground)": [
+      178
+    ],
+    "canopy": [
+      181
+    ],
+    "surface": [
+      182
+    ],
+    "modelling": [
+      183
+    ],
+    "methods": [
+      184
+    ],
+    "(raw": [
+      185
+    ],
+    "B-spline)": [
+      188
+    ],
+    "were": [
+      189
+    ],
+    "tested.": [
+      190
+    ],
+    "At": [
+      191
+    ],
+    "level": [
+      194
+    ],
+    "20": [
+      196
+    ],
+    "m,": [
+      197
+    ],
+    "algorithm": [
+      199
+    ],
+    "reached": [
+      200
+    ],
+    "0.78": [
+      202
+    ],
+    "0.79": [
+      204
+    ],
+    "correlation": [
+      205
+    ],
+    "measurement": [
+      208
+    ],
+    "manual": [
+      210
+    ],
+    "validation": [
+      211
+    ],
+    "(RMSE": [
+      212
+    ],
+    "=": [
+      213
+    ],
+    "0.19)": [
+      214
+    ],
+    "both": [
+      216
+    ],
+    "methods.": [
+      217
+    ],
+    "algorithm,": [
+      219
+    ],
+    "Python": [
+      222
+    ],
+    "3": [
+      223
+    ],
+    "programming": [
+      224
+    ],
+    "language,": [
+      225
+    ],
+    "designed": [
+      227
+    ],
+    "open-source": [
+      229
+    ],
+    "freely": [
+      232
+    ],
+    "available": [
+      233
+    ],
+    "publicly,": [
+      234
+    ],
+    "including": [
+      235
+    ],
+    "latest": [
+      237
+    ],
+    "updates.": [
+      238
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

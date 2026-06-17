@@ -1,0 +1,1640 @@
+{
+  "id": "https://openalex.org/W2971663935",
+  "doi": "https://doi.org/10.1038/s41467-019-11995-z",
+  "title": "Roles for DNA polymerase δ in initiating and terminating leading strand DNA replication",
+  "display_name": "Roles for DNA polymerase δ in initiating and terminating leading strand DNA replication",
+  "publication_year": 2019,
+  "publication_date": "2019-09-05",
+  "ids": {
+    "openalex": "https://openalex.org/W2971663935",
+    "doi": "https://doi.org/10.1038/s41467-019-11995-z",
+    "mag": "2971663935",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31488849"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41467-019-11995-z",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-019-11995-z",
+    "pdf_url": "https://www.nature.com/articles/s41467-019-11995-z.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41467-019-11995-z.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035203769",
+        "display_name": "Zhi-Xiong Zhou",
+        "orcid": "https://orcid.org/0000-0001-6163-9367"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zhi-Xiong Zhou",
+      "raw_affiliation_strings": [
+        "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6163-9367",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072131585",
+        "display_name": "Scott A. Lujan",
+        "orcid": "https://orcid.org/0000-0003-2400-8325"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Scott A. Lujan",
+      "raw_affiliation_strings": [
+        "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077612907",
+        "display_name": "Adam Burkholder",
+        "orcid": "https://orcid.org/0000-0002-0237-6920"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adam B. Burkholder",
+      "raw_affiliation_strings": [
+        "Integrative Bioinformatics Support Group, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Integrative Bioinformatics Support Group, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045968945",
+        "display_name": "Marta A. Garbacz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta A. Garbacz",
+      "raw_affiliation_strings": [
+        "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5054055369",
+        "display_name": "Thomas A. Kunkel",
+        "orcid": "https://orcid.org/0000-0002-9900-1788"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thomas A. Kunkel",
+      "raw_affiliation_strings": [
+        "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA. kunkel@niehs.nih.gov",
+        "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9900-1788",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA. kunkel@niehs.nih.gov",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Genome Integrity & Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "apc_paid": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "fwci": 4.8726,
+  "has_fulltext": true,
+  "cited_by_count": 96,
+  "citation_normalized_percentile": {
+    "value": 0.9617506,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "10",
+    "issue": "1",
+    "first_page": "3992",
+    "last_page": "3992"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10123",
+    "display_name": "DNA Repair Mechanisms",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10123",
+      "display_name": "DNA Repair Mechanisms",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10222",
+      "display_name": "Genomics and Chromatin Dynamics",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10492",
+      "display_name": "Microtubule and mitosis dynamics",
+      "score": 0.9919999837875366,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/replisome",
+      "display_name": "Replisome",
+      "score": 0.7822145819664001
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-replication",
+      "display_name": "DNA replication",
+      "score": 0.6520097255706787
+    },
+    {
+      "id": "https://openalex.org/keywords/control-of-chromosome-duplication",
+      "display_name": "Control of chromosome duplication",
+      "score": 0.6267709136009216
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-polymerase",
+      "display_name": "DNA polymerase",
+      "score": 0.5984281301498413
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5950780510902405
+    },
+    {
+      "id": "https://openalex.org/keywords/eukaryotic-dna-replication",
+      "display_name": "Eukaryotic DNA replication",
+      "score": 0.5552583932876587
+    },
+    {
+      "id": "https://openalex.org/keywords/pre-replication-complex",
+      "display_name": "Pre-replication complex",
+      "score": 0.5514522194862366
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.5361195802688599
+    },
+    {
+      "id": "https://openalex.org/keywords/polymerase",
+      "display_name": "Polymerase",
+      "score": 0.5025496482849121
+    },
+    {
+      "id": "https://openalex.org/keywords/origin-recognition-complex",
+      "display_name": "Origin recognition complex",
+      "score": 0.43777984380722046
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.37257522344589233
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.3416796922683716
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C149187182",
+      "wikidata": "https://www.wikidata.org/wiki/Q22325217",
+      "display_name": "Replisome",
+      "level": 5,
+      "score": 0.7822145819664001
+    },
+    {
+      "id": "https://openalex.org/C73573662",
+      "wikidata": "https://www.wikidata.org/wiki/Q130996",
+      "display_name": "DNA replication",
+      "level": 3,
+      "score": 0.6520097255706787
+    },
+    {
+      "id": "https://openalex.org/C104690221",
+      "wikidata": "https://www.wikidata.org/wiki/Q5165872",
+      "display_name": "Control of chromosome duplication",
+      "level": 4,
+      "score": 0.6267709136009216
+    },
+    {
+      "id": "https://openalex.org/C2756471",
+      "wikidata": "https://www.wikidata.org/wiki/Q206286",
+      "display_name": "DNA polymerase",
+      "level": 3,
+      "score": 0.5984281301498413
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5950780510902405
+    },
+    {
+      "id": "https://openalex.org/C98086919",
+      "wikidata": "https://www.wikidata.org/wiki/Q118019",
+      "display_name": "Eukaryotic DNA replication",
+      "level": 4,
+      "score": 0.5552583932876587
+    },
+    {
+      "id": "https://openalex.org/C41141232",
+      "wikidata": "https://www.wikidata.org/wiki/Q3685229",
+      "display_name": "Pre-replication complex",
+      "level": 5,
+      "score": 0.5514522194862366
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.5361195802688599
+    },
+    {
+      "id": "https://openalex.org/C82381507",
+      "wikidata": "https://www.wikidata.org/wiki/Q416878",
+      "display_name": "Polymerase",
+      "level": 3,
+      "score": 0.5025496482849121
+    },
+    {
+      "id": "https://openalex.org/C151158763",
+      "wikidata": "https://www.wikidata.org/wiki/Q1626856",
+      "display_name": "Origin recognition complex",
+      "level": 5,
+      "score": 0.43777984380722046
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.37257522344589233
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.3416796922683716
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004257",
+      "descriptor_name": "DNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004257",
+      "descriptor_name": "DNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004257",
+      "descriptor_name": "DNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004257",
+      "descriptor_name": "DNA Polymerase II",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004258",
+      "descriptor_name": "DNA Polymerase III",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004261",
+      "descriptor_name": "DNA Replication",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004261",
+      "descriptor_name": "DNA Replication",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004261",
+      "descriptor_name": "DNA Replication",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004261",
+      "descriptor_name": "DNA Replication",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005057",
+      "descriptor_name": "Eukaryotic Cells",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005057",
+      "descriptor_name": "Eukaryotic Cells",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005057",
+      "descriptor_name": "Eukaryotic Cells",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005057",
+      "descriptor_name": "Eukaryotic Cells",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012265",
+      "descriptor_name": "Ribonucleotides",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012265",
+      "descriptor_name": "Ribonucleotides",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012265",
+      "descriptor_name": "Ribonucleotides",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012265",
+      "descriptor_name": "Ribonucleotides",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012568",
+      "descriptor_name": "Schizosaccharomyces",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D023281",
+      "descriptor_name": "Genomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D023281",
+      "descriptor_name": "Genomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D023281",
+      "descriptor_name": "Genomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D023281",
+      "descriptor_name": "Genomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41467-019-11995-z",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-019-11995-z",
+      "pdf_url": "https://www.nature.com/articles/s41467-019-11995-z.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:31488849",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31488849",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature communications",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:RePEc:nat:natcom:v:10:y:2019:i:1:d:10.1038_s41467-019-11995-z",
+      "is_oa": false,
+      "landing_page_url": "https://www.nature.com/articles/s41467-019-11995-z",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:7b4b72b62f4042e1ae134de4b46a5866",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/7b4b72b62f4042e1ae134de4b46a5866",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 10, Iss 1, Pp 1-10 (2019)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:853eedc6d6d04a76b90d96d06997a130",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/853eedc6d6d04a76b90d96d06997a130",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 10, Iss 1, Pp 1-10 (2019)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:5689848",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6728351",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41467-019-11995-z",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-019-11995-z",
+    "pdf_url": "https://www.nature.com/articles/s41467-019-11995-z.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3418621160",
+      "display_name": null,
+      "funder_award_id": "Z01 ES065070",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G4768842517",
+      "display_name": null,
+      "funder_award_id": "Z01 ES065070",
+      "funder_id": "https://openalex.org/F4320337361",
+      "funder_display_name": "National Institute of Environmental Health Sciences"
+    },
+    {
+      "id": "https://openalex.org/G5792972300",
+      "display_name": null,
+      "funder_award_id": "ES065070",
+      "funder_id": "https://openalex.org/F4320337361",
+      "funder_display_name": "National Institute of Environmental Health Sciences"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320337361",
+      "display_name": "National Institute of Environmental Health Sciences",
+      "ror": "https://ror.org/00j4k1h63"
+    },
+    {
+      "id": "https://openalex.org/F4320338421",
+      "display_name": "NHLBI Division of Intramural Research",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2971663935.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2971663935.grobid-xml"
+  },
+  "referenced_works_count": 42,
+  "referenced_works": [
+    "https://openalex.org/W1259155283",
+    "https://openalex.org/W1519427546",
+    "https://openalex.org/W1528221774",
+    "https://openalex.org/W1586691334",
+    "https://openalex.org/W1966982053",
+    "https://openalex.org/W1970184264",
+    "https://openalex.org/W1973857401",
+    "https://openalex.org/W1980781636",
+    "https://openalex.org/W1985491895",
+    "https://openalex.org/W1992391204",
+    "https://openalex.org/W1994514609",
+    "https://openalex.org/W2001031455",
+    "https://openalex.org/W2025064120",
+    "https://openalex.org/W2038626846",
+    "https://openalex.org/W2059184834",
+    "https://openalex.org/W2066261076",
+    "https://openalex.org/W2074050403",
+    "https://openalex.org/W2075051935",
+    "https://openalex.org/W2078507463",
+    "https://openalex.org/W2089594949",
+    "https://openalex.org/W2099117602",
+    "https://openalex.org/W2099392759",
+    "https://openalex.org/W2112625915",
+    "https://openalex.org/W2115176701",
+    "https://openalex.org/W2132779860",
+    "https://openalex.org/W2136341398",
+    "https://openalex.org/W2137278429",
+    "https://openalex.org/W2139920593",
+    "https://openalex.org/W2154151985",
+    "https://openalex.org/W2158881007",
+    "https://openalex.org/W2166459599",
+    "https://openalex.org/W2167567837",
+    "https://openalex.org/W2412655055",
+    "https://openalex.org/W2562393208",
+    "https://openalex.org/W2566002255",
+    "https://openalex.org/W2604308930",
+    "https://openalex.org/W2618013191",
+    "https://openalex.org/W2792165653",
+    "https://openalex.org/W2805250471",
+    "https://openalex.org/W2886241640",
+    "https://openalex.org/W2900758704",
+    "https://openalex.org/W2919983752"
+  ],
+  "related_works": [
+    "https://openalex.org/W2610897247",
+    "https://openalex.org/W2588123003",
+    "https://openalex.org/W2143962220",
+    "https://openalex.org/W1989276034",
+    "https://openalex.org/W4231602174",
+    "https://openalex.org/W2141043721",
+    "https://openalex.org/W1582643191",
+    "https://openalex.org/W2127646692",
+    "https://openalex.org/W2413761783",
+    "https://openalex.org/W2154566672"
+  ],
+  "abstract_inverted_index": {
+    "Most": [
+      0
+    ],
+    "current": [
+      1
+    ],
+    "evidence": [
+      2,
+      73
+    ],
+    "indicates": [
+      3
+    ],
+    "that": [
+      4,
+      26,
+      74,
+      86
+    ],
+    "DNA": [
+      5,
+      75
+    ],
+    "polymerases": [
+      6
+    ],
+    "ε": [
+      7,
+      94
+    ],
+    "and": [
+      8,
+      16,
+      28,
+      37,
+      49,
+      85,
+      107,
+      129
+    ],
+    "δ,": [
+      9
+    ],
+    "respectively,": [
+      10
+    ],
+    "perform": [
+      11
+    ],
+    "the": [
+      12,
+      21,
+      47,
+      105,
+      124
+    ],
+    "bulk": [
+      13
+    ],
+    "of": [
+      14,
+      20,
+      40,
+      55,
+      112,
+      117,
+      126
+    ],
+    "leading": [
+      15,
+      82,
+      88
+    ],
+    "lagging": [
+      17
+    ],
+    "strand": [
+      18,
+      83,
+      89
+    ],
+    "replication": [
+      19,
+      99,
+      128
+    ],
+    "eukaryotic": [
+      22,
+      127
+    ],
+    "nuclear": [
+      23
+    ],
+    "genome.": [
+      24
+    ],
+    "Given": [
+      25
+    ],
+    "ribonucleotide": [
+      27
+    ],
+    "mismatch": [
+      29
+    ],
+    "incorporation": [
+      30
+    ],
+    "rates": [
+      31
+    ],
+    "by": [
+      32
+    ],
+    "these": [
+      33,
+      64,
+      113
+    ],
+    "replicases": [
+      34,
+      65
+    ],
+    "influence": [
+      35
+    ],
+    "somatic": [
+      36
+    ],
+    "germline": [
+      38
+    ],
+    "patterns": [
+      39
+    ],
+    "variation,": [
+      41
+    ],
+    "it": [
+      42
+    ],
+    "is": [
+      43
+    ],
+    "important": [
+      44,
+      121
+    ],
+    "to": [
+      45,
+      51,
+      61,
+      95
+    ],
+    "understand": [
+      46
+    ],
+    "details": [
+      48
+    ],
+    "exceptions": [
+      50
+    ],
+    "this": [
+      52
+    ],
+    "overall": [
+      53
+    ],
+    "division": [
+      54
+    ],
+    "labor.": [
+      56
+    ],
+    "Using": [
+      57
+    ],
+    "an": [
+      58
+    ],
+    "improved": [
+      59
+    ],
+    "method": [
+      60
+    ],
+    "map": [
+      62
+    ],
+    "where": [
+      63
+    ],
+    "incorporate": [
+      66
+    ],
+    "ribonucleotides": [
+      67
+    ],
+    "during": [
+      68,
+      98
+    ],
+    "replication,": [
+      69
+    ],
+    "here": [
+      70
+    ],
+    "we": [
+      71
+    ],
+    "present": [
+      72
+    ],
+    "polymerase": [
+      76
+    ],
+    "δ": [
+      77,
+      97
+    ],
+    "universally": [
+      78
+    ],
+    "participates": [
+      79
+    ],
+    "in": [
+      80
+    ],
+    "initiating": [
+      81
+    ],
+    "synthesis": [
+      84,
+      90
+    ],
+    "nascent": [
+      87
+    ],
+    "switches": [
+      91
+    ],
+    "from": [
+      92,
+      103
+    ],
+    "Pol": [
+      93,
+      96
+    ],
+    "termination.": [
+      100
+    ],
+    "Ribonucleotide": [
+      101
+    ],
+    "maps": [
+      102
+    ],
+    "both": [
+      104
+    ],
+    "budding": [
+      106
+    ],
+    "fission": [
+      108
+    ],
+    "yeast": [
+      109
+    ],
+    "reveal": [
+      110
+    ],
+    "conservation": [
+      111
+    ],
+    "processes.": [
+      114
+    ],
+    "These": [
+      115
+    ],
+    "observations": [
+      116
+    ],
+    "replisome": [
+      118
+    ],
+    "dynamics": [
+      119
+    ],
+    "provide": [
+      120
+    ],
+    "insight": [
+      122
+    ],
+    "into": [
+      123
+    ],
+    "mechanisms": [
+      125
+    ],
+    "genome": [
+      130
+    ],
+    "maintenance.": [
+      131
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1219 @@
+{
+  "id": "https://openalex.org/W4410541438",
+  "doi": "https://doi.org/10.1016/j.jpdc.2025.105107",
+  "title": "Thermal modeling and optimal allocation of avionics safety-critical tasks on heterogeneous MPSoCs",
+  "display_name": "Thermal modeling and optimal allocation of avionics safety-critical tasks on heterogeneous MPSoCs",
+  "publication_year": 2025,
+  "publication_date": "2025-05-20",
+  "ids": {
+    "openalex": "https://openalex.org/W4410541438",
+    "doi": "https://doi.org/10.1016/j.jpdc.2025.105107"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jpdc.2025.105107",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jpdc.2025.105107",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S157146593",
+      "display_name": "Journal of Parallel and Distributed Computing",
+      "issn_l": "0743-7315",
+      "issn": [
+        "0743-7315",
+        "1096-0848"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Parallel and Distributed Computing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "arxiv",
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.jpdc.2025.105107",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5039174863",
+        "display_name": "Zdeněk Hanzálek",
+        "orcid": "https://orcid.org/0000-0002-8135-1296"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zdeněk Hanzálek",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8135-1296",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039707537",
+        "display_name": "Ondřej Benedikt",
+        "orcid": "https://orcid.org/0000-0002-7365-844X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ondřej Benedikt",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015571030",
+        "display_name": "Přemysl Šůcha",
+        "orcid": "https://orcid.org/0000-0003-4895-157X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Přemysl Šůcha",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4895-157X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067754429",
+        "display_name": "Pavel Zaykov",
+        "orcid": "https://orcid.org/0000-0003-0465-9112"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210120083",
+          "display_name": "Honeywell (Czechia)",
+          "ror": "https://ror.org/0297sbd31",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210120083",
+            "https://openalex.org/I82514191"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pavel Zaykov",
+      "raw_affiliation_strings": [
+        "Honeywell International s.r.o., Brno, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Honeywell International s.r.o., Brno, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210120083"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5085476423",
+        "display_name": "Michał Sójka",
+        "orcid": "https://orcid.org/0000-0002-8738-075X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Michal Sojka",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8738-075X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Praha 6, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5085476423"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I44504214"
+  ],
+  "apc_list": {
+    "value": 3160,
+    "currency": "USD",
+    "value_usd": 3160
+  },
+  "apc_paid": {
+    "value": 3160,
+    "currency": "USD",
+    "value_usd": 3160
+  },
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.07845105,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "203",
+    "issue": null,
+    "first_page": "105107",
+    "last_page": "105107"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11005",
+    "display_name": "Radiation Effects in Electronics",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11005",
+      "display_name": "Radiation Effects in Electronics",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10904",
+      "display_name": "Embedded Systems Design Techniques",
+      "score": 0.989300012588501,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10933",
+      "display_name": "Real-Time Systems Scheduling",
+      "score": 0.9837999939918518,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/avionics",
+      "display_name": "Avionics",
+      "score": 0.8962674736976624
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.85439133644104
+    },
+    {
+      "id": "https://openalex.org/keywords/mpsoc",
+      "display_name": "MPSoC",
+      "score": 0.4923902750015259
+    },
+    {
+      "id": "https://openalex.org/keywords/life-critical-system",
+      "display_name": "Life-critical system",
+      "score": 0.46073979139328003
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.4556863307952881
+    },
+    {
+      "id": "https://openalex.org/keywords/parallel-computing",
+      "display_name": "Parallel computing",
+      "score": 0.36280012130737305
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.22389647364616394
+    },
+    {
+      "id": "https://openalex.org/keywords/system-on-a-chip",
+      "display_name": "System on a chip",
+      "score": 0.20484378933906555
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.08450919389724731
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15792166",
+      "wikidata": "https://www.wikidata.org/wiki/Q221329",
+      "display_name": "Avionics",
+      "level": 2,
+      "score": 0.8962674736976624
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.85439133644104
+    },
+    {
+      "id": "https://openalex.org/C2777187653",
+      "wikidata": "https://www.wikidata.org/wiki/Q975106",
+      "display_name": "MPSoC",
+      "level": 3,
+      "score": 0.4923902750015259
+    },
+    {
+      "id": "https://openalex.org/C163707989",
+      "wikidata": "https://www.wikidata.org/wiki/Q1996307",
+      "display_name": "Life-critical system",
+      "level": 3,
+      "score": 0.46073979139328003
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.4556863307952881
+    },
+    {
+      "id": "https://openalex.org/C173608175",
+      "wikidata": "https://www.wikidata.org/wiki/Q232661",
+      "display_name": "Parallel computing",
+      "level": 1,
+      "score": 0.36280012130737305
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.22389647364616394
+    },
+    {
+      "id": "https://openalex.org/C118021083",
+      "wikidata": "https://www.wikidata.org/wiki/Q610398",
+      "display_name": "System on a chip",
+      "level": 2,
+      "score": 0.20484378933906555
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.08450919389724731
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jpdc.2025.105107",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jpdc.2025.105107",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S157146593",
+        "display_name": "Journal of Parallel and Distributed Computing",
+        "issn_l": "0743-7315",
+        "issn": [
+          "0743-7315",
+          "1096-0848"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Parallel and Distributed Computing",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:arXiv.org:2505.22214",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2505.22214",
+      "pdf_url": "https://arxiv.org/pdf/2505.22214",
+      "source": {
+        "id": "https://openalex.org/S4393918464",
+        "display_name": "ArXiv.org",
+        "issn_l": "2331-8422",
+        "issn": [
+          "2331-8422"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.jpdc.2025.105107",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jpdc.2025.105107",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S157146593",
+      "display_name": "Journal of Parallel and Distributed Computing",
+      "issn_l": "0743-7315",
+      "issn": [
+        "0743-7315",
+        "1096-0848"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Parallel and Distributed Computing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.7099999785423279,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1658366562",
+      "display_name": null,
+      "funder_award_id": "GACR 22-31670S",
+      "funder_id": "https://openalex.org/F4320321006",
+      "funder_display_name": "Grantová Agentura České Republiky"
+    },
+    {
+      "id": "https://openalex.org/G2387370122",
+      "display_name": null,
+      "funder_award_id": "GACR 25-17904S",
+      "funder_id": "https://openalex.org/F4320321006",
+      "funder_display_name": "Grantová Agentura České Republiky"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320321005",
+      "display_name": "Ministerstvo Školství, Mládeže a Tělovýchovy",
+      "ror": "https://ror.org/037n8p820"
+    },
+    {
+      "id": "https://openalex.org/F4320321006",
+      "display_name": "Grantová Agentura České Republiky",
+      "ror": "https://ror.org/01pv73b02"
+    },
+    {
+      "id": "https://openalex.org/F4320330232",
+      "display_name": "Sorbonne Université",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 77,
+  "referenced_works": [
+    "https://openalex.org/W2000466805",
+    "https://openalex.org/W2009360662",
+    "https://openalex.org/W2011039300",
+    "https://openalex.org/W2028665553",
+    "https://openalex.org/W2055433515",
+    "https://openalex.org/W2056370048",
+    "https://openalex.org/W2067500286",
+    "https://openalex.org/W2081731488",
+    "https://openalex.org/W2129960401",
+    "https://openalex.org/W2148779812",
+    "https://openalex.org/W2171208690",
+    "https://openalex.org/W2216291948",
+    "https://openalex.org/W2226422181",
+    "https://openalex.org/W2334518884",
+    "https://openalex.org/W2335198028",
+    "https://openalex.org/W2344837812",
+    "https://openalex.org/W2565322580",
+    "https://openalex.org/W2591845008",
+    "https://openalex.org/W2593886493",
+    "https://openalex.org/W2618240326",
+    "https://openalex.org/W2739564999",
+    "https://openalex.org/W2762037572",
+    "https://openalex.org/W2765921558",
+    "https://openalex.org/W2767234471",
+    "https://openalex.org/W2767247349",
+    "https://openalex.org/W2790442549",
+    "https://openalex.org/W2792891771",
+    "https://openalex.org/W2799373657",
+    "https://openalex.org/W2809665009",
+    "https://openalex.org/W2886425293",
+    "https://openalex.org/W2909318183",
+    "https://openalex.org/W2910207760",
+    "https://openalex.org/W2912928199",
+    "https://openalex.org/W2913148022",
+    "https://openalex.org/W2955639694",
+    "https://openalex.org/W2966669999",
+    "https://openalex.org/W2979310116",
+    "https://openalex.org/W2979866182",
+    "https://openalex.org/W2990409091",
+    "https://openalex.org/W2997987659",
+    "https://openalex.org/W3014553417",
+    "https://openalex.org/W3047350978",
+    "https://openalex.org/W3057255048",
+    "https://openalex.org/W3127404227",
+    "https://openalex.org/W3127969030",
+    "https://openalex.org/W3167204903",
+    "https://openalex.org/W3211343636",
+    "https://openalex.org/W4210749966",
+    "https://openalex.org/W4224330398",
+    "https://openalex.org/W4232191208",
+    "https://openalex.org/W4241572126",
+    "https://openalex.org/W4244887343",
+    "https://openalex.org/W4250179052",
+    "https://openalex.org/W4250999108",
+    "https://openalex.org/W4254669755",
+    "https://openalex.org/W4285550643",
+    "https://openalex.org/W4300213811",
+    "https://openalex.org/W4301485103",
+    "https://openalex.org/W4379644813",
+    "https://openalex.org/W4384521419",
+    "https://openalex.org/W4392250576",
+    "https://openalex.org/W4396854479",
+    "https://openalex.org/W6632521089",
+    "https://openalex.org/W6644557885",
+    "https://openalex.org/W6644723608",
+    "https://openalex.org/W6665248527",
+    "https://openalex.org/W6667086978",
+    "https://openalex.org/W6672710132",
+    "https://openalex.org/W6678491983",
+    "https://openalex.org/W6748867134",
+    "https://openalex.org/W6763396263",
+    "https://openalex.org/W6779407877",
+    "https://openalex.org/W6784611185",
+    "https://openalex.org/W6796469380",
+    "https://openalex.org/W6801831146",
+    "https://openalex.org/W6810218602",
+    "https://openalex.org/W6847077796"
+  ],
+  "related_works": [
+    "https://openalex.org/W2262476182",
+    "https://openalex.org/W2110564838",
+    "https://openalex.org/W1544976691",
+    "https://openalex.org/W2154106283",
+    "https://openalex.org/W2978816602",
+    "https://openalex.org/W2214202562",
+    "https://openalex.org/W2966924249",
+    "https://openalex.org/W2006932449",
+    "https://openalex.org/W2199167515",
+    "https://openalex.org/W2140773114"
+  ],
+  "abstract_inverted_index": {
+    "Multi-Processor": [
+      0
+    ],
+    "Systems-on-Chip": [
+      1
+    ],
+    "(MPSoC)": [
+      2
+    ],
+    "can": [
+      3
+    ],
+    "deliver": [
+      4
+    ],
+    "high": [
+      5,
+      16
+    ],
+    "performance": [
+      6
+    ],
+    "needed": [
+      7
+    ],
+    "in": [
+      8,
+      53,
+      74,
+      103
+    ],
+    "many": [
+      9
+    ],
+    "industrial": [
+      10
+    ],
+    "domains,": [
+      11
+    ],
+    "including": [
+      12
+    ],
+    "aerospace.": [
+      13
+    ],
+    "However,": [
+      14
+    ],
+    "their": [
+      15
+    ],
+    "power": [
+      17,
+      113,
+      183
+    ],
+    "consumption": [
+      18
+    ],
+    ",": [
+      19,
+      25,
+      92
+    ],
+    "combined": [
+      20
+    ],
+    "with": [
+      21,
+      185
+    ],
+    "avionics": [
+      22
+    ],
+    "safety": [
+      23
+    ],
+    "standards": [
+      24
+    ],
+    "brings": [
+      26
+    ],
+    "new": [
+      27,
+      89
+    ],
+    "thermal": [
+      28
+    ],
+    "management": [
+      29
+    ],
+    "challenges.": [
+      30
+    ],
+    "This": [
+      31
+    ],
+    "paper": [
+      32
+    ],
+    "investigates": [
+      33
+    ],
+    "techniques": [
+      34
+    ],
+    "for": [
+      35
+    ],
+    "offline": [
+      36
+    ],
+    "thermal-aware": [
+      37
+    ],
+    "allocation": [
+      38
+    ],
+    "of": [
+      39,
+      62,
+      156
+    ],
+    "periodic": [
+      40
+    ],
+    "tasks": [
+      41,
+      63
+    ],
+    "on": [
+      42,
+      124,
+      139,
+      192
+    ],
+    "heterogeneous": [
+      43
+    ],
+    "MPSoCs": [
+      44
+    ],
+    "running": [
+      45
+    ],
+    "at": [
+      46
+    ],
+    "a": [
+      47,
+      88,
+      126,
+      154,
+      167
+    ],
+    "fixed": [
+      48
+    ],
+    "clock": [
+      49
+    ],
+    "frequency,": [
+      50
+    ],
+    "as": [
+      51,
+      72
+    ],
+    "required": [
+      52,
+      73
+    ],
+    "avionics.": [
+      54
+    ],
+    "The": [
+      55
+    ],
+    "goal": [
+      56
+    ],
+    "is": [
+      57
+    ],
+    "to": [
+      58,
+      64,
+      158,
+      166
+    ],
+    "find": [
+      59
+    ],
+    "the": [
+      60,
+      80,
+      136,
+      162,
+      171,
+      181,
+      186,
+      189
+    ],
+    "assignment": [
+      61
+    ],
+    "(i)": [
+      65
+    ],
+    "cores": [
+      66
+    ],
+    "and": [
+      67,
+      97,
+      110,
+      115,
+      129,
+      152
+    ],
+    "(ii)": [
+      68
+    ],
+    "temporal": [
+      69
+    ],
+    "isolation": [
+      70
+    ],
+    "windows,": [
+      71
+    ],
+    "ARINC": [
+      75
+    ],
+    "653": [
+      76
+    ],
+    "standard,": [
+      77
+    ],
+    "while": [
+      78
+    ],
+    "minimizing": [
+      79
+    ],
+    "MPSoC": [
+      81,
+      142
+    ],
+    "temperature.": [
+      82
+    ],
+    "To": [
+      83
+    ],
+    "achieve": [
+      84
+    ],
+    "that,": [
+      85
+    ],
+    "we": [
+      86,
+      93,
+      98,
+      108
+    ],
+    "formulate": [
+      87
+    ],
+    "optimization": [
+      90,
+      121
+    ],
+    "problem": [
+      91
+    ],
+    "derive": [
+      94
+    ],
+    "its": [
+      95,
+      100
+    ],
+    "NP-hardness,": [
+      96
+    ],
+    "identify": [
+      99
+    ],
+    "subproblem": [
+      101
+    ],
+    "solvable": [
+      102
+    ],
+    "polynomial": [
+      104
+    ],
+    "time": [
+      105
+    ],
+    ".": [
+      106
+    ],
+    "Furthermore,": [
+      107
+    ],
+    "propose": [
+      109
+    ],
+    "analyze": [
+      111
+    ],
+    "three": [
+      112,
+      140
+    ],
+    "models,": [
+      114
+    ],
+    "integrate": [
+      116
+    ],
+    "them": [
+      117
+    ],
+    "within": [
+      118
+    ],
+    "several": [
+      119
+    ],
+    "novel": [
+      120
+    ],
+    "approaches": [
+      122
+    ],
+    "based": [
+      123
+    ],
+    "heuristics,": [
+      125
+    ],
+    "black-box": [
+      127
+    ],
+    "optimizer,": [
+      128
+    ],
+    "Integer": [
+      130
+    ],
+    "Linear": [
+      131
+    ],
+    "Programming": [
+      132
+    ],
+    "(ILP).": [
+      133
+    ],
+    "We": [
+      134,
+      174
+    ],
+    "perform": [
+      135
+    ],
+    "experimental": [
+      137
+    ],
+    "evaluation": [
+      138
+    ],
+    "popular": [
+      141
+    ],
+    "platforms": [
+      143
+    ],
+    "(NXP": [
+      144
+    ],
+    "i.MX8QM": [
+      145,
+      148
+    ],
+    "MEK,": [
+      146
+    ],
+    "NXP": [
+      147
+    ],
+    "Ixora,": [
+      149
+    ],
+    "NVIDIA": [
+      150
+    ],
+    "TX2)": [
+      151
+    ],
+    "observe": [
+      153
+    ],
+    "difference": [
+      155
+    ],
+    "up": [
+      157
+    ],
+    "5.5": [
+      159
+    ],
+    "°C": [
+      160
+    ],
+    "among": [
+      161
+    ],
+    "tested": [
+      163,
+      194
+    ],
+    "methods": [
+      164,
+      191
+    ],
+    "(corresponding": [
+      165
+    ],
+    "22%": [
+      168
+    ],
+    "reduction": [
+      169
+    ],
+    "w.r.t.": [
+      170
+    ],
+    "ambient": [
+      172
+    ],
+    "temperature).": [
+      173
+    ],
+    "also": [
+      175
+    ],
+    "show": [
+      176
+    ],
+    "that": [
+      177
+    ],
+    "our": [
+      178
+    ],
+    "method,": [
+      179
+    ],
+    "integrating": [
+      180
+    ],
+    "empirical": [
+      182
+    ],
+    "model": [
+      184
+    ],
+    "ILP,": [
+      187
+    ],
+    "outperforms": [
+      188
+    ],
+    "other": [
+      190
+    ],
+    "all": [
+      193
+    ],
+    "platforms.": [
+      195
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-14T06:11:07.267592",
+  "created_date": "2025-05-21T00:00:00"
+}

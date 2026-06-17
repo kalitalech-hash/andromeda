@@ -1,0 +1,673 @@
+{
+  "id": "https://openalex.org/W4361194109",
+  "doi": "https://doi.org/10.48550/arxiv.2303.15194",
+  "title": "Online Ramsey numbers: Long versus short cycles",
+  "display_name": "Online Ramsey numbers: Long versus short cycles",
+  "publication_year": 2023,
+  "publication_date": "2023-03-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4361194109",
+    "doi": "https://doi.org/10.48550/arxiv.2303.15194"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2303.15194",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2303.15194",
+    "pdf_url": "https://arxiv.org/pdf/2303.15194",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2303.15194",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083585343",
+        "display_name": "Grzegorz Adamski",
+        "orcid": "https://orcid.org/0000-0003-0381-0351"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Adamski, Grzegorz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017542027",
+        "display_name": "Małgorzata Bednarska-Bzdȩga",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bednarska-Bzdȩga, Małgorzata",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040350131",
+        "display_name": "Václav Blažej",
+        "orcid": "https://orcid.org/0000-0001-9165-6280"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Blažej, Václav",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12002",
+    "display_name": "Computability, Logic, AI Algorithms",
+    "score": 0.9954000115394592,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1703",
+      "display_name": "Computational Theory and Mathematics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12002",
+      "display_name": "Computability, Logic, AI Algorithms",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11151",
+      "display_name": "Advanced Topology and Set Theory",
+      "score": 0.9951000213623047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2608",
+        "display_name": "Geometry and Topology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11329",
+      "display_name": "Limits and Structures in Graph Theory",
+      "score": 0.9925000071525574,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2607",
+        "display_name": "Discrete Mathematics and Combinatorics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/combinatorics",
+      "display_name": "Combinatorics",
+      "score": 0.758929967880249
+    },
+    {
+      "id": "https://openalex.org/keywords/ramseys-theorem",
+      "display_name": "Ramsey's theorem",
+      "score": 0.703895628452301
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.4434424936771393
+    },
+    {
+      "id": "https://openalex.org/keywords/constant",
+      "display_name": "Constant (computer programming)",
+      "score": 0.41200676560401917
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.12016510963439941
+    },
+    {
+      "id": "https://openalex.org/keywords/graph",
+      "display_name": "Graph",
+      "score": 0.06311184167861938
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C114614502",
+      "wikidata": "https://www.wikidata.org/wiki/Q76592",
+      "display_name": "Combinatorics",
+      "level": 1,
+      "score": 0.758929967880249
+    },
+    {
+      "id": "https://openalex.org/C44115641",
+      "wikidata": "https://www.wikidata.org/wiki/Q918099",
+      "display_name": "Ramsey's theorem",
+      "level": 3,
+      "score": 0.703895628452301
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.4434424936771393
+    },
+    {
+      "id": "https://openalex.org/C2777027219",
+      "wikidata": "https://www.wikidata.org/wiki/Q1284190",
+      "display_name": "Constant (computer programming)",
+      "level": 2,
+      "score": 0.41200676560401917
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.12016510963439941
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.06311184167861938
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2303.15194",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2303.15194",
+      "pdf_url": "https://arxiv.org/pdf/2303.15194",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2303.15194",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2303.15194",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2303.15194",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2303.15194",
+    "pdf_url": "https://arxiv.org/pdf/2303.15194",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4361194109.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4361194109.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W1561903201",
+    "https://openalex.org/W2570467228",
+    "https://openalex.org/W2043020651",
+    "https://openalex.org/W2990545556",
+    "https://openalex.org/W2018966352",
+    "https://openalex.org/W1970497402",
+    "https://openalex.org/W2101126588",
+    "https://openalex.org/W2949154825",
+    "https://openalex.org/W4289744161"
+  ],
+  "abstract_inverted_index": {
+    "Online": [
+      0
+    ],
+    "Ramsey": [
+      1,
+      67
+    ],
+    "game": [
+      2
+    ],
+    "is": [
+      3,
+      70,
+      86,
+      90,
+      104,
+      111
+    ],
+    "played": [
+      4
+    ],
+    "between": [
+      5
+    ],
+    "Builder": [
+      6,
+      18,
+      36,
+      79
+    ],
+    "and": [
+      7,
+      34,
+      59,
+      88
+    ],
+    "Painter": [
+      8,
+      23,
+      60
+    ],
+    "on": [
+      9
+    ],
+    "an": [
+      10,
+      20,
+      98
+    ],
+    "infinite": [
+      11
+    ],
+    "board": [
+      12
+    ],
+    "$K_{\\mathbb": [
+      13,
+      53
+    ],
+    "N}$.": [
+      14
+    ],
+    "In": [
+      15
+    ],
+    "every": [
+      16
+    ],
+    "round": [
+      17
+    ],
+    "selects": [
+      19
+    ],
+    "edge,": [
+      21
+    ],
+    "then": [
+      22
+    ],
+    "colors": [
+      24
+    ],
+    "it": [
+      25
+    ],
+    "red": [
+      26,
+      42
+    ],
+    "or": [
+      27,
+      46
+    ],
+    "blue.": [
+      28
+    ],
+    "Both": [
+      29
+    ],
+    "know": [
+      30
+    ],
+    "target": [
+      31
+    ],
+    "graphs": [
+      32
+    ],
+    "$H_1$": [
+      33,
+      45
+    ],
+    "$H_2$.": [
+      35
+    ],
+    "aims": [
+      37
+    ],
+    "to": [
+      38,
+      62
+    ],
+    "create": [
+      39
+    ],
+    "either": [
+      40
+    ],
+    "a": [
+      41,
+      47
+    ],
+    "copy": [
+      43,
+      49
+    ],
+    "of": [
+      44,
+      50,
+      74
+    ],
+    "blue": [
+      48
+    ],
+    "$H_2$": [
+      51
+    ],
+    "in": [
+      52
+    ],
+    "N}$": [
+      54
+    ],
+    "as": [
+      55,
+      57
+    ],
+    "soon": [
+      56
+    ],
+    "possible,": [
+      58
+    ],
+    "tries": [
+      61
+    ],
+    "prevent": [
+      63
+    ],
+    "it.": [
+      64
+    ],
+    "The": [
+      65
+    ],
+    "online": [
+      66
+    ],
+    "number": [
+      68,
+      73
+    ],
+    "$\\tilde{r}(H_1,H_2)$": [
+      69
+    ],
+    "the": [
+      71,
+      78
+    ],
+    "minimum": [
+      72
+    ],
+    "rounds": [
+      75
+    ],
+    "such": [
+      76
+    ],
+    "that": [
+      77,
+      94
+    ],
+    "wins.": [
+      80
+    ],
+    "We": [
+      81,
+      92
+    ],
+    "study": [
+      82
+    ],
+    "$\\tilde{r}(C_k,C_n)$": [
+      83
+    ],
+    "where": [
+      84
+    ],
+    "$k$": [
+      85,
+      103,
+      110
+    ],
+    "fixed": [
+      87
+    ],
+    "$n$": [
+      89
+    ],
+    "large.": [
+      91
+    ],
+    "show": [
+      93
+    ],
+    "$\\tilde{r}(C_k,C_n)=2n+\\mathcal": [
+      95
+    ],
+    "O(k)$": [
+      96
+    ],
+    "for": [
+      97
+    ],
+    "absolute": [
+      99
+    ],
+    "constant": [
+      100
+    ],
+    "$c$": [
+      101
+    ],
+    "if": [
+      102,
+      109
+    ],
+    "even,": [
+      105
+    ],
+    "while": [
+      106
+    ],
+    "$\\tilde{r}(C_k,C_n)\\le": [
+      107
+    ],
+    "3n+o(n)$": [
+      108
+    ],
+    "odd.": [
+      112
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,828 @@
+{
+  "id": "https://openalex.org/W7162947147",
+  "doi": "https://doi.org/10.21203/rs.3.rs-9846230/v1",
+  "title": "Gene expression remodeling, poly(A) tail regulation and alternative splicing define transcriptomic responses to microplastic exposure in the liverwort Riccia fluitans",
+  "display_name": "Gene expression remodeling, poly(A) tail regulation and alternative splicing define transcriptomic responses to microplastic exposure in the liverwort Riccia fluitans",
+  "publication_year": 2026,
+  "publication_date": "2026-05-31",
+  "ids": {
+    "openalex": "https://openalex.org/W7162947147",
+    "doi": "https://doi.org/10.21203/rs.3.rs-9846230/v1"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.21203/rs.3.rs-9846230/v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21203/rs.3.rs-9846230/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-9846230/latest.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306525896",
+      "display_name": "Research Square",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "Research Square",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.researchsquare.com/article/rs-9846230/latest.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5137501609",
+        "display_name": "Lukasz Paukszto",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lukasz Paukszto",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5136703280",
+        "display_name": "Mateusz Maździarz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mateusz Mazdziarz",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037701848",
+        "display_name": "Aleksandra Weiss",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Weiss",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5137506282",
+        "display_name": "Oskar Brzostek",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Oskar Brzostek",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112247894",
+        "display_name": "Joanna Szablińska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joanna Szablińska",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035649219",
+        "display_name": "Jarosław Całka",
+        "orcid": "https://orcid.org/0000-0003-4679-5737"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jarosław Calka",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016569178",
+        "display_name": "Katarzyna Głowacka",
+        "orcid": "https://orcid.org/0000-0002-3649-4669"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Głowacka",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079690517",
+        "display_name": "Pawel Sulima",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paweł Sulima",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5064951049",
+        "display_name": "Katarzyna Krawczyk",
+        "orcid": "https://orcid.org/0009-0005-7250-5416"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Krawczyk",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury in Olsztyn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury in Olsztyn",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10753",
+    "display_name": "Microplastics and Plastic Pollution",
+    "score": 0.9207000136375427,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2310",
+      "display_name": "Pollution"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10753",
+      "display_name": "Microplastics and Plastic Pollution",
+      "score": 0.9207000136375427,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2310",
+        "display_name": "Pollution"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10661",
+      "display_name": "biodegradable polymer synthesis and properties",
+      "score": 0.053300000727176666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2502",
+        "display_name": "Biomaterials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10079",
+      "display_name": "Nanoparticles: synthesis and applications",
+      "score": 0.004900000058114529,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/transcriptome",
+      "display_name": "Transcriptome",
+      "score": 0.9171000123023987
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-splicing",
+      "display_name": "Alternative splicing",
+      "score": 0.8489999771118164
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.6341999769210815
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.6302000284194946
+    },
+    {
+      "id": "https://openalex.org/keywords/abiotic-component",
+      "display_name": "Abiotic component",
+      "score": 0.5629000067710876
+    },
+    {
+      "id": "https://openalex.org/keywords/abiotic-stress",
+      "display_name": "Abiotic stress",
+      "score": 0.5126000046730042
+    },
+    {
+      "id": "https://openalex.org/keywords/rna-splicing",
+      "display_name": "RNA splicing",
+      "score": 0.4832000136375427
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C162317418",
+      "wikidata": "https://www.wikidata.org/wiki/Q252857",
+      "display_name": "Transcriptome",
+      "level": 4,
+      "score": 0.9171000123023987
+    },
+    {
+      "id": "https://openalex.org/C194583182",
+      "wikidata": "https://www.wikidata.org/wiki/Q21114084",
+      "display_name": "Alternative splicing",
+      "level": 4,
+      "score": 0.8489999771118164
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.7616999745368958
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.6341999769210815
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.6302000284194946
+    },
+    {
+      "id": "https://openalex.org/C132215390",
+      "wikidata": "https://www.wikidata.org/wiki/Q461335",
+      "display_name": "Abiotic component",
+      "level": 2,
+      "score": 0.5629000067710876
+    },
+    {
+      "id": "https://openalex.org/C89519541",
+      "wikidata": "https://www.wikidata.org/wiki/Q4667893",
+      "display_name": "Abiotic stress",
+      "level": 3,
+      "score": 0.5126000046730042
+    },
+    {
+      "id": "https://openalex.org/C54458228",
+      "wikidata": "https://www.wikidata.org/wiki/Q237218",
+      "display_name": "RNA splicing",
+      "level": 4,
+      "score": 0.4832000136375427
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.4740000069141388
+    },
+    {
+      "id": "https://openalex.org/C165864922",
+      "wikidata": "https://www.wikidata.org/wiki/Q411391",
+      "display_name": "Regulation of gene expression",
+      "level": 3,
+      "score": 0.44999998807907104
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.4260999858379364
+    },
+    {
+      "id": "https://openalex.org/C53345823",
+      "wikidata": "https://www.wikidata.org/wiki/Q5531554",
+      "display_name": "Gene isoform",
+      "level": 3,
+      "score": 0.38510000705718994
+    },
+    {
+      "id": "https://openalex.org/C105580179",
+      "wikidata": "https://www.wikidata.org/wiki/Q188928",
+      "display_name": "Messenger RNA",
+      "level": 3,
+      "score": 0.28619998693466187
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.2736999988555908
+    },
+    {
+      "id": "https://openalex.org/C41091548",
+      "wikidata": "https://www.wikidata.org/wiki/Q26939",
+      "display_name": "Epigenetics",
+      "level": 3,
+      "score": 0.2662999927997589
+    },
+    {
+      "id": "https://openalex.org/C78604142",
+      "wikidata": "https://www.wikidata.org/wiki/Q1640582",
+      "display_name": "Fight-or-flight response",
+      "level": 3,
+      "score": 0.2630000114440918
+    },
+    {
+      "id": "https://openalex.org/C67339327",
+      "wikidata": "https://www.wikidata.org/wiki/Q1502576",
+      "display_name": "Gene regulatory network",
+      "level": 4,
+      "score": 0.2565999925136566
+    },
+    {
+      "id": "https://openalex.org/C18431079",
+      "wikidata": "https://www.wikidata.org/wiki/Q1502169",
+      "display_name": "Gene expression profiling",
+      "level": 4,
+      "score": 0.251800000667572
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.21203/rs.3.rs-9846230/v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.21203/rs.3.rs-9846230/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-9846230/latest.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306525896",
+        "display_name": "Research Square",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "Research Square",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.21203/rs.3.rs-9846230/v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21203/rs.3.rs-9846230/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-9846230/latest.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306525896",
+      "display_name": "Research Square",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "Research Square",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "display_name": "Life in Land",
+      "score": 0.5198963284492493
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7162947147.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7162947147.grobid-xml"
+  },
+  "referenced_works_count": 104,
+  "referenced_works": [
+    "https://openalex.org/W1970411753",
+    "https://openalex.org/W1979264410",
+    "https://openalex.org/W1991437387",
+    "https://openalex.org/W1997837172",
+    "https://openalex.org/W1998422171",
+    "https://openalex.org/W2031628770",
+    "https://openalex.org/W2038402383",
+    "https://openalex.org/W2047840582",
+    "https://openalex.org/W2050058457",
+    "https://openalex.org/W2059307161",
+    "https://openalex.org/W2066490330",
+    "https://openalex.org/W2083188895",
+    "https://openalex.org/W2092775357",
+    "https://openalex.org/W2100516856",
+    "https://openalex.org/W2102619694",
+    "https://openalex.org/W2105434771",
+    "https://openalex.org/W2109322710",
+    "https://openalex.org/W2111273961",
+    "https://openalex.org/W2116486533",
+    "https://openalex.org/W2117029558",
+    "https://openalex.org/W2118594256",
+    "https://openalex.org/W2122779949",
+    "https://openalex.org/W2124195685",
+    "https://openalex.org/W2139172445",
+    "https://openalex.org/W2140029761",
+    "https://openalex.org/W2140648299",
+    "https://openalex.org/W2142678478",
+    "https://openalex.org/W2147149363",
+    "https://openalex.org/W2151434899",
+    "https://openalex.org/W2151882908",
+    "https://openalex.org/W2159745811",
+    "https://openalex.org/W2165535624",
+    "https://openalex.org/W2179438025",
+    "https://openalex.org/W2276469967",
+    "https://openalex.org/W2407539780",
+    "https://openalex.org/W2511565606",
+    "https://openalex.org/W2559700437",
+    "https://openalex.org/W2590129118",
+    "https://openalex.org/W2737217596",
+    "https://openalex.org/W2766646187",
+    "https://openalex.org/W2767360874",
+    "https://openalex.org/W2789843538",
+    "https://openalex.org/W2808926288",
+    "https://openalex.org/W2884151472",
+    "https://openalex.org/W2887020392",
+    "https://openalex.org/W2901636951",
+    "https://openalex.org/W2903167102",
+    "https://openalex.org/W2913920991",
+    "https://openalex.org/W2918086501",
+    "https://openalex.org/W2918895016",
+    "https://openalex.org/W2955307819",
+    "https://openalex.org/W2969917527",
+    "https://openalex.org/W2983967505",
+    "https://openalex.org/W2983998730",
+    "https://openalex.org/W2986319014",
+    "https://openalex.org/W2993400451",
+    "https://openalex.org/W3003948818",
+    "https://openalex.org/W3007326911",
+    "https://openalex.org/W3012949208",
+    "https://openalex.org/W3034345893",
+    "https://openalex.org/W3041084130",
+    "https://openalex.org/W3043027466",
+    "https://openalex.org/W3045105354",
+    "https://openalex.org/W3045759301",
+    "https://openalex.org/W3120926981",
+    "https://openalex.org/W3130470372",
+    "https://openalex.org/W3153671369",
+    "https://openalex.org/W3159598552",
+    "https://openalex.org/W3171302126",
+    "https://openalex.org/W3175435983",
+    "https://openalex.org/W3205887615",
+    "https://openalex.org/W3208458453",
+    "https://openalex.org/W4205361590",
+    "https://openalex.org/W4223500545",
+    "https://openalex.org/W4229061945",
+    "https://openalex.org/W4233582454",
+    "https://openalex.org/W4254687493",
+    "https://openalex.org/W4281289515",
+    "https://openalex.org/W4282044350",
+    "https://openalex.org/W4285244054",
+    "https://openalex.org/W4285498110",
+    "https://openalex.org/W4296124661",
+    "https://openalex.org/W4306930763",
+    "https://openalex.org/W4309077242",
+    "https://openalex.org/W4313477970",
+    "https://openalex.org/W4317553434",
+    "https://openalex.org/W4318199980",
+    "https://openalex.org/W4318898003",
+    "https://openalex.org/W4320167873",
+    "https://openalex.org/W4320896021",
+    "https://openalex.org/W4379468213",
+    "https://openalex.org/W4387420792",
+    "https://openalex.org/W4388997317",
+    "https://openalex.org/W4396640609",
+    "https://openalex.org/W4396935292",
+    "https://openalex.org/W4399386296",
+    "https://openalex.org/W4401619357",
+    "https://openalex.org/W4403054249",
+    "https://openalex.org/W4404110366",
+    "https://openalex.org/W4404160884",
+    "https://openalex.org/W4405996382",
+    "https://openalex.org/W4406160929",
+    "https://openalex.org/W4406824106",
+    "https://openalex.org/W4410028287"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2026-06-01T00:00:00"
+}

@@ -1,0 +1,953 @@
+{
+  "id": "https://openalex.org/W4394037727",
+  "doi": "https://doi.org/10.5281/zenodo.8340378",
+  "title": "ASSIST-IoT Multimodal Fall Detection Dataset",
+  "display_name": "ASSIST-IoT Multimodal Fall Detection Dataset",
+  "publication_year": 2023,
+  "publication_date": "2023-09-13",
+  "ids": {
+    "openalex": "https://openalex.org/W4394037727",
+    "doi": "https://doi.org/10.5281/zenodo.8340378"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5281/zenodo.8340378",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.8340378",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "dataset"
+  },
+  "type": "dataset",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.5281/zenodo.8340378",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088868361",
+        "display_name": "Anastasiya Danilenka",
+        "orcid": "https://orcid.org/0000-0002-3080-0303"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Danilenka, Anastasiya",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3080-0303",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069048632",
+        "display_name": "Piotr Sowiński",
+        "orcid": "https://orcid.org/0000-0002-2543-9461"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sowiński, Piotr",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2543-9461",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068091156",
+        "display_name": "Monika Kobus",
+        "orcid": "https://orcid.org/0000-0003-3217-1050"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139689",
+          "display_name": "Central Institute for Labour Protection",
+          "ror": "https://ror.org/03x0yya69",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kobus, Monika",
+      "raw_affiliation_strings": [
+        "Central Institute for Labour Protection – National Research Institute, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3217-1050",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Central Institute for Labour Protection – National Research Institute, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015442520",
+        "display_name": "Anna Dąbrowska",
+        "orcid": "https://orcid.org/0000-0003-4295-3005"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139689",
+          "display_name": "Central Institute for Labour Protection",
+          "ror": "https://ror.org/03x0yya69",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dąbrowska, Anna",
+      "raw_affiliation_strings": [
+        "Central Institute for Labour Protection – National Research Institute, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4295-3005",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Central Institute for Labour Protection – National Research Institute, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046534919",
+        "display_name": "Kajetan Rachwał",
+        "orcid": "https://orcid.org/0000-0003-1524-7877"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rachwał, Kajetan",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1524-7877",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bogacka, Karolina",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7109-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5063165133",
+        "display_name": "Krzysztof Baszczyński",
+        "orcid": "https://orcid.org/0000-0002-9572-2705"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139689",
+          "display_name": "Central Institute for Labour Protection",
+          "ror": "https://ror.org/03x0yya69",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Baszczyński, Krzysztof",
+      "raw_affiliation_strings": [
+        "Central Institute for Labour Protection – National Research Institute, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9572-2705",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Central Institute for Labour Protection – National Research Institute, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210139689"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10444",
+    "display_name": "Context-Aware Activity Recognition Systems",
+    "score": 0.9764999747276306,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1707",
+      "display_name": "Computer Vision and Pattern Recognition"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10444",
+      "display_name": "Context-Aware Activity Recognition Systems",
+      "score": 0.9764999747276306,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11512",
+      "display_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9380000233650208,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/internet-of-things",
+      "display_name": "Internet of Things",
+      "score": 0.6510829925537109
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5978147387504578
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-security",
+      "display_name": "Computer security",
+      "score": 0.163109689950943
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C81860439",
+      "wikidata": "https://www.wikidata.org/wiki/Q251212",
+      "display_name": "Internet of Things",
+      "level": 2,
+      "score": 0.6510829925537109
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5978147387504578
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.163109689950943
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.5281/zenodo.8340378",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.8340378",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "dataset"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5281/zenodo.8340378",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.8340378",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "dataset"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W4245926026",
+    "https://openalex.org/W4311097251",
+    "https://openalex.org/W2586548817",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2625093826",
+    "https://openalex.org/W2950174689",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W4200598720"
+  ],
+  "abstract_inverted_index": {
+    "Multimodal": [
+      0
+    ],
+    "dataset": [
+      1,
+      61,
+      182
+    ],
+    "for": [
+      2,
+      63,
+      83,
+      166,
+      177
+    ],
+    "fall": [
+      3
+    ],
+    "detection.": [
+      4
+    ],
+    "Includes": [
+      5
+    ],
+    "acceleration": [
+      6,
+      42,
+      60
+    ],
+    "data": [
+      7,
+      25,
+      45,
+      77,
+      92,
+      101,
+      113,
+      125,
+      132,
+      178
+    ],
+    "collected": [
+      8
+    ],
+    "from": [
+      9,
+      46,
+      76,
+      149
+    ],
+    "a": [
+      10
+    ],
+    "tag": [
+      11
+    ],
+    "and": [
+      12,
+      15,
+      38,
+      43,
+      49,
+      74,
+      94,
+      134,
+      155,
+      175
+    ],
+    "two": [
+      13
+    ],
+    "smartwatches,": [
+      14
+    ],
+    "location": [
+      16,
+      44
+    ],
+    "reported": [
+      17
+    ],
+    "by": [
+      18
+    ],
+    "the": [
+      19,
+      24,
+      65,
+      142,
+      150,
+      186
+    ],
+    "tag.": [
+      20
+    ],
+    "More": [
+      21
+    ],
+    "details": [
+      22
+    ],
+    "about": [
+      23
+    ],
+    "collection": [
+      26,
+      78,
+      93,
+      102,
+      114,
+      126,
+      133
+    ],
+    "procedure": [
+      27
+    ],
+    "can": [
+      28
+    ],
+    "be": [
+      29
+    ],
+    "found": [
+      30
+    ],
+    "in": [
+      31
+    ],
+    "<code>notes.md</code>.": [
+      32
+    ],
+    "<strong>Contents</strong>": [
+      33
+    ],
+    "The": [
+      34,
+      163,
+      181
+    ],
+    "repository": [
+      35
+    ],
+    "contains:": [
+      36
+    ],
+    "<code>data/location_data.csv</code>": [
+      37
+    ],
+    "<code>data/full_acceleration</code>": [
+      39
+    ],
+    "–": [
+      40,
+      58,
+      69,
+      80,
+      89,
+      98,
+      105,
+      112,
+      117,
+      122,
+      129,
+      169
+    ],
+    "preprocessed": [
+      41
+    ],
+    "10": [
+      47
+    ],
+    "participants": [
+      48
+    ],
+    "mannequin": [
+      50
+    ],
+    "simulated": [
+      51
+    ],
+    "falls": [
+      52
+    ],
+    "with": [
+      53
+    ],
+    "target": [
+      54
+    ],
+    "variable": [
+      55
+    ],
+    "identified": [
+      56
+    ],
+    "<code>data/subsampled_acceleration_data.csv</code>": [
+      57
+    ],
+    "subsampled": [
+      59
+    ],
+    "used": [
+      62
+    ],
+    "training": [
+      64
+    ],
+    "AI": [
+      66
+    ],
+    "model": [
+      67
+    ],
+    "<code>notes.md</code>": [
+      68
+    ],
+    "description": [
+      70
+    ],
+    "of": [
+      71,
+      141
+    ],
+    "activities": [
+      72,
+      85
+    ],
+    "performed": [
+      73,
+      84
+    ],
+    "notes": [
+      75
+    ],
+    "<code>videos</code>": [
+      79
+    ],
+    "reference": [
+      81
+    ],
+    "videos": [
+      82
+    ],
+    "<strong>Authors</strong>": [
+      86
+    ],
+    "Piotr": [
+      87
+    ],
+    "Sowiński": [
+      88
+    ],
+    "research": [
+      90,
+      99,
+      106,
+      118,
+      123,
+      130,
+      154
+    ],
+    "methodology,": [
+      91,
+      100,
+      107,
+      124,
+      131
+    ],
+    "processing": [
+      95,
+      135
+    ],
+    "Monika": [
+      96
+    ],
+    "Kobus": [
+      97
+    ],
+    "Anna": [
+      103
+    ],
+    "Dąbrowska": [
+      104
+    ],
+    "methodological": [
+      108
+    ],
+    "supervision": [
+      109
+    ],
+    "Kajetan": [
+      110
+    ],
+    "Rachwał": [
+      111
+    ],
+    "Karolina": [
+      115
+    ],
+    "Bogacka": [
+      116
+    ],
+    "methodology": [
+      119
+    ],
+    "Krzysztof": [
+      120
+    ],
+    "Baszczyński": [
+      121
+    ],
+    "Anastasiya": [
+      127
+    ],
+    "Danilenka": [
+      128
+    ],
+    "<strong>Acknowledgements</strong>": [
+      136
+    ],
+    "This": [
+      137
+    ],
+    "work": [
+      138
+    ],
+    "is": [
+      139,
+      183
+    ],
+    "part": [
+      140
+    ],
+    "ASSIST-IoT": [
+      143
+    ],
+    "project": [
+      144
+    ],
+    "that": [
+      145
+    ],
+    "has": [
+      146
+    ],
+    "received": [
+      147
+    ],
+    "funding": [
+      148
+    ],
+    "EU’s": [
+      151
+    ],
+    "Horizon": [
+      152
+    ],
+    "2020": [
+      153
+    ],
+    "innovation": [
+      156
+    ],
+    "programme": [
+      157
+    ],
+    "under": [
+      158,
+      185
+    ],
+    "grant": [
+      159
+    ],
+    "agreement": [
+      160
+    ],
+    "No": [
+      161
+    ],
+    "957258.": [
+      162
+    ],
+    "Central": [
+      164
+    ],
+    "Institute": [
+      165,
+      172
+    ],
+    "Labour": [
+      167
+    ],
+    "Protection": [
+      168
+    ],
+    "National": [
+      170
+    ],
+    "Research": [
+      171
+    ],
+    "provided": [
+      173
+    ],
+    "facilities": [
+      174
+    ],
+    "equipment": [
+      176
+    ],
+    "collection.": [
+      179
+    ],
+    "<strong>License</strong>": [
+      180
+    ],
+    "licensed": [
+      184
+    ],
+    "Creative": [
+      187
+    ],
+    "Commons": [
+      188
+    ],
+    "Attribution": [
+      189
+    ],
+    "4.0": [
+      190
+    ],
+    "International": [
+      191
+    ],
+    "License.": [
+      192
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1354 @@
+{
+  "id": "https://openalex.org/W4226401151",
+  "doi": "https://doi.org/10.1093/mnras/stac1008",
+  "title": "Asteroid phase curves using sparse <i>Gaia</i> DR2 data and differential dense light curves",
+  "display_name": "Asteroid phase curves using sparse <i>Gaia</i> DR2 data and differential dense light curves",
+  "publication_year": 2022,
+  "publication_date": "2022-04-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4226401151",
+    "doi": "https://doi.org/10.1093/mnras/stac1008"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1093/mnras/stac1008",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1093/mnras/stac1008",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S195663288",
+      "display_name": "Monthly Notices of the Royal Astronomical Society",
+      "issn_l": "0035-8711",
+      "issn": [
+        "0035-8711",
+        "1365-2966",
+        "1365-8711"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311648",
+      "host_organization_name": "Oxford University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311648",
+        "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+        "Oxford University Press",
+        "University of Oxford"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Monthly Notices of the Royal Astronomical Society",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "arxiv",
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2205.11337",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5047920062",
+        "display_name": "Emil Wilawer",
+        "orcid": "https://orcid.org/0000-0002-1068-240X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "E Wilawer",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1068-240X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021129086",
+        "display_name": "Dagmara Oszkiewicz",
+        "orcid": "https://orcid.org/0000-0002-5356-6433"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "D Oszkiewicz",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073681012",
+        "display_name": "A. Kryszczyńska",
+        "orcid": "https://orcid.org/0000-0002-4421-4663"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A Kryszczyńska",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003545794",
+        "display_name": "A. Marciniak",
+        "orcid": "https://orcid.org/0000-0002-1627-9611"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A Marciniak",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081881918",
+        "display_name": "V. G. Shevchenko",
+        "orcid": "https://orcid.org/0000-0003-1000-223X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8765205",
+          "display_name": "V. N. Karazin Kharkiv National University",
+          "ror": "https://ror.org/03ftejk10",
+          "country_code": "UA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8765205"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V Shevchenko",
+      "raw_affiliation_strings": [
+        "Department of Astronomy and Space Informatics, V. N. Karazin Kharkiv National University, 4 Svobody Sq., Kharkiv 61022, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Astronomy and Space Informatics, V. N. Karazin Kharkiv National University, 4 Svobody Sq., Kharkiv 61022, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I8765205"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091199728",
+        "display_name": "I. N. Belskaya",
+        "orcid": "https://orcid.org/0000-0002-5796-6493"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8765205",
+          "display_name": "V. N. Karazin Kharkiv National University",
+          "ror": "https://ror.org/03ftejk10",
+          "country_code": "UA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8765205"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "I Belskaya",
+      "raw_affiliation_strings": [
+        "Department of Astronomy and Space Informatics, V. N. Karazin Kharkiv National University, 4 Svobody Sq., Kharkiv 61022, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Astronomy and Space Informatics, V. N. Karazin Kharkiv National University, 4 Svobody Sq., Kharkiv 61022, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I8765205"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067002435",
+        "display_name": "T. Kwiatkowski",
+        "orcid": "https://orcid.org/0000-0003-3462-5714"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T Kwiatkowski",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021052882",
+        "display_name": "P. Kankiewicz",
+        "orcid": "https://orcid.org/0000-0001-7645-2618"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169495764",
+          "display_name": "Jan Kochanowski University",
+          "ror": "https://ror.org/00krbh354",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169495764"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P Kankiewicz",
+      "raw_affiliation_strings": [
+        "Institute of Physics, Jan Kochanowski University, ul. Uniwersytecka 7, 25-406 Kielce, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7645-2618",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physics, Jan Kochanowski University, ul. Uniwersytecka 7, 25-406 Kielce, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169495764"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060932304",
+        "display_name": "J. Horbowicz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "J Horbowicz",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076676160",
+        "display_name": "V. Kudak",
+        "orcid": "https://orcid.org/0000-0001-7494-3093"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I77443782",
+          "display_name": "Uzhhorod National University",
+          "ror": "https://ror.org/01x3jjv63",
+          "country_code": "UA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I77443782"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V Kudak",
+      "raw_affiliation_strings": [
+        "Laboratory of Space Researches, Uzhhorod National University, Daleka st. 2a, 88000, Uzhhorod, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Space Researches, Uzhhorod National University, Daleka st. 2a, 88000, Uzhhorod, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I77443782"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034632978",
+        "display_name": "P. Kulczak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P Kulczak",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060059642",
+        "display_name": "V. Perig",
+        "orcid": "https://orcid.org/0000-0003-1445-3011"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I77443782",
+          "display_name": "Uzhhorod National University",
+          "ror": "https://ror.org/01x3jjv63",
+          "country_code": "UA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I77443782"
+          ]
+        }
+      ],
+      "countries": [
+        "UA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V Perig",
+      "raw_affiliation_strings": [
+        "Laboratory of Space Researches, Uzhhorod National University, Daleka st. 2a, 88000, Uzhhorod, Ukraine"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Space Researches, Uzhhorod National University, Daleka st. 2a, 88000, Uzhhorod, Ukraine",
+          "institution_ids": [
+            "https://openalex.org/I77443782"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5004405292",
+        "display_name": "K. Sobkowiak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "K Sobkowiak",
+      "raw_affiliation_strings": [
+        "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Astronomical Observatory Institute, Faculty of Physics, Adam Mickiewicz University, ul. Sloneczna 36, 60-286 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 13,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5047920062"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I59411706"
+  ],
+  "apc_list": {
+    "value": 2310,
+    "currency": "GBP",
+    "value_usd": 2833
+  },
+  "apc_paid": null,
+  "fwci": 1.7027,
+  "has_fulltext": false,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.83386724,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "513",
+    "issue": "3",
+    "first_page": "3242",
+    "last_page": "3251"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10325",
+    "display_name": "Astro and Planetary Science",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3103",
+      "display_name": "Astronomy and Astrophysics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10325",
+      "display_name": "Astro and Planetary Science",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12073",
+      "display_name": "Isotope Analysis in Ecology",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10406",
+      "display_name": "Planetary Science and Exploration",
+      "score": 0.9930999875068665,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/asteroid",
+      "display_name": "Asteroid",
+      "score": 0.9181076288223267
+    },
+    {
+      "id": "https://openalex.org/keywords/photometry",
+      "display_name": "Photometry (optics)",
+      "score": 0.8382540345191956
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.7829544544219971
+    },
+    {
+      "id": "https://openalex.org/keywords/light-curve",
+      "display_name": "Light curve",
+      "score": 0.6013503074645996
+    },
+    {
+      "id": "https://openalex.org/keywords/astrometry",
+      "display_name": "Astrometry",
+      "score": 0.5284820795059204
+    },
+    {
+      "id": "https://openalex.org/keywords/minor-planet",
+      "display_name": "Minor planet",
+      "score": 0.5003232955932617
+    },
+    {
+      "id": "https://openalex.org/keywords/astrophysics",
+      "display_name": "Astrophysics",
+      "score": 0.37603646516799927
+    },
+    {
+      "id": "https://openalex.org/keywords/astronomy",
+      "display_name": "Astronomy",
+      "score": 0.3054506778717041
+    },
+    {
+      "id": "https://openalex.org/keywords/stars",
+      "display_name": "Stars",
+      "score": 0.16075578331947327
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C58142911",
+      "wikidata": "https://www.wikidata.org/wiki/Q3863",
+      "display_name": "Asteroid",
+      "level": 2,
+      "score": 0.9181076288223267
+    },
+    {
+      "id": "https://openalex.org/C68271606",
+      "wikidata": "https://www.wikidata.org/wiki/Q625648",
+      "display_name": "Photometry (optics)",
+      "level": 3,
+      "score": 0.8382540345191956
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.7829544544219971
+    },
+    {
+      "id": "https://openalex.org/C130726490",
+      "wikidata": "https://www.wikidata.org/wiki/Q675076",
+      "display_name": "Light curve",
+      "level": 2,
+      "score": 0.6013503074645996
+    },
+    {
+      "id": "https://openalex.org/C133725777",
+      "wikidata": "https://www.wikidata.org/wiki/Q181505",
+      "display_name": "Astrometry",
+      "level": 3,
+      "score": 0.5284820795059204
+    },
+    {
+      "id": "https://openalex.org/C2781209320",
+      "wikidata": "https://www.wikidata.org/wiki/Q1022867",
+      "display_name": "Minor planet",
+      "level": 3,
+      "score": 0.5003232955932617
+    },
+    {
+      "id": "https://openalex.org/C44870925",
+      "wikidata": "https://www.wikidata.org/wiki/Q37547",
+      "display_name": "Astrophysics",
+      "level": 1,
+      "score": 0.37603646516799927
+    },
+    {
+      "id": "https://openalex.org/C1276947",
+      "wikidata": "https://www.wikidata.org/wiki/Q333",
+      "display_name": "Astronomy",
+      "level": 1,
+      "score": 0.3054506778717041
+    },
+    {
+      "id": "https://openalex.org/C150846664",
+      "wikidata": "https://www.wikidata.org/wiki/Q7602306",
+      "display_name": "Stars",
+      "level": 2,
+      "score": 0.16075578331947327
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1093/mnras/stac1008",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/mnras/stac1008",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S195663288",
+        "display_name": "Monthly Notices of the Royal Astronomical Society",
+        "issn_l": "0035-8711",
+        "issn": [
+          "0035-8711",
+          "1365-2966",
+          "1365-8711"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648",
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "Oxford University Press",
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Monthly Notices of the Royal Astronomical Society",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:arXiv.org:2205.11337",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2205.11337",
+      "pdf_url": "https://arxiv.org/pdf/2205.11337",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2205.11337",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2205.11337",
+    "pdf_url": "https://arxiv.org/pdf/2205.11337",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320318240",
+      "display_name": "European Space Agency",
+      "ror": "https://ror.org/03wd9za21"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 54,
+  "referenced_works": [
+    "https://openalex.org/W147232447",
+    "https://openalex.org/W191739862",
+    "https://openalex.org/W576333673",
+    "https://openalex.org/W1124108146",
+    "https://openalex.org/W1184267834",
+    "https://openalex.org/W1612376369",
+    "https://openalex.org/W1635117105",
+    "https://openalex.org/W1920062377",
+    "https://openalex.org/W1964203947",
+    "https://openalex.org/W1967150870",
+    "https://openalex.org/W1967966440",
+    "https://openalex.org/W1976015855",
+    "https://openalex.org/W1977881534",
+    "https://openalex.org/W1990085865",
+    "https://openalex.org/W1992442215",
+    "https://openalex.org/W2003014515",
+    "https://openalex.org/W2003385205",
+    "https://openalex.org/W2010359253",
+    "https://openalex.org/W2025571294",
+    "https://openalex.org/W2027145414",
+    "https://openalex.org/W2037980631",
+    "https://openalex.org/W2038730286",
+    "https://openalex.org/W2041815275",
+    "https://openalex.org/W2078222544",
+    "https://openalex.org/W2083469832",
+    "https://openalex.org/W2084674247",
+    "https://openalex.org/W2087930533",
+    "https://openalex.org/W2125631813",
+    "https://openalex.org/W2146460755",
+    "https://openalex.org/W2193683460",
+    "https://openalex.org/W2572206166",
+    "https://openalex.org/W2758770128",
+    "https://openalex.org/W2798336535",
+    "https://openalex.org/W2912637347",
+    "https://openalex.org/W2917775913",
+    "https://openalex.org/W2937471742",
+    "https://openalex.org/W3035664740",
+    "https://openalex.org/W3084066947",
+    "https://openalex.org/W3086219893",
+    "https://openalex.org/W3091832567",
+    "https://openalex.org/W3104292787",
+    "https://openalex.org/W3106348296",
+    "https://openalex.org/W3133637678",
+    "https://openalex.org/W3145601153",
+    "https://openalex.org/W3153654586",
+    "https://openalex.org/W3162352848",
+    "https://openalex.org/W3180000164",
+    "https://openalex.org/W3180042789",
+    "https://openalex.org/W3183857153",
+    "https://openalex.org/W3198371952",
+    "https://openalex.org/W3199098722",
+    "https://openalex.org/W3202609145",
+    "https://openalex.org/W4206726933",
+    "https://openalex.org/W4289739567"
+  ],
+  "related_works": [
+    "https://openalex.org/W2905932037",
+    "https://openalex.org/W1607895895",
+    "https://openalex.org/W2950860590",
+    "https://openalex.org/W2039129213",
+    "https://openalex.org/W3160682868",
+    "https://openalex.org/W3200188918",
+    "https://openalex.org/W4385806798",
+    "https://openalex.org/W2807857068",
+    "https://openalex.org/W1547538309",
+    "https://openalex.org/W2026111422"
+  ],
+  "abstract_inverted_index": {
+    "ABSTRACT": [
+      0
+    ],
+    "The": [
+      1,
+      64
+    ],
+    "amount": [
+      2,
+      32
+    ],
+    "of": [
+      3,
+      21,
+      33,
+      67,
+      76,
+      145,
+      152
+    ],
+    "sparse": [
+      4,
+      78,
+      118
+    ],
+    "asteroid": [
+      5,
+      90,
+      113
+    ],
+    "photometry": [
+      6,
+      119
+    ],
+    "being": [
+      7
+    ],
+    "gathered": [
+      8
+    ],
+    "by": [
+      9,
+      51,
+      116,
+      163
+    ],
+    "both": [
+      10,
+      29,
+      83
+    ],
+    "space-": [
+      11
+    ],
+    "and": [
+      12,
+      38,
+      57,
+      61,
+      79,
+      85,
+      102,
+      120
+    ],
+    "ground-based": [
+      13,
+      122
+    ],
+    "surveys": [
+      14
+    ],
+    "is": [
+      15,
+      70,
+      156
+    ],
+    "growing": [
+      16,
+      150
+    ],
+    "exponentially.": [
+      17
+    ],
+    "This": [
+      18
+    ],
+    "large": [
+      19,
+      31
+    ],
+    "volume": [
+      20
+    ],
+    "data": [
+      22,
+      45,
+      81,
+      139
+    ],
+    "poses": [
+      23
+    ],
+    "a": [
+      24,
+      108,
+      149
+    ],
+    "computational": [
+      25
+    ],
+    "challenge": [
+      26
+    ],
+    "owing": [
+      27
+    ],
+    "to": [
+      28,
+      35,
+      43,
+      71,
+      111
+    ],
+    "the": [
+      30,
+      39,
+      125,
+      128,
+      143,
+      164
+    ],
+    "information": [
+      34,
+      147
+    ],
+    "be": [
+      36,
+      131
+    ],
+    "processed": [
+      37
+    ],
+    "new": [
+      40
+    ],
+    "methods": [
+      41
+    ],
+    "needed": [
+      42
+    ],
+    "combine": [
+      44
+    ],
+    "from": [
+      46
+    ],
+    "different": [
+      47,
+      52,
+      55,
+      59
+    ],
+    "sources": [
+      48
+    ],
+    "(e.g.": [
+      49
+    ],
+    "obtained": [
+      50
+    ],
+    "techniques,": [
+      53
+    ],
+    "in": [
+      54,
+      87
+    ],
+    "bands,": [
+      56
+    ],
+    "having": [
+      58
+    ],
+    "random": [
+      60
+    ],
+    "systematic": [
+      62
+    ],
+    "errors).": [
+      63
+    ],
+    "main": [
+      65
+    ],
+    "goal": [
+      66
+    ],
+    "this": [
+      68
+    ],
+    "work": [
+      69
+    ],
+    "develop": [
+      72
+    ],
+    "an": [
+      73
+    ],
+    "algorithm": [
+      74
+    ],
+    "capable": [
+      75
+    ],
+    "merging": [
+      77
+    ],
+    "dense": [
+      80
+    ],
+    "sets,": [
+      82
+    ],
+    "relative": [
+      84
+    ],
+    "differential,": [
+      86
+    ],
+    "preparation": [
+      88
+    ],
+    "for": [
+      89,
+      94,
+      133,
+      142,
+      148,
+      158
+    ],
+    "observations": [
+      91
+    ],
+    "originating": [
+      92
+    ],
+    "from,": [
+      93
+    ],
+    "example,": [
+      95
+    ],
+    "Gaia,": [
+      96
+    ],
+    "TESS,": [
+      97
+    ],
+    "ATLAS,": [
+      98
+    ],
+    "LSST,": [
+      99
+    ],
+    "K2,": [
+      100
+    ],
+    "VISTA,": [
+      101
+    ],
+    "many": [
+      103
+    ],
+    "other": [
+      104
+    ],
+    "sources.": [
+      105
+    ],
+    "We": [
+      106
+    ],
+    "present": [
+      107
+    ],
+    "novel": [
+      109
+    ],
+    "method": [
+      110,
+      155
+    ],
+    "obtain": [
+      112
+    ],
+    "phase": [
+      114,
+      134
+    ],
+    "curves": [
+      115
+    ],
+    "combining": [
+      117
+    ],
+    "differential": [
+      121
+    ],
+    "photometry.": [
+      123
+    ],
+    "In": [
+      124
+    ],
+    "traditional": [
+      126
+    ],
+    "approach,": [
+      127
+    ],
+    "latter": [
+      129
+    ],
+    "cannot": [
+      130
+    ],
+    "used": [
+      132
+    ],
+    "curves.": [
+      135
+    ],
+    "Merging": [
+      136
+    ],
+    "those": [
+      137
+    ],
+    "two": [
+      138
+    ],
+    "types": [
+      140
+    ],
+    "allows": [
+      141
+    ],
+    "extraction": [
+      144
+    ],
+    "phase-curve": [
+      146
+    ],
+    "number": [
+      151
+    ],
+    "objects.": [
+      153
+    ],
+    "Our": [
+      154
+    ],
+    "validated": [
+      157
+    ],
+    "26": [
+      159
+    ],
+    "sample": [
+      160
+    ],
+    "asteroids": [
+      161
+    ],
+    "observed": [
+      162
+    ],
+    "Gaia": [
+      165
+    ],
+    "mission.": [
+      166
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2022-05-05T00:00:00"
+}

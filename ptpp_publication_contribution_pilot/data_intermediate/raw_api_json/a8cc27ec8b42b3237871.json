@@ -1,0 +1,828 @@
+{
+  "id": "https://openalex.org/W3202285417",
+  "doi": "https://doi.org/10.1145/3477244.3477619",
+  "title": "Determining MPSoC layout from thermal camera images",
+  "display_name": "Determining MPSoC layout from thermal camera images",
+  "publication_year": 2021,
+  "publication_date": "2021-09-30",
+  "ids": {
+    "openalex": "https://openalex.org/W3202285417",
+    "doi": "https://doi.org/10.1145/3477244.3477619",
+    "mag": "3202285417"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3477244.3477619",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3477244.3477619",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the 2021 International Conference on Embedded Software",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://hdl.handle.net/10467/98840",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5085476423",
+        "display_name": "Michał Sójka",
+        "orcid": "https://orcid.org/0000-0002-8738-075X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Sojka",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039707537",
+        "display_name": "Ondřej Benedikt",
+        "orcid": "https://orcid.org/0000-0002-7365-844X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ondřej Benedikt",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5039174863",
+        "display_name": "Zdeněk Hanzálek",
+        "orcid": "https://orcid.org/0000-0002-8135-1296"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zdeněk Hanzálek",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.1512,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.56556837,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "39",
+    "last_page": "40"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12111",
+    "display_name": "Industrial Vision Systems and Defect Detection",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2209",
+      "display_name": "Industrial and Manufacturing Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12111",
+      "display_name": "Industrial Vision Systems and Defect Detection",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11159",
+      "display_name": "Manufacturing Process and Optimization",
+      "score": 0.9951000213623047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14117",
+      "display_name": "Integrated Circuits and Semiconductor Failure Analysis",
+      "score": 0.9945999979972839,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/mpsoc",
+      "display_name": "MPSoC",
+      "score": 0.9022033214569092
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7590068578720093
+    },
+    {
+      "id": "https://openalex.org/keywords/dram",
+      "display_name": "Dram",
+      "score": 0.7083887457847595
+    },
+    {
+      "id": "https://openalex.org/keywords/chip",
+      "display_name": "Chip",
+      "score": 0.6518651247024536
+    },
+    {
+      "id": "https://openalex.org/keywords/scheduling",
+      "display_name": "Scheduling (production processes)",
+      "score": 0.531161367893219
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.5273455381393433
+    },
+    {
+      "id": "https://openalex.org/keywords/system-on-a-chip",
+      "display_name": "System on a chip",
+      "score": 0.43820756673812866
+    },
+    {
+      "id": "https://openalex.org/keywords/thermal",
+      "display_name": "Thermal",
+      "score": 0.43784016370773315
+    },
+    {
+      "id": "https://openalex.org/keywords/thermal-management-of-electronic-devices-and-systems",
+      "display_name": "Thermal management of electronic devices and systems",
+      "score": 0.4206967353820801
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-hardware",
+      "display_name": "Computer hardware",
+      "score": 0.27752193808555603
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.12803533673286438
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777187653",
+      "wikidata": "https://www.wikidata.org/wiki/Q975106",
+      "display_name": "MPSoC",
+      "level": 3,
+      "score": 0.9022033214569092
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7590068578720093
+    },
+    {
+      "id": "https://openalex.org/C7366592",
+      "wikidata": "https://www.wikidata.org/wiki/Q1255620",
+      "display_name": "Dram",
+      "level": 2,
+      "score": 0.7083887457847595
+    },
+    {
+      "id": "https://openalex.org/C165005293",
+      "wikidata": "https://www.wikidata.org/wiki/Q1074500",
+      "display_name": "Chip",
+      "level": 2,
+      "score": 0.6518651247024536
+    },
+    {
+      "id": "https://openalex.org/C206729178",
+      "wikidata": "https://www.wikidata.org/wiki/Q2271896",
+      "display_name": "Scheduling (production processes)",
+      "level": 2,
+      "score": 0.531161367893219
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.5273455381393433
+    },
+    {
+      "id": "https://openalex.org/C118021083",
+      "wikidata": "https://www.wikidata.org/wiki/Q610398",
+      "display_name": "System on a chip",
+      "level": 2,
+      "score": 0.43820756673812866
+    },
+    {
+      "id": "https://openalex.org/C204530211",
+      "wikidata": "https://www.wikidata.org/wiki/Q752823",
+      "display_name": "Thermal",
+      "level": 2,
+      "score": 0.43784016370773315
+    },
+    {
+      "id": "https://openalex.org/C114834414",
+      "wikidata": "https://www.wikidata.org/wiki/Q15477170",
+      "display_name": "Thermal management of electronic devices and systems",
+      "level": 2,
+      "score": 0.4206967353820801
+    },
+    {
+      "id": "https://openalex.org/C9390403",
+      "wikidata": "https://www.wikidata.org/wiki/Q3966",
+      "display_name": "Computer hardware",
+      "level": 1,
+      "score": 0.27752193808555603
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.12803533673286438
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1145/3477244.3477619",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3477244.3477619",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the 2021 International Conference on Embedded Software",
+      "raw_type": "proceedings-article"
+    },
+    {
+      "id": "pmh:oai:dspace.cvut.cz:10467/98840",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10467/98840",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400739",
+        "display_name": "Cvut DSpace (Czech Technical University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I44504214",
+        "host_organization_name": "Czech Technical University in Prague",
+        "host_organization_lineage": [
+          "https://openalex.org/I44504214"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "stať ve sborníku"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:dspace.cvut.cz:10467/98840",
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/10467/98840",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400739",
+      "display_name": "Cvut DSpace (Czech Technical University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I44504214",
+      "host_organization_name": "Czech Technical University in Prague",
+      "host_organization_lineage": [
+        "https://openalex.org/I44504214"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "stať ve sborníku"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "score": 0.49000000953674316,
+      "display_name": "Life in Land"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8519243904",
+      "display_name": null,
+      "funder_award_id": "832011",
+      "funder_id": "https://openalex.org/F4320320367",
+      "funder_display_name": "Cleansky"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320367",
+      "display_name": "Cleansky",
+      "ror": "https://ror.org/03nv0z257"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 2,
+  "referenced_works": [
+    "https://openalex.org/W3036768537",
+    "https://openalex.org/W3201719478"
+  ],
+  "related_works": [
+    "https://openalex.org/W2111155249",
+    "https://openalex.org/W2172073773",
+    "https://openalex.org/W2006047055",
+    "https://openalex.org/W2502691491",
+    "https://openalex.org/W1976012348",
+    "https://openalex.org/W4244845418",
+    "https://openalex.org/W2002682434",
+    "https://openalex.org/W2137671689",
+    "https://openalex.org/W4387782849",
+    "https://openalex.org/W2113449380"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "many": [
+      1
+    ],
+    "safety-critical": [
+      2
+    ],
+    "applications,": [
+      3
+    ],
+    "Multi-Processor": [
+      4
+    ],
+    "Systems-on-Chip": [
+      5
+    ],
+    "(MPSoC)": [
+      6
+    ],
+    "must": [
+      7
+    ],
+    "operate": [
+      8
+    ],
+    "within": [
+      9
+    ],
+    "a": [
+      10,
+      41
+    ],
+    "given": [
+      11
+    ],
+    "thermal": [
+      12,
+      20,
+      60
+    ],
+    "envelope": [
+      13
+    ],
+    "under": [
+      14
+    ],
+    "harsh": [
+      15
+    ],
+    "environmental": [
+      16
+    ],
+    "conditions.": [
+      17
+    ],
+    "Meeting": [
+      18
+    ],
+    "the": [
+      19,
+      45,
+      49,
+      65,
+      73,
+      79,
+      91,
+      99
+    ],
+    "requirements": [
+      21
+    ],
+    "often": [
+      22
+    ],
+    "requires": [
+      23
+    ],
+    "using": [
+      24
+    ],
+    "advanced": [
+      25
+    ],
+    "task": [
+      26
+    ],
+    "allocation": [
+      27
+    ],
+    "and": [
+      28,
+      78,
+      108
+    ],
+    "scheduling": [
+      29
+    ],
+    "techniques": [
+      30
+    ],
+    "that": [
+      31,
+      43
+    ],
+    "are": [
+      32
+    ],
+    "guided": [
+      33
+    ],
+    "by": [
+      34,
+      84
+    ],
+    "detailed": [
+      35
+    ],
+    "power": [
+      36
+    ],
+    "models.": [
+      37,
+      53
+    ],
+    "This": [
+      38
+    ],
+    "paper": [
+      39
+    ],
+    "introduces": [
+      40
+    ],
+    "method": [
+      42,
+      89
+    ],
+    "has": [
+      44
+    ],
+    "potential": [
+      46
+    ],
+    "to": [
+      47
+    ],
+    "simplify": [
+      48
+    ],
+    "creation": [
+      50
+    ],
+    "of": [
+      51,
+      68,
+      75,
+      81,
+      101
+    ],
+    "such": [
+      52
+    ],
+    "It": [
+      54
+    ],
+    "constructs": [
+      55
+    ],
+    "so-called": [
+      56
+    ],
+    "heat": [
+      57,
+      66,
+      82
+    ],
+    "maps": [
+      58,
+      67
+    ],
+    "from": [
+      59,
+      94
+    ],
+    "camera": [
+      61
+    ],
+    "images.": [
+      62
+    ],
+    "By": [
+      63
+    ],
+    "comparing": [
+      64
+    ],
+    "different": [
+      69
+    ],
+    "workloads,": [
+      70
+    ],
+    "we": [
+      71,
+      97
+    ],
+    "identify": [
+      72,
+      98
+    ],
+    "locations": [
+      74,
+      100
+    ],
+    "on-chip": [
+      76
+    ],
+    "components": [
+      77
+    ],
+    "amount": [
+      80
+    ],
+    "produced": [
+      83
+    ],
+    "them.": [
+      85
+    ],
+    "We": [
+      86
+    ],
+    "demonstrate": [
+      87
+    ],
+    "our": [
+      88
+    ],
+    "on": [
+      90
+    ],
+    "i.MX8QuadMax": [
+      92
+    ],
+    "chip": [
+      93
+    ],
+    "NXP,": [
+      95
+    ],
+    "where": [
+      96
+    ],
+    "CPU": [
+      102,
+      105
+    ],
+    "clusters,": [
+      103
+    ],
+    "bigger": [
+      104
+    ],
+    "cores,": [
+      106
+    ],
+    "GPUs,": [
+      107
+    ],
+    "DRAM": [
+      109
+    ],
+    "controllers.": [
+      110
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2021-10-11T00:00:00"
+}

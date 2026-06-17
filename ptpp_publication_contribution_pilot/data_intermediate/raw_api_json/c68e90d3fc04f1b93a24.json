@@ -1,0 +1,2196 @@
+{
+  "id": "https://openalex.org/W4391437267",
+  "doi": "https://doi.org/10.1016/j.celrep.2024.113707",
+  "title": "H2A.Z histone variants facilitate HDACi-dependent removal of H3.3K27M mutant protein in pediatric high-grade glioma cells",
+  "display_name": "H2A.Z histone variants facilitate HDACi-dependent removal of H3.3K27M mutant protein in pediatric high-grade glioma cells",
+  "publication_year": 2024,
+  "publication_date": "2024-02-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4391437267",
+    "doi": "https://doi.org/10.1016/j.celrep.2024.113707",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38306270"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.celrep.2024.113707",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.celrep.2024.113707",
+    "pdf_url": "http://www.cell.com/article/S2211124724000354/pdf",
+    "source": {
+      "id": "https://openalex.org/S169236886",
+      "display_name": "Cell Reports",
+      "issn_l": "2211-1247",
+      "issn": [
+        "2211-1247",
+        "2639-1856"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.cell.com/article/S2211124724000354/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044365051",
+        "display_name": "Katarzyna B. Leszczyńska",
+        "orcid": "https://orcid.org/0000-0002-3504-1553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153146",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": null,
+          "country_code": "PL",
+          "type": null,
+          "lineage": [
+            "https://openalex.org/I4210153146"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Katarzyna B. Leszczynska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland. Electronic address: k.leszczynska@nencki.edu.pl",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3504-1553",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland. Electronic address: k.leszczynska@nencki.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I4210153146"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093839621",
+        "display_name": "Amanda Freitas-Huhtamäki",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amanda Freitas-Huhtamäki",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011705321",
+        "display_name": "Chinchu Jayaprakash",
+        "orcid": "https://orcid.org/0000-0001-9967-0095"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chinchu Jayaprakash",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041804886",
+        "display_name": "Monika Dźwigońska",
+        "orcid": "https://orcid.org/0000-0003-1774-3671"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Dzwigonska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1774-3671",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000586849",
+        "display_name": "Francisca N. de Luna Vitorino",
+        "orcid": "https://orcid.org/0000-0001-8543-2299"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204465549",
+          "display_name": "Washington University in St. Louis",
+          "ror": "https://ror.org/01yc7t268",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204465549"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Francisca N.L. Vitorino",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA",
+          "institution_ids": [
+            "https://openalex.org/I204465549"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052667150",
+        "display_name": "Cynthia Horth",
+        "orcid": "https://orcid.org/0000-0003-2441-6783"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5023651",
+          "display_name": "McGill University",
+          "ror": "https://ror.org/01pxwe438",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cynthia Horth",
+      "raw_affiliation_strings": [
+        "Department of Human Genetics, McGill University, Montreal, QC, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Human Genetics, McGill University, Montreal, QC, Canada",
+          "institution_ids": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052133430",
+        "display_name": "Kamil Wojnicki",
+        "orcid": "https://orcid.org/0000-0002-1630-4389"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kamil Wojnicki",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1630-4389",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084724515",
+        "display_name": "Bartłomiej Gielniewski",
+        "orcid": "https://orcid.org/0000-0001-8067-0618"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartlomiej Gielniewski",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085189348",
+        "display_name": "Paulina Szadkowska",
+        "orcid": "https://orcid.org/0000-0001-8125-4843"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulina Szadkowska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Beata Kaza",
+        "orcid": "https://orcid.org/0000-0002-2642-4616"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Kaza",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2642-4616",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005984345",
+        "display_name": "Javad Nazarian",
+        "orcid": "https://orcid.org/0000-0002-1951-9828"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1336742384",
+          "display_name": "Children's National",
+          "ror": "https://ror.org/03wa2q724",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1336742384"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210128593",
+          "display_name": "University Children's Hospital Zurich",
+          "ror": "https://ror.org/035vb3h42",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128593"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Javad Nazarian",
+      "raw_affiliation_strings": [
+        "Center for Genetic Medicine Research, Children's National Hospital, Washington, DC, USA; Department of Pediatrics, University Children's Hospital Zürich, Zürich, Switzerland",
+        "Department of Pediatrics, University Children's Hospital Zürich, Zürich, Switzerland",
+        "Center for Genetic Medicine Research, Children's National Hospital, Washington, DC, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Genetic Medicine Research, Children's National Hospital, Washington, DC, USA; Department of Pediatrics, University Children's Hospital Zürich, Zürich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210128593"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pediatrics, University Children's Hospital Zürich, Zürich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210128593"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Genetic Medicine Research, Children's National Hospital, Washington, DC, USA",
+          "institution_ids": [
+            "https://openalex.org/I1336742384"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074321738",
+        "display_name": "Maciej Ciołkowski",
+        "orcid": "https://orcid.org/0000-0003-3919-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maciej K. Ciolkowski",
+      "raw_affiliation_strings": [
+        "Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017681066",
+        "display_name": "Joanna Trubicka",
+        "orcid": "https://orcid.org/0000-0002-9848-3674"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joanna Trubicka",
+      "raw_affiliation_strings": [
+        "Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059959742",
+        "display_name": "Wiesława Grajkowska",
+        "orcid": "https://orcid.org/0000-0001-8318-5781"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114383",
+          "display_name": "Children's Memorial Health Institute",
+          "ror": "https://ror.org/020atbp69",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wieslawa Grajkowska",
+      "raw_affiliation_strings": [
+        "Children's Memorial Health Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Children's Memorial Health Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210114383"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033126095",
+        "display_name": "Benjamin A. Garcia",
+        "orcid": "https://orcid.org/0000-0003-3596-4750"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204465549",
+          "display_name": "Washington University in St. Louis",
+          "ror": "https://ror.org/01yc7t268",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204465549"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Benjamin A. Garcia",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA",
+          "institution_ids": [
+            "https://openalex.org/I204465549"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040878528",
+        "display_name": "Jacek Majewski",
+        "orcid": "https://orcid.org/0000-0003-3572-9558"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5023651",
+          "display_name": "McGill University",
+          "ror": "https://ror.org/01pxwe438",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Majewski",
+      "raw_affiliation_strings": [
+        "Department of Human Genetics, McGill University, Montreal, QC, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Human Genetics, McGill University, Montreal, QC, Canada",
+          "institution_ids": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055257104",
+        "display_name": "Bożena Kamińska",
+        "orcid": "https://orcid.org/0000-0002-2642-4616"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bozena Kaminska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5033742662",
+        "display_name": "Jakub Mieczkowski",
+        "orcid": "https://orcid.org/0000-0002-2091-012X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I75124487",
+          "display_name": "Gdańsk Medical University",
+          "ror": "https://ror.org/019sbgd69",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I75124487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jakub Mieczkowski",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland; 3P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland. Electronic address: jakubm@gumed.edu.pl",
+        "3P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland",
+        "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2091-012X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland; 3P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland. Electronic address: jakubm@gumed.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "3P-Medicine Laboratory, Medical University of Gdansk, Gdansk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I75124487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Nencki Institute of Experimental Biology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 18,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5033742662",
+    "https://openalex.org/A5044365051"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I16778253",
+    "https://openalex.org/I4210153146",
+    "https://openalex.org/I75124487"
+  ],
+  "apc_list": {
+    "value": 5200,
+    "currency": "USD",
+    "value_usd": 5200
+  },
+  "apc_paid": {
+    "value": 5200,
+    "currency": "USD",
+    "value_usd": 5200
+  },
+  "fwci": 2.1326,
+  "has_fulltext": true,
+  "cited_by_count": 10,
+  "citation_normalized_percentile": {
+    "value": 0.86725438,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "43",
+    "issue": "2",
+    "first_page": "113707",
+    "last_page": "113707"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11736",
+    "display_name": "Histone Deacetylase Inhibitors Research",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11736",
+      "display_name": "Histone Deacetylase Inhibitors Research",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10129",
+      "display_name": "Glioma Diagnosis and Treatment",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2716",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/mutant",
+      "display_name": "Mutant",
+      "score": 0.7246121168136597
+    },
+    {
+      "id": "https://openalex.org/keywords/histone",
+      "display_name": "Histone",
+      "score": 0.688040554523468
+    },
+    {
+      "id": "https://openalex.org/keywords/histone-h3",
+      "display_name": "Histone H3",
+      "score": 0.5752639174461365
+    },
+    {
+      "id": "https://openalex.org/keywords/glioma",
+      "display_name": "Glioma",
+      "score": 0.5341099500656128
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.45231738686561584
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.39262041449546814
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.39219656586647034
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-research",
+      "display_name": "Cancer research",
+      "score": 0.36679771542549133
+    },
+    {
+      "id": "https://openalex.org/keywords/molecular-biology",
+      "display_name": "Molecular biology",
+      "score": 0.3553057312965393
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.34559276700019836
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.2017640769481659
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C143065580",
+      "wikidata": "https://www.wikidata.org/wiki/Q3285695",
+      "display_name": "Mutant",
+      "level": 3,
+      "score": 0.7246121168136597
+    },
+    {
+      "id": "https://openalex.org/C64927066",
+      "wikidata": "https://www.wikidata.org/wiki/Q36293",
+      "display_name": "Histone",
+      "level": 3,
+      "score": 0.688040554523468
+    },
+    {
+      "id": "https://openalex.org/C2776745794",
+      "wikidata": "https://www.wikidata.org/wiki/Q24777451",
+      "display_name": "Histone H3",
+      "level": 4,
+      "score": 0.5752639174461365
+    },
+    {
+      "id": "https://openalex.org/C2778227246",
+      "wikidata": "https://www.wikidata.org/wiki/Q1365309",
+      "display_name": "Glioma",
+      "level": 2,
+      "score": 0.5341099500656128
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.45231738686561584
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.39262041449546814
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.39219656586647034
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.36679771542549133
+    },
+    {
+      "id": "https://openalex.org/C153911025",
+      "wikidata": "https://www.wikidata.org/wiki/Q7202",
+      "display_name": "Molecular biology",
+      "level": 1,
+      "score": 0.3553057312965393
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.34559276700019836
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.2017640769481659
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000080443",
+      "descriptor_name": "Diffuse Intrinsic Pontine Glioma",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001932",
+      "descriptor_name": "Brain Neoplasms",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005910",
+      "descriptor_name": "Glioma",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006657",
+      "descriptor_name": "Histones",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050505",
+      "descriptor_name": "Mutant Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056572",
+      "descriptor_name": "Histone Deacetylase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.celrep.2024.113707",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.celrep.2024.113707",
+      "pdf_url": "http://www.cell.com/article/S2211124724000354/pdf",
+      "source": {
+        "id": "https://openalex.org/S169236886",
+        "display_name": "Cell Reports",
+        "issn_l": "2211-1247",
+        "issn": [
+          "2211-1247",
+          "2639-1856"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38306270",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38306270",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11026119",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11026119",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11026119/pdf/nihms-1983427.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cell Rep",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:digitalcommons.wustl.edu:oa_4-5417",
+      "is_oa": true,
+      "landing_page_url": "https://digitalcommons.wustl.edu/oa_4/4427",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400764",
+        "display_name": "Digital Commons@Becker (Washington University School of Medicine)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I204465549",
+        "host_organization_name": "Washington University in St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I204465549"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "2020-Current year OA Pubs",
+      "raw_type": "text"
+    },
+    {
+      "id": "pmh:doi:10.5167/uzh-270336",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4406922384",
+        "display_name": "Open MIND",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:590589af8239422c9bd340fc8f43c4fa",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/590589af8239422c9bd340fc8f43c4fa",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cell Reports, Vol 43, Iss 2, Pp 113707- (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.celrep.2024.113707",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.celrep.2024.113707",
+    "pdf_url": "http://www.cell.com/article/S2211124724000354/pdf",
+    "source": {
+      "id": "https://openalex.org/S169236886",
+      "display_name": "Cell Reports",
+      "issn_l": "2211-1247",
+      "issn": [
+        "2211-1247",
+        "2639-1856"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Zero hunger",
+      "id": "https://metadata.un.org/sdg/2",
+      "score": 0.6399999856948853
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1320817602",
+      "display_name": null,
+      "funder_award_id": "MAB/2018/6",
+      "funder_id": "https://openalex.org/F4320321042",
+      "funder_display_name": "Fundacja na rzecz Nauki Polskiej"
+    },
+    {
+      "id": "https://openalex.org/G1679617976",
+      "display_name": null,
+      "funder_award_id": "PJT-183939",
+      "funder_id": "https://openalex.org/F4320334506",
+      "funder_display_name": "Canadian Institutes of Health Research"
+    },
+    {
+      "id": "https://openalex.org/G7086938742",
+      "display_name": null,
+      "funder_award_id": "P01CA196539",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320290",
+      "display_name": "University of Oxford",
+      "ror": "https://ror.org/052gg0110"
+    },
+    {
+      "id": "https://openalex.org/F4320321042",
+      "display_name": "Fundacja na rzecz Nauki Polskiej",
+      "ror": "https://ror.org/048zd9m77"
+    },
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320334506",
+      "display_name": "Canadian Institutes of Health Research",
+      "ror": "https://ror.org/01gavpb45"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4391437267.pdf"
+  },
+  "referenced_works_count": 68,
+  "referenced_works": [
+    "https://openalex.org/W1970916644",
+    "https://openalex.org/W1972656210",
+    "https://openalex.org/W1979014200",
+    "https://openalex.org/W1993956311",
+    "https://openalex.org/W1995105508",
+    "https://openalex.org/W2007639313",
+    "https://openalex.org/W2009735886",
+    "https://openalex.org/W2013571070",
+    "https://openalex.org/W2022930470",
+    "https://openalex.org/W2025182825",
+    "https://openalex.org/W2051921450",
+    "https://openalex.org/W2052899431",
+    "https://openalex.org/W2055027888",
+    "https://openalex.org/W2086007560",
+    "https://openalex.org/W2098052125",
+    "https://openalex.org/W2103939814",
+    "https://openalex.org/W2105915214",
+    "https://openalex.org/W2111940175",
+    "https://openalex.org/W2141091417",
+    "https://openalex.org/W2150106850",
+    "https://openalex.org/W2157099146",
+    "https://openalex.org/W2158233796",
+    "https://openalex.org/W2158901355",
+    "https://openalex.org/W2162993557",
+    "https://openalex.org/W2163618254",
+    "https://openalex.org/W2169640176",
+    "https://openalex.org/W2222946584",
+    "https://openalex.org/W2314376783",
+    "https://openalex.org/W2344518204",
+    "https://openalex.org/W2406278632",
+    "https://openalex.org/W2584444855",
+    "https://openalex.org/W2592743985",
+    "https://openalex.org/W2602182553",
+    "https://openalex.org/W2606835938",
+    "https://openalex.org/W2751187578",
+    "https://openalex.org/W2758553652",
+    "https://openalex.org/W2762970517",
+    "https://openalex.org/W2766064466",
+    "https://openalex.org/W2802053370",
+    "https://openalex.org/W2809437847",
+    "https://openalex.org/W2914996132",
+    "https://openalex.org/W2923032782",
+    "https://openalex.org/W2946243434",
+    "https://openalex.org/W2980438467",
+    "https://openalex.org/W2981290271",
+    "https://openalex.org/W2991430679",
+    "https://openalex.org/W3011594395",
+    "https://openalex.org/W3041582222",
+    "https://openalex.org/W3087642397",
+    "https://openalex.org/W3100560073",
+    "https://openalex.org/W3130623774",
+    "https://openalex.org/W3131121535",
+    "https://openalex.org/W3177816075",
+    "https://openalex.org/W3203982590",
+    "https://openalex.org/W4205098888",
+    "https://openalex.org/W4206602181",
+    "https://openalex.org/W4211054221",
+    "https://openalex.org/W4280501921",
+    "https://openalex.org/W4286220786",
+    "https://openalex.org/W4307571097",
+    "https://openalex.org/W4311119984",
+    "https://openalex.org/W4323044092",
+    "https://openalex.org/W4382933713",
+    "https://openalex.org/W4386224716",
+    "https://openalex.org/W6648928770",
+    "https://openalex.org/W6663713361",
+    "https://openalex.org/W6728947048",
+    "https://openalex.org/W6853538458"
+  ],
+  "related_works": [
+    "https://openalex.org/W2155835698",
+    "https://openalex.org/W2076096978",
+    "https://openalex.org/W3208778134",
+    "https://openalex.org/W2094337488",
+    "https://openalex.org/W2350587855",
+    "https://openalex.org/W2044028228",
+    "https://openalex.org/W2397424403",
+    "https://openalex.org/W2298656647",
+    "https://openalex.org/W2991705822",
+    "https://openalex.org/W2069768504"
+  ],
+  "abstract_inverted_index": {
+    "Diffuse": [
+      0
+    ],
+    "intrinsic": [
+      1
+    ],
+    "pontine": [
+      2
+    ],
+    "gliomas": [
+      3
+    ],
+    "(DIPGs)": [
+      4
+    ],
+    "are": [
+      5
+    ],
+    "deadly": [
+      6
+    ],
+    "pediatric": [
+      7
+    ],
+    "brain": [
+      8
+    ],
+    "tumors,": [
+      9
+    ],
+    "non-resectable": [
+      10
+    ],
+    "due": [
+      11
+    ],
+    "to": [
+      12,
+      56,
+      65,
+      132
+    ],
+    "brainstem": [
+      13
+    ],
+    "localization": [
+      14
+    ],
+    "and": [
+      15,
+      114
+    ],
+    "diffusive": [
+      16
+    ],
+    "growth.": [
+      17
+    ],
+    "Over": [
+      18
+    ],
+    "80%": [
+      19
+    ],
+    "of": [
+      20,
+      94,
+      101,
+      112,
+      135,
+      146
+    ],
+    "DIPGs": [
+      21
+    ],
+    "harbor": [
+      22
+    ],
+    "a": [
+      23,
+      33,
+      41,
+      57,
+      83,
+      123
+    ],
+    "mutation": [
+      24
+    ],
+    "in": [
+      25,
+      32,
+      60,
+      67,
+      129
+    ],
+    "histone": [
+      26,
+      51
+    ],
+    "3": [
+      27
+    ],
+    "(H3.3": [
+      28
+    ],
+    "or": [
+      29
+    ],
+    "H3.1)": [
+      30
+    ],
+    "resulting": [
+      31
+    ],
+    "lysine-to-methionine": [
+      34
+    ],
+    "substitution": [
+      35
+    ],
+    "(H3K27M).": [
+      36
+    ],
+    "Patients": [
+      37
+    ],
+    "with": [
+      38,
+      44
+    ],
+    "DIPG": [
+      39,
+      130
+    ],
+    "have": [
+      40
+    ],
+    "dismal": [
+      42
+    ],
+    "prognosis": [
+      43
+    ],
+    "no": [
+      45
+    ],
+    "effective": [
+      46
+    ],
+    "therapy.": [
+      47
+    ],
+    "We": [
+      48,
+      72,
+      121
+    ],
+    "show": [
+      49,
+      143
+    ],
+    "that": [
+      50,
+      74,
+      126
+    ],
+    "deacetylase": [
+      52
+    ],
+    "(HDAC)": [
+      53
+    ],
+    "inhibitors": [
+      54
+    ],
+    "lead": [
+      55
+    ],
+    "significant": [
+      58
+    ],
+    "reduction": [
+      59
+    ],
+    "the": [
+      61,
+      75,
+      99,
+      110,
+      117,
+      136,
+      144,
+      149
+    ],
+    "H3.3K27M": [
+      62,
+      77,
+      88,
+      113,
+      138,
+      150
+    ],
+    "protein": [
+      63,
+      139
+    ],
+    "(up": [
+      64
+    ],
+    "80%)": [
+      66
+    ],
+    "multiple": [
+      68
+    ],
+    "glioma": [
+      69
+    ],
+    "cell": [
+      70
+    ],
+    "lines.": [
+      71
+    ],
+    "discover": [
+      73,
+      122
+    ],
+    "SB939-mediated": [
+      76
+    ],
+    "loss": [
+      78,
+      89
+    ],
+    "is": [
+      79,
+      90
+    ],
+    "partially": [
+      80
+    ],
+    "blocked": [
+      81
+    ],
+    "by": [
+      82,
+      92,
+      98
+    ],
+    "lysosomal": [
+      84
+    ],
+    "inhibitor,": [
+      85
+    ],
+    "chloroquine.": [
+      86
+    ],
+    "The": [
+      87
+    ],
+    "facilitated": [
+      91
+    ],
+    "co-occurrence": [
+      93
+    ],
+    "H2A.Z,": [
+      95
+    ],
+    "as": [
+      96
+    ],
+    "evidenced": [
+      97
+    ],
+    "knockdown": [
+      100
+    ],
+    "H2A.Z": [
+      102,
+      115
+    ],
+    "isoforms.": [
+      103
+    ],
+    "Chromatin": [
+      104
+    ],
+    "immunoprecipitation": [
+      105
+    ],
+    "sequencing": [
+      106
+    ],
+    "(ChIP-seq)": [
+      107
+    ],
+    "analysis": [
+      108
+    ],
+    "confirms": [
+      109
+    ],
+    "occupancy": [
+      111
+    ],
+    "at": [
+      116
+    ],
+    "same": [
+      118
+    ],
+    "SB939-inducible": [
+      119
+    ],
+    "genes.": [
+      120
+    ],
+    "mechanism": [
+      124
+    ],
+    "showing": [
+      125
+    ],
+    "HDAC": [
+      127
+    ],
+    "inhibition": [
+      128
+    ],
+    "leads": [
+      131
+    ],
+    "pharmacological": [
+      133
+    ],
+    "modulation": [
+      134
+    ],
+    "oncogenic": [
+      137
+    ],
+    "levels.": [
+      140
+    ],
+    "These": [
+      141
+    ],
+    "findings": [
+      142
+    ],
+    "possibility": [
+      145
+    ],
+    "directly": [
+      147
+    ],
+    "targeting": [
+      148
+    ],
+    "oncohistone.": [
+      151
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-05-19T08:33:51.333923",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1853 @@
+{
+  "id": "https://openalex.org/W4384488591",
+  "doi": "https://doi.org/10.1021/acsami.3c04054",
+  "title": "Development of a Bioreactor-Coupled Flow-Cell Setup for 3D In Situ Nanotomography of Mg Alloy Biodegradation",
+  "display_name": "Development of a Bioreactor-Coupled Flow-Cell Setup for 3D In Situ Nanotomography of Mg Alloy Biodegradation",
+  "publication_year": 2023,
+  "publication_date": "2023-07-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4384488591",
+    "doi": "https://doi.org/10.1021/acsami.3c04054",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37459562"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1021/acsami.3c04054",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1021/acsami.3c04054",
+    "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsami.3c04054",
+    "source": {
+      "id": "https://openalex.org/S164001016",
+      "display_name": "ACS Applied Materials & Interfaces",
+      "issn_l": "1944-8244",
+      "issn": [
+        "1944-8244",
+        "1944-8252"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320006",
+      "host_organization_name": "American Chemical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320006"
+      ],
+      "host_organization_lineage_names": [
+        "American Chemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "ACS Applied Materials &amp; Interfaces",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acsami.3c04054",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5102991313",
+        "display_name": "Jan Reimers",
+        "orcid": "https://orcid.org/0000-0002-4430-9240"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I171892758",
+          "display_name": "Forschungszentrum Jülich",
+          "ror": "https://ror.org/02nv7yv05",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801833913",
+          "display_name": "Ernst Ruska Centre",
+          "ror": "https://ror.org/03hass884",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758",
+            "https://openalex.org/I2801833913"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jan Reimers",
+      "raw_affiliation_strings": [
+        "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany",
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4430-9240",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801833913",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013308313",
+        "display_name": "Huu Chánh Trinh",
+        "orcid": "https://orcid.org/0000-0003-1446-4263"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Huu Chánh Trinh",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1446-4263",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036812263",
+        "display_name": "Björn Wiese",
+        "orcid": "https://orcid.org/0000-0003-3094-3803"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Björn Wiese",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043937682",
+        "display_name": "Sebastian Meyer",
+        "orcid": "https://orcid.org/0000-0001-6926-5144"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastian Meyer",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092481168",
+        "display_name": "Jens Brehling",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Brehling",
+      "raw_affiliation_strings": [
+        "Institute of Materials Physics, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Physics, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068913763",
+        "display_name": "Silja Flenner",
+        "orcid": "https://orcid.org/0000-0002-2951-2304"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Silja Flenner",
+      "raw_affiliation_strings": [
+        "Institute of Materials Physics, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Physics, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004869628",
+        "display_name": "J. Hagemann",
+        "orcid": "https://orcid.org/0000-0003-2768-9496"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801876189",
+          "display_name": "Deutsches Elektronen-Synchrotron DESY",
+          "ror": "https://ror.org/01js2sh04",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I2801876189"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johannes Hagemann",
+      "raw_affiliation_strings": [
+        "CXNS−Center for X-ray and Nano Science, Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, Hamburg 22607, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CXNS−Center for X-ray and Nano Science, Deutsches Elektronen-Synchrotron DESY, Notkestraße 85, Hamburg 22607, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801876189"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062779602",
+        "display_name": "Maximilian Kruth",
+        "orcid": "https://orcid.org/0000-0003-4480-8311"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I171892758",
+          "display_name": "Forschungszentrum Jülich",
+          "ror": "https://ror.org/02nv7yv05",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801833913",
+          "display_name": "Ernst Ruska Centre",
+          "ror": "https://ror.org/03hass884",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758",
+            "https://openalex.org/I2801833913"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maximilian Kruth",
+      "raw_affiliation_strings": [
+        "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801833913",
+            "https://openalex.org/I171892758"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090120048",
+        "display_name": "Lidia Kibkalo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I171892758",
+          "display_name": "Forschungszentrum Jülich",
+          "ror": "https://ror.org/02nv7yv05",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801833913",
+          "display_name": "Ernst Ruska Centre",
+          "ror": "https://ror.org/03hass884",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758",
+            "https://openalex.org/I2801833913"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lidia Kibkalo",
+      "raw_affiliation_strings": [
+        "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801833913",
+            "https://openalex.org/I171892758"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014674158",
+        "display_name": "Hanna Ćwieka",
+        "orcid": "https://orcid.org/0000-0002-3209-1109"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna Ćwieka",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053450000",
+        "display_name": "Birte Hindenlang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Birte Hindenlang",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089680612",
+        "display_name": "Marta Lipińska-Chwałek",
+        "orcid": "https://orcid.org/0000-0003-2090-8510"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I171892758",
+          "display_name": "Forschungszentrum Jülich",
+          "ror": "https://ror.org/02nv7yv05",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801833913",
+          "display_name": "Ernst Ruska Centre",
+          "ror": "https://ror.org/03hass884",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758",
+            "https://openalex.org/I2801833913"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Lipinska-Chwalek",
+      "raw_affiliation_strings": [
+        "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2090-8510",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801833913",
+            "https://openalex.org/I171892758"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013379147",
+        "display_name": "Joachim Mayer",
+        "orcid": "https://orcid.org/0000-0003-3292-5342"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I171892758",
+          "display_name": "Forschungszentrum Jülich",
+          "ror": "https://ror.org/02nv7yv05",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801833913",
+          "display_name": "Ernst Ruska Centre",
+          "ror": "https://ror.org/03hass884",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758",
+            "https://openalex.org/I2801833913"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joachim Mayer",
+      "raw_affiliation_strings": [
+        "Central Facility for Electron Microscopy, RWTH Aachen University, Ahornstraße 55, Aachen 52074, Germany",
+        "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Central Facility for Electron Microscopy, RWTH Aachen University, Ahornstraße 55, Aachen 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons, Forschungszentrum Jülich GmbH, Jülich 52425, Germany",
+          "institution_ids": [
+            "https://openalex.org/I2801833913",
+            "https://openalex.org/I171892758"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046752653",
+        "display_name": "Regine Willumeit‐Römer",
+        "orcid": "https://orcid.org/0000-0002-6004-6946"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Regine Willumeit-Römer",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081204512",
+        "display_name": "Imke Greving",
+        "orcid": "https://orcid.org/0000-0002-6231-1088"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Imke Greving",
+      "raw_affiliation_strings": [
+        "Institute of Materials Physics, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Materials Physics, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040319503",
+        "display_name": "Berit Zeller‐Plumhoff",
+        "orcid": "https://orcid.org/0000-0002-7562-9423"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210139239",
+          "display_name": "Helmholtz-Zentrum Hereon",
+          "ror": "https://ror.org/03qjp1d79",
+          "country_code": "DE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Berit Zeller-Plumhoff",
+      "raw_affiliation_strings": [
+        "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Metallic Biomaterials, Helmholtz-Zentrum Hereon, Max-Planck-Strasse 1, Geesthacht 21502, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210139239"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 16,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5040319503",
+    "https://openalex.org/A5102991313"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I171892758",
+    "https://openalex.org/I2801833913",
+    "https://openalex.org/I4210139239"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.8337,
+  "has_fulltext": true,
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.68347193,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "29",
+    "first_page": "35600",
+    "last_page": "35610"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10530",
+    "display_name": "Magnesium Alloys: Properties and Applications",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2502",
+      "display_name": "Biomaterials"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/25",
+      "display_name": "Materials Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10530",
+      "display_name": "Magnesium Alloys: Properties and Applications",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2502",
+        "display_name": "Biomaterials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10204",
+      "display_name": "Microstructure and mechanical properties",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10377",
+      "display_name": "Metal and Thin Film Mechanics",
+      "score": 0.9916999936103821,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.8573259711265564
+    },
+    {
+      "id": "https://openalex.org/keywords/microstructure",
+      "display_name": "Microstructure",
+      "score": 0.7388891577720642
+    },
+    {
+      "id": "https://openalex.org/keywords/biodegradation",
+      "display_name": "Biodegradation",
+      "score": 0.5696714520454407
+    },
+    {
+      "id": "https://openalex.org/keywords/in-situ",
+      "display_name": "In situ",
+      "score": 0.5187644958496094
+    },
+    {
+      "id": "https://openalex.org/keywords/characterization",
+      "display_name": "Characterization (materials science)",
+      "score": 0.48145169019699097
+    },
+    {
+      "id": "https://openalex.org/keywords/microscopy",
+      "display_name": "Microscopy",
+      "score": 0.41648536920547485
+    },
+    {
+      "id": "https://openalex.org/keywords/nanotechnology",
+      "display_name": "Nanotechnology",
+      "score": 0.37661752104759216
+    },
+    {
+      "id": "https://openalex.org/keywords/chemical-engineering",
+      "display_name": "Chemical engineering",
+      "score": 0.37494224309921265
+    },
+    {
+      "id": "https://openalex.org/keywords/composite-material",
+      "display_name": "Composite material",
+      "score": 0.32093268632888794
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.17187067866325378
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.8573259711265564
+    },
+    {
+      "id": "https://openalex.org/C87976508",
+      "wikidata": "https://www.wikidata.org/wiki/Q1498213",
+      "display_name": "Microstructure",
+      "level": 2,
+      "score": 0.7388891577720642
+    },
+    {
+      "id": "https://openalex.org/C157021035",
+      "wikidata": "https://www.wikidata.org/wiki/Q696715",
+      "display_name": "Biodegradation",
+      "level": 2,
+      "score": 0.5696714520454407
+    },
+    {
+      "id": "https://openalex.org/C2777822432",
+      "wikidata": "https://www.wikidata.org/wiki/Q216681",
+      "display_name": "In situ",
+      "level": 2,
+      "score": 0.5187644958496094
+    },
+    {
+      "id": "https://openalex.org/C2780841128",
+      "wikidata": "https://www.wikidata.org/wiki/Q5073781",
+      "display_name": "Characterization (materials science)",
+      "level": 2,
+      "score": 0.48145169019699097
+    },
+    {
+      "id": "https://openalex.org/C147080431",
+      "wikidata": "https://www.wikidata.org/wiki/Q1074953",
+      "display_name": "Microscopy",
+      "level": 2,
+      "score": 0.41648536920547485
+    },
+    {
+      "id": "https://openalex.org/C171250308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11468",
+      "display_name": "Nanotechnology",
+      "level": 1,
+      "score": 0.37661752104759216
+    },
+    {
+      "id": "https://openalex.org/C42360764",
+      "wikidata": "https://www.wikidata.org/wiki/Q83588",
+      "display_name": "Chemical engineering",
+      "level": 1,
+      "score": 0.37494224309921265
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.32093268632888794
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.17187067866325378
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000497",
+      "descriptor_name": "Alloys",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000497",
+      "descriptor_name": "Alloys",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000497",
+      "descriptor_name": "Alloys",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1021/acsami.3c04054",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1021/acsami.3c04054",
+      "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsami.3c04054",
+      "source": {
+        "id": "https://openalex.org/S164001016",
+        "display_name": "ACS Applied Materials & Interfaces",
+        "issn_l": "1944-8244",
+        "issn": [
+          "1944-8244",
+          "1944-8252"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320006",
+        "host_organization_name": "American Chemical Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320006"
+        ],
+        "host_organization_lineage_names": [
+          "American Chemical Society"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS Applied Materials &amp; Interfaces",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37459562",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37459562",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACS applied materials & interfaces",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10375473",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10375473",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10375473/pdf/am3c04054.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ACS Appl Mater Interfaces",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:bib-pubdb1.desy.de:589465",
+      "is_oa": true,
+      "landing_page_url": "https://bib-pubdb1.desy.de/record/589465",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196278",
+        "display_name": "Desy Publications Database (Deutsches Elektronen-Synchrotron DESY)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2801876189",
+        "host_organization_name": "Deutsches Elektronen-Synchrotron DESY",
+        "host_organization_lineage": [
+          "https://openalex.org/I2801876189"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ACS applied materials & interfaces 15(29), 35600 - 35610 (2023). doi:10.1021/acsami.3c04054",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1021/acsami.3c04054",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1021/acsami.3c04054",
+    "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsami.3c04054",
+    "source": {
+      "id": "https://openalex.org/S164001016",
+      "display_name": "ACS Applied Materials & Interfaces",
+      "issn_l": "1944-8244",
+      "issn": [
+        "1944-8244",
+        "1944-8252"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320006",
+      "host_organization_name": "American Chemical Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320006"
+      ],
+      "host_organization_lineage_names": [
+        "American Chemical Society"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "ACS Applied Materials &amp; Interfaces",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4191739917",
+      "display_name": null,
+      "funder_award_id": "ZT-I-PF-4-027",
+      "funder_id": "https://openalex.org/F4320320876",
+      "funder_display_name": "Helmholtz-Gemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320876",
+      "display_name": "Helmholtz-Gemeinschaft",
+      "ror": "https://ror.org/0281dp749"
+    },
+    {
+      "id": "https://openalex.org/F4320324232",
+      "display_name": "RWTH Aachen University",
+      "ror": "https://ror.org/04xfq0f34"
+    },
+    {
+      "id": "https://openalex.org/F4320334759",
+      "display_name": "Deutsches Elektronen-Synchrotron",
+      "ror": "https://ror.org/01js2sh04"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4384488591.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4384488591.grobid-xml"
+  },
+  "referenced_works_count": 53,
+  "referenced_works": [
+    "https://openalex.org/W1041874699",
+    "https://openalex.org/W1526053745",
+    "https://openalex.org/W1981260485",
+    "https://openalex.org/W1995277257",
+    "https://openalex.org/W2011341790",
+    "https://openalex.org/W2024759150",
+    "https://openalex.org/W2054285820",
+    "https://openalex.org/W2058567964",
+    "https://openalex.org/W2066347205",
+    "https://openalex.org/W2081376387",
+    "https://openalex.org/W2083830549",
+    "https://openalex.org/W2113739431",
+    "https://openalex.org/W2124607121",
+    "https://openalex.org/W2128447343",
+    "https://openalex.org/W2157051294",
+    "https://openalex.org/W2167279371",
+    "https://openalex.org/W2207670361",
+    "https://openalex.org/W2283561039",
+    "https://openalex.org/W2336358074",
+    "https://openalex.org/W2488079894",
+    "https://openalex.org/W2555725827",
+    "https://openalex.org/W2587956943",
+    "https://openalex.org/W2608480864",
+    "https://openalex.org/W2648833665",
+    "https://openalex.org/W2738451310",
+    "https://openalex.org/W2769359134",
+    "https://openalex.org/W2789333639",
+    "https://openalex.org/W2811490300",
+    "https://openalex.org/W2883246143",
+    "https://openalex.org/W2906954529",
+    "https://openalex.org/W2945244478",
+    "https://openalex.org/W2954253522",
+    "https://openalex.org/W2966432535",
+    "https://openalex.org/W2971641119",
+    "https://openalex.org/W3007391939",
+    "https://openalex.org/W3010972288",
+    "https://openalex.org/W3046581697",
+    "https://openalex.org/W3046910519",
+    "https://openalex.org/W3090249229",
+    "https://openalex.org/W3094074167",
+    "https://openalex.org/W3107067604",
+    "https://openalex.org/W3118235918",
+    "https://openalex.org/W3121781118",
+    "https://openalex.org/W3160659902",
+    "https://openalex.org/W3168777726",
+    "https://openalex.org/W3199400734",
+    "https://openalex.org/W4210562285",
+    "https://openalex.org/W4210584500",
+    "https://openalex.org/W4211147970",
+    "https://openalex.org/W4226480058",
+    "https://openalex.org/W4251125316",
+    "https://openalex.org/W4308388229",
+    "https://openalex.org/W4384451877"
+  ],
+  "related_works": [
+    "https://openalex.org/W3150851457",
+    "https://openalex.org/W3006534613",
+    "https://openalex.org/W2972590550",
+    "https://openalex.org/W2077174545",
+    "https://openalex.org/W2413403697",
+    "https://openalex.org/W2127573273",
+    "https://openalex.org/W2058940780",
+    "https://openalex.org/W2031529581",
+    "https://openalex.org/W2801214078",
+    "https://openalex.org/W4292181172"
+  ],
+  "abstract_inverted_index": {
+    "High": [
+      0
+    ],
+    "Resolution": [
+      1
+    ],
+    "Image": [
+      2
+    ],
+    "Download": [
+      3
+    ],
+    "MS": [
+      4
+    ],
+    "PowerPoint": [
+      5
+    ],
+    "Slide": [
+      6
+    ],
+    "Functional": [
+      7
+    ],
+    "materials": [
+      8,
+      96
+    ],
+    "feature": [
+      9
+    ],
+    "hierarchical": [
+      10
+    ],
+    "microstructures": [
+      11
+    ],
+    "that": [
+      12
+    ],
+    "define": [
+      13
+    ],
+    "their": [
+      14
+    ],
+    "unique": [
+      15
+    ],
+    "set": [
+      16
+    ],
+    "of": [
+      17,
+      23,
+      29,
+      33,
+      91,
+      95,
+      130,
+      145,
+      152,
+      180,
+      200
+    ],
+    "properties.": [
+      18
+    ],
+    "The": [
+      19,
+      112,
+      150
+    ],
+    "prediction": [
+      20
+    ],
+    "and": [
+      21,
+      35,
+      58,
+      121,
+      141,
+      162
+    ],
+    "tailoring": [
+      22
+    ],
+    "these": [
+      24
+    ],
+    "require": [
+      25
+    ],
+    "a": [
+      26,
+      76,
+      109,
+      125,
+      142
+    ],
+    "multiscale": [
+      27
+    ],
+    "knowledge": [
+      28
+    ],
+    "the": [
+      30,
+      53,
+      56,
+      59,
+      86,
+      92,
+      128,
+      170,
+      178,
+      187,
+      197,
+      201
+    ],
+    "mechanistic": [
+      31
+    ],
+    "interaction": [
+      32
+    ],
+    "microstructure": [
+      34,
+      57
+    ],
+    "property.": [
+      36
+    ],
+    "An": [
+      37
+    ],
+    "important": [
+      38
+    ],
+    "material": [
+      39
+    ],
+    "in": [
+      40,
+      64,
+      87,
+      134
+    ],
+    "this": [
+      41,
+      74,
+      175
+    ],
+    "respect": [
+      42
+    ],
+    "is": [
+      43,
+      81,
+      148,
+      165,
+      184
+    ],
+    "biodegradable": [
+      44
+    ],
+    "magnesium": [
+      45
+    ],
+    "alloys": [
+      46
+    ],
+    "used": [
+      47
+    ],
+    "for": [
+      48,
+      85,
+      174
+    ],
+    "implant": [
+      49
+    ],
+    "applications.": [
+      50
+    ],
+    "To": [
+      51
+    ],
+    "correlate": [
+      52
+    ],
+    "relationship": [
+      54
+    ],
+    "between": [
+      55
+    ],
+    "nonlinear": [
+      60
+    ],
+    "degradation": [
+      61,
+      204
+    ],
+    "process,": [
+      62
+    ],
+    "high-resolution": [
+      63
+    ],
+    "situ": [
+      65,
+      88
+    ],
+    "three-dimensional": [
+      66
+    ],
+    "(3D)": [
+      67
+    ],
+    "imaging": [
+      68,
+      90,
+      156,
+      172
+    ],
+    "experiments": [
+      69
+    ],
+    "must": [
+      70
+    ],
+    "be": [
+      71
+    ],
+    "performed.": [
+      72,
+      206
+    ],
+    "For": [
+      73
+    ],
+    "purpose,": [
+      75
+    ],
+    "novel": [
+      77
+    ],
+    "experimental": [
+      78
+    ],
+    "flow": [
+      79,
+      113,
+      143
+    ],
+    "cell": [
+      80,
+      114
+    ],
+    "presented": [
+      82
+    ],
+    "which": [
+      83
+    ],
+    "allows": [
+      84
+    ],
+    "3D-nano": [
+      89
+    ],
+    "biodegradation": [
+      93,
+      129
+    ],
+    "process": [
+      94
+    ],
+    "with": [
+      97
+    ],
+    "nominal": [
+      98
+    ],
+    "resolutions": [
+      99
+    ],
+    "below": [
+      100
+    ],
+    "100": [
+      101
+    ],
+    "nm": [
+      102
+    ],
+    "using": [
+      103,
+      192
+    ],
+    "nanofocused": [
+      104
+    ],
+    "hard": [
+      105
+    ],
+    "X-ray": [
+      106,
+      160
+    ],
+    "radiation": [
+      107
+    ],
+    "from": [
+      108
+    ],
+    "synchrotron": [
+      110
+    ],
+    "source.": [
+      111
+    ],
+    "setup": [
+      115
+    ],
+    "can": [
+      116
+    ],
+    "operate": [
+      117
+    ],
+    "under": [
+      118,
+      138
+    ],
+    "adjustable": [
+      119
+    ],
+    "physiological": [
+      120,
+      139,
+      182
+    ],
+    "hydrodynamic": [
+      122
+    ],
+    "conditions.": [
+      123
+    ],
+    "As": [
+      124
+    ],
+    "model": [
+      126
+    ],
+    "material,": [
+      127
+    ],
+    "thin": [
+      131
+    ],
+    "Mg-4Ag": [
+      132
+    ],
+    "wires": [
+      133
+    ],
+    "simulated": [
+      135
+    ],
+    "body": [
+      136
+    ],
+    "fluid": [
+      137
+    ],
+    "conditions": [
+      140,
+      183
+    ],
+    "rate": [
+      144
+    ],
+    "1": [
+      146
+    ],
+    "mL/min": [
+      147
+    ],
+    "studied.": [
+      149
+    ],
+    "use": [
+      151
+    ],
+    "two": [
+      153
+    ],
+    "full-field": [
+      154
+    ],
+    "nanotomographic": [
+      155
+    ],
+    "techniques,": [
+      157
+    ],
+    "namely": [
+      158
+    ],
+    "transmission": [
+      159
+    ],
+    "microscopy": [
+      161,
+      194
+    ],
+    "near-field": [
+      163
+    ],
+    "holotomography,": [
+      164
+    ],
+    "compared,": [
+      166
+    ],
+    "revealing": [
+      167
+    ],
+    "holotomography": [
+      168
+    ],
+    "as": [
+      169
+    ],
+    "superior": [
+      171
+    ],
+    "technique": [
+      173
+    ],
+    "purpose.": [
+      176
+    ],
+    "Additionally,": [
+      177
+    ],
+    "importance": [
+      179
+    ],
+    "maintaining": [
+      181
+    ],
+    "highlighted": [
+      185
+    ],
+    "by": [
+      186
+    ],
+    "preliminary": [
+      188
+    ],
+    "results.": [
+      189
+    ],
+    "Supporting": [
+      190
+    ],
+    "measurements": [
+      191
+    ],
+    "electron": [
+      193
+    ],
+    "to": [
+      195
+    ],
+    "investigate": [
+      196
+    ],
+    "chemical": [
+      198
+    ],
+    "composition": [
+      199
+    ],
+    "samples": [
+      202
+    ],
+    "after": [
+      203
+    ],
+    "are": [
+      205
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

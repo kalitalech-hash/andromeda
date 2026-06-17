@@ -1,0 +1,1059 @@
+{
+  "id": "https://openalex.org/W2973327684",
+  "doi": "https://doi.org/10.1101/776567",
+  "title": "Stochastic activation and bistability in a Rab GTPase regulatory network",
+  "display_name": "Stochastic activation and bistability in a Rab GTPase regulatory network",
+  "publication_year": 2019,
+  "publication_date": "2019-09-23",
+  "ids": {
+    "openalex": "https://openalex.org/W2973327684",
+    "doi": "https://doi.org/10.1101/776567",
+    "mag": "2973327684"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/776567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/776567",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/09/23/776567.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2019/09/23/776567.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5039976662",
+        "display_name": "Urban Bezeljak",
+        "orcid": "https://orcid.org/0000-0003-1365-5631"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Urban Bezeljak",
+      "raw_affiliation_strings": [
+        "Institute for Science and Technology Austria (IST Austria), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1365-5631",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Science and Technology Austria (IST Austria), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007410227",
+        "display_name": "Hrushikesh Loya",
+        "orcid": "https://orcid.org/0000-0002-4587-6378"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I162827531",
+          "display_name": "Indian Institute of Technology Bombay",
+          "ror": "https://ror.org/02qyf5152",
+          "country_code": "IN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I162827531"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hrushikesh Loya",
+      "raw_affiliation_strings": [
+        "Indian Institute of Technology, Bombay, India"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Indian Institute of Technology, Bombay, India",
+          "institution_ids": [
+            "https://openalex.org/I162827531"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104273213",
+        "display_name": "Beata Kaczmarek",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Kaczmarek",
+      "raw_affiliation_strings": [
+        "Institute for Science and Technology Austria (IST Austria), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Science and Technology Austria (IST Austria), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033988677",
+        "display_name": "Timothy E. Saunders",
+        "orcid": "https://orcid.org/0000-0001-5755-0060"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165932596",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Timothy E. Saunders",
+      "raw_affiliation_strings": [
+        "Mechanobiology Institute and Department of Biological Sciences, National University of Singapore, Singapore"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Mechanobiology Institute and Department of Biological Sciences, National University of Singapore, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5015595521",
+        "display_name": "Martin Loose",
+        "orcid": "https://orcid.org/0000-0001-7309-9724"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Martin Loose",
+      "raw_affiliation_strings": [
+        "Institute for Science and Technology Austria (IST Austria), Klosterneuburg, Austria"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7309-9724",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Science and Technology Austria (IST Austria), Klosterneuburg, Austria",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5015595521",
+    "https://openalex.org/A5033988677"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I157556583",
+    "https://openalex.org/I165932596"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10617",
+    "display_name": "Cellular transport and secretion",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1307",
+      "display_name": "Cell Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10617",
+      "display_name": "Cellular transport and secretion",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10407",
+      "display_name": "Lipid Membrane Structure and Behavior",
+      "score": 0.9966999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10691",
+      "display_name": "Retinal Development and Disorders",
+      "score": 0.9965000152587891,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/rab",
+      "display_name": "Rab",
+      "score": 0.9406115412712097
+    },
+    {
+      "id": "https://openalex.org/keywords/gtpase",
+      "display_name": "GTPase",
+      "score": 0.914313554763794
+    },
+    {
+      "id": "https://openalex.org/keywords/bistability",
+      "display_name": "Bistability",
+      "score": 0.7997428178787231
+    },
+    {
+      "id": "https://openalex.org/keywords/intracellular",
+      "display_name": "Intracellular",
+      "score": 0.49289917945861816
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.47933611273765564
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.4655822813510895
+    },
+    {
+      "id": "https://openalex.org/keywords/guanine-nucleotide-exchange-factor",
+      "display_name": "Guanine nucleotide exchange factor",
+      "score": 0.46130043268203735
+    },
+    {
+      "id": "https://openalex.org/keywords/function",
+      "display_name": "Function (biology)",
+      "score": 0.45542922616004944
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.4064132869243622
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.3665844202041626
+    },
+    {
+      "id": "https://openalex.org/keywords/biophysics",
+      "display_name": "Biophysics",
+      "score": 0.3507709801197052
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.20668929815292358
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C156728348",
+      "wikidata": "https://www.wikidata.org/wiki/Q416778",
+      "display_name": "Rab",
+      "level": 3,
+      "score": 0.9406115412712097
+    },
+    {
+      "id": "https://openalex.org/C207332259",
+      "wikidata": "https://www.wikidata.org/wiki/Q769143",
+      "display_name": "GTPase",
+      "level": 2,
+      "score": 0.914313554763794
+    },
+    {
+      "id": "https://openalex.org/C97292510",
+      "wikidata": "https://www.wikidata.org/wiki/Q2304620",
+      "display_name": "Bistability",
+      "level": 2,
+      "score": 0.7997428178787231
+    },
+    {
+      "id": "https://openalex.org/C79879829",
+      "wikidata": "https://www.wikidata.org/wiki/Q5571762",
+      "display_name": "Intracellular",
+      "level": 2,
+      "score": 0.49289917945861816
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.47933611273765564
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.4655822813510895
+    },
+    {
+      "id": "https://openalex.org/C126619667",
+      "wikidata": "https://www.wikidata.org/wiki/Q901088",
+      "display_name": "Guanine nucleotide exchange factor",
+      "level": 3,
+      "score": 0.46130043268203735
+    },
+    {
+      "id": "https://openalex.org/C14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "level": 2,
+      "score": 0.45542922616004944
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.4064132869243622
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.3665844202041626
+    },
+    {
+      "id": "https://openalex.org/C12554922",
+      "wikidata": "https://www.wikidata.org/wiki/Q7100",
+      "display_name": "Biophysics",
+      "level": 1,
+      "score": 0.3507709801197052
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.20668929815292358
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/776567",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/776567",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/09/23/776567.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/776567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/776567",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/09/23/776567.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2500807902",
+      "display_name": null,
+      "funder_award_id": "PHY-1748958",
+      "funder_id": "https://openalex.org/F4320306202",
+      "funder_display_name": "Gordon and Betty Moore Foundation"
+    },
+    {
+      "id": "https://openalex.org/G3009324719",
+      "display_name": null,
+      "funder_award_id": "2919.01",
+      "funder_id": "https://openalex.org/F4320306202",
+      "funder_display_name": "Gordon and Betty Moore Foundation"
+    },
+    {
+      "id": "https://openalex.org/G3773749580",
+      "display_name": null,
+      "funder_award_id": "PHY-1748958",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G439613525",
+      "display_name": null,
+      "funder_award_id": "R25GM067110",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G5432664585",
+      "display_name": null,
+      "funder_award_id": "No. 2919.01",
+      "funder_id": "https://openalex.org/F4320306202",
+      "funder_display_name": "Gordon and Betty Moore Foundation"
+    },
+    {
+      "id": "https://openalex.org/G8386048894",
+      "display_name": null,
+      "funder_award_id": "Grant No. 2919.01",
+      "funder_id": "https://openalex.org/F4320306202",
+      "funder_display_name": "Gordon and Betty Moore Foundation"
+    },
+    {
+      "id": "https://openalex.org/G8497063558",
+      "display_name": null,
+      "funder_award_id": "1748958",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G8754301648",
+      "display_name": null,
+      "funder_award_id": "R25GM067110",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G896993897",
+      "display_name": null,
+      "funder_award_id": "No. R25GM067110",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320306202",
+      "display_name": "Gordon and Betty Moore Foundation",
+      "ror": "https://ror.org/006wxqw41"
+    },
+    {
+      "id": "https://openalex.org/F4320315473",
+      "display_name": "Institute of Science and Technology Austria",
+      "ror": "https://ror.org/03gnh5541"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2973327684.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2973327684.grobid-xml"
+  },
+  "referenced_works_count": 52,
+  "referenced_works": [
+    "https://openalex.org/W1483826909",
+    "https://openalex.org/W1487068445",
+    "https://openalex.org/W1591718604",
+    "https://openalex.org/W1595083713",
+    "https://openalex.org/W1964756055",
+    "https://openalex.org/W1966332308",
+    "https://openalex.org/W1967182910",
+    "https://openalex.org/W1971644094",
+    "https://openalex.org/W1978391620",
+    "https://openalex.org/W1980661496",
+    "https://openalex.org/W1987219070",
+    "https://openalex.org/W1990441661",
+    "https://openalex.org/W1994668150",
+    "https://openalex.org/W1999786030",
+    "https://openalex.org/W2015188565",
+    "https://openalex.org/W2018182827",
+    "https://openalex.org/W2025871861",
+    "https://openalex.org/W2026283030",
+    "https://openalex.org/W2037992356",
+    "https://openalex.org/W2049336663",
+    "https://openalex.org/W2049878966",
+    "https://openalex.org/W2052924433",
+    "https://openalex.org/W2054149782",
+    "https://openalex.org/W2060614579",
+    "https://openalex.org/W2065015815",
+    "https://openalex.org/W2069738597",
+    "https://openalex.org/W2070658593",
+    "https://openalex.org/W2074851426",
+    "https://openalex.org/W2089840306",
+    "https://openalex.org/W2097772037",
+    "https://openalex.org/W2098824895",
+    "https://openalex.org/W2099564767",
+    "https://openalex.org/W2120689665",
+    "https://openalex.org/W2121977115",
+    "https://openalex.org/W2128506555",
+    "https://openalex.org/W2133059094",
+    "https://openalex.org/W2134759932",
+    "https://openalex.org/W2135326887",
+    "https://openalex.org/W2146253307",
+    "https://openalex.org/W2146503498",
+    "https://openalex.org/W2153493310",
+    "https://openalex.org/W2158123283",
+    "https://openalex.org/W2162598202",
+    "https://openalex.org/W2339521790",
+    "https://openalex.org/W2554686319",
+    "https://openalex.org/W2622556140",
+    "https://openalex.org/W2770539102",
+    "https://openalex.org/W2782976240",
+    "https://openalex.org/W2897465690",
+    "https://openalex.org/W2902400079",
+    "https://openalex.org/W2917190207",
+    "https://openalex.org/W2950681580"
+  ],
+  "related_works": [
+    "https://openalex.org/W4211072085",
+    "https://openalex.org/W2395075066",
+    "https://openalex.org/W1611350409",
+    "https://openalex.org/W3198907310",
+    "https://openalex.org/W3184795822",
+    "https://openalex.org/W2901203581",
+    "https://openalex.org/W2071884450",
+    "https://openalex.org/W4205208323",
+    "https://openalex.org/W3108172783",
+    "https://openalex.org/W2894833352"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Rab": [
+      1,
+      34
+    ],
+    "GTPases": [
+      2,
+      35
+    ],
+    "are": [
+      3
+    ],
+    "the": [
+      4,
+      89,
+      95,
+      99,
+      109,
+      120,
+      124
+    ],
+    "central": [
+      5
+    ],
+    "regulators": [
+      6
+    ],
+    "of": [
+      7,
+      81,
+      92,
+      115,
+      123
+    ],
+    "intracellular": [
+      8
+    ],
+    "traffic.": [
+      9
+    ],
+    "Their": [
+      10
+    ],
+    "function": [
+      11
+    ],
+    "relies": [
+      12
+    ],
+    "on": [
+      13,
+      94
+    ],
+    "a": [
+      14,
+      42,
+      63
+    ],
+    "conformational": [
+      15
+    ],
+    "change": [
+      16
+    ],
+    "triggered": [
+      17
+    ],
+    "by": [
+      18
+    ],
+    "nucleotide": [
+      19
+    ],
+    "exchange": [
+      20
+    ],
+    "and": [
+      21,
+      47,
+      84,
+      112
+    ],
+    "hydrolysis.": [
+      22
+    ],
+    "While": [
+      23
+    ],
+    "this": [
+      24,
+      74
+    ],
+    "switch": [
+      25
+    ],
+    "is": [
+      26,
+      49
+    ],
+    "well": [
+      27
+    ],
+    "understood": [
+      28
+    ],
+    "for": [
+      29
+    ],
+    "an": [
+      30
+    ],
+    "individual": [
+      31
+    ],
+    "protein,": [
+      32
+    ],
+    "how": [
+      33
+    ],
+    "collectively": [
+      36
+    ],
+    "transition": [
+      37
+    ],
+    "between": [
+      38
+    ],
+    "states": [
+      39
+    ],
+    "to": [
+      40,
+      61,
+      78
+    ],
+    "generate": [
+      41
+    ],
+    "biochemical": [
+      43,
+      116
+    ],
+    "signal": [
+      44
+    ],
+    "in": [
+      45,
+      54,
+      73
+    ],
+    "space": [
+      46
+    ],
+    "time": [
+      48
+    ],
+    "unclear.": [
+      50
+    ],
+    "Here,": [
+      51
+    ],
+    "we": [
+      52
+    ],
+    "combine": [
+      53
+    ],
+    "vitro": [
+      55
+    ],
+    "reconstitution": [
+      56
+    ],
+    "experiments": [
+      57
+    ],
+    "with": [
+      58
+    ],
+    "theoretical": [
+      59
+    ],
+    "modeling": [
+      60
+    ],
+    "study": [
+      62
+    ],
+    "minimal": [
+      64
+    ],
+    "Rab5": [
+      65,
+      82,
+      93
+    ],
+    "activation": [
+      66,
+      83
+    ],
+    "network.": [
+      67
+    ],
+    "We": [
+      68
+    ],
+    "find": [
+      69
+    ],
+    "that": [
+      70,
+      87
+    ],
+    "positive": [
+      71
+    ],
+    "feedback": [
+      72
+    ],
+    "network": [
+      75,
+      100
+    ],
+    "gives": [
+      76
+    ],
+    "rise": [
+      77
+    ],
+    "bistable": [
+      79
+    ],
+    "switching": [
+      80
+    ],
+    "provide": [
+      85
+    ],
+    "evidence": [
+      86
+    ],
+    "controlling": [
+      88
+    ],
+    "inactive": [
+      90
+    ],
+    "population": [
+      91
+    ],
+    "membrane": [
+      96
+    ],
+    "can": [
+      97
+    ],
+    "shape": [
+      98
+    ],
+    "response.": [
+      101
+    ],
+    "Together,": [
+      102
+    ],
+    "our": [
+      103
+    ],
+    "findings": [
+      104
+    ],
+    "reveal": [
+      105
+    ],
+    "new": [
+      106
+    ],
+    "insights": [
+      107
+    ],
+    "into": [
+      108
+    ],
+    "non-equilibrium": [
+      110
+    ],
+    "properties": [
+      111
+    ],
+    "general": [
+      113
+    ],
+    "principles": [
+      114
+    ],
+    "signaling": [
+      117
+    ],
+    "networks": [
+      118
+    ],
+    "underlying": [
+      119
+    ],
+    "spatiotemporal": [
+      121
+    ],
+    "organization": [
+      122
+    ],
+    "cell.": [
+      125
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

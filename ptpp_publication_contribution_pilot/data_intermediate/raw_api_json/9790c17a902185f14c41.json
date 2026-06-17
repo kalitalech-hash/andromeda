@@ -1,0 +1,1178 @@
+{
+  "id": "https://openalex.org/W4413206391",
+  "doi": "https://doi.org/10.3390/su17167226",
+  "title": "Prediction of the Sustainability Index in Family Firms Using Explainable Artificial Intelligence",
+  "display_name": "Prediction of the Sustainability Index in Family Firms Using Explainable Artificial Intelligence",
+  "publication_year": 2025,
+  "publication_date": "2025-08-10",
+  "ids": {
+    "openalex": "https://openalex.org/W4413206391",
+    "doi": "https://doi.org/10.3390/su17167226"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/su17167226",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/su17167226",
+    "pdf_url": "https://www.mdpi.com/2071-1050/17/16/7226/pdf?version=1754810625",
+    "source": {
+      "id": "https://openalex.org/S10134376",
+      "display_name": "Sustainability",
+      "issn_l": "2071-1050",
+      "issn": [
+        "2071-1050"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sustainability",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2071-1050/17/16/7226/pdf?version=1754810625",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5036981257",
+        "display_name": "Marcin Nowak",
+        "orcid": "https://orcid.org/0000-0001-5005-7820"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marcin Nowak",
+      "raw_affiliation_strings": [
+        "Faculty of Engineering Management, Poznan University of Technology, 60-965 Poznan, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5005-7820",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Engineering Management, Poznan University of Technology, 60-965 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082081834",
+        "display_name": "Robert Zajkowski",
+        "orcid": "https://orcid.org/0000-0002-0021-7977"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I174183983",
+          "display_name": "Maria Curie-Skłodowska University",
+          "ror": "https://ror.org/015h0qg34",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I174183983"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Zajkowski",
+      "raw_affiliation_strings": [
+        "Department of Banking and Financial Markets, Faculty of Economics, Maria Curie-Sklodowska University in Lublin, 20-031 Lublin, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Banking and Financial Markets, Faculty of Economics, Maria Curie-Sklodowska University in Lublin, 20-031 Lublin, Poland",
+          "institution_ids": [
+            "https://openalex.org/I174183983"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5093513629",
+        "display_name": "Marta Pawłowska-Nowak",
+        "orcid": "https://orcid.org/0000-0002-6918-1714"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Pawłowska-Nowak",
+      "raw_affiliation_strings": [
+        "Faculty of Engineering Management, Poznan University of Technology, 60-965 Poznan, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6918-1714",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Engineering Management, Poznan University of Technology, 60-965 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5036981257"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I46597724"
+  ],
+  "apc_list": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "apc_paid": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "fwci": 4.2285,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.93958628,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "17",
+    "issue": "16",
+    "first_page": "7226",
+    "last_page": "7226"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11843",
+    "display_name": "Family Business Performance and Succession",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1407",
+      "display_name": "Organizational Behavior and Human Resource Management"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/14",
+      "display_name": "Business, Management and Accounting"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11843",
+      "display_name": "Family Business Performance and Succession",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10058",
+      "display_name": "Entrepreneurship Studies and Influences",
+      "score": 0.9933000206947327,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12851",
+      "display_name": "Firm Innovation and Growth",
+      "score": 0.9071999788284302,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/socioemotional-selectivity-theory",
+      "display_name": "Socioemotional selectivity theory",
+      "score": 0.8769063353538513
+    },
+    {
+      "id": "https://openalex.org/keywords/sustainability",
+      "display_name": "Sustainability",
+      "score": 0.7836846709251404
+    },
+    {
+      "id": "https://openalex.org/keywords/random-forest",
+      "display_name": "Random forest",
+      "score": 0.7757588028907776
+    },
+    {
+      "id": "https://openalex.org/keywords/support-vector-machine",
+      "display_name": "Support vector machine",
+      "score": 0.6327855587005615
+    },
+    {
+      "id": "https://openalex.org/keywords/index",
+      "display_name": "Index (typography)",
+      "score": 0.5998058915138245
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.5350856184959412
+    },
+    {
+      "id": "https://openalex.org/keywords/decision-tree",
+      "display_name": "Decision tree",
+      "score": 0.5320687294006348
+    },
+    {
+      "id": "https://openalex.org/keywords/promotion",
+      "display_name": "Promotion (chess)",
+      "score": 0.5041180849075317
+    },
+    {
+      "id": "https://openalex.org/keywords/kernel",
+      "display_name": "Kernel (algebra)",
+      "score": 0.4975924789905548
+    },
+    {
+      "id": "https://openalex.org/keywords/feature",
+      "display_name": "Feature (linguistics)",
+      "score": 0.48301514983177185
+    },
+    {
+      "id": "https://openalex.org/keywords/dimension",
+      "display_name": "Dimension (graph theory)",
+      "score": 0.46878138184547424
+    },
+    {
+      "id": "https://openalex.org/keywords/regression",
+      "display_name": "Regression",
+      "score": 0.43209731578826904
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4228835105895996
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.38284581899642944
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.3797215521335602
+    },
+    {
+      "id": "https://openalex.org/keywords/econometrics",
+      "display_name": "Econometrics",
+      "score": 0.35973089933395386
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.2652374804019928
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.25518524646759033
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.11595416069030762
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C101595628",
+      "wikidata": "https://www.wikidata.org/wiki/Q7552788",
+      "display_name": "Socioemotional selectivity theory",
+      "level": 2,
+      "score": 0.8769063353538513
+    },
+    {
+      "id": "https://openalex.org/C66204764",
+      "wikidata": "https://www.wikidata.org/wiki/Q219416",
+      "display_name": "Sustainability",
+      "level": 2,
+      "score": 0.7836846709251404
+    },
+    {
+      "id": "https://openalex.org/C169258074",
+      "wikidata": "https://www.wikidata.org/wiki/Q245748",
+      "display_name": "Random forest",
+      "level": 2,
+      "score": 0.7757588028907776
+    },
+    {
+      "id": "https://openalex.org/C12267149",
+      "wikidata": "https://www.wikidata.org/wiki/Q282453",
+      "display_name": "Support vector machine",
+      "level": 2,
+      "score": 0.6327855587005615
+    },
+    {
+      "id": "https://openalex.org/C2777382242",
+      "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+      "display_name": "Index (typography)",
+      "level": 2,
+      "score": 0.5998058915138245
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5350856184959412
+    },
+    {
+      "id": "https://openalex.org/C84525736",
+      "wikidata": "https://www.wikidata.org/wiki/Q831366",
+      "display_name": "Decision tree",
+      "level": 2,
+      "score": 0.5320687294006348
+    },
+    {
+      "id": "https://openalex.org/C98147612",
+      "wikidata": "https://www.wikidata.org/wiki/Q215599",
+      "display_name": "Promotion (chess)",
+      "level": 3,
+      "score": 0.5041180849075317
+    },
+    {
+      "id": "https://openalex.org/C74193536",
+      "wikidata": "https://www.wikidata.org/wiki/Q574844",
+      "display_name": "Kernel (algebra)",
+      "level": 2,
+      "score": 0.4975924789905548
+    },
+    {
+      "id": "https://openalex.org/C2776401178",
+      "wikidata": "https://www.wikidata.org/wiki/Q12050496",
+      "display_name": "Feature (linguistics)",
+      "level": 2,
+      "score": 0.48301514983177185
+    },
+    {
+      "id": "https://openalex.org/C33676613",
+      "wikidata": "https://www.wikidata.org/wiki/Q13415176",
+      "display_name": "Dimension (graph theory)",
+      "level": 2,
+      "score": 0.46878138184547424
+    },
+    {
+      "id": "https://openalex.org/C83546350",
+      "wikidata": "https://www.wikidata.org/wiki/Q1139051",
+      "display_name": "Regression",
+      "level": 2,
+      "score": 0.43209731578826904
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4228835105895996
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.38284581899642944
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.3797215521335602
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.35973089933395386
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.2652374804019928
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.25518524646759033
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.11595416069030762
+    },
+    {
+      "id": "https://openalex.org/C114614502",
+      "wikidata": "https://www.wikidata.org/wiki/Q76592",
+      "display_name": "Combinatorics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.3390/su17167226",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/su17167226",
+      "pdf_url": "https://www.mdpi.com/2071-1050/17/16/7226/pdf?version=1754810625",
+      "source": {
+        "id": "https://openalex.org/S10134376",
+        "display_name": "Sustainability",
+        "issn_l": "2071-1050",
+        "issn": [
+          "2071-1050"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sustainability",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/su17167226",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/su17167226",
+    "pdf_url": "https://www.mdpi.com/2071-1050/17/16/7226/pdf?version=1754810625",
+    "source": {
+      "id": "https://openalex.org/S10134376",
+      "display_name": "Sustainability",
+      "issn_l": "2071-1050",
+      "issn": [
+        "2071-1050"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sustainability",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4413206391.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4413206391.grobid-xml"
+  },
+  "referenced_works_count": 183,
+  "referenced_works": [
+    "https://openalex.org/W75413311",
+    "https://openalex.org/W131880392",
+    "https://openalex.org/W1574908486",
+    "https://openalex.org/W1611662265",
+    "https://openalex.org/W1821524388",
+    "https://openalex.org/W1875061881",
+    "https://openalex.org/W1880516717",
+    "https://openalex.org/W1920287578",
+    "https://openalex.org/W1959002487",
+    "https://openalex.org/W1971410477",
+    "https://openalex.org/W1973912172",
+    "https://openalex.org/W1974773993",
+    "https://openalex.org/W1976574566",
+    "https://openalex.org/W1979080172",
+    "https://openalex.org/W1982850423",
+    "https://openalex.org/W1985372952",
+    "https://openalex.org/W1986618212",
+    "https://openalex.org/W1986643882",
+    "https://openalex.org/W1988138859",
+    "https://openalex.org/W1990462440",
+    "https://openalex.org/W1996111496",
+    "https://openalex.org/W2006333148",
+    "https://openalex.org/W2010053310",
+    "https://openalex.org/W2034264459",
+    "https://openalex.org/W2040709535",
+    "https://openalex.org/W2043722092",
+    "https://openalex.org/W2050960189",
+    "https://openalex.org/W2055056573",
+    "https://openalex.org/W2055522016",
+    "https://openalex.org/W2063614605",
+    "https://openalex.org/W2067677413",
+    "https://openalex.org/W2069871160",
+    "https://openalex.org/W2071163457",
+    "https://openalex.org/W2076160473",
+    "https://openalex.org/W2077346370",
+    "https://openalex.org/W2098563832",
+    "https://openalex.org/W2099497722",
+    "https://openalex.org/W2103166661",
+    "https://openalex.org/W2105276238",
+    "https://openalex.org/W2109497565",
+    "https://openalex.org/W2111867088",
+    "https://openalex.org/W2115973166",
+    "https://openalex.org/W2116971494",
+    "https://openalex.org/W2120275167",
+    "https://openalex.org/W2120532416",
+    "https://openalex.org/W2124477288",
+    "https://openalex.org/W2125275681",
+    "https://openalex.org/W2128348818",
+    "https://openalex.org/W2128507082",
+    "https://openalex.org/W2130689257",
+    "https://openalex.org/W2136742386",
+    "https://openalex.org/W2139008776",
+    "https://openalex.org/W2143899567",
+    "https://openalex.org/W2146843086",
+    "https://openalex.org/W2149835092",
+    "https://openalex.org/W2150529564",
+    "https://openalex.org/W2151840180",
+    "https://openalex.org/W2158517811",
+    "https://openalex.org/W2160973937",
+    "https://openalex.org/W2168237201",
+    "https://openalex.org/W2170261766",
+    "https://openalex.org/W2172225737",
+    "https://openalex.org/W2179665788",
+    "https://openalex.org/W2230162820",
+    "https://openalex.org/W2240348049",
+    "https://openalex.org/W2276018840",
+    "https://openalex.org/W2402044611",
+    "https://openalex.org/W2412247133",
+    "https://openalex.org/W2509626191",
+    "https://openalex.org/W2531646735",
+    "https://openalex.org/W2544369077",
+    "https://openalex.org/W2559467963",
+    "https://openalex.org/W2580476016",
+    "https://openalex.org/W2590515403",
+    "https://openalex.org/W2610002440",
+    "https://openalex.org/W2615984335",
+    "https://openalex.org/W2623703952",
+    "https://openalex.org/W2656910833",
+    "https://openalex.org/W2732853565",
+    "https://openalex.org/W2740601732",
+    "https://openalex.org/W2750544388",
+    "https://openalex.org/W2765571902",
+    "https://openalex.org/W2768934840",
+    "https://openalex.org/W2769310766",
+    "https://openalex.org/W2775889345",
+    "https://openalex.org/W2784332084",
+    "https://openalex.org/W2788094964",
+    "https://openalex.org/W2788143350",
+    "https://openalex.org/W2790874926",
+    "https://openalex.org/W2790973841",
+    "https://openalex.org/W2792575650",
+    "https://openalex.org/W2794110141",
+    "https://openalex.org/W2801168798",
+    "https://openalex.org/W2883143759",
+    "https://openalex.org/W2886308232",
+    "https://openalex.org/W2889767284",
+    "https://openalex.org/W2890469393",
+    "https://openalex.org/W2901686681",
+    "https://openalex.org/W2911964244",
+    "https://openalex.org/W2914386785",
+    "https://openalex.org/W2915651690",
+    "https://openalex.org/W2922160536",
+    "https://openalex.org/W2925125396",
+    "https://openalex.org/W2948366698",
+    "https://openalex.org/W2949105886",
+    "https://openalex.org/W2951790839",
+    "https://openalex.org/W2998661080",
+    "https://openalex.org/W3007086043",
+    "https://openalex.org/W3018087710",
+    "https://openalex.org/W3033025262",
+    "https://openalex.org/W3040626830",
+    "https://openalex.org/W3044901804",
+    "https://openalex.org/W3081854477",
+    "https://openalex.org/W3082003054",
+    "https://openalex.org/W3108142019",
+    "https://openalex.org/W3111736898",
+    "https://openalex.org/W3117583006",
+    "https://openalex.org/W3120416316",
+    "https://openalex.org/W3123693218",
+    "https://openalex.org/W3124082399",
+    "https://openalex.org/W3124866554",
+    "https://openalex.org/W3129301140",
+    "https://openalex.org/W3135691519",
+    "https://openalex.org/W3159112551",
+    "https://openalex.org/W3177266991",
+    "https://openalex.org/W3180685465",
+    "https://openalex.org/W3192947536",
+    "https://openalex.org/W3211571849",
+    "https://openalex.org/W3211828042",
+    "https://openalex.org/W3214935043",
+    "https://openalex.org/W4200028090",
+    "https://openalex.org/W4200477520",
+    "https://openalex.org/W4205160182",
+    "https://openalex.org/W4206359455",
+    "https://openalex.org/W4213113494",
+    "https://openalex.org/W4220695775",
+    "https://openalex.org/W4220945926",
+    "https://openalex.org/W4224243987",
+    "https://openalex.org/W4226049875",
+    "https://openalex.org/W4234319266",
+    "https://openalex.org/W4239393546",
+    "https://openalex.org/W4242171925",
+    "https://openalex.org/W4243019831",
+    "https://openalex.org/W4248439738",
+    "https://openalex.org/W4252723118",
+    "https://openalex.org/W4288069111",
+    "https://openalex.org/W4293764166",
+    "https://openalex.org/W4295107393",
+    "https://openalex.org/W4310364127",
+    "https://openalex.org/W4311145136",
+    "https://openalex.org/W4319461397",
+    "https://openalex.org/W4379184328",
+    "https://openalex.org/W4379260833",
+    "https://openalex.org/W4381125859",
+    "https://openalex.org/W4384202898",
+    "https://openalex.org/W4387018245",
+    "https://openalex.org/W4387654621",
+    "https://openalex.org/W4390728958",
+    "https://openalex.org/W4392103394",
+    "https://openalex.org/W4392703405",
+    "https://openalex.org/W4392865053",
+    "https://openalex.org/W4393385344",
+    "https://openalex.org/W4395001574",
+    "https://openalex.org/W4399433216",
+    "https://openalex.org/W4399707667",
+    "https://openalex.org/W4400577330",
+    "https://openalex.org/W4401502204",
+    "https://openalex.org/W4401634206",
+    "https://openalex.org/W4403329772",
+    "https://openalex.org/W4405366457",
+    "https://openalex.org/W4410004143",
+    "https://openalex.org/W4412945251",
+    "https://openalex.org/W6636322029",
+    "https://openalex.org/W6641133762",
+    "https://openalex.org/W6728919243",
+    "https://openalex.org/W6730328616",
+    "https://openalex.org/W6758831871",
+    "https://openalex.org/W6761716940",
+    "https://openalex.org/W6776108983",
+    "https://openalex.org/W6779003420",
+    "https://openalex.org/W6805100928",
+    "https://openalex.org/W6805238466",
+    "https://openalex.org/W7019859633"
+  ],
+  "related_works": [
+    "https://openalex.org/W2513664391",
+    "https://openalex.org/W3112085214",
+    "https://openalex.org/W4366990902",
+    "https://openalex.org/W4388550696",
+    "https://openalex.org/W4321636153",
+    "https://openalex.org/W4313289487",
+    "https://openalex.org/W2048488252",
+    "https://openalex.org/W2940614149",
+    "https://openalex.org/W2787485953",
+    "https://openalex.org/W3217432596"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      65,
+      102
+    ],
+    "first": [
+      1
+    ],
+    "objective": [
+      2,
+      67
+    ],
+    "of": [
+      3,
+      15,
+      24,
+      73,
+      82,
+      124
+    ],
+    "the": [
+      4,
+      13,
+      22,
+      31,
+      71,
+      79,
+      88,
+      111,
+      117,
+      121,
+      127
+    ],
+    "article": [
+      5
+    ],
+    "is": [
+      6,
+      120
+    ],
+    "to": [
+      7,
+      69
+    ],
+    "develop": [
+      8
+    ],
+    "a": [
+      9
+    ],
+    "method": [
+      10
+    ],
+    "for": [
+      11,
+      126
+    ],
+    "predicting": [
+      12
+    ],
+    "level": [
+      14
+    ],
+    "sustainability": [
+      16,
+      80,
+      118
+    ],
+    "in": [
+      17
+    ],
+    "family": [
+      18,
+      83,
+      107
+    ],
+    "firms": [
+      19,
+      108
+    ],
+    "based": [
+      20
+    ],
+    "on": [
+      21,
+      78,
+      105
+    ],
+    "dimensions": [
+      23,
+      77
+    ],
+    "socioemotional": [
+      25,
+      75
+    ],
+    "wealth.": [
+      26
+    ],
+    "To": [
+      27,
+      85
+    ],
+    "achieve": [
+      28
+    ],
+    "this": [
+      29,
+      86
+    ],
+    "goal,": [
+      30
+    ],
+    "following": [
+      32
+    ],
+    "machine": [
+      33
+    ],
+    "learning": [
+      34
+    ],
+    "algorithms": [
+      35
+    ],
+    "were": [
+      36
+    ],
+    "employed:": [
+      37
+    ],
+    "Support": [
+      38,
+      43
+    ],
+    "Vector": [
+      39,
+      44
+    ],
+    "Regression": [
+      40,
+      45,
+      63
+    ],
+    "(Linear": [
+      41
+    ],
+    "Kernel),": [
+      42,
+      49
+    ],
+    "(Radial": [
+      46
+    ],
+    "Basis": [
+      47
+    ],
+    "Function": [
+      48
+    ],
+    "Decision": [
+      50
+    ],
+    "Tree": [
+      51
+    ],
+    "Regressor": [
+      52,
+      55,
+      59
+    ],
+    "(DTR),": [
+      53
+    ],
+    "K-Neighbours": [
+      54
+    ],
+    "(KNR),": [
+      56
+    ],
+    "Random": [
+      57
+    ],
+    "Forest": [
+      58
+    ],
+    "(RF),": [
+      60
+    ],
+    "and": [
+      61
+    ],
+    "Linear": [
+      62
+    ],
+    "(LR).": [
+      64
+    ],
+    "second": [
+      66
+    ],
+    "was": [
+      68,
+      100
+    ],
+    "determine": [
+      70
+    ],
+    "impact": [
+      72
+    ],
+    "individual": [
+      74
+    ],
+    "wealth": [
+      76
+    ],
+    "index": [
+      81,
+      119
+    ],
+    "businesses.": [
+      84
+    ],
+    "end,": [
+      87
+    ],
+    "Permutation": [
+      89
+    ],
+    "Feature": [
+      90
+    ],
+    "Importance": [
+      91
+    ],
+    "(PFI)": [
+      92
+    ],
+    "method,": [
+      93
+    ],
+    "classified": [
+      94
+    ],
+    "under": [
+      95
+    ],
+    "Explainable": [
+      96
+    ],
+    "Artificial": [
+      97
+    ],
+    "Intelligence": [
+      98
+    ],
+    "(XAI),": [
+      99
+    ],
+    "used.": [
+      101
+    ],
+    "study’s": [
+      103
+    ],
+    "results": [
+      104
+    ],
+    "Polish": [
+      106
+    ],
+    "revealed": [
+      109
+    ],
+    "that": [
+      110
+    ],
+    "SEW": [
+      112
+    ],
+    "dimension": [
+      113
+    ],
+    "most": [
+      114
+    ],
+    "strongly": [
+      115
+    ],
+    "influencing": [
+      116
+    ],
+    "active": [
+      122
+    ],
+    "promotion": [
+      123
+    ],
+    "initiatives": [
+      125
+    ],
+    "local": [
+      128
+    ],
+    "community.": [
+      129
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

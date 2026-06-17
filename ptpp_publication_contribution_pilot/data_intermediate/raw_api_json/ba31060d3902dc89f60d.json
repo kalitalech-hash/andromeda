@@ -1,0 +1,951 @@
+{
+  "id": "https://openalex.org/W2892762007",
+  "doi": "https://doi.org/10.1016/j.procir.2018.08.220",
+  "title": "FEM-based optimization of machining operations of aerospace parts made of Inconel 718 superalloy",
+  "display_name": "FEM-based optimization of machining operations of aerospace parts made of Inconel 718 superalloy",
+  "publication_year": 2018,
+  "publication_date": "2018-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2892762007",
+    "doi": "https://doi.org/10.1016/j.procir.2018.08.220",
+    "mag": "2892762007"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.procir.2018.08.220",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.procir.2018.08.220",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2898565713",
+      "display_name": "Procedia CIRP",
+      "issn_l": "2212-8271",
+      "issn": [
+        "2212-8271"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Procedia CIRP",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.1016/j.procir.2018.08.220",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5077973039",
+        "display_name": "Piotr Niesłony",
+        "orcid": "https://orcid.org/0000-0001-8776-8458"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Piotr Niesłony",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Faculty of Mechanical Engineering, Mikolajczyka 5 Str., 45-271 Opole, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Faculty of Mechanical Engineering, Mikolajczyka 5 Str., 45-271 Opole, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072834315",
+        "display_name": "Wit Grzesik",
+        "orcid": "https://orcid.org/0000-0003-3898-5119"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wit Grzesik",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Faculty of Mechanical Engineering, Mikolajczyka 5 Str., 45-271 Opole, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Faculty of Mechanical Engineering, Mikolajczyka 5 Str., 45-271 Opole, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109772349",
+        "display_name": "Krzysztof Jarosz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Jarosz",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Faculty of Mechanical Engineering, Mikolajczyka 5 Str., 45-271 Opole, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Faculty of Mechanical Engineering, Mikolajczyka 5 Str., 45-271 Opole, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5103868741",
+        "display_name": "Piotr Laskowski",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Laskowski",
+      "raw_affiliation_strings": [
+        "Pratt & Whitney Poland, Hetmańska 120 Str., 35-078 Rzeszów, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pratt & Whitney Poland, Hetmańska 120 Str., 35-078 Rzeszów, Poland",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5077973039"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I119217307"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.1705,
+  "has_fulltext": false,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.77471574,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "77",
+    "issue": null,
+    "first_page": "570",
+    "last_page": "573"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10188",
+    "display_name": "Advanced machining processes and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10188",
+      "display_name": "Advanced machining processes and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11301",
+      "display_name": "Advanced Surface Polishing Techniques",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11159",
+      "display_name": "Manufacturing Process and Optimization",
+      "score": 0.996399998664856,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inconel",
+      "display_name": "Inconel",
+      "score": 0.8919373750686646
+    },
+    {
+      "id": "https://openalex.org/keywords/aerospace",
+      "display_name": "Aerospace",
+      "score": 0.8803602457046509
+    },
+    {
+      "id": "https://openalex.org/keywords/superalloy",
+      "display_name": "Superalloy",
+      "score": 0.8105560541152954
+    },
+    {
+      "id": "https://openalex.org/keywords/machining",
+      "display_name": "Machining",
+      "score": 0.7928173542022705
+    },
+    {
+      "id": "https://openalex.org/keywords/aerospace-materials",
+      "display_name": "Aerospace materials",
+      "score": 0.5162060856819153
+    },
+    {
+      "id": "https://openalex.org/keywords/finite-element-method",
+      "display_name": "Finite element method",
+      "score": 0.5073241591453552
+    },
+    {
+      "id": "https://openalex.org/keywords/numerical-control",
+      "display_name": "Numerical control",
+      "score": 0.46144336462020874
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.45238780975341797
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.4063553214073181
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.32099467515945435
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.2721843719482422
+    },
+    {
+      "id": "https://openalex.org/keywords/structural-engineering",
+      "display_name": "Structural engineering",
+      "score": 0.2694500684738159
+    },
+    {
+      "id": "https://openalex.org/keywords/metallurgy",
+      "display_name": "Metallurgy",
+      "score": 0.22295382618904114
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778703219",
+      "wikidata": "https://www.wikidata.org/wiki/Q898562",
+      "display_name": "Inconel",
+      "level": 3,
+      "score": 0.8919373750686646
+    },
+    {
+      "id": "https://openalex.org/C167740415",
+      "wikidata": "https://www.wikidata.org/wiki/Q2876213",
+      "display_name": "Aerospace",
+      "level": 2,
+      "score": 0.8803602457046509
+    },
+    {
+      "id": "https://openalex.org/C207055975",
+      "wikidata": "https://www.wikidata.org/wiki/Q637345",
+      "display_name": "Superalloy",
+      "level": 3,
+      "score": 0.8105560541152954
+    },
+    {
+      "id": "https://openalex.org/C523214423",
+      "wikidata": "https://www.wikidata.org/wiki/Q192047",
+      "display_name": "Machining",
+      "level": 2,
+      "score": 0.7928173542022705
+    },
+    {
+      "id": "https://openalex.org/C524170830",
+      "wikidata": "https://www.wikidata.org/wiki/Q4688455",
+      "display_name": "Aerospace materials",
+      "level": 3,
+      "score": 0.5162060856819153
+    },
+    {
+      "id": "https://openalex.org/C135628077",
+      "wikidata": "https://www.wikidata.org/wiki/Q220184",
+      "display_name": "Finite element method",
+      "level": 2,
+      "score": 0.5073241591453552
+    },
+    {
+      "id": "https://openalex.org/C175457265",
+      "wikidata": "https://www.wikidata.org/wiki/Q190247",
+      "display_name": "Numerical control",
+      "level": 3,
+      "score": 0.46144336462020874
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.45238780975341797
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.4063553214073181
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.32099467515945435
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.2721843719482422
+    },
+    {
+      "id": "https://openalex.org/C66938386",
+      "wikidata": "https://www.wikidata.org/wiki/Q633538",
+      "display_name": "Structural engineering",
+      "level": 1,
+      "score": 0.2694500684738159
+    },
+    {
+      "id": "https://openalex.org/C191897082",
+      "wikidata": "https://www.wikidata.org/wiki/Q11467",
+      "display_name": "Metallurgy",
+      "level": 1,
+      "score": 0.22295382618904114
+    },
+    {
+      "id": "https://openalex.org/C87976508",
+      "wikidata": "https://www.wikidata.org/wiki/Q1498213",
+      "display_name": "Microstructure",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2780026712",
+      "wikidata": "https://www.wikidata.org/wiki/Q37756",
+      "display_name": "Alloy",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.procir.2018.08.220",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.procir.2018.08.220",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2898565713",
+        "display_name": "Procedia CIRP",
+        "issn_l": "2212-8271",
+        "issn": [
+          "2212-8271"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Procedia CIRP",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.procir.2018.08.220",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.procir.2018.08.220",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2898565713",
+      "display_name": "Procedia CIRP",
+      "issn_l": "2212-8271",
+      "issn": [
+        "2212-8271"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Procedia CIRP",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.49000000953674316,
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 10,
+  "referenced_works": [
+    "https://openalex.org/W1029321728",
+    "https://openalex.org/W2019840213",
+    "https://openalex.org/W2056639276",
+    "https://openalex.org/W2068061418",
+    "https://openalex.org/W2724984718",
+    "https://openalex.org/W2766881516",
+    "https://openalex.org/W2981106185",
+    "https://openalex.org/W6626770232",
+    "https://openalex.org/W6740303266",
+    "https://openalex.org/W6769730092"
+  ],
+  "related_works": [
+    "https://openalex.org/W2992141641",
+    "https://openalex.org/W942872048",
+    "https://openalex.org/W3120647029",
+    "https://openalex.org/W2389506699",
+    "https://openalex.org/W4394685076",
+    "https://openalex.org/W4403361479",
+    "https://openalex.org/W4391581954",
+    "https://openalex.org/W1991558251",
+    "https://openalex.org/W2327844233",
+    "https://openalex.org/W4404135769"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "paper": [
+      1
+    ],
+    "presents": [
+      2
+    ],
+    "an": [
+      3
+    ],
+    "original": [
+      4,
+      59
+    ],
+    "optimization": [
+      5,
+      21,
+      108
+    ],
+    "strategy": [
+      6,
+      22
+    ],
+    "implemented": [
+      7
+    ],
+    "into": [
+      8
+    ],
+    "milling": [
+      9
+    ],
+    "operations": [
+      10,
+      139
+    ],
+    "performed": [
+      11,
+      142
+    ],
+    "on": [
+      12,
+      58,
+      83
+    ],
+    "aerospace": [
+      13
+    ],
+    "parts": [
+      14
+    ],
+    "made": [
+      15
+    ],
+    "of": [
+      16,
+      26,
+      39,
+      43,
+      86,
+      94,
+      115,
+      119,
+      124,
+      130
+    ],
+    "Inconel": [
+      17
+    ],
+    "718": [
+      18
+    ],
+    "superalloy.": [
+      19
+    ],
+    "The": [
+      20,
+      69
+    ],
+    "includes": [
+      23
+    ],
+    "the": [
+      24,
+      40,
+      44,
+      51,
+      64,
+      73,
+      78,
+      84,
+      87,
+      92,
+      95,
+      99,
+      104,
+      107,
+      113,
+      116,
+      122,
+      125,
+      128
+    ],
+    "determination": [
+      25
+    ],
+    "more": [
+      27
+    ],
+    "accurate": [
+      28
+    ],
+    "constitutive": [
+      29,
+      52
+    ],
+    "material": [
+      30,
+      53
+    ],
+    "model": [
+      31,
+      54
+    ],
+    "(the": [
+      32
+    ],
+    "J-C": [
+      33
+    ],
+    "modified": [
+      34
+    ],
+    "model)": [
+      35
+    ],
+    "and": [
+      36,
+      127
+    ],
+    "adaptive": [
+      37
+    ],
+    "control": [
+      38,
+      75
+    ],
+    "maximum": [
+      41
+    ],
+    "values": [
+      42,
+      93
+    ],
+    "cutting": [
+      45,
+      96
+    ],
+    "force.": [
+      46
+    ],
+    "It": [
+      47
+    ],
+    "can": [
+      48,
+      140
+    ],
+    "be": [
+      49,
+      141
+    ],
+    "noted": [
+      50
+    ],
+    "was": [
+      55
+    ],
+    "derived": [
+      56
+    ],
+    "based": [
+      57,
+      82
+    ],
+    "experimental": [
+      60
+    ],
+    "data": [
+      61
+    ],
+    "obtained": [
+      62
+    ],
+    "in": [
+      63,
+      77
+    ],
+    "Laboratory": [
+      65
+    ],
+    "for": [
+      66
+    ],
+    "Aerospace": [
+      67
+    ],
+    "Industry.": [
+      68
+    ],
+    "second": [
+      70
+    ],
+    "task": [
+      71
+    ],
+    "supports": [
+      72
+    ],
+    "CNC": [
+      74
+    ],
+    "program": [
+      76
+    ],
+    "real": [
+      79
+    ],
+    "time": [
+      80
+    ],
+    "mode": [
+      81
+    ],
+    "changes": [
+      85
+    ],
+    "effective": [
+      88
+    ],
+    "feed": [
+      89
+    ],
+    "rate": [
+      90
+    ],
+    "when": [
+      91
+    ],
+    "force": [
+      97
+    ],
+    "exceed": [
+      98
+    ],
+    "threshold": [
+      100
+    ],
+    "values.": [
+      101
+    ],
+    "According": [
+      102
+    ],
+    "to": [
+      103,
+      112
+    ],
+    "production": [
+      105
+    ],
+    "outputs": [
+      106
+    ],
+    "procedure": [
+      109
+    ],
+    "applied": [
+      110
+    ],
+    "leads": [
+      111
+    ],
+    "improvement": [
+      114
+    ],
+    "machining": [
+      117,
+      131,
+      138
+    ],
+    "stability": [
+      118
+    ],
+    "thin-walled": [
+      120
+    ],
+    "parts,": [
+      121
+    ],
+    "increase": [
+      123
+    ],
+    "productivity": [
+      126
+    ],
+    "reduction": [
+      129
+    ],
+    "costs.": [
+      132
+    ],
+    "As": [
+      133
+    ],
+    "a": [
+      134
+    ],
+    "result,": [
+      135
+    ],
+    "some": [
+      136
+    ],
+    "important": [
+      137
+    ],
+    "under": [
+      143
+    ],
+    "High": [
+      144
+    ],
+    "Performance": [
+      145
+    ],
+    "conditions.": [
+      146
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

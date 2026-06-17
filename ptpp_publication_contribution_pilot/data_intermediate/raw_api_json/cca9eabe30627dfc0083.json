@@ -1,0 +1,1385 @@
+{
+  "id": "https://openalex.org/W4396858609",
+  "doi": "https://doi.org/10.3390/electronics13101888",
+  "title": "Flexible Deployment of Machine Learning Inference Pipelines in the Cloud–Edge–IoT Continuum",
+  "display_name": "Flexible Deployment of Machine Learning Inference Pipelines in the Cloud–Edge–IoT Continuum",
+  "publication_year": 2024,
+  "publication_date": "2024-05-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4396858609",
+    "doi": "https://doi.org/10.3390/electronics13101888"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/electronics13101888",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/electronics13101888",
+    "pdf_url": "https://www.mdpi.com/2079-9292/13/10/1888/pdf?version=1715590723",
+    "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "issn_l": "2079-9292",
+      "issn": [
+        "2079-9292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Electronics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2079-9292/13/10/1888/pdf?version=1715590723",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karolina Bogacka",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7109-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069048632",
+        "display_name": "Piotr Sowiński",
+        "orcid": "https://orcid.org/0000-0002-2543-9461"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Sowiński",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2543-9461",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088868361",
+        "display_name": "Anastasiya Danilenka",
+        "orcid": "https://orcid.org/0000-0002-3080-0303"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anastasiya Danilenka",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3080-0303",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073373821",
+        "display_name": "Francisco Mahedero Biot",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I60053951",
+          "display_name": "Universitat Politècnica de València",
+          "ror": "https://ror.org/01460j859",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I60053951"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Francisco Mahedero Biot",
+      "raw_affiliation_strings": [
+        "Communications Department, Universitat Politècnica de València, Camí de Vera, s/n, 46022 Valencia, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2810-398X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Communications Department, Universitat Politècnica de València, Camí de Vera, s/n, 46022 Valencia, Spain",
+          "institution_ids": [
+            "https://openalex.org/I60053951"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077749913",
+        "display_name": "Katarzyna Wasielewska-Michniewska",
+        "orcid": "https://orcid.org/0000-0002-3763-2373"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Wasielewska-Michniewska",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3763-2373",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017025137",
+        "display_name": "Maria Ganzha",
+        "orcid": "https://orcid.org/0000-0001-7714-4844"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Maria Ganzha",
+      "raw_affiliation_strings": [
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7714-4844",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, ul. Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053781299",
+        "display_name": "Marcin Paprzycki",
+        "orcid": "https://orcid.org/0000-0002-8069-2152"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Paprzycki",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8069-2152",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, ul. Newelska 6, 01-447 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5016316427",
+        "display_name": "Carlos E. Palau",
+        "orcid": "https://orcid.org/0000-0002-3795-5404"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I60053951",
+          "display_name": "Universitat Politècnica de València",
+          "ror": "https://ror.org/01460j859",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I60053951"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Carlos E. Palau",
+      "raw_affiliation_strings": [
+        "Communications Department, Universitat Politècnica de València, Camí de Vera, s/n, 46022 Valencia, Spain"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3795-5404",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Communications Department, Universitat Politècnica de València, Camí de Vera, s/n, 46022 Valencia, Spain",
+          "institution_ids": [
+            "https://openalex.org/I60053951"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5017025137"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I108403487",
+    "https://openalex.org/I66083562",
+    "https://openalex.org/I99542240"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "fwci": 2.5212,
+  "has_fulltext": true,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.89619515,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "10",
+    "first_page": "1888",
+    "last_page": "1888"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10273",
+    "display_name": "IoT and Edge/Fog Computing",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10273",
+      "display_name": "IoT and Edge/Fog Computing",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10270",
+      "display_name": "Blockchain Technology Applications and Security",
+      "score": 0.9932000041007996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13553",
+      "display_name": "Age of Information Optimization",
+      "score": 0.989799976348877,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7566978335380554
+    },
+    {
+      "id": "https://openalex.org/keywords/scalability",
+      "display_name": "Scalability",
+      "score": 0.7276561260223389
+    },
+    {
+      "id": "https://openalex.org/keywords/cloud-computing",
+      "display_name": "Cloud computing",
+      "score": 0.7056525349617004
+    },
+    {
+      "id": "https://openalex.org/keywords/software-deployment",
+      "display_name": "Software deployment",
+      "score": 0.6851429343223572
+    },
+    {
+      "id": "https://openalex.org/keywords/inference",
+      "display_name": "Inference",
+      "score": 0.6000679731369019
+    },
+    {
+      "id": "https://openalex.org/keywords/modular-design",
+      "display_name": "Modular design",
+      "score": 0.568507969379425
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.5090903639793396
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.44738227128982544
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.4000393748283386
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.3745538592338562
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-architecture",
+      "display_name": "Computer architecture",
+      "score": 0.37348949909210205
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.25462082028388977
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.19349703192710876
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7566978335380554
+    },
+    {
+      "id": "https://openalex.org/C48044578",
+      "wikidata": "https://www.wikidata.org/wiki/Q727490",
+      "display_name": "Scalability",
+      "level": 2,
+      "score": 0.7276561260223389
+    },
+    {
+      "id": "https://openalex.org/C79974875",
+      "wikidata": "https://www.wikidata.org/wiki/Q483639",
+      "display_name": "Cloud computing",
+      "level": 2,
+      "score": 0.7056525349617004
+    },
+    {
+      "id": "https://openalex.org/C105339364",
+      "wikidata": "https://www.wikidata.org/wiki/Q2297740",
+      "display_name": "Software deployment",
+      "level": 2,
+      "score": 0.6851429343223572
+    },
+    {
+      "id": "https://openalex.org/C2776214188",
+      "wikidata": "https://www.wikidata.org/wiki/Q408386",
+      "display_name": "Inference",
+      "level": 2,
+      "score": 0.6000679731369019
+    },
+    {
+      "id": "https://openalex.org/C101468663",
+      "wikidata": "https://www.wikidata.org/wiki/Q1620158",
+      "display_name": "Modular design",
+      "level": 2,
+      "score": 0.568507969379425
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.5090903639793396
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.44738227128982544
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4000393748283386
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.3745538592338562
+    },
+    {
+      "id": "https://openalex.org/C118524514",
+      "wikidata": "https://www.wikidata.org/wiki/Q173212",
+      "display_name": "Computer architecture",
+      "level": 1,
+      "score": 0.37348949909210205
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.25462082028388977
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.19349703192710876
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/electronics13101888",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/electronics13101888",
+      "pdf_url": "https://www.mdpi.com/2079-9292/13/10/1888/pdf?version=1715590723",
+      "source": {
+        "id": "https://openalex.org/S4210202905",
+        "display_name": "Electronics",
+        "issn_l": "2079-9292",
+        "issn": [
+          "2079-9292"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Electronics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:riunet.upv.es:10251/207596",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10251/207596",
+      "pdf_url": "https://riunet.upv.es/bitstream/10251/207596/1/BogackaSowinskiDanilenka%20-%20Flexible%20Deployment%20of%20Machine%20Learning%20Inference%20Pipelines%20in%20the%20Clo....pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401500",
+        "display_name": "RiuNet (Politechnical University of Valencia)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I60053951",
+        "host_organization_name": "Universitat Politècnica de València",
+        "host_organization_lineage": [
+          "https://openalex.org/I60053951"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/electronics13101888",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/electronics13101888",
+    "pdf_url": "https://www.mdpi.com/2079-9292/13/10/1888/pdf?version=1715590723",
+    "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "issn_l": "2079-9292",
+      "issn": [
+        "2079-9292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Electronics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.8999999761581421,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4396858609.pdf"
+  },
+  "referenced_works_count": 41,
+  "referenced_works": [
+    "https://openalex.org/W2093217068",
+    "https://openalex.org/W2565600385",
+    "https://openalex.org/W2606536790",
+    "https://openalex.org/W2766401293",
+    "https://openalex.org/W2807214292",
+    "https://openalex.org/W2928069584",
+    "https://openalex.org/W2931743911",
+    "https://openalex.org/W2952278941",
+    "https://openalex.org/W2956461999",
+    "https://openalex.org/W2962746093",
+    "https://openalex.org/W2963150697",
+    "https://openalex.org/W2980856918",
+    "https://openalex.org/W3031262103",
+    "https://openalex.org/W3035965352",
+    "https://openalex.org/W3082038062",
+    "https://openalex.org/W3095488153",
+    "https://openalex.org/W3099878876",
+    "https://openalex.org/W3113668354",
+    "https://openalex.org/W3130689885",
+    "https://openalex.org/W4220763073",
+    "https://openalex.org/W4236786653",
+    "https://openalex.org/W4283204791",
+    "https://openalex.org/W4286308228",
+    "https://openalex.org/W4289828024",
+    "https://openalex.org/W4295312788",
+    "https://openalex.org/W4296169248",
+    "https://openalex.org/W4312551388",
+    "https://openalex.org/W4319596460",
+    "https://openalex.org/W4321096498",
+    "https://openalex.org/W4360584477",
+    "https://openalex.org/W4360982550",
+    "https://openalex.org/W4368755837",
+    "https://openalex.org/W4385625578",
+    "https://openalex.org/W4387642609",
+    "https://openalex.org/W4391054875",
+    "https://openalex.org/W6766978945",
+    "https://openalex.org/W6892515418",
+    "https://openalex.org/W6911407310",
+    "https://openalex.org/W6930189065",
+    "https://openalex.org/W6949023877",
+    "https://openalex.org/W7046001353"
+  ],
+  "related_works": [
+    "https://openalex.org/W2770234245",
+    "https://openalex.org/W96612179",
+    "https://openalex.org/W4229499248",
+    "https://openalex.org/W2566006169",
+    "https://openalex.org/W1567818861",
+    "https://openalex.org/W2987774938",
+    "https://openalex.org/W4256492088",
+    "https://openalex.org/W632915154",
+    "https://openalex.org/W2055733372",
+    "https://openalex.org/W2019887508"
+  ],
+  "abstract_inverted_index": {
+    "Currently,": [
+      0
+    ],
+    "deploying": [
+      1
+    ],
+    "machine": [
+      2,
+      38,
+      69
+    ],
+    "learning": [
+      3,
+      39,
+      70
+    ],
+    "workloads": [
+      4,
+      28,
+      126
+    ],
+    "in": [
+      5,
+      48,
+      116,
+      169,
+      175
+    ],
+    "the": [
+      6,
+      13,
+      24,
+      27,
+      101,
+      137,
+      141,
+      145,
+      155,
+      162,
+      172,
+      176,
+      184
+    ],
+    "Cloud–Edge–IoT": [
+      7
+    ],
+    "continuum": [
+      8
+    ],
+    "is": [
+      9,
+      41,
+      44,
+      61,
+      84
+    ],
+    "challenging": [
+      10
+    ],
+    "due": [
+      11
+    ],
+    "to": [
+      12,
+      161,
+      171,
+      180
+    ],
+    "wide": [
+      14,
+      65
+    ],
+    "variety": [
+      15
+    ],
+    "of": [
+      16,
+      26,
+      67,
+      108,
+      151,
+      154,
+      183
+    ],
+    "available": [
+      17,
+      163
+    ],
+    "hardware": [
+      18
+    ],
+    "platforms,": [
+      19
+    ],
+    "stringent": [
+      20
+    ],
+    "performance": [
+      21
+    ],
+    "requirements,": [
+      22
+    ],
+    "and": [
+      23,
+      60,
+      76,
+      127,
+      148,
+      167
+    ],
+    "heterogeneity": [
+      25
+    ],
+    "themselves.": [
+      29
+    ],
+    "To": [
+      30,
+      72
+    ],
+    "alleviate": [
+      31
+    ],
+    "this,": [
+      32
+    ],
+    "a": [
+      33,
+      57,
+      64,
+      78,
+      88,
+      93
+    ],
+    "novel,": [
+      34
+    ],
+    "flexible": [
+      35
+    ],
+    "approach": [
+      36
+    ],
+    "for": [
+      37,
+      46,
+      82
+    ],
+    "inference": [
+      40,
+      83,
+      97,
+      152
+    ],
+    "introduced,": [
+      42
+    ],
+    "which": [
+      43
+    ],
+    "suitable": [
+      45
+    ],
+    "deployment": [
+      47,
+      132
+    ],
+    "diverse": [
+      49
+    ],
+    "environments—including": [
+      50
+    ],
+    "edge": [
+      51
+    ],
+    "devices.": [
+      52
+    ],
+    "The": [
+      53,
+      96,
+      112,
+      134,
+      165
+    ],
+    "proposed": [
+      54,
+      142
+    ],
+    "solution": [
+      55,
+      113
+    ],
+    "has": [
+      56
+    ],
+    "modular": [
+      58
+    ],
+    "design": [
+      59
+    ],
+    "compatible": [
+      62
+    ],
+    "with": [
+      63,
+      87,
+      124
+    ],
+    "range": [
+      66
+    ],
+    "user-defined": [
+      68
+    ],
+    "pipelines.": [
+      71
+    ],
+    "improve": [
+      73
+    ],
+    "energy": [
+      74
+    ],
+    "efficiency": [
+      75
+    ],
+    "scalability,": [
+      77
+    ],
+    "high-performance": [
+      79
+    ],
+    "communication": [
+      80
+    ],
+    "protocol": [
+      81
+    ],
+    "propounded,": [
+      85
+    ],
+    "along": [
+      86
+    ],
+    "scale-out": [
+      89
+    ],
+    "mechanism": [
+      90
+    ],
+    "based": [
+      91
+    ],
+    "on": [
+      92
+    ],
+    "load": [
+      94
+    ],
+    "balancer.": [
+      95
+    ],
+    "service": [
+      98
+    ],
+    "plugs": [
+      99
+    ],
+    "into": [
+      100
+    ],
+    "ASSIST-IoT": [
+      102
+    ],
+    "reference": [
+      103
+    ],
+    "architecture,": [
+      104
+    ],
+    "thus": [
+      105
+    ],
+    "taking": [
+      106
+    ],
+    "advantage": [
+      107
+    ],
+    "its": [
+      109
+    ],
+    "other": [
+      110
+    ],
+    "components.": [
+      111
+    ],
+    "was": [
+      114
+    ],
+    "evaluated": [
+      115
+    ],
+    "two": [
+      117
+    ],
+    "scenarios": [
+      118
+    ],
+    "closely": [
+      119
+    ],
+    "emulating": [
+      120
+    ],
+    "real-life": [
+      121
+    ],
+    "use": [
+      122,
+      156
+    ],
+    "cases,": [
+      123
+    ],
+    "demanding": [
+      125
+    ],
+    "requirements": [
+      128,
+      153
+    ],
+    "constituting": [
+      129
+    ],
+    "several": [
+      130
+    ],
+    "different": [
+      131
+    ],
+    "scenarios.": [
+      133
+    ],
+    "results": [
+      135
+    ],
+    "from": [
+      136
+    ],
+    "evaluation": [
+      138
+    ],
+    "show": [
+      139
+    ],
+    "that": [
+      140
+    ],
+    "software": [
+      143
+    ],
+    "meets": [
+      144
+    ],
+    "high": [
+      146
+    ],
+    "throughput": [
+      147
+    ],
+    "low": [
+      149
+    ],
+    "latency": [
+      150
+    ],
+    "cases": [
+      157
+    ],
+    "while": [
+      158
+    ],
+    "effectively": [
+      159
+    ],
+    "adapting": [
+      160
+    ],
+    "hardware.": [
+      164
+    ],
+    "code": [
+      166
+    ],
+    "documentation,": [
+      168
+    ],
+    "addition": [
+      170
+    ],
+    "data": [
+      173
+    ],
+    "used": [
+      174
+    ],
+    "evaluation,": [
+      177
+    ],
+    "were": [
+      178
+    ],
+    "open-sourced": [
+      179
+    ],
+    "foster": [
+      181
+    ],
+    "adoption": [
+      182
+    ],
+    "solution.": [
+      185
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-05T09:01:59.212387",
+  "created_date": "2025-10-10T00:00:00"
+}

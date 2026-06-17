@@ -1,0 +1,675 @@
+{
+  "id": "https://openalex.org/W4411010295",
+  "doi": "https://doi.org/10.1016/j.susmat.2025.e01466",
+  "title": "Leaching of non-precious metals from spent automotive catalysts with formic or oxalic acids as a pretreatment stage for platinum group metal recovery: Process optimization and kinetic modeling",
+  "display_name": "Leaching of non-precious metals from spent automotive catalysts with formic or oxalic acids as a pretreatment stage for platinum group metal recovery: Process optimization and kinetic modeling",
+  "publication_year": 2025,
+  "publication_date": "2025-06-04",
+  "ids": {
+    "openalex": "https://openalex.org/W4411010295",
+    "doi": "https://doi.org/10.1016/j.susmat.2025.e01466"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.susmat.2025.e01466",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.susmat.2025.e01466",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2898501196",
+      "display_name": "Sustainable materials and technologies",
+      "issn_l": "2214-9929",
+      "issn": [
+        "2214-9929",
+        "2214-9937"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Sustainable Materials and Technologies",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5000037936",
+        "display_name": "Magdalena Emmons-Burzyńska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Magdalena Emmons-Burzyńska",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5117822330",
+        "display_name": "Marta Suchocka",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Suchocka",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092405687",
+        "display_name": "Zuzanna Wolańczyk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zuzanna Wolańczyk",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010000123",
+        "display_name": "Martyna Rzelewska-Piekut",
+        "orcid": "https://orcid.org/0000-0002-6203-3516"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Martyna Rzelewska-Piekut",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5083155299",
+        "display_name": "Magdalena Regel‐Rosocka",
+        "orcid": "https://orcid.org/0000-0002-4610-760X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I46597724",
+          "display_name": "Poznań University of Technology",
+          "ror": "https://ror.org/00p7p3302",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Regel-Rosocka",
+      "raw_affiliation_strings": [
+        "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznan University of Technology, Institute of Chemical Technology and Engineering, ul. Berdychowo 4, 60-965 Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I46597724"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5000037936"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I46597724"
+  ],
+  "apc_list": {
+    "value": 3610,
+    "currency": "USD",
+    "value_usd": 3610
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.10435832,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "45",
+    "issue": null,
+    "first_page": "e01466",
+    "last_page": "e01466"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11091",
+    "display_name": "Extraction and Separation Processes",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11091",
+      "display_name": "Extraction and Separation Processes",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12017",
+      "display_name": "Recycling and Waste Management Techniques",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2311",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11073",
+      "display_name": "Metal Extraction and Bioleaching",
+      "score": 0.9854000210762024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/platinum-group",
+      "display_name": "Platinum group",
+      "score": 0.8525227904319763
+    },
+    {
+      "id": "https://openalex.org/keywords/leaching",
+      "display_name": "Leaching (pedology)",
+      "score": 0.7841310501098633
+    },
+    {
+      "id": "https://openalex.org/keywords/precious-metal",
+      "display_name": "Precious metal",
+      "score": 0.763527512550354
+    },
+    {
+      "id": "https://openalex.org/keywords/platinum",
+      "display_name": "Platinum",
+      "score": 0.6434515714645386
+    },
+    {
+      "id": "https://openalex.org/keywords/catalysis",
+      "display_name": "Catalysis",
+      "score": 0.600753664970398
+    },
+    {
+      "id": "https://openalex.org/keywords/metal",
+      "display_name": "Metal",
+      "score": 0.5811688899993896
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.5175930261611938
+    },
+    {
+      "id": "https://openalex.org/keywords/inorganic-chemistry",
+      "display_name": "Inorganic chemistry",
+      "score": 0.4388432204723358
+    },
+    {
+      "id": "https://openalex.org/keywords/formic-acid",
+      "display_name": "Formic acid",
+      "score": 0.43091168999671936
+    },
+    {
+      "id": "https://openalex.org/keywords/metallurgy",
+      "display_name": "Metallurgy",
+      "score": 0.34000372886657715
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.2864260673522949
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.11695244908332825
+    },
+    {
+      "id": "https://openalex.org/keywords/organic-chemistry",
+      "display_name": "Organic chemistry",
+      "score": 0.10932955145835876
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2781251403",
+      "wikidata": "https://www.wikidata.org/wiki/Q223995",
+      "display_name": "Platinum group",
+      "level": 4,
+      "score": 0.8525227904319763
+    },
+    {
+      "id": "https://openalex.org/C90982505",
+      "wikidata": "https://www.wikidata.org/wiki/Q16938886",
+      "display_name": "Leaching (pedology)",
+      "level": 3,
+      "score": 0.7841310501098633
+    },
+    {
+      "id": "https://openalex.org/C2778146478",
+      "wikidata": "https://www.wikidata.org/wiki/Q271449",
+      "display_name": "Precious metal",
+      "level": 3,
+      "score": 0.763527512550354
+    },
+    {
+      "id": "https://openalex.org/C518104683",
+      "wikidata": "https://www.wikidata.org/wiki/Q880",
+      "display_name": "Platinum",
+      "level": 3,
+      "score": 0.6434515714645386
+    },
+    {
+      "id": "https://openalex.org/C161790260",
+      "wikidata": "https://www.wikidata.org/wiki/Q82264",
+      "display_name": "Catalysis",
+      "level": 2,
+      "score": 0.600753664970398
+    },
+    {
+      "id": "https://openalex.org/C544153396",
+      "wikidata": "https://www.wikidata.org/wiki/Q11426",
+      "display_name": "Metal",
+      "level": 2,
+      "score": 0.5811688899993896
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.5175930261611938
+    },
+    {
+      "id": "https://openalex.org/C179104552",
+      "wikidata": "https://www.wikidata.org/wiki/Q11165",
+      "display_name": "Inorganic chemistry",
+      "level": 1,
+      "score": 0.4388432204723358
+    },
+    {
+      "id": "https://openalex.org/C2777379063",
+      "wikidata": "https://www.wikidata.org/wiki/Q161233",
+      "display_name": "Formic acid",
+      "level": 2,
+      "score": 0.43091168999671936
+    },
+    {
+      "id": "https://openalex.org/C191897082",
+      "wikidata": "https://www.wikidata.org/wiki/Q11467",
+      "display_name": "Metallurgy",
+      "level": 1,
+      "score": 0.34000372886657715
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.2864260673522949
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.11695244908332825
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.10932955145835876
+    },
+    {
+      "id": "https://openalex.org/C159750122",
+      "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+      "display_name": "Soil water",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C159390177",
+      "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+      "display_name": "Soil science",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.susmat.2025.e01466",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.susmat.2025.e01466",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2898501196",
+        "display_name": "Sustainable materials and technologies",
+        "issn_l": "2214-9929",
+        "issn": [
+          "2214-9929",
+          "2214-9937"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sustainable Materials and Technologies",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5445457034",
+      "display_name": null,
+      "funder_award_id": "0912/SBAD/2507",
+      "funder_id": "https://openalex.org/F4320322733",
+      "funder_display_name": "Ministerstwo Edukacji i Nauki"
+    },
+    {
+      "id": "https://openalex.org/G7590181292",
+      "display_name": null,
+      "funder_award_id": "0912/SBAD/2510",
+      "funder_id": "https://openalex.org/F4320322733",
+      "funder_display_name": "Ministerstwo Edukacji i Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322733",
+      "display_name": "Ministerstwo Edukacji i Nauki",
+      "ror": "https://ror.org/05dwvd537"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 67,
+  "referenced_works": [
+    "https://openalex.org/W757723381",
+    "https://openalex.org/W1975644660",
+    "https://openalex.org/W1986924955",
+    "https://openalex.org/W2005268887",
+    "https://openalex.org/W2017958946",
+    "https://openalex.org/W2019402620",
+    "https://openalex.org/W2024041038",
+    "https://openalex.org/W2039034839",
+    "https://openalex.org/W2049204369",
+    "https://openalex.org/W2055649114",
+    "https://openalex.org/W2074986549",
+    "https://openalex.org/W2075031008",
+    "https://openalex.org/W2086351353",
+    "https://openalex.org/W2148098217",
+    "https://openalex.org/W2333509224",
+    "https://openalex.org/W2581944001",
+    "https://openalex.org/W2595384619",
+    "https://openalex.org/W2598229404",
+    "https://openalex.org/W2717970067",
+    "https://openalex.org/W2791466636",
+    "https://openalex.org/W2799654613",
+    "https://openalex.org/W2799668965",
+    "https://openalex.org/W2805874468",
+    "https://openalex.org/W2896296630",
+    "https://openalex.org/W2937822435",
+    "https://openalex.org/W2965452207",
+    "https://openalex.org/W2975618818",
+    "https://openalex.org/W3002357635",
+    "https://openalex.org/W3035691591",
+    "https://openalex.org/W3042459139",
+    "https://openalex.org/W3076515057",
+    "https://openalex.org/W3094254470",
+    "https://openalex.org/W3115309815",
+    "https://openalex.org/W3115492014",
+    "https://openalex.org/W3116175247",
+    "https://openalex.org/W3121148469",
+    "https://openalex.org/W3148034299",
+    "https://openalex.org/W3153629999",
+    "https://openalex.org/W3160458634",
+    "https://openalex.org/W3160851854",
+    "https://openalex.org/W3164665790",
+    "https://openalex.org/W3174231964",
+    "https://openalex.org/W3185944470",
+    "https://openalex.org/W3207498653",
+    "https://openalex.org/W4206029240",
+    "https://openalex.org/W4210409106",
+    "https://openalex.org/W4223994336",
+    "https://openalex.org/W4226303855",
+    "https://openalex.org/W4282832665",
+    "https://openalex.org/W4308150501",
+    "https://openalex.org/W4311468432",
+    "https://openalex.org/W4319918278",
+    "https://openalex.org/W4320169369",
+    "https://openalex.org/W4362580252",
+    "https://openalex.org/W4376582419",
+    "https://openalex.org/W4383377443",
+    "https://openalex.org/W4387000300",
+    "https://openalex.org/W4394988223",
+    "https://openalex.org/W4401477710",
+    "https://openalex.org/W6750786706",
+    "https://openalex.org/W6768393431",
+    "https://openalex.org/W6773085068",
+    "https://openalex.org/W6795187778",
+    "https://openalex.org/W6849436406",
+    "https://openalex.org/W6849739280",
+    "https://openalex.org/W6852218896",
+    "https://openalex.org/W6864893424"
+  ],
+  "related_works": [
+    "https://openalex.org/W4245793030",
+    "https://openalex.org/W2042439856",
+    "https://openalex.org/W1492248273",
+    "https://openalex.org/W613125200",
+    "https://openalex.org/W1493536597",
+    "https://openalex.org/W4243843954",
+    "https://openalex.org/W2361923677",
+    "https://openalex.org/W3031025560",
+    "https://openalex.org/W1583591416",
+    "https://openalex.org/W1500860405"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1826 @@
+{
+  "id": "https://openalex.org/W4385802929",
+  "doi": "https://doi.org/10.1038/s41598-023-38978-x",
+  "title": "A new look at imines and their mixture with PC71BM for organic, flexible photovoltaics",
+  "display_name": "A new look at imines and their mixture with PC71BM for organic, flexible photovoltaics",
+  "publication_year": 2023,
+  "publication_date": "2023-08-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4385802929",
+    "doi": "https://doi.org/10.1038/s41598-023-38978-x",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37580390"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41598-023-38978-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-023-38978-x",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-38978-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41598-023-38978-x.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5004813656",
+        "display_name": "Krzysztof Artur Bogdanowicz",
+        "orcid": "https://orcid.org/0000-0001-8526-626X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145617",
+          "display_name": "Military Institute of Engineer Technology",
+          "ror": "https://ror.org/05bbbm605",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210145617"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof A. Bogdanowicz",
+      "raw_affiliation_strings": [
+        "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210145617"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035145087",
+        "display_name": "Sebastian Lalik",
+        "orcid": "https://orcid.org/0000-0001-9991-1848"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastian Lalik",
+      "raw_affiliation_strings": [
+        "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033941045",
+        "display_name": "Paulina Ratajczyk",
+        "orcid": "https://orcid.org/0000-0002-3437-2852"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulina Ratajczyk",
+      "raw_affiliation_strings": [
+        "Faculty of Chemistry, Adam Mickiewicz University, Uniwersytetu Poznańskiego 8, 61-614, Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Chemistry, Adam Mickiewicz University, Uniwersytetu Poznańskiego 8, 61-614, Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038667320",
+        "display_name": "Andrzej Katrusiak",
+        "orcid": "https://orcid.org/0000-0002-1439-7278"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Andrzej Katrusiak",
+      "raw_affiliation_strings": [
+        "Faculty of Chemistry, Adam Mickiewicz University, Uniwersytetu Poznańskiego 8, 61-614, Poznań, Poland. katran@amu.edu.pl",
+        "Faculty of Chemistry, Adam Mickiewicz University, Uniwersytetu Poznańskiego 8, 61-614, Poznań, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Chemistry, Adam Mickiewicz University, Uniwersytetu Poznańskiego 8, 61-614, Poznań, Poland. katran@amu.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Faculty of Chemistry, Adam Mickiewicz University, Uniwersytetu Poznańskiego 8, 61-614, Poznań, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091103740",
+        "display_name": "P. Krysiak",
+        "orcid": "https://orcid.org/0000-0002-4760-5053"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145617",
+          "display_name": "Military Institute of Engineer Technology",
+          "ror": "https://ror.org/05bbbm605",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210145617"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Krysiak",
+      "raw_affiliation_strings": [
+        "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210145617"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071577539",
+        "display_name": "Agnieszka I. Pawłowska",
+        "orcid": "https://orcid.org/0000-0002-2216-0123"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka I. Pawłowska",
+      "raw_affiliation_strings": [
+        "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005685715",
+        "display_name": "Monika Marzec",
+        "orcid": "https://orcid.org/0000-0002-4854-9567"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Monika Marzec",
+      "raw_affiliation_strings": [
+        "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland. monika.marzec@uj.edu.pl",
+        "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland. monika.marzec@uj.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Physics, Jagiellonian University, Łojasiewicza 11, 30-348, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5067081171",
+        "display_name": "Agnieszka Iwan",
+        "orcid": "https://orcid.org/0000-0002-7705-6577"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145617",
+          "display_name": "Military Institute of Engineer Technology",
+          "ror": "https://ror.org/05bbbm605",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210145617"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Agnieszka Iwan",
+      "raw_affiliation_strings": [
+        "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland. iwan@witi.wroc.pl",
+        "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland. iwan@witi.wroc.pl",
+          "institution_ids": [
+            "https://openalex.org/I4210145617"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Military Institute of Engineer Technology, Obornicka 136, 50-961, Wrocław, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210145617"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005685715",
+    "https://openalex.org/A5038667320",
+    "https://openalex.org/A5067081171"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746",
+    "https://openalex.org/I4210086947",
+    "https://openalex.org/I4210145617",
+    "https://openalex.org/I59411706"
+  ],
+  "apc_list": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "apc_paid": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "fwci": 0.7346,
+  "has_fulltext": true,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.70453641,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "1",
+    "first_page": "13240",
+    "last_page": "13240"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10045",
+    "display_name": "Organic Electronics and Photovoltaics",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10045",
+      "display_name": "Organic Electronics and Photovoltaics",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10660",
+      "display_name": "Conducting polymers and applications",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2507",
+        "display_name": "Polymers and Plastics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/imine",
+      "display_name": "Imine",
+      "score": 0.8432211875915527
+    },
+    {
+      "id": "https://openalex.org/keywords/organic-solar-cell",
+      "display_name": "Organic solar cell",
+      "score": 0.729526162147522
+    },
+    {
+      "id": "https://openalex.org/keywords/thiophene",
+      "display_name": "Thiophene",
+      "score": 0.5933515429496765
+    },
+    {
+      "id": "https://openalex.org/keywords/thiazole",
+      "display_name": "Thiazole",
+      "score": 0.525871753692627
+    },
+    {
+      "id": "https://openalex.org/keywords/molecule",
+      "display_name": "Molecule",
+      "score": 0.4802965819835663
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.4587329924106598
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.4242328405380249
+    },
+    {
+      "id": "https://openalex.org/keywords/absorption-spectroscopy",
+      "display_name": "Absorption spectroscopy",
+      "score": 0.42036256194114685
+    },
+    {
+      "id": "https://openalex.org/keywords/photochemistry",
+      "display_name": "Photochemistry",
+      "score": 0.3489893674850464
+    },
+    {
+      "id": "https://openalex.org/keywords/organic-chemistry",
+      "display_name": "Organic chemistry",
+      "score": 0.2927777171134949
+    },
+    {
+      "id": "https://openalex.org/keywords/polymer",
+      "display_name": "Polymer",
+      "score": 0.1406095027923584
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776573223",
+      "wikidata": "https://www.wikidata.org/wiki/Q408057",
+      "display_name": "Imine",
+      "level": 3,
+      "score": 0.8432211875915527
+    },
+    {
+      "id": "https://openalex.org/C91614233",
+      "wikidata": "https://www.wikidata.org/wiki/Q1472888",
+      "display_name": "Organic solar cell",
+      "level": 3,
+      "score": 0.729526162147522
+    },
+    {
+      "id": "https://openalex.org/C2779953032",
+      "wikidata": "https://www.wikidata.org/wiki/Q305364",
+      "display_name": "Thiophene",
+      "level": 2,
+      "score": 0.5933515429496765
+    },
+    {
+      "id": "https://openalex.org/C2778464347",
+      "wikidata": "https://www.wikidata.org/wiki/Q413426",
+      "display_name": "Thiazole",
+      "level": 2,
+      "score": 0.525871753692627
+    },
+    {
+      "id": "https://openalex.org/C32909587",
+      "wikidata": "https://www.wikidata.org/wiki/Q11369",
+      "display_name": "Molecule",
+      "level": 2,
+      "score": 0.4802965819835663
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.4587329924106598
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.4242328405380249
+    },
+    {
+      "id": "https://openalex.org/C119824511",
+      "wikidata": "https://www.wikidata.org/wiki/Q13553575",
+      "display_name": "Absorption spectroscopy",
+      "level": 2,
+      "score": 0.42036256194114685
+    },
+    {
+      "id": "https://openalex.org/C75473681",
+      "wikidata": "https://www.wikidata.org/wiki/Q188651",
+      "display_name": "Photochemistry",
+      "level": 1,
+      "score": 0.3489893674850464
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.2927777171134949
+    },
+    {
+      "id": "https://openalex.org/C521977710",
+      "wikidata": "https://www.wikidata.org/wiki/Q81163",
+      "display_name": "Polymer",
+      "level": 2,
+      "score": 0.1406095027923584
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C161790260",
+      "wikidata": "https://www.wikidata.org/wiki/Q82264",
+      "display_name": "Catalysis",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41598-023-38978-x",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41598-023-38978-x",
+      "pdf_url": "https://www.nature.com/articles/s41598-023-38978-x.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37580390",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37580390",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/318263",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/318263",
+      "pdf_url": "http://ruj.uj.edu.pl/bitstreams/49762399-1a02-41d5-9cd1-34c41fa039fe/download",
+      "source": {
+        "id": "https://openalex.org/S4306400316",
+        "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "artykuł w czasopiśmie"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10425360",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10425360",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10425360/pdf/41598_2023_Article_38978.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sci Rep",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:93dcca1814bb4d30b3857cf30245591c",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/93dcca1814bb4d30b3857cf30245591c",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Scientific Reports, Vol 13, Iss 1, Pp 1-20 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41598-023-38978-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-023-38978-x",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-38978-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.7599999904632568
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4312211957",
+      "display_name": null,
+      "funder_award_id": "347431/14/NCBR/2018",
+      "funder_id": "https://openalex.org/F4320335039",
+      "funder_display_name": "Narodowe Centrum Badań i Rozwoju"
+    },
+    {
+      "id": "https://openalex.org/G6087692580",
+      "display_name": null,
+      "funder_award_id": "TECHMATSTRATEG1/347431/14/NCBR/2018",
+      "funder_id": "https://openalex.org/F4320335039",
+      "funder_display_name": "Narodowe Centrum Badań i Rozwoju"
+    },
+    {
+      "id": "https://openalex.org/G6649387699",
+      "display_name": null,
+      "funder_award_id": "/2018",
+      "funder_id": "https://openalex.org/F4320335039",
+      "funder_display_name": "Narodowe Centrum Badań i Rozwoju"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320316973",
+      "display_name": "Fundacja Uniwersytetu im. Adama Mickiewicza",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335039",
+      "display_name": "Narodowe Centrum Badań i Rozwoju",
+      "ror": "https://ror.org/05pwfyy15"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4385802929.pdf"
+  },
+  "referenced_works_count": 52,
+  "referenced_works": [
+    "https://openalex.org/W393227055",
+    "https://openalex.org/W585924654",
+    "https://openalex.org/W1522992782",
+    "https://openalex.org/W1969749365",
+    "https://openalex.org/W1973152217",
+    "https://openalex.org/W1981025969",
+    "https://openalex.org/W1992632796",
+    "https://openalex.org/W1997126459",
+    "https://openalex.org/W2004254256",
+    "https://openalex.org/W2011936411",
+    "https://openalex.org/W2023319814",
+    "https://openalex.org/W2024678778",
+    "https://openalex.org/W2026039351",
+    "https://openalex.org/W2052410207",
+    "https://openalex.org/W2062116006",
+    "https://openalex.org/W2066032775",
+    "https://openalex.org/W2078396470",
+    "https://openalex.org/W2088654232",
+    "https://openalex.org/W2170002338",
+    "https://openalex.org/W2303522473",
+    "https://openalex.org/W2320248603",
+    "https://openalex.org/W2509165763",
+    "https://openalex.org/W2561420799",
+    "https://openalex.org/W2592259157",
+    "https://openalex.org/W2613859143",
+    "https://openalex.org/W2785644535",
+    "https://openalex.org/W2909990379",
+    "https://openalex.org/W2922173245",
+    "https://openalex.org/W2930579926",
+    "https://openalex.org/W2969760221",
+    "https://openalex.org/W2984080121",
+    "https://openalex.org/W2989008161",
+    "https://openalex.org/W2994785505",
+    "https://openalex.org/W2995375785",
+    "https://openalex.org/W2996765933",
+    "https://openalex.org/W3003340452",
+    "https://openalex.org/W3007517566",
+    "https://openalex.org/W3029478129",
+    "https://openalex.org/W3044457523",
+    "https://openalex.org/W3091879599",
+    "https://openalex.org/W3100271802",
+    "https://openalex.org/W3115402496",
+    "https://openalex.org/W3118891819",
+    "https://openalex.org/W3166924077",
+    "https://openalex.org/W3201753374",
+    "https://openalex.org/W3212549534",
+    "https://openalex.org/W4212874731",
+    "https://openalex.org/W4283390819",
+    "https://openalex.org/W4293232956",
+    "https://openalex.org/W4309204527",
+    "https://openalex.org/W4309568209",
+    "https://openalex.org/W4362464322"
+  ],
+  "related_works": [
+    "https://openalex.org/W2487584082",
+    "https://openalex.org/W1987269566",
+    "https://openalex.org/W2043179689",
+    "https://openalex.org/W2055844830",
+    "https://openalex.org/W4251648420",
+    "https://openalex.org/W2004600496",
+    "https://openalex.org/W2075565673",
+    "https://openalex.org/W2012325487",
+    "https://openalex.org/W2942058088",
+    "https://openalex.org/W4308025576"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Due": [
+      1
+    ],
+    "to": [
+      2,
+      42,
+      52,
+      197,
+      219,
+      239,
+      255,
+      270,
+      302
+    ],
+    "its": [
+      3,
+      188
+    ],
+    "high": [
+      4,
+      83,
+      103
+    ],
+    "electron": [
+      5,
+      8,
+      55
+    ],
+    "affinity": [
+      6
+    ],
+    "and": [
+      7,
+      62,
+      72,
+      93,
+      106,
+      111,
+      123,
+      187,
+      213,
+      263
+    ],
+    "mobility": [
+      9
+    ],
+    "in": [
+      10,
+      34,
+      161,
+      176,
+      285,
+      336,
+      378,
+      382
+    ],
+    "a": [
+      11,
+      163,
+      286,
+      357
+    ],
+    "wide": [
+      12
+    ],
+    "absorption": [
+      13
+    ],
+    "range": [
+      14
+    ],
+    "of": [
+      15,
+      46,
+      57,
+      65,
+      74,
+      131,
+      139,
+      157,
+      183,
+      193,
+      307,
+      345,
+      351,
+      370,
+      375
+    ],
+    "the": [
+      16,
+      43,
+      53,
+      58,
+      63,
+      70,
+      77,
+      119,
+      127,
+      140,
+      143,
+      146,
+      158,
+      170,
+      180,
+      184,
+      198,
+      209,
+      226,
+      281,
+      294,
+      304,
+      312,
+      319,
+      328,
+      337,
+      348,
+      361,
+      366,
+      383
+    ],
+    "visible": [
+      17
+    ],
+    "solar": [
+      18,
+      48
+    ],
+    "spectrum,": [
+      19
+    ],
+    "[6,6]-phenyl-C71-butyric": [
+      20
+    ],
+    "acid": [
+      21
+    ],
+    "methyl": [
+      22
+    ],
+    "ester": [
+      23
+    ],
+    "(PC": [
+      24
+    ],
+    "71": [
+      25,
+      98,
+      195,
+      247,
+      341
+    ],
+    "BM)": [
+      26
+    ],
+    "is": [
+      27,
+      80,
+      149,
+      347,
+      364
+    ],
+    "often": [
+      28
+    ],
+    "used": [
+      29,
+      301
+    ],
+    "as": [
+      30,
+      82,
+      84,
+      278
+    ],
+    "an": [
+      31
+    ],
+    "efficient": [
+      32
+    ],
+    "acceptor": [
+      33
+    ],
+    "organic": [
+      35,
+      47
+    ],
+    "photovoltaics.": [
+      36,
+      117
+    ],
+    "In": [
+      37,
+      142
+    ],
+    "turn,": [
+      38
+    ],
+    "imines": [
+      39,
+      92,
+      199,
+      325
+    ],
+    "are": [
+      40,
+      326
+    ],
+    "additives": [
+      41
+    ],
+    "active": [
+      44
+    ],
+    "layer": [
+      45
+    ],
+    "cells,": [
+      49
+    ],
+    "mainly": [
+      50
+    ],
+    "due": [
+      51
+    ],
+    "free": [
+      54
+    ],
+    "pair": [
+      56
+    ],
+    "imine": [
+      59,
+      144,
+      147,
+      186
+    ],
+    "nitrogen": [
+      60
+    ],
+    "atom": [
+      61
+    ],
+    "presence": [
+      64
+    ],
+    "various": [
+      66,
+      379
+    ],
+    "chemical": [
+      67
+    ],
+    "groups": [
+      68
+    ],
+    "affecting": [
+      69
+    ],
+    "polarity": [
+      71
+    ],
+    "conformations": [
+      73
+    ],
+    "molecules.": [
+      75,
+      141
+    ],
+    "However,": [
+      76
+    ],
+    "attainable": [
+      78
+    ],
+    "efficiency": [
+      79
+    ],
+    "not": [
+      81
+    ],
+    "expected.": [
+      85
+    ],
+    "Therefore,": [
+      86
+    ],
+    "we": [
+      87
+    ],
+    "have": [
+      88,
+      126
+    ],
+    "systematically": [
+      89,
+      224
+    ],
+    "investigated": [
+      90
+    ],
+    "two": [
+      91,
+      167
+    ],
+    "their": [
+      94,
+      201
+    ],
+    "mixtures": [
+      95
+    ],
+    "with": [
+      96,
+      339
+    ],
+    "PC": [
+      97,
+      194,
+      246,
+      340
+    ],
+    "BM": [
+      99,
+      196
+    ],
+    "by": [
+      100,
+      151,
+      280
+    ],
+    "spectroscopic": [
+      101
+    ],
+    "(the": [
+      102
+    ],
+    "pressure": [
+      104,
+      223
+    ],
+    "UV–Vis": [
+      105,
+      282
+    ],
+    "frequency": [
+      107
+    ],
+    "domain": [
+      108
+    ],
+    "dielectric),": [
+      109
+    ],
+    "thermoelectric,": [
+      110
+    ],
+    "mechanical": [
+      112,
+      205
+    ],
+    "methods": [
+      113
+    ],
+    "for": [
+      114,
+      245,
+      261,
+      276,
+      323
+    ],
+    "organic,": [
+      115
+    ],
+    "flexible": [
+      116
+    ],
+    "Both": [
+      118
+    ],
+    "imines,": [
+      120
+    ],
+    "(N,NʹE,N,NʹE)-N,Nʹ-([2,2ʹ:5ʹ,2ʺ-terthiophene]-5,5ʺ-diylbis(methanylylidene))bis(benzo[d]thiazol-2-imine)": [
+      121
+    ],
+    "(SC3)": [
+      122
+    ],
+    "(6E)-N-((5-(5-(5-((E)-(4-(4-(4-fluorophenyl)thiazol-2-yl)phenylimino)methyl)thiophen-2-yl)thiophen-2-yl)thiophen-2-yl)methylene)-4-(4-(4-fluorophenyl)thiazol-2-yl)benzenamine": [
+      124
+    ],
+    "(SC13),": [
+      125
+    ],
+    "same": [
+      128
+    ],
+    "core": [
+      129
+    ],
+    "composed": [
+      130
+    ],
+    "three": [
+      132
+    ],
+    "thiophene": [
+      133
+    ],
+    "rings": [
+      134,
+      153
+    ],
+    "but": [
+      135,
+      343
+    ],
+    "different": [
+      136
+    ],
+    "terminal": [
+      137,
+      171
+    ],
+    "chains": [
+      138
+    ],
+    "SC3,": [
+      145,
+      262
+    ],
+    "bond": [
+      148
+    ],
+    "followed": [
+      150
+    ],
+    "benzothiazole": [
+      152
+    ],
+    "on": [
+      154,
+      208,
+      311
+    ],
+    "both": [
+      155,
+      324
+    ],
+    "sides": [
+      156
+    ],
+    "core,": [
+      159
+    ],
+    "while": [
+      160,
+      360
+    ],
+    "SC13,": [
+      162,
+      277
+    ],
+    "thiazole": [
+      164
+    ],
+    "ring": [
+      165
+    ],
+    "separates": [
+      166
+    ],
+    "benzene": [
+      168
+    ],
+    "rings,": [
+      169
+    ],
+    "one": [
+      172,
+      349,
+      363
+    ],
+    "F-substituted.": [
+      173
+    ],
+    "The": [
+      174,
+      204,
+      353,
+      373
+    ],
+    "difference": [
+      175
+    ],
+    "molecular": [
+      177
+    ],
+    "structure": [
+      178
+    ],
+    "affects": [
+      179
+    ],
+    "electric": [
+      181,
+      202
+    ],
+    "properties": [
+      182
+    ],
+    "neat": [
+      185
+    ],
+    "mixed": [
+      189
+    ],
+    "layers.": [
+      190
+    ],
+    "An": [
+      191
+    ],
+    "addition": [
+      192
+    ],
+    "improves": [
+      200
+    ],
+    "conductivity.": [
+      203
+    ],
+    "studies": [
+      206,
+      314
+    ],
+    "focused": [
+      207
+    ],
+    "stress": [
+      210
+    ],
+    "at": [
+      211,
+      236,
+      242,
+      252,
+      258,
+      267,
+      273
+    ],
+    "break": [
+      212
+    ],
+    "elongation": [
+      214
+    ],
+    "showed": [
+      215
+    ],
+    "superior": [
+      216
+    ],
+    "behaviour": [
+      217
+    ],
+    "compared": [
+      218
+    ],
+    "fullerene": [
+      220
+    ],
+    "derivative.": [
+      221
+    ],
+    "High": [
+      222
+    ],
+    "reduces": [
+      225
+    ],
+    "band": [
+      227
+    ],
+    "gap": [
+      228
+    ],
+    "energy,": [
+      229
+    ],
+    "E": [
+      230,
+      290
+    ],
+    "g": [
+      231,
+      291
+    ],
+    ",": [
+      232
+    ],
+    "from": [
+      233,
+      249,
+      264
+    ],
+    "1.68": [
+      234
+    ],
+    "eV": [
+      235,
+      241,
+      251,
+      257,
+      266,
+      272
+    ],
+    "0.16": [
+      237
+    ],
+    "GPa": [
+      238,
+      244,
+      260,
+      269,
+      275
+    ],
+    "1.51": [
+      240
+    ],
+    "2.69": [
+      243
+    ],
+    "BM,": [
+      248,
+      342
+    ],
+    "1.77": [
+      250
+    ],
+    "0.1": [
+      253
+    ],
+    "MPa": [
+      254
+    ],
+    "1.53": [
+      256
+    ],
+    "4.15": [
+      259
+    ],
+    "1.99": [
+      265
+    ],
+    "0.11": [
+      268
+    ],
+    "1.8": [
+      271
+    ],
+    "3.10": [
+      274
+    ],
+    "determined": [
+      279
+    ],
+    "absorbance": [
+      283
+    ],
+    "measurements": [
+      284
+    ],
+    "diamond-anvil": [
+      287
+    ],
+    "cell.": [
+      288
+    ],
+    "These": [
+      289
+    ],
+    "reductions": [
+      292
+    ],
+    "reflect": [
+      293
+    ],
+    "compressed": [
+      295
+    ],
+    "intermolecular": [
+      296
+    ],
+    "interactions": [
+      297
+    ],
+    "that": [
+      298,
+      318
+    ],
+    "can": [
+      299
+    ],
+    "be": [
+      300
+    ],
+    "monitor": [
+      303
+    ],
+    "structural": [
+      305
+    ],
+    "stability": [
+      306
+    ],
+    "these": [
+      308,
+      371
+    ],
+    "compounds.": [
+      309
+    ],
+    "Based": [
+      310
+    ],
+    "dielectric": [
+      313
+    ],
+    "it": [
+      315
+    ],
+    "was": [
+      316,
+      386
+    ],
+    "found": [
+      317
+    ],
+    "relaxation": [
+      320,
+      369
+    ],
+    "processes": [
+      321,
+      333
+    ],
+    "registered": [
+      322
+    ],
+    "probably": [
+      327,
+      365
+    ],
+    "grain": [
+      329,
+      367
+    ],
+    "boundary": [
+      330,
+      368
+    ],
+    "relaxation.": [
+      331
+    ],
+    "Two": [
+      332
+    ],
+    "also": [
+      334,
+      387
+    ],
+    "appear": [
+      335
+    ],
+    "systems": [
+      338,
+      385
+    ],
+    "none": [
+      344
+    ],
+    "them": [
+      346
+    ],
+    "characteristic": [
+      350
+    ],
+    "imines.": [
+      352
+    ],
+    "high-frequency": [
+      354
+    ],
+    "process": [
+      355
+    ],
+    "has": [
+      356
+    ],
+    "dipole": [
+      358
+    ],
+    "character": [
+      359
+    ],
+    "low-frequency": [
+      362
+    ],
+    "systems.": [
+      372
+    ],
+    "mechanism": [
+      374
+    ],
+    "quasi-DC": [
+      376
+    ],
+    "conduction": [
+      377
+    ],
+    "temperature": [
+      380
+    ],
+    "ranges": [
+      381
+    ],
+    "studied": [
+      384
+    ],
+    "determined.": [
+      388
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2023-08-15T00:00:00"
+}

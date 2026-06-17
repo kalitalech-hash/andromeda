@@ -1,0 +1,2210 @@
+{
+  "id": "https://openalex.org/W3016568293",
+  "doi": "https://doi.org/10.1186/s12964-020-00583-0",
+  "title": "Heat shock response regulates stimulus-specificity and sensitivity of the pro-inflammatory NF-κB signalling",
+  "display_name": "Heat shock response regulates stimulus-specificity and sensitivity of the pro-inflammatory NF-κB signalling",
+  "publication_year": 2020,
+  "publication_date": "2020-05-24",
+  "ids": {
+    "openalex": "https://openalex.org/W3016568293",
+    "doi": "https://doi.org/10.1186/s12964-020-00583-0",
+    "mag": "3016568293",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32448393"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s12964-020-00583-0",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12964-020-00583-0",
+    "pdf_url": "https://biosignaling.biomedcentral.com/track/pdf/10.1186/s12964-020-00583-0",
+    "source": {
+      "id": "https://openalex.org/S138104925",
+      "display_name": "Cell Communication and Signaling",
+      "issn_l": "1478-811X",
+      "issn": [
+        "1478-811X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Communication and Signaling",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://biosignaling.biomedcentral.com/track/pdf/10.1186/s12964-020-00583-0",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5027897091",
+        "display_name": "Anna Paszek",
+        "orcid": "https://orcid.org/0000-0001-5697-2309"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119004910",
+          "display_name": "Silesian University of Technology",
+          "ror": "https://ror.org/02dyjk442",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119004910"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2799725268",
+          "display_name": "Manchester Academic Health Science Centre",
+          "ror": "https://ror.org/04rrkhs81",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799725268"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210150880",
+          "display_name": "The Maria Sklodowska-Curie National Research Institute of Oncology",
+          "ror": "https://ror.org/04qcjsm24",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210150880"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Paszek",
+      "raw_affiliation_strings": [
+        "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland",
+        "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland",
+        "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119004910"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210150880"
+          ]
+        },
+        {
+          "raw_affiliation_string": "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799725268",
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005320284",
+        "display_name": "Małgorzata Kardyńska",
+        "orcid": "https://orcid.org/0000-0003-4858-5266"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119004910",
+          "display_name": "Silesian University of Technology",
+          "ror": "https://ror.org/02dyjk442",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119004910"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Małgorzata Kardyńska",
+      "raw_affiliation_strings": [
+        "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119004910"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007870421",
+        "display_name": "James Bagnall",
+        "orcid": "https://orcid.org/0000-0003-1735-5855"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799725268",
+          "display_name": "Manchester Academic Health Science Centre",
+          "ror": "https://ror.org/04rrkhs81",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799725268"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "James Bagnall",
+      "raw_affiliation_strings": [
+        "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799725268",
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015516093",
+        "display_name": "Jarosław Śmieja",
+        "orcid": "https://orcid.org/0000-0002-6120-4424"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119004910",
+          "display_name": "Silesian University of Technology",
+          "ror": "https://ror.org/02dyjk442",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119004910"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jarosław Śmieja",
+      "raw_affiliation_strings": [
+        "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119004910"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040757424",
+        "display_name": "David G. Spiller",
+        "orcid": "https://orcid.org/0000-0003-2502-6787"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799725268",
+          "display_name": "Manchester Academic Health Science Centre",
+          "ror": "https://ror.org/04rrkhs81",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799725268"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David G. Spiller",
+      "raw_affiliation_strings": [
+        "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799725268",
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007364793",
+        "display_name": "Piotr Wiland",
+        "orcid": "https://orcid.org/0000-0001-9999-0267"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210150880",
+          "display_name": "The Maria Sklodowska-Curie National Research Institute of Oncology",
+          "ror": "https://ror.org/04qcjsm24",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210150880"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Widłak",
+      "raw_affiliation_strings": [
+        "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210150880"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071222148",
+        "display_name": "Marek Kimmel",
+        "orcid": "https://orcid.org/0000-0001-8161-890X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119004910",
+          "display_name": "Silesian University of Technology",
+          "ror": "https://ror.org/02dyjk442",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119004910"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I74775410",
+          "display_name": "Rice University",
+          "ror": "https://ror.org/008zs3103",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I74775410"
+          ]
+        }
+      ],
+      "countries": [
+        "PL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Kimmel",
+      "raw_affiliation_strings": [
+        "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland",
+        "Departments of Statistics and Bioengineering, Rice University, Houston, TX, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Biology and Engineering, Silesian University of Technology, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119004910"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Departments of Statistics and Bioengineering, Rice University, Houston, TX, USA",
+          "institution_ids": [
+            "https://openalex.org/I74775410"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059760088",
+        "display_name": "Wiesława Widłak",
+        "orcid": "https://orcid.org/0000-0002-8440-9414"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210150880",
+          "display_name": "The Maria Sklodowska-Curie National Research Institute of Oncology",
+          "ror": "https://ror.org/04qcjsm24",
+          "country_code": "PL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210150880"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151481",
+          "display_name": "Łukasiewicz Research Network - Institute of Welding",
+          "ror": "https://ror.org/05xx8bb48",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210129336",
+            "https://openalex.org/I4210151481"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wieslawa Widlak",
+      "raw_affiliation_strings": [
+        "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland. wieslawa.widlak@io.gliwice.pl",
+        "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland. wieslawa.widlak@io.gliwice.pl",
+          "institution_ids": [
+            "https://openalex.org/I4210151481"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Maria Skłodowska-Curie National Research Institute of Oncology, Gliwice Branch, Gliwice, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210150880"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5090742668",
+        "display_name": "Pawel Paszek",
+        "orcid": "https://orcid.org/0000-0002-0363-0716"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799725268",
+          "display_name": "Manchester Academic Health Science Centre",
+          "ror": "https://ror.org/04rrkhs81",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799725268"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pawel Paszek",
+      "raw_affiliation_strings": [
+        "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK. pawel.paszek@manchester.ac.uk",
+        "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0363-0716",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK. pawel.paszek@manchester.ac.uk",
+          "institution_ids": [
+            "https://openalex.org/I2799725268"
+          ]
+        },
+        {
+          "raw_affiliation_string": "System Microscopy Centre, School of Biology, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799725268",
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2390,
+    "currency": "GBP",
+    "value_usd": 2931
+  },
+  "apc_paid": {
+    "value": 2390,
+    "currency": "GBP",
+    "value_usd": 2931
+  },
+  "fwci": 1.0004,
+  "has_fulltext": true,
+  "cited_by_count": 34,
+  "citation_normalized_percentile": {
+    "value": 0.74405752,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "18",
+    "issue": "1",
+    "first_page": "77",
+    "last_page": "77"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10934",
+    "display_name": "Heat shock proteins research",
+    "score": 0.6187999844551086,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10934",
+      "display_name": "Heat shock proteins research",
+      "score": 0.6187999844551086,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12365",
+      "display_name": "Effects of Environmental Stressors on Livestock",
+      "score": 0.07519999891519547,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1103",
+        "display_name": "Animal Science and Zoology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11861",
+      "display_name": "Thermal Regulation in Medicine",
+      "score": 0.06480000168085098,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2706",
+        "display_name": "Critical Care and Intensive Care Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/heat-shock-factor",
+      "display_name": "Heat shock factor",
+      "score": 0.7084401249885559
+    },
+    {
+      "id": "https://openalex.org/keywords/heat-shock",
+      "display_name": "Heat shock",
+      "score": 0.6696353554725647
+    },
+    {
+      "id": "https://openalex.org/keywords/hsf1",
+      "display_name": "HSF1",
+      "score": 0.6653580665588379
+    },
+    {
+      "id": "https://openalex.org/keywords/tumor-necrosis-factor-alpha",
+      "display_name": "Tumor necrosis factor alpha",
+      "score": 0.6200371980667114
+    },
+    {
+      "id": "https://openalex.org/keywords/iκb-kinase",
+      "display_name": "IκB kinase",
+      "score": 0.5670092105865479
+    },
+    {
+      "id": "https://openalex.org/keywords/inflammation",
+      "display_name": "Inflammation",
+      "score": 0.5480806827545166
+    },
+    {
+      "id": "https://openalex.org/keywords/nf-κb",
+      "display_name": "NF-κB",
+      "score": 0.5468407273292542
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.5186254382133484
+    },
+    {
+      "id": "https://openalex.org/keywords/heat-shock-protein",
+      "display_name": "Heat shock protein",
+      "score": 0.48408567905426025
+    },
+    {
+      "id": "https://openalex.org/keywords/iκbα",
+      "display_name": "IκBα",
+      "score": 0.4665168523788452
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.4644702970981598
+    },
+    {
+      "id": "https://openalex.org/keywords/transcription-factor",
+      "display_name": "Transcription factor",
+      "score": 0.44714272022247314
+    },
+    {
+      "id": "https://openalex.org/keywords/cytokine",
+      "display_name": "Cytokine",
+      "score": 0.41985049843788147
+    },
+    {
+      "id": "https://openalex.org/keywords/signal-transduction",
+      "display_name": "Signal transduction",
+      "score": 0.41450488567352295
+    },
+    {
+      "id": "https://openalex.org/keywords/immunology",
+      "display_name": "Immunology",
+      "score": 0.365247517824173
+    },
+    {
+      "id": "https://openalex.org/keywords/hsp70",
+      "display_name": "Hsp70",
+      "score": 0.26723092794418335
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.11419248580932617
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.10275635123252869
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C52981337",
+      "wikidata": "https://www.wikidata.org/wiki/Q24782817",
+      "display_name": "Heat shock factor",
+      "level": 5,
+      "score": 0.7084401249885559
+    },
+    {
+      "id": "https://openalex.org/C137984847",
+      "wikidata": "https://www.wikidata.org/wiki/Q1621258",
+      "display_name": "Heat shock",
+      "level": 4,
+      "score": 0.6696353554725647
+    },
+    {
+      "id": "https://openalex.org/C2776667301",
+      "wikidata": "https://www.wikidata.org/wiki/Q18027324",
+      "display_name": "HSF1",
+      "level": 5,
+      "score": 0.6653580665588379
+    },
+    {
+      "id": "https://openalex.org/C17991360",
+      "wikidata": "https://www.wikidata.org/wiki/Q21173843",
+      "display_name": "Tumor necrosis factor alpha",
+      "level": 2,
+      "score": 0.6200371980667114
+    },
+    {
+      "id": "https://openalex.org/C100175707",
+      "wikidata": "https://www.wikidata.org/wiki/Q6103519",
+      "display_name": "IκB kinase",
+      "level": 4,
+      "score": 0.5670092105865479
+    },
+    {
+      "id": "https://openalex.org/C2776914184",
+      "wikidata": "https://www.wikidata.org/wiki/Q101991",
+      "display_name": "Inflammation",
+      "level": 2,
+      "score": 0.5480806827545166
+    },
+    {
+      "id": "https://openalex.org/C2777730290",
+      "wikidata": "https://www.wikidata.org/wiki/Q411114",
+      "display_name": "NF-κB",
+      "level": 3,
+      "score": 0.5468407273292542
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5186254382133484
+    },
+    {
+      "id": "https://openalex.org/C205260736",
+      "wikidata": "https://www.wikidata.org/wiki/Q418939",
+      "display_name": "Heat shock protein",
+      "level": 3,
+      "score": 0.48408567905426025
+    },
+    {
+      "id": "https://openalex.org/C2779730028",
+      "wikidata": "https://www.wikidata.org/wiki/Q15325101",
+      "display_name": "IκBα",
+      "level": 4,
+      "score": 0.4665168523788452
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.4644702970981598
+    },
+    {
+      "id": "https://openalex.org/C86339819",
+      "wikidata": "https://www.wikidata.org/wiki/Q407384",
+      "display_name": "Transcription factor",
+      "level": 3,
+      "score": 0.44714272022247314
+    },
+    {
+      "id": "https://openalex.org/C2778690821",
+      "wikidata": "https://www.wikidata.org/wiki/Q212354",
+      "display_name": "Cytokine",
+      "level": 2,
+      "score": 0.41985049843788147
+    },
+    {
+      "id": "https://openalex.org/C62478195",
+      "wikidata": "https://www.wikidata.org/wiki/Q828130",
+      "display_name": "Signal transduction",
+      "level": 2,
+      "score": 0.41450488567352295
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.365247517824173
+    },
+    {
+      "id": "https://openalex.org/C68991219",
+      "wikidata": "https://www.wikidata.org/wiki/Q419102",
+      "display_name": "Hsp70",
+      "level": 4,
+      "score": 0.26723092794418335
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.11419248580932617
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.10275635123252869
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007249",
+      "descriptor_name": "Inflammation",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014409",
+      "descriptor_name": "Tumor Necrosis Factor-alpha",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014409",
+      "descriptor_name": "Tumor Necrosis Factor-alpha",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014409",
+      "descriptor_name": "Tumor Necrosis Factor-alpha",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014409",
+      "descriptor_name": "Tumor Necrosis Factor-alpha",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015870",
+      "descriptor_name": "Gene Expression",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015870",
+      "descriptor_name": "Gene Expression",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015870",
+      "descriptor_name": "Gene Expression",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015870",
+      "descriptor_name": "Gene Expression",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016328",
+      "descriptor_name": "NF-kappa B",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016328",
+      "descriptor_name": "NF-kappa B",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016328",
+      "descriptor_name": "NF-kappa B",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016328",
+      "descriptor_name": "NF-kappa B",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018869",
+      "descriptor_name": "Heat-Shock Response",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018869",
+      "descriptor_name": "Heat-Shock Response",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018869",
+      "descriptor_name": "Heat-Shock Response",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018869",
+      "descriptor_name": "Heat-Shock Response",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053583",
+      "descriptor_name": "Interleukin-1beta",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053583",
+      "descriptor_name": "Interleukin-1beta",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053583",
+      "descriptor_name": "Interleukin-1beta",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053583",
+      "descriptor_name": "Interleukin-1beta",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D061986",
+      "descriptor_name": "MCF-7 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D061986",
+      "descriptor_name": "MCF-7 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D061986",
+      "descriptor_name": "MCF-7 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D061986",
+      "descriptor_name": "MCF-7 Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1186/s12964-020-00583-0",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12964-020-00583-0",
+      "pdf_url": "https://biosignaling.biomedcentral.com/track/pdf/10.1186/s12964-020-00583-0",
+      "source": {
+        "id": "https://openalex.org/S138104925",
+        "display_name": "Cell Communication and Signaling",
+        "issn_l": "1478-811X",
+        "issn": [
+          "1478-811X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell Communication and Signaling",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:32448393",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32448393",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell communication and signaling : CCS",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire/7ee1bcfc-66fd-4cb9-a47c-3f6b32f9f721",
+      "is_oa": true,
+      "landing_page_url": "https://research.manchester.ac.uk/en/publications/7ee1bcfc-66fd-4cb9-a47c-3f6b32f9f721",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400662",
+        "display_name": "Research Explorer (The University of Manchester)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I28407311",
+        "host_organization_name": "University of Manchester",
+        "host_organization_lineage": [
+          "https://openalex.org/I28407311"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Paszek, A, Kardynska, M, Bagnall, J, Smieja, J, Spiller, D, Widlak, P, Kimmel, M, Widlak, W & Paszek, P 2020, 'Heat shock response regulates stimulus-specificity and sensitivity of the pro-inflammatory NF-κB signalling', Cell Communication and Signaling, vol. 18, 77, pp. 1-21. https://doi.org/10.1186/s12964-020-00583-0",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:758c2e93f16345e197d175e447dfcac2",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/758c2e93f16345e197d175e447dfcac2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cell Communication and Signaling, Vol 18, Iss 1, Pp 1-21 (2020)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7245923",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7245923",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cell Commun Signal",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:publications/7ee1bcfc-66fd-4cb9-a47c-3f6b32f9f721",
+      "is_oa": true,
+      "landing_page_url": "https://www.research.manchester.ac.uk/portal/en/publications/heat-shock-response-regulates-stimulusspecificity-and-sensitivity-of-the-proinflammatory-nfb-signalling(7ee1bcfc-66fd-4cb9-a47c-3f6b32f9f721).html",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400662",
+        "display_name": "Research Explorer (The University of Manchester)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I28407311",
+        "host_organization_name": "University of Manchester",
+        "host_organization_lineage": [
+          "https://openalex.org/I28407311"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Paszek, A, Kardynska, M, Bagnall, J, Smieja, J, Spiller, D, Widlak, P, Kimmel, M, Widlak, W & Paszek, P 2020, 'Heat shock response regulates stimulus-specificity and sensitivity of the pro-inflammatory NF-κB signalling', Cell Communication and Signaling, vol. 18, 77, pp. 1-21. https://doi.org/10.1186/s12964-020-00583-0",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s12964-020-00583-0",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12964-020-00583-0",
+    "pdf_url": "https://biosignaling.biomedcentral.com/track/pdf/10.1186/s12964-020-00583-0",
+    "source": {
+      "id": "https://openalex.org/S138104925",
+      "display_name": "Cell Communication and Signaling",
+      "issn_l": "1478-811X",
+      "issn": [
+        "1478-811X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Communication and Signaling",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1059042294",
+      "display_name": null,
+      "funder_award_id": "BB/K003097/1",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G2298205076",
+      "display_name": null,
+      "funder_award_id": "BB/F005938/2",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G332264888",
+      "display_name": null,
+      "funder_award_id": "02/010/BK19/0143",
+      "funder_id": "https://openalex.org/F4320324727",
+      "funder_display_name": "Silesian University of Technology"
+    },
+    {
+      "id": "https://openalex.org/G3468978933",
+      "display_name": null,
+      "funder_award_id": "MR/K015885/1",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G4312339768",
+      "display_name": null,
+      "funder_award_id": "825/RN2/RR4/2018",
+      "funder_id": "https://openalex.org/F4320322481",
+      "funder_display_name": "Politechnika Poznańska"
+    },
+    {
+      "id": "https://openalex.org/G4403090888",
+      "display_name": null,
+      "funder_award_id": "BB/I017976/1",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G4432272634",
+      "display_name": null,
+      "funder_award_id": "2015/19/B/ST7/02984",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G6440150424",
+      "display_name": null,
+      "funder_award_id": "2016/21/B/ST7/02241",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G6520759948",
+      "display_name": null,
+      "funder_award_id": "2016/23/B/ST6/03455",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G6601167538",
+      "display_name": "Systems Biology analysis of biological timers and inflammation",
+      "funder_award_id": "BB/K003097/1",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322481",
+      "display_name": "Politechnika Poznańska",
+      "ror": "https://ror.org/00p7p3302"
+    },
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320324727",
+      "display_name": "Silesian University of Technology",
+      "ror": "https://ror.org/02dyjk442"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    },
+    {
+      "id": "https://openalex.org/F4320334629",
+      "display_name": "Biotechnology and Biological Sciences Research Council",
+      "ror": "https://ror.org/00cwqg982"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 73,
+  "referenced_works": [
+    "https://openalex.org/W1533671266",
+    "https://openalex.org/W1539442497",
+    "https://openalex.org/W1639414995",
+    "https://openalex.org/W1641228030",
+    "https://openalex.org/W1721878301",
+    "https://openalex.org/W1881688083",
+    "https://openalex.org/W1892307949",
+    "https://openalex.org/W1962225963",
+    "https://openalex.org/W1967138582",
+    "https://openalex.org/W1968916032",
+    "https://openalex.org/W1975200549",
+    "https://openalex.org/W1976462601",
+    "https://openalex.org/W1978137955",
+    "https://openalex.org/W1984351626",
+    "https://openalex.org/W1984573249",
+    "https://openalex.org/W1987495795",
+    "https://openalex.org/W1993019857",
+    "https://openalex.org/W1994874844",
+    "https://openalex.org/W1998463022",
+    "https://openalex.org/W2012106388",
+    "https://openalex.org/W2019079217",
+    "https://openalex.org/W2029533522",
+    "https://openalex.org/W2035732718",
+    "https://openalex.org/W2040359453",
+    "https://openalex.org/W2042073539",
+    "https://openalex.org/W2044016526",
+    "https://openalex.org/W2044305827",
+    "https://openalex.org/W2047547145",
+    "https://openalex.org/W2052908553",
+    "https://openalex.org/W2053602036",
+    "https://openalex.org/W2054142977",
+    "https://openalex.org/W2054838508",
+    "https://openalex.org/W2074097004",
+    "https://openalex.org/W2076493643",
+    "https://openalex.org/W2079204113",
+    "https://openalex.org/W2081155723",
+    "https://openalex.org/W2085637098",
+    "https://openalex.org/W2094900722",
+    "https://openalex.org/W2095529319",
+    "https://openalex.org/W2099935179",
+    "https://openalex.org/W2102824402",
+    "https://openalex.org/W2107554012",
+    "https://openalex.org/W2112425781",
+    "https://openalex.org/W2118738728",
+    "https://openalex.org/W2122216968",
+    "https://openalex.org/W2125937596",
+    "https://openalex.org/W2134349528",
+    "https://openalex.org/W2138934663",
+    "https://openalex.org/W2140053284",
+    "https://openalex.org/W2142764983",
+    "https://openalex.org/W2152231829",
+    "https://openalex.org/W2153119463",
+    "https://openalex.org/W2156124327",
+    "https://openalex.org/W2158797202",
+    "https://openalex.org/W2168506069",
+    "https://openalex.org/W2171534430",
+    "https://openalex.org/W2194944825",
+    "https://openalex.org/W2235956282",
+    "https://openalex.org/W2259753688",
+    "https://openalex.org/W2260138955",
+    "https://openalex.org/W2277918484",
+    "https://openalex.org/W2332912393",
+    "https://openalex.org/W2411288489",
+    "https://openalex.org/W2465275830",
+    "https://openalex.org/W2551516228",
+    "https://openalex.org/W2745710187",
+    "https://openalex.org/W2801941112",
+    "https://openalex.org/W2803828993",
+    "https://openalex.org/W2943631740",
+    "https://openalex.org/W2953260398",
+    "https://openalex.org/W3008964404",
+    "https://openalex.org/W3104778446",
+    "https://openalex.org/W4231063670"
+  ],
+  "related_works": [
+    "https://openalex.org/W2102042089",
+    "https://openalex.org/W2154512403",
+    "https://openalex.org/W4225126678",
+    "https://openalex.org/W1993577562",
+    "https://openalex.org/W1989635548",
+    "https://openalex.org/W1957495683",
+    "https://openalex.org/W4377839849",
+    "https://openalex.org/W2760785806",
+    "https://openalex.org/W2042368077",
+    "https://openalex.org/W2146363912"
+  ],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "Ability": [
+      1
+    ],
+    "to": [
+      2,
+      4,
+      61,
+      75,
+      92,
+      106,
+      121,
+      133,
+      155,
+      225,
+      230,
+      243,
+      248,
+      274
+    ],
+    "adapt": [
+      3,
+      60
+    ],
+    "temperature": [
+      5,
+      62,
+      221,
+      234,
+      244,
+      265,
+      275,
+      282,
+      296
+    ],
+    "changes": [
+      6,
+      63,
+      245
+    ],
+    "trough": [
+      7,
+      298
+    ],
+    "the": [
+      8,
+      17,
+      30,
+      37,
+      77,
+      80,
+      84,
+      128,
+      159,
+      162,
+      185,
+      208,
+      258,
+      261,
+      287,
+      299,
+      315
+    ],
+    "Heat": [
+      9,
+      26,
+      172
+    ],
+    "Shock": [
+      10,
+      27,
+      173
+    ],
+    "Response": [
+      11
+    ],
+    "(HSR)": [
+      12
+    ],
+    "pathways": [
+      13
+    ],
+    "is": [
+      14,
+      64,
+      142,
+      165,
+      182,
+      267,
+      284,
+      311
+    ],
+    "one": [
+      15
+    ],
+    "of": [
+      16,
+      36,
+      47,
+      55,
+      79,
+      111,
+      140,
+      161,
+      171,
+      213,
+      260,
+      306,
+      318
+    ],
+    "most": [
+      18
+    ],
+    "fundamental": [
+      19
+    ],
+    "and": [
+      20,
+      32,
+      49,
+      59,
+      72,
+      97,
+      113,
+      135,
+      211,
+      216,
+      223,
+      270,
+      308
+    ],
+    "clinically": [
+      21
+    ],
+    "relevant": [
+      22
+    ],
+    "cellular": [
+      23
+    ],
+    "response": [
+      24,
+      91,
+      132
+    ],
+    "systems.": [
+      25
+    ],
+    "(HS)": [
+      28
+    ],
+    "affects": [
+      29
+    ],
+    "signalling": [
+      31,
+      78,
+      131,
+      218
+    ],
+    "gene": [
+      33
+    ],
+    "expression": [
+      34
+    ],
+    "responses": [
+      35,
+      153,
+      164,
+      239
+    ],
+    "Nuclear": [
+      38
+    ],
+    "Factor": [
+      39,
+      100,
+      174
+    ],
+    "κB": [
+      40,
+      187
+    ],
+    "(NF-κB)": [
+      41
+    ],
+    "transcription": [
+      42
+    ],
+    "factor,": [
+      43
+    ],
+    "a": [
+      44,
+      107,
+      231,
+      293
+    ],
+    "critical": [
+      45
+    ],
+    "regulator": [
+      46
+    ],
+    "proliferation": [
+      48
+    ],
+    "inflammation,": [
+      50
+    ],
+    "however,": [
+      51
+    ],
+    "our": [
+      52
+    ],
+    "quantitative": [
+      53,
+      304
+    ],
+    "understanding": [
+      54,
+      305
+    ],
+    "how": [
+      56
+    ],
+    "cells": [
+      57,
+      89
+    ],
+    "sense": [
+      58
+    ],
+    "limited.": [
+      65
+    ],
+    "METHODS:": [
+      66
+    ],
+    "We": [
+      67,
+      117,
+      255,
+      277
+    ],
+    "used": [
+      68
+    ],
+    "live-cell": [
+      69
+    ],
+    "time-lapse": [
+      70
+    ],
+    "microscopy": [
+      71
+    ],
+    "mathematical": [
+      73
+    ],
+    "modelling": [
+      74
+    ],
+    "understand": [
+      76
+    ],
+    "NF-κB": [
+      81,
+      130,
+      152,
+      238,
+      262,
+      307
+    ],
+    "system": [
+      82,
+      263
+    ],
+    "in": [
+      83,
+      90,
+      246
+    ],
+    "human": [
+      85
+    ],
+    "MCF7": [
+      86
+    ],
+    "breast": [
+      87
+    ],
+    "adenocarcinoma": [
+      88
+    ],
+    "pro-inflammatory": [
+      93
+    ],
+    "Interleukin": [
+      94
+    ],
+    "1β": [
+      95
+    ],
+    "(IL1β)": [
+      96
+    ],
+    "Tumour": [
+      98
+    ],
+    "Necrosis": [
+      99
+    ],
+    "α": [
+      101
+    ],
+    "(TNFα)": [
+      102
+    ],
+    "cytokines,": [
+      103
+    ],
+    "following": [
+      104,
+      264
+    ],
+    "exposure": [
+      105,
+      120
+    ],
+    "37-43": [
+      108,
+      232
+    ],
+    "°C": [
+      109,
+      123,
+      233
+    ],
+    "range": [
+      110
+    ],
+    "physiological": [
+      112
+    ],
+    "clinical": [
+      114
+    ],
+    "temperatures.": [
+      115
+    ],
+    "RESULTS:": [
+      116
+    ],
+    "show": [
+      118,
+      178
+    ],
+    "that": [
+      119,
+      179,
+      206,
+      257,
+      279
+    ],
+    "43": [
+      122
+    ],
+    "1": [
+      124,
+      175
+    ],
+    "h": [
+      125,
+      147
+    ],
+    "HS": [
+      126,
+      149,
+      227
+    ],
+    "inhibits": [
+      127
+    ],
+    "immediate": [
+      129
+    ],
+    "TNFα": [
+      134,
+      215,
+      252
+    ],
+    "IL1β": [
+      136
+    ],
+    "stimulation": [
+      137
+    ],
+    "although": [
+      138
+    ],
+    "uptake": [
+      139
+    ],
+    "cytokines": [
+      141
+    ],
+    "not": [
+      143,
+      197
+    ],
+    "impaired.": [
+      144
+    ],
+    "Within": [
+      145
+    ],
+    "4": [
+      146
+    ],
+    "after": [
+      148
+    ],
+    "treatment": [
+      150
+    ],
+    "IL1β-induced": [
+      151
+    ],
+    "return": [
+      154
+    ],
+    "normal": [
+      156
+    ],
+    "levels,": [
+      157
+    ],
+    "but": [
+      158,
+      196
+    ],
+    "recovery": [
+      160,
+      200,
+      212
+    ],
+    "TNFα-induced": [
+      163
+    ],
+    "still": [
+      166
+    ],
+    "affected.": [
+      167
+    ],
+    "Using": [
+      168
+    ],
+    "siRNA": [
+      169
+    ],
+    "knock-down": [
+      170
+    ],
+    "(HSF1)": [
+      176
+    ],
+    "we": [
+      177,
+      204
+    ],
+    "this": [
+      180,
+      280
+    ],
+    "stimulus-specificity": [
+      181
+    ],
+    "conferred": [
+      183
+    ],
+    "via": [
+      184,
+      286
+    ],
+    "Inhibitory": [
+      186
+    ],
+    "kinase": [
+      188
+    ],
+    "(IKK)": [
+      189
+    ],
+    "signalosome": [
+      190
+    ],
+    "where": [
+      191
+    ],
+    "HSF1-dependent": [
+      192
+    ],
+    "feedback": [
+      193
+    ],
+    "regulates": [
+      194
+    ],
+    "TNFα,": [
+      195
+    ],
+    "IL1β-mediated": [
+      198,
+      217,
+      237
+    ],
+    "IKK": [
+      199,
+      288
+    ],
+    "post": [
+      201
+    ],
+    "HS.": [
+      202
+    ],
+    "Furthermore,": [
+      203
+    ],
+    "demonstrate": [
+      205,
+      256
+    ],
+    "through": [
+      207
+    ],
+    "temperature-dependent": [
+      209
+    ],
+    "denaturation": [
+      210
+    ],
+    "IKK,": [
+      214
+    ],
+    "exhibit": [
+      219,
+      271
+    ],
+    "different": [
+      220
+    ],
+    "sensitivity": [
+      222,
+      283
+    ],
+    "adaptation": [
+      224,
+      273
+    ],
+    "repeated": [
+      226
+    ],
+    "when": [
+      228
+    ],
+    "exposed": [
+      229
+    ],
+    "range.": [
+      235
+    ],
+    "Specifically,": [
+      236
+    ],
+    "are": [
+      240
+    ],
+    "more": [
+      241
+    ],
+    "robust": [
+      242
+    ],
+    "comparison": [
+      247
+    ],
+    "those": [
+      249
+    ],
+    "induced": [
+      250
+    ],
+    "by": [
+      251
+    ],
+    "treatment.": [
+      253
+    ],
+    "CONCLUSIONS:": [
+      254
+    ],
+    "kinetics": [
+      259
+    ],
+    "stress": [
+      266
+    ],
+    "cytokine": [
+      268
+    ],
+    "specific": [
+      269
+    ],
+    "differential": [
+      272,
+      281
+    ],
+    "changes.": [
+      276
+    ],
+    "propose": [
+      278
+    ],
+    "mediated": [
+      285
+    ],
+    "signalosome,": [
+      289
+    ],
+    "which": [
+      290
+    ],
+    "acts": [
+      291
+    ],
+    "as": [
+      292
+    ],
+    "bona": [
+      294
+    ],
+    "fide": [
+      295
+    ],
+    "sensor": [
+      297
+    ],
+    "HSR": [
+      300,
+      309
+    ],
+    "cross-talk.": [
+      301
+    ],
+    "This": [
+      302
+    ],
+    "novel": [
+      303
+    ],
+    "interactions": [
+      310
+    ],
+    "fundamentally": [
+      312
+    ],
+    "important": [
+      313
+    ],
+    "for": [
+      314
+    ],
+    "potential": [
+      316
+    ],
+    "optimization": [
+      317
+    ],
+    "therapeutic": [
+      319
+    ],
+    "hyperthermia": [
+      320
+    ],
+    "protocols.": [
+      321
+    ],
+    "Video": [
+      322
+    ],
+    "Abstract.": [
+      323
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

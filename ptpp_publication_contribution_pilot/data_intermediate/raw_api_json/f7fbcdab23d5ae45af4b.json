@@ -1,0 +1,1023 @@
+{
+  "id": "https://openalex.org/W4399911562",
+  "doi": "https://doi.org/10.48550/arxiv.2406.14151",
+  "title": "Automated detection and mapping of crystal tilt using thermal diffuse scattering in transmission electron microscopy",
+  "display_name": "Automated detection and mapping of crystal tilt using thermal diffuse scattering in transmission electron microscopy",
+  "publication_year": 2024,
+  "publication_date": "2024-06-20",
+  "ids": {
+    "openalex": "https://openalex.org/W4399911562",
+    "doi": "https://doi.org/10.48550/arxiv.2406.14151"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2406.14151",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2406.14151",
+    "pdf_url": "https://arxiv.org/pdf/2406.14151",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2406.14151",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083758876",
+        "display_name": "Mauricio Cattaneo",
+        "orcid": "https://orcid.org/0000-0002-6135-449X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Cattaneo, Mauricio",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070391631",
+        "display_name": "Knut Müller‐Caspary",
+        "orcid": "https://orcid.org/0000-0002-2588-7993"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Müller-Caspary, Knut",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056592875",
+        "display_name": "Juri Barthel",
+        "orcid": "https://orcid.org/0000-0003-3914-4346"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Barthel, Juri",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113261116",
+        "display_name": "Katherine E. Mac Arthur",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mac Arthur, Katherine E.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030956834",
+        "display_name": "Nicolas Gauquelin",
+        "orcid": "https://orcid.org/0000-0002-5555-7055"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Gauquelin, Nicolas",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089680612",
+        "display_name": "Marta Lipińska-Chwałek",
+        "orcid": "https://orcid.org/0000-0003-2090-8510"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lipinska-Chwalek, Marta",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004678380",
+        "display_name": "Johan Verbeeck",
+        "orcid": "https://orcid.org/0000-0002-7151-8101"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Verbeeck, Johan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5111981416",
+        "display_name": "Leslie J. Allen",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Allen, Leslie J.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5077999397",
+        "display_name": "Rafal E. Dunin‐Borkowski",
+        "orcid": "https://orcid.org/0000-0001-8082-0647"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Dunin-Borkowski, Rafal E.",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11856",
+    "display_name": "Thermography and Photoacoustic Techniques",
+    "score": 0.9677000045776367,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2211",
+      "display_name": "Mechanics of Materials"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11856",
+      "display_name": "Thermography and Photoacoustic Techniques",
+      "score": 0.9677000045776367,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/tilt",
+      "display_name": "Tilt (camera)",
+      "score": 0.7850275039672852
+    },
+    {
+      "id": "https://openalex.org/keywords/transmission-electron-microscopy",
+      "display_name": "Transmission electron microscopy",
+      "score": 0.7475230693817139
+    },
+    {
+      "id": "https://openalex.org/keywords/scattering",
+      "display_name": "Scattering",
+      "score": 0.5833486914634705
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.5472554564476013
+    },
+    {
+      "id": "https://openalex.org/keywords/thermal",
+      "display_name": "Thermal",
+      "score": 0.527638852596283
+    },
+    {
+      "id": "https://openalex.org/keywords/electron-tomography",
+      "display_name": "Electron tomography",
+      "score": 0.4911024570465088
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.4835205078125
+    },
+    {
+      "id": "https://openalex.org/keywords/electron-microscope",
+      "display_name": "Electron microscope",
+      "score": 0.48147860169410706
+    },
+    {
+      "id": "https://openalex.org/keywords/crystal",
+      "display_name": "Crystal (programming language)",
+      "score": 0.4428732097148895
+    },
+    {
+      "id": "https://openalex.org/keywords/energy-filtered-transmission-electron-microscopy",
+      "display_name": "Energy filtered transmission electron microscopy",
+      "score": 0.4361986517906189
+    },
+    {
+      "id": "https://openalex.org/keywords/microscopy",
+      "display_name": "Microscopy",
+      "score": 0.4343724846839905
+    },
+    {
+      "id": "https://openalex.org/keywords/electron",
+      "display_name": "Electron",
+      "score": 0.4221495985984802
+    },
+    {
+      "id": "https://openalex.org/keywords/scanning-transmission-electron-microscopy",
+      "display_name": "Scanning transmission electron microscopy",
+      "score": 0.39536577463150024
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.2807706296443939
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.24386218190193176
+    },
+    {
+      "id": "https://openalex.org/keywords/nuclear-physics",
+      "display_name": "Nuclear physics",
+      "score": 0.1174946129322052
+    },
+    {
+      "id": "https://openalex.org/keywords/geometry",
+      "display_name": "Geometry",
+      "score": 0.07875701785087585
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.053796470165252686
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779844322",
+      "wikidata": "https://www.wikidata.org/wiki/Q2919140",
+      "display_name": "Tilt (camera)",
+      "level": 2,
+      "score": 0.7850275039672852
+    },
+    {
+      "id": "https://openalex.org/C146088050",
+      "wikidata": "https://www.wikidata.org/wiki/Q744818",
+      "display_name": "Transmission electron microscopy",
+      "level": 2,
+      "score": 0.7475230693817139
+    },
+    {
+      "id": "https://openalex.org/C191486275",
+      "wikidata": "https://www.wikidata.org/wiki/Q210028",
+      "display_name": "Scattering",
+      "level": 2,
+      "score": 0.5833486914634705
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.5472554564476013
+    },
+    {
+      "id": "https://openalex.org/C204530211",
+      "wikidata": "https://www.wikidata.org/wiki/Q752823",
+      "display_name": "Thermal",
+      "level": 2,
+      "score": 0.527638852596283
+    },
+    {
+      "id": "https://openalex.org/C75806775",
+      "wikidata": "https://www.wikidata.org/wiki/Q5358194",
+      "display_name": "Electron tomography",
+      "level": 4,
+      "score": 0.4911024570465088
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.4835205078125
+    },
+    {
+      "id": "https://openalex.org/C93877712",
+      "wikidata": "https://www.wikidata.org/wiki/Q132560",
+      "display_name": "Electron microscope",
+      "level": 2,
+      "score": 0.48147860169410706
+    },
+    {
+      "id": "https://openalex.org/C2781285689",
+      "wikidata": "https://www.wikidata.org/wiki/Q21921428",
+      "display_name": "Crystal (programming language)",
+      "level": 2,
+      "score": 0.4428732097148895
+    },
+    {
+      "id": "https://openalex.org/C144783951",
+      "wikidata": "https://www.wikidata.org/wiki/Q907728",
+      "display_name": "Energy filtered transmission electron microscopy",
+      "level": 4,
+      "score": 0.4361986517906189
+    },
+    {
+      "id": "https://openalex.org/C147080431",
+      "wikidata": "https://www.wikidata.org/wiki/Q1074953",
+      "display_name": "Microscopy",
+      "level": 2,
+      "score": 0.4343724846839905
+    },
+    {
+      "id": "https://openalex.org/C147120987",
+      "wikidata": "https://www.wikidata.org/wiki/Q2225",
+      "display_name": "Electron",
+      "level": 2,
+      "score": 0.4221495985984802
+    },
+    {
+      "id": "https://openalex.org/C193016168",
+      "wikidata": "https://www.wikidata.org/wiki/Q874835",
+      "display_name": "Scanning transmission electron microscopy",
+      "level": 3,
+      "score": 0.39536577463150024
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.2807706296443939
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.24386218190193176
+    },
+    {
+      "id": "https://openalex.org/C185544564",
+      "wikidata": "https://www.wikidata.org/wiki/Q81197",
+      "display_name": "Nuclear physics",
+      "level": 1,
+      "score": 0.1174946129322052
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.07875701785087585
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.053796470165252686
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2406.14151",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2406.14151",
+      "pdf_url": "https://arxiv.org/pdf/2406.14151",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2406.14151",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2406.14151",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2406.14151",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2406.14151",
+    "pdf_url": "https://arxiv.org/pdf/2406.14151",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4399911562.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4399911562.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2028347506",
+    "https://openalex.org/W2105065214",
+    "https://openalex.org/W1997970450",
+    "https://openalex.org/W2054392061",
+    "https://openalex.org/W4389558632",
+    "https://openalex.org/W2062638405",
+    "https://openalex.org/W2056478422",
+    "https://openalex.org/W4387826508",
+    "https://openalex.org/W4388100418",
+    "https://openalex.org/W2113031568"
+  ],
+  "abstract_inverted_index": {
+    "Quantitative": [
+      0
+    ],
+    "interpretation": [
+      1
+    ],
+    "of": [
+      2,
+      8,
+      16,
+      49,
+      60,
+      92,
+      121,
+      137,
+      154
+    ],
+    "transmission": [
+      3
+    ],
+    "electron": [
+      4
+    ],
+    "microscopy": [
+      5
+    ],
+    "(TEM)": [
+      6
+    ],
+    "data": [
+      7,
+      31
+    ],
+    "crystalline": [
+      9
+    ],
+    "specimens": [
+      10
+    ],
+    "often": [
+      11
+    ],
+    "requires": [
+      12
+    ],
+    "the": [
+      13,
+      17,
+      34,
+      58,
+      61,
+      65,
+      135,
+      138
+    ],
+    "accurate": [
+      14
+    ],
+    "knowledge": [
+      15
+    ],
+    "local": [
+      18,
+      35
+    ],
+    "crystal": [
+      19
+    ],
+    "orientation.": [
+      20
+    ],
+    "A": [
+      21
+    ],
+    "method": [
+      22,
+      98
+    ],
+    "is": [
+      23,
+      43,
+      67,
+      74,
+      95,
+      99
+    ],
+    "presented": [
+      24
+    ],
+    "which": [
+      25
+    ],
+    "exploits": [
+      26
+    ],
+    "momentum-resolved": [
+      27
+    ],
+    "scanning": [
+      28
+    ],
+    "TEM": [
+      29
+    ],
+    "(STEM)": [
+      30
+    ],
+    "to": [
+      32,
+      70,
+      83,
+      106
+    ],
+    "determine": [
+      33
+    ],
+    "mistilt": [
+      36
+    ],
+    "from": [
+      37
+    ],
+    "a": [
+      38,
+      46,
+      53,
+      151
+    ],
+    "major": [
+      39
+    ],
+    "zone": [
+      40
+    ],
+    "axis.": [
+      41
+    ],
+    "It": [
+      42
+    ],
+    "based": [
+      44
+    ],
+    "on": [
+      45
+    ],
+    "geometric": [
+      47
+    ],
+    "analysis": [
+      48
+    ],
+    "Kikuchi": [
+      50
+    ],
+    "bands": [
+      51
+    ],
+    "within": [
+      52
+    ],
+    "single": [
+      54
+    ],
+    "diffraction": [
+      55,
+      80
+    ],
+    "pattern,": [
+      56
+    ],
+    "yielding": [
+      57
+    ],
+    "centre": [
+      59
+    ],
+    "Laue": [
+      62
+    ],
+    "circle.": [
+      63
+    ],
+    "Whereas": [
+      64
+    ],
+    "approach": [
+      66
+    ],
+    "not": [
+      68
+    ],
+    "limited": [
+      69
+    ],
+    "convergent": [
+      71
+    ],
+    "illumination,": [
+      72
+    ],
+    "it": [
+      73
+    ],
+    "here": [
+      75
+    ],
+    "developed": [
+      76
+    ],
+    "using": [
+      77
+    ],
+    "unit-cell": [
+      78
+    ],
+    "averaged": [
+      79
+    ],
+    "patterns": [
+      81
+    ],
+    "corresponding": [
+      82
+    ],
+    "high-resolution": [
+      84
+    ],
+    "STEM": [
+      85
+    ],
+    "settings.": [
+      86
+    ],
+    "In": [
+      87,
+      117
+    ],
+    "simulation": [
+      88,
+      139
+    ],
+    "studies,": [
+      89
+    ],
+    "an": [
+      90,
+      125
+    ],
+    "accuracy": [
+      91
+    ],
+    "approximately": [
+      93
+    ],
+    "0.1mrad": [
+      94
+    ],
+    "found.": [
+      96
+    ],
+    "The": [
+      97,
+      132
+    ],
+    "implemented": [
+      100
+    ],
+    "in": [
+      101,
+      113
+    ],
+    "automated": [
+      102
+    ],
+    "software": [
+      103
+    ],
+    "and": [
+      104,
+      109,
+      124,
+      141
+    ],
+    "applied": [
+      105
+    ],
+    "crystallographic": [
+      107
+    ],
+    "tilt": [
+      108,
+      144
+    ],
+    "in-plane": [
+      110
+    ],
+    "rotation": [
+      111
+    ],
+    "mapping": [
+      112,
+      145
+    ],
+    "two": [
+      114
+    ],
+    "experimental": [
+      115
+    ],
+    "cases.": [
+      116
+    ],
+    "particular,": [
+      118
+    ],
+    "orientation": [
+      119
+    ],
+    "maps": [
+      120
+    ],
+    "high-Mn": [
+      122
+    ],
+    "steel": [
+      123
+    ],
+    "epitaxially": [
+      126
+    ],
+    "grown": [
+      127
+    ],
+    "La$_{\\text{0.7}}$Sr$_{\\text{0.3}}$MnO$_{\\text{3}}$-SrTiO$_{\\text{3}}$": [
+      128
+    ],
+    "interface": [
+      129
+    ],
+    "are": [
+      130
+    ],
+    "presented.": [
+      131
+    ],
+    "results": [
+      133
+    ],
+    "confirm": [
+      134
+    ],
+    "estimates": [
+      136
+    ],
+    "study": [
+      140
+    ],
+    "indicate": [
+      142
+    ],
+    "that": [
+      143
+    ],
+    "can": [
+      146
+    ],
+    "be": [
+      147
+    ],
+    "performed": [
+      148
+    ],
+    "consistently": [
+      149
+    ],
+    "over": [
+      150
+    ],
+    "wide": [
+      152
+    ],
+    "field": [
+      153
+    ],
+    "view": [
+      155
+    ],
+    "with": [
+      156
+    ],
+    "diameters": [
+      157
+    ],
+    "well": [
+      158
+    ],
+    "above": [
+      159
+    ],
+    "100nm": [
+      160
+    ],
+    "at": [
+      161
+    ],
+    "unit": [
+      162
+    ],
+    "cell": [
+      163
+    ],
+    "real": [
+      164
+    ],
+    "space": [
+      165
+    ],
+    "sampling.": [
+      166
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2024-06-22T00:00:00"
+}

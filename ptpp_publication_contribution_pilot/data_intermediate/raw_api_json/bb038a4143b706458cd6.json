@@ -1,0 +1,3954 @@
+{
+  "id": "https://openalex.org/W4311899362",
+  "doi": "https://doi.org/10.1088/1361-6471/abb6c1",
+  "title": "Technical design report for the endcap disc DIRC <sup>*</sup>",
+  "display_name": "Technical design report for the endcap disc DIRC <sup>*</sup>",
+  "publication_year": 2022,
+  "publication_date": "2022-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4311899362",
+    "doi": "https://doi.org/10.1088/1361-6471/abb6c1"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1088/1361-6471/abb6c1",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1088/1361-6471/abb6c1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S78376336",
+      "display_name": "Journal of Physics G Nuclear and Particle Physics",
+      "issn_l": "0954-3899",
+      "issn": [
+        "0954-3899",
+        "1361-6471"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Physics G: Nuclear and Particle Physics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://research.rug.nl/en/publications/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5039729000",
+        "display_name": "Fabrizio Davı́",
+        "orcid": "https://orcid.org/0000-0002-8146-7715"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122534668",
+          "display_name": "Marche Polytechnic University",
+          "ror": "https://ror.org/00x69rs40",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I122534668"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F Davì",
+      "raw_affiliation_strings": [
+        "Università Politecnica delle Marche-Ancona, Ancona, Italy"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Università Politecnica delle Marche-Ancona, Ancona, Italy",
+          "institution_ids": [
+            "https://openalex.org/I122534668"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012625856",
+        "display_name": "W. Erni",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "W Erni",
+      "raw_affiliation_strings": [
+        "Universität Basel, Basel, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universität Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005470613",
+        "display_name": "B. Krusche",
+        "orcid": "https://orcid.org/0000-0002-7845-9749"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "B Krusche",
+      "raw_affiliation_strings": [
+        "Universität Basel, Basel, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universität Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082507088",
+        "display_name": "M. Steinacher",
+        "orcid": "https://orcid.org/0000-0002-4065-9067"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Steinacher",
+      "raw_affiliation_strings": [
+        "Universität Basel, Basel, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universität Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107868445",
+        "display_name": "N. K. Walford",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "N Walford",
+      "raw_affiliation_strings": [
+        "Universität Basel, Basel, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universität Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006048367",
+        "display_name": "H Liu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19820366",
+          "display_name": "Chinese Academy of Sciences",
+          "ror": "https://ror.org/034t30j35",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210137180",
+          "display_name": "Institute of High Energy Physics",
+          "ror": "https://ror.org/03v8tnc06",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210137180"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H Liu",
+      "raw_affiliation_strings": [
+        "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+          "institution_ids": [
+            "https://openalex.org/I4210137180",
+            "https://openalex.org/I19820366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044715095",
+        "display_name": "Z Liu",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Z Liu",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005801734",
+        "display_name": "B Liu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19820366",
+          "display_name": "Chinese Academy of Sciences",
+          "ror": "https://ror.org/034t30j35",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210137180",
+          "display_name": "Institute of High Energy Physics",
+          "ror": "https://ror.org/03v8tnc06",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210137180"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "B Liu",
+      "raw_affiliation_strings": [
+        "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+          "institution_ids": [
+            "https://openalex.org/I4210137180",
+            "https://openalex.org/I19820366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5105623057",
+        "display_name": "X. Shen",
+        "orcid": "https://orcid.org/0009-0000-6519-9274"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19820366",
+          "display_name": "Chinese Academy of Sciences",
+          "ror": "https://ror.org/034t30j35",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210137180",
+          "display_name": "Institute of High Energy Physics",
+          "ror": "https://ror.org/03v8tnc06",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210137180"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "X Shen",
+      "raw_affiliation_strings": [
+        "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+          "institution_ids": [
+            "https://openalex.org/I4210137180",
+            "https://openalex.org/I19820366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015595119",
+        "display_name": "C. Wang",
+        "orcid": "https://orcid.org/0000-0001-5383-0970"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19820366",
+          "display_name": "Chinese Academy of Sciences",
+          "ror": "https://ror.org/034t30j35",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210137180",
+          "display_name": "Institute of High Energy Physics",
+          "ror": "https://ror.org/03v8tnc06",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210137180"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C Wang",
+      "raw_affiliation_strings": [
+        "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+          "institution_ids": [
+            "https://openalex.org/I4210137180",
+            "https://openalex.org/I19820366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062935892",
+        "display_name": "J. Zhao",
+        "orcid": "https://orcid.org/0000-0001-8365-7726"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19820366",
+          "display_name": "Chinese Academy of Sciences",
+          "ror": "https://ror.org/034t30j35",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210137180",
+          "display_name": "Institute of High Energy Physics",
+          "ror": "https://ror.org/03v8tnc06",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210137180"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "J Zhao",
+      "raw_affiliation_strings": [
+        "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+          "institution_ids": [
+            "https://openalex.org/I4210137180",
+            "https://openalex.org/I19820366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015057268",
+        "display_name": "M. Albrecht",
+        "orcid": "https://orcid.org/0000-0001-6180-4297"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19820366",
+          "display_name": "Chinese Academy of Sciences",
+          "ror": "https://ror.org/034t30j35",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210137180",
+          "display_name": "Institute of High Energy Physics",
+          "ror": "https://ror.org/03v8tnc06",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210137180"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Albrecht",
+      "raw_affiliation_strings": [
+        "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, People's Republic of China",
+          "institution_ids": [
+            "https://openalex.org/I4210137180",
+            "https://openalex.org/I19820366"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107879389",
+        "display_name": "T. Erlen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T Erlen",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031768247",
+        "display_name": "F. Feldbauer",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F Feldbauer",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108589516",
+        "display_name": "Martin Fink",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Fink",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017423379",
+        "display_name": "V. Freudenreich",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V Freudenreich",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043618974",
+        "display_name": "M. Fritsch",
+        "orcid": "https://orcid.org/0000-0002-6463-8295"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Fritsch",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052830728",
+        "display_name": "F. H. Heinsius",
+        "orcid": "https://orcid.org/0000-0002-9545-5117"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F H Heinsius",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102975509",
+        "display_name": "T. Held",
+        "orcid": "https://orcid.org/0000-0001-8581-4238"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T Held",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005492958",
+        "display_name": "T. Holtmann",
+        "orcid": "https://orcid.org/0009-0007-1429-6593"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T Holtmann",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107897727",
+        "display_name": "I. Keshk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "I Keshk",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107857910",
+        "display_name": "H. Koch",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H Koch",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107868497",
+        "display_name": "B. Kopf",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "B Kopf",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053674883",
+        "display_name": "M. Kuhlmann",
+        "orcid": "https://orcid.org/0000-0003-3695-4423"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Kuhlmann",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113527929",
+        "display_name": "M Kümmel",
+        "orcid": "https://orcid.org/0000-0003-2791-2117"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Kümmel",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055096802",
+        "display_name": "S. Leiber",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "S Leiber",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112326300",
+        "display_name": "P. Musiol",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P Musiol",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108228629",
+        "display_name": "A. Mustafa",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A Mustafa",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084741586",
+        "display_name": "M. Pelizäus",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Pelizäus",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108112299",
+        "display_name": "A. Pitka",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A Pitka",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107839107",
+        "display_name": "G. Reicherz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "G Reicherz",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107871936",
+        "display_name": "M. Richter",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Richter",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062958865",
+        "display_name": "C. Schnier",
+        "orcid": "https://orcid.org/0000-0002-1085-2464"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C Schnier",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109272379",
+        "display_name": "T. Schröder",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T Schröder",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110949589",
+        "display_name": "S Sersin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "S Sersin",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5106695772",
+        "display_name": "L. Sohl",
+        "orcid": "https://orcid.org/0000-0002-3498-5966"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "L Sohl",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075924246",
+        "display_name": "C. Sowa",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C Sowa",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108092524",
+        "display_name": "M. Steinke",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Steinke",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5106173996",
+        "display_name": "T. Triffterer",
+        "orcid": "https://orcid.org/0000-0002-4698-6827"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T Triffterer",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072453151",
+        "display_name": "U. Wiedner",
+        "orcid": "https://orcid.org/0000-0002-9002-6583"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "U Wiedner",
+      "raw_affiliation_strings": [
+        "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ruhr-Universität Bochum, Institut für Experimentalphysik I, Bochum, Germany",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108099134",
+        "display_name": "R. Beck",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R Beck",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054219369",
+        "display_name": "Ch. Hammann",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C Hammann",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030264679",
+        "display_name": "J. Hartmann",
+        "orcid": "https://orcid.org/0000-0002-0086-7304"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "J Hartmann",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025976902",
+        "display_name": "B. Ketzer",
+        "orcid": "https://orcid.org/0000-0002-3493-3891"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "B Ketzer",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113494914",
+        "display_name": "M. Kube",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Kube",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108100318",
+        "display_name": "M. Rossbach",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Rossbach",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107839326",
+        "display_name": "C. Schmidt",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C Schmidt",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061394312",
+        "display_name": "R. Schmitz",
+        "orcid": "https://orcid.org/0000-0003-2328-677X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R Schmitz",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068342999",
+        "display_name": "U. Thoma",
+        "orcid": "https://orcid.org/0000-0002-9935-3134"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "U Thoma",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107316297",
+        "display_name": "M. Urban",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135140700",
+          "display_name": "University of Bonn",
+          "ror": "https://ror.org/041nas322",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Urban",
+      "raw_affiliation_strings": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I135140700"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103145263",
+        "display_name": "A. Bianconi",
+        "orcid": "https://orcid.org/0000-0001-5647-0624"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Bianconi",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107848712",
+        "display_name": "M. Bragadireanu",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M Bragadireanu",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107827676",
+        "display_name": "D. Pantea",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "D Pantea",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025229218",
+        "display_name": "Wojciech Czyżycki",
+        "orcid": "https://orcid.org/0000-0002-2263-3648"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "W Czyzycki",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013608749",
+        "display_name": "Mariusz Domagała",
+        "orcid": "https://orcid.org/0000-0001-9642-6142"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M Domagala",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084569278",
+        "display_name": "Grzegorz Filo",
+        "orcid": "https://orcid.org/0000-0003-0848-6124"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "G Filo",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067870266",
+        "display_name": "J. Jaworowski",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "J Jaworowski",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108945405",
+        "display_name": "M. Krawczyk",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M Krawczyk",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109427681",
+        "display_name": "E. Lisowski",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "E Lisowski",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5105762874",
+        "display_name": "Filip Lisowski",
+        "orcid": "https://orcid.org/0000-0002-3494-1875"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F Lisowski",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070158576",
+        "display_name": "M Michałk",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M Michałk",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085407570",
+        "display_name": "J. Płażek",
+        "orcid": "https://orcid.org/0000-0002-1928-5953"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "J Płażek",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082963482",
+        "display_name": "K. Korcyl",
+        "orcid": "https://orcid.org/0000-0001-8085-4505"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "K Korcyl",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035832082",
+        "display_name": "A. Kozela",
+        "orcid": "https://orcid.org/0000-0002-3286-4933"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Kozela",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016758630",
+        "display_name": "P. Kulessa",
+        "orcid": "https://orcid.org/0000-0002-0868-4465"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P Kulessa",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026359302",
+        "display_name": "Piotr Lebiedowicz",
+        "orcid": "https://orcid.org/0000-0003-1963-6263"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P Lebiedowicz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107853989",
+        "display_name": "K. Pysz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "K Pysz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109064467",
+        "display_name": "Wolfgang Schäfer",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "W Schäfer",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077875634",
+        "display_name": "Antoni Szczurek",
+        "orcid": "https://orcid.org/0000-0001-5247-8442"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Szczurek",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030472364",
+        "display_name": "T. Fiutowski",
+        "orcid": "https://orcid.org/0000-0003-2342-8854"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "T Fiutowski",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107343223",
+        "display_name": "M. Idzik",
+        "orcid": "https://orcid.org/0000-0001-6349-0033"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M Idzik",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081680274",
+        "display_name": "B. Mindur",
+        "orcid": "https://orcid.org/0000-0002-5511-2611"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "B Mindur",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030066328",
+        "display_name": "K. Świentek",
+        "orcid": "https://orcid.org/0000-0001-6086-4116"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "K Swientek",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017259922",
+        "display_name": "J. Biernat",
+        "orcid": "https://orcid.org/0000-0001-5613-7629"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "J Biernat",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108075631",
+        "display_name": "B. Kamys",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "B Kamys",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090483137",
+        "display_name": "St. Kistryn",
+        "orcid": "https://orcid.org/0000-0001-5800-8652"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "S Kistryn",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031765383",
+        "display_name": "G. Korcyl",
+        "orcid": "https://orcid.org/0000-0001-6244-7287"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "G Korcyl",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5019647611",
+        "display_name": "W. Krzemień",
+        "orcid": "https://orcid.org/0000-0002-9546-358X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "W Krzemien",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051674295",
+        "display_name": "A. Magiera",
+        "orcid": "https://orcid.org/0000-0002-7561-6366"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Magiera",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038931314",
+        "display_name": "P. Moskal",
+        "orcid": "https://orcid.org/0000-0002-4229-3548"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P Moskal",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091264290",
+        "display_name": "Witold Wojciech Przygoda",
+        "orcid": "https://orcid.org/0000-0003-0984-0754"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "W Przygoda",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5105938640",
+        "display_name": "Z. Rudy",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Z Rudy",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088318375",
+        "display_name": "P. Salabura",
+        "orcid": "https://orcid.org/0000-0002-4727-3087"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P Salabura",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107832855",
+        "display_name": "J. Smyrski",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "J Smyrski",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024777647",
+        "display_name": "P. Strzempek",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P Strzempek",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103275204",
+        "display_name": "A. Wrońska",
+        "orcid": "https://orcid.org/0000-0003-0126-3315"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Wronska",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108079399",
+        "display_name": "I. Augustin",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "I Augustin",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108100139",
+        "display_name": "R. Böhm",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "R Böhm",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031962976",
+        "display_name": "I. Lehmann",
+        "orcid": "https://orcid.org/0000-0001-6791-8770"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "I Lehmann",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054488975",
+        "display_name": "D. Nicmorus Marinescu",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "D Nicmorus Marinescu",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006159814",
+        "display_name": "L. Schmitt",
+        "orcid": "https://orcid.org/0000-0003-3504-8410"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "L Schmitt",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107913787",
+        "display_name": "V. Varentsov",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "V Varentsov",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039381354",
+        "display_name": "M. Al-Turany",
+        "orcid": "https://orcid.org/0000-0002-8071-4497"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M Al-Turany",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112603469",
+        "display_name": "A. Belias",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Belias",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109427680",
+        "display_name": "H. Deppe",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "H Deppe",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004102007",
+        "display_name": "Nazila Divani Veis",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "N Divani Veis",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050306505",
+        "display_name": "R. Dzhygadlo",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "R Dzhygadlo",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084664812",
+        "display_name": "H. Flemming",
+        "orcid": "https://orcid.org/0000-0003-3575-1552"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "H Flemming",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108291503",
+        "display_name": "A. Gerhardt",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A Gerhardt",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108110301",
+        "display_name": "K. Götzen",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "K Götzen",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 466,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.2544,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.88304428,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "49",
+    "issue": "12",
+    "first_page": "120501",
+    "last_page": "120501"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11044",
+    "display_name": "Particle Detector Development and Performance",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3106",
+      "display_name": "Nuclear and High Energy Physics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11044",
+      "display_name": "Particle Detector Development and Performance",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11216",
+      "display_name": "Radiation Detection and Scintillator Technologies",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10048",
+      "display_name": "Particle physics theoretical and experimental studies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.893302321434021
+    },
+    {
+      "id": "https://openalex.org/keywords/nuclear-physics",
+      "display_name": "Nuclear physics",
+      "score": 0.7228758335113525
+    },
+    {
+      "id": "https://openalex.org/keywords/particle-identification",
+      "display_name": "Particle identification",
+      "score": 0.700508177280426
+    },
+    {
+      "id": "https://openalex.org/keywords/antiproton",
+      "display_name": "Antiproton",
+      "score": 0.6845948100090027
+    },
+    {
+      "id": "https://openalex.org/keywords/cherenkov-radiation",
+      "display_name": "Cherenkov radiation",
+      "score": 0.6777654886245728
+    },
+    {
+      "id": "https://openalex.org/keywords/large-hadron-collider",
+      "display_name": "Large Hadron Collider",
+      "score": 0.5956294536590576
+    },
+    {
+      "id": "https://openalex.org/keywords/pion",
+      "display_name": "Pion",
+      "score": 0.5791070461273193
+    },
+    {
+      "id": "https://openalex.org/keywords/desy",
+      "display_name": "DESY",
+      "score": 0.570090115070343
+    },
+    {
+      "id": "https://openalex.org/keywords/spectrometer",
+      "display_name": "Spectrometer",
+      "score": 0.5031542181968689
+    },
+    {
+      "id": "https://openalex.org/keywords/particle-physics",
+      "display_name": "Particle physics",
+      "score": 0.4787825345993042
+    },
+    {
+      "id": "https://openalex.org/keywords/hadron",
+      "display_name": "Hadron",
+      "score": 0.4644617438316345
+    },
+    {
+      "id": "https://openalex.org/keywords/proton",
+      "display_name": "Proton",
+      "score": 0.44927912950515747
+    },
+    {
+      "id": "https://openalex.org/keywords/beam",
+      "display_name": "Beam (structure)",
+      "score": 0.4337596297264099
+    },
+    {
+      "id": "https://openalex.org/keywords/luminosity",
+      "display_name": "Luminosity",
+      "score": 0.4331505000591278
+    },
+    {
+      "id": "https://openalex.org/keywords/detector",
+      "display_name": "Detector",
+      "score": 0.383210688829422
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.13479116559028625
+    },
+    {
+      "id": "https://openalex.org/keywords/astronomy",
+      "display_name": "Astronomy",
+      "score": 0.0835065245628357
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.893302321434021
+    },
+    {
+      "id": "https://openalex.org/C185544564",
+      "wikidata": "https://www.wikidata.org/wiki/Q81197",
+      "display_name": "Nuclear physics",
+      "level": 1,
+      "score": 0.7228758335113525
+    },
+    {
+      "id": "https://openalex.org/C2779510917",
+      "wikidata": "https://www.wikidata.org/wiki/Q7140498",
+      "display_name": "Particle identification",
+      "level": 3,
+      "score": 0.700508177280426
+    },
+    {
+      "id": "https://openalex.org/C203918408",
+      "wikidata": "https://www.wikidata.org/wiki/Q107575",
+      "display_name": "Antiproton",
+      "level": 3,
+      "score": 0.6845948100090027
+    },
+    {
+      "id": "https://openalex.org/C72591435",
+      "wikidata": "https://www.wikidata.org/wiki/Q192457",
+      "display_name": "Cherenkov radiation",
+      "level": 3,
+      "score": 0.6777654886245728
+    },
+    {
+      "id": "https://openalex.org/C87668248",
+      "wikidata": "https://www.wikidata.org/wiki/Q40605",
+      "display_name": "Large Hadron Collider",
+      "level": 2,
+      "score": 0.5956294536590576
+    },
+    {
+      "id": "https://openalex.org/C206094082",
+      "wikidata": "https://www.wikidata.org/wiki/Q4097",
+      "display_name": "Pion",
+      "level": 2,
+      "score": 0.5791070461273193
+    },
+    {
+      "id": "https://openalex.org/C2777240086",
+      "wikidata": "https://www.wikidata.org/wiki/Q311801",
+      "display_name": "DESY",
+      "level": 2,
+      "score": 0.570090115070343
+    },
+    {
+      "id": "https://openalex.org/C33390570",
+      "wikidata": "https://www.wikidata.org/wiki/Q188463",
+      "display_name": "Spectrometer",
+      "level": 2,
+      "score": 0.5031542181968689
+    },
+    {
+      "id": "https://openalex.org/C109214941",
+      "wikidata": "https://www.wikidata.org/wiki/Q18334",
+      "display_name": "Particle physics",
+      "level": 1,
+      "score": 0.4787825345993042
+    },
+    {
+      "id": "https://openalex.org/C19694890",
+      "wikidata": "https://www.wikidata.org/wiki/Q101667",
+      "display_name": "Hadron",
+      "level": 2,
+      "score": 0.4644617438316345
+    },
+    {
+      "id": "https://openalex.org/C54516573",
+      "wikidata": "https://www.wikidata.org/wiki/Q2294",
+      "display_name": "Proton",
+      "level": 2,
+      "score": 0.44927912950515747
+    },
+    {
+      "id": "https://openalex.org/C168834538",
+      "wikidata": "https://www.wikidata.org/wiki/Q3705329",
+      "display_name": "Beam (structure)",
+      "level": 2,
+      "score": 0.4337596297264099
+    },
+    {
+      "id": "https://openalex.org/C12287442",
+      "wikidata": "https://www.wikidata.org/wiki/Q105902",
+      "display_name": "Luminosity",
+      "level": 3,
+      "score": 0.4331505000591278
+    },
+    {
+      "id": "https://openalex.org/C94915269",
+      "wikidata": "https://www.wikidata.org/wiki/Q1834857",
+      "display_name": "Detector",
+      "level": 2,
+      "score": 0.383210688829422
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.13479116559028625
+    },
+    {
+      "id": "https://openalex.org/C1276947",
+      "wikidata": "https://www.wikidata.org/wiki/Q333",
+      "display_name": "Astronomy",
+      "level": 1,
+      "score": 0.0835065245628357
+    },
+    {
+      "id": "https://openalex.org/C98444146",
+      "wikidata": "https://www.wikidata.org/wiki/Q318",
+      "display_name": "Galaxy",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 7,
+  "locations": [
+    {
+      "id": "doi:10.1088/1361-6471/abb6c1",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1088/1361-6471/abb6c1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S78376336",
+        "display_name": "Journal of Physics G Nuclear and Particle Physics",
+        "issn_l": "0954-3899",
+        "issn": [
+          "0954-3899",
+          "1361-6471"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320083",
+        "host_organization_name": "IOP Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320083",
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "IOP Publishing",
+          "Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Physics G: Nuclear and Particle Physics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:pure.rug.nl:openaire/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+      "is_oa": true,
+      "landing_page_url": "https://research.rug.nl/en/publications/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400420",
+        "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I169381384",
+        "host_organization_name": "University of Groningen",
+        "host_organization_lineage": [
+          "https://openalex.org/I169381384"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "et al. 2022, 'Technical design report for the endcap disc DIRC : MAJOR REPORT', Journal of Physics G: Nuclear and Particle Physics, vol. 49, no. 12, 120501. https://doi.org/10.1088/1361-6471/abb6c1",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/308104",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/308104",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401249",
+        "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I126596746",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/I126596746"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:HAL:hal-03143726v1",
+      "is_oa": false,
+      "landing_page_url": "https://hal.science/hal-03143726",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J.Phys.G, 2022, 49 (12), pp.120501. &#x27E8;10.1088/1361-6471/abb6c1&#x27E9;",
+      "raw_type": "Journal articles"
+    },
+    {
+      "id": "pmh:oai:iris.unige.it:11567/1225875",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/11567/1225875",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196291",
+        "display_name": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I83816512",
+        "host_organization_name": "University of Genoa",
+        "host_organization_lineage": [
+          "https://openalex.org/I83816512"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:iris.univpm.it:11566/310310",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/11566/310310",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402571",
+        "display_name": "Università Politecnica delle Marche (Università Politecnica delle Marche)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I122534668",
+        "host_organization_name": "Marche Polytechnic University",
+        "host_organization_lineage": [
+          "https://openalex.org/I122534668"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:pure.rug.nl:openaire_cris_publications/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11370/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400420",
+        "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I169381384",
+        "host_organization_name": "University of Groningen",
+        "host_organization_lineage": [
+          "https://openalex.org/I169381384"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "et al. 2022, 'Technical design report for the endcap disc DIRC : MAJOR REPORT', Journal of Physics G: Nuclear and Particle Physics, vol. 49, no. 12, 120501. https://doi.org/10.1088/1361-6471/abb6c1",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:pure.rug.nl:openaire/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+    "is_oa": true,
+    "landing_page_url": "https://research.rug.nl/en/publications/8b6b4d40-3f08-466e-98da-abb3f6e78c00",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400420",
+      "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I169381384",
+      "host_organization_name": "University of Groningen",
+      "host_organization_lineage": [
+        "https://openalex.org/I169381384"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "et al. 2022, 'Technical design report for the endcap disc DIRC : MAJOR REPORT', Journal of Physics G: Nuclear and Particle Physics, vol. 49, no. 12, 120501. https://doi.org/10.1088/1361-6471/abb6c1",
+    "raw_type": "info:eu-repo/semantics/publishedVersion"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.7799999713897705,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320313559",
+      "display_name": "CERN",
+      "ror": "https://ror.org/01ggx4157"
+    },
+    {
+      "id": "https://openalex.org/F4320318206",
+      "display_name": "Helmholtz Graduate School for Hadron and Ion Research",
+      "ror": "https://ror.org/01syejz95"
+    },
+    {
+      "id": "https://openalex.org/F4320321114",
+      "display_name": "Bundesministerium für Bildung und Forschung",
+      "ror": "https://ror.org/04pz7b180"
+    },
+    {
+      "id": "https://openalex.org/F4320327915",
+      "display_name": "Helmholtz International Center for FAIR",
+      "ror": "https://ror.org/04a31e344"
+    },
+    {
+      "id": "https://openalex.org/F4320334759",
+      "display_name": "Deutsches Elektronen-Synchrotron",
+      "ror": "https://ror.org/01js2sh04"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 61,
+  "referenced_works": [
+    "https://openalex.org/W1965240176",
+    "https://openalex.org/W1966573885",
+    "https://openalex.org/W1967465871",
+    "https://openalex.org/W1967601696",
+    "https://openalex.org/W1968567352",
+    "https://openalex.org/W1973056680",
+    "https://openalex.org/W1987485327",
+    "https://openalex.org/W1991989315",
+    "https://openalex.org/W1992612983",
+    "https://openalex.org/W2000367319",
+    "https://openalex.org/W2003061708",
+    "https://openalex.org/W2012834717",
+    "https://openalex.org/W2013820304",
+    "https://openalex.org/W2015181120",
+    "https://openalex.org/W2025333442",
+    "https://openalex.org/W2025602138",
+    "https://openalex.org/W2036307869",
+    "https://openalex.org/W2038494762",
+    "https://openalex.org/W2041173974",
+    "https://openalex.org/W2045360116",
+    "https://openalex.org/W2048099277",
+    "https://openalex.org/W2048102594",
+    "https://openalex.org/W2051205284",
+    "https://openalex.org/W2055919995",
+    "https://openalex.org/W2071450958",
+    "https://openalex.org/W2072862071",
+    "https://openalex.org/W2074738427",
+    "https://openalex.org/W2075610151",
+    "https://openalex.org/W2076687437",
+    "https://openalex.org/W2084338369",
+    "https://openalex.org/W2094193097",
+    "https://openalex.org/W2100608750",
+    "https://openalex.org/W2110071893",
+    "https://openalex.org/W2111040788",
+    "https://openalex.org/W2111447345",
+    "https://openalex.org/W2127393044",
+    "https://openalex.org/W2128158076",
+    "https://openalex.org/W2137039629",
+    "https://openalex.org/W2140091308",
+    "https://openalex.org/W2152130916",
+    "https://openalex.org/W2165547580",
+    "https://openalex.org/W2167893004",
+    "https://openalex.org/W2345095140",
+    "https://openalex.org/W2346186837",
+    "https://openalex.org/W2541091248",
+    "https://openalex.org/W2591442478",
+    "https://openalex.org/W2594221302",
+    "https://openalex.org/W2780443605",
+    "https://openalex.org/W2885318086",
+    "https://openalex.org/W2932855298",
+    "https://openalex.org/W2938664150",
+    "https://openalex.org/W2963667458",
+    "https://openalex.org/W2975541719",
+    "https://openalex.org/W3048946700",
+    "https://openalex.org/W3145238250",
+    "https://openalex.org/W6729112245",
+    "https://openalex.org/W6753704959",
+    "https://openalex.org/W6907508837",
+    "https://openalex.org/W6944972594",
+    "https://openalex.org/W6964119447",
+    "https://openalex.org/W6980532103"
+  ],
+  "related_works": [
+    "https://openalex.org/W2054711168",
+    "https://openalex.org/W2005052376",
+    "https://openalex.org/W2071786842",
+    "https://openalex.org/W1964018692",
+    "https://openalex.org/W2116590140",
+    "https://openalex.org/W2171503109",
+    "https://openalex.org/W2056565610",
+    "https://openalex.org/W2026045551",
+    "https://openalex.org/W2081542494",
+    "https://openalex.org/W2613263592"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "PANDA": [
+      1,
+      61,
+      184,
+      222
+    ],
+    "(anti-proton": [
+      2
+    ],
+    "annihiliation": [
+      3
+    ],
+    "at": [
+      4,
+      16,
+      93,
+      213
+    ],
+    "Darmstadt)": [
+      5
+    ],
+    "is": [
+      6,
+      33,
+      62,
+      123
+    ],
+    "planned": [
+      7
+    ],
+    "to": [
+      8,
+      35,
+      64,
+      125,
+      133,
+      136,
+      150,
+      159,
+      164
+    ],
+    "be": [
+      9,
+      102
+    ],
+    "one": [
+      10
+    ],
+    "of": [
+      11,
+      39,
+      69,
+      78,
+      90,
+      97,
+      115,
+      144,
+      181
+    ],
+    "the": [
+      12,
+      17,
+      79,
+      94,
+      98,
+      113,
+      127,
+      142,
+      166,
+      174,
+      178,
+      182
+    ],
+    "four": [
+      13
+    ],
+    "main": [
+      14
+    ],
+    "experiments": [
+      15
+    ],
+    "future": [
+      18
+    ],
+    "international": [
+      19
+    ],
+    "accelerator": [
+      20
+    ],
+    "complex": [
+      21
+    ],
+    "FAIR": [
+      22
+    ],
+    "(Facility": [
+      23
+    ],
+    "for": [
+      24,
+      141,
+      155
+    ],
+    "Antiproton": [
+      25
+    ],
+    "and": [
+      26,
+      42,
+      53,
+      54,
+      58,
+      107,
+      135,
+      147,
+      177,
+      209,
+      215,
+      224
+    ],
+    "Ion": [
+      27
+    ],
+    "Research)": [
+      28
+    ],
+    "in": [
+      29,
+      162,
+      193
+    ],
+    "Darmstadt,": [
+      30
+    ],
+    "Germany.": [
+      31
+    ],
+    "It": [
+      32,
+      122
+    ],
+    "going": [
+      34
+    ],
+    "address": [
+      36
+    ],
+    "fundamental": [
+      37
+    ],
+    "questions": [
+      38
+    ],
+    "hadron": [
+      40
+    ],
+    "physics": [
+      41,
+      80,
+      198
+    ],
+    "quantum": [
+      43
+    ],
+    "chromodynamics": [
+      44
+    ],
+    "using": [
+      45
+    ],
+    "cooled": [
+      46
+    ],
+    "antiproton": [
+      47
+    ],
+    "beams": [
+      48
+    ],
+    "with": [
+      49,
+      206
+    ],
+    "a": [
+      50,
+      66,
+      105,
+      138
+    ],
+    "high": [
+      51,
+      196
+    ],
+    "intensity": [
+      52
+    ],
+    "momenta": [
+      55,
+      157
+    ],
+    "between": [
+      56
+    ],
+    "1.5": [
+      57
+    ],
+    "15": [
+      59
+    ],
+    "GeV/c.": [
+      60
+    ],
+    "designed": [
+      63,
+      124
+    ],
+    "reach": [
+      65
+    ],
+    "maximum": [
+      67
+    ],
+    "luminosity": [
+      68
+    ],
+    "2": [
+      70
+    ],
+    "×": [
+      71
+    ],
+    "10": [
+      72
+    ],
+    "32": [
+      73
+    ],
+    "cm": [
+      74
+    ],
+    "−2": [
+      75
+    ],
+    "s.": [
+      76
+    ],
+    "Most": [
+      77
+    ],
+    "programs": [
+      81
+    ],
+    "require": [
+      82
+    ],
+    "an": [
+      83
+    ],
+    "excellent": [
+      84
+    ],
+    "particle": [
+      85,
+      156,
+      168
+    ],
+    "identification": [
+      86
+    ],
+    "(PID).": [
+      87
+    ],
+    "The": [
+      88,
+      201,
+      217
+    ],
+    "PID": [
+      89
+    ],
+    "hadronic": [
+      91
+    ],
+    "states": [
+      92
+    ],
+    "forward": [
+      95
+    ],
+    "endcap": [
+      96
+    ],
+    "target": [
+      99
+    ],
+    "spectrometer": [
+      100
+    ],
+    "will": [
+      101
+    ],
+    "done": [
+      103
+    ],
+    "by": [
+      104
+    ],
+    "fast": [
+      106
+    ],
+    "compact": [
+      108
+    ],
+    "Cherenkov": [
+      109,
+      118
+    ],
+    "detector": [
+      110,
+      187
+    ],
+    "that": [
+      111,
+      188
+    ],
+    "uses": [
+      112
+    ],
+    "detection": [
+      114
+    ],
+    "internally": [
+      116
+    ],
+    "reflected": [
+      117
+    ],
+    "light": [
+      119
+    ],
+    "(DIRC)": [
+      120
+    ],
+    "principle.": [
+      121
+    ],
+    "cover": [
+      126,
+      165
+    ],
+    "polar": [
+      128
+    ],
+    "angle": [
+      129
+    ],
+    "range": [
+      130
+    ],
+    "from": [
+      131
+    ],
+    "5°": [
+      132
+    ],
+    "22°": [
+      134
+    ],
+    "provide": [
+      137
+    ],
+    "separation": [
+      139,
+      143
+    ],
+    "power": [
+      140
+    ],
+    "charged": [
+      145
+    ],
+    "pions": [
+      146
+    ],
+    "kaons": [
+      148
+    ],
+    "up": [
+      149,
+      158
+    ],
+    "3": [
+      151
+    ],
+    "standard": [
+      152
+    ],
+    "deviations": [
+      153
+    ],
+    "(s.d.)": [
+      154
+    ],
+    "4": [
+      160
+    ],
+    "GeV/c": [
+      161
+    ],
+    "order": [
+      163
+    ],
+    "important": [
+      167
+    ],
+    "phase": [
+      169
+    ],
+    "space.": [
+      170
+    ],
+    "This": [
+      171
+    ],
+    "document": [
+      172
+    ],
+    "describes": [
+      173
+    ],
+    "technical": [
+      175
+    ],
+    "design": [
+      176,
+      219
+    ],
+    "expected": [
+      179
+    ],
+    "performance": [
+      180,
+      202
+    ],
+    "novel": [
+      183
+    ],
+    "disc": [
+      185
+    ],
+    "DIRC": [
+      186
+    ],
+    "has": [
+      189,
+      203
+    ],
+    "not": [
+      190
+    ],
+    "been": [
+      191,
+      204
+    ],
+    "used": [
+      192
+    ],
+    "any": [
+      194
+    ],
+    "other": [
+      195
+    ],
+    "energy": [
+      197
+    ],
+    "experiment": [
+      199
+    ],
+    "before.": [
+      200
+    ],
+    "studied": [
+      205
+    ],
+    "Monte-Carlo": [
+      207
+    ],
+    "simulations": [
+      208
+    ],
+    "various": [
+      210
+    ],
+    "beam": [
+      211
+    ],
+    "tests": [
+      212
+    ],
+    "DESY": [
+      214
+    ],
+    "CERN.": [
+      216
+    ],
+    "final": [
+      218
+    ],
+    "meets": [
+      220
+    ],
+    "all": [
+      221
+    ],
+    "requirements": [
+      223
+    ],
+    "guarantees": [
+      225
+    ],
+    "sufficient": [
+      226
+    ],
+    "safety": [
+      227
+    ],
+    "margins.": [
+      228
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2023-01-02T00:00:00"
+}

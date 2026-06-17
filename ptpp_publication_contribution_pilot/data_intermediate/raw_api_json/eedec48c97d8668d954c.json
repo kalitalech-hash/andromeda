@@ -1,0 +1,1864 @@
+{
+  "id": "https://openalex.org/W2033610696",
+  "doi": "https://doi.org/10.1038/ncomms4687",
+  "title": "Lin28a regulates neuronal differentiation and controls miR-9 production",
+  "display_name": "Lin28a regulates neuronal differentiation and controls miR-9 production",
+  "publication_year": 2014,
+  "publication_date": "2014-04-11",
+  "ids": {
+    "openalex": "https://openalex.org/W2033610696",
+    "doi": "https://doi.org/10.1038/ncomms4687",
+    "mag": "2033610696",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/24722317"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/ncomms4687",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/ncomms4687",
+    "pdf_url": "https://www.nature.com/articles/ncomms4687.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.nature.com/articles/ncomms4687.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5007807706",
+        "display_name": "Jakub Nowak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub S. Nowak",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007199847",
+        "display_name": "Nila Roy Choudhury",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nila Roy Choudhury",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110208764",
+        "display_name": "Flávia de Lima Alves",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Flavia de Lima Alves",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076844877",
+        "display_name": "Juri Rappsilber",
+        "orcid": "https://orcid.org/0000-0001-5999-1310"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4577782",
+          "display_name": "Technische Universität Berlin",
+          "ror": "https://ror.org/03v4gjf40",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4577782"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juri Rappsilber",
+      "raw_affiliation_strings": [
+        "1] Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK [2] Department of Biotechnology, Technische Universität Berlin, 13353 Berlin, Germany",
+        "Department of Biotechnology, Technische Universität Berlin, Berlin, 13353, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "1] Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK [2] Department of Biotechnology, Technische Universität Berlin, 13353 Berlin, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210134627"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology, Technische Universität Berlin, Berlin, 13353, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4577782"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5001307553",
+        "display_name": "Gracjan Michlewski",
+        "orcid": "https://orcid.org/0000-0002-7409-9619"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Gracjan Michlewski",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King's Buildings, Edinburgh EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, King’s Buildings, Edinburgh, EH9 3JR, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5001307553"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210134627",
+    "https://openalex.org/I98677209"
+  ],
+  "apc_list": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "apc_paid": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "fwci": 2.5704,
+  "has_fulltext": true,
+  "cited_by_count": 63,
+  "citation_normalized_percentile": {
+    "value": 0.89188201,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "5",
+    "issue": "1",
+    "first_page": "3687",
+    "last_page": "3687"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10062",
+    "display_name": "MicroRNA in disease regulation",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1306",
+      "display_name": "Cancer Research"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10062",
+      "display_name": "MicroRNA in disease regulation",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10515",
+      "display_name": "Cancer-related molecular mechanisms research",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/microrna",
+      "display_name": "microRNA",
+      "score": 0.7775174975395203
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.7076519727706909
+    },
+    {
+      "id": "https://openalex.org/keywords/p19-cell",
+      "display_name": "P19 cell",
+      "score": 0.7027990818023682
+    },
+    {
+      "id": "https://openalex.org/keywords/cellular-differentiation",
+      "display_name": "Cellular differentiation",
+      "score": 0.6641545295715332
+    },
+    {
+      "id": "https://openalex.org/keywords/embryonic-stem-cell",
+      "display_name": "Embryonic stem cell",
+      "score": 0.6631007790565491
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-culture",
+      "display_name": "Cell culture",
+      "score": 0.5262138843536377
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5217160582542419
+    },
+    {
+      "id": "https://openalex.org/keywords/function",
+      "display_name": "Function (biology)",
+      "score": 0.5109300017356873
+    },
+    {
+      "id": "https://openalex.org/keywords/regulation-of-gene-expression",
+      "display_name": "Regulation of gene expression",
+      "score": 0.4686170220375061
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.4154256582260132
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.41398999094963074
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.22198978066444397
+    },
+    {
+      "id": "https://openalex.org/keywords/adult-stem-cell",
+      "display_name": "Adult stem cell",
+      "score": 0.0830545425415039
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C145059251",
+      "wikidata": "https://www.wikidata.org/wiki/Q310899",
+      "display_name": "microRNA",
+      "level": 3,
+      "score": 0.7775174975395203
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.7076519727706909
+    },
+    {
+      "id": "https://openalex.org/C26805974",
+      "wikidata": "https://www.wikidata.org/wiki/Q7117837",
+      "display_name": "P19 cell",
+      "level": 5,
+      "score": 0.7027990818023682
+    },
+    {
+      "id": "https://openalex.org/C148738053",
+      "wikidata": "https://www.wikidata.org/wiki/Q210861",
+      "display_name": "Cellular differentiation",
+      "level": 3,
+      "score": 0.6641545295715332
+    },
+    {
+      "id": "https://openalex.org/C145103041",
+      "wikidata": "https://www.wikidata.org/wiki/Q1151519",
+      "display_name": "Embryonic stem cell",
+      "level": 3,
+      "score": 0.6631007790565491
+    },
+    {
+      "id": "https://openalex.org/C81885089",
+      "wikidata": "https://www.wikidata.org/wiki/Q189082",
+      "display_name": "Cell culture",
+      "level": 2,
+      "score": 0.5262138843536377
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5217160582542419
+    },
+    {
+      "id": "https://openalex.org/C14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "level": 2,
+      "score": 0.5109300017356873
+    },
+    {
+      "id": "https://openalex.org/C165864922",
+      "wikidata": "https://www.wikidata.org/wiki/Q411391",
+      "display_name": "Regulation of gene expression",
+      "level": 3,
+      "score": 0.4686170220375061
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.4154256582260132
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.41398999094963074
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.22198978066444397
+    },
+    {
+      "id": "https://openalex.org/C20875687",
+      "wikidata": "https://www.wikidata.org/wiki/Q2642600",
+      "display_name": "Adult stem cell",
+      "level": 4,
+      "score": 0.0830545425415039
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002454",
+      "descriptor_name": "Cell Differentiation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015152",
+      "descriptor_name": "Blotting, Northern",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015152",
+      "descriptor_name": "Blotting, Northern",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015152",
+      "descriptor_name": "Blotting, Northern",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015152",
+      "descriptor_name": "Blotting, Northern",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015153",
+      "descriptor_name": "Blotting, Western",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015153",
+      "descriptor_name": "Blotting, Western",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015153",
+      "descriptor_name": "Blotting, Western",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015153",
+      "descriptor_name": "Blotting, Western",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020133",
+      "descriptor_name": "Reverse Transcriptase Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020133",
+      "descriptor_name": "Reverse Transcriptase Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020133",
+      "descriptor_name": "Reverse Transcriptase Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020133",
+      "descriptor_name": "Reverse Transcriptase Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024202",
+      "descriptor_name": "Electrophoretic Mobility Shift Assay",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024202",
+      "descriptor_name": "Electrophoretic Mobility Shift Assay",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024202",
+      "descriptor_name": "Electrophoretic Mobility Shift Assay",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024202",
+      "descriptor_name": "Electrophoretic Mobility Shift Assay",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D034622",
+      "descriptor_name": "RNA Interference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D034622",
+      "descriptor_name": "RNA Interference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D034622",
+      "descriptor_name": "RNA Interference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D034622",
+      "descriptor_name": "RNA Interference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055495",
+      "descriptor_name": "Neurogenesis",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055495",
+      "descriptor_name": "Neurogenesis",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055495",
+      "descriptor_name": "Neurogenesis",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055495",
+      "descriptor_name": "Neurogenesis",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060888",
+      "descriptor_name": "Real-Time Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060888",
+      "descriptor_name": "Real-Time Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060888",
+      "descriptor_name": "Real-Time Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060888",
+      "descriptor_name": "Real-Time Polymerase Chain Reaction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 7,
+  "locations": [
+    {
+      "id": "doi:10.1038/ncomms4687",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/ncomms4687",
+      "pdf_url": "https://www.nature.com/articles/ncomms4687.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:24722317",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/24722317",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature communications",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pure.ed.ac.uk:publications/bc75246e-0983-4c1c-aff6-6a1cdbf898de",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": "https://www.research.ed.ac.uk/en/publications/bc75246e-0983-4c1c-aff6-6a1cdbf898de",
+      "source": {
+        "id": "https://openalex.org/S4406922455",
+        "display_name": "Edinburgh Research Explorer",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": ""
+    },
+    {
+      "id": "pmh:oai:RePEc:nat:natcom:v:5:y:2014:i:1:d:10.1038_ncomms4687",
+      "is_oa": false,
+      "landing_page_url": "https://www.nature.com/articles/ncomms4687",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:3161875",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4035284",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pure.ed.ac.uk:openaire/bc75246e-0983-4c1c-aff6-6a1cdbf898de",
+      "is_oa": true,
+      "landing_page_url": "https://www.research.ed.ac.uk/en/publications/bc75246e-0983-4c1c-aff6-6a1cdbf898de",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400321",
+        "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I98677209",
+        "host_organization_name": "University of Edinburgh",
+        "host_organization_lineage": [
+          "https://openalex.org/I98677209"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nowak, J S, Roy Choudhury, N, de Lima Alves, F, Rappsilber, J & Michlewski, G 2014, 'Lin28a regulates neuronal differentiation and controls miR-9 production', Nature Communications, vol. 5, 3687. https://doi.org/10.1038/ncomms4687",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:pure.ed.ac.uk:publications/bc75246e-0983-4c1c-aff6-6a1cdbf898de",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/20.500.11820/bc75246e-0983-4c1c-aff6-6a1cdbf898de",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400321",
+        "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I98677209",
+        "host_organization_name": "University of Edinburgh",
+        "host_organization_lineage": [
+          "https://openalex.org/I98677209"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nowak, J S, Roy Choudhury, N, de Lima Alves, F, Rappsilber, J & Michlewski, G 2014, 'Lin28a regulates neuronal differentiation and controls miR-9 production', Nature Communications, vol. 5, 3687. https://doi.org/10.1038/ncomms4687",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/ncomms4687",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/ncomms4687",
+    "pdf_url": "https://www.nature.com/articles/ncomms4687.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1457867859",
+      "display_name": null,
+      "funder_award_id": "G10000564",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G1818363137",
+      "display_name": "Core support for Wellcome Trust Centre for Cell Biology.",
+      "funder_award_id": "077707",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G2967739722",
+      "display_name": "Proteomics at the Wellcome Trust Centre for Cell Biology.",
+      "funder_award_id": "091020",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G3656246862",
+      "display_name": "Wellcome Trust four year PhD programme in Cell Biology.",
+      "funder_award_id": "096996",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G4858145913",
+      "display_name": null,
+      "funder_award_id": "092076",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G5518097576",
+      "display_name": "Three-dimensional proteomics: Mapping the geometry of large protein assemblies using cross-linking, mass spectrometry, and bioinformatics.",
+      "funder_award_id": "084229",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G5940583438",
+      "display_name": "Core funding renewal for the Wellcome Trust Centre for Cell Biology .",
+      "funder_award_id": "092076",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311904",
+      "display_name": "Wellcome Trust",
+      "ror": "https://ror.org/029chgv08"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2033610696.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2033610696.grobid-xml"
+  },
+  "referenced_works_count": 51,
+  "referenced_works": [
+    "https://openalex.org/W1536340771",
+    "https://openalex.org/W1916491745",
+    "https://openalex.org/W1967729506",
+    "https://openalex.org/W1976828379",
+    "https://openalex.org/W1977300801",
+    "https://openalex.org/W1982163838",
+    "https://openalex.org/W1985140771",
+    "https://openalex.org/W1987205085",
+    "https://openalex.org/W1989768797",
+    "https://openalex.org/W1993346317",
+    "https://openalex.org/W1996445359",
+    "https://openalex.org/W1997932830",
+    "https://openalex.org/W2000418014",
+    "https://openalex.org/W2005563052",
+    "https://openalex.org/W2006959050",
+    "https://openalex.org/W2018050005",
+    "https://openalex.org/W2022687771",
+    "https://openalex.org/W2037748929",
+    "https://openalex.org/W2042936984",
+    "https://openalex.org/W2043827744",
+    "https://openalex.org/W2045342567",
+    "https://openalex.org/W2045672814",
+    "https://openalex.org/W2049907435",
+    "https://openalex.org/W2053582732",
+    "https://openalex.org/W2059357290",
+    "https://openalex.org/W2060907567",
+    "https://openalex.org/W2064266708",
+    "https://openalex.org/W2065339494",
+    "https://openalex.org/W2066775630",
+    "https://openalex.org/W2072470582",
+    "https://openalex.org/W2077475358",
+    "https://openalex.org/W2079248832",
+    "https://openalex.org/W2096335988",
+    "https://openalex.org/W2099289150",
+    "https://openalex.org/W2100358595",
+    "https://openalex.org/W2107961632",
+    "https://openalex.org/W2110043783",
+    "https://openalex.org/W2118757935",
+    "https://openalex.org/W2118980569",
+    "https://openalex.org/W2134026040",
+    "https://openalex.org/W2138413381",
+    "https://openalex.org/W2138954682",
+    "https://openalex.org/W2146604664",
+    "https://openalex.org/W2147114301",
+    "https://openalex.org/W2149146453",
+    "https://openalex.org/W2159270639",
+    "https://openalex.org/W2160682089",
+    "https://openalex.org/W2161272397",
+    "https://openalex.org/W2163106706",
+    "https://openalex.org/W2163636666",
+    "https://openalex.org/W2165178850"
+  ],
+  "related_works": [
+    "https://openalex.org/W2056361013",
+    "https://openalex.org/W2887721094",
+    "https://openalex.org/W2079042280",
+    "https://openalex.org/W2124897569",
+    "https://openalex.org/W1514772864",
+    "https://openalex.org/W2053561999",
+    "https://openalex.org/W3040103547",
+    "https://openalex.org/W44942539",
+    "https://openalex.org/W2074495613",
+    "https://openalex.org/W2128583238"
+  ],
+  "abstract_inverted_index": {
+    "microRNAs": [
+      0
+    ],
+    "shape": [
+      1
+    ],
+    "the": [
+      2,
+      47,
+      75,
+      131,
+      143,
+      146
+    ],
+    "identity": [
+      3
+    ],
+    "and": [
+      4,
+      41,
+      138
+    ],
+    "function": [
+      5
+    ],
+    "of": [
+      6,
+      46,
+      77,
+      98,
+      133,
+      142,
+      148
+    ],
+    "cells": [
+      7
+    ],
+    "by": [
+      8,
+      73
+    ],
+    "regulating": [
+      9,
+      145
+    ],
+    "gene": [
+      10
+    ],
+    "expression.": [
+      11
+    ],
+    "It": [
+      12
+    ],
+    "is": [
+      13,
+      18,
+      23,
+      38,
+      57
+    ],
+    "known": [
+      14
+    ],
+    "that": [
+      15,
+      36,
+      55,
+      69,
+      87,
+      114
+    ],
+    "brain-specific": [
+      16,
+      149
+    ],
+    "miR-9": [
+      17,
+      37,
+      56,
+      72,
+      105,
+      119
+    ],
+    "controlled": [
+      19
+    ],
+    "transcriptionally;": [
+      20
+    ],
+    "however,": [
+      21
+    ],
+    "it": [
+      22
+    ],
+    "unknown": [
+      24
+    ],
+    "whether": [
+      25
+    ],
+    "post-transcriptional": [
+      26
+    ],
+    "processes": [
+      27
+    ],
+    "contribute": [
+      28
+    ],
+    "to": [
+      29
+    ],
+    "establishing": [
+      30
+    ],
+    "its": [
+      31,
+      78
+    ],
+    "levels.": [
+      32,
+      106
+    ],
+    "Here": [
+      33
+    ],
+    "we": [
+      34,
+      85,
+      112
+    ],
+    "show": [
+      35,
+      86
+    ],
+    "regulated": [
+      39
+    ],
+    "transcriptionally": [
+      40
+    ],
+    "post-transcriptionally": [
+      42
+    ],
+    "during": [
+      43
+    ],
+    "neuronal": [
+      44,
+      136
+    ],
+    "differentiation": [
+      45,
+      96,
+      137
+    ],
+    "embryonic": [
+      48
+    ],
+    "carcinoma": [
+      49
+    ],
+    "cell": [
+      50
+    ],
+    "line": [
+      51
+    ],
+    "P19.": [
+      52
+    ],
+    "We": [
+      53,
+      67
+    ],
+    "demonstrate": [
+      54,
+      113
+    ],
+    "more": [
+      58
+    ],
+    "efficiently": [
+      59
+    ],
+    "processed": [
+      60
+    ],
+    "in": [
+      61,
+      64,
+      121,
+      135
+    ],
+    "differentiated": [
+      62,
+      122
+    ],
+    "than": [
+      63
+    ],
+    "undifferentiated": [
+      65
+    ],
+    "cells.": [
+      66,
+      124
+    ],
+    "reveal": [
+      68
+    ],
+    "Lin28a": [
+      70,
+      94,
+      115,
+      134
+    ],
+    "affects": [
+      71
+    ],
+    "inducing": [
+      74
+    ],
+    "degradation": [
+      76
+    ],
+    "precursor": [
+      79
+    ],
+    "through": [
+      80
+    ],
+    "a": [
+      81
+    ],
+    "uridylation-independent": [
+      82
+    ],
+    "mechanism.": [
+      83
+    ],
+    "Furthermore,": [
+      84
+    ],
+    "constitutively": [
+      88
+    ],
+    "expressed": [
+      89
+    ],
+    "untagged": [
+      90
+    ],
+    "but": [
+      91
+    ],
+    "not": [
+      92
+    ],
+    "GFP-tagged": [
+      93
+    ],
+    "decreases": [
+      95
+    ],
+    "capacity": [
+      97
+    ],
+    "P19": [
+      99,
+      123
+    ],
+    "cells,": [
+      100
+    ],
+    "which": [
+      101
+    ],
+    "coincides": [
+      102
+    ],
+    "with": [
+      103
+    ],
+    "reduced": [
+      104
+    ],
+    "Finally,": [
+      107
+    ],
+    "using": [
+      108
+    ],
+    "an": [
+      109
+    ],
+    "inducible": [
+      110
+    ],
+    "system": [
+      111
+    ],
+    "can": [
+      116
+    ],
+    "also": [
+      117
+    ],
+    "reduce": [
+      118
+    ],
+    "levels": [
+      120
+    ],
+    "Together,": [
+      125
+    ],
+    "our": [
+      126,
+      140
+    ],
+    "results": [
+      127
+    ],
+    "shed": [
+      128
+    ],
+    "light": [
+      129
+    ],
+    "on": [
+      130
+    ],
+    "role": [
+      132
+    ],
+    "increase": [
+      139
+    ],
+    "understanding": [
+      141
+    ],
+    "mechanisms": [
+      144
+    ],
+    "level": [
+      147
+    ],
+    "microRNAs.": [
+      150
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

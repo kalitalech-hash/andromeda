@@ -1,0 +1,763 @@
+{
+  "id": "https://openalex.org/W4411511219",
+  "doi": "https://doi.org/10.1016/j.cmpb.2025.108910",
+  "title": "Differentiating characteristics of EMG signals in pediatric muscle tone disorders in the aspect of evaluating postural control",
+  "display_name": "Differentiating characteristics of EMG signals in pediatric muscle tone disorders in the aspect of evaluating postural control",
+  "publication_year": 2025,
+  "publication_date": "2025-06-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4411511219",
+    "doi": "https://doi.org/10.1016/j.cmpb.2025.108910",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40609181"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.cmpb.2025.108910",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.cmpb.2025.108910",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S138959710",
+      "display_name": "Computer Methods and Programs in Biomedicine",
+      "issn_l": "0169-2607",
+      "issn": [
+        "0169-2607",
+        "1872-7565"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computer Methods and Programs in Biomedicine",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5095090881",
+        "display_name": "Aleksandra Tuszy",
+        "orcid": "https://orcid.org/0009-0005-1334-0236"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210125040",
+          "display_name": "Institute of Medical Technology and Equipment",
+          "ror": "https://ror.org/02ks0br87",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210125040"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Aleksandra Tuszy",
+      "raw_affiliation_strings": [
+        "Faculty of Biomedical Engineering, Silesian University of Technology, Roosevelta 40, Zabrze, 41-800, Poland. Electronic address: aleksandra.tuszy@polsl.pl"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-1334-0236",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Biomedical Engineering, Silesian University of Technology, Roosevelta 40, Zabrze, 41-800, Poland. Electronic address: aleksandra.tuszy@polsl.pl",
+          "institution_ids": [
+            "https://openalex.org/I4210125040"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037525886",
+        "display_name": "Patrycja Romaniszyn‐Kania",
+        "orcid": "https://orcid.org/0000-0003-1689-4347"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210125040",
+          "display_name": "Institute of Medical Technology and Equipment",
+          "ror": "https://ror.org/02ks0br87",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210125040"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Patrycja Romaniszyn-Kania",
+      "raw_affiliation_strings": [
+        "Faculty of Biomedical Engineering, Silesian University of Technology, Roosevelta 40, Zabrze, 41-800, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1689-4347",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Biomedical Engineering, Silesian University of Technology, Roosevelta 40, Zabrze, 41-800, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210125040"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062641045",
+        "display_name": "Damian Kania",
+        "orcid": "https://orcid.org/0000-0002-0439-7581"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156866",
+          "display_name": "Akademii Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",
+          "ror": "https://ror.org/05wtrdx73",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210156866"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Damian Kania",
+      "raw_affiliation_strings": [
+        "Institute of Physiotherapy and Health Sciences, The Jerzy Kukuczka Academy of Physical Education in Katowice, Mikołowska 72A, Katowice, 40-065, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0439-7581",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physiotherapy and Health Sciences, The Jerzy Kukuczka Academy of Physical Education in Katowice, Mikołowska 72A, Katowice, 40-065, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210156866"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055780370",
+        "display_name": "Andrzej Myśliwiec",
+        "orcid": "https://orcid.org/0000-0003-2183-1156"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156866",
+          "display_name": "Akademii Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",
+          "ror": "https://ror.org/05wtrdx73",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210156866"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrzej Myśliwiec",
+      "raw_affiliation_strings": [
+        "Institute of Physiotherapy and Health Sciences, The Jerzy Kukuczka Academy of Physical Education in Katowice, Mikołowska 72A, Katowice, 40-065, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2183-1156",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physiotherapy and Health Sciences, The Jerzy Kukuczka Academy of Physical Education in Katowice, Mikołowska 72A, Katowice, 40-065, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210156866"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5011651176",
+        "display_name": "Andrzej W. Mitas",
+        "orcid": "https://orcid.org/0000-0001-7833-5845"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210125040",
+          "display_name": "Institute of Medical Technology and Equipment",
+          "ror": "https://ror.org/02ks0br87",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210125040"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrzej Mitas",
+      "raw_affiliation_strings": [
+        "Faculty of Biomedical Engineering, Silesian University of Technology, Roosevelta 40, Zabrze, 41-800, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7833-5845",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Biomedical Engineering, Silesian University of Technology, Roosevelta 40, Zabrze, 41-800, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210125040"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5095090881"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210125040"
+  ],
+  "apc_list": {
+    "value": 2880,
+    "currency": "USD",
+    "value_usd": 2880
+  },
+  "apc_paid": null,
+  "fwci": 2.9795,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.90884248,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "270",
+    "issue": null,
+    "first_page": "108910",
+    "last_page": "108910"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11097",
+    "display_name": "Cerebral Palsy and Movement Disorders",
+    "score": 0.5673999786376953,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11097",
+      "display_name": "Cerebral Palsy and Movement Disorders",
+      "score": 0.5673999786376953,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.07720000296831131,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11060",
+      "display_name": "Infant Development and Preterm Care",
+      "score": 0.056299999356269836,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/tone",
+      "display_name": "Tone (literature)",
+      "score": 0.5806957483291626
+    },
+    {
+      "id": "https://openalex.org/keywords/muscle-tone",
+      "display_name": "Muscle tone",
+      "score": 0.5695122480392456
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-medicine-and-rehabilitation",
+      "display_name": "Physical medicine and rehabilitation",
+      "score": 0.5301398038864136
+    },
+    {
+      "id": "https://openalex.org/keywords/audiology",
+      "display_name": "Audiology",
+      "score": 0.4769917130470276
+    },
+    {
+      "id": "https://openalex.org/keywords/speech-recognition",
+      "display_name": "Speech recognition",
+      "score": 0.46837717294692993
+    },
+    {
+      "id": "https://openalex.org/keywords/electromyography",
+      "display_name": "Electromyography",
+      "score": 0.4511111378669739
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4248642325401306
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3600633144378662
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780583480",
+      "wikidata": "https://www.wikidata.org/wiki/Q1366327",
+      "display_name": "Tone (literature)",
+      "level": 2,
+      "score": 0.5806957483291626
+    },
+    {
+      "id": "https://openalex.org/C2781375409",
+      "wikidata": "https://www.wikidata.org/wiki/Q1147377",
+      "display_name": "Muscle tone",
+      "level": 2,
+      "score": 0.5695122480392456
+    },
+    {
+      "id": "https://openalex.org/C99508421",
+      "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+      "display_name": "Physical medicine and rehabilitation",
+      "level": 1,
+      "score": 0.5301398038864136
+    },
+    {
+      "id": "https://openalex.org/C548259974",
+      "wikidata": "https://www.wikidata.org/wiki/Q569965",
+      "display_name": "Audiology",
+      "level": 1,
+      "score": 0.4769917130470276
+    },
+    {
+      "id": "https://openalex.org/C28490314",
+      "wikidata": "https://www.wikidata.org/wiki/Q189436",
+      "display_name": "Speech recognition",
+      "level": 1,
+      "score": 0.46837717294692993
+    },
+    {
+      "id": "https://openalex.org/C2777515770",
+      "wikidata": "https://www.wikidata.org/wiki/Q507369",
+      "display_name": "Electromyography",
+      "level": 2,
+      "score": 0.4511111378669739
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4248642325401306
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3600633144378662
+    },
+    {
+      "id": "https://openalex.org/C124952713",
+      "wikidata": "https://www.wikidata.org/wiki/Q8242",
+      "display_name": "Literature",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002675",
+      "descriptor_name": "Child, Preschool",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002675",
+      "descriptor_name": "Child, Preschool",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004576",
+      "descriptor_name": "Electromyography",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004576",
+      "descriptor_name": "Electromyography",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009129",
+      "descriptor_name": "Muscle Tonus",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009129",
+      "descriptor_name": "Muscle Tonus",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011187",
+      "descriptor_name": "Posture",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011187",
+      "descriptor_name": "Posture",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012815",
+      "descriptor_name": "Signal Processing, Computer-Assisted",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012815",
+      "descriptor_name": "Signal Processing, Computer-Assisted",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060388",
+      "descriptor_name": "Support Vector Machine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060388",
+      "descriptor_name": "Support Vector Machine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.cmpb.2025.108910",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.cmpb.2025.108910",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S138959710",
+        "display_name": "Computer Methods and Programs in Biomedicine",
+        "issn_l": "0169-2607",
+        "issn": [
+          "0169-2607",
+          "1872-7565"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computer Methods and Programs in Biomedicine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40609181",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40609181",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computer methods and programs in biomedicine",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 38,
+  "referenced_works": [
+    "https://openalex.org/W182087487",
+    "https://openalex.org/W1500895378",
+    "https://openalex.org/W1965697419",
+    "https://openalex.org/W1981382098",
+    "https://openalex.org/W2011828773",
+    "https://openalex.org/W2023487674",
+    "https://openalex.org/W2024152536",
+    "https://openalex.org/W2065632463",
+    "https://openalex.org/W2100759411",
+    "https://openalex.org/W2139206525",
+    "https://openalex.org/W2140175586",
+    "https://openalex.org/W2154053567",
+    "https://openalex.org/W2170819850",
+    "https://openalex.org/W2417817914",
+    "https://openalex.org/W2489553151",
+    "https://openalex.org/W2588328283",
+    "https://openalex.org/W2604430009",
+    "https://openalex.org/W2606256359",
+    "https://openalex.org/W2797407388",
+    "https://openalex.org/W2894990386",
+    "https://openalex.org/W3004926964",
+    "https://openalex.org/W3025304185",
+    "https://openalex.org/W3156181435",
+    "https://openalex.org/W3175730878",
+    "https://openalex.org/W3199605009",
+    "https://openalex.org/W4205095771",
+    "https://openalex.org/W4206671385",
+    "https://openalex.org/W4285592021",
+    "https://openalex.org/W4308389066",
+    "https://openalex.org/W4391965934",
+    "https://openalex.org/W4402982830",
+    "https://openalex.org/W4403532722",
+    "https://openalex.org/W4407869095",
+    "https://openalex.org/W6607441536",
+    "https://openalex.org/W6653412795",
+    "https://openalex.org/W6790827261",
+    "https://openalex.org/W6806531381",
+    "https://openalex.org/W6878127077"
+  ],
+  "related_works": [
+    "https://openalex.org/W2376139493",
+    "https://openalex.org/W2911808920",
+    "https://openalex.org/W2141253262",
+    "https://openalex.org/W3156756500",
+    "https://openalex.org/W12935793",
+    "https://openalex.org/W1982151858",
+    "https://openalex.org/W2943861463",
+    "https://openalex.org/W3001559732",
+    "https://openalex.org/W4403552873",
+    "https://openalex.org/W2270082690"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

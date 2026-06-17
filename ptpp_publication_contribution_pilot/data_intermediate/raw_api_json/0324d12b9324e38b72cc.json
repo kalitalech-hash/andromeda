@@ -1,0 +1,833 @@
+{
+  "id": "https://openalex.org/W2541094715",
+  "doi": "https://doi.org/10.1504/ijdmb.2016.080042",
+  "title": "TIGER: an evolutionary search for Top Inter-GEne Relations",
+  "display_name": "TIGER: an evolutionary search for Top Inter-GEne Relations",
+  "publication_year": 2016,
+  "publication_date": "2016-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2541094715",
+    "doi": "https://doi.org/10.1504/ijdmb.2016.080042",
+    "mag": "2541094715"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1504/ijdmb.2016.080042",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1504/ijdmb.2016.080042",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S35771696",
+      "display_name": "International Journal of Data Mining and Bioinformatics",
+      "issn_l": "1748-5673",
+      "issn": [
+        "1748-5673",
+        "1748-5681"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317825",
+      "host_organization_name": "Inderscience Publishers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317825"
+      ],
+      "host_organization_lineage_names": [
+        "Inderscience Publishers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Data Mining and Bioinformatics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5046109172",
+        "display_name": "Marcin Czajkowski",
+        "orcid": "https://orcid.org/0000-0002-3967-1819"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Czajkowski",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Wiejska 45a, 15-351 Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Wiejska 45a, 15-351 Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010329320",
+        "display_name": "Anna Czajkowska",
+        "orcid": "https://orcid.org/0000-0001-8487-9291"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Czajkowska",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology, Medical University of Bialystok, Kilinskiego 1, 15-089 Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology, Medical University of Bialystok, Kilinskiego 1, 15-089 Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5075724243",
+        "display_name": "Marek Krętowski",
+        "orcid": "https://orcid.org/0000-0001-9175-2678"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Kretowski",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Wiejska 45a, 15-351 Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Wiejska 45a, 15-351 Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.1741,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.6551554,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "2",
+    "first_page": "170",
+    "last_page": "170"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10885",
+    "display_name": "Gene expression and cancer classification",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10885",
+      "display_name": "Gene expression and cancer classification",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10887",
+      "display_name": "Bioinformatics and Genomic Networks",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11975",
+      "display_name": "Evolutionary Algorithms and Applications",
+      "score": 0.9871000051498413,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.50743168592453
+    },
+    {
+      "id": "https://openalex.org/keywords/tiger",
+      "display_name": "Tiger",
+      "score": 0.49329298734664917
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.4889949560165405
+    },
+    {
+      "id": "https://openalex.org/keywords/evolutionary-biology",
+      "display_name": "Evolutionary biology",
+      "score": 0.40744277834892273
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.31186816096305847
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.24996954202651978
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.09648263454437256
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.50743168592453
+    },
+    {
+      "id": "https://openalex.org/C91451191",
+      "wikidata": "https://www.wikidata.org/wiki/Q1935697",
+      "display_name": "Tiger",
+      "level": 2,
+      "score": 0.49329298734664917
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.4889949560165405
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.40744277834892273
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.31186816096305847
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.24996954202651978
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.09648263454437256
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1504/ijdmb.2016.080042",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1504/ijdmb.2016.080042",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S35771696",
+        "display_name": "International Journal of Data Mining and Bioinformatics",
+        "issn_l": "1748-5673",
+        "issn": [
+          "1748-5673",
+          "1748-5681"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310317825",
+        "host_organization_name": "Inderscience Publishers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310317825"
+        ],
+        "host_organization_lineage_names": [
+          "Inderscience Publishers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Data Mining and Bioinformatics",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities",
+      "score": 0.7699999809265137
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 24,
+  "referenced_works": [
+    "https://openalex.org/W329913983",
+    "https://openalex.org/W1500895378",
+    "https://openalex.org/W1542652194",
+    "https://openalex.org/W1565746575",
+    "https://openalex.org/W1965546358",
+    "https://openalex.org/W2003402157",
+    "https://openalex.org/W2007615926",
+    "https://openalex.org/W2020541351",
+    "https://openalex.org/W2028144505",
+    "https://openalex.org/W2047245698",
+    "https://openalex.org/W2068596668",
+    "https://openalex.org/W2085944748",
+    "https://openalex.org/W2092919167",
+    "https://openalex.org/W2102247676",
+    "https://openalex.org/W2126874043",
+    "https://openalex.org/W2142183404",
+    "https://openalex.org/W2150459098",
+    "https://openalex.org/W2153881348",
+    "https://openalex.org/W2154776925",
+    "https://openalex.org/W2158320859",
+    "https://openalex.org/W2163244155",
+    "https://openalex.org/W2170134016",
+    "https://openalex.org/W2171528238",
+    "https://openalex.org/W3123294050"
+  ],
+  "related_works": [
+    "https://openalex.org/W2039442853",
+    "https://openalex.org/W2090508796",
+    "https://openalex.org/W3035370152",
+    "https://openalex.org/W1982017863",
+    "https://openalex.org/W1994133119",
+    "https://openalex.org/W2312590205",
+    "https://openalex.org/W2002128513",
+    "https://openalex.org/W2092874662",
+    "https://openalex.org/W2171277769",
+    "https://openalex.org/W1999003679"
+  ],
+  "abstract_inverted_index": {
+    "Relative": [
+      0
+    ],
+    "Expression": [
+      1
+    ],
+    "Analysis": [
+      2
+    ],
+    "(RXA)": [
+      3
+    ],
+    "plays": [
+      4
+    ],
+    "an": [
+      5,
+      58
+    ],
+    "important": [
+      6
+    ],
+    "role": [
+      7
+    ],
+    "in": [
+      8,
+      77
+    ],
+    "biomarker": [
+      9
+    ],
+    "discovery": [
+      10
+    ],
+    "and": [
+      11,
+      68,
+      87,
+      120,
+      139
+    ],
+    "microarray": [
+      12,
+      79
+    ],
+    "data": [
+      13
+    ],
+    "classification.": [
+      14
+    ],
+    "It": [
+      15
+    ],
+    "focuses": [
+      16
+    ],
+    "on": [
+      17
+    ],
+    "ordering": [
+      18
+    ],
+    "relationships": [
+      19,
+      146
+    ],
+    "between": [
+      20,
+      126,
+      147
+    ],
+    "the": [
+      21,
+      35,
+      93,
+      108,
+      117,
+      132,
+      148
+    ],
+    "expression": [
+      22
+    ],
+    "of": [
+      23,
+      26,
+      34,
+      48,
+      65,
+      71
+    ],
+    "small": [
+      24
+    ],
+    "sets": [
+      25
+    ],
+    "genes": [
+      27,
+      49
+    ],
+    "rather": [
+      28
+    ],
+    "than": [
+      29
+    ],
+    "their": [
+      30
+    ],
+    "raw": [
+      31
+    ],
+    "values.": [
+      32
+    ],
+    "Most": [
+      33
+    ],
+    "RXA": [
+      36,
+      66,
+      91,
+      137
+    ],
+    "algorithms": [
+      37,
+      67,
+      138
+    ],
+    "are": [
+      38
+    ],
+    "preceded": [
+      39
+    ],
+    "by": [
+      40
+    ],
+    "feature": [
+      41
+    ],
+    "selection": [
+      42
+    ],
+    "as": [
+      43
+    ],
+    "analysing": [
+      44
+    ],
+    "all": [
+      45,
+      101
+    ],
+    "possible": [
+      46
+    ],
+    "subsets": [
+      47
+    ],
+    "is": [
+      50,
+      69
+    ],
+    "computationally": [
+      51
+    ],
+    "infeasible.": [
+      52
+    ],
+    "In": [
+      53
+    ],
+    "this": [
+      54
+    ],
+    "paper,": [
+      55
+    ],
+    "we": [
+      56,
+      112
+    ],
+    "propose": [
+      57
+    ],
+    "efficient": [
+      59
+    ],
+    "solution": [
+      60,
+      98,
+      134
+    ],
+    "that": [
+      61,
+      85,
+      131
+    ],
+    "unifies": [
+      62
+    ],
+    "major": [
+      63
+    ],
+    "variants": [
+      64
+    ],
+    "capable": [
+      70
+    ],
+    "searching": [
+      72
+    ],
+    "top": [
+      73
+    ],
+    "inter-gene": [
+      74
+    ],
+    "relations": [
+      75
+    ],
+    "even": [
+      76
+    ],
+    "large": [
+      78
+    ],
+    "datasets.": [
+      80
+    ],
+    "A": [
+      81
+    ],
+    "specialised": [
+      82
+    ],
+    "evolutionary": [
+      83,
+      94,
+      118
+    ],
+    "algorithm": [
+      84
+    ],
+    "incorporates": [
+      86
+    ],
+    "exploits": [
+      88
+    ],
+    "knowledge": [
+      89
+    ],
+    "about": [
+      90,
+      107
+    ],
+    "into": [
+      92
+    ],
+    "search": [
+      95,
+      122
+    ],
+    "allows": [
+      96
+    ],
+    "exploring": [
+      97
+    ],
+    "space": [
+      99
+    ],
+    "with": [
+      100
+    ],
+    "available": [
+      102
+    ],
+    "genes.": [
+      103,
+      127,
+      149
+    ],
+    "By": [
+      104
+    ],
+    "embedding": [
+      105
+    ],
+    "information": [
+      106
+    ],
+    "genes'": [
+      109
+    ],
+    "discriminative": [
+      110
+    ],
+    "power": [
+      111
+    ],
+    "managed": [
+      113
+    ],
+    "to": [
+      114,
+      121
+    ],
+    "speed": [
+      115
+    ],
+    "up": [
+      116
+    ],
+    "process": [
+      119
+    ],
+    "for": [
+      123,
+      143
+    ],
+    "complex": [
+      124
+    ],
+    "interactions": [
+      125
+    ],
+    "Experimental": [
+      128
+    ],
+    "validation": [
+      129
+    ],
+    "shows": [
+      130
+    ],
+    "proposed": [
+      133
+    ],
+    "outperforms": [
+      135
+    ],
+    "popular": [
+      136
+    ],
+    "has": [
+      140
+    ],
+    "considerable": [
+      141
+    ],
+    "potential": [
+      142
+    ],
+    "discovering": [
+      144
+    ],
+    "new": [
+      145
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

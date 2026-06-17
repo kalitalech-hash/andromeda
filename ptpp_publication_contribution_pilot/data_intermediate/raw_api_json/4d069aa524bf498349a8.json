@@ -1,0 +1,1446 @@
+{
+  "id": "https://openalex.org/W4220693454",
+  "doi": "https://doi.org/10.3390/en15072425",
+  "title": "Towards Designing an Innovative Industrial Fan: Developing Regression and Neural Models Based on Remote Mass Measurements",
+  "display_name": "Towards Designing an Innovative Industrial Fan: Developing Regression and Neural Models Based on Remote Mass Measurements",
+  "publication_year": 2022,
+  "publication_date": "2022-03-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4220693454",
+    "doi": "https://doi.org/10.3390/en15072425"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/en15072425",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/en15072425",
+    "pdf_url": "https://www.mdpi.com/1996-1073/15/7/2425/pdf?version=1648432111",
+    "source": {
+      "id": "https://openalex.org/S198098182",
+      "display_name": "Energies",
+      "issn_l": "1996-1073",
+      "issn": [
+        "1996-1073"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Energies",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1996-1073/15/7/2425/pdf?version=1648432111",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035627382",
+        "display_name": "Jacek Czyżewicz",
+        "orcid": "https://orcid.org/0000-0003-4338-6815"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Czyżewicz",
+      "raw_affiliation_strings": [
+        "Faculty of Mechanical Engineering and Ship Technology, Gdańsk University of Technology, ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mechanical Engineering and Ship Technology, Gdańsk University of Technology, ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078362972",
+        "display_name": "Piotr Jaskólski",
+        "orcid": "https://orcid.org/0000-0003-3625-6238"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Jaskólski",
+      "raw_affiliation_strings": [
+        "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089194417",
+        "display_name": "Paweł Ziemiański",
+        "orcid": "https://orcid.org/0000-0002-4391-9282"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Paweł Ziemiański",
+      "raw_affiliation_strings": [
+        "Faculty of Management and Economics, Gdańsk University of Technology, ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4391-9282",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Management and Economics, Gdańsk University of Technology, ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057463770",
+        "display_name": "Marian Piwowarski",
+        "orcid": "https://orcid.org/0000-0001-8475-5686"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marian Piwowarski",
+      "raw_affiliation_strings": [
+        "Faculty of Mechanical Engineering and Ship Technology, Gdańsk University of Technology, ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8475-5686",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Mechanical Engineering and Ship Technology, Gdańsk University of Technology, ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091035567",
+        "display_name": "Mateusz Bortkiewicz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mateusz Bortkiewicz",
+      "raw_affiliation_strings": [
+        "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079112923",
+        "display_name": "Krzysztof Laszuk",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Laszuk",
+      "raw_affiliation_strings": [
+        "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072332809",
+        "display_name": "Ireneusz Galara",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ireneusz Galara",
+      "raw_affiliation_strings": [
+        "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103267519",
+        "display_name": "M. Pawłowska",
+        "orcid": "https://orcid.org/0000-0001-6039-3000"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Pawłowska",
+      "raw_affiliation_strings": [
+        "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023243839",
+        "display_name": "Karol Cybulski",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Karol Cybulski",
+      "raw_affiliation_strings": [
+        "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nyborg-Mawent S.A., ul. Ciepła 6, 82-200 Malbork, Poland",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5089194417"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I169333911"
+  ],
+  "apc_list": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "apc_paid": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "fwci": 0.3978,
+  "has_fulltext": true,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.52542671,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "7",
+    "first_page": "2425",
+    "last_page": "2425"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11529",
+    "display_name": "Refrigeration and Air Conditioning Technologies",
+    "score": 0.9312999844551086,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11529",
+      "display_name": "Refrigeration and Air Conditioning Technologies",
+      "score": 0.9312999844551086,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13928",
+      "display_name": "Advanced Sensor Technologies Research",
+      "score": 0.9120000004768372,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14351",
+      "display_name": "Statistical and Computational Modeling",
+      "score": 0.9120000004768372,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.5690819621086121
+    },
+    {
+      "id": "https://openalex.org/keywords/linear-regression",
+      "display_name": "Linear regression",
+      "score": 0.5532969236373901
+    },
+    {
+      "id": "https://openalex.org/keywords/ventilation",
+      "display_name": "Ventilation (architecture)",
+      "score": 0.5499899387359619
+    },
+    {
+      "id": "https://openalex.org/keywords/suction",
+      "display_name": "Suction",
+      "score": 0.512012779712677
+    },
+    {
+      "id": "https://openalex.org/keywords/airflow",
+      "display_name": "Airflow",
+      "score": 0.5119651556015015
+    },
+    {
+      "id": "https://openalex.org/keywords/system-of-measurement",
+      "display_name": "System of measurement",
+      "score": 0.48405805230140686
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.4722910523414612
+    },
+    {
+      "id": "https://openalex.org/keywords/regression-analysis",
+      "display_name": "Regression analysis",
+      "score": 0.46497249603271484
+    },
+    {
+      "id": "https://openalex.org/keywords/simulation",
+      "display_name": "Simulation",
+      "score": 0.4621575176715851
+    },
+    {
+      "id": "https://openalex.org/keywords/rotational-speed",
+      "display_name": "Rotational speed",
+      "score": 0.4296364188194275
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3958282172679901
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.37442317605018616
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.3564477562904358
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.29097655415534973
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.2261335849761963
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.5690819621086121
+    },
+    {
+      "id": "https://openalex.org/C48921125",
+      "wikidata": "https://www.wikidata.org/wiki/Q10861030",
+      "display_name": "Linear regression",
+      "level": 2,
+      "score": 0.5532969236373901
+    },
+    {
+      "id": "https://openalex.org/C200457457",
+      "wikidata": "https://www.wikidata.org/wiki/Q584049",
+      "display_name": "Ventilation (architecture)",
+      "level": 2,
+      "score": 0.5499899387359619
+    },
+    {
+      "id": "https://openalex.org/C23795335",
+      "wikidata": "https://www.wikidata.org/wiki/Q1790295",
+      "display_name": "Suction",
+      "level": 2,
+      "score": 0.512012779712677
+    },
+    {
+      "id": "https://openalex.org/C116067010",
+      "wikidata": "https://www.wikidata.org/wiki/Q4698686",
+      "display_name": "Airflow",
+      "level": 2,
+      "score": 0.5119651556015015
+    },
+    {
+      "id": "https://openalex.org/C37649242",
+      "wikidata": "https://www.wikidata.org/wiki/Q932268",
+      "display_name": "System of measurement",
+      "level": 2,
+      "score": 0.48405805230140686
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.4722910523414612
+    },
+    {
+      "id": "https://openalex.org/C152877465",
+      "wikidata": "https://www.wikidata.org/wiki/Q208042",
+      "display_name": "Regression analysis",
+      "level": 2,
+      "score": 0.46497249603271484
+    },
+    {
+      "id": "https://openalex.org/C44154836",
+      "wikidata": "https://www.wikidata.org/wiki/Q45045",
+      "display_name": "Simulation",
+      "level": 1,
+      "score": 0.4621575176715851
+    },
+    {
+      "id": "https://openalex.org/C81063470",
+      "wikidata": "https://www.wikidata.org/wiki/Q1256787",
+      "display_name": "Rotational speed",
+      "level": 2,
+      "score": 0.4296364188194275
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3958282172679901
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.37442317605018616
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3564477562904358
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.29097655415534973
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.2261335849761963
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C1276947",
+      "wikidata": "https://www.wikidata.org/wiki/Q333",
+      "display_name": "Astronomy",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.3390/en15072425",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/en15072425",
+      "pdf_url": "https://www.mdpi.com/1996-1073/15/7/2425/pdf?version=1648432111",
+      "source": {
+        "id": "https://openalex.org/S198098182",
+        "display_name": "Energies",
+        "issn_l": "1996-1073",
+        "issn": [
+          "1996-1073"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Energies",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:RePEc:gam:jeners:v:15:y:2022:i:7:p:2425-:d:779641",
+      "is_oa": false,
+      "landing_page_url": "https://www.mdpi.com/1996-1073/15/7/2425/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:8639c8b886414a21826ee3bba6032ec0",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/8639c8b886414a21826ee3bba6032ec0",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Energies, Vol 15, Iss 7, p 2425 (2022)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/1996-1073/15/7/2425/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/en15072425",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Energies",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/en15072425",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/en15072425",
+    "pdf_url": "https://www.mdpi.com/1996-1073/15/7/2425/pdf?version=1648432111",
+    "source": {
+      "id": "https://openalex.org/S198098182",
+      "display_name": "Energies",
+      "issn_l": "1996-1073",
+      "issn": [
+        "1996-1073"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Energies",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6499999761581421,
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4220693454.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4220693454.grobid-xml"
+  },
+  "referenced_works_count": 24,
+  "referenced_works": [
+    "https://openalex.org/W300921736",
+    "https://openalex.org/W1571210426",
+    "https://openalex.org/W2011018137",
+    "https://openalex.org/W2118157284",
+    "https://openalex.org/W2222570178",
+    "https://openalex.org/W2285224758",
+    "https://openalex.org/W2506627763",
+    "https://openalex.org/W2620354218",
+    "https://openalex.org/W2680890057",
+    "https://openalex.org/W2755602322",
+    "https://openalex.org/W2797537124",
+    "https://openalex.org/W2948594009",
+    "https://openalex.org/W3011521356",
+    "https://openalex.org/W3092478740",
+    "https://openalex.org/W3120050820",
+    "https://openalex.org/W3136021759",
+    "https://openalex.org/W3164118823",
+    "https://openalex.org/W3210711543",
+    "https://openalex.org/W4200128409",
+    "https://openalex.org/W4200476653",
+    "https://openalex.org/W4211011447",
+    "https://openalex.org/W4226126709",
+    "https://openalex.org/W6739370843",
+    "https://openalex.org/W6791785404"
+  ],
+  "related_works": [
+    "https://openalex.org/W2585268847",
+    "https://openalex.org/W2015491755",
+    "https://openalex.org/W2018932204",
+    "https://openalex.org/W2184016840",
+    "https://openalex.org/W2606608188",
+    "https://openalex.org/W2381873111",
+    "https://openalex.org/W4388698576",
+    "https://openalex.org/W2046042224",
+    "https://openalex.org/W2078733671",
+    "https://openalex.org/W2312591252"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0,
+      200,
+      215
+    ],
+    "article": [
+      1,
+      56
+    ],
+    "presents": [
+      2,
+      57
+    ],
+    "the": [
+      3,
+      6,
+      17,
+      48,
+      78,
+      135,
+      180,
+      188,
+      191,
+      194,
+      217,
+      224,
+      228,
+      243,
+      254,
+      273,
+      277
+    ],
+    "process": [
+      4,
+      42,
+      67,
+      136
+    ],
+    "of": [
+      5,
+      20,
+      47,
+      51,
+      60,
+      80,
+      82,
+      113,
+      120,
+      137,
+      177,
+      190,
+      213,
+      219,
+      223
+    ],
+    "construction": [
+      7
+    ],
+    "and": [
+      8,
+      31,
+      38,
+      66,
+      77,
+      93,
+      117,
+      130,
+      139,
+      164,
+      187,
+      193,
+      227,
+      234,
+      248,
+      290
+    ],
+    "testing": [
+      9
+    ],
+    "a": [
+      10,
+      62,
+      87,
+      123,
+      210
+    ],
+    "remote,": [
+      11
+    ],
+    "fully": [
+      12
+    ],
+    "autonomous": [
+      13
+    ],
+    "system": [
+      14,
+      63,
+      115,
+      196,
+      226,
+      230
+    ],
+    "for": [
+      15,
+      132,
+      144
+    ],
+    "measuring": [
+      16
+    ],
+    "operational": [
+      18
+    ],
+    "parameters": [
+      19,
+      116,
+      152,
+      182,
+      208
+    ],
+    "fans.": [
+      21,
+      105
+    ],
+    "The": [
+      22,
+      41,
+      55,
+      237,
+      264
+    ],
+    "measurement": [
+      23,
+      68,
+      88,
+      112
+    ],
+    "results": [
+      24,
+      79
+    ],
+    "obtained": [
+      25
+    ],
+    "made": [
+      26
+    ],
+    "it": [
+      27,
+      126
+    ],
+    "possible": [
+      28
+    ],
+    "to": [
+      29,
+      64,
+      122
+    ],
+    "create": [
+      30
+    ],
+    "verify": [
+      32
+    ],
+    "mathematical": [
+      33,
+      221
+    ],
+    "models": [
+      34,
+      222
+    ],
+    "using": [
+      35,
+      231
+    ],
+    "linear": [
+      36,
+      232,
+      238
+    ],
+    "regression": [
+      37,
+      233,
+      239
+    ],
+    "neural": [
+      39,
+      235,
+      265
+    ],
+    "networks.": [
+      40,
+      236
+    ],
+    "was": [
+      43,
+      90,
+      97,
+      127,
+      197,
+      201
+    ],
+    "implemented": [
+      44,
+      108
+    ],
+    "as": [
+      45,
+      276
+    ],
+    "part": [
+      46
+    ],
+    "first": [
+      49
+    ],
+    "stage": [
+      50
+    ],
+    "an": [
+      52
+    ],
+    "innovative": [
+      53
+    ],
+    "project.": [
+      54
+    ],
+    "detailed": [
+      58
+    ],
+    "steps": [
+      59
+    ],
+    "constructing": [
+      61
+    ],
+    "collect": [
+      65
+    ],
+    "data": [
+      69,
+      121
+    ],
+    "from": [
+      70
+    ],
+    "fans": [
+      71
+    ],
+    "installed": [
+      72
+    ],
+    "in": [
+      73,
+      134,
+      184
+    ],
+    "actual": [
+      74,
+      185
+    ],
+    "operating": [
+      75
+    ],
+    "conditions": [
+      76,
+      186
+    ],
+    "analysis": [
+      81,
+      143
+    ],
+    "this": [
+      83
+    ],
+    "data.": [
+      84
+    ],
+    "In": [
+      85
+    ],
+    "particular,": [
+      86
+    ],
+    "infrastructure": [
+      89
+    ],
+    "developed,": [
+      91
+    ],
+    "defined,": [
+      92
+    ],
+    "implemented.": [
+      94
+    ],
+    "Measuring": [
+      95
+    ],
+    "equipment": [
+      96
+    ],
+    "mounted": [
+      98
+    ],
+    "on": [
+      99,
+      280
+    ],
+    "selected": [
+      100,
+      131,
+      181
+    ],
+    "ventilation": [
+      101,
+      114,
+      195,
+      229
+    ],
+    "systems": [
+      102
+    ],
+    "with": [
+      103,
+      169
+    ],
+    "relevant": [
+      104
+    ],
+    "Systems": [
+      106
+    ],
+    "were": [
+      107,
+      166
+    ],
+    "that": [
+      109,
+      149,
+      242
+    ],
+    "allowed": [
+      110,
+      216
+    ],
+    "continuous": [
+      111
+    ],
+    "remote": [
+      118
+    ],
+    "transmission": [
+      119
+    ],
+    "server": [
+      124
+    ],
+    "where": [
+      125
+    ],
+    "regularly": [
+      128
+    ],
+    "analysed": [
+      129
+    ],
+    "use": [
+      133
+    ],
+    "modelling": [
+      138
+    ],
+    "diagnostics.": [
+      140
+    ],
+    "Pearson’s": [
+      141
+    ],
+    "correlation": [
+      142,
+      178
+    ],
+    "p": [
+      145,
+      261
+    ],
+    "&lt;": [
+      146,
+      172
+    ],
+    "0.05": [
+      147
+    ],
+    "indicated": [
+      148
+    ],
+    "all": [
+      150,
+      269
+    ],
+    "seven": [
+      151
+    ],
+    "(suction": [
+      153
+    ],
+    "temperature,": [
+      154,
+      156,
+      245,
+      247
+    ],
+    "discharge": [
+      155,
+      246
+    ],
+    "suction": [
+      157,
+      244,
+      284
+    ],
+    "pressure,": [
+      158,
+      285
+    ],
+    "current": [
+      159,
+      286
+    ],
+    "consumption,": [
+      160,
+      287
+    ],
+    "rotational": [
+      161,
+      288
+    ],
+    "speed,": [
+      162,
+      289
+    ],
+    "humidity,": [
+      163
+    ],
+    "flow)": [
+      165
+    ],
+    "significantly": [
+      167
+    ],
+    "correlated": [
+      168
+    ],
+    "efficiency": [
+      170,
+      256
+    ],
+    "(p": [
+      171
+    ],
+    "0.001).": [
+      173
+    ],
+    "A": [
+      174
+    ],
+    "satisfactory": [
+      175
+    ],
+    "level": [
+      176,
+      212
+    ],
+    "between": [
+      179
+    ],
+    "measured": [
+      183,
+      270
+    ],
+    "characteristics": [
+      189
+    ],
+    "fan": [
+      192,
+      225,
+      255
+    ],
+    "experimentally": [
+      198
+    ],
+    "verified.": [
+      199
+    ],
+    "determined": [
+      202
+    ],
+    "by": [
+      203
+    ],
+    "finding": [
+      204
+    ],
+    "4": [
+      205
+    ],
+    "statistically": [
+      206,
+      259
+    ],
+    "significant": [
+      207,
+      282
+    ],
+    "at": [
+      209
+    ],
+    "confidence": [
+      211
+    ],
+    "95%.": [
+      214
+    ],
+    "creation": [
+      218
+    ],
+    "two": [
+      220
+    ],
+    "model": [
+      240,
+      278
+    ],
+    "showed": [
+      241
+    ],
+    "air": [
+      249
+    ],
+    "humidity": [
+      250
+    ],
+    "did": [
+      251
+    ],
+    "not": [
+      252
+    ],
+    "affect": [
+      253
+    ],
+    "(they": [
+      257
+    ],
+    "are": [
+      258
+    ],
+    "insignificant,": [
+      260
+    ],
+    "&gt;": [
+      262
+    ],
+    "0.05).": [
+      263
+    ],
+    "model,": [
+      266
+    ],
+    "which": [
+      267
+    ],
+    "considered": [
+      268
+    ],
+    "parameters,": [
+      271
+    ],
+    "achieved": [
+      272
+    ],
+    "same": [
+      274
+    ],
+    "accuracy": [
+      275
+    ],
+    "based": [
+      279
+    ],
+    "four": [
+      281
+    ],
+    "parameters:": [
+      283
+    ],
+    "flow.": [
+      291
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

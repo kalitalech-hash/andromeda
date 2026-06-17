@@ -1,0 +1,1166 @@
+{
+  "id": "https://openalex.org/W4386557385",
+  "doi": "https://doi.org/10.48550/arxiv.2309.01823",
+  "title": "Multi-dimension unified Swin Transformer for 3D Lesion Segmentation in Multiple Anatomical Locations",
+  "display_name": "Multi-dimension unified Swin Transformer for 3D Lesion Segmentation in Multiple Anatomical Locations",
+  "publication_year": 2023,
+  "publication_date": "2023-09-04",
+  "ids": {
+    "openalex": "https://openalex.org/W4386557385",
+    "doi": "https://doi.org/10.48550/arxiv.2309.01823"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2309.01823",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2309.01823",
+    "pdf_url": "https://arxiv.org/pdf/2309.01823",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2309.01823",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055677011",
+        "display_name": "Shaoyan Pan",
+        "orcid": "https://orcid.org/0009-0007-1040-0189"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pan, Shaoyan",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064649257",
+        "display_name": "Yiqiao Liu",
+        "orcid": "https://orcid.org/0000-0003-1071-5475"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Liu, Yiqiao",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092829363",
+        "display_name": "Sarah Halek",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Halek, Sarah",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038316704",
+        "display_name": "Michal R. Tomaszewski",
+        "orcid": "https://orcid.org/0000-0002-3194-9492"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tomaszewski, Michal",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083893913",
+        "display_name": "Shubing Wang",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wang, Shubing",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022421173",
+        "display_name": "Richard Baumgartner",
+        "orcid": "https://orcid.org/0000-0003-3330-8477"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Baumgartner, Richard",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090365102",
+        "display_name": "Jianda Yuan",
+        "orcid": "https://orcid.org/0000-0003-3551-4434"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Yuan, Jianda",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049922238",
+        "display_name": "Gregory Goldmacher",
+        "orcid": "https://orcid.org/0000-0001-7310-6146"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Goldmacher, Gregory",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5036328196",
+        "display_name": "Antong Chen",
+        "orcid": "https://orcid.org/0009-0008-3463-9650"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Chen, Antong",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12422",
+    "display_name": "Radiomics and Machine Learning in Medical Imaging",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2741",
+      "display_name": "Radiology, Nuclear Medicine and Imaging"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12422",
+      "display_name": "Radiomics and Machine Learning in Medical Imaging",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2741",
+        "display_name": "Radiology, Nuclear Medicine and Imaging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14510",
+      "display_name": "Medical Imaging and Analysis",
+      "score": 0.9969000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10862",
+      "display_name": "AI in cancer detection",
+      "score": 0.9932000041007996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/segmentation",
+      "display_name": "Segmentation",
+      "score": 0.7560749053955078
+    },
+    {
+      "id": "https://openalex.org/keywords/encoder",
+      "display_name": "Encoder",
+      "score": 0.6647547483444214
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6577479839324951
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.6465767621994019
+    },
+    {
+      "id": "https://openalex.org/keywords/lesion",
+      "display_name": "Lesion",
+      "score": 0.5336728096008301
+    },
+    {
+      "id": "https://openalex.org/keywords/pattern-recognition",
+      "display_name": "Pattern recognition (psychology)",
+      "score": 0.4947811961174011
+    },
+    {
+      "id": "https://openalex.org/keywords/deep-learning",
+      "display_name": "Deep learning",
+      "score": 0.4812702536582947
+    },
+    {
+      "id": "https://openalex.org/keywords/convolutional-neural-network",
+      "display_name": "Convolutional neural network",
+      "score": 0.4361473023891449
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-vision",
+      "display_name": "Computer vision",
+      "score": 0.37872540950775146
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.1266021728515625
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C89600930",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423946",
+      "display_name": "Segmentation",
+      "level": 2,
+      "score": 0.7560749053955078
+    },
+    {
+      "id": "https://openalex.org/C118505674",
+      "wikidata": "https://www.wikidata.org/wiki/Q42586063",
+      "display_name": "Encoder",
+      "level": 2,
+      "score": 0.6647547483444214
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6577479839324951
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.6465767621994019
+    },
+    {
+      "id": "https://openalex.org/C2781156865",
+      "wikidata": "https://www.wikidata.org/wiki/Q827023",
+      "display_name": "Lesion",
+      "level": 2,
+      "score": 0.5336728096008301
+    },
+    {
+      "id": "https://openalex.org/C153180895",
+      "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+      "display_name": "Pattern recognition (psychology)",
+      "level": 2,
+      "score": 0.4947811961174011
+    },
+    {
+      "id": "https://openalex.org/C108583219",
+      "wikidata": "https://www.wikidata.org/wiki/Q197536",
+      "display_name": "Deep learning",
+      "level": 2,
+      "score": 0.4812702536582947
+    },
+    {
+      "id": "https://openalex.org/C81363708",
+      "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+      "display_name": "Convolutional neural network",
+      "level": 2,
+      "score": 0.4361473023891449
+    },
+    {
+      "id": "https://openalex.org/C31972630",
+      "wikidata": "https://www.wikidata.org/wiki/Q844240",
+      "display_name": "Computer vision",
+      "level": 1,
+      "score": 0.37872540950775146
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.1266021728515625
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2309.01823",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2309.01823",
+      "pdf_url": "https://arxiv.org/pdf/2309.01823",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "public-domain",
+      "license_id": "https://openalex.org/licenses/public-domain",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2309.01823",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2309.01823",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "public-domain",
+      "license_id": "https://openalex.org/licenses/public-domain",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2309.01823",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2309.01823",
+    "pdf_url": "https://arxiv.org/pdf/2309.01823",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.4000000059604645,
+      "id": "https://metadata.un.org/sdg/17",
+      "display_name": "Partnerships for the goals"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4386557385.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4386557385.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4293226380",
+    "https://openalex.org/W4375867731",
+    "https://openalex.org/W4226493464",
+    "https://openalex.org/W4312417841",
+    "https://openalex.org/W3193565141",
+    "https://openalex.org/W3133861977",
+    "https://openalex.org/W2951211570",
+    "https://openalex.org/W3167935049",
+    "https://openalex.org/W3103566983",
+    "https://openalex.org/W3029198973"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      82
+    ],
+    "oncology": [
+      1
+    ],
+    "research,": [
+      2
+    ],
+    "accurate": [
+      3
+    ],
+    "3D": [
+      4,
+      48,
+      60,
+      69,
+      76,
+      98,
+      124,
+      151,
+      197,
+      202,
+      222,
+      252
+    ],
+    "segmentation": [
+      5,
+      77,
+      179,
+      187,
+      199,
+      254
+    ],
+    "of": [
+      6,
+      16,
+      45,
+      58,
+      104,
+      149,
+      163
+    ],
+    "lesions": [
+      7,
+      46,
+      227
+    ],
+    "from": [
+      8,
+      229
+    ],
+    "CT": [
+      9
+    ],
+    "scans": [
+      10
+    ],
+    "is": [
+      11,
+      207
+    ],
+    "essential": [
+      12
+    ],
+    "for": [
+      13,
+      49,
+      97
+    ],
+    "the": [
+      14,
+      22,
+      32,
+      36,
+      128,
+      133,
+      160,
+      167,
+      172,
+      192,
+      210,
+      240,
+      269
+    ],
+    "modeling": [
+      15,
+      261
+    ],
+    "lesion": [
+      17,
+      30,
+      99,
+      152,
+      164,
+      178,
+      198,
+      223,
+      253
+    ],
+    "growth": [
+      18,
+      260
+    ],
+    "kinetics.": [
+      19
+    ],
+    "However,": [
+      20
+    ],
+    "following": [
+      21
+    ],
+    "RECIST": [
+      23,
+      182
+    ],
+    "criteria,": [
+      24
+    ],
+    "radiologists": [
+      25
+    ],
+    "routinely": [
+      26
+    ],
+    "only": [
+      27
+    ],
+    "delineate": [
+      28,
+      41
+    ],
+    "each": [
+      29
+    ],
+    "on": [
+      31,
+      137,
+      273
+    ],
+    "axial": [
+      33
+    ],
+    "slice": [
+      34
+    ],
+    "showing": [
+      35
+    ],
+    "largest": [
+      37
+    ],
+    "transverse": [
+      38
+    ],
+    "area,": [
+      39
+    ],
+    "and": [
+      40,
+      62,
+      66,
+      110,
+      123,
+      126,
+      215,
+      258
+    ],
+    "a": [
+      42,
+      53,
+      74,
+      79,
+      87,
+      91,
+      105,
+      111,
+      142
+    ],
+    "small": [
+      43
+    ],
+    "number": [
+      44
+    ],
+    "in": [
+      47,
+      132,
+      166
+    ],
+    "research": [
+      50
+    ],
+    "purposes.": [
+      51
+    ],
+    "As": [
+      52
+    ],
+    "result,": [
+      54
+    ],
+    "we": [
+      55,
+      85,
+      140
+    ],
+    "have": [
+      56
+    ],
+    "plenty": [
+      57
+    ],
+    "unlabeled": [
+      59,
+      150
+    ],
+    "volumes": [
+      61,
+      153
+    ],
+    "labeled": [
+      63,
+      68,
+      201
+    ],
+    "2D": [
+      64,
+      122,
+      177,
+      181
+    ],
+    "images,": [
+      65
+    ],
+    "scarce": [
+      67
+    ],
+    "volumes,": [
+      70
+    ],
+    "which": [
+      71
+    ],
+    "makes": [
+      72
+    ],
+    "training": [
+      73
+    ],
+    "deep-learning": [
+      75
+    ],
+    "model": [
+      78
+    ],
+    "challenging": [
+      80
+    ],
+    "task.": [
+      81
+    ],
+    "this": [
+      83,
+      138
+    ],
+    "work,": [
+      84
+    ],
+    "propose": [
+      86
+    ],
+    "novel": [
+      88
+    ],
+    "model,": [
+      89,
+      139
+    ],
+    "denoted": [
+      90
+    ],
+    "multi-dimension": [
+      92
+    ],
+    "unified": [
+      93
+    ],
+    "Swin": [
+      94
+    ],
+    "transformer": [
+      95,
+      107
+    ],
+    "(MDU-ST),": [
+      96
+    ],
+    "segmentation.": [
+      100
+    ],
+    "The": [
+      101,
+      204,
+      233,
+      243
+    ],
+    "MDU-ST": [
+      102,
+      235
+    ],
+    "consists": [
+      103
+    ],
+    "Shifted-window": [
+      106
+    ],
+    "(Swin-transformer)": [
+      108
+    ],
+    "encoder": [
+      109,
+      174,
+      194
+    ],
+    "convolutional": [
+      112
+    ],
+    "neural": [
+      113
+    ],
+    "network": [
+      114
+    ],
+    "(CNN)": [
+      115
+    ],
+    "decoder,": [
+      116
+    ],
+    "allowing": [
+      117
+    ],
+    "it": [
+      118
+    ],
+    "to": [
+      119,
+      121,
+      158,
+      175,
+      184,
+      195,
+      249,
+      255
+    ],
+    "adapt": [
+      120
+    ],
+    "inputs": [
+      125
+    ],
+    "learn": [
+      127,
+      159,
+      185
+    ],
+    "corresponding": [
+      129
+    ],
+    "semantic": [
+      130
+    ],
+    "information": [
+      131
+    ],
+    "same": [
+      134
+    ],
+    "encoder.": [
+      135
+    ],
+    "Based": [
+      136
+    ],
+    "introduce": [
+      141
+    ],
+    "three-stage": [
+      143
+    ],
+    "framework:": [
+      144
+    ],
+    "1)": [
+      145
+    ],
+    "leveraging": [
+      146
+    ],
+    "large": [
+      147
+    ],
+    "amount": [
+      148
+    ],
+    "through": [
+      154
+    ],
+    "self-supervised": [
+      155
+    ],
+    "pretext": [
+      156
+    ],
+    "tasks": [
+      157
+    ],
+    "underlying": [
+      161
+    ],
+    "pattern": [
+      162
+    ],
+    "anatomy": [
+      165
+    ],
+    "Swin-transformer": [
+      168,
+      173,
+      193
+    ],
+    "encoder;": [
+      169
+    ],
+    "2)": [
+      170
+    ],
+    "fine-tune": [
+      171,
+      191
+    ],
+    "perform": [
+      176,
+      196
+    ],
+    "with": [
+      180,
+      200,
+      225
+    ],
+    "slices": [
+      183
+    ],
+    "slice-level": [
+      186
+    ],
+    "information;": [
+      188
+    ],
+    "3)": [
+      189
+    ],
+    "further": [
+      190
+    ],
+    "volumes.": [
+      203
+    ],
+    "network's": [
+      205
+    ],
+    "performance": [
+      206
+    ],
+    "evaluated": [
+      208
+    ],
+    "by": [
+      209,
+      268
+    ],
+    "Dice": [
+      211
+    ],
+    "similarity": [
+      212
+    ],
+    "coefficient": [
+      213
+    ],
+    "(DSC)": [
+      214
+    ],
+    "Hausdorff": [
+      216
+    ],
+    "distance": [
+      217
+    ],
+    "(HD)": [
+      218
+    ],
+    "using": [
+      219
+    ],
+    "an": [
+      220
+    ],
+    "internal": [
+      221
+    ],
+    "dataset": [
+      224
+    ],
+    "593": [
+      226
+    ],
+    "extracted": [
+      228
+    ],
+    "multiple": [
+      230
+    ],
+    "anatomical": [
+      231
+    ],
+    "locations.": [
+      232
+    ],
+    "proposed": [
+      234,
+      244
+    ],
+    "demonstrates": [
+      236
+    ],
+    "significant": [
+      237
+    ],
+    "improvement": [
+      238
+    ],
+    "over": [
+      239
+    ],
+    "competing": [
+      241
+    ],
+    "models.": [
+      242
+    ],
+    "method": [
+      245
+    ],
+    "can": [
+      246
+    ],
+    "be": [
+      247
+    ],
+    "used": [
+      248
+    ],
+    "conduct": [
+      250
+    ],
+    "automated": [
+      251
+    ],
+    "assist": [
+      256
+    ],
+    "radiomics": [
+      257
+    ],
+    "tumor": [
+      259
+    ],
+    "studies.": [
+      262
+    ],
+    "This": [
+      263
+    ],
+    "paper": [
+      264
+    ],
+    "has": [
+      265
+    ],
+    "been": [
+      266
+    ],
+    "accepted": [
+      267
+    ],
+    "IEEE": [
+      270
+    ],
+    "International": [
+      271
+    ],
+    "Symposium": [
+      272
+    ],
+    "Biomedical": [
+      274
+    ],
+    "Imaging": [
+      275
+    ],
+    "(ISBI)": [
+      276
+    ],
+    "2023.": [
+      277
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2023-09-09T00:00:00"
+}

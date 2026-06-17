@@ -1,0 +1,1204 @@
+{
+  "id": "https://openalex.org/W3188705796",
+  "doi": "https://doi.org/10.1101/2021.08.02.454823",
+  "title": "NT-CRISPR: Combining natural transformation and CRISPR/Cas9 counterselection for markerless and scarless genome editing in <i>Vibrio natriegens</i>",
+  "display_name": "NT-CRISPR: Combining natural transformation and CRISPR/Cas9 counterselection for markerless and scarless genome editing in <i>Vibrio natriegens</i>",
+  "publication_year": 2021,
+  "publication_date": "2021-08-03",
+  "ids": {
+    "openalex": "https://openalex.org/W3188705796",
+    "doi": "https://doi.org/10.1101/2021.08.02.454823",
+    "mag": "3188705796"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/2021.08.02.454823",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2021.08.02.454823",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/03/2021.08.02.454823.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/03/2021.08.02.454823.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5017547258",
+        "display_name": "Daniel Stukenberg",
+        "orcid": "https://orcid.org/0000-0003-3599-3340"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210166203",
+          "display_name": "Max Planck Institute for Terrestrial Microbiology",
+          "ror": "https://ror.org/05r7n9c40",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel Stukenberg",
+      "raw_affiliation_strings": [
+        "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany",
+        "Max-Planck Institute for Terrestrial Microbiology, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Max-Planck Institute for Terrestrial Microbiology, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089464615",
+        "display_name": "Josef Hoff",
+        "orcid": "https://orcid.org/0009-0003-4983-1112"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210166203",
+          "display_name": "Max Planck Institute for Terrestrial Microbiology",
+          "ror": "https://ror.org/05r7n9c40",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Josef Hoff",
+      "raw_affiliation_strings": [
+        "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany",
+        "Max-Planck Institute for Terrestrial Microbiology, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Max-Planck Institute for Terrestrial Microbiology, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028522444",
+        "display_name": "Anna Faber",
+        "orcid": "https://orcid.org/0000-0002-2815-1973"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Faber",
+      "raw_affiliation_strings": [
+        "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5047751070",
+        "display_name": "Anke Becker",
+        "orcid": "https://orcid.org/0000-0003-4561-9184"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161103922",
+          "display_name": "Philipps University of Marburg",
+          "ror": "https://ror.org/01rdrb571",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Anke Becker",
+      "raw_affiliation_strings": [
+        "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Synthetic Microbiology, Philipps-Universität Marburg, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I161103922"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5047751070"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I161103922"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10878",
+    "display_name": "CRISPR and Genetic Engineering",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10878",
+      "display_name": "CRISPR and Genetic Engineering",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11684",
+      "display_name": "Vibrio bacteria research studies",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1310",
+        "display_name": "Endocrinology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10120",
+      "display_name": "Bacterial Genetics and Biotechnology",
+      "score": 0.9941999912261963,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/crispr",
+      "display_name": "CRISPR",
+      "score": 0.9391560554504395
+    },
+    {
+      "id": "https://openalex.org/keywords/genome-editing",
+      "display_name": "Genome editing",
+      "score": 0.8162859678268433
+    },
+    {
+      "id": "https://openalex.org/keywords/cas9",
+      "display_name": "Cas9",
+      "score": 0.6644645929336548
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.6327784657478333
+    },
+    {
+      "id": "https://openalex.org/keywords/transformation",
+      "display_name": "Transformation (genetics)",
+      "score": 0.6219143271446228
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.6167385578155518
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.5400809049606323
+    },
+    {
+      "id": "https://openalex.org/keywords/homologous-recombination",
+      "display_name": "Homologous recombination",
+      "score": 0.5022330284118652
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.4187493920326233
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.4160923361778259
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.4147164225578308
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C98108389",
+      "wikidata": "https://www.wikidata.org/wiki/Q412563",
+      "display_name": "CRISPR",
+      "level": 3,
+      "score": 0.9391560554504395
+    },
+    {
+      "id": "https://openalex.org/C144501496",
+      "wikidata": "https://www.wikidata.org/wiki/Q5533489",
+      "display_name": "Genome editing",
+      "level": 4,
+      "score": 0.8162859678268433
+    },
+    {
+      "id": "https://openalex.org/C132455925",
+      "wikidata": "https://www.wikidata.org/wiki/Q16965677",
+      "display_name": "Cas9",
+      "level": 4,
+      "score": 0.6644645929336548
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.6327784657478333
+    },
+    {
+      "id": "https://openalex.org/C204241405",
+      "wikidata": "https://www.wikidata.org/wiki/Q461499",
+      "display_name": "Transformation (genetics)",
+      "level": 3,
+      "score": 0.6219143271446228
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6167385578155518
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5400809049606323
+    },
+    {
+      "id": "https://openalex.org/C102744134",
+      "wikidata": "https://www.wikidata.org/wiki/Q22280388",
+      "display_name": "Homologous recombination",
+      "level": 3,
+      "score": 0.5022330284118652
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.4187493920326233
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.4160923361778259
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.4147164225578308
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/2021.08.02.454823",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/2021.08.02.454823",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/03/2021.08.02.454823.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/2021.08.02.454823",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2021.08.02.454823",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/03/2021.08.02.454823.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2574187472",
+      "display_name": null,
+      "funder_award_id": "H2020-NMBP-TR-IND-2018",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G2657038878",
+      "display_name": null,
+      "funder_award_id": "210491758",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G4937468798",
+      "display_name": null,
+      "funder_award_id": "H2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G5512047564",
+      "display_name": null,
+      "funder_award_id": "210491758",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G6963853084",
+      "display_name": null,
+      "funder_award_id": "H2020-NMBP-TR-IND-2018-2020/BIOTEC-01-2018",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320317967",
+      "display_name": "International Max Planck Research School for Environmental, Cellular and Molecular Microbiology",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320327553",
+      "display_name": "International Max Planck Research School for Advanced Methods in Process and Systems Engineering",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320332999",
+      "display_name": "Horizon 2020 Framework Programme",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3188705796.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3188705796.grobid-xml"
+  },
+  "referenced_works_count": 59,
+  "referenced_works": [
+    "https://openalex.org/W1489540189",
+    "https://openalex.org/W1526840610",
+    "https://openalex.org/W1593576309",
+    "https://openalex.org/W1608084731",
+    "https://openalex.org/W1971439989",
+    "https://openalex.org/W1989905441",
+    "https://openalex.org/W2000046950",
+    "https://openalex.org/W2026052721",
+    "https://openalex.org/W2039295326",
+    "https://openalex.org/W2058989497",
+    "https://openalex.org/W2061092522",
+    "https://openalex.org/W2064876011",
+    "https://openalex.org/W2092252308",
+    "https://openalex.org/W2096563220",
+    "https://openalex.org/W2111764777",
+    "https://openalex.org/W2111967267",
+    "https://openalex.org/W2120263648",
+    "https://openalex.org/W2121045027",
+    "https://openalex.org/W2139077555",
+    "https://openalex.org/W2140901540",
+    "https://openalex.org/W2141149764",
+    "https://openalex.org/W2144779133",
+    "https://openalex.org/W2147739386",
+    "https://openalex.org/W2155432760",
+    "https://openalex.org/W2159916488",
+    "https://openalex.org/W2164753777",
+    "https://openalex.org/W2164995160",
+    "https://openalex.org/W2165077608",
+    "https://openalex.org/W2169781795",
+    "https://openalex.org/W2256016482",
+    "https://openalex.org/W2292458301",
+    "https://openalex.org/W2312592272",
+    "https://openalex.org/W2417582922",
+    "https://openalex.org/W2516214888",
+    "https://openalex.org/W2551836638",
+    "https://openalex.org/W2604460446",
+    "https://openalex.org/W2608269313",
+    "https://openalex.org/W2621720225",
+    "https://openalex.org/W2753885635",
+    "https://openalex.org/W2765466553",
+    "https://openalex.org/W2793296961",
+    "https://openalex.org/W2793309516",
+    "https://openalex.org/W2795170289",
+    "https://openalex.org/W2804823685",
+    "https://openalex.org/W2884668665",
+    "https://openalex.org/W2897985906",
+    "https://openalex.org/W2900498998",
+    "https://openalex.org/W2929007946",
+    "https://openalex.org/W2950509586",
+    "https://openalex.org/W2951382289",
+    "https://openalex.org/W2953362829",
+    "https://openalex.org/W2953427867",
+    "https://openalex.org/W2953439744",
+    "https://openalex.org/W3004636689",
+    "https://openalex.org/W3013504322",
+    "https://openalex.org/W3021607425",
+    "https://openalex.org/W3035390189",
+    "https://openalex.org/W3177873677",
+    "https://openalex.org/W4245053291"
+  ],
+  "related_works": [
+    "https://openalex.org/W2603161682",
+    "https://openalex.org/W2960163646",
+    "https://openalex.org/W2807464733",
+    "https://openalex.org/W2516842346",
+    "https://openalex.org/W2667943050",
+    "https://openalex.org/W2134268326",
+    "https://openalex.org/W2903635918",
+    "https://openalex.org/W3000623258",
+    "https://openalex.org/W2437118042",
+    "https://openalex.org/W2337751047"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1
+    ],
+    "fast-growing": [
+      2
+    ],
+    "bacterium": [
+      3
+    ],
+    "Vibrio": [
+      4
+    ],
+    "natriegens": [
+      5,
+      49
+    ],
+    "has": [
+      6
+    ],
+    "recently": [
+      7
+    ],
+    "gained": [
+      8
+    ],
+    "increasing": [
+      9
+    ],
+    "attention": [
+      10
+    ],
+    "as": [
+      11
+    ],
+    "a": [
+      12,
+      17,
+      78,
+      100,
+      116
+    ],
+    "novel": [
+      13,
+      42
+    ],
+    "chassis": [
+      14
+    ],
+    "organism": [
+      15
+    ],
+    "for": [
+      16,
+      45,
+      73,
+      169,
+      188
+    ],
+    "wide": [
+      18
+    ],
+    "range": [
+      19
+    ],
+    "of": [
+      20,
+      27,
+      87,
+      102,
+      134,
+      144,
+      150,
+      178,
+      192
+    ],
+    "projects.": [
+      21
+    ],
+    "To": [
+      22
+    ],
+    "fully": [
+      23
+    ],
+    "harness": [
+      24
+    ],
+    "the": [
+      25,
+      127,
+      189,
+      200,
+      215
+    ],
+    "potential": [
+      26
+    ],
+    "this": [
+      28
+    ],
+    "fascinating": [
+      29
+    ],
+    "bacterium,": [
+      30
+    ],
+    "convenient": [
+      31
+    ],
+    "and": [
+      32,
+      57,
+      81,
+      122,
+      156,
+      160,
+      172,
+      183,
+      211
+    ],
+    "highly": [
+      33,
+      138
+    ],
+    "efficient": [
+      34,
+      139
+    ],
+    "genome": [
+      35,
+      62,
+      74,
+      117
+    ],
+    "editing": [
+      36,
+      176
+    ],
+    "methods": [
+      37
+    ],
+    "are": [
+      38
+    ],
+    "indispensable": [
+      39
+    ],
+    "to": [
+      40,
+      52,
+      84,
+      132,
+      146,
+      180
+    ],
+    "create": [
+      41
+    ],
+    "strains,": [
+      43
+    ],
+    "tailored": [
+      44
+    ],
+    "specific": [
+      46
+    ],
+    "applications.": [
+      47
+    ],
+    "V.": [
+      48
+    ],
+    "is": [
+      50,
+      82,
+      207
+    ],
+    "able": [
+      51,
+      83
+    ],
+    "take": [
+      53
+    ],
+    "up": [
+      54,
+      145,
+      179
+    ],
+    "free": [
+      55
+    ],
+    "DNA": [
+      56,
+      89
+    ],
+    "incorporate": [
+      58
+    ],
+    "it": [
+      59
+    ],
+    "into": [
+      60
+    ],
+    "its": [
+      61,
+      186
+    ],
+    "by": [
+      63,
+      119
+    ],
+    "homologous": [
+      64
+    ],
+    "recombination.": [
+      65
+    ],
+    "This": [
+      66
+    ],
+    "process,": [
+      67
+    ],
+    "called": [
+      68
+    ],
+    "natural": [
+      69,
+      103,
+      120
+    ],
+    "transformation,": [
+      70
+    ],
+    "was": [
+      71
+    ],
+    "tamed": [
+      72
+    ],
+    "editing.": [
+      75
+    ],
+    "It": [
+      76
+    ],
+    "displays": [
+      77
+    ],
+    "high": [
+      79
+    ],
+    "efficiency": [
+      80
+    ],
+    "mediate": [
+      85
+    ],
+    "uptake": [
+      86
+    ],
+    "multiple": [
+      88,
+      93,
+      193
+    ],
+    "fragments,": [
+      90
+    ],
+    "thereby": [
+      91,
+      212
+    ],
+    "allowing": [
+      92
+    ],
+    "simultaneous": [
+      94,
+      190
+    ],
+    "edits.": [
+      95
+    ],
+    "Here,": [
+      96
+    ],
+    "we": [
+      97,
+      113,
+      197
+    ],
+    "describe": [
+      98
+    ],
+    "NT-CRISPR,": [
+      99
+    ],
+    "combination": [
+      101
+    ],
+    "transformation": [
+      104,
+      121
+    ],
+    "with": [
+      105,
+      142,
+      163,
+      175,
+      209
+    ],
+    "CRISPR/Cas9": [
+      106
+    ],
+    "counterselection.": [
+      107
+    ],
+    "In": [
+      108
+    ],
+    "two": [
+      109
+    ],
+    "temporally": [
+      110
+    ],
+    "distinct": [
+      111
+    ],
+    "steps,": [
+      112
+    ],
+    "first": [
+      114
+    ],
+    "performed": [
+      115
+    ],
+    "edit": [
+      118
+    ],
+    "second,": [
+      123
+    ],
+    "induced": [
+      124
+    ],
+    "CRISPR/Cas9,": [
+      125
+    ],
+    "targeting": [
+      126
+    ],
+    "wild": [
+      128
+    ],
+    "type": [
+      129
+    ],
+    "sequence,": [
+      130
+    ],
+    "leading": [
+      131
+    ],
+    "death": [
+      133
+    ],
+    "non-edited": [
+      135
+    ],
+    "cells.": [
+      136
+    ],
+    "Through": [
+      137
+    ],
+    "cell": [
+      140
+    ],
+    "killing": [
+      141
+    ],
+    "efficiencies": [
+      143,
+      177
+    ],
+    "99.999": [
+      147
+    ],
+    "%,": [
+      148
+    ],
+    "integration": [
+      149
+    ],
+    "antibiotic": [
+      151
+    ],
+    "resistance": [
+      152
+    ],
+    "markers": [
+      153
+    ],
+    "became": [
+      154
+    ],
+    "dispensable": [
+      155
+    ],
+    "thus": [
+      157
+    ],
+    "enabled": [
+      158
+    ],
+    "scarless": [
+      159
+    ],
+    "markerless": [
+      161
+    ],
+    "edits": [
+      162
+    ],
+    "single-base": [
+      164,
+      173
+    ],
+    "precision.": [
+      165
+    ],
+    "We": [
+      166
+    ],
+    "used": [
+      167
+    ],
+    "NT-CRISPR": [
+      168,
+      210
+    ],
+    "deletions,": [
+      170
+    ],
+    "integrations": [
+      171
+    ],
+    "modifications": [
+      174
+    ],
+    "100": [
+      181
+    ],
+    "%": [
+      182
+    ],
+    "further": [
+      184
+    ],
+    "demonstrated": [
+      185,
+      198
+    ],
+    "applicability": [
+      187
+    ],
+    "deletion": [
+      191
+    ],
+    "chromosomal": [
+      194
+    ],
+    "regions.": [
+      195
+    ],
+    "Lastly,": [
+      196
+    ],
+    "that": [
+      199
+    ],
+    "near": [
+      201
+    ],
+    "PAM-less": [
+      202
+    ],
+    "Cas9": [
+      203,
+      206
+    ],
+    "variant": [
+      204
+    ],
+    "SpG": [
+      205
+    ],
+    "compatible": [
+      208
+    ],
+    "massively": [
+      213
+    ],
+    "broadens": [
+      214
+    ],
+    "target": [
+      216
+    ],
+    "spectrum.": [
+      217
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

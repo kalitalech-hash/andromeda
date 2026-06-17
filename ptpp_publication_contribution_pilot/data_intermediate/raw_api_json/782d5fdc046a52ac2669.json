@@ -1,0 +1,2262 @@
+{
+  "id": "https://openalex.org/W4401178688",
+  "doi": "https://doi.org/10.1038/s41598-024-68568-4",
+  "title": "Exploring protein relative relations in skeletal muscle proteomic analysis for insights into insulin resistance and type 2 diabetes",
+  "display_name": "Exploring protein relative relations in skeletal muscle proteomic analysis for insights into insulin resistance and type 2 diabetes",
+  "publication_year": 2024,
+  "publication_date": "2024-07-31",
+  "ids": {
+    "openalex": "https://openalex.org/W4401178688",
+    "doi": "https://doi.org/10.1038/s41598-024-68568-4",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39085321"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41598-024-68568-4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-024-68568-4",
+    "pdf_url": "https://www.nature.com/articles/s41598-024-68568-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41598-024-68568-4.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5010329320",
+        "display_name": "Anna Czajkowska",
+        "orcid": "https://orcid.org/0000-0001-8487-9291"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Anna Czajkowska",
+      "raw_affiliation_strings": [
+        "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland. anna.czajkowska@umb.edu.pl",
+        "Department of Medical Biology, Medical University of Bialystok, A. Mickiewicza 2C, 15-369, Białystok, Poland. anna.czajkowska@umb.edu.pl",
+        "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland. anna.czajkowska@umb.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medical Biology, Medical University of Bialystok, A. Mickiewicza 2C, 15-369, Białystok, Poland. anna.czajkowska@umb.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046109172",
+        "display_name": "Marcin Czajkowski",
+        "orcid": "https://orcid.org/0000-0002-3967-1819"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Czajkowski",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056654197",
+        "display_name": "Łukasz Szczerbiński",
+        "orcid": "https://orcid.org/0000-0002-6201-0605"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lukasz Szczerbinski",
+      "raw_affiliation_strings": [
+        "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland",
+        "Department of Endocrinology, Diabetology and Internal Medicine, Medical University of Bialystok, Białystok, Poland",
+        "Programs in Metabolism and Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Endocrinology, Diabetology and Internal Medicine, Medical University of Bialystok, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Programs in Metabolism and Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074235334",
+        "display_name": "Krzysztof Jurczuk",
+        "orcid": "https://orcid.org/0000-0001-6469-1769"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Jurczuk",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001918771",
+        "display_name": "Daniel Reska",
+        "orcid": "https://orcid.org/0000-0002-2367-7546"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel Reska",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015365508",
+        "display_name": "Wojciech Kwedlo",
+        "orcid": "https://orcid.org/0000-0002-5040-2302"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wojciech Kwedlo",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075724243",
+        "display_name": "Marek Krętowski",
+        "orcid": "https://orcid.org/0000-0001-9175-2678"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1323121030",
+          "display_name": "Bialystok University of Technology",
+          "ror": "https://ror.org/02bzfsy61",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Kretowski",
+      "raw_affiliation_strings": [
+        "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Computer Science, Bialystok University of Technology, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I1323121030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024823786",
+        "display_name": "Piotr Zabielski",
+        "orcid": "https://orcid.org/0000-0002-4901-5217"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Zabielski",
+      "raw_affiliation_strings": [
+        "Department of Medical Biology, Medical University of Bialystok, A. Mickiewicza 2C, 15-369, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Biology, Medical University of Bialystok, A. Mickiewicza 2C, 15-369, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5052856867",
+        "display_name": "Adam Krętowski",
+        "orcid": "https://orcid.org/0000-0002-4522-4978"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146122375",
+          "display_name": "Medical University of Białystok",
+          "ror": "https://ror.org/00y4ya841",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adam Kretowski",
+      "raw_affiliation_strings": [
+        "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland",
+        "Department of Endocrinology, Diabetology and Internal Medicine, Medical University of Bialystok, Białystok, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Research Centre, Medical University of Bialystok, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Endocrinology, Diabetology and Internal Medicine, Medical University of Bialystok, Białystok, Poland",
+          "institution_ids": [
+            "https://openalex.org/I146122375"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5010329320"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I146122375"
+  ],
+  "apc_list": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "apc_paid": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "fwci": 1.971,
+  "has_fulltext": true,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.84980117,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "1",
+    "first_page": "17631",
+    "last_page": "17631"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11399",
+    "display_name": "Muscle metabolism and nutrition",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1307",
+      "display_name": "Cell Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11399",
+      "display_name": "Muscle metabolism and nutrition",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11457",
+      "display_name": "Adipose Tissue and Metabolism",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10836",
+      "display_name": "Metabolomics and Mass Spectrometry Studies",
+      "score": 0.9977999925613403,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/prediabetes",
+      "display_name": "Prediabetes",
+      "score": 0.7886183261871338
+    },
+    {
+      "id": "https://openalex.org/keywords/insulin-resistance",
+      "display_name": "Insulin resistance",
+      "score": 0.7149630188941956
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.6285893321037292
+    },
+    {
+      "id": "https://openalex.org/keywords/glycemic",
+      "display_name": "Glycemic",
+      "score": 0.6185821890830994
+    },
+    {
+      "id": "https://openalex.org/keywords/proteome",
+      "display_name": "Proteome",
+      "score": 0.5870306491851807
+    },
+    {
+      "id": "https://openalex.org/keywords/skeletal-muscle",
+      "display_name": "Skeletal muscle",
+      "score": 0.5803917646408081
+    },
+    {
+      "id": "https://openalex.org/keywords/type-2-diabetes",
+      "display_name": "Type 2 diabetes",
+      "score": 0.5386936068534851
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.518525242805481
+    },
+    {
+      "id": "https://openalex.org/keywords/proteomics",
+      "display_name": "Proteomics",
+      "score": 0.47832179069519043
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.4670020341873169
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.43809089064598083
+    },
+    {
+      "id": "https://openalex.org/keywords/diabetes-mellitus",
+      "display_name": "Diabetes mellitus",
+      "score": 0.4062485694885254
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.34820693731307983
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.2696458697319031
+    },
+    {
+      "id": "https://openalex.org/keywords/endocrinology",
+      "display_name": "Endocrinology",
+      "score": 0.24664214253425598
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.23835569620132446
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.11386021971702576
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.0802508294582367
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779668308",
+      "wikidata": "https://www.wikidata.org/wiki/Q2087205",
+      "display_name": "Prediabetes",
+      "level": 4,
+      "score": 0.7886183261871338
+    },
+    {
+      "id": "https://openalex.org/C2777391703",
+      "wikidata": "https://www.wikidata.org/wiki/Q1053470",
+      "display_name": "Insulin resistance",
+      "level": 3,
+      "score": 0.7149630188941956
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.6285893321037292
+    },
+    {
+      "id": "https://openalex.org/C2780473172",
+      "wikidata": "https://www.wikidata.org/wiki/Q5572518",
+      "display_name": "Glycemic",
+      "level": 3,
+      "score": 0.6185821890830994
+    },
+    {
+      "id": "https://openalex.org/C104397665",
+      "wikidata": "https://www.wikidata.org/wiki/Q860947",
+      "display_name": "Proteome",
+      "level": 2,
+      "score": 0.5870306491851807
+    },
+    {
+      "id": "https://openalex.org/C2779959927",
+      "wikidata": "https://www.wikidata.org/wiki/Q1048687",
+      "display_name": "Skeletal muscle",
+      "level": 2,
+      "score": 0.5803917646408081
+    },
+    {
+      "id": "https://openalex.org/C2777180221",
+      "wikidata": "https://www.wikidata.org/wiki/Q3025883",
+      "display_name": "Type 2 diabetes",
+      "level": 3,
+      "score": 0.5386936068534851
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.518525242805481
+    },
+    {
+      "id": "https://openalex.org/C46111723",
+      "wikidata": "https://www.wikidata.org/wiki/Q471857",
+      "display_name": "Proteomics",
+      "level": 3,
+      "score": 0.47832179069519043
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.4670020341873169
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.43809089064598083
+    },
+    {
+      "id": "https://openalex.org/C555293320",
+      "wikidata": "https://www.wikidata.org/wiki/Q12206",
+      "display_name": "Diabetes mellitus",
+      "level": 2,
+      "score": 0.4062485694885254
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.34820693731307983
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.2696458697319031
+    },
+    {
+      "id": "https://openalex.org/C134018914",
+      "wikidata": "https://www.wikidata.org/wiki/Q162606",
+      "display_name": "Endocrinology",
+      "level": 1,
+      "score": 0.24664214253425598
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.23835569620132446
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.11386021971702576
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.0802508294582367
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003924",
+      "descriptor_name": "Diabetes Mellitus, Type 2",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003924",
+      "descriptor_name": "Diabetes Mellitus, Type 2",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003924",
+      "descriptor_name": "Diabetes Mellitus, Type 2",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003924",
+      "descriptor_name": "Diabetes Mellitus, Type 2",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003924",
+      "descriptor_name": "Diabetes Mellitus, Type 2",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003924",
+      "descriptor_name": "Diabetes Mellitus, Type 2",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007333",
+      "descriptor_name": "Insulin Resistance",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007333",
+      "descriptor_name": "Insulin Resistance",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007333",
+      "descriptor_name": "Insulin Resistance",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007333",
+      "descriptor_name": "Insulin Resistance",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007333",
+      "descriptor_name": "Insulin Resistance",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007333",
+      "descriptor_name": "Insulin Resistance",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018482",
+      "descriptor_name": "Muscle, Skeletal",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41598-024-68568-4",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41598-024-68568-4",
+      "pdf_url": "https://www.nature.com/articles/s41598-024-68568-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39085321",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39085321",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11292014",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11292014",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292014/pdf/41598_2024_Article_68568.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sci Rep",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:64a6f96411f74f92abdafc6c39f295bc",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/64a6f96411f74f92abdafc6c39f295bc",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-20 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41598-024-68568-4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-024-68568-4",
+    "pdf_url": "https://www.nature.com/articles/s41598-024-68568-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being",
+      "score": 0.7300000190734863
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7953217207",
+      "display_name": null,
+      "funder_award_id": "2019/33/B/ST6/02386",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320329194",
+      "display_name": "Ministerstwo Zdrowia",
+      "ror": "https://ror.org/02ksnyp08"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4401178688.pdf"
+  },
+  "referenced_works_count": 87,
+  "referenced_works": [
+    "https://openalex.org/W94341695",
+    "https://openalex.org/W1555243480",
+    "https://openalex.org/W1670263352",
+    "https://openalex.org/W1831110377",
+    "https://openalex.org/W1839808946",
+    "https://openalex.org/W1967505225",
+    "https://openalex.org/W1970837044",
+    "https://openalex.org/W1974983216",
+    "https://openalex.org/W2006540549",
+    "https://openalex.org/W2007361111",
+    "https://openalex.org/W2044544963",
+    "https://openalex.org/W2046319786",
+    "https://openalex.org/W2053062410",
+    "https://openalex.org/W2064993319",
+    "https://openalex.org/W2077921939",
+    "https://openalex.org/W2079207986",
+    "https://openalex.org/W2089367555",
+    "https://openalex.org/W2091690650",
+    "https://openalex.org/W2102539288",
+    "https://openalex.org/W2105853794",
+    "https://openalex.org/W2110169410",
+    "https://openalex.org/W2111793830",
+    "https://openalex.org/W2124941918",
+    "https://openalex.org/W2126067147",
+    "https://openalex.org/W2132155798",
+    "https://openalex.org/W2134959833",
+    "https://openalex.org/W2139319528",
+    "https://openalex.org/W2148393113",
+    "https://openalex.org/W2159744672",
+    "https://openalex.org/W2160330411",
+    "https://openalex.org/W2171129594",
+    "https://openalex.org/W2257662942",
+    "https://openalex.org/W2258464106",
+    "https://openalex.org/W2292498868",
+    "https://openalex.org/W2339653856",
+    "https://openalex.org/W2423246202",
+    "https://openalex.org/W2464094535",
+    "https://openalex.org/W2511670019",
+    "https://openalex.org/W2515462226",
+    "https://openalex.org/W2608061139",
+    "https://openalex.org/W2727667861",
+    "https://openalex.org/W2739682907",
+    "https://openalex.org/W2745139258",
+    "https://openalex.org/W2762019071",
+    "https://openalex.org/W2766172487",
+    "https://openalex.org/W2770499285",
+    "https://openalex.org/W2770620441",
+    "https://openalex.org/W2799930217",
+    "https://openalex.org/W2903782188",
+    "https://openalex.org/W2911964244",
+    "https://openalex.org/W2954907277",
+    "https://openalex.org/W2956295791",
+    "https://openalex.org/W2978403869",
+    "https://openalex.org/W2980388323",
+    "https://openalex.org/W2981680192",
+    "https://openalex.org/W2984524325",
+    "https://openalex.org/W2985947662",
+    "https://openalex.org/W2987905952",
+    "https://openalex.org/W2991403308",
+    "https://openalex.org/W2994901254",
+    "https://openalex.org/W3002380642",
+    "https://openalex.org/W3003251049",
+    "https://openalex.org/W3005706188",
+    "https://openalex.org/W3007736356",
+    "https://openalex.org/W3027408571",
+    "https://openalex.org/W3049097316",
+    "https://openalex.org/W3083229866",
+    "https://openalex.org/W3083931607",
+    "https://openalex.org/W3088111392",
+    "https://openalex.org/W3097945143",
+    "https://openalex.org/W3165338098",
+    "https://openalex.org/W3198080543",
+    "https://openalex.org/W3208416462",
+    "https://openalex.org/W3208691473",
+    "https://openalex.org/W3210084513",
+    "https://openalex.org/W3211206694",
+    "https://openalex.org/W3214726673",
+    "https://openalex.org/W4200411046",
+    "https://openalex.org/W4223557725",
+    "https://openalex.org/W4297996334",
+    "https://openalex.org/W4300979105",
+    "https://openalex.org/W4308834893",
+    "https://openalex.org/W4312082529",
+    "https://openalex.org/W4318920878",
+    "https://openalex.org/W4320063290",
+    "https://openalex.org/W4324130800",
+    "https://openalex.org/W4389027495"
+  ],
+  "related_works": [
+    "https://openalex.org/W1982829397",
+    "https://openalex.org/W2347437365",
+    "https://openalex.org/W2106414650",
+    "https://openalex.org/W1999412725",
+    "https://openalex.org/W4390205769",
+    "https://openalex.org/W2124137418",
+    "https://openalex.org/W2391458050",
+    "https://openalex.org/W3022402204",
+    "https://openalex.org/W2086860678",
+    "https://openalex.org/W2114732768"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      206
+    ],
+    "escalating": [
+      1
+    ],
+    "prevalence": [
+      2
+    ],
+    "of": [
+      3,
+      35,
+      45,
+      57,
+      62,
+      88,
+      110,
+      147,
+      196,
+      203,
+      232,
+      236
+    ],
+    "insulin": [
+      4
+    ],
+    "resistance": [
+      5
+    ],
+    "(IR)": [
+      6
+    ],
+    "and": [
+      7,
+      22,
+      51,
+      112,
+      114,
+      123,
+      171,
+      186,
+      200,
+      213
+    ],
+    "type": [
+      8
+    ],
+    "2": [
+      9
+    ],
+    "diabetes": [
+      10
+    ],
+    "mellitus": [
+      11
+    ],
+    "(T2D)": [
+      12
+    ],
+    "underscores": [
+      13
+    ],
+    "the": [
+      14,
+      55,
+      71,
+      76,
+      86,
+      108,
+      116,
+      124,
+      140,
+      148,
+      172,
+      175,
+      194,
+      233
+    ],
+    "urgent": [
+      15
+    ],
+    "need": [
+      16
+    ],
+    "for": [
+      17
+    ],
+    "improved": [
+      18
+    ],
+    "early": [
+      19
+    ],
+    "detection": [
+      20
+    ],
+    "techniques": [
+      21
+    ],
+    "effective": [
+      23
+    ],
+    "treatment": [
+      24
+    ],
+    "strategies.": [
+      25
+    ],
+    "In": [
+      26
+    ],
+    "this": [
+      27
+    ],
+    "context,": [
+      28
+    ],
+    "our": [
+      29,
+      230
+    ],
+    "study": [
+      30
+    ],
+    "presents": [
+      31
+    ],
+    "a": [
+      32,
+      43,
+      136,
+      152
+    ],
+    "proteomic": [
+      33,
+      164
+    ],
+    "analysis": [
+      34,
+      82,
+      133
+    ],
+    "post-exercise": [
+      36
+    ],
+    "skeletal": [
+      37,
+      94,
+      204
+    ],
+    "muscle": [
+      38,
+      95
+    ],
+    "biopsies": [
+      39
+    ],
+    "from": [
+      40
+    ],
+    "individuals": [
+      41
+    ],
+    "across": [
+      42
+    ],
+    "spectrum": [
+      44
+    ],
+    "glucose": [
+      46
+    ],
+    "metabolism": [
+      47
+    ],
+    "states:": [
+      48
+    ],
+    "normal,": [
+      49
+    ],
+    "prediabetes,": [
+      50
+    ],
+    "T2D.": [
+      52,
+      237
+    ],
+    "This": [
+      53,
+      103
+    ],
+    "enabled": [
+      54
+    ],
+    "identification": [
+      56
+    ],
+    "significant": [
+      58,
+      187,
+      211
+    ],
+    "protein": [
+      59,
+      188
+    ],
+    "relationships": [
+      60
+    ],
+    "indicative": [
+      61
+    ],
+    "each": [
+      63
+    ],
+    "specific": [
+      64
+    ],
+    "glycemic": [
+      65,
+      101,
+      226
+    ],
+    "condition.": [
+      66
+    ],
+    "Our": [
+      67
+    ],
+    "investigation": [
+      68
+    ],
+    "primarily": [
+      69
+    ],
+    "leveraged": [
+      70
+    ],
+    "machine": [
+      72
+    ],
+    "learning": [
+      73
+    ],
+    "approach,": [
+      74
+    ],
+    "employing": [
+      75
+    ],
+    "white-box": [
+      77
+    ],
+    "algorithm": [
+      78
+    ],
+    "relative": [
+      79
+    ],
+    "evolutionary": [
+      80
+    ],
+    "hierarchical": [
+      81
+    ],
+    "(REHA),": [
+      83
+    ],
+    "to": [
+      84,
+      106,
+      126,
+      134,
+      181
+    ],
+    "explore": [
+      85
+    ],
+    "impact": [
+      87
+    ],
+    "regulated,": [
+      89
+    ],
+    "mixed": [
+      90
+    ],
+    "mode": [
+      91
+    ],
+    "exercise": [
+      92,
+      197
+    ],
+    "on": [
+      93,
+      198
+    ],
+    "proteome": [
+      96
+    ],
+    "in": [
+      97,
+      120,
+      160
+    ],
+    "subjects": [
+      98
+    ],
+    "with": [
+      99,
+      151
+    ],
+    "diverse": [
+      100,
+      163
+    ],
+    "status.": [
+      102
+    ],
+    "method": [
+      104
+    ],
+    "aimed": [
+      105
+    ],
+    "advance": [
+      107
+    ],
+    "diagnosis": [
+      109
+    ],
+    "IR": [
+      111,
+      199
+    ],
+    "T2D": [
+      113,
+      201
+    ],
+    "elucidate": [
+      115
+    ],
+    "molecular": [
+      117,
+      184
+    ],
+    "pathways": [
+      118,
+      185
+    ],
+    "involved": [
+      119
+    ],
+    "its": [
+      121,
+      158
+    ],
+    "development": [
+      122
+    ],
+    "response": [
+      125
+    ],
+    "exercise.": [
+      127
+    ],
+    "Additionally,": [
+      128
+    ],
+    "we": [
+      129
+    ],
+    "used": [
+      130
+    ],
+    "proteomics-specific": [
+      131
+    ],
+    "statistical": [
+      132
+    ],
+    "provide": [
+      135
+    ],
+    "comparative": [
+      137
+    ],
+    "perspective,": [
+      138
+    ],
+    "highlighting": [
+      139
+    ],
+    "nuanced": [
+      141
+    ],
+    "differences": [
+      142
+    ],
+    "identified": [
+      143
+    ],
+    "by": [
+      144
+    ],
+    "REHA.": [
+      145
+    ],
+    "Validation": [
+      146
+    ],
+    "REHA": [
+      149
+    ],
+    "model": [
+      150
+    ],
+    "comparable": [
+      153
+    ],
+    "external": [
+      154
+    ],
+    "dataset": [
+      155
+    ],
+    "further": [
+      156
+    ],
+    "demonstrated": [
+      157
+    ],
+    "efficacy": [
+      159
+    ],
+    "distinguishing": [
+      161
+    ],
+    "between": [
+      162,
+      224
+    ],
+    "profiles.": [
+      165
+    ],
+    "Key": [
+      166
+    ],
+    "metrics": [
+      167
+    ],
+    "such": [
+      168
+    ],
+    "as": [
+      169
+    ],
+    "accuracy": [
+      170
+    ],
+    "area": [
+      173
+    ],
+    "under": [
+      174
+    ],
+    "ROC": [
+      176
+    ],
+    "curve": [
+      177
+    ],
+    "confirmed": [
+      178
+    ],
+    "REHA's": [
+      179
+    ],
+    "capability": [
+      180
+    ],
+    "uncover": [
+      182
+    ],
+    "novel": [
+      183
+    ],
+    "interactions,": [
+      189
+    ],
+    "offering": [
+      190
+    ],
+    "fresh": [
+      191
+    ],
+    "insights": [
+      192
+    ],
+    "into": [
+      193
+    ],
+    "effects": [
+      195
+    ],
+    "pathophysiology": [
+      202
+    ],
+    "muscle.": [
+      205
+    ],
+    "visualizations": [
+      207
+    ],
+    "not": [
+      208
+    ],
+    "only": [
+      209
+    ],
+    "underscored": [
+      210
+    ],
+    "proteins": [
+      212
+    ],
+    "their": [
+      214
+    ],
+    "interactions": [
+      215
+    ],
+    "but": [
+      216
+    ],
+    "also": [
+      217
+    ],
+    "showcased": [
+      218
+    ],
+    "decision": [
+      219
+    ],
+    "trees": [
+      220
+    ],
+    "that": [
+      221
+    ],
+    "effectively": [
+      222
+    ],
+    "differentiate": [
+      223
+    ],
+    "various": [
+      225
+    ],
+    "states,": [
+      227
+    ],
+    "thereby": [
+      228
+    ],
+    "enhancing": [
+      229
+    ],
+    "understanding": [
+      231
+    ],
+    "biomolecular": [
+      234
+    ],
+    "landscape": [
+      235
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

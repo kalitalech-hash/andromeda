@@ -1,0 +1,970 @@
+{
+  "id": "https://openalex.org/W4404990980",
+  "doi": "https://doi.org/10.48550/arxiv.2411.18239",
+  "title": "Genetic algorithm as a tool for detection setup optimisation: SiFi-CC case study",
+  "display_name": "Genetic algorithm as a tool for detection setup optimisation: SiFi-CC case study",
+  "publication_year": 2024,
+  "publication_date": "2024-11-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4404990980",
+    "doi": "https://doi.org/10.48550/arxiv.2411.18239"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2411.18239",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2411.18239",
+    "pdf_url": "https://arxiv.org/pdf/2411.18239",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2411.18239",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5111005050",
+        "display_name": "Jonas Kasper",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kasper, Jonas",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5099282560",
+        "display_name": "Awal Awal",
+        "orcid": "https://orcid.org/0009-0003-8607-8051"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Awal, Awal",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037141896",
+        "display_name": "Ronja Hetzel",
+        "orcid": "https://orcid.org/0000-0002-6142-6609"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hetzel, Ronja",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101903654",
+        "display_name": "Magdalena Kołodziej",
+        "orcid": "https://orcid.org/0000-0001-8016-9495"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kołodziej, Magdalena",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053480752",
+        "display_name": "Katarzyna Rusiecka",
+        "orcid": "https://orcid.org/0000-0003-2554-0612"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rusiecka, Katarzyna",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107915874",
+        "display_name": "Achim Stahl",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Stahl, Achim",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068587387",
+        "display_name": "Ming-Liang Wong",
+        "orcid": "https://orcid.org/0000-0002-9530-1222"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wong, Ming-Liang",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5103275204",
+        "display_name": "A. Wrońska",
+        "orcid": "https://orcid.org/0000-0003-0126-3315"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wrońska, Aleksandra",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10624",
+    "display_name": "Silicon and Solar Cell Technologies",
+    "score": 0.7207000255584717,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10624",
+      "display_name": "Silicon and Solar Cell Technologies",
+      "score": 0.7207000255584717,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/genetic-algorithm",
+      "display_name": "Genetic algorithm",
+      "score": 0.49817872047424316
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.48000138998031616
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.402249276638031
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.26430773735046387
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C8880873",
+      "wikidata": "https://www.wikidata.org/wiki/Q187787",
+      "display_name": "Genetic algorithm",
+      "level": 2,
+      "score": 0.49817872047424316
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.48000138998031616
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.402249276638031
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.26430773735046387
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2411.18239",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2411.18239",
+      "pdf_url": "https://arxiv.org/pdf/2411.18239",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2411.18239",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2411.18239",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2411.18239",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2411.18239",
+    "pdf_url": "https://arxiv.org/pdf/2411.18239",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322414",
+      "display_name": "Universität zu Lübeck",
+      "ror": "https://ror.org/00t3r8h32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4404990980.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2051487156",
+    "https://openalex.org/W2073681303",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W4391913857",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W2376932109"
+  ],
+  "abstract_inverted_index": {
+    "Objective:": [
+      0
+    ],
+    "Proton": [
+      1
+    ],
+    "therapy": [
+      2
+    ],
+    "is": [
+      3,
+      14,
+      233
+    ],
+    "a": [
+      4,
+      30,
+      61,
+      92,
+      130,
+      153,
+      161,
+      208,
+      231,
+      234,
+      242
+    ],
+    "precision-focused": [
+      5
+    ],
+    "cancer": [
+      6
+    ],
+    "treatment": [
+      7
+    ],
+    "where": [
+      8
+    ],
+    "accurate": [
+      9
+    ],
+    "proton": [
+      10,
+      156,
+      215,
+      225
+    ],
+    "beam": [
+      11,
+      157,
+      216
+    ],
+    "range": [
+      12,
+      158,
+      217,
+      221
+    ],
+    "monitoring": [
+      13
+    ],
+    "critical": [
+      15
+    ],
+    "to": [
+      16,
+      39,
+      136,
+      151
+    ],
+    "ensure": [
+      17
+    ],
+    "effective": [
+      18
+    ],
+    "dose": [
+      19,
+      54
+    ],
+    "delivery.": [
+      20
+    ],
+    "This": [
+      21,
+      36,
+      199
+    ],
+    "can": [
+      22,
+      210
+    ],
+    "be": [
+      23
+    ],
+    "achieved": [
+      24
+    ],
+    "by": [
+      25
+    ],
+    "prompt": [
+      26,
+      57
+    ],
+    "gamma": [
+      27,
+      58,
+      107,
+      137
+    ],
+    "detection": [
+      28,
+      59,
+      138
+    ],
+    "with": [
+      29,
+      73,
+      91,
+      160,
+      171
+    ],
+    "Compton": [
+      31,
+      49
+    ],
+    "camera": [
+      32,
+      50
+    ],
+    "like": [
+      33
+    ],
+    "the": [
+      34,
+      41,
+      45,
+      74,
+      77,
+      83,
+      97,
+      149,
+      176,
+      181,
+      203,
+      247
+    ],
+    "SiFi-CC.": [
+      35
+    ],
+    "study": [
+      37,
+      200
+    ],
+    "aims": [
+      38
+    ],
+    "show": [
+      40
+    ],
+    "feasibility": [
+      42
+    ],
+    "of": [
+      43,
+      47,
+      53,
+      106,
+      123,
+      196,
+      230,
+      239
+    ],
+    "optimising": [
+      44
+    ],
+    "geometry": [
+      46,
+      244
+    ],
+    "SiFi-CC": [
+      48,
+      67,
+      146,
+      204,
+      243
+    ],
+    "for": [
+      51,
+      71,
+      241
+    ],
+    "verification": [
+      52,
+      222
+    ],
+    "distribution": [
+      55
+    ],
+    "via": [
+      56
+    ],
+    "using": [
+      60,
+      129,
+      165
+    ],
+    "genetic": [
+      62
+    ],
+    "algorithm": [
+      63
+    ],
+    "(GA).": [
+      64
+    ],
+    "Approach:": [
+      65
+    ],
+    "The": [
+      66,
+      86,
+      121,
+      144,
+      168,
+      227
+    ],
+    "key": [
+      68
+    ],
+    "geometric": [
+      69
+    ],
+    "parameters": [
+      70
+    ],
+    "optimisation": [
+      72,
+      87
+    ],
+    "GA": [
+      75,
+      232
+    ],
+    "are": [
+      76
+    ],
+    "source-to-scatterer": [
+      78,
+      183
+    ],
+    "and": [
+      79,
+      82,
+      103,
+      111,
+      118,
+      140,
+      187,
+      236
+    ],
+    "scatterer-to-absorber": [
+      80,
+      188
+    ],
+    "distances,": [
+      81
+    ],
+    "module": [
+      84
+    ],
+    "thicknesses.": [
+      85
+    ],
+    "process": [
+      88
+    ],
+    "was": [
+      89,
+      127
+    ],
+    "conducted": [
+      90
+    ],
+    "software": [
+      93
+    ],
+    "framework": [
+      94
+    ],
+    "based": [
+      95
+    ],
+    "on": [
+      96
+    ],
+    "Geant4": [
+      98
+    ],
+    "toolkit,": [
+      99
+    ],
+    "which": [
+      100
+    ],
+    "included": [
+      101
+    ],
+    "detailed": [
+      102
+    ],
+    "realistic": [
+      104
+    ],
+    "modelling": [
+      105
+    ],
+    "interactions,": [
+      108
+    ],
+    "detector": [
+      109
+    ],
+    "response,": [
+      110
+    ],
+    "further": [
+      112
+    ],
+    "steps": [
+      113
+    ],
+    "such": [
+      114
+    ],
+    "as": [
+      115
+    ],
+    "event": [
+      116
+    ],
+    "selection": [
+      117
+    ],
+    "image": [
+      119,
+      141
+    ],
+    "reconstruction.": [
+      120
+    ],
+    "performance": [
+      122
+    ],
+    "each": [
+      124
+    ],
+    "individual": [
+      125
+    ],
+    "configuration": [
+      126,
+      147
+    ],
+    "evaluated": [
+      128
+    ],
+    "fitness": [
+      131
+    ],
+    "function": [
+      132
+    ],
+    "incorporating": [
+      133
+    ],
+    "factors": [
+      134
+    ],
+    "related": [
+      135
+    ],
+    "efficiency": [
+      139
+    ],
+    "resolution.": [
+      142
+    ],
+    "Results:": [
+      143
+    ],
+    "GA-optimised": [
+      145
+    ],
+    "demonstrated": [
+      148
+    ],
+    "capability": [
+      150
+    ],
+    "detect": [
+      152,
+      212
+    ],
+    "5": [
+      154
+    ],
+    "mm": [
+      155,
+      163,
+      186
+    ],
+    "shift": [
+      159
+    ],
+    "2": [
+      162
+    ],
+    "resolution": [
+      164
+    ],
+    "5e8": [
+      166
+    ],
+    "protons.": [
+      167
+    ],
+    "best-performing": [
+      169
+    ],
+    "geometry,": [
+      170
+    ],
+    "16": [
+      172
+    ],
+    "fibre": [
+      173
+    ],
+    "layers": [
+      174,
+      179
+    ],
+    "in": [
+      175,
+      180,
+      224
+    ],
+    "scatterer,": [
+      177
+    ],
+    "36": [
+      178
+    ],
+    "absorber,": [
+      182
+    ],
+    "distance": [
+      184,
+      189
+    ],
+    "150": [
+      185
+    ],
+    "120": [
+      190
+    ],
+    "mm,": [
+      191
+    ],
+    "has": [
+      192
+    ],
+    "an": [
+      193
+    ],
+    "imaging": [
+      194
+    ],
+    "sensitivity": [
+      195
+    ],
+    "5.58(1)e-5.": [
+      197
+    ],
+    "Significance:": [
+      198
+    ],
+    "demonstrates": [
+      201
+    ],
+    "that": [
+      202,
+      245
+    ],
+    "setup,": [
+      205
+    ],
+    "optimised": [
+      206
+    ],
+    "through": [
+      207
+    ],
+    "GA,": [
+      209
+    ],
+    "reliably": [
+      211
+    ],
+    "clinically": [
+      213
+    ],
+    "relevant": [
+      214
+    ],
+    "shifts,": [
+      218
+    ],
+    "improving": [
+      219
+    ],
+    "real-time": [
+      220
+    ],
+    "accuracy": [
+      223
+    ],
+    "therapy.": [
+      226
+    ],
+    "presented": [
+      228
+    ],
+    "implementation": [
+      229
+    ],
+    "systematic": [
+      235
+    ],
+    "feasible": [
+      237
+    ],
+    "way": [
+      238
+    ],
+    "searching": [
+      240
+    ],
+    "shows": [
+      246
+    ],
+    "best": [
+      248
+    ],
+    "performance.": [
+      249
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,3707 @@
+{
+  "id": "https://openalex.org/W4389236151",
+  "doi": "https://doi.org/10.1016/j.geoderma.2023.116724",
+  "title": "An interlaboratory comparison of mid-infrared spectra acquisition: Instruments and procedures matter",
+  "display_name": "An interlaboratory comparison of mid-infrared spectra acquisition: Instruments and procedures matter",
+  "publication_year": 2023,
+  "publication_date": "2023-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4389236151",
+    "doi": "https://doi.org/10.1016/j.geoderma.2023.116724"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.geoderma.2023.116724",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.geoderma.2023.116724",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S201473135",
+      "display_name": "Geoderma",
+      "issn_l": "0016-7061",
+      "issn": [
+        "0016-7061",
+        "1872-6259"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Geoderma",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.geoderma.2023.116724",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5089626916",
+        "display_name": "José Lucas Safanelli",
+        "orcid": "https://orcid.org/0000-0001-5410-5762"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1313003366",
+          "display_name": "Woodwell Climate Research Center",
+          "ror": "https://ror.org/04cvvej54",
+          "country_code": "US",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I1313003366"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "José L. Safanelli",
+      "raw_affiliation_strings": [
+        "Woodwell Climate Research Center, Falmouth, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Woodwell Climate Research Center, Falmouth, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I1313003366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022853382",
+        "display_name": "Jonathan Sanderman",
+        "orcid": "https://orcid.org/0000-0002-3215-1706"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1313003366",
+          "display_name": "Woodwell Climate Research Center",
+          "ror": "https://ror.org/04cvvej54",
+          "country_code": "US",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I1313003366"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jonathan Sanderman",
+      "raw_affiliation_strings": [
+        "Woodwell Climate Research Center, Falmouth, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Woodwell Climate Research Center, Falmouth, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I1313003366"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036217930",
+        "display_name": "Dellena E. Bloom",
+        "orcid": "https://orcid.org/0000-0002-0598-1747"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I33213144",
+          "display_name": "University of Florida",
+          "ror": "https://ror.org/02y3ad647",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I33213144"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dellena Bloom",
+      "raw_affiliation_strings": [
+        "Department of Environmental Engineering Sciences, University of Florida, Gainesville, FL, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0598-1747",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environmental Engineering Sciences, University of Florida, Gainesville, FL, USA",
+          "institution_ids": [
+            "https://openalex.org/I33213144"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059286326",
+        "display_name": "Katherine EO Todd-Brown",
+        "orcid": "https://orcid.org/0000-0002-3109-8130"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I33213144",
+          "display_name": "University of Florida",
+          "ror": "https://ror.org/02y3ad647",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I33213144"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katherine Todd-Brown",
+      "raw_affiliation_strings": [
+        "Department of Environmental Engineering Sciences, University of Florida, Gainesville, FL, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3109-8130",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environmental Engineering Sciences, University of Florida, Gainesville, FL, USA",
+          "institution_ids": [
+            "https://openalex.org/I33213144"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022678523",
+        "display_name": "Leandro Parente",
+        "orcid": "https://orcid.org/0000-0003-1589-0467"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Leandro L. Parente",
+      "raw_affiliation_strings": [
+        "OpenGeoHub Foundation, Wageningen, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "OpenGeoHub Foundation, Wageningen, the Netherlands",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008884945",
+        "display_name": "Tomislav Hengl",
+        "orcid": "https://orcid.org/0000-0002-9921-5129"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tomislav Hengl",
+      "raw_affiliation_strings": [
+        "OpenGeoHub Foundation, Wageningen, the Netherlands"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9921-5129",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "OpenGeoHub Foundation, Wageningen, the Netherlands",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001182098",
+        "display_name": "Sean Adam",
+        "orcid": "https://orcid.org/0009-0009-8787-706X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I61893789",
+          "display_name": "TU Bergakademie Freiberg",
+          "ror": "https://ror.org/031vc2293",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I61893789"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sean Adam",
+      "raw_affiliation_strings": [
+        "TU Bergakademie Freiberg, Freiberg, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0009-8787-706X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TU Bergakademie Freiberg, Freiberg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I61893789"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084513409",
+        "display_name": "Franck Albinet",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1281029379",
+          "display_name": "International Atomic Energy Agency",
+          "ror": "https://ror.org/02zt1gg83",
+          "country_code": "AT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1281029379"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99464096",
+          "display_name": "KU Leuven",
+          "ror": "https://ror.org/05f950310",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99464096"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Franck Albinet",
+      "raw_affiliation_strings": [
+        "Soil and Water Management Unit, KU Leuven, Leuven, Belgium",
+        "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Soil and Water Management Unit, KU Leuven, Leuven, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I99464096"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria",
+          "institution_ids": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090081227",
+        "display_name": "Eyal Ben Dor",
+        "orcid": "https://orcid.org/0000-0001-6757-3530"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16391192",
+          "display_name": "Tel Aviv University",
+          "ror": "https://ror.org/04mhzgx49",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I16391192"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eyal Ben-Dor",
+      "raw_affiliation_strings": [
+        "Remote Sensing Laboratory, Department of Geography and Human Environment, Porter School of Environment and Earth Science, Tel Aviv University, 69978 Tel Aviv, Israel"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6757-3530",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Remote Sensing Laboratory, Department of Geography and Human Environment, Porter School of Environment and Earth Science, Tel Aviv University, 69978 Tel Aviv, Israel",
+          "institution_ids": [
+            "https://openalex.org/I16391192"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080163793",
+        "display_name": "Claudia M. Boot",
+        "orcid": "https://orcid.org/0000-0002-1487-242X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I92446798",
+          "display_name": "Colorado State University",
+          "ror": "https://ror.org/03k1gpj17",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I92446798"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Claudia M. Boot",
+      "raw_affiliation_strings": [
+        "Department of Chemistry, Colorado State University, Fort Collins, CO, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry, Colorado State University, Fort Collins, CO, USA",
+          "institution_ids": [
+            "https://openalex.org/I92446798"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050474967",
+        "display_name": "James H. Bridson",
+        "orcid": "https://orcid.org/0000-0003-4493-9506"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154136665",
+          "display_name": "Scion",
+          "ror": "https://ror.org/048r72142",
+          "country_code": "NZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I154136665",
+            "https://openalex.org/I4405260297"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "James H. Bridson",
+      "raw_affiliation_strings": [
+        "Scion, Private Bag 3020, Rotorua 3046, New Zealand"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scion, Private Bag 3020, Rotorua 3046, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I154136665"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071624635",
+        "display_name": "Sabine Chabrillat",
+        "orcid": "https://orcid.org/0000-0001-8600-5168"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114112103",
+          "display_name": "Leibniz University Hannover",
+          "ror": "https://ror.org/0304hq317",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114112103"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210152878",
+          "display_name": "GFZ Helmholtz Centre for Geosciences",
+          "ror": "https://ror.org/04z8jg394",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I4210152878"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sabine Chabrillat",
+      "raw_affiliation_strings": [
+        "Helmholtz Center Potsdam GFZ German Research Center for Geosciences, Potsdam, Germany",
+        "Leibniz University Hannover, Institute of Soil Science, Hannover, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8600-5168",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Helmholtz Center Potsdam GFZ German Research Center for Geosciences, Potsdam, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210152878"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leibniz University Hannover, Institute of Soil Science, Hannover, Germany",
+          "institution_ids": [
+            "https://openalex.org/I114112103"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039041166",
+        "display_name": "Leonardo Deiss",
+        "orcid": "https://orcid.org/0000-0003-2001-9238"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I52357470",
+          "display_name": "The Ohio State University",
+          "ror": "https://ror.org/00rs6vg23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I52357470"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Leonardo Deiss",
+      "raw_affiliation_strings": [
+        "The Ohio State University, Wooster, OH, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2001-9238",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Ohio State University, Wooster, OH, USA",
+          "institution_ids": [
+            "https://openalex.org/I52357470"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056213122",
+        "display_name": "José Alexandre Melo Demattê",
+        "orcid": "https://orcid.org/0000-0001-5328-0323"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I17974374",
+          "display_name": "Universidade de São Paulo",
+          "ror": "https://ror.org/036rp1748",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I17974374"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "José A.M. Demattê",
+      "raw_affiliation_strings": [
+        "Luiz de Queiroz College of Agriculture, University of São Paulo, Piracicaba, SP, Brazil"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Luiz de Queiroz College of Agriculture, University of São Paulo, Piracicaba, SP, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I17974374"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042434513",
+        "display_name": "Michael Scott Demyan",
+        "orcid": "https://orcid.org/0000-0001-6198-3774"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I52357470",
+          "display_name": "The Ohio State University",
+          "ror": "https://ror.org/00rs6vg23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I52357470"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Scott Demyan",
+      "raw_affiliation_strings": [
+        "The Ohio State University, Columbus, OH, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Ohio State University, Columbus, OH, USA",
+          "institution_ids": [
+            "https://openalex.org/I52357470"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076282670",
+        "display_name": "Gerd Dercon",
+        "orcid": "https://orcid.org/0000-0002-9561-7219"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1281029379",
+          "display_name": "International Atomic Energy Agency",
+          "ror": "https://ror.org/02zt1gg83",
+          "country_code": "AT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gerd Dercon",
+      "raw_affiliation_strings": [
+        "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria",
+          "institution_ids": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017534237",
+        "display_name": "Sebastian Döetterl",
+        "orcid": "https://orcid.org/0000-0002-0986-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35440088",
+          "display_name": "ETH Zurich",
+          "ror": "https://ror.org/05a28rw58",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799323385",
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastian Doetterl",
+      "raw_affiliation_strings": [
+        "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0986-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069691246",
+        "display_name": "Fenny van Egmond",
+        "orcid": "https://orcid.org/0000-0002-2608-9889"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I31761138",
+          "display_name": "ISRIC - World Soil Information",
+          "ror": "https://ror.org/01z8yfp14",
+          "country_code": "NL",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I31761138"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fenny van Egmond",
+      "raw_affiliation_strings": [
+        "ISRIC World Soil Information, Wageningen, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "ISRIC World Soil Information, Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I31761138"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108637810",
+        "display_name": "Rich Ferguson",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rich Ferguson",
+      "raw_affiliation_strings": [
+        "USDA-NRCS Kellogg Soil Survey Laboratory, Lincoln, NE, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "USDA-NRCS Kellogg Soil Survey Laboratory, Lincoln, NE, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021160231",
+        "display_name": "Loretta G. Garrett",
+        "orcid": "https://orcid.org/0000-0001-7687-6795"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154136665",
+          "display_name": "Scion",
+          "ror": "https://ror.org/048r72142",
+          "country_code": "NZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I154136665",
+            "https://openalex.org/I4405260297"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Loretta G. Garrett",
+      "raw_affiliation_strings": [
+        "Scion, Private Bag 3020, Rotorua 3046, New Zealand"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scion, Private Bag 3020, Rotorua 3046, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I154136665"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065434756",
+        "display_name": "Michelle L. Haddix",
+        "orcid": "https://orcid.org/0000-0003-0984-0404"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173432400",
+          "display_name": "Indian Institute of Soil Science",
+          "ror": "https://ror.org/05j873a45",
+          "country_code": "IN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173432400",
+            "https://openalex.org/I179420787"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I92446798",
+          "display_name": "Colorado State University",
+          "ror": "https://ror.org/03k1gpj17",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I92446798"
+          ]
+        }
+      ],
+      "countries": [
+        "IN",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michelle L. Haddix",
+      "raw_affiliation_strings": [
+        "Department of Soil and Crop Sciences, Colorado State University, Fort Collins, CO, USA",
+        "Division of Soil Physics, ICAR-IISS, Bhopal, India"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Soil and Crop Sciences, Colorado State University, Fort Collins, CO, USA",
+          "institution_ids": [
+            "https://openalex.org/I92446798"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Soil Physics, ICAR-IISS, Bhopal, India",
+          "institution_ids": [
+            "https://openalex.org/I173432400"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063305592",
+        "display_name": "Stephan M. Haefele",
+        "orcid": "https://orcid.org/0000-0003-0389-8373"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2799553609",
+          "display_name": "Rothamsted Research",
+          "ror": "https://ror.org/0347fy350",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2799553609",
+            "https://openalex.org/I2799693246",
+            "https://openalex.org/I4210087105"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stephan M. Haefele",
+      "raw_affiliation_strings": [
+        "r University of Wisconsin-Madison, Madison, WI, USA",
+        "AgroCares Golden Standard Laboratory, Care4Agro B.V., 6709PA Wageningen, the Netherlands",
+        "Sustainable Soils and Crops, Rothamsted Research, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "r University of Wisconsin-Madison, Madison, WI, USA",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "raw_affiliation_string": "AgroCares Golden Standard Laboratory, Care4Agro B.V., 6709PA Wageningen, the Netherlands",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Sustainable Soils and Crops, Rothamsted Research, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799553609"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051558211",
+        "display_name": "Maria Heiling",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1281029379",
+          "display_name": "International Atomic Energy Agency",
+          "ror": "https://ror.org/02zt1gg83",
+          "country_code": "AT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria Heiling",
+      "raw_affiliation_strings": [
+        "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria",
+          "institution_ids": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014831214",
+        "display_name": "Javier Hernández-Allica",
+        "orcid": "https://orcid.org/0000-0002-6122-9381"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2799553609",
+          "display_name": "Rothamsted Research",
+          "ror": "https://ror.org/0347fy350",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2799553609",
+            "https://openalex.org/I2799693246",
+            "https://openalex.org/I4210087105"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Javier Hernandez-Allica",
+      "raw_affiliation_strings": [
+        "r University of Wisconsin-Madison, Madison, WI, USA",
+        "Sustainable Soils and Crops, Rothamsted Research, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6122-9381",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "r University of Wisconsin-Madison, Madison, WI, USA",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sustainable Soils and Crops, Rothamsted Research, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799553609"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021573023",
+        "display_name": "Jingyi Huang",
+        "orcid": "https://orcid.org/0000-0002-1209-9699"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jingyi Huang",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0002-1209-9699",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028836317",
+        "display_name": "Julie Jastrow",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1282105669",
+          "display_name": "Argonne National Laboratory",
+          "ror": "https://ror.org/05gvnxz63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1282105669",
+            "https://openalex.org/I1330989302",
+            "https://openalex.org/I39565521",
+            "https://openalex.org/I40347166"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julie D. Jastrow",
+      "raw_affiliation_strings": [
+        "Environmental Science Division, Argonne National Laboratory, Lemont, IL, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Environmental Science Division, Argonne National Laboratory, Lemont, IL, USA",
+          "institution_ids": [
+            "https://openalex.org/I1282105669"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072034221",
+        "display_name": "Konstantinos Karyotis",
+        "orcid": "https://orcid.org/0000-0003-1190-5772"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I21370196",
+          "display_name": "Aristotle University of Thessaloniki",
+          "ror": "https://ror.org/02j61yw88",
+          "country_code": "GR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I21370196"
+          ]
+        }
+      ],
+      "countries": [
+        "GR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Konstantinos Karyotis",
+      "raw_affiliation_strings": [
+        "Laboratory of Remote Sensing, Spectroscopy, and GIS, Department of Agriculture, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1190-5772",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Remote Sensing, Spectroscopy, and GIS, Department of Agriculture, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece",
+          "institution_ids": [
+            "https://openalex.org/I21370196"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072788905",
+        "display_name": "Megan B. Machmuller",
+        "orcid": "https://orcid.org/0000-0002-0204-3712"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799945547",
+          "display_name": "Connecticut Agricultural Experiment Station",
+          "ror": "https://ror.org/02t7c5797",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799945547"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I92446798",
+          "display_name": "Colorado State University",
+          "ror": "https://ror.org/03k1gpj17",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I92446798"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Megan B. Machmuller",
+      "raw_affiliation_strings": [
+        "Department of Soil and Crop Sciences, Colorado State University, Fort Collins, CO, USA",
+        "Department of Environmental Science and Forestry, Connecticut Agricultural Experiment Station, New Haven, CT, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0204-3712",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Soil and Crop Sciences, Colorado State University, Fort Collins, CO, USA",
+          "institution_ids": [
+            "https://openalex.org/I92446798"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Environmental Science and Forestry, Connecticut Agricultural Experiment Station, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I2799945547"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050333208",
+        "display_name": "Malefetsane Khesuoe",
+        "orcid": "https://orcid.org/0009-0006-1442-7373"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210097703",
+          "display_name": "Lesotho Planned Parenthood Association",
+          "ror": "https://ror.org/00w18ah57",
+          "country_code": "LS",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210097703"
+          ]
+        }
+      ],
+      "countries": [
+        "LS"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Malefetsane Khesuoe",
+      "raw_affiliation_strings": [
+        "Department of Agricultural Research, Maseru, Lesotho"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0006-1442-7373",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Agricultural Research, Maseru, Lesotho",
+          "institution_ids": [
+            "https://openalex.org/I4210097703"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033548666",
+        "display_name": "Andrew J. Margenot",
+        "orcid": "https://orcid.org/0000-0003-0185-8650"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1282105669",
+          "display_name": "Argonne National Laboratory",
+          "ror": "https://ror.org/05gvnxz63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1282105669",
+            "https://openalex.org/I1330989302",
+            "https://openalex.org/I39565521",
+            "https://openalex.org/I40347166"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew Margenot",
+      "raw_affiliation_strings": [
+        "University of Illinois Urbana-Champaign, Urbana, IL, USA",
+        "Environmental Science Division, Argonne National Laboratory, Lemont, IL, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Illinois Urbana-Champaign, Urbana, IL, USA",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Environmental Science Division, Argonne National Laboratory, Lemont, IL, USA",
+          "institution_ids": [
+            "https://openalex.org/I1282105669"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052553589",
+        "display_name": "Roser Matamala",
+        "orcid": "https://orcid.org/0000-0001-5552-9807"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Roser Matamala",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0001-5552-9807",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042380088",
+        "display_name": "Jessica Miesel",
+        "orcid": "https://orcid.org/0000-0001-7446-464X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I87216513",
+          "display_name": "Michigan State University",
+          "ror": "https://ror.org/05hs6h993",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I87216513"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jessica R. Miesel",
+      "raw_affiliation_strings": [
+        "Michigan State University, Department of Plant, Soil and Microbial Sciences, East Lansing, MI, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Michigan State University, Department of Plant, Soil and Microbial Sciences, East Lansing, MI, USA",
+          "institution_ids": [
+            "https://openalex.org/I87216513"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089753073",
+        "display_name": "Abdul Mounem Mouazen",
+        "orcid": "https://orcid.org/0000-0002-0354-0067"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32597200",
+          "display_name": "Ghent University",
+          "ror": "https://ror.org/00cv9y106",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32597200"
+          ]
+        }
+      ],
+      "countries": [
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdul M. Mouazen",
+      "raw_affiliation_strings": [
+        "Department of Environment, Ghent University, Coupure Links 653, 9000 Gent, Belgium"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environment, Ghent University, Coupure Links 653, 9000 Gent, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I32597200"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033960429",
+        "display_name": "Penelope Nagel",
+        "orcid": "https://orcid.org/0000-0001-5307-3025"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114112103",
+          "display_name": "Leibniz University Hannover",
+          "ror": "https://ror.org/0304hq317",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114112103"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Penelope Nagel",
+      "raw_affiliation_strings": [
+        "Leibniz University Hannover, Institute of Soil Science, Hannover, Germany",
+        "Persistence Data Mining Inc., La Jolla, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5307-3025",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leibniz University Hannover, Institute of Soil Science, Hannover, Germany",
+          "institution_ids": [
+            "https://openalex.org/I114112103"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Persistence Data Mining Inc., La Jolla, CA, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Sunita Patel",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154136665",
+          "display_name": "Scion",
+          "ror": "https://ror.org/048r72142",
+          "country_code": "NZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I154136665",
+            "https://openalex.org/I4405260297"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sunita Patel",
+      "raw_affiliation_strings": [
+        "Scion, Private Bag 3020, Rotorua 3046, New Zealand"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scion, Private Bag 3020, Rotorua 3046, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I154136665"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077575614",
+        "display_name": "Muhammad Qaswar",
+        "orcid": "https://orcid.org/0000-0002-0288-6250"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173432400",
+          "display_name": "Indian Institute of Soil Science",
+          "ror": "https://ror.org/05j873a45",
+          "country_code": "IN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173432400",
+            "https://openalex.org/I179420787"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I32597200",
+          "display_name": "Ghent University",
+          "ror": "https://ror.org/00cv9y106",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32597200"
+          ]
+        }
+      ],
+      "countries": [
+        "BE",
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Muhammad Qaswar",
+      "raw_affiliation_strings": [
+        "Division of Soil Physics, ICAR-IISS, Bhopal, India",
+        "Department of Environment, Ghent University, Coupure Links 653, 9000 Gent, Belgium"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0288-6250",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Soil Physics, ICAR-IISS, Bhopal, India",
+          "institution_ids": [
+            "https://openalex.org/I173432400"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Environment, Ghent University, Coupure Links 653, 9000 Gent, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I32597200"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092672570",
+        "display_name": "Selebalo Joseph Ramakhanna",
+        "orcid": "https://orcid.org/0000-0003-3483-2780"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210097703",
+          "display_name": "Lesotho Planned Parenthood Association",
+          "ror": "https://ror.org/00w18ah57",
+          "country_code": "LS",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210097703"
+          ]
+        }
+      ],
+      "countries": [
+        "LS"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Selebalo Ramakhanna",
+      "raw_affiliation_strings": [
+        "Department of Agricultural Research, Maseru, Lesotho"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Agricultural Research, Maseru, Lesotho",
+          "institution_ids": [
+            "https://openalex.org/I4210097703"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108749114",
+        "display_name": "Christian Resch",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1281029379",
+          "display_name": "International Atomic Energy Agency",
+          "ror": "https://ror.org/02zt1gg83",
+          "country_code": "AT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Resch",
+      "raw_affiliation_strings": [
+        "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria",
+          "institution_ids": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086511045",
+        "display_name": "Jean Robertson",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I15477984",
+          "display_name": "James Hutton Institute",
+          "ror": "https://ror.org/03rzp5127",
+          "country_code": "GB",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I15477984"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jean Robertson",
+      "raw_affiliation_strings": [
+        "The James Hutton Institute, Craigiebuckler, Aberdeen AB15 8QH, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The James Hutton Institute, Craigiebuckler, Aberdeen AB15 8QH, UK",
+          "institution_ids": [
+            "https://openalex.org/I15477984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082305151",
+        "display_name": "Pierre Roudier",
+        "orcid": "https://orcid.org/0000-0001-7431-2603"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173432400",
+          "display_name": "Indian Institute of Soil Science",
+          "ror": "https://ror.org/05j873a45",
+          "country_code": "IN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173432400",
+            "https://openalex.org/I179420787"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I86609021",
+          "display_name": "Manaaki Whenua – Landcare Research",
+          "ror": "https://ror.org/02p9cyn66",
+          "country_code": "NZ",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4405260297",
+            "https://openalex.org/I86609021"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I95674353",
+          "display_name": "UCLouvain",
+          "ror": "https://ror.org/02495e989",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I95674353"
+          ]
+        }
+      ],
+      "countries": [
+        "BE",
+        "IN",
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pierre Roudier",
+      "raw_affiliation_strings": [
+        "Division of Soil Physics, ICAR-IISS, Bhopal, India",
+        "Manaaki Whenua -Landcare Research, Private Bag 11052, Manawatū Mail Centre, Palmerston North 4442, New Zealand",
+        "Earth and Life Institute, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7431-2603",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Soil Physics, ICAR-IISS, Bhopal, India",
+          "institution_ids": [
+            "https://openalex.org/I173432400"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Manaaki Whenua -Landcare Research, Private Bag 11052, Manawatū Mail Centre, Palmerston North 4442, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I86609021"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Earth and Life Institute, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I95674353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005322919",
+        "display_name": "Marmar Sabetizade",
+        "orcid": "https://orcid.org/0000-0002-9706-2368"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Marmar Sabetizade",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0002-9706-2368",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060963120",
+        "display_name": "Itamar Shabtai",
+        "orcid": "https://orcid.org/0000-0003-0593-0146"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799945547",
+          "display_name": "Connecticut Agricultural Experiment Station",
+          "ror": "https://ror.org/02t7c5797",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799945547"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I95674353",
+          "display_name": "UCLouvain",
+          "ror": "https://ror.org/02495e989",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I95674353"
+          ]
+        }
+      ],
+      "countries": [
+        "BE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Itamar Shabtai",
+      "raw_affiliation_strings": [
+        "Earth and Life Institute, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium",
+        "Department of Environmental Science and Forestry, Connecticut Agricultural Experiment Station, New Haven, CT, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0593-0146",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Earth and Life Institute, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I95674353"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Environmental Science and Forestry, Connecticut Agricultural Experiment Station, New Haven, CT, USA",
+          "institution_ids": [
+            "https://openalex.org/I2799945547"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053040716",
+        "display_name": "F.G. Sherif",
+        "orcid": "https://orcid.org/0000-0003-4114-7458"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I87216513",
+          "display_name": "Michigan State University",
+          "ror": "https://ror.org/05hs6h993",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I87216513"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I95674353",
+          "display_name": "UCLouvain",
+          "ror": "https://ror.org/02495e989",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I95674353"
+          ]
+        }
+      ],
+      "countries": [
+        "BE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Faisal Sherif",
+      "raw_affiliation_strings": [
+        "Earth and Life Institute, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium",
+        "Michigan State University, Department of Plant, Soil and Microbial Sciences, East Lansing, MI, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4114-7458",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Earth and Life Institute, Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I95674353"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Michigan State University, Department of Plant, Soil and Microbial Sciences, East Lansing, MI, USA",
+          "institution_ids": [
+            "https://openalex.org/I87216513"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010646736",
+        "display_name": "Nishant K. Sinha",
+        "orcid": "https://orcid.org/0000-0002-4157-4620"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173432400",
+          "display_name": "Indian Institute of Soil Science",
+          "ror": "https://ror.org/05j873a45",
+          "country_code": "IN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173432400",
+            "https://openalex.org/I179420787"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nishant Sinha",
+      "raw_affiliation_strings": [
+        "Division of Soil Physics, ICAR-IISS, Bhopal, India"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Soil Physics, ICAR-IISS, Bhopal, India",
+          "institution_ids": [
+            "https://openalex.org/I173432400"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028784852",
+        "display_name": "Johan Six",
+        "orcid": "https://orcid.org/0000-0001-9336-4185"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35440088",
+          "display_name": "ETH Zurich",
+          "ror": "https://ror.org/05a28rw58",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799323385",
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Six",
+      "raw_affiliation_strings": [
+        "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9336-4185",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009450606",
+        "display_name": "Laura Summerauer",
+        "orcid": "https://orcid.org/0000-0002-3836-653X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35440088",
+          "display_name": "ETH Zurich",
+          "ror": "https://ror.org/05a28rw58",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799323385",
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laura Summerauer",
+      "raw_affiliation_strings": [
+        "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3836-653X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059122438",
+        "display_name": "Cathy L. Thomas",
+        "orcid": "https://orcid.org/0000-0002-6320-9923"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2799553609",
+          "display_name": "Rothamsted Research",
+          "ror": "https://ror.org/0347fy350",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2799553609",
+            "https://openalex.org/I2799693246",
+            "https://openalex.org/I4210087105"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cathy L. Thomas",
+      "raw_affiliation_strings": [
+        "r University of Wisconsin-Madison, Madison, WI, USA",
+        "Sustainable Soils and Crops, Rothamsted Research, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "r University of Wisconsin-Madison, Madison, WI, USA",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sustainable Soils and Crops, Rothamsted Research, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799553609"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014302092",
+        "display_name": "Arsenio Toloza",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1281029379",
+          "display_name": "International Atomic Energy Agency",
+          "ror": "https://ror.org/02zt1gg83",
+          "country_code": "AT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Arsenio Toloza",
+      "raw_affiliation_strings": [
+        "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Soil and Water Management and Crop Nutrition Laboratory, Joint FAO/IAEA Centre of Nuclear Techniques in Food and Agriculture, International Atomic Energy Agency, Austria",
+          "institution_ids": [
+            "https://openalex.org/I1281029379"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093397055",
+        "display_name": "Beata Tomczyk-Wójtowicz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Tomczyk-Wójtowicz",
+      "raw_affiliation_strings": [
+        "AgroCares Golden Standard Laboratory, Care4Agro B.V., 6709PA Wageningen, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AgroCares Golden Standard Laboratory, Care4Agro B.V., 6709PA Wageningen, the Netherlands",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041629110",
+        "display_name": "Nikolaos Tsakiridis",
+        "orcid": "https://orcid.org/0000-0002-1904-9029"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nikolaos L. Tsakiridis",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074473373",
+        "display_name": "Bas van Wesemael",
+        "orcid": "https://orcid.org/0000-0003-4007-0241"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35440088",
+          "display_name": "ETH Zurich",
+          "ror": "https://ror.org/05a28rw58",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799323385",
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bas van Wesemael",
+      "raw_affiliation_strings": [
+        "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Environmental Systems Science, ETH Zurich, 8092 Zurich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I35440088"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092019739",
+        "display_name": "Finnleigh S. Woodings",
+        "orcid": "https://orcid.org/0000-0003-1563-093X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Finnleigh Woodings",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0003-1563-093X",
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005613465",
+        "display_name": "George Zalidis",
+        "orcid": "https://orcid.org/0000-0001-8078-2601"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "George C. Zalidis",
+      "raw_affiliation_strings": [],
+      "raw_orcid": "https://orcid.org/0000-0001-8078-2601",
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057871317",
+        "display_name": "Wiktor R. Żelazny",
+        "orcid": "https://orcid.org/0000-0003-0298-8369"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I144280042",
+          "display_name": "Czech Agrifood Research Center",
+          "ror": "https://ror.org/0436mv865",
+          "country_code": "CZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I144280042"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wiktor R. Żelazny",
+      "raw_affiliation_strings": [
+        "Division of Crop Management Systems, Crop Research Institute Praha-Ruzyně, Praha, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Crop Management Systems, Crop Research Institute Praha-Ruzyně, Praha, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I144280042"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 14,
+  "institutions_distinct_count": 54,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5022853382"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1313003366"
+  ],
+  "apc_list": {
+    "value": 2800,
+    "currency": "USD",
+    "value_usd": 2800
+  },
+  "apc_paid": {
+    "value": 2800,
+    "currency": "USD",
+    "value_usd": 2800
+  },
+  "fwci": 2.3754,
+  "has_fulltext": true,
+  "cited_by_count": 21,
+  "citation_normalized_percentile": {
+    "value": 0.88170538,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "440",
+    "issue": null,
+    "first_page": "116724",
+    "last_page": "116724"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10770",
+    "display_name": "Soil Geostatistics and Mapping",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10770",
+      "display_name": "Soil Geostatistics and Mapping",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10640",
+      "display_name": "Spectroscopy and Chemometric Analyses",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1602",
+        "display_name": "Analytical Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10111",
+      "display_name": "Remote Sensing in Agriculture",
+      "score": 0.9958000183105469,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/standardization",
+      "display_name": "Standardization",
+      "score": 0.819332480430603
+    },
+    {
+      "id": "https://openalex.org/keywords/preprocessor",
+      "display_name": "Preprocessor",
+      "score": 0.6945897936820984
+    },
+    {
+      "id": "https://openalex.org/keywords/interoperability",
+      "display_name": "Interoperability",
+      "score": 0.5609048008918762
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.554214596748352
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.37883222103118896
+    },
+    {
+      "id": "https://openalex.org/keywords/remote-sensing",
+      "display_name": "Remote sensing",
+      "score": 0.3701060116291046
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.3688853681087494
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.3664681911468506
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.3127484917640686
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C188087704",
+      "wikidata": "https://www.wikidata.org/wiki/Q369577",
+      "display_name": "Standardization",
+      "level": 2,
+      "score": 0.819332480430603
+    },
+    {
+      "id": "https://openalex.org/C34736171",
+      "wikidata": "https://www.wikidata.org/wiki/Q918333",
+      "display_name": "Preprocessor",
+      "level": 2,
+      "score": 0.6945897936820984
+    },
+    {
+      "id": "https://openalex.org/C20136886",
+      "wikidata": "https://www.wikidata.org/wiki/Q749647",
+      "display_name": "Interoperability",
+      "level": 2,
+      "score": 0.5609048008918762
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.554214596748352
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.37883222103118896
+    },
+    {
+      "id": "https://openalex.org/C62649853",
+      "wikidata": "https://www.wikidata.org/wiki/Q199687",
+      "display_name": "Remote sensing",
+      "level": 1,
+      "score": 0.3701060116291046
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.3688853681087494
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.3664681911468506
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.3127484917640686
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.geoderma.2023.116724",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.geoderma.2023.116724",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S201473135",
+        "display_name": "Geoderma",
+        "issn_l": "0016-7061",
+        "issn": [
+          "0016-7061",
+          "1872-6259"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Geoderma",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:archive.ugent.be:01HMED64TYPA8N1B7KE4QACP4S",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1854/LU-01HMED64TYPA8N1B7KE4QACP4S",
+      "pdf_url": "https://biblio.ugent.be/publication/01HMED64TYPA8N1B7KE4QACP4S/file/01HMH7JXK25G8MCRHC8ZH0MPYT.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400478",
+        "display_name": "Ghent University Academic Bibliography (Ghent University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I32597200",
+        "host_organization_name": "Ghent University",
+        "host_organization_lineage": [
+          "https://openalex.org/I32597200"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ISSN: 1872-6259",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:library.wur.nl:wurpubs/623673",
+      "is_oa": true,
+      "landing_page_url": "https://research.wur.nl/en/publications/an-interlaboratory-comparison-of-mid-infrared-spectra-acquisition",
+      "pdf_url": "https://edepot.wur.nl/645406",
+      "source": {
+        "id": "https://openalex.org/S4210201231",
+        "display_name": "Socio-Environmental Systems Modeling",
+        "issn_l": "2663-3027",
+        "issn": [
+          "2663-3027"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ISSN: 0016-7061",
+      "raw_type": "Article/Letter to editor"
+    },
+    {
+      "id": "pmh:oai:lirias2repo.kuleuven.be:20.500.12942/741237",
+      "is_oa": true,
+      "landing_page_url": "https://lirias.kuleuven.be/handle/20.500.12942/741237",
+      "pdf_url": "https://lirias.kuleuven.be/retrieve/81838b4b-0040-44e3-a014-5a7001cffa30",
+      "source": {
+        "id": "https://openalex.org/S7407055369",
+        "display_name": "Lirias",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Geoderma, vol. 440, Art.No. ARTN 116724",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:osti.gov:2475085",
+      "is_oa": true,
+      "landing_page_url": "https://www.osti.gov/biblio/2475085",
+      "pdf_url": "https://www.osti.gov/servlets/purl/2475085",
+      "source": {
+        "id": "https://openalex.org/S4306402487",
+        "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I139351228",
+        "host_organization_name": "Office of Scientific and Technical Information",
+        "host_organization_lineage": [
+          "https://openalex.org/I139351228"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:1af5c8420c244513834ebe5cf5d3aef5",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/1af5c8420c244513834ebe5cf5d3aef5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Geoderma, Vol 440, Iss , Pp 116724- (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:www.research-collection.ethz.ch:20.500.11850/647256",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/20.500.11850/647256",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402302",
+        "display_name": "Repository for Publications and Research Data (ETH Zurich)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I35440088",
+        "host_organization_name": "ETH Zurich",
+        "host_organization_lineage": [
+          "https://openalex.org/I35440088"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Geoderma, 440",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "doi:10.3929/ethz-b-000647256",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3929/ethz-b-000647256",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051236",
+        "display_name": "ETH Zürich Research Collection",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.geoderma.2023.116724",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.geoderma.2023.116724",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S201473135",
+      "display_name": "Geoderma",
+      "issn_l": "0016-7061",
+      "issn": [
+        "0016-7061",
+        "1872-6259"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Geoderma",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "display_name": "Life in Land",
+      "score": 0.5600000023841858
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1237710113",
+      "display_name": null,
+      "funder_award_id": "2226568",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G1342398140",
+      "display_name": null,
+      "funder_award_id": "BB/X010953",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G1597375268",
+      "display_name": null,
+      "funder_award_id": "BB/X010953/1",
+      "funder_id": "https://openalex.org/F4320332782",
+      "funder_display_name": "Natural Resources Conservation Service"
+    },
+    {
+      "id": "https://openalex.org/G1872843163",
+      "display_name": null,
+      "funder_award_id": "2014-22260-0",
+      "funder_id": "https://openalex.org/F4320320997",
+      "funder_display_name": "Fundação de Amparo à Pesquisa do Estado de São Paulo"
+    },
+    {
+      "id": "https://openalex.org/G2777053550",
+      "display_name": null,
+      "funder_award_id": "AC02-06CH11357",
+      "funder_id": "https://openalex.org/F4320306084",
+      "funder_display_name": "U.S. Department of Energy"
+    },
+    {
+      "id": "https://openalex.org/G2926720356",
+      "display_name": null,
+      "funder_award_id": "32799",
+      "funder_id": "https://openalex.org/F4320332299",
+      "funder_display_name": "National Institute of Food and Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G3311144436",
+      "display_name": null,
+      "funder_award_id": "DE-AC02-06CH11357",
+      "funder_id": "https://openalex.org/F4320337509",
+      "funder_display_name": "Biological and Environmental Research"
+    },
+    {
+      "id": "https://openalex.org/G3571243010",
+      "display_name": null,
+      "funder_award_id": "2020-67021-32467",
+      "funder_id": "https://openalex.org/F4320306114",
+      "funder_display_name": "U.S. Department of Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G3696192573",
+      "display_name": null,
+      "funder_award_id": "RO0423",
+      "funder_id": "https://openalex.org/F4320323938",
+      "funder_display_name": "Ministerstvo Zemědělství"
+    },
+    {
+      "id": "https://openalex.org/G4171885665",
+      "display_name": null,
+      "funder_award_id": "MZE-RO0423",
+      "funder_id": "https://openalex.org/F4320323938",
+      "funder_display_name": "Ministerstvo Zemědělství"
+    },
+    {
+      "id": "https://openalex.org/G4231339250",
+      "display_name": null,
+      "funder_award_id": "2020-67021-32467",
+      "funder_id": "https://openalex.org/F4320332299",
+      "funder_display_name": "National Institute of Food and Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G4233114941",
+      "display_name": null,
+      "funder_award_id": "1024178",
+      "funder_id": "https://openalex.org/F4320332299",
+      "funder_display_name": "National Institute of Food and Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G445468193",
+      "display_name": null,
+      "funder_award_id": "C04X2002",
+      "funder_id": "https://openalex.org/F4320321983",
+      "funder_display_name": "Ministry of Business, Innovation and Employment"
+    },
+    {
+      "id": "https://openalex.org/G4673710487",
+      "display_name": null,
+      "funder_award_id": "BBS/E/C/000I0310",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G498139845",
+      "display_name": null,
+      "funder_award_id": "DE-AC02",
+      "funder_id": "https://openalex.org/F4320332359",
+      "funder_display_name": "Office of Science"
+    },
+    {
+      "id": "https://openalex.org/G5620962805",
+      "display_name": null,
+      "funder_award_id": "67021",
+      "funder_id": "https://openalex.org/F4320332299",
+      "funder_display_name": "National Institute of Food and Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G5636820318",
+      "display_name": null,
+      "funder_award_id": "2021-05129-8",
+      "funder_id": "https://openalex.org/F4320320997",
+      "funder_display_name": "Fundação de Amparo à Pesquisa do Estado de São Paulo"
+    },
+    {
+      "id": "https://openalex.org/G5723064742",
+      "display_name": null,
+      "funder_award_id": "NR193A750025C005",
+      "funder_id": "https://openalex.org/F4320332782",
+      "funder_display_name": "Natural Resources Conservation Service"
+    },
+    {
+      "id": "https://openalex.org/G6021487288",
+      "display_name": null,
+      "funder_award_id": "BBS/E/RH/230003B",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G6542830223",
+      "display_name": null,
+      "funder_award_id": "DE-AC02-06CH11357",
+      "funder_id": "https://openalex.org/F4320306114",
+      "funder_display_name": "U.S. Department of Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G6558272803",
+      "display_name": null,
+      "funder_award_id": "DE-AC02",
+      "funder_id": "https://openalex.org/F4320306084",
+      "funder_display_name": "U.S. Department of Energy"
+    },
+    {
+      "id": "https://openalex.org/G6770826516",
+      "display_name": null,
+      "funder_award_id": "2020-67021-32799",
+      "funder_id": "https://openalex.org/F4320332299",
+      "funder_display_name": "National Institute of Food and Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G6848031779",
+      "display_name": null,
+      "funder_award_id": "06CH11357",
+      "funder_id": "https://openalex.org/F4320306084",
+      "funder_display_name": "U.S. Department of Energy"
+    },
+    {
+      "id": "https://openalex.org/G6918803902",
+      "display_name": null,
+      "funder_award_id": "06CH11357",
+      "funder_id": "https://openalex.org/F4320332359",
+      "funder_display_name": "Office of Science"
+    },
+    {
+      "id": "https://openalex.org/G7351994996",
+      "display_name": null,
+      "funder_award_id": "DE-AC02-06CH11357",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G8143874970",
+      "display_name": null,
+      "funder_award_id": "AC02-06CH11357",
+      "funder_id": "https://openalex.org/F4320332359",
+      "funder_display_name": "Office of Science"
+    },
+    {
+      "id": "https://openalex.org/G8270540398",
+      "display_name": null,
+      "funder_award_id": "193A750025C005",
+      "funder_id": "https://openalex.org/F4320332782",
+      "funder_display_name": "Natural Resources Conservation Service"
+    },
+    {
+      "id": "https://openalex.org/G828699033",
+      "display_name": null,
+      "funder_award_id": "2021-68012-35896",
+      "funder_id": "https://openalex.org/F4320332299",
+      "funder_display_name": "National Institute of Food and Agriculture"
+    },
+    {
+      "id": "https://openalex.org/G847271971",
+      "display_name": null,
+      "funder_award_id": "SCR_021758",
+      "funder_id": "https://openalex.org/F4320310266",
+      "funder_display_name": "Grantham Foundation for the Protection of the Environment"
+    },
+    {
+      "id": "https://openalex.org/G969889393",
+      "display_name": null,
+      "funder_award_id": "DE-AC02-",
+      "funder_id": "https://openalex.org/F4320306084",
+      "funder_display_name": "U.S. Department of Energy"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320306084",
+      "display_name": "U.S. Department of Energy",
+      "ror": "https://ror.org/01bj3aw27"
+    },
+    {
+      "id": "https://openalex.org/F4320306114",
+      "display_name": "U.S. Department of Agriculture",
+      "ror": "https://ror.org/01na82s61"
+    },
+    {
+      "id": "https://openalex.org/F4320310266",
+      "display_name": "Grantham Foundation for the Protection of the Environment",
+      "ror": "https://ror.org/04mm88136"
+    },
+    {
+      "id": "https://openalex.org/F4320312695",
+      "display_name": "Rural and Environment Science and Analytical Services Division",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320313269",
+      "display_name": "Scottish Government",
+      "ror": "https://ror.org/04v2xmd71"
+    },
+    {
+      "id": "https://openalex.org/F4320320997",
+      "display_name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+      "ror": "https://ror.org/02ddkpn78"
+    },
+    {
+      "id": "https://openalex.org/F4320321652",
+      "display_name": "Eidgenössische Technische Hochschule Zürich",
+      "ror": "https://ror.org/05a28rw58"
+    },
+    {
+      "id": "https://openalex.org/F4320321983",
+      "display_name": "Ministry of Business, Innovation and Employment",
+      "ror": "https://ror.org/02jtq1b51"
+    },
+    {
+      "id": "https://openalex.org/F4320322025",
+      "display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "ror": "https://ror.org/03swz6y49"
+    },
+    {
+      "id": "https://openalex.org/F4320322037",
+      "display_name": "Nuclear Safety and Security Commission",
+      "ror": "https://ror.org/05qk3ge34"
+    },
+    {
+      "id": "https://openalex.org/F4320323938",
+      "display_name": "Ministerstvo Zemědělství",
+      "ror": "https://ror.org/049wftm75"
+    },
+    {
+      "id": "https://openalex.org/F4320332167",
+      "display_name": "Directorate for Biological Sciences",
+      "ror": "https://ror.org/001xhss06"
+    },
+    {
+      "id": "https://openalex.org/F4320332299",
+      "display_name": "National Institute of Food and Agriculture",
+      "ror": "https://ror.org/05qx3fv49"
+    },
+    {
+      "id": "https://openalex.org/F4320332359",
+      "display_name": "Office of Science",
+      "ror": "https://ror.org/00mmn6b08"
+    },
+    {
+      "id": "https://openalex.org/F4320332782",
+      "display_name": "Natural Resources Conservation Service",
+      "ror": "https://ror.org/03j7rgg33"
+    },
+    {
+      "id": "https://openalex.org/F4320334629",
+      "display_name": "Biotechnology and Biological Sciences Research Council",
+      "ror": "https://ror.org/00cwqg982"
+    },
+    {
+      "id": "https://openalex.org/F4320337509",
+      "display_name": "Biological and Environmental Research",
+      "ror": "https://ror.org/0114b2m14"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 56,
+  "referenced_works": [
+    "https://openalex.org/W1190219959",
+    "https://openalex.org/W1973273412",
+    "https://openalex.org/W1976877536",
+    "https://openalex.org/W1979539465",
+    "https://openalex.org/W2001804870",
+    "https://openalex.org/W2002316336",
+    "https://openalex.org/W2016090370",
+    "https://openalex.org/W2017422910",
+    "https://openalex.org/W2020541445",
+    "https://openalex.org/W2021117478",
+    "https://openalex.org/W2045858843",
+    "https://openalex.org/W2062634374",
+    "https://openalex.org/W2070216078",
+    "https://openalex.org/W2077076389",
+    "https://openalex.org/W2098722265",
+    "https://openalex.org/W2237592396",
+    "https://openalex.org/W2292439029",
+    "https://openalex.org/W2313339984",
+    "https://openalex.org/W2414372196",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2773146783",
+    "https://openalex.org/W2802544132",
+    "https://openalex.org/W2891822366",
+    "https://openalex.org/W2903091095",
+    "https://openalex.org/W2913854917",
+    "https://openalex.org/W2919315319",
+    "https://openalex.org/W2954919001",
+    "https://openalex.org/W2964048485",
+    "https://openalex.org/W2982914624",
+    "https://openalex.org/W3003881425",
+    "https://openalex.org/W3026024188",
+    "https://openalex.org/W3110515938",
+    "https://openalex.org/W3115642906",
+    "https://openalex.org/W3126937001",
+    "https://openalex.org/W3156629428",
+    "https://openalex.org/W3157113682",
+    "https://openalex.org/W3168119072",
+    "https://openalex.org/W3209223275",
+    "https://openalex.org/W3216374112",
+    "https://openalex.org/W4200285021",
+    "https://openalex.org/W4206733898",
+    "https://openalex.org/W4220809475",
+    "https://openalex.org/W4283511385",
+    "https://openalex.org/W4283821445",
+    "https://openalex.org/W4300882602",
+    "https://openalex.org/W4312106830",
+    "https://openalex.org/W4317555049",
+    "https://openalex.org/W4399577592",
+    "https://openalex.org/W4399611165",
+    "https://openalex.org/W4399648414",
+    "https://openalex.org/W6628746780",
+    "https://openalex.org/W6631046751",
+    "https://openalex.org/W6868589313",
+    "https://openalex.org/W6869140095",
+    "https://openalex.org/W6869645616",
+    "https://openalex.org/W7034449035"
+  ],
+  "related_works": [
+    "https://openalex.org/W2378767206",
+    "https://openalex.org/W1540871478",
+    "https://openalex.org/W328308450",
+    "https://openalex.org/W282641168",
+    "https://openalex.org/W2376963063",
+    "https://openalex.org/W2066396794",
+    "https://openalex.org/W2366734808",
+    "https://openalex.org/W2391444248",
+    "https://openalex.org/W2390716080",
+    "https://openalex.org/W2952736244"
+  ],
+  "abstract_inverted_index": {
+    "Diffuse": [
+      0
+    ],
+    "reflectance": [
+      1
+    ],
+    "spectroscopy": [
+      2,
+      251,
+      267
+    ],
+    "has": [
+      3
+    ],
+    "been": [
+      4,
+      26
+    ],
+    "extensively": [
+      5
+    ],
+    "employed": [
+      6
+    ],
+    "to": [
+      7,
+      58,
+      155,
+      225,
+      229,
+      264
+    ],
+    "deliver": [
+      8
+    ],
+    "timely": [
+      9
+    ],
+    "and": [
+      10,
+      34,
+      40,
+      82,
+      87,
+      91,
+      96,
+      116,
+      132,
+      183,
+      191,
+      215,
+      258
+    ],
+    "cost-effective": [
+      11
+    ],
+    "predictions": [
+      12,
+      107
+    ],
+    "of": [
+      13,
+      16,
+      32,
+      63,
+      72
+    ],
+    "a": [
+      14,
+      53,
+      69,
+      146,
+      194
+    ],
+    "number": [
+      15
+    ],
+    "soil": [
+      17,
+      22,
+      45,
+      266
+    ],
+    "properties.": [
+      18
+    ],
+    "However,": [
+      19,
+      175
+    ],
+    "although": [
+      20
+    ],
+    "several": [
+      21
+    ],
+    "spectral": [
+      23,
+      46,
+      83,
+      125,
+      196,
+      202,
+      230,
+      256
+    ],
+    "laboratories": [
+      24,
+      248
+    ],
+    "have": [
+      25
+    ],
+    "established": [
+      27
+    ],
+    "worldwide,": [
+      28
+    ],
+    "the": [
+      29,
+      60,
+      112,
+      172,
+      179,
+      240,
+      260
+    ],
+    "distinct": [
+      30
+    ],
+    "characteristics": [
+      31,
+      115
+    ],
+    "instruments": [
+      33,
+      104,
+      170,
+      187
+    ],
+    "operations": [
+      35
+    ],
+    "still": [
+      36
+    ],
+    "hamper": [
+      37
+    ],
+    "further": [
+      38
+    ],
+    "integration": [
+      39
+    ],
+    "interoperability": [
+      41
+    ],
+    "across": [
+      42
+    ],
+    "mid-infrared": [
+      43
+    ],
+    "(MIR)": [
+      44
+    ],
+    "libraries.": [
+      47
+    ],
+    "In": [
+      48,
+      238
+    ],
+    "this": [
+      49,
+      93,
+      243
+    ],
+    "study,": [
+      50
+    ],
+    "we": [
+      51,
+      85
+    ],
+    "conducted": [
+      52
+    ],
+    "large-scale": [
+      54
+    ],
+    "ring": [
+      55,
+      185
+    ],
+    "trial": [
+      56,
+      186
+    ],
+    "experiment": [
+      57
+    ],
+    "understand": [
+      59
+    ],
+    "lab-to-lab": [
+      61
+    ],
+    "variability": [
+      62
+    ],
+    "multiple": [
+      64
+    ],
+    "MIR": [
+      65,
+      153,
+      181,
+      255
+    ],
+    "instruments.": [
+      66
+    ],
+    "By": [
+      67
+    ],
+    "developing": [
+      68
+    ],
+    "systematic": [
+      70
+    ],
+    "evaluation": [
+      71
+    ],
+    "different": [
+      73
+    ],
+    "mathematical": [
+      74
+    ],
+    "treatments": [
+      75
+    ],
+    "with": [
+      76,
+      270
+    ],
+    "modeling": [
+      77
+    ],
+    "algorithms,": [
+      78
+    ],
+    "including": [
+      79
+    ],
+    "regular": [
+      80,
+      124,
+      164
+    ],
+    "preprocessing": [
+      81,
+      126,
+      165
+    ],
+    "standardization,": [
+      84
+    ],
+    "quantified": [
+      86
+    ],
+    "evaluated": [
+      88
+    ],
+    "instruments'": [
+      89,
+      114
+    ],
+    "dissimilarity": [
+      90
+    ],
+    "how": [
+      92
+    ],
+    "impacts": [
+      94
+    ],
+    "internal": [
+      95
+    ],
+    "shared": [
+      97,
+      171,
+      273
+    ],
+    "model": [
+      98,
+      143,
+      211
+    ],
+    "performance.": [
+      99
+    ],
+    "We": [
+      100
+    ],
+    "found": [
+      101
+    ],
+    "that": [
+      102,
+      127
+    ],
+    "all": [
+      103
+    ],
+    "delivered": [
+      105,
+      218
+    ],
+    "good": [
+      106,
+      158
+    ],
+    "when": [
+      108
+    ],
+    "calibrated": [
+      109
+    ],
+    "internally": [
+      110
+    ],
+    "using": [
+      111,
+      136
+    ],
+    "same": [
+      113,
+      173
+    ],
+    "standard": [
+      117,
+      137
+    ],
+    "operating": [
+      118,
+      274
+    ],
+    "procedures": [
+      119
+    ],
+    "by": [
+      120,
+      163,
+      193
+    ],
+    "solely": [
+      121
+    ],
+    "relying": [
+      122
+    ],
+    "on": [
+      123
+    ],
+    "accounts": [
+      128
+    ],
+    "for": [
+      129
+    ],
+    "light": [
+      130
+    ],
+    "scattering": [
+      131
+    ],
+    "multiplicative/additive": [
+      133
+    ],
+    "effects,": [
+      134
+    ],
+    "e.g.,": [
+      135
+    ],
+    "normal": [
+      138
+    ],
+    "variate": [
+      139
+    ],
+    "(SNV).": [
+      140
+    ],
+    "When": [
+      141
+    ],
+    "performing": [
+      142
+    ],
+    "transfer": [
+      144
+    ],
+    "from": [
+      145,
+      242
+    ],
+    "large": [
+      147
+    ],
+    "public": [
+      148
+    ],
+    "library": [
+      149,
+      182
+    ],
+    "(the": [
+      150
+    ],
+    "USDA": [
+      151
+    ],
+    "NSSC-KSSL": [
+      152
+    ],
+    "library)": [
+      154
+    ],
+    "secondary": [
+      156
+    ],
+    "instruments,": [
+      157
+    ],
+    "performance": [
+      159
+    ],
+    "was": [
+      160,
+      204
+    ],
+    "also": [
+      161
+    ],
+    "achieved": [
+      162
+    ],
+    "(e.g.,": [
+      166
+    ],
+    "SNV)": [
+      167
+    ],
+    "if": [
+      168
+    ],
+    "both": [
+      169
+    ],
+    "manufacturer.": [
+      174
+    ],
+    "significant": [
+      176
+    ],
+    "differences": [
+      177
+    ],
+    "between": [
+      178
+    ],
+    "KSSL": [
+      180
+    ],
+    "contrasting": [
+      184,
+      200
+    ],
+    "responses": [
+      188
+    ],
+    "were": [
+      189
+    ],
+    "evident": [
+      190
+    ],
+    "confirmed": [
+      192
+    ],
+    "semi-unsupervised": [
+      195
+    ],
+    "clustering.": [
+      197
+    ],
+    "For": [
+      198
+    ],
+    "heavily": [
+      199
+    ],
+    "setups,": [
+      201
+    ],
+    "standardization": [
+      203
+    ],
+    "necessary": [
+      205
+    ],
+    "before": [
+      206
+    ],
+    "transferring": [
+      207
+    ],
+    "prediction": [
+      208
+    ],
+    "models.": [
+      209
+    ],
+    "Non-linear": [
+      210
+    ],
+    "types": [
+      212
+    ],
+    "like": [
+      213
+    ],
+    "Cubist": [
+      214
+    ],
+    "memory-based": [
+      216
+    ],
+    "learning": [
+      217
+    ],
+    "more": [
+      219
+    ],
+    "precise": [
+      220
+    ],
+    "estimates": [
+      221
+    ],
+    "because": [
+      222
+    ],
+    "they": [
+      223
+    ],
+    "seemed": [
+      224
+    ],
+    "be": [
+      226
+    ],
+    "less": [
+      227
+    ],
+    "sensitive": [
+      228
+    ],
+    "variations": [
+      231
+    ],
+    "than": [
+      232
+    ],
+    "global": [
+      233,
+      262
+    ],
+    "partial": [
+      234
+    ],
+    "least": [
+      235
+    ],
+    "square": [
+      236
+    ],
+    "regression.": [
+      237
+    ],
+    "summary,": [
+      239
+    ],
+    "results": [
+      241
+    ],
+    "study": [
+      244
+    ],
+    "can": [
+      245
+    ],
+    "assist": [
+      246
+    ],
+    "new": [
+      247
+    ],
+    "in": [
+      249
+    ],
+    "building": [
+      250
+    ],
+    "capacity": [
+      252
+    ],
+    "utilizing": [
+      253
+    ],
+    "existing": [
+      254
+    ],
+    "libraries": [
+      257
+    ],
+    "support": [
+      259
+    ],
+    "recent": [
+      261
+    ],
+    "efforts": [
+      263
+    ],
+    "make": [
+      265
+    ],
+    "universally": [
+      268
+    ],
+    "accessible": [
+      269
+    ],
+    "centralized": [
+      271
+    ],
+    "or": [
+      272
+    ],
+    "procedures.": [
+      275
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1564 @@
+{
+  "id": "https://openalex.org/W2982615798",
+  "doi": "https://doi.org/10.1101/823682",
+  "title": "Cumulus: a cloud-based data analysis framework for large-scale single-cell and single-nucleus RNA-seq",
+  "display_name": "Cumulus: a cloud-based data analysis framework for large-scale single-cell and single-nucleus RNA-seq",
+  "publication_year": 2019,
+  "publication_date": "2019-10-30",
+  "ids": {
+    "openalex": "https://openalex.org/W2982615798",
+    "doi": "https://doi.org/10.1101/823682",
+    "mag": "2982615798"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/823682",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/823682",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/10/30/823682.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2019/10/30/823682.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100374493",
+        "display_name": "Bo Li",
+        "orcid": "https://orcid.org/0000-0003-0668-1620"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bo Li",
+      "raw_affiliation_strings": [
+        "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02129, USA",
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+        "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 019, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0668-1620",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02129, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 019, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017181752",
+        "display_name": "Joshua Gould",
+        "orcid": "https://orcid.org/0000-0001-9581-5461"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joshua Gould",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003581442",
+        "display_name": "Yiming Yang",
+        "orcid": "https://orcid.org/0000-0002-0386-9428"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yiming Yang",
+      "raw_affiliation_strings": [
+        "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02129, USA",
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+        "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 019, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0386-9428",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02129, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 019, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069956367",
+        "display_name": "Siranush Sarkizova",
+        "orcid": "https://orcid.org/0000-0003-2530-8610"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149717",
+          "display_name": "Center for Cancer Research",
+          "ror": "https://ror.org/05bjen692",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210140884",
+            "https://openalex.org/I4210149717"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Siranush Sarkizova",
+      "raw_affiliation_strings": [
+        "Center for Cancer Research, Massachusetts General Hospital, Boston, Massachusetts 02114, USA",
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, Massachusetts 02115, USA",
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Cancer Research, Massachusetts General Hospital, Boston, Massachusetts 02114, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210149717",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biomedical Informatics, Harvard Medical School, Boston, Massachusetts 02115, USA",
+          "institution_ids": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011787284",
+        "display_name": "Marcin Tabaka",
+        "orcid": "https://orcid.org/0000-0002-6166-2820"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Tabaka",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6166-2820",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026993924",
+        "display_name": "Orr Ashenberg",
+        "orcid": "https://orcid.org/0000-0002-7802-8834"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Orr Ashenberg",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7802-8834",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051148355",
+        "display_name": "Yanay Rosen",
+        "orcid": "https://orcid.org/0000-0003-1129-9645"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yanay Rosen",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079638347",
+        "display_name": "Michal Slyper",
+        "orcid": "https://orcid.org/0000-0002-3002-0366"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Slyper",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003816289",
+        "display_name": "Monika S. Kowalczyk",
+        "orcid": "https://orcid.org/0000-0003-0525-9196"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika S Kowalczyk",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047691305",
+        "display_name": "Alexandra–Chloé Villani",
+        "orcid": "https://orcid.org/0000-0001-7461-0408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149717",
+          "display_name": "Center for Cancer Research",
+          "ror": "https://ror.org/05bjen692",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210140884",
+            "https://openalex.org/I4210149717"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexandra-Chloé Villani",
+      "raw_affiliation_strings": [
+        "Center for Cancer Research, Massachusetts General Hospital, Boston, Massachusetts 02114, USA",
+        "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02129, USA",
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+        "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 019, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7461-0408",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Cancer Research, Massachusetts General Hospital, Boston, Massachusetts 02114, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210149717",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02129, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Immunology and Inflammatory Diseases, Division of Rheumatology, Allergy, and Immunology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 019, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049288816",
+        "display_name": "Timothy L. Tickle",
+        "orcid": "https://orcid.org/0000-0002-6592-6272"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Timothy Tickle",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048859270",
+        "display_name": "Nir Hacohen",
+        "orcid": "https://orcid.org/0000-0002-2349-2656"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149717",
+          "display_name": "Center for Cancer Research",
+          "ror": "https://ror.org/05bjen692",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210140884",
+            "https://openalex.org/I4210149717"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nir Hacohen",
+      "raw_affiliation_strings": [
+        "Center for Cancer Research, Massachusetts General Hospital, Boston, Massachusetts 02114, USA",
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Cancer Research, Massachusetts General Hospital, Boston, Massachusetts 02114, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210149717",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071415389",
+        "display_name": "Orit Rozenblatt–Rosen",
+        "orcid": "https://orcid.org/0000-0001-6313-3570"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Orit Rozenblatt-Rosen",
+      "raw_affiliation_strings": [
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5004067604",
+        "display_name": "Aviv Regev",
+        "orcid": "https://orcid.org/0000-0003-3293-3158"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1344073410",
+          "display_name": "Howard Hughes Medical Institute",
+          "ror": "https://ror.org/006w34k90",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1344073410"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Aviv Regev",
+      "raw_affiliation_strings": [
+        "Howard Hughes Medical Institute, Koch Institute of Integrative Cancer Research, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+        "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Howard Hughes Medical Institute, Koch Institute of Integrative Cancer Research, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+          "institution_ids": [
+            "https://openalex.org/I1344073410",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Klarman Cell Observatory, Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I107606265"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 14,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5004067604",
+    "https://openalex.org/A5071415389",
+    "https://openalex.org/A5100374493"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I107606265",
+    "https://openalex.org/I1344073410",
+    "https://openalex.org/I136199984",
+    "https://openalex.org/I4210087915",
+    "https://openalex.org/I63966007"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 12,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11289",
+    "display_name": "Single-cell and spatial transcriptomics",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11289",
+      "display_name": "Single-cell and spatial transcriptomics",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12859",
+      "display_name": "Cell Image Analysis Techniques",
+      "score": 0.9835000038146973,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1304",
+        "display_name": "Biophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10066",
+      "display_name": "Gut microbiota and health",
+      "score": 0.9642999768257141,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cloud-computing",
+      "display_name": "Cloud computing",
+      "score": 0.7811250686645508
+    },
+    {
+      "id": "https://openalex.org/keywords/scalability",
+      "display_name": "Scalability",
+      "score": 0.7407197952270508
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7066081762313843
+    },
+    {
+      "id": "https://openalex.org/keywords/big-data",
+      "display_name": "Big data",
+      "score": 0.47873732447624207
+    },
+    {
+      "id": "https://openalex.org/keywords/benchmark",
+      "display_name": "Benchmark (surveying)",
+      "score": 0.45888811349868774
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.43772798776626587
+    },
+    {
+      "id": "https://openalex.org/keywords/scale",
+      "display_name": "Scale (ratio)",
+      "score": 0.4144136905670166
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.36648499965667725
+    },
+    {
+      "id": "https://openalex.org/keywords/database",
+      "display_name": "Database",
+      "score": 0.2346629500389099
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.11830517649650574
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C79974875",
+      "wikidata": "https://www.wikidata.org/wiki/Q483639",
+      "display_name": "Cloud computing",
+      "level": 2,
+      "score": 0.7811250686645508
+    },
+    {
+      "id": "https://openalex.org/C48044578",
+      "wikidata": "https://www.wikidata.org/wiki/Q727490",
+      "display_name": "Scalability",
+      "level": 2,
+      "score": 0.7407197952270508
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7066081762313843
+    },
+    {
+      "id": "https://openalex.org/C75684735",
+      "wikidata": "https://www.wikidata.org/wiki/Q858810",
+      "display_name": "Big data",
+      "level": 2,
+      "score": 0.47873732447624207
+    },
+    {
+      "id": "https://openalex.org/C185798385",
+      "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+      "display_name": "Benchmark (surveying)",
+      "level": 2,
+      "score": 0.45888811349868774
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.43772798776626587
+    },
+    {
+      "id": "https://openalex.org/C2778755073",
+      "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+      "display_name": "Scale (ratio)",
+      "level": 2,
+      "score": 0.4144136905670166
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.36648499965667725
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.2346629500389099
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.11830517649650574
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1101/823682",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/823682",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/10/30/823682.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/823682",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/823682",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/10/30/823682.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.44999998807907104,
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2982615798.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2982615798.grobid-xml"
+  },
+  "referenced_works_count": 65,
+  "referenced_works": [
+    "https://openalex.org/W190205155",
+    "https://openalex.org/W1965092590",
+    "https://openalex.org/W1999574084",
+    "https://openalex.org/W2019552331",
+    "https://openalex.org/W2025543856",
+    "https://openalex.org/W2028695285",
+    "https://openalex.org/W2060300932",
+    "https://openalex.org/W2069089843",
+    "https://openalex.org/W2101234009",
+    "https://openalex.org/W2102212449",
+    "https://openalex.org/W2107665951",
+    "https://openalex.org/W2110065044",
+    "https://openalex.org/W2113054345",
+    "https://openalex.org/W2117756735",
+    "https://openalex.org/W2129195182",
+    "https://openalex.org/W2131681506",
+    "https://openalex.org/W2132914434",
+    "https://openalex.org/W2166992705",
+    "https://openalex.org/W2170551349",
+    "https://openalex.org/W2187089797",
+    "https://openalex.org/W2509957998",
+    "https://openalex.org/W2560864399",
+    "https://openalex.org/W2561508962",
+    "https://openalex.org/W2561754210",
+    "https://openalex.org/W2562947047",
+    "https://openalex.org/W2577994754",
+    "https://openalex.org/W2739492614",
+    "https://openalex.org/W2757662681",
+    "https://openalex.org/W2765284830",
+    "https://openalex.org/W2768348081",
+    "https://openalex.org/W2777699329",
+    "https://openalex.org/W2785085486",
+    "https://openalex.org/W2786672974",
+    "https://openalex.org/W2788593837",
+    "https://openalex.org/W2792468812",
+    "https://openalex.org/W2794083495",
+    "https://openalex.org/W2794521141",
+    "https://openalex.org/W2800392236",
+    "https://openalex.org/W2805619986",
+    "https://openalex.org/W2807548554",
+    "https://openalex.org/W2809365568",
+    "https://openalex.org/W2809616137",
+    "https://openalex.org/W2809914540",
+    "https://openalex.org/W2810062864",
+    "https://openalex.org/W2890622637",
+    "https://openalex.org/W2896336686",
+    "https://openalex.org/W2897249806",
+    "https://openalex.org/W2899948177",
+    "https://openalex.org/W2902652978",
+    "https://openalex.org/W2905317377",
+    "https://openalex.org/W2906884244",
+    "https://openalex.org/W2908395709",
+    "https://openalex.org/W2911279170",
+    "https://openalex.org/W2916020270",
+    "https://openalex.org/W2949177718",
+    "https://openalex.org/W2951506174",
+    "https://openalex.org/W2953584518",
+    "https://openalex.org/W2963469388",
+    "https://openalex.org/W2967177832",
+    "https://openalex.org/W2973075426",
+    "https://openalex.org/W3105146463",
+    "https://openalex.org/W3106188259",
+    "https://openalex.org/W3125280081",
+    "https://openalex.org/W4213367101",
+    "https://openalex.org/W4285719527"
+  ],
+  "related_works": [
+    "https://openalex.org/W2378211422",
+    "https://openalex.org/W4390608645",
+    "https://openalex.org/W4405901645",
+    "https://openalex.org/W1982914007",
+    "https://openalex.org/W2159583675",
+    "https://openalex.org/W1824242903",
+    "https://openalex.org/W1493858311",
+    "https://openalex.org/W2155470929",
+    "https://openalex.org/W2111125783",
+    "https://openalex.org/W2394465510"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Massively": [
+      1
+    ],
+    "parallel": [
+      2
+    ],
+    "single-cell": [
+      3
+    ],
+    "and": [
+      4,
+      18,
+      71,
+      97
+    ],
+    "single-nucleus": [
+      5
+    ],
+    "RNA-seq": [
+      6
+    ],
+    "(sc/snRNA-seq)": [
+      7
+    ],
+    "have": [
+      8
+    ],
+    "opened": [
+      9
+    ],
+    "the": [
+      10,
+      22,
+      31,
+      54,
+      84,
+      111
+    ],
+    "way": [
+      11
+    ],
+    "to": [
+      12,
+      64
+    ],
+    "systematic": [
+      13
+    ],
+    "tissue": [
+      14
+    ],
+    "atlases": [
+      15
+    ],
+    "in": [
+      16,
+      61
+    ],
+    "health": [
+      17
+    ],
+    "disease,": [
+      19
+    ],
+    "but": [
+      20
+    ],
+    "as": [
+      21
+    ],
+    "scale": [
+      23,
+      49
+    ],
+    "of": [
+      24,
+      56,
+      78,
+      89,
+      93,
+      113
+    ],
+    "data": [
+      25
+    ],
+    "generation": [
+      26
+    ],
+    "is": [
+      27
+    ],
+    "growing,": [
+      28
+    ],
+    "so": [
+      29
+    ],
+    "does": [
+      30
+    ],
+    "need": [
+      32
+    ],
+    "for": [
+      33,
+      36,
+      46,
+      74
+    ],
+    "computational": [
+      34
+    ],
+    "pipelines": [
+      35
+    ],
+    "scaled": [
+      37
+    ],
+    "analysis.": [
+      38
+    ],
+    "Here,": [
+      39
+    ],
+    "we": [
+      40
+    ],
+    "developed": [
+      41
+    ],
+    "Cumulus,": [
+      42
+    ],
+    "a": [
+      43,
+      75
+    ],
+    "cloud-based": [
+      44
+    ],
+    "framework": [
+      45
+    ],
+    "analyzing": [
+      47
+    ],
+    "large": [
+      48
+    ],
+    "sc/snRNA-seq": [
+      50
+    ],
+    "datasets.": [
+      51
+    ],
+    "Cumulus": [
+      52,
+      82
+    ],
+    "combines": [
+      53
+    ],
+    "power": [
+      55
+    ],
+    "cloud": [
+      57
+    ],
+    "computing": [
+      58
+    ],
+    "with": [
+      59
+    ],
+    "improvements": [
+      60
+    ],
+    "algorithm": [
+      62
+    ],
+    "implementations": [
+      63
+    ],
+    "achieve": [
+      65
+    ],
+    "high": [
+      66
+    ],
+    "scalability,": [
+      67
+    ],
+    "low": [
+      68
+    ],
+    "cost,": [
+      69
+    ],
+    "user-friendliness,": [
+      70
+    ],
+    "integrated": [
+      72
+    ],
+    "support": [
+      73
+    ],
+    "comprehensive": [
+      76
+    ],
+    "set": [
+      77
+    ],
+    "features.": [
+      79
+    ],
+    "We": [
+      80
+    ],
+    "benchmark": [
+      81
+    ],
+    "on": [
+      83
+    ],
+    "Human": [
+      85
+    ],
+    "Cell": [
+      86
+    ],
+    "Atlas": [
+      87
+    ],
+    "Census": [
+      88
+    ],
+    "Immune": [
+      90
+    ],
+    "Cells": [
+      91
+    ],
+    "dataset": [
+      92
+    ],
+    "bone": [
+      94
+    ],
+    "marrow": [
+      95
+    ],
+    "cells": [
+      96
+    ],
+    "show": [
+      98
+    ],
+    "that": [
+      99
+    ],
+    "it": [
+      100
+    ],
+    "substantially": [
+      101
+    ],
+    "improves": [
+      102
+    ],
+    "efficiency": [
+      103
+    ],
+    "over": [
+      104
+    ],
+    "conventional": [
+      105
+    ],
+    "frameworks,": [
+      106
+    ],
+    "while": [
+      107
+    ],
+    "maintaining": [
+      108
+    ],
+    "or": [
+      109
+    ],
+    "improving": [
+      110
+    ],
+    "quality": [
+      112
+    ],
+    "results,": [
+      114
+    ],
+    "enabling": [
+      115
+    ],
+    "large-scale": [
+      116
+    ],
+    "studies.": [
+      117
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

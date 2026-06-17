@@ -1,0 +1,612 @@
+{
+  "id": "https://openalex.org/W4407914150",
+  "doi": "https://doi.org/10.1007/978-3-031-81596-6_5",
+  "title": "Computer Network User Profiling Using Firewall Logs and ANFIS-Based Hybrid Systems",
+  "display_name": "Computer Network User Profiling Using Firewall Logs and ANFIS-Based Hybrid Systems",
+  "publication_year": 2025,
+  "publication_date": "2025-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4407914150",
+    "doi": "https://doi.org/10.1007/978-3-031-81596-6_5"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-031-81596-6_5",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-031-81596-6_5",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106296714",
+      "display_name": "Lecture notes in computer science",
+      "issn_l": "0302-9743",
+      "issn": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Lecture Notes in Computer Science",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5116411951",
+        "display_name": "Piotr Cisowski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210159755",
+          "display_name": "University of Humanities and Economics in Lodz",
+          "ror": "https://ror.org/05ty46q84",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210159755"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Cisowski",
+      "raw_affiliation_strings": [
+        "Lodz Voivodship Office in Lodz, Lodz, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lodz Voivodship Office in Lodz, Lodz, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210159755"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Aneta Maćkiewicz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210136276",
+          "display_name": "NASK National Research Institute",
+          "ror": "https://ror.org/03ajsaw82",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210136276"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aneta Maćkiewicz",
+      "raw_affiliation_strings": [
+        "NASK National Research Institute, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "NASK National Research Institute, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210136276"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5116411952",
+        "display_name": "Łukasz Mikołajczyk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Łukasz Mikołajczyk",
+      "raw_affiliation_strings": [
+        "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057695150",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-1572-3426"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [
+        "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1572-3426",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077565916",
+        "display_name": "Paweł Drozda",
+        "orcid": "https://orcid.org/0000-0003-3163-9408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paweł Drozda",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury, Olsztyn, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3163-9408",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury, Olsztyn, Poland",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5000302987",
+        "display_name": "Kelton Augusto Pontara da Costa",
+        "orcid": "https://orcid.org/0000-0001-5458-3908"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I879563668",
+          "display_name": "Universidade Estadual Paulista (Unesp)",
+          "ror": "https://ror.org/00987cb86",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I879563668"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kelton Augusto Pontara da Costa",
+      "raw_affiliation_strings": [
+        "Department of Computing, São Paulo State University, Bauru, SP, Brazil"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5458-3908",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computing, São Paulo State University, Bauru, SP, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I879563668"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5057695150"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I130294970"
+  ],
+  "apc_list": {
+    "value": 5000,
+    "currency": "EUR",
+    "value_usd": 5392
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.10144259,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "52",
+    "last_page": "64"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10400",
+    "display_name": "Network Security and Intrusion Detection",
+    "score": 0.9993000030517578,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10400",
+      "display_name": "Network Security and Intrusion Detection",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12326",
+      "display_name": "Network Packet Processing and Optimization",
+      "score": 0.9969000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "score": 0.9879000186920166,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8592203259468079
+    },
+    {
+      "id": "https://openalex.org/keywords/firewall",
+      "display_name": "Firewall (physics)",
+      "score": 0.6565371751785278
+    },
+    {
+      "id": "https://openalex.org/keywords/profiling",
+      "display_name": "Profiling (computer programming)",
+      "score": 0.6487702131271362
+    },
+    {
+      "id": "https://openalex.org/keywords/adaptive-neuro-fuzzy-inference-system",
+      "display_name": "Adaptive neuro fuzzy inference system",
+      "score": 0.4587152302265167
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.39894968271255493
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.20631861686706543
+    },
+    {
+      "id": "https://openalex.org/keywords/fuzzy-logic",
+      "display_name": "Fuzzy logic",
+      "score": 0.12657466530799866
+    },
+    {
+      "id": "https://openalex.org/keywords/fuzzy-control-system",
+      "display_name": "Fuzzy control system",
+      "score": 0.08876872062683105
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8592203259468079
+    },
+    {
+      "id": "https://openalex.org/C77714075",
+      "wikidata": "https://www.wikidata.org/wiki/Q5452017",
+      "display_name": "Firewall (physics)",
+      "level": 5,
+      "score": 0.6565371751785278
+    },
+    {
+      "id": "https://openalex.org/C187191949",
+      "wikidata": "https://www.wikidata.org/wiki/Q1138496",
+      "display_name": "Profiling (computer programming)",
+      "level": 2,
+      "score": 0.6487702131271362
+    },
+    {
+      "id": "https://openalex.org/C186108316",
+      "wikidata": "https://www.wikidata.org/wiki/Q352530",
+      "display_name": "Adaptive neuro fuzzy inference system",
+      "level": 4,
+      "score": 0.4587152302265167
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.39894968271255493
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.20631861686706543
+    },
+    {
+      "id": "https://openalex.org/C58166",
+      "wikidata": "https://www.wikidata.org/wiki/Q224821",
+      "display_name": "Fuzzy logic",
+      "level": 2,
+      "score": 0.12657466530799866
+    },
+    {
+      "id": "https://openalex.org/C195975749",
+      "wikidata": "https://www.wikidata.org/wiki/Q1475705",
+      "display_name": "Fuzzy control system",
+      "level": 3,
+      "score": 0.08876872062683105
+    },
+    {
+      "id": "https://openalex.org/C124017977",
+      "wikidata": "https://www.wikidata.org/wiki/Q11412",
+      "display_name": "Gravitation",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C183915046",
+      "wikidata": "https://www.wikidata.org/wiki/Q1316152",
+      "display_name": "Charged black hole",
+      "level": 4,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C115304011",
+      "wikidata": "https://www.wikidata.org/wiki/Q72755",
+      "display_name": "Schwarzschild radius",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C74650414",
+      "wikidata": "https://www.wikidata.org/wiki/Q11397",
+      "display_name": "Classical mechanics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-031-81596-6_5",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-031-81596-6_5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106296714",
+        "display_name": "Lecture notes in computer science",
+        "issn_l": "0302-9743",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Lecture Notes in Computer Science",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.5400000214576721,
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 17,
+  "referenced_works": [
+    "https://openalex.org/W24524376",
+    "https://openalex.org/W655738929",
+    "https://openalex.org/W1633071488",
+    "https://openalex.org/W1853137279",
+    "https://openalex.org/W1892014502",
+    "https://openalex.org/W2019207321",
+    "https://openalex.org/W2089570377",
+    "https://openalex.org/W2122111042",
+    "https://openalex.org/W2407949107",
+    "https://openalex.org/W2480074974",
+    "https://openalex.org/W2741961238",
+    "https://openalex.org/W2756940441",
+    "https://openalex.org/W2882319491",
+    "https://openalex.org/W3036006578",
+    "https://openalex.org/W3206774219",
+    "https://openalex.org/W4214643830",
+    "https://openalex.org/W4308336924"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2114654021",
+    "https://openalex.org/W2263529430",
+    "https://openalex.org/W2389800468",
+    "https://openalex.org/W4390103748",
+    "https://openalex.org/W2763641192",
+    "https://openalex.org/W2150377753",
+    "https://openalex.org/W2392430664"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

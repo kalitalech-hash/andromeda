@@ -1,0 +1,854 @@
+{
+  "id": "https://openalex.org/W1977146073",
+  "doi": "https://doi.org/10.1109/tvlsi.2014.2358678",
+  "title": "T-VEMA: A Temperature- and Variation-Aware Electromigration Power Grid Analysis Tool",
+  "display_name": "T-VEMA: A Temperature- and Variation-Aware Electromigration Power Grid Analysis Tool",
+  "publication_year": 2014,
+  "publication_date": "2014-10-08",
+  "ids": {
+    "openalex": "https://openalex.org/W1977146073",
+    "doi": "https://doi.org/10.1109/tvlsi.2014.2358678",
+    "mag": "1977146073"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/tvlsi.2014.2358678",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/tvlsi.2014.2358678",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S37538908",
+      "display_name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "issn_l": "1063-8210",
+      "issn": [
+        "1063-8210",
+        "1557-9999"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100675442",
+        "display_name": "Dian Li",
+        "orcid": "https://orcid.org/0000-0001-6895-4183"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154570441",
+          "display_name": "University of California, Santa Barbara",
+          "ror": "https://ror.org/02t274463",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Di-An Li",
+      "raw_affiliation_strings": [
+        "Department of Electrical and Computer Engineering, University of California at Santa Barbara, Santa Barbara, CA, USA",
+        "Department of Electrical and Computer Engineering, University of California at Santa Barbara , Santa Barbara, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of California at Santa Barbara, Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of California at Santa Barbara , Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063371595",
+        "display_name": "Malgorzata Marek-Sadowska",
+        "orcid": "https://orcid.org/0000-0002-3934-7031"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154570441",
+          "display_name": "University of California, Santa Barbara",
+          "ror": "https://ror.org/02t274463",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Malgorzata Marek-Sadowska",
+      "raw_affiliation_strings": [
+        "Department of Electrical and Computer Engineering, University of California at Santa Barbara, Santa Barbara, CA, USA",
+        "Department of Electrical and Computer Engineering, University of California at Santa Barbara , Santa Barbara, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of California at Santa Barbara, Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of California at Santa Barbara , Santa Barbara, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I154570441"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5046886936",
+        "display_name": "Sani Nassif",
+        "orcid": "https://orcid.org/0000-0002-5096-4794"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156936",
+          "display_name": "IBM Research - Austin",
+          "ror": "https://ror.org/05gjbbg60",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1341412227",
+            "https://openalex.org/I4210114115",
+            "https://openalex.org/I4210156936"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sani R. Nassif",
+      "raw_affiliation_strings": [
+        "Austin Research Laboratory, IBM Research, Austin, TX, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Austin Research Laboratory, IBM Research, Austin, TX, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210156936"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.4385,
+  "has_fulltext": false,
+  "cited_by_count": 12,
+  "citation_normalized_percentile": {
+    "value": 0.57098664,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "10",
+    "first_page": "2327",
+    "last_page": "2331"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11661",
+    "display_name": "Copper Interconnects and Reliability",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2504",
+      "display_name": "Electronic, Optical and Magnetic Materials"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/25",
+      "display_name": "Materials Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11661",
+      "display_name": "Copper Interconnects and Reliability",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2504",
+        "display_name": "Electronic, Optical and Magnetic Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10472",
+      "display_name": "Semiconductor materials and devices",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10460",
+      "display_name": "Electronic Packaging and Soldering Technologies",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/electromigration",
+      "display_name": "Electromigration",
+      "score": 0.9719760417938232
+    },
+    {
+      "id": "https://openalex.org/keywords/interconnection",
+      "display_name": "Interconnection",
+      "score": 0.7710959315299988
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability",
+      "display_name": "Reliability (semiconductor)",
+      "score": 0.6234682202339172
+    },
+    {
+      "id": "https://openalex.org/keywords/power-grid",
+      "display_name": "Power grid",
+      "score": 0.5725136399269104
+    },
+    {
+      "id": "https://openalex.org/keywords/process-variation",
+      "display_name": "Process variation",
+      "score": 0.5709741115570068
+    },
+    {
+      "id": "https://openalex.org/keywords/chip",
+      "display_name": "Chip",
+      "score": 0.5058012008666992
+    },
+    {
+      "id": "https://openalex.org/keywords/power",
+      "display_name": "Power (physics)",
+      "score": 0.49486058950424194
+    },
+    {
+      "id": "https://openalex.org/keywords/thermal",
+      "display_name": "Thermal",
+      "score": 0.47854289412498474
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.47642573714256287
+    },
+    {
+      "id": "https://openalex.org/keywords/electronic-engineering",
+      "display_name": "Electronic engineering",
+      "score": 0.4397367835044861
+    },
+    {
+      "id": "https://openalex.org/keywords/grid",
+      "display_name": "Grid",
+      "score": 0.41989952325820923
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3249768018722534
+    },
+    {
+      "id": "https://openalex.org/keywords/electrical-engineering",
+      "display_name": "Electrical engineering",
+      "score": 0.31625545024871826
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.21328294277191162
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.15937933325767517
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.10874688625335693
+    },
+    {
+      "id": "https://openalex.org/keywords/voltage",
+      "display_name": "Voltage",
+      "score": 0.10084417462348938
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.08090388774871826
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C138055206",
+      "wikidata": "https://www.wikidata.org/wiki/Q1319010",
+      "display_name": "Electromigration",
+      "level": 2,
+      "score": 0.9719760417938232
+    },
+    {
+      "id": "https://openalex.org/C123745756",
+      "wikidata": "https://www.wikidata.org/wiki/Q1665949",
+      "display_name": "Interconnection",
+      "level": 2,
+      "score": 0.7710959315299988
+    },
+    {
+      "id": "https://openalex.org/C43214815",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+      "display_name": "Reliability (semiconductor)",
+      "level": 3,
+      "score": 0.6234682202339172
+    },
+    {
+      "id": "https://openalex.org/C2983254600",
+      "wikidata": "https://www.wikidata.org/wiki/Q1096907",
+      "display_name": "Power grid",
+      "level": 3,
+      "score": 0.5725136399269104
+    },
+    {
+      "id": "https://openalex.org/C93389723",
+      "wikidata": "https://www.wikidata.org/wiki/Q7247313",
+      "display_name": "Process variation",
+      "level": 3,
+      "score": 0.5709741115570068
+    },
+    {
+      "id": "https://openalex.org/C165005293",
+      "wikidata": "https://www.wikidata.org/wiki/Q1074500",
+      "display_name": "Chip",
+      "level": 2,
+      "score": 0.5058012008666992
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.49486058950424194
+    },
+    {
+      "id": "https://openalex.org/C204530211",
+      "wikidata": "https://www.wikidata.org/wiki/Q752823",
+      "display_name": "Thermal",
+      "level": 2,
+      "score": 0.47854289412498474
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.47642573714256287
+    },
+    {
+      "id": "https://openalex.org/C24326235",
+      "wikidata": "https://www.wikidata.org/wiki/Q126095",
+      "display_name": "Electronic engineering",
+      "level": 1,
+      "score": 0.4397367835044861
+    },
+    {
+      "id": "https://openalex.org/C187691185",
+      "wikidata": "https://www.wikidata.org/wiki/Q2020720",
+      "display_name": "Grid",
+      "level": 2,
+      "score": 0.41989952325820923
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3249768018722534
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.31625545024871826
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.21328294277191162
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.15937933325767517
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.10874688625335693
+    },
+    {
+      "id": "https://openalex.org/C165801399",
+      "wikidata": "https://www.wikidata.org/wiki/Q25428",
+      "display_name": "Voltage",
+      "level": 2,
+      "score": 0.10084417462348938
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.08090388774871826
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/tvlsi.2014.2358678",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/tvlsi.2014.2358678",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S37538908",
+        "display_name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+        "issn_l": "1063-8210",
+        "issn": [
+          "1063-8210",
+          "1557-9999"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G6608730777",
+      "display_name": null,
+      "funder_award_id": "CCF-115663",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 23,
+  "referenced_works": [
+    "https://openalex.org/W1482398762",
+    "https://openalex.org/W1972282962",
+    "https://openalex.org/W1982681545",
+    "https://openalex.org/W1990333732",
+    "https://openalex.org/W2003121593",
+    "https://openalex.org/W2006759753",
+    "https://openalex.org/W2007719944",
+    "https://openalex.org/W2014807883",
+    "https://openalex.org/W2064477270",
+    "https://openalex.org/W2070483253",
+    "https://openalex.org/W2083090974",
+    "https://openalex.org/W2101660309",
+    "https://openalex.org/W2123446492",
+    "https://openalex.org/W2129960401",
+    "https://openalex.org/W2135277685",
+    "https://openalex.org/W2147398188",
+    "https://openalex.org/W2157089032",
+    "https://openalex.org/W2513288844",
+    "https://openalex.org/W3145455670",
+    "https://openalex.org/W3149694916",
+    "https://openalex.org/W4244658250",
+    "https://openalex.org/W6647822113",
+    "https://openalex.org/W6725757480"
+  ],
+  "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W1515275251",
+    "https://openalex.org/W2393079529",
+    "https://openalex.org/W2135610295",
+    "https://openalex.org/W2049570713",
+    "https://openalex.org/W2026062724",
+    "https://openalex.org/W2096748507",
+    "https://openalex.org/W2154797127",
+    "https://openalex.org/W2137441628",
+    "https://openalex.org/W1664474149"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "this": [
+      1
+    ],
+    "brief,": [
+      2
+    ],
+    "a": [
+      3,
+      20,
+      26
+    ],
+    "temperature-": [
+      4
+    ],
+    "and": [
+      5,
+      38,
+      67,
+      70
+    ],
+    "variation-aware": [
+      6
+    ],
+    "electromigration": [
+      7,
+      41
+    ],
+    "analysis": [
+      8,
+      24
+    ],
+    "(T-VEMA)": [
+      9
+    ],
+    "tool": [
+      10,
+      31
+    ],
+    "for": [
+      11
+    ],
+    "power": [
+      12,
+      76
+    ],
+    "grid": [
+      13,
+      77
+    ],
+    "wires": [
+      14,
+      49
+    ],
+    "is": [
+      15
+    ],
+    "described.": [
+      16
+    ],
+    "First,": [
+      17
+    ],
+    "T-VEMA": [
+      18,
+      57
+    ],
+    "performs": [
+      19,
+      39
+    ],
+    "two-stage": [
+      21
+    ],
+    "interconnect": [
+      22
+    ],
+    "thermal": [
+      23,
+      54
+    ],
+    "on": [
+      25,
+      45,
+      50,
+      62
+    ],
+    "full": [
+      27
+    ],
+    "chip.": [
+      28
+    ],
+    "Next,": [
+      29
+    ],
+    "the": [
+      30,
+      33,
+      51
+    ],
+    "extracts": [
+      32
+    ],
+    "effective": [
+      34
+    ],
+    "jL": [
+      35
+    ],
+    "product": [
+      36
+    ],
+    "values": [
+      37
+    ],
+    "an": [
+      40
+    ],
+    "(EM)": [
+      42
+    ],
+    "lifetime": [
+      43
+    ],
+    "calculation": [
+      44
+    ],
+    "ideally": [
+      46
+    ],
+    "manufactured": [
+      47
+    ],
+    "mortal": [
+      48
+    ],
+    "basis": [
+      52
+    ],
+    "of": [
+      53,
+      74
+    ],
+    "effects.": [
+      55
+    ],
+    "Finally,": [
+      56
+    ],
+    "analyzes": [
+      58
+    ],
+    "process": [
+      59
+    ],
+    "variation": [
+      60,
+      72
+    ],
+    "effects": [
+      61
+    ],
+    "EM": [
+      63
+    ],
+    "reliability": [
+      64
+    ],
+    "at": [
+      65
+    ],
+    "global": [
+      66
+    ],
+    "local": [
+      68
+    ],
+    "levels": [
+      69
+    ],
+    "reports": [
+      71
+    ],
+    "tolerances": [
+      73
+    ],
+    "EM-sensitive": [
+      75
+    ],
+    "wires.": [
+      78
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

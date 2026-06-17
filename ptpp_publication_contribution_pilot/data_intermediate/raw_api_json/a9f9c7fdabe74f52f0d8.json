@@ -1,0 +1,923 @@
+{
+  "id": "https://openalex.org/W4285297381",
+  "doi": "https://doi.org/10.1504/ijmms.2022.10048837",
+  "title": "Machine Learning Approaches towards Digital Twin Development for Machining Systems",
+  "display_name": "Machine Learning Approaches towards Digital Twin Development for Machining Systems",
+  "publication_year": 2022,
+  "publication_date": "2022-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4285297381",
+    "doi": "https://doi.org/10.1504/ijmms.2022.10048837"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1504/ijmms.2022.10048837",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+    "pdf_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+    "source": {
+      "id": "https://openalex.org/S171861169",
+      "display_name": "International Journal of Mechatronics and Manufacturing Systems",
+      "issn_l": "1753-1039",
+      "issn": [
+        "1753-1039",
+        "1753-1047"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317825",
+      "host_organization_name": "Inderscience Publishers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317825"
+      ],
+      "host_organization_lineage_names": [
+        "Inderscience Publishers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Mechatronics and Manufacturing Systems",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5075818461",
+        "display_name": "Tuğrul Özel",
+        "orcid": "https://orcid.org/0000-0001-8198-490X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210120452",
+          "display_name": "Industrial Systems and Control (United Kingdom)",
+          "ror": "https://ror.org/033zbpq04",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210120452"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I102322142",
+          "display_name": "Rutgers, The State University of New Jersey",
+          "ror": "https://ror.org/05vt9qd57",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I102322142"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Tugrul Ozel",
+      "raw_affiliation_strings": [
+        "Manufacturing and Automation Research Laboratory, Rutgers University, Piscataway, New Jersey 08854, USA",
+        "Department of Industrial and Systems Engineering,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Manufacturing and Automation Research Laboratory, Rutgers University, Piscataway, New Jersey 08854, USA",
+          "institution_ids": [
+            "https://openalex.org/I102322142"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Industrial and Systems Engineering,",
+          "institution_ids": [
+            "https://openalex.org/I4210120452"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5109772349",
+        "display_name": "Krzysztof Jarosz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210120452",
+          "display_name": "Industrial Systems and Control (United Kingdom)",
+          "ror": "https://ror.org/033zbpq04",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210120452"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I102322142",
+          "display_name": "Rutgers, The State University of New Jersey",
+          "ror": "https://ror.org/05vt9qd57",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I102322142"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Jarosz",
+      "raw_affiliation_strings": [
+        "Manufacturing and Automation Research Laboratory, Rutgers University, Piscataway, New Jersey 08854, USA",
+        "Department of Industrial and Systems Engineering,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Manufacturing and Automation Research Laboratory, Rutgers University, Piscataway, New Jersey 08854, USA",
+          "institution_ids": [
+            "https://openalex.org/I102322142"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Industrial and Systems Engineering,",
+          "institution_ids": [
+            "https://openalex.org/I4210120452"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5075818461"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I102322142",
+    "https://openalex.org/I4210120452"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.2668,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.60754784,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "2/3",
+    "first_page": "1",
+    "last_page": "1"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10763",
+    "display_name": "Digital Transformation in Industry",
+    "score": 0.9830999970436096,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2209",
+      "display_name": "Industrial and Manufacturing Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "score": 0.9830999970436096,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13113",
+      "display_name": "Engineering Technology and Methodologies",
+      "score": 0.9825999736785889,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11159",
+      "display_name": "Manufacturing Process and Optimization",
+      "score": 0.9657999873161316,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/machining",
+      "display_name": "Machining",
+      "score": 0.7563988566398621
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-tool",
+      "display_name": "Machine tool",
+      "score": 0.5574886798858643
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing-engineering",
+      "display_name": "Manufacturing engineering",
+      "score": 0.4940205216407776
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.49163466691970825
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.4460830092430115
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.4323250353336334
+    },
+    {
+      "id": "https://openalex.org/keywords/development",
+      "display_name": "Development (topology)",
+      "score": 0.42794036865234375
+    },
+    {
+      "id": "https://openalex.org/keywords/control-engineering",
+      "display_name": "Control engineering",
+      "score": 0.4124377369880676
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-drawing",
+      "display_name": "Engineering drawing",
+      "score": 0.37514564394950867
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.3187464475631714
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C523214423",
+      "wikidata": "https://www.wikidata.org/wiki/Q192047",
+      "display_name": "Machining",
+      "level": 2,
+      "score": 0.7563988566398621
+    },
+    {
+      "id": "https://openalex.org/C5941749",
+      "wikidata": "https://www.wikidata.org/wiki/Q19768",
+      "display_name": "Machine tool",
+      "level": 2,
+      "score": 0.5574886798858643
+    },
+    {
+      "id": "https://openalex.org/C117671659",
+      "wikidata": "https://www.wikidata.org/wiki/Q11049265",
+      "display_name": "Manufacturing engineering",
+      "level": 1,
+      "score": 0.4940205216407776
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.49163466691970825
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.4460830092430115
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4323250353336334
+    },
+    {
+      "id": "https://openalex.org/C2776542497",
+      "wikidata": "https://www.wikidata.org/wiki/Q5266672",
+      "display_name": "Development (topology)",
+      "level": 2,
+      "score": 0.42794036865234375
+    },
+    {
+      "id": "https://openalex.org/C133731056",
+      "wikidata": "https://www.wikidata.org/wiki/Q4917288",
+      "display_name": "Control engineering",
+      "level": 1,
+      "score": 0.4124377369880676
+    },
+    {
+      "id": "https://openalex.org/C199639397",
+      "wikidata": "https://www.wikidata.org/wiki/Q1788588",
+      "display_name": "Engineering drawing",
+      "level": 1,
+      "score": 0.37514564394950867
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.3187464475631714
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1504/ijmms.2022.10048837",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+      "pdf_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+      "source": {
+        "id": "https://openalex.org/S171861169",
+        "display_name": "International Journal of Mechatronics and Manufacturing Systems",
+        "issn_l": "1753-1039",
+        "issn": [
+          "1753-1039",
+          "1753-1047"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310317825",
+        "host_organization_name": "Inderscience Publishers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310317825"
+        ],
+        "host_organization_lineage_names": [
+          "Inderscience Publishers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Mechatronics and Manufacturing Systems",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1504/ijmms.2022.10048837",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+    "pdf_url": "https://doi.org/10.1504/ijmms.2022.10048837",
+    "source": {
+      "id": "https://openalex.org/S171861169",
+      "display_name": "International Journal of Mechatronics and Manufacturing Systems",
+      "issn_l": "1753-1039",
+      "issn": [
+        "1753-1039",
+        "1753-1047"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317825",
+      "host_organization_name": "Inderscience Publishers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317825"
+      ],
+      "host_organization_lineage_names": [
+        "Inderscience Publishers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Mechatronics and Manufacturing Systems",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.44999998807907104,
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309374",
+      "display_name": "Ohio State University",
+      "ror": "https://ror.org/00rs6vg23"
+    },
+    {
+      "id": "https://openalex.org/F4320324489",
+      "display_name": "Istanbul Teknik Üniversitesi",
+      "ror": "https://ror.org/059636586"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4285297381.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4285297381.grobid-xml"
+  },
+  "referenced_works_count": 24,
+  "referenced_works": [
+    "https://openalex.org/W304241050",
+    "https://openalex.org/W2046074714",
+    "https://openalex.org/W2100495367",
+    "https://openalex.org/W2163605009",
+    "https://openalex.org/W2727938846",
+    "https://openalex.org/W2755214325",
+    "https://openalex.org/W2888663528",
+    "https://openalex.org/W2936666060",
+    "https://openalex.org/W2945357379",
+    "https://openalex.org/W2963278070",
+    "https://openalex.org/W2979485672",
+    "https://openalex.org/W2993032300",
+    "https://openalex.org/W3012041784",
+    "https://openalex.org/W3015487859",
+    "https://openalex.org/W3037946117",
+    "https://openalex.org/W3085976996",
+    "https://openalex.org/W3198901528",
+    "https://openalex.org/W3200173188",
+    "https://openalex.org/W4255825300",
+    "https://openalex.org/W4287811112",
+    "https://openalex.org/W6610763331",
+    "https://openalex.org/W6660690085",
+    "https://openalex.org/W6675407435",
+    "https://openalex.org/W6783119508"
+  ],
+  "related_works": [
+    "https://openalex.org/W2063110400",
+    "https://openalex.org/W3021347297",
+    "https://openalex.org/W2388058536",
+    "https://openalex.org/W2602966457",
+    "https://openalex.org/W3185821938",
+    "https://openalex.org/W2187124704",
+    "https://openalex.org/W354962282",
+    "https://openalex.org/W1999468799",
+    "https://openalex.org/W210834218",
+    "https://openalex.org/W2745100016"
+  ],
+  "abstract_inverted_index": {
+    "Machine": [
+      0
+    ],
+    "learning": [
+      1,
+      132
+    ],
+    "(ML)": [
+      2
+    ],
+    "and": [
+      3,
+      28,
+      48,
+      68,
+      81,
+      92,
+      100,
+      108
+    ],
+    "artificial": [
+      4
+    ],
+    "intelligence": [
+      5
+    ],
+    "(AI)": [
+      6
+    ],
+    "have": [
+      7
+    ],
+    "experienced": [
+      8
+    ],
+    "an": [
+      9
+    ],
+    "increased": [
+      10
+    ],
+    "degree": [
+      11
+    ],
+    "of": [
+      12,
+      30,
+      43,
+      46,
+      66,
+      74,
+      79,
+      85,
+      110,
+      130
+    ],
+    "applications": [
+      13
+    ],
+    "associated": [
+      14
+    ],
+    "with": [
+      15,
+      23,
+      40,
+      94,
+      146
+    ],
+    "Industry": [
+      16
+    ],
+    "4.0.": [
+      17
+    ],
+    "Their": [
+      18
+    ],
+    "effective": [
+      19
+    ],
+    "utilisation": [
+      20,
+      65
+    ],
+    "is": [
+      21,
+      125,
+      143
+    ],
+    "elevated": [
+      22
+    ],
+    "readily": [
+      24
+    ],
+    "available": [
+      25
+    ],
+    "computational": [
+      26
+    ],
+    "power": [
+      27
+    ],
+    "computerisation": [
+      29
+    ],
+    "production": [
+      31,
+      87
+    ],
+    "processes": [
+      32
+    ],
+    "toward": [
+      33
+    ],
+    "digital": [
+      34
+    ],
+    "twin": [
+      35
+    ],
+    "development.": [
+      36
+    ],
+    "This": [
+      37
+    ],
+    "paper": [
+      38
+    ],
+    "begins": [
+      39
+    ],
+    "a": [
+      41,
+      95,
+      116,
+      135,
+      147
+    ],
+    "review": [
+      42
+    ],
+    "the": [
+      44,
+      60,
+      72,
+      141
+    ],
+    "use": [
+      45
+    ],
+    "ML": [
+      47,
+      67,
+      99
+    ],
+    "AI": [
+      49,
+      69,
+      101
+    ],
+    "Methods": [
+      50
+    ],
+    "in": [
+      51,
+      77,
+      134
+    ],
+    "machining": [
+      52
+    ],
+    "applications,": [
+      53
+    ],
+    "using": [
+      54
+    ],
+    "examples": [
+      55
+    ],
+    "from": [
+      56
+    ],
+    "open": [
+      57
+    ],
+    "literature,": [
+      58
+    ],
+    "discussing": [
+      59
+    ],
+    "future": [
+      61
+    ],
+    "perspectives": [
+      62
+    ],
+    "for": [
+      63,
+      119
+    ],
+    "further": [
+      64
+    ],
+    "techniques": [
+      70
+    ],
+    "within": [
+      71
+    ],
+    "scope": [
+      73
+    ],
+    "machining,": [
+      75
+    ],
+    "both": [
+      76
+    ],
+    "terms": [
+      78
+    ],
+    "research": [
+      80
+    ],
+    "industrial": [
+      82
+    ],
+    "applications.": [
+      83
+    ],
+    "Examples": [
+      84
+    ],
+    "computer-aided": [
+      86
+    ],
+    "(CAP)": [
+      88
+    ],
+    "systems": [
+      89
+    ],
+    "are": [
+      90
+    ],
+    "presented": [
+      91
+    ],
+    "compared": [
+      93
+    ],
+    "discussion": [
+      96
+    ],
+    "on": [
+      97
+    ],
+    "how": [
+      98
+    ],
+    "can": [
+      102
+    ],
+    "be": [
+      103
+    ],
+    "applied": [
+      104
+    ],
+    "to": [
+      105
+    ],
+    "improve": [
+      106
+    ],
+    "applicability": [
+      107
+    ],
+    "performance": [
+      109
+    ],
+    "already": [
+      111
+    ],
+    "established": [
+      112
+    ],
+    "software": [
+      113,
+      117,
+      137
+    ],
+    "solutions.": [
+      114
+    ],
+    "Additionally,": [
+      115
+    ],
+    "solution": [
+      118,
+      138
+    ],
+    "numerically": [
+      120
+    ],
+    "controlled": [
+      121
+    ],
+    "(NC)": [
+      122
+    ],
+    "toolpath": [
+      123
+    ],
+    "optimisation": [
+      124
+    ],
+    "shortly": [
+      126
+    ],
+    "presented.": [
+      127
+    ],
+    "Finally,": [
+      128
+    ],
+    "incorporation": [
+      129
+    ],
+    "machine": [
+      131
+    ],
+    "method": [
+      133
+    ],
+    "CAE": [
+      136
+    ],
+    "developed": [
+      139
+    ],
+    "by": [
+      140
+    ],
+    "authors": [
+      142
+    ],
+    "discussed": [
+      144
+    ],
+    "along": [
+      145
+    ],
+    "case": [
+      148
+    ],
+    "study.": [
+      149
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

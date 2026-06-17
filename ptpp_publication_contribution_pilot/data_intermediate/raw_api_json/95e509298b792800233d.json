@@ -1,0 +1,763 @@
+{
+  "id": "https://openalex.org/W4404231969",
+  "doi": "https://doi.org/10.17951/fb.2023.65.45-72",
+  "title": "PRIMO Multi-Search Engine in Selected Polish Libraries – Functionality Analysis",
+  "display_name": "PRIMO Multi-Search Engine in Selected Polish Libraries – Functionality Analysis",
+  "publication_year": 2024,
+  "publication_date": "2024-10-03",
+  "ids": {
+    "openalex": "https://openalex.org/W4404231969",
+    "doi": "https://doi.org/10.17951/fb.2023.65.45-72"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.17951/fb.2023.65.45-72",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.17951/fb.2023.65.45-72",
+    "pdf_url": "https://journals.umcs.pl/fb/article/download/17450/11770",
+    "source": {
+      "id": "https://openalex.org/S4210227602",
+      "display_name": "Folia Bibliologica",
+      "issn_l": "1230-2376",
+      "issn": [
+        "1230-2376",
+        "2449-8246"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Folia Bibliologica",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://journals.umcs.pl/fb/article/download/17450/11770",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5093450327",
+        "display_name": "Anna Babicz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I174183983",
+          "display_name": "Maria Curie-Skłodowska University",
+          "ror": "https://ror.org/015h0qg34",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I174183983"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Anna Babicz",
+      "raw_affiliation_strings": [
+        "Biblioteka Główna Uniwersytet Marii Curie-Skłodowskiej w Lublinie"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1433-009X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Biblioteka Główna Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+          "institution_ids": [
+            "https://openalex.org/I174183983"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5093450327"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I174183983"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.30308915,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "65",
+    "issue": null,
+    "first_page": "45",
+    "last_page": "72"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12863",
+    "display_name": "Web and Library Services",
+    "score": 0.8550999760627747,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12863",
+      "display_name": "Web and Library Services",
+      "score": 0.8550999760627747,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13355",
+      "display_name": "Marketing and Advertising Strategies",
+      "score": 0.7710000276565552,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/search-engine",
+      "display_name": "Search engine",
+      "score": 0.5260784029960632
+    },
+    {
+      "id": "https://openalex.org/keywords/information-retrieval",
+      "display_name": "Information retrieval",
+      "score": 0.498380184173584
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.49257999658584595
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.41452547907829285
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C97854310",
+      "wikidata": "https://www.wikidata.org/wiki/Q19541",
+      "display_name": "Search engine",
+      "level": 2,
+      "score": 0.5260784029960632
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.498380184173584
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.49257999658584595
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.41452547907829285
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.17951/fb.2023.65.45-72",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.17951/fb.2023.65.45-72",
+      "pdf_url": "https://journals.umcs.pl/fb/article/download/17450/11770",
+      "source": {
+        "id": "https://openalex.org/S4210227602",
+        "display_name": "Folia Bibliologica",
+        "issn_l": "1230-2376",
+        "issn": [
+          "1230-2376",
+          "2449-8246"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Folia Bibliologica",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:ojs.umcsd.home.net.pl:article/17450",
+      "is_oa": true,
+      "landing_page_url": "https://journals.umcs.pl/fb/article/view/17450",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402290",
+        "display_name": "Studia Iuridica Lublinensia (Uniwersytet Marii Curie-Skłodowskiej w Lublinie)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I174183983",
+        "host_organization_name": "Maria Curie-Skłodowska University",
+        "host_organization_lineage": [
+          "https://openalex.org/I174183983"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Folia Bibliologica; Vol 65 (2023); 45-72",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.17951/fb.2023.65.45-72",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.17951/fb.2023.65.45-72",
+    "pdf_url": "https://journals.umcs.pl/fb/article/download/17450/11770",
+    "source": {
+      "id": "https://openalex.org/S4210227602",
+      "display_name": "Folia Bibliologica",
+      "issn_l": "1230-2376",
+      "issn": [
+        "1230-2376",
+        "2449-8246"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Folia Bibliologica",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4404231969.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2023370952",
+    "https://openalex.org/W167737004",
+    "https://openalex.org/W1964038241",
+    "https://openalex.org/W2185038817",
+    "https://openalex.org/W2385957133",
+    "https://openalex.org/W3590553",
+    "https://openalex.org/W2004064649",
+    "https://openalex.org/W3141094475",
+    "https://openalex.org/W1974306718"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      44,
+      58,
+      80,
+      108,
+      142,
+      170
+    ],
+    "article": [
+      1
+    ],
+    "presents": [
+      2
+    ],
+    "the": [
+      3,
+      6,
+      23,
+      30,
+      34,
+      40,
+      54,
+      68,
+      103,
+      106,
+      118,
+      126,
+      136,
+      145,
+      150,
+      153,
+      158,
+      168,
+      179,
+      191
+    ],
+    "characteristics": [
+      4
+    ],
+    "of": [
+      5,
+      12,
+      32,
+      42,
+      50,
+      60,
+      70,
+      82,
+      105,
+      120,
+      128,
+      140,
+      144,
+      152,
+      165,
+      186,
+      190
+    ],
+    "PRIMO": [
+      7,
+      55
+    ],
+    "VE": [
+      8
+    ],
+    "interface": [
+      9
+    ],
+    "in": [
+      10,
+      22,
+      37,
+      67,
+      85,
+      167,
+      178
+    ],
+    "terms": [
+      11
+    ],
+    "its": [
+      13
+    ],
+    "functionality.": [
+      14
+    ],
+    "Its": [
+      15
+    ],
+    "features,": [
+      16
+    ],
+    "differences": [
+      17
+    ],
+    "and": [
+      18,
+      39,
+      62,
+      72,
+      94,
+      117,
+      138,
+      163,
+      174,
+      188
+    ],
+    "similarities": [
+      19
+    ],
+    "that": [
+      20,
+      52,
+      97
+    ],
+    "occur": [
+      21
+    ],
+    "examined": [
+      24,
+      192
+    ],
+    "libraries": [
+      25,
+      51
+    ],
+    "were": [
+      26,
+      176
+    ],
+    "discussed,": [
+      27
+    ],
+    "depending": [
+      28,
+      156
+    ],
+    "on": [
+      29,
+      64,
+      75,
+      157
+    ],
+    "types": [
+      31,
+      49
+    ],
+    "libraries,": [
+      33,
+      86
+    ],
+    "library": [
+      35,
+      161,
+      193
+    ],
+    "system": [
+      36,
+      159
+    ],
+    "use,": [
+      38
+    ],
+    "method": [
+      41,
+      164,
+      185
+    ],
+    "implementation.": [
+      43
+    ],
+    "study": [
+      45,
+      146
+    ],
+    "covered": [
+      46
+    ],
+    "twenty": [
+      47
+    ],
+    "different": [
+      48
+    ],
+    "implemented": [
+      53
+    ],
+    "multi-search": [
+      56,
+      154
+    ],
+    "engine.": [
+      57
+    ],
+    "impact": [
+      59,
+      74
+    ],
+    "resources": [
+      61,
+      116
+    ],
+    "metadata": [
+      63
+    ],
+    "their": [
+      65,
+      73
+    ],
+    "presentation": [
+      66
+    ],
+    "form": [
+      69
+    ],
+    "facets/filters": [
+      71
+    ],
+    "search": [
+      76
+    ],
+    "efficiency": [
+      77
+    ],
+    "was": [
+      78,
+      147
+    ],
+    "examined.": [
+      79
+    ],
+    "number": [
+      81,
+      119
+    ],
+    "ranges": [
+      83
+    ],
+    "used": [
+      84,
+      177
+    ],
+    "information": [
+      87
+    ],
+    "about": [
+      88
+    ],
+    "indexed": [
+      89
+    ],
+    "resources,": [
+      90
+    ],
+    "detailed": [
+      91
+    ],
+    "document": [
+      92
+    ],
+    "types,": [
+      93
+    ],
+    "additional": [
+      95
+    ],
+    "functions": [
+      96
+    ],
+    "allow": [
+      98
+    ],
+    "to": [
+      99,
+      148
+    ],
+    "narrow": [
+      100
+    ],
+    "searches": [
+      101
+    ],
+    "affect": [
+      102
+    ],
+    "functionality": [
+      104,
+      151
+    ],
+    "system.": [
+      107
+    ],
+    "conducted": [
+      109
+    ],
+    "queries": [
+      110
+    ],
+    "showed": [
+      111
+    ],
+    "a": [
+      112
+    ],
+    "connection": [
+      113
+    ],
+    "between": [
+      114
+    ],
+    "online": [
+      115
+    ],
+    "obtained": [
+      121
+    ],
+    "results,": [
+      122
+    ],
+    "as": [
+      123,
+      125
+    ],
+    "well": [
+      124
+    ],
+    "impossibility": [
+      127
+    ],
+    "precise": [
+      129
+    ],
+    "narrowing": [
+      130
+    ],
+    "down": [
+      131
+    ],
+    "by": [
+      132,
+      135
+    ],
+    "facets": [
+      133
+    ],
+    "caused": [
+      134
+    ],
+    "quality": [
+      137
+    ],
+    "diversity": [
+      139
+    ],
+    "metadata.": [
+      141
+    ],
+    "aim": [
+      143
+    ],
+    "learn": [
+      149
+    ],
+    "engine": [
+      155
+    ],
+    "version,": [
+      160
+    ],
+    "type,": [
+      162
+    ],
+    "implementation": [
+      166
+    ],
+    "library.": [
+      169
+    ],
+    "following": [
+      171
+    ],
+    "research": [
+      172
+    ],
+    "methods": [
+      173
+    ],
+    "tools": [
+      175
+    ],
+    "study:": [
+      180
+    ],
+    "literature": [
+      181
+    ],
+    "review,": [
+      182
+    ],
+    "cognitive": [
+      183
+    ],
+    "journey,": [
+      184
+    ],
+    "analysis": [
+      187
+    ],
+    "comparison": [
+      189
+    ],
+    "websites.": [
+      194
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

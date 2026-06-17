@@ -1,0 +1,1635 @@
+{
+  "id": "https://openalex.org/W4406154460",
+  "doi": "https://doi.org/10.5194/amt-18-93-2025",
+  "title": "The ratio of transverse to longitudinal turbulent velocity statistics for aircraft measurements",
+  "display_name": "The ratio of transverse to longitudinal turbulent velocity statistics for aircraft measurements",
+  "publication_year": 2025,
+  "publication_date": "2025-01-08",
+  "ids": {
+    "openalex": "https://openalex.org/W4406154460",
+    "doi": "https://doi.org/10.5194/amt-18-93-2025"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5194/amt-18-93-2025",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5194/amt-18-93-2025",
+    "pdf_url": "https://amt.copernicus.org/articles/18/93/2025/amt-18-93-2025.pdf",
+    "source": {
+      "id": "https://openalex.org/S70769875",
+      "display_name": "Atmospheric measurement techniques",
+      "issn_l": "1867-1381",
+      "issn": [
+        "1867-1381",
+        "1867-8548"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310313756",
+      "host_organization_name": "Copernicus Publications",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310313756"
+      ],
+      "host_organization_lineage_names": [
+        "Copernicus Publications"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Atmospheric Measurement Techniques",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://amt.copernicus.org/articles/18/93/2025/amt-18-93-2025.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074114379",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-3179-1576"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135200",
+          "display_name": "Institute of Geophysics Polish Academy of Sciences",
+          "ror": "https://ror.org/04rc9d057",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210135200",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jakub L. Nowak",
+      "raw_affiliation_strings": [
+        "Institute of Geophysics, Faculty of Physics, University of Warsaw, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3179-1576",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Geophysics, Faculty of Physics, University of Warsaw, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613",
+            "https://openalex.org/I4210135200"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087663157",
+        "display_name": "Marie Lothon",
+        "orcid": "https://orcid.org/0000-0001-7280-6300"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I134560555",
+          "display_name": "Université Toulouse III - Paul Sabatier",
+          "ror": "https://ror.org/02v6kpv12",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134560555"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I17866349",
+          "display_name": "Université Fédérale de Toulouse Midi-Pyrénées",
+          "ror": "https://ror.org/004raaa70",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I17866349"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210101581",
+          "display_name": "Laboratoire d'Aérologie",
+          "ror": "https://ror.org/017d9yp59",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1327553481",
+            "https://openalex.org/I154202486",
+            "https://openalex.org/I2799535048",
+            "https://openalex.org/I2802818602",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210090127",
+            "https://openalex.org/I4210091584",
+            "https://openalex.org/I4210101581",
+            "https://openalex.org/I4210113730",
+            "https://openalex.org/I4210131494",
+            "https://openalex.org/I4210148025",
+            "https://openalex.org/I4210166444",
+            "https://openalex.org/I4405257220",
+            "https://openalex.org/I4405258862"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marie Lothon",
+      "raw_affiliation_strings": [
+        "Laboratoire d'AÃ©rologie, University of Toulouse, CNRS, UPS, Toulouse, France",
+        "Laboratoire d'Aérologie, University of Toulouse, CNRS, UPS, Toulouse, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire d'AÃ©rologie, University of Toulouse, CNRS, UPS, Toulouse, France",
+          "institution_ids": [
+            "https://openalex.org/I17866349",
+            "https://openalex.org/I134560555",
+            "https://openalex.org/I4210101581",
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratoire d'Aérologie, University of Toulouse, CNRS, UPS, Toulouse, France",
+          "institution_ids": [
+            "https://openalex.org/I134560555",
+            "https://openalex.org/I4210101581",
+            "https://openalex.org/I1294671590"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059923412",
+        "display_name": "Donald H. Lenschow",
+        "orcid": "https://orcid.org/0000-0003-4353-0098"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107766831",
+          "display_name": "NSF National Center for Atmospheric Research",
+          "ror": "https://ror.org/05cvfcr44",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I107766831",
+            "https://openalex.org/I1311060795",
+            "https://openalex.org/I2799356940",
+            "https://openalex.org/I4210141337",
+            "https://openalex.org/I4210150888"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1311060795",
+          "display_name": "U.S. National Science Foundation",
+          "ror": "https://ror.org/021nxhr62",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1311060795"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Donald H. Lenschow",
+      "raw_affiliation_strings": [
+        "National Science Foundation (NSF) National Center for Atmospheric Research, Boulder, CO, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4353-0098",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Science Foundation (NSF) National Center for Atmospheric Research, Boulder, CO, USA",
+          "institution_ids": [
+            "https://openalex.org/I107766831",
+            "https://openalex.org/I1311060795"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5013316502",
+        "display_name": "Szymon P. Malinowski",
+        "orcid": "https://orcid.org/0000-0003-4987-7017"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135200",
+          "display_name": "Institute of Geophysics Polish Academy of Sciences",
+          "ror": "https://ror.org/04rc9d057",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210135200",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Szymon P. Malinowski",
+      "raw_affiliation_strings": [
+        "Institute of Geophysics, Faculty of Physics, University of Warsaw, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4987-7017",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Geophysics, Faculty of Physics, University of Warsaw, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613",
+            "https://openalex.org/I4210135200"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5013316502",
+    "https://openalex.org/A5059923412",
+    "https://openalex.org/A5074114379",
+    "https://openalex.org/A5087663157"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I107766831",
+    "https://openalex.org/I1294671590",
+    "https://openalex.org/I1311060795",
+    "https://openalex.org/I134560555",
+    "https://openalex.org/I17866349",
+    "https://openalex.org/I4210101581",
+    "https://openalex.org/I4210135200",
+    "https://openalex.org/I4654613"
+  ],
+  "apc_list": {
+    "value": 1470,
+    "currency": "EUR",
+    "value_usd": 1585
+  },
+  "apc_paid": {
+    "value": 1470,
+    "currency": "EUR",
+    "value_usd": 1585
+  },
+  "fwci": 1.7156,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.80521042,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "18",
+    "issue": "1",
+    "first_page": "93",
+    "last_page": "114"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11371",
+    "display_name": "Wind and Air Flow Studies",
+    "score": 0.9990000128746033,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2305",
+      "display_name": "Environmental Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11371",
+      "display_name": "Wind and Air Flow Studies",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10360",
+      "display_name": "Fluid Dynamics and Turbulent Flows",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10347",
+      "display_name": "Atmospheric aerosols and clouds",
+      "score": 0.9922999739646912,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/turbulence",
+      "display_name": "Turbulence",
+      "score": 0.7433373928070068
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.6530834436416626
+    },
+    {
+      "id": "https://openalex.org/keywords/transverse-plane",
+      "display_name": "Transverse plane",
+      "score": 0.6419922113418579
+    },
+    {
+      "id": "https://openalex.org/keywords/scaling",
+      "display_name": "Scaling",
+      "score": 0.6277787685394287
+    },
+    {
+      "id": "https://openalex.org/keywords/power-law",
+      "display_name": "Power law",
+      "score": 0.5849502086639404
+    },
+    {
+      "id": "https://openalex.org/keywords/boundary-layer",
+      "display_name": "Boundary layer",
+      "score": 0.573718786239624
+    },
+    {
+      "id": "https://openalex.org/keywords/isotropy",
+      "display_name": "Isotropy",
+      "score": 0.5450000762939453
+    },
+    {
+      "id": "https://openalex.org/keywords/homogeneous-isotropic-turbulence",
+      "display_name": "Homogeneous isotropic turbulence",
+      "score": 0.5122823119163513
+    },
+    {
+      "id": "https://openalex.org/keywords/exponent",
+      "display_name": "Exponent",
+      "score": 0.4855646789073944
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-physics",
+      "display_name": "Computational physics",
+      "score": 0.4627288579940796
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanics",
+      "display_name": "Mechanics",
+      "score": 0.44906795024871826
+    },
+    {
+      "id": "https://openalex.org/keywords/planetary-boundary-layer",
+      "display_name": "Planetary boundary layer",
+      "score": 0.42270663380622864
+    },
+    {
+      "id": "https://openalex.org/keywords/statistical-physics",
+      "display_name": "Statistical physics",
+      "score": 0.4095609188079834
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.3688330054283142
+    },
+    {
+      "id": "https://openalex.org/keywords/geometry",
+      "display_name": "Geometry",
+      "score": 0.2696338891983032
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.21953827142715454
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.20276102423667908
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.19227558374404907
+    },
+    {
+      "id": "https://openalex.org/keywords/direct-numerical-simulation",
+      "display_name": "Direct numerical simulation",
+      "score": 0.14554321765899658
+    },
+    {
+      "id": "https://openalex.org/keywords/reynolds-number",
+      "display_name": "Reynolds number",
+      "score": 0.09685209393501282
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C196558001",
+      "wikidata": "https://www.wikidata.org/wiki/Q190132",
+      "display_name": "Turbulence",
+      "level": 2,
+      "score": 0.7433373928070068
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.6530834436416626
+    },
+    {
+      "id": "https://openalex.org/C154954056",
+      "wikidata": "https://www.wikidata.org/wiki/Q1604164",
+      "display_name": "Transverse plane",
+      "level": 2,
+      "score": 0.6419922113418579
+    },
+    {
+      "id": "https://openalex.org/C99844830",
+      "wikidata": "https://www.wikidata.org/wiki/Q102441924",
+      "display_name": "Scaling",
+      "level": 2,
+      "score": 0.6277787685394287
+    },
+    {
+      "id": "https://openalex.org/C87040749",
+      "wikidata": "https://www.wikidata.org/wiki/Q428971",
+      "display_name": "Power law",
+      "level": 2,
+      "score": 0.5849502086639404
+    },
+    {
+      "id": "https://openalex.org/C111603439",
+      "wikidata": "https://www.wikidata.org/wiki/Q752193",
+      "display_name": "Boundary layer",
+      "level": 2,
+      "score": 0.573718786239624
+    },
+    {
+      "id": "https://openalex.org/C184050105",
+      "wikidata": "https://www.wikidata.org/wiki/Q273163",
+      "display_name": "Isotropy",
+      "level": 2,
+      "score": 0.5450000762939453
+    },
+    {
+      "id": "https://openalex.org/C2779251355",
+      "wikidata": "https://www.wikidata.org/wiki/Q1626189",
+      "display_name": "Homogeneous isotropic turbulence",
+      "level": 5,
+      "score": 0.5122823119163513
+    },
+    {
+      "id": "https://openalex.org/C2780388253",
+      "wikidata": "https://www.wikidata.org/wiki/Q5421508",
+      "display_name": "Exponent",
+      "level": 2,
+      "score": 0.4855646789073944
+    },
+    {
+      "id": "https://openalex.org/C30475298",
+      "wikidata": "https://www.wikidata.org/wiki/Q909554",
+      "display_name": "Computational physics",
+      "level": 1,
+      "score": 0.4627288579940796
+    },
+    {
+      "id": "https://openalex.org/C57879066",
+      "wikidata": "https://www.wikidata.org/wiki/Q41217",
+      "display_name": "Mechanics",
+      "level": 1,
+      "score": 0.44906795024871826
+    },
+    {
+      "id": "https://openalex.org/C86338904",
+      "wikidata": "https://www.wikidata.org/wiki/Q1757268",
+      "display_name": "Planetary boundary layer",
+      "level": 3,
+      "score": 0.42270663380622864
+    },
+    {
+      "id": "https://openalex.org/C121864883",
+      "wikidata": "https://www.wikidata.org/wiki/Q677916",
+      "display_name": "Statistical physics",
+      "level": 1,
+      "score": 0.4095609188079834
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.3688330054283142
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.2696338891983032
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.21953827142715454
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.20276102423667908
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.19227558374404907
+    },
+    {
+      "id": "https://openalex.org/C18533594",
+      "wikidata": "https://www.wikidata.org/wiki/Q1227572",
+      "display_name": "Direct numerical simulation",
+      "level": 4,
+      "score": 0.14554321765899658
+    },
+    {
+      "id": "https://openalex.org/C182748727",
+      "wikidata": "https://www.wikidata.org/wiki/Q178932",
+      "display_name": "Reynolds number",
+      "level": 3,
+      "score": 0.09685209393501282
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C66938386",
+      "wikidata": "https://www.wikidata.org/wiki/Q633538",
+      "display_name": "Structural engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.5194/amt-18-93-2025",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5194/amt-18-93-2025",
+      "pdf_url": "https://amt.copernicus.org/articles/18/93/2025/amt-18-93-2025.pdf",
+      "source": {
+        "id": "https://openalex.org/S70769875",
+        "display_name": "Atmospheric measurement techniques",
+        "issn_l": "1867-1381",
+        "issn": [
+          "1867-1381",
+          "1867-8548"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310313756",
+        "host_organization_name": "Copernicus Publications",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310313756"
+        ],
+        "host_organization_lineage_names": [
+          "Copernicus Publications"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Atmospheric Measurement Techniques",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:bdc4cf1aff554b57871ec5da78efc444",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/bdc4cf1aff554b57871ec5da78efc444",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Atmospheric Measurement Techniques, Vol 18, Pp 93-114 (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5194/amt-18-93-2025",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5194/amt-18-93-2025",
+    "pdf_url": "https://amt.copernicus.org/articles/18/93/2025/amt-18-93-2025.pdf",
+    "source": {
+      "id": "https://openalex.org/S70769875",
+      "display_name": "Atmospheric measurement techniques",
+      "issn_l": "1867-1381",
+      "issn": [
+        "1867-1381",
+        "1867-8548"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310313756",
+      "host_organization_name": "Copernicus Publications",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310313756"
+      ],
+      "host_organization_lineage_names": [
+        "Copernicus Publications"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Atmospheric Measurement Techniques",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/14",
+      "display_name": "Life below water",
+      "score": 0.8600000143051147
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G234242860",
+      "display_name": null,
+      "funder_award_id": "1852977",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G2494188356",
+      "display_name": null,
+      "funder_award_id": "101003470",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G2868098864",
+      "display_name": null,
+      "funder_award_id": "START050.2022",
+      "funder_id": "https://openalex.org/F4320321042",
+      "funder_display_name": "Fundacja na rzecz Nauki Polskiej"
+    },
+    {
+      "id": "https://openalex.org/G4736197316",
+      "display_name": null,
+      "funder_award_id": "1852977",
+      "funder_id": "https://openalex.org/F4320308377",
+      "funder_display_name": "National Center for Atmospheric Research"
+    },
+    {
+      "id": "https://openalex.org/G7642831999",
+      "display_name": null,
+      "funder_award_id": "101003470",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G7842005466",
+      "display_name": null,
+      "funder_award_id": "Horizon 2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320308377",
+      "display_name": "National Center for Atmospheric Research",
+      "ror": "https://ror.org/05cvfcr44"
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320321042",
+      "display_name": "Fundacja na rzecz Nauki Polskiej",
+      "ror": "https://ror.org/048zd9m77"
+    },
+    {
+      "id": "https://openalex.org/F4320332999",
+      "display_name": "Horizon 2020 Framework Programme",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4406154460.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4406154460.grobid-xml"
+  },
+  "referenced_works_count": 69,
+  "referenced_works": [
+    "https://openalex.org/W624589313",
+    "https://openalex.org/W1629736615",
+    "https://openalex.org/W1648470067",
+    "https://openalex.org/W1667277804",
+    "https://openalex.org/W1854796335",
+    "https://openalex.org/W1965996837",
+    "https://openalex.org/W1974733034",
+    "https://openalex.org/W1974881979",
+    "https://openalex.org/W2006519280",
+    "https://openalex.org/W2012695758",
+    "https://openalex.org/W2014429407",
+    "https://openalex.org/W2019622909",
+    "https://openalex.org/W2020201949",
+    "https://openalex.org/W2025126822",
+    "https://openalex.org/W2026932305",
+    "https://openalex.org/W2028534424",
+    "https://openalex.org/W2030791253",
+    "https://openalex.org/W2030821364",
+    "https://openalex.org/W2034631647",
+    "https://openalex.org/W2043319540",
+    "https://openalex.org/W2045230195",
+    "https://openalex.org/W2060562515",
+    "https://openalex.org/W2061815382",
+    "https://openalex.org/W2069789526",
+    "https://openalex.org/W2079844187",
+    "https://openalex.org/W2085202264",
+    "https://openalex.org/W2088078863",
+    "https://openalex.org/W2089038030",
+    "https://openalex.org/W2089295919",
+    "https://openalex.org/W2097744787",
+    "https://openalex.org/W2106822551",
+    "https://openalex.org/W2114388830",
+    "https://openalex.org/W2120057787",
+    "https://openalex.org/W2121469616",
+    "https://openalex.org/W2142118761",
+    "https://openalex.org/W2144873597",
+    "https://openalex.org/W2146631817",
+    "https://openalex.org/W2148720601",
+    "https://openalex.org/W2150067632",
+    "https://openalex.org/W2150427469",
+    "https://openalex.org/W2156514466",
+    "https://openalex.org/W2156743984",
+    "https://openalex.org/W2170725033",
+    "https://openalex.org/W2293472978",
+    "https://openalex.org/W2724426447",
+    "https://openalex.org/W2724809336",
+    "https://openalex.org/W2795756111",
+    "https://openalex.org/W2921120881",
+    "https://openalex.org/W3005622665",
+    "https://openalex.org/W3081355193",
+    "https://openalex.org/W3122990902",
+    "https://openalex.org/W3135572245",
+    "https://openalex.org/W3139372107",
+    "https://openalex.org/W4211083409",
+    "https://openalex.org/W4229799460",
+    "https://openalex.org/W4233275530",
+    "https://openalex.org/W4250277198",
+    "https://openalex.org/W4281647970",
+    "https://openalex.org/W4284712540",
+    "https://openalex.org/W4295138504",
+    "https://openalex.org/W4399356419",
+    "https://openalex.org/W4403218410",
+    "https://openalex.org/W6892201255",
+    "https://openalex.org/W6908510386",
+    "https://openalex.org/W6926500993",
+    "https://openalex.org/W6945755860",
+    "https://openalex.org/W6948209013",
+    "https://openalex.org/W6964659327",
+    "https://openalex.org/W6967540719"
+  ],
+  "related_works": [
+    "https://openalex.org/W1994753018",
+    "https://openalex.org/W2386091227",
+    "https://openalex.org/W2026675405",
+    "https://openalex.org/W2088835066",
+    "https://openalex.org/W2008499310",
+    "https://openalex.org/W5208102",
+    "https://openalex.org/W4378214560",
+    "https://openalex.org/W1990590585",
+    "https://openalex.org/W2163092743",
+    "https://openalex.org/W2017291714"
+  ],
+  "abstract_inverted_index": {
+    "Abstract.": [
+      0
+    ],
+    "The": [
+      1,
+      61,
+      133,
+      172,
+      188,
+      207,
+      240,
+      278,
+      301
+    ],
+    "classical": [
+      2
+    ],
+    "theory": [
+      3,
+      314
+    ],
+    "of": [
+      4,
+      12,
+      48,
+      63,
+      71,
+      121,
+      162,
+      219,
+      224,
+      242
+    ],
+    "homogeneous": [
+      5
+    ],
+    "isotropic": [
+      6
+    ],
+    "turbulence": [
+      7,
+      32,
+      107
+    ],
+    "predicts": [
+      8,
+      40
+    ],
+    "that": [
+      9
+    ],
+    "the": [
+      10,
+      26,
+      30,
+      35,
+      53,
+      57,
+      69,
+      89,
+      92,
+      96,
+      100,
+      122,
+      137,
+      148,
+      153,
+      159,
+      163,
+      182,
+      191,
+      198,
+      220,
+      238,
+      249,
+      304,
+      310,
+      313
+    ],
+    "ratio": [
+      11
+    ],
+    "transverse": [
+      13
+    ],
+    "to": [
+      14,
+      23,
+      67,
+      147,
+      152,
+      196,
+      210,
+      248,
+      256,
+      266,
+      294
+    ],
+    "longitudinal": [
+      15
+    ],
+    "structure": [
+      16,
+      54,
+      149,
+      260
+    ],
+    "functions": [
+      17,
+      55,
+      150,
+      261
+    ],
+    "or": [
+      18
+    ],
+    "power": [
+      19,
+      42,
+      58,
+      144,
+      154,
+      270
+    ],
+    "spectra": [
+      20,
+      155
+    ],
+    "is": [
+      21,
+      66
+    ],
+    "equal": [
+      22
+    ],
+    "4/3": [
+      24,
+      288
+    ],
+    "in": [
+      25,
+      34,
+      104,
+      118,
+      168,
+      190,
+      292,
+      306
+    ],
+    "inertial": [
+      27,
+      36,
+      138
+    ],
+    "subrange.": [
+      28
+    ],
+    "For": [
+      29
+    ],
+    "typical": [
+      31
+    ],
+    "cascade": [
+      33
+    ],
+    "subrange,": [
+      37
+    ],
+    "it": [
+      38
+    ],
+    "also": [
+      39
+    ],
+    "a": [
+      41
+    ],
+    "law": [
+      43,
+      145
+    ],
+    "scaling": [
+      44,
+      101,
+      244
+    ],
+    "with": [
+      45,
+      246,
+      289
+    ],
+    "an": [
+      46
+    ],
+    "exponent": [
+      47
+    ],
+    "+2/3": [
+      49
+    ],
+    "and": [
+      50,
+      56,
+      74,
+      86,
+      99,
+      130,
+      151,
+      217,
+      262,
+      275,
+      284,
+      312
+    ],
+    "-5/3": [
+      51
+    ],
+    "for": [
+      52,
+      158,
+      259,
+      269,
+      303
+    ],
+    "spectra,": [
+      59,
+      271
+    ],
+    "respectively.": [
+      60
+    ],
+    "goal": [
+      62
+    ],
+    "this": [
+      64
+    ],
+    "study": [
+      65
+    ],
+    "document": [
+      68
+    ],
+    "statistics": [
+      70
+    ],
+    "those": [
+      72
+    ],
+    "ratios": [
+      73,
+      98,
+      176,
+      229,
+      282,
+      308
+    ],
+    "exponents": [
+      75,
+      102,
+      245
+    ],
+    "derived": [
+      76,
+      141,
+      178
+    ],
+    "from": [
+      77,
+      83,
+      103,
+      253,
+      263,
+      287
+    ],
+    "aircraft": [
+      78,
+      113
+    ],
+    "observations,": [
+      79
+    ],
+    "quantify": [
+      80
+    ],
+    "their": [
+      81
+    ],
+    "departures": [
+      82
+    ],
+    "theoretical": [
+      84,
+      250
+    ],
+    "predictions,": [
+      85
+    ],
+    "point": [
+      87
+    ],
+    "out": [
+      88
+    ],
+    "differences": [
+      90,
+      208
+    ],
+    "among": [
+      91
+    ],
+    "aircraft.": [
+      93,
+      206
+    ],
+    "We": [
+      94
+    ],
+    "estimate": [
+      95
+    ],
+    "transverse-to-longitudinal": [
+      97,
+      175,
+      228,
+      281,
+      307
+    ],
+    "situ": [
+      105
+    ],
+    "high-rate": [
+      106
+    ],
+    "measurements": [
+      108
+    ],
+    "collected": [
+      109
+    ],
+    "by": [
+      110,
+      142,
+      179,
+      237
+    ],
+    "three": [
+      111,
+      160
+    ],
+    "research": [
+      112
+    ],
+    "during": [
+      114
+    ],
+    "four": [
+      115
+    ],
+    "field": [
+      116
+    ],
+    "experiments": [
+      117
+    ],
+    "two": [
+      119
+    ],
+    "regimes": [
+      120,
+      218
+    ],
+    "marine": [
+      123
+    ],
+    "atmospheric": [
+      124
+    ],
+    "boundary": [
+      125,
+      221
+    ],
+    "layer:": [
+      126
+    ],
+    "shallow": [
+      127
+    ],
+    "trade-wind": [
+      128
+    ],
+    "convection": [
+      129
+    ],
+    "subtropical": [
+      131
+    ],
+    "stratocumulus.": [
+      132
+    ],
+    "bulk": [
+      134
+    ],
+    "values": [
+      135,
+      251
+    ],
+    "representing": [
+      136
+    ],
+    "subrange": [
+      139
+    ],
+    "were": [
+      140,
+      177
+    ],
+    "fitting": [
+      143
+    ],
+    "formulae": [
+      146
+    ],
+    "computed": [
+      156
+    ],
+    "separately": [
+      157
+    ],
+    "components": [
+      161,
+      201
+    ],
+    "turbulent": [
+      164
+    ],
+    "wind": [
+      165,
+      199
+    ],
+    "velocity": [
+      166,
+      200,
+      276
+    ],
+    "measured": [
+      167,
+      203
+    ],
+    "horizontal": [
+      169
+    ],
+    "flight": [
+      170
+    ],
+    "segments.": [
+      171
+    ],
+    "composite": [
+      173,
+      279
+    ],
+    "scale-by-scale": [
+      174,
+      280
+    ],
+    "averaging": [
+      180
+    ],
+    "over": [
+      181
+    ],
+    "segments": [
+      183
+    ],
+    "at": [
+      184
+    ],
+    "common": [
+      185
+    ],
+    "non-dimensional": [
+      186
+    ],
+    "scales.": [
+      187
+    ],
+    "variability": [
+      189
+    ],
+    "results": [
+      192
+    ],
+    "can": [
+      193
+    ],
+    "be": [
+      194
+    ],
+    "attributed": [
+      195
+    ],
+    "how": [
+      197
+    ],
+    "are": [
+      202,
+      223,
+      230
+    ],
+    "on": [
+      204,
+      273,
+      298
+    ],
+    "each": [
+      205
+    ],
+    "related": [
+      209
+    ],
+    "environmental": [
+      211
+    ],
+    "conditions,": [
+      212
+    ],
+    "e.g.": [
+      213
+    ],
+    "between": [
+      214,
+      309
+    ],
+    "characteristic": [
+      215
+    ],
+    "levels": [
+      216
+    ],
+    "layer,": [
+      222
+    ],
+    "secondary": [
+      225
+    ],
+    "importance.": [
+      226
+    ],
+    "Experiment-averaged": [
+      227
+    ],
+    "23": [
+      231
+    ],
+    "%–45": [
+      232
+    ],
+    "%": [
+      233,
+      255,
+      258,
+      265,
+      268
+    ],
+    "smaller": [
+      234
+    ],
+    "than": [
+      235
+    ],
+    "predicted": [
+      236
+    ],
+    "theory.": [
+      239
+    ],
+    "deviations": [
+      241
+    ],
+    "average": [
+      243
+    ],
+    "respect": [
+      247
+    ],
+    "range": [
+      252
+    ],
+    "−34": [
+      254
+    ],
+    "+47": [
+      257
+    ],
+    "−24": [
+      264
+    ],
+    "+22": [
+      267
+    ],
+    "depending": [
+      272
+    ],
+    "experiment": [
+      274
+    ],
+    "component.": [
+      277
+    ],
+    "decrease": [
+      283
+    ],
+    "increasingly": [
+      285
+    ],
+    "depart": [
+      286
+    ],
+    "decreasing": [
+      290
+    ],
+    "scale,": [
+      291
+    ],
+    "contrast": [
+      293
+    ],
+    "previous": [
+      295
+    ],
+    "experimental": [
+      296
+    ],
+    "studies": [
+      297
+    ],
+    "local": [
+      299
+    ],
+    "isotropy.": [
+      300
+    ],
+    "reason": [
+      302
+    ],
+    "disagreement": [
+      305
+    ],
+    "observations": [
+      311
+    ],
+    "remains": [
+      315
+    ],
+    "uncertain.": [
+      316
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,796 @@
+{
+  "id": "https://openalex.org/W7160426812",
+  "doi": "https://doi.org/10.5281/zenodo.19706642",
+  "title": "Galileo Ionospheric Models Performance Monitoring Results (2025-02 to 2026-02)",
+  "display_name": "Galileo Ionospheric Models Performance Monitoring Results (2025-02 to 2026-02)",
+  "publication_year": 2026,
+  "publication_date": "2026-04-23",
+  "ids": {
+    "openalex": "https://openalex.org/W7160426812",
+    "doi": "https://doi.org/10.5281/zenodo.19706642"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.5281/zenodo.19706642",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.19706642",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "dataset"
+  },
+  "type": "dataset",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.5281/zenodo.19706642",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5135493323",
+        "display_name": "Knut Stanley Jacobsen",
+        "orcid": "https://orcid.org/0000-0002-7771-4701"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1292062780",
+          "display_name": "Norwegian Mapping Authority",
+          "ror": "https://ror.org/05dz27378",
+          "country_code": "NO",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I1292062780"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacobsen, Knut Stanley",
+      "raw_affiliation_strings": [
+        "Norwegian Mapping Authority"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7771-4701",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Norwegian Mapping Authority",
+          "institution_ids": [
+            "https://openalex.org/I1292062780"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5116618920",
+        "display_name": "Hubert Pierzchala",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pierzchała, Hubert",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0007-1298-6427",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004955414",
+        "display_name": "Natalia Hanna",
+        "orcid": "https://orcid.org/0000-0002-6792-8247"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145847075",
+          "display_name": "TU Wien",
+          "ror": "https://ror.org/04d836q62",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145847075"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna, Natalia",
+      "raw_affiliation_strings": [
+        "TU Wien"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6792-8247",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TU Wien",
+          "institution_ids": [
+            "https://openalex.org/I145847075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010927456",
+        "display_name": "Anna Świątek",
+        "orcid": "https://orcid.org/0000-0002-8659-4545"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Swiatek, Anna",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8659-4545",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5135466730",
+        "display_name": "Hans Sverre Smalø",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1292062780",
+          "display_name": "Norwegian Mapping Authority",
+          "ror": "https://ror.org/05dz27378",
+          "country_code": "NO",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I1292062780"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Smalø, Hans Sverre",
+      "raw_affiliation_strings": [
+        "Norwegian Mapping Authority"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Norwegian Mapping Authority",
+          "institution_ids": [
+            "https://openalex.org/I1292062780"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088049016",
+        "display_name": "Marcus Franz Glaner",
+        "orcid": "https://orcid.org/0000-0002-2351-6179"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145847075",
+          "display_name": "TU Wien",
+          "ror": "https://ror.org/04d836q62",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145847075"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wareyka-Glaner, Marcus Franz",
+      "raw_affiliation_strings": [
+        "TU Wien"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2351-6179",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TU Wien",
+          "institution_ids": [
+            "https://openalex.org/I145847075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5135494557",
+        "display_name": "Gregor Möller",
+        "orcid": "https://orcid.org/0000-0002-6153-3084"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145847075",
+          "display_name": "TU Wien",
+          "ror": "https://ror.org/04d836q62",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145847075"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Möller, Gregor",
+      "raw_affiliation_strings": [
+        "TU Wien"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6153-3084",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TU Wien",
+          "institution_ids": [
+            "https://openalex.org/I145847075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5135433718",
+        "display_name": "Lukasz Tomasik",
+        "orcid": "https://orcid.org/0000-0002-9128-3514"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasik, Lukasz",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9128-3514",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073126590",
+        "display_name": "Mariusz Pożoga",
+        "orcid": "https://orcid.org/0000-0002-6467-7091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pozoga, Mariusz",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6467-7091",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5092852814",
+        "display_name": "Paulina Gajdowska",
+        "orcid": "https://orcid.org/0009-0008-5848-5625"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122697084",
+          "display_name": "Centrum Badań Kosmicznych",
+          "ror": "https://ror.org/03zm2br59",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I122697084",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gajdowska, Paulina",
+      "raw_affiliation_strings": [
+        "Centrum Badań Kosmicznych"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0008-5848-5625",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centrum Badań Kosmicznych",
+          "institution_ids": [
+            "https://openalex.org/I122697084"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/ionosphere",
+      "display_name": "Ionosphere",
+      "score": 0.6607000231742859
+    },
+    {
+      "id": "https://openalex.org/keywords/galileo",
+      "display_name": "Galileo (satellite navigation)",
+      "score": 0.6485000252723694
+    },
+    {
+      "id": "https://openalex.org/keywords/global-positioning-system",
+      "display_name": "Global Positioning System",
+      "score": 0.2867000102996826
+    },
+    {
+      "id": "https://openalex.org/keywords/period",
+      "display_name": "Period (music)",
+      "score": 0.28279998898506165
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C116403925",
+      "wikidata": "https://www.wikidata.org/wiki/Q162219",
+      "display_name": "Ionosphere",
+      "level": 2,
+      "score": 0.6607000231742859
+    },
+    {
+      "id": "https://openalex.org/C177219330",
+      "wikidata": "https://www.wikidata.org/wiki/Q193902",
+      "display_name": "Galileo (satellite navigation)",
+      "level": 2,
+      "score": 0.6485000252723694
+    },
+    {
+      "id": "https://openalex.org/C62649853",
+      "wikidata": "https://www.wikidata.org/wiki/Q199687",
+      "display_name": "Remote sensing",
+      "level": 1,
+      "score": 0.5392000079154968
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3671000003814697
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.35510000586509705
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3547999858856201
+    },
+    {
+      "id": "https://openalex.org/C60229501",
+      "wikidata": "https://www.wikidata.org/wiki/Q18822",
+      "display_name": "Global Positioning System",
+      "level": 2,
+      "score": 0.2867000102996826
+    },
+    {
+      "id": "https://openalex.org/C2781291010",
+      "wikidata": "https://www.wikidata.org/wiki/Q178580",
+      "display_name": "Period (music)",
+      "level": 2,
+      "score": 0.28279998898506165
+    },
+    {
+      "id": "https://openalex.org/C14279187",
+      "wikidata": "https://www.wikidata.org/wiki/Q5514012",
+      "display_name": "GNSS applications",
+      "level": 3,
+      "score": 0.26899999380111694
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.2517000138759613
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.5281/zenodo.19706642",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.19706642",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "dataset"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5281/zenodo.19706642",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.19706642",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "dataset"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Datasets": [
+      0
+    ],
+    "containing": [
+      1
+    ],
+    "performance": [
+      2
+    ],
+    "monitoring": [
+      3
+    ],
+    "results": [
+      4
+    ],
+    "for": [
+      5,
+      15
+    ],
+    "the": [
+      6,
+      16,
+      28,
+      31,
+      42,
+      60
+    ],
+    "ionospheric": [
+      7
+    ],
+    "models": [
+      8
+    ],
+    "NeQuick": [
+      9
+    ],
+    "G,": [
+      10
+    ],
+    "NTCM": [
+      11,
+      47
+    ],
+    "G": [
+      12,
+      48
+    ],
+    "and": [
+      13
+    ],
+    "Klobuchar,": [
+      14
+    ],
+    "period": [
+      17
+    ],
+    "February": [
+      18,
+      21
+    ],
+    "2025": [
+      19
+    ],
+    "to": [
+      20
+    ],
+    "2026": [
+      22
+    ],
+    "(inclusive).": [
+      23
+    ],
+    "The": [
+      24
+    ],
+    "file": [
+      25
+    ],
+    "\"README.TXT\"": [
+      26
+    ],
+    "describes": [
+      27
+    ],
+    "contents": [
+      29
+    ],
+    "of": [
+      30
+    ],
+    "data": [
+      32
+    ],
+    "files.": [
+      33
+    ],
+    "For": [
+      34
+    ],
+    "details": [
+      35
+    ],
+    "regarding": [
+      36
+    ],
+    "how": [
+      37
+    ],
+    "these": [
+      38
+    ],
+    "were": [
+      39
+    ],
+    "calculated,": [
+      40
+    ],
+    "see": [
+      41
+    ],
+    "paper": [
+      43,
+      61
+    ],
+    "\"Galileo": [
+      44
+    ],
+    "Ionospheric": [
+      45
+    ],
+    "Model": [
+      46
+    ],
+    "-": [
+      49
+    ],
+    "Performance": [
+      50
+    ],
+    "Monitoring": [
+      51
+    ],
+    "Results\"": [
+      52
+    ],
+    "(This": [
+      53
+    ],
+    "repository": [
+      54
+    ],
+    "record": [
+      55
+    ],
+    "will": [
+      56
+    ],
+    "be": [
+      57
+    ],
+    "updated": [
+      58
+    ],
+    "when": [
+      59
+    ],
+    "is": [
+      62
+    ],
+    "published).": [
+      63
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2026-05-07T00:00:00"
+}

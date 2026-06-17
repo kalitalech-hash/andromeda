@@ -1,0 +1,1784 @@
+{
+  "id": "https://openalex.org/W2924522297",
+  "doi": "https://doi.org/10.1038/s41467-019-09366-9",
+  "title": "A TonB-dependent transporter is required for secretion of protease PopC across the bacterial outer membrane",
+  "display_name": "A TonB-dependent transporter is required for secretion of protease PopC across the bacterial outer membrane",
+  "publication_year": 2019,
+  "publication_date": "2019-03-25",
+  "ids": {
+    "openalex": "https://openalex.org/W2924522297",
+    "doi": "https://doi.org/10.1038/s41467-019-09366-9",
+    "mag": "2924522297",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/30911012"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41467-019-09366-9",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-019-09366-9",
+    "pdf_url": "https://www.nature.com/articles/s41467-019-09366-9.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41467-019-09366-9.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5037451392",
+        "display_name": "Nuria Gómez‐Santos",
+        "orcid": "https://orcid.org/0000-0002-1161-250X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210166203",
+          "display_name": "Max Planck Institute for Terrestrial Microbiology",
+          "ror": "https://ror.org/05r7n9c40",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nuria Gómez-Santos",
+      "raw_affiliation_strings": [
+        "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany",
+        "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1161-250X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048083609",
+        "display_name": "Timo Glatter",
+        "orcid": "https://orcid.org/0000-0001-8716-8516"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210166203",
+          "display_name": "Max Planck Institute for Terrestrial Microbiology",
+          "ror": "https://ror.org/05r7n9c40",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Timo Glatter",
+      "raw_affiliation_strings": [
+        "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany",
+        "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080532236",
+        "display_name": "Ralf Koebnik",
+        "orcid": "https://orcid.org/0000-0002-4419-0542"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131077856",
+          "display_name": "Centre de Coopération Internationale en Recherche Agronomique pour le Développement",
+          "ror": "https://ror.org/05kpkpg04",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I131077856"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I251321805",
+          "display_name": "Agropolis International",
+          "ror": "https://ror.org/00txxwv34",
+          "country_code": "FR",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I251321805"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210115873",
+          "display_name": "Laboratoire des Interactions Plantes Microbes Environnement",
+          "ror": "https://ror.org/02gwt2810",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I196454796",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210115873",
+            "https://openalex.org/I4405258862"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210131987",
+          "display_name": "Diversité, génomes et interactions micro-organismes-insectes",
+          "ror": "https://ror.org/03q1qx424",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19894307",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210131987"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210166444",
+          "display_name": "Institut de Recherche pour le Développement",
+          "ror": "https://ror.org/05q3vnk25",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1327553481",
+            "https://openalex.org/I154202486",
+            "https://openalex.org/I2799535048",
+            "https://openalex.org/I2802818602",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210090127",
+            "https://openalex.org/I4210113730",
+            "https://openalex.org/I4210131494",
+            "https://openalex.org/I4210166444",
+            "https://openalex.org/I4405257220"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ralf Koebnik",
+      "raw_affiliation_strings": [
+        "IRD, Cirad, Interactions Plantes Microorganismes Environnement, University of Montpellier, 34394, Montpellier, France",
+        "UMR IPME - UMR - Interactions Plantes Microorganismes Environnement (IRD France-Sud 911, avenue Agropolis BP 64501 34394 Montpellier cedex 5 - France)"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "IRD, Cirad, Interactions Plantes Microorganismes Environnement, University of Montpellier, 34394, Montpellier, France",
+          "institution_ids": [
+            "https://openalex.org/I131077856",
+            "https://openalex.org/I4210131987",
+            "https://openalex.org/I4210166444"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UMR IPME - UMR - Interactions Plantes Microorganismes Environnement (IRD France-Sud 911, avenue Agropolis BP 64501 34394 Montpellier cedex 5 - France)",
+          "institution_ids": [
+            "https://openalex.org/I4210115873",
+            "https://openalex.org/I4210166444",
+            "https://openalex.org/I251321805"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077834397",
+        "display_name": "Magdalena A. Świątek‐Połatyńska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210166203",
+          "display_name": "Max Planck Institute for Terrestrial Microbiology",
+          "ror": "https://ror.org/05r7n9c40",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Anna Świątek-Połatyńska",
+      "raw_affiliation_strings": [
+        "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany",
+        "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5074705819",
+        "display_name": "Lotte Søgaard‐Andersen",
+        "orcid": "https://orcid.org/0000-0002-0674-0013"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210166203",
+          "display_name": "Max Planck Institute for Terrestrial Microbiology",
+          "ror": "https://ror.org/05r7n9c40",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lotte Søgaard-Andersen",
+      "raw_affiliation_strings": [
+        "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany. sogaard@mpi-marburg.mpg.de",
+        "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0674-0013",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch Str. 10, 35043, Marburg, Germany. sogaard@mpi-marburg.mpg.de",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Max Planck Institute for Terrestrial Microbiology (Karl-von-Frisch-Straße 10, D-35043 Marburg, Germany - Germany)",
+          "institution_ids": [
+            "https://openalex.org/I4210166203"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5074705819"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210166203"
+  ],
+  "apc_list": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "apc_paid": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "fwci": 7.3799,
+  "has_fulltext": true,
+  "cited_by_count": 65,
+  "citation_normalized_percentile": {
+    "value": 0.97475257,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "10",
+    "issue": "1",
+    "first_page": "1360",
+    "last_page": "1360"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10120",
+    "display_name": "Bacterial Genetics and Biotechnology",
+    "score": 0.994700014591217,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1311",
+      "display_name": "Genetics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10120",
+      "display_name": "Bacterial Genetics and Biotechnology",
+      "score": 0.994700014591217,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10015",
+      "display_name": "Genomics and Phylogenetic Studies",
+      "score": 0.9937000274658203,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10147",
+      "display_name": "Antibiotic Resistance in Bacteria",
+      "score": 0.9843999743461609,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1313",
+        "display_name": "Molecular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/popc",
+      "display_name": "POPC",
+      "score": 0.8496966361999512
+    },
+    {
+      "id": "https://openalex.org/keywords/secretion",
+      "display_name": "Secretion",
+      "score": 0.7190242409706116
+    },
+    {
+      "id": "https://openalex.org/keywords/transporter",
+      "display_name": "Transporter",
+      "score": 0.6417372822761536
+    },
+    {
+      "id": "https://openalex.org/keywords/bacterial-outer-membrane",
+      "display_name": "Bacterial outer membrane",
+      "score": 0.6385740041732788
+    },
+    {
+      "id": "https://openalex.org/keywords/protease",
+      "display_name": "Protease",
+      "score": 0.5211196541786194
+    },
+    {
+      "id": "https://openalex.org/keywords/membrane",
+      "display_name": "Membrane",
+      "score": 0.4935508966445923
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.44629180431365967
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.4115445613861084
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.33385881781578064
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.28214287757873535
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.10934346914291382
+    },
+    {
+      "id": "https://openalex.org/keywords/enzyme",
+      "display_name": "Enzyme",
+      "score": 0.10679000616073608
+    },
+    {
+      "id": "https://openalex.org/keywords/lipid-bilayer",
+      "display_name": "Lipid bilayer",
+      "score": 0.0979149341583252
+    },
+    {
+      "id": "https://openalex.org/keywords/escherichia-coli",
+      "display_name": "Escherichia coli",
+      "score": 0.09500998258590698
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780943371",
+      "wikidata": "https://www.wikidata.org/wiki/Q10860475",
+      "display_name": "POPC",
+      "level": 4,
+      "score": 0.8496966361999512
+    },
+    {
+      "id": "https://openalex.org/C49039625",
+      "wikidata": "https://www.wikidata.org/wiki/Q84230",
+      "display_name": "Secretion",
+      "level": 2,
+      "score": 0.7190242409706116
+    },
+    {
+      "id": "https://openalex.org/C149011108",
+      "wikidata": "https://www.wikidata.org/wiki/Q652985",
+      "display_name": "Transporter",
+      "level": 3,
+      "score": 0.6417372822761536
+    },
+    {
+      "id": "https://openalex.org/C146587185",
+      "wikidata": "https://www.wikidata.org/wiki/Q258248",
+      "display_name": "Bacterial outer membrane",
+      "level": 4,
+      "score": 0.6385740041732788
+    },
+    {
+      "id": "https://openalex.org/C2776714187",
+      "wikidata": "https://www.wikidata.org/wiki/Q212410",
+      "display_name": "Protease",
+      "level": 3,
+      "score": 0.5211196541786194
+    },
+    {
+      "id": "https://openalex.org/C41625074",
+      "wikidata": "https://www.wikidata.org/wiki/Q176088",
+      "display_name": "Membrane",
+      "level": 2,
+      "score": 0.4935508966445923
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.44629180431365967
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.4115445613861084
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.33385881781578064
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.28214287757873535
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.10934346914291382
+    },
+    {
+      "id": "https://openalex.org/C181199279",
+      "wikidata": "https://www.wikidata.org/wiki/Q8047",
+      "display_name": "Enzyme",
+      "level": 2,
+      "score": 0.10679000616073608
+    },
+    {
+      "id": "https://openalex.org/C39944091",
+      "wikidata": "https://www.wikidata.org/wiki/Q423279",
+      "display_name": "Lipid bilayer",
+      "level": 3,
+      "score": 0.0979149341583252
+    },
+    {
+      "id": "https://openalex.org/C547475151",
+      "wikidata": "https://www.wikidata.org/wiki/Q25419",
+      "display_name": "Escherichia coli",
+      "level": 3,
+      "score": 0.09500998258590698
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001426",
+      "descriptor_name": "Bacterial Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001692",
+      "descriptor_name": "Biological Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001692",
+      "descriptor_name": "Biological Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001692",
+      "descriptor_name": "Biological Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002462",
+      "descriptor_name": "Cell Membrane",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002462",
+      "descriptor_name": "Cell Membrane",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002462",
+      "descriptor_name": "Cell Membrane",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004926",
+      "descriptor_name": "Escherichia coli",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005816",
+      "descriptor_name": "Genetic Complementation Test",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005816",
+      "descriptor_name": "Genetic Complementation Test",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005816",
+      "descriptor_name": "Genetic Complementation Test",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007527",
+      "descriptor_name": "Isoenzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007527",
+      "descriptor_name": "Isoenzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007527",
+      "descriptor_name": "Isoenzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007527",
+      "descriptor_name": "Isoenzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007527",
+      "descriptor_name": "Isoenzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007527",
+      "descriptor_name": "Isoenzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008565",
+      "descriptor_name": "Membrane Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008565",
+      "descriptor_name": "Membrane Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008565",
+      "descriptor_name": "Membrane Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008565",
+      "descriptor_name": "Membrane Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008565",
+      "descriptor_name": "Membrane Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008565",
+      "descriptor_name": "Membrane Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010447",
+      "descriptor_name": "Peptide Hydrolases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010447",
+      "descriptor_name": "Peptide Hydrolases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010447",
+      "descriptor_name": "Peptide Hydrolases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010447",
+      "descriptor_name": "Peptide Hydrolases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010447",
+      "descriptor_name": "Peptide Hydrolases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010447",
+      "descriptor_name": "Peptide Hydrolases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010802",
+      "descriptor_name": "Phylogeny",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010802",
+      "descriptor_name": "Phylogeny",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010802",
+      "descriptor_name": "Phylogeny",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015964",
+      "descriptor_name": "Gene Expression Regulation, Bacterial",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015964",
+      "descriptor_name": "Gene Expression Regulation, Bacterial",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015964",
+      "descriptor_name": "Gene Expression Regulation, Bacterial",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016941",
+      "descriptor_name": "Myxococcus xanthus",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018892",
+      "descriptor_name": "Proton-Motive Force",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018892",
+      "descriptor_name": "Proton-Motive Force",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018892",
+      "descriptor_name": "Proton-Motive Force",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019897",
+      "descriptor_name": "Periplasm",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019897",
+      "descriptor_name": "Periplasm",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019897",
+      "descriptor_name": "Periplasm",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41467-019-09366-9",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-019-09366-9",
+      "pdf_url": "https://www.nature.com/articles/s41467-019-09366-9.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:30911012",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/30911012",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature communications",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:HAL:hal-03626151v1",
+      "is_oa": true,
+      "landing_page_url": "https://hal.science/hal-03626151",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, 2019, 10 (1), pp.1360. &#x27E8;10.1038/s41467-019-09366-9&#x27E9;",
+      "raw_type": "Journal articles"
+    },
+    {
+      "id": "pmh:oai:RePEc:nat:natcom:v:10:y:2019:i:1:d:10.1038_s41467-019-09366-9",
+      "is_oa": false,
+      "landing_page_url": "https://www.nature.com/articles/s41467-019-09366-9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:96aaa1605e3341c481a2b09a68c3d44b",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/96aaa1605e3341c481a2b09a68c3d44b",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 10, Iss 1, Pp 1-18 (2019)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:a513a3dcafbd4d059aeaac5fae32ca43",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/a513a3dcafbd4d059aeaac5fae32ca43",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 10, Iss 1, Pp 1-18 (2019)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:5416396",
+      "is_oa": true,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC6434023",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:6434023",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6434023",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nat Commun",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41467-019-09366-9",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-019-09366-9",
+    "pdf_url": "https://www.nature.com/articles/s41467-019-09366-9.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320308269",
+      "display_name": "Alexander von Humboldt-Stiftung",
+      "ror": "https://ror.org/012kf4317"
+    },
+    {
+      "id": "https://openalex.org/F4320322434",
+      "display_name": "Max-Planck-Gesellschaft",
+      "ror": "https://ror.org/01hhn8329"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2924522297.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2924522297.grobid-xml"
+  },
+  "referenced_works_count": 81,
+  "referenced_works": [
+    "https://openalex.org/W176847937",
+    "https://openalex.org/W841525650",
+    "https://openalex.org/W1483247593",
+    "https://openalex.org/W1502789462",
+    "https://openalex.org/W1585056161",
+    "https://openalex.org/W1595871892",
+    "https://openalex.org/W1601331206",
+    "https://openalex.org/W1664708294",
+    "https://openalex.org/W1792243108",
+    "https://openalex.org/W1803102843",
+    "https://openalex.org/W1860714877",
+    "https://openalex.org/W1929389910",
+    "https://openalex.org/W1935158889",
+    "https://openalex.org/W1963676019",
+    "https://openalex.org/W1975009150",
+    "https://openalex.org/W1988283355",
+    "https://openalex.org/W1989302103",
+    "https://openalex.org/W2000156898",
+    "https://openalex.org/W2004798786",
+    "https://openalex.org/W2005034781",
+    "https://openalex.org/W2014361215",
+    "https://openalex.org/W2017007541",
+    "https://openalex.org/W2019140963",
+    "https://openalex.org/W2021019297",
+    "https://openalex.org/W2023377922",
+    "https://openalex.org/W2027013694",
+    "https://openalex.org/W2030049548",
+    "https://openalex.org/W2032230795",
+    "https://openalex.org/W2032764052",
+    "https://openalex.org/W2033052361",
+    "https://openalex.org/W2039722695",
+    "https://openalex.org/W2041573975",
+    "https://openalex.org/W2044894353",
+    "https://openalex.org/W2046586434",
+    "https://openalex.org/W2047670590",
+    "https://openalex.org/W2053835372",
+    "https://openalex.org/W2054099099",
+    "https://openalex.org/W2061385538",
+    "https://openalex.org/W2062525807",
+    "https://openalex.org/W2063278295",
+    "https://openalex.org/W2067964678",
+    "https://openalex.org/W2077547638",
+    "https://openalex.org/W2094201044",
+    "https://openalex.org/W2094494863",
+    "https://openalex.org/W2096525273",
+    "https://openalex.org/W2096978948",
+    "https://openalex.org/W2099507220",
+    "https://openalex.org/W2100118286",
+    "https://openalex.org/W2100511653",
+    "https://openalex.org/W2109834023",
+    "https://openalex.org/W2111967267",
+    "https://openalex.org/W2114083522",
+    "https://openalex.org/W2114511757",
+    "https://openalex.org/W2117484859",
+    "https://openalex.org/W2120061656",
+    "https://openalex.org/W2124348590",
+    "https://openalex.org/W2125402950",
+    "https://openalex.org/W2128551987",
+    "https://openalex.org/W2130599662",
+    "https://openalex.org/W2131068496",
+    "https://openalex.org/W2131778683",
+    "https://openalex.org/W2133691154",
+    "https://openalex.org/W2135547277",
+    "https://openalex.org/W2144634347",
+    "https://openalex.org/W2146236816",
+    "https://openalex.org/W2151350595",
+    "https://openalex.org/W2153775455",
+    "https://openalex.org/W2154139219",
+    "https://openalex.org/W2164751980",
+    "https://openalex.org/W2168747862",
+    "https://openalex.org/W2224056471",
+    "https://openalex.org/W2292314415",
+    "https://openalex.org/W2299009003",
+    "https://openalex.org/W2336330109",
+    "https://openalex.org/W2544360569",
+    "https://openalex.org/W2559192784",
+    "https://openalex.org/W2560052408",
+    "https://openalex.org/W2766328249",
+    "https://openalex.org/W4210359611",
+    "https://openalex.org/W4210702584",
+    "https://openalex.org/W4231170962"
+  ],
+  "related_works": [
+    "https://openalex.org/W2051521746",
+    "https://openalex.org/W2078796602",
+    "https://openalex.org/W2324912984",
+    "https://openalex.org/W2782834636",
+    "https://openalex.org/W2020645208",
+    "https://openalex.org/W1998427046",
+    "https://openalex.org/W2045546935",
+    "https://openalex.org/W2600848449",
+    "https://openalex.org/W2115154002",
+    "https://openalex.org/W1996445620"
+  ],
+  "abstract_inverted_index": {
+    "TonB-dependent": [
+      0
+    ],
+    "transporters": [
+      1
+    ],
+    "(TBDTs)": [
+      2
+    ],
+    "are": [
+      3
+    ],
+    "ubiquitous": [
+      4
+    ],
+    "outer": [
+      5,
+      16,
+      67,
+      95
+    ],
+    "membrane": [
+      6,
+      17,
+      96
+    ],
+    "β-barrel": [
+      7
+    ],
+    "proteins": [
+      8
+    ],
+    "that": [
+      9,
+      38,
+      89,
+      111
+    ],
+    "import": [
+      10,
+      123
+    ],
+    "nutrients": [
+      11
+    ],
+    "and": [
+      12,
+      69,
+      113
+    ],
+    "bacteriocins": [
+      13
+    ],
+    "across": [
+      14,
+      65,
+      93
+    ],
+    "the": [
+      15,
+      28,
+      32,
+      39,
+      55,
+      61,
+      66,
+      70,
+      80,
+      94,
+      105,
+      114
+    ],
+    "in": [
+      18,
+      31,
+      42,
+      60,
+      77,
+      85,
+      122,
+      127
+    ],
+    "a": [
+      19,
+      50,
+      75
+    ],
+    "proton": [
+      20,
+      71
+    ],
+    "motive": [
+      21,
+      72
+    ],
+    "force-dependent": [
+      22
+    ],
+    "manner,": [
+      23
+    ],
+    "by": [
+      24
+    ],
+    "directly": [
+      25
+    ],
+    "connecting": [
+      26
+    ],
+    "to": [
+      27,
+      54,
+      79
+    ],
+    "ExbB/ExbD/TonB": [
+      29,
+      106,
+      115
+    ],
+    "system": [
+      30,
+      116
+    ],
+    "inner": [
+      33
+    ],
+    "membrane.": [
+      34
+    ],
+    "Here,": [
+      35
+    ],
+    "we": [
+      36
+    ],
+    "show": [
+      37
+    ],
+    "TBDT": [
+      40
+    ],
+    "Oar": [
+      41,
+      101
+    ],
+    "Myxococcus": [
+      43
+    ],
+    "xanthus": [
+      44
+    ],
+    "is": [
+      45
+    ],
+    "required": [
+      46
+    ],
+    "for": [
+      47
+    ],
+    "secretion": [
+      48,
+      64,
+      78,
+      90,
+      128
+    ],
+    "of": [
+      49,
+      91,
+      129
+    ],
+    "protein,": [
+      51
+    ],
+    "protease": [
+      52
+    ],
+    "PopC,": [
+      53
+    ],
+    "extracellular": [
+      56,
+      81
+    ],
+    "milieu.": [
+      57,
+      82
+    ],
+    "PopC": [
+      58,
+      92
+    ],
+    "accumulates": [
+      59
+    ],
+    "periplasm": [
+      62
+    ],
+    "before": [
+      63
+    ],
+    "membrane,": [
+      68
+    ],
+    "force": [
+      73
+    ],
+    "has": [
+      74
+    ],
+    "role": [
+      76
+    ],
+    "Reconstitution": [
+      83
+    ],
+    "experiments": [
+      84
+    ],
+    "Escherichia": [
+      86
+    ],
+    "coli": [
+      87
+    ],
+    "demonstrate": [
+      88
+    ],
+    "not": [
+      97,
+      120
+    ],
+    "only": [
+      98,
+      121
+    ],
+    "depends": [
+      99
+    ],
+    "on": [
+      100,
+      104
+    ],
+    "but": [
+      102,
+      125
+    ],
+    "also": [
+      103,
+      126
+    ],
+    "system.": [
+      107
+    ],
+    "Our": [
+      108
+    ],
+    "results": [
+      109
+    ],
+    "indicate": [
+      110
+    ],
+    "TBDTs": [
+      112
+    ],
+    "may": [
+      117
+    ],
+    "have": [
+      118
+    ],
+    "roles": [
+      119
+    ],
+    "processes": [
+      124
+    ],
+    "proteins.": [
+      130
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

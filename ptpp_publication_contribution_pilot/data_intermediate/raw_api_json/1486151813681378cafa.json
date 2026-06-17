@@ -1,0 +1,1071 @@
+{
+  "id": "https://openalex.org/W4402171183",
+  "doi": "https://doi.org/10.14313/jamris/3-2024/18",
+  "title": "Gradient Scale Monitoring for Federated Learning Systems",
+  "display_name": "Gradient Scale Monitoring for Federated Learning Systems",
+  "publication_year": 2024,
+  "publication_date": "2024-09-03",
+  "ids": {
+    "openalex": "https://openalex.org/W4402171183",
+    "doi": "https://doi.org/10.14313/jamris/3-2024/18"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.14313/jamris/3-2024/18",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.14313/jamris/3-2024/18",
+    "pdf_url": "https://www.jamris.org/index.php/JAMRIS/article/download/1187/771",
+    "source": {
+      "id": "https://openalex.org/S4210195376",
+      "display_name": "Journal of Automation Mobile Robotics & Intelligent Systems",
+      "issn_l": "1897-8649",
+      "issn": [
+        "1897-8649",
+        "2080-2145"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Automation, Mobile Robotics and Intelligent Systems",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.jamris.org/index.php/JAMRIS/article/download/1187/771",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Karolina Bogacka",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7109-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088868361",
+        "display_name": "Anastasiya Danilenka",
+        "orcid": "https://orcid.org/0000-0002-3080-0303"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Anastasiya Danilenka",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3080-0303",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5077749913",
+        "display_name": "Katarzyna Wasielewska-Michniewska",
+        "orcid": "https://orcid.org/0000-0002-3763-2373"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66083562",
+          "display_name": "Systems Research Institute",
+          "ror": "https://ror.org/0111cp837",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Katarzyna Wasielewska-Michniewska",
+      "raw_affiliation_strings": [
+        "Systems Research Institute, Polish Academy of Sciences, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3763-2373",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems Research Institute, Polish Academy of Sciences, Poland",
+          "institution_ids": [
+            "https://openalex.org/I66083562",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5073455513",
+    "https://openalex.org/A5077749913",
+    "https://openalex.org/A5088868361"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I108403487",
+    "https://openalex.org/I66083562",
+    "https://openalex.org/I99542240"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.11886759,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "14",
+    "last_page": "27"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10320",
+    "display_name": "Neural Networks and Applications",
+    "score": 0.939300000667572,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10320",
+      "display_name": "Neural Networks and Applications",
+      "score": 0.939300000667572,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/scale",
+      "display_name": "Scale (ratio)",
+      "score": 0.6161440014839172
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5078161358833313
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.13755539059638977
+    },
+    {
+      "id": "https://openalex.org/keywords/cartography",
+      "display_name": "Cartography",
+      "score": 0.08055895566940308
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778755073",
+      "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+      "display_name": "Scale (ratio)",
+      "level": 2,
+      "score": 0.6161440014839172
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5078161358833313
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.13755539059638977
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.08055895566940308
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.14313/jamris/3-2024/18",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.14313/jamris/3-2024/18",
+      "pdf_url": "https://www.jamris.org/index.php/JAMRIS/article/download/1187/771",
+      "source": {
+        "id": "https://openalex.org/S4210195376",
+        "display_name": "Journal of Automation Mobile Robotics & Intelligent Systems",
+        "issn_l": "1897-8649",
+        "issn": [
+          "1897-8649",
+          "2080-2145"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Automation, Mobile Robotics and Intelligent Systems",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.14313/jamris/3-2024/18",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.14313/jamris/3-2024/18",
+    "pdf_url": "https://www.jamris.org/index.php/JAMRIS/article/download/1187/771",
+    "source": {
+      "id": "https://openalex.org/S4210195376",
+      "display_name": "Journal of Automation Mobile Robotics & Intelligent Systems",
+      "issn_l": "1897-8649",
+      "issn": [
+        "1897-8649",
+        "2080-2145"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Automation, Mobile Robotics and Intelligent Systems",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4402171183.pdf"
+  },
+  "referenced_works_count": 32,
+  "referenced_works": [
+    "https://openalex.org/W2067713319",
+    "https://openalex.org/W2283463896",
+    "https://openalex.org/W2789911054",
+    "https://openalex.org/W2904190483",
+    "https://openalex.org/W2945996667",
+    "https://openalex.org/W2949003697",
+    "https://openalex.org/W2951996732",
+    "https://openalex.org/W2963966020",
+    "https://openalex.org/W3033786741",
+    "https://openalex.org/W3094316335",
+    "https://openalex.org/W3111852556",
+    "https://openalex.org/W3128382687",
+    "https://openalex.org/W3153537487",
+    "https://openalex.org/W3163969090",
+    "https://openalex.org/W3177095755",
+    "https://openalex.org/W3196691156",
+    "https://openalex.org/W3205478485",
+    "https://openalex.org/W3209696639",
+    "https://openalex.org/W4206504654",
+    "https://openalex.org/W4226087368",
+    "https://openalex.org/W4283694778",
+    "https://openalex.org/W4285337687",
+    "https://openalex.org/W4307207955",
+    "https://openalex.org/W4319453177",
+    "https://openalex.org/W4321606912",
+    "https://openalex.org/W4322717061",
+    "https://openalex.org/W4323645803",
+    "https://openalex.org/W4360995249",
+    "https://openalex.org/W4381786564",
+    "https://openalex.org/W4384345756",
+    "https://openalex.org/W4387608641",
+    "https://openalex.org/W4389159673"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W4396696052",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W4395014643"
+  ],
+  "abstract_inverted_index": {
+    "As": [
+      0
+    ],
+    "the": [
+      1,
+      14,
+      50,
+      75,
+      98,
+      105,
+      130,
+      139,
+      144,
+      153,
+      160,
+      180,
+      184,
+      201,
+      218,
+      251,
+      254,
+      271,
+      288
+    ],
+    "computational": [
+      2,
+      279
+    ],
+    "and": [
+      3,
+      8,
+      63,
+      116,
+      133,
+      222,
+      261,
+      278
+    ],
+    "communicational": [
+      4
+    ],
+    "capabilities": [
+      5
+    ],
+    "of": [
+      6,
+      28,
+      42,
+      49,
+      54,
+      61,
+      72,
+      77,
+      100,
+      107,
+      119,
+      143,
+      152,
+      169,
+      183,
+      196,
+      217,
+      220,
+      242,
+      253
+    ],
+    "edge": [
+      7
+    ],
+    "IoT": [
+      9
+    ],
+    "devices": [
+      10
+    ],
+    "grow,": [
+      11
+    ],
+    "so": [
+      12
+    ],
+    "do": [
+      13,
+      56
+    ],
+    "opportunities": [
+      15
+    ],
+    "for": [
+      16,
+      141,
+      179,
+      230,
+      287
+    ],
+    "novel": [
+      17
+    ],
+    "Machine": [
+      18
+    ],
+    "Learning": [
+      19,
+      30
+    ],
+    "solutions.": [
+      20
+    ],
+    "This": [
+      21,
+      84
+    ],
+    "leads": [
+      22
+    ],
+    "to": [
+      23,
+      96,
+      104,
+      158,
+      212,
+      236
+    ],
+    "an": [
+      24
+    ],
+    "increase": [
+      25
+    ],
+    "in": [
+      26,
+      33,
+      74,
+      81,
+      91,
+      123,
+      138,
+      245
+    ],
+    "popularity": [
+      27
+    ],
+    "Federated": [
+      29
+    ],
+    "(FL),": [
+      31
+    ],
+    "especially": [
+      32
+    ],
+    "cross-device": [
+      34
+    ],
+    "settings.": [
+      35
+    ],
+    "However,": [
+      36
+    ],
+    "while": [
+      37
+    ],
+    "there": [
+      38,
+      67
+    ],
+    "is": [
+      39,
+      68
+    ],
+    "a": [
+      40,
+      69,
+      88,
+      124,
+      149,
+      175,
+      197,
+      214,
+      238,
+      266,
+      283
+    ],
+    "multitude": [
+      41
+    ],
+    "ongoing": [
+      43
+    ],
+    "research": [
+      44,
+      73,
+      211
+    ],
+    "works": [
+      45
+    ],
+    "analyzing": [
+      46
+    ],
+    "various": [
+      47
+    ],
+    "aspects": [
+      48
+    ],
+    "FL": [
+      51,
+      82,
+      108,
+      185,
+      231,
+      247,
+      289
+    ],
+    "process,": [
+      52
+    ],
+    "most": [
+      53
+    ],
+    "them": [
+      55
+    ],
+    "not": [
+      57
+    ],
+    "focus": [
+      58
+    ],
+    "on": [
+      59,
+      192,
+      275,
+      293
+    ],
+    "issues": [
+      60
+    ],
+    "operationalization": [
+      62
+    ],
+    "monitoring.": [
+      64
+    ],
+    "For": [
+      65,
+      110
+    ],
+    "instance,": [
+      66
+    ],
+    "noticeable": [
+      70
+    ],
+    "lack": [
+      71
+    ],
+    "topic": [
+      76
+    ],
+    "effective": [
+      78
+    ],
+    "problem": [
+      79,
+      161,
+      260
+    ],
+    "diagnosis": [
+      80
+    ],
+    "systems.": [
+      83,
+      109
+    ],
+    "work": [
+      85
+    ],
+    "begins": [
+      86
+    ],
+    "with": [
+      87
+    ],
+    "case": [
+      89
+    ],
+    "study,": [
+      90
+    ],
+    "which": [
+      92,
+      155
+    ],
+    "we": [
+      93,
+      113,
+      172,
+      249
+    ],
+    "have": [
+      94,
+      114,
+      128,
+      147,
+      173
+    ],
+    "intended": [
+      95
+    ],
+    "compare": [
+      97
+    ],
+    "performance": [
+      99
+    ],
+    "four": [
+      101
+    ],
+    "selected": [
+      102
+    ],
+    "approaches": [
+      103
+    ],
+    "topology": [
+      106
+    ],
+    "this": [
+      111
+    ],
+    "purpose,": [
+      112
+    ],
+    "constructed": [
+      115
+    ],
+    "executed": [
+      117
+    ],
+    "simulations": [
+      118
+    ],
+    "their": [
+      120,
+      243,
+      276
+    ],
+    "training": [
+      121,
+      186,
+      290
+    ],
+    "process": [
+      122,
+      291
+    ],
+    "controlled": [
+      125
+    ],
+    "environment.": [
+      126
+    ],
+    "We": [
+      127,
+      146,
+      206,
+      268,
+      281
+    ],
+    "analyzed": [
+      129
+    ],
+    "obtained": [
+      131
+    ],
+    "results": [
+      132
+    ],
+    "encountered": [
+      134
+    ],
+    "concerning": [
+      135
+    ],
+    "periodic": [
+      136
+    ],
+    "drops": [
+      137
+    ],
+    "accuracy": [
+      140
+    ],
+    "some": [
+      142
+    ],
+    "scenarios.": [
+      145
+    ],
+    "performed": [
+      148
+    ],
+    "successful": [
+      150
+    ],
+    "reexamination": [
+      151
+    ],
+    "experiments,": [
+      154
+    ],
+    "led": [
+      156
+    ],
+    "us": [
+      157
+    ],
+    "diagnose": [
+      159
+    ],
+    "as": [
+      162,
+      227,
+      265
+    ],
+    "caused": [
+      163
+    ],
+    "by": [
+      164
+    ],
+    "exploding": [
+      165,
+      255
+    ],
+    "gradients.": [
+      166
+    ],
+    "In": [
+      167,
+      234
+    ],
+    "view": [
+      168
+    ],
+    "those": [
+      170
+    ],
+    "findings,": [
+      171
+    ],
+    "formulated": [
+      174
+    ],
+    "potential": [
+      176
+    ],
+    "new": [
+      177
+    ],
+    "method": [
+      178,
+      189
+    ],
+    "continuous": [
+      181
+    ],
+    "monitoring": [
+      182,
+      285
+    ],
+    "process.": [
+      187
+    ],
+    "The": [
+      188
+    ],
+    "would": [
+      190
+    ],
+    "hinge": [
+      191
+    ],
+    "regular": [
+      193
+    ],
+    "local": [
+      194
+    ],
+    "computation": [
+      195
+    ],
+    "handpicked": [
+      198
+    ],
+    "metric": [
+      199
+    ],
+    "-": [
+      200
+    ],
+    "gradient": [
+      202,
+      256,
+      259,
+      263,
+      284
+    ],
+    "scale": [
+      203
+    ],
+    "coefficient": [
+      204
+    ],
+    "(GSC).": [
+      205
+    ],
+    "then": [
+      207,
+      269
+    ],
+    "extend": [
+      208
+    ],
+    "our": [
+      209,
+      294
+    ],
+    "prior": [
+      210
+    ],
+    "include": [
+      213
+    ],
+    "preliminary": [
+      215
+    ],
+    "analysis": [
+      216
+    ],
+    "effectiveness": [
+      219
+    ],
+    "GSC": [
+      221
+    ],
+    "average": [
+      223
+    ],
+    "gradients": [
+      224
+    ],
+    "per": [
+      225
+    ],
+    "layer": [
+      226
+    ],
+    "potentially": [
+      228
+    ],
+    "suitable": [
+      229
+    ],
+    "diagnostics": [
+      232
+    ],
+    "metrics.": [
+      233
+    ],
+    "order": [
+      235
+    ],
+    "perform": [
+      237
+    ],
+    "more": [
+      239
+    ],
+    "thorough": [
+      240
+    ],
+    "examination": [
+      241
+    ],
+    "usefulness": [
+      244
+    ],
+    "different": [
+      246
+    ],
+    "scenarios,": [
+      248
+    ],
+    "simulate": [
+      250
+    ],
+    "occurrence": [
+      252
+    ],
+    "problem,": [
+      257
+    ],
+    "vanishing": [
+      258
+    ],
+    "stable": [
+      262
+    ],
+    "serving": [
+      264
+    ],
+    "baseline.": [
+      267
+    ],
+    "evaluate": [
+      270
+    ],
+    "resulting": [
+      272
+    ],
+    "visualizations": [
+      273
+    ],
+    "based": [
+      274,
+      292
+    ],
+    "clarity": [
+      277
+    ],
+    "requirements.": [
+      280
+    ],
+    "introduce": [
+      282
+    ],
+    "suite": [
+      286
+    ],
+    "results.": [
+      295
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,981 @@
+{
+  "id": "https://openalex.org/W2888231113",
+  "doi": "https://doi.org/10.2478/amtm-2018-0007",
+  "title": "The effect of changes in depth of cut and cutting speed of CNC toolpaths on turning process performance",
+  "display_name": "The effect of changes in depth of cut and cutting speed of CNC toolpaths on turning process performance",
+  "publication_year": 2018,
+  "publication_date": "2018-08-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2888231113",
+    "doi": "https://doi.org/10.2478/amtm-2018-0007",
+    "mag": "2888231113"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.2478/amtm-2018-0007",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.2478/amtm-2018-0007",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2738613174",
+      "display_name": "Archiwum Technologii Maszyn i Automatyzacji/Archives of Mechanical Technology and Automation/Archives of Mechanical Technology and Materials",
+      "issn_l": "1233-9709",
+      "issn": [
+        "1233-9709",
+        "2391-7369",
+        "2450-9469"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320322",
+      "host_organization_name": "De Gruyter Open",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320322",
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter Open",
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Archives of Mechanical Technology and Materials",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5109772349",
+        "display_name": "Krzysztof Jarosz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Jarosz",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Opole , Prószkowskastr, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Opole , Prószkowskastr, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077973039",
+        "display_name": "Piotr Niesłony",
+        "orcid": "https://orcid.org/0000-0001-8776-8458"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Niesłony",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Opole , Prószkowskastr, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Opole , Prószkowskastr, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5107813569",
+        "display_name": "Piotr Löschner",
+        "orcid": "https://orcid.org/0009-0002-1787-1577"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119217307",
+          "display_name": "Opole University of Technology",
+          "ror": "https://ror.org/05sj5k538",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Löschner",
+      "raw_affiliation_strings": [
+        "Opole University of Technology, Opole , Prószkowskastr, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Opole University of Technology, Opole , Prószkowskastr, Poland",
+          "institution_ids": [
+            "https://openalex.org/I119217307"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.09548157,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "38",
+    "issue": "1",
+    "first_page": "40",
+    "last_page": "44"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10188",
+    "display_name": "Advanced machining processes and optimization",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10188",
+      "display_name": "Advanced machining processes and optimization",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12427",
+      "display_name": "Metal Alloys Wear and Properties",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13113",
+      "display_name": "Engineering Technology and Methodologies",
+      "score": 0.9947999715805054,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/machining",
+      "display_name": "Machining",
+      "score": 0.7673180103302002
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.7040057182312012
+    },
+    {
+      "id": "https://openalex.org/keywords/numerical-control",
+      "display_name": "Numerical control",
+      "score": 0.6684262156486511
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.5723943710327148
+    },
+    {
+      "id": "https://openalex.org/keywords/reduction",
+      "display_name": "Reduction (mathematics)",
+      "score": 0.5231395959854126
+    },
+    {
+      "id": "https://openalex.org/keywords/cutting-tool",
+      "display_name": "Cutting tool",
+      "score": 0.5121850371360779
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4103955626487732
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-drawing",
+      "display_name": "Engineering drawing",
+      "score": 0.332913339138031
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.30990880727767944
+    },
+    {
+      "id": "https://openalex.org/keywords/geometry",
+      "display_name": "Geometry",
+      "score": 0.14527016878128052
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.12894606590270996
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C523214423",
+      "wikidata": "https://www.wikidata.org/wiki/Q192047",
+      "display_name": "Machining",
+      "level": 2,
+      "score": 0.7673180103302002
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.7040057182312012
+    },
+    {
+      "id": "https://openalex.org/C175457265",
+      "wikidata": "https://www.wikidata.org/wiki/Q190247",
+      "display_name": "Numerical control",
+      "level": 3,
+      "score": 0.6684262156486511
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.5723943710327148
+    },
+    {
+      "id": "https://openalex.org/C111335779",
+      "wikidata": "https://www.wikidata.org/wiki/Q3454686",
+      "display_name": "Reduction (mathematics)",
+      "level": 2,
+      "score": 0.5231395959854126
+    },
+    {
+      "id": "https://openalex.org/C2780383046",
+      "wikidata": "https://www.wikidata.org/wiki/Q1760958",
+      "display_name": "Cutting tool",
+      "level": 2,
+      "score": 0.5121850371360779
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4103955626487732
+    },
+    {
+      "id": "https://openalex.org/C199639397",
+      "wikidata": "https://www.wikidata.org/wiki/Q1788588",
+      "display_name": "Engineering drawing",
+      "level": 1,
+      "score": 0.332913339138031
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.30990880727767944
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.14527016878128052
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.12894606590270996
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.2478/amtm-2018-0007",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2478/amtm-2018-0007",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2738613174",
+        "display_name": "Archiwum Technologii Maszyn i Automatyzacji/Archives of Mechanical Technology and Automation/Archives of Mechanical Technology and Materials",
+        "issn_l": "1233-9709",
+        "issn": [
+          "1233-9709",
+          "2391-7369",
+          "2450-9469"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320322",
+        "host_organization_name": "De Gruyter Open",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320322",
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter Open",
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Archives of Mechanical Technology and Materials",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b2d9abd893ad4408b5a41703f725f890",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/b2d9abd893ad4408b5a41703f725f890",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Archives of Mechanical Technology and Materials, Vol 38, Iss 1, Pp 40-44 (2018)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 12,
+  "referenced_works": [
+    "https://openalex.org/W571760425",
+    "https://openalex.org/W1970030229",
+    "https://openalex.org/W2005132697",
+    "https://openalex.org/W2010727841",
+    "https://openalex.org/W2028400866",
+    "https://openalex.org/W2042794693",
+    "https://openalex.org/W2051562775",
+    "https://openalex.org/W2572428170",
+    "https://openalex.org/W2607417900",
+    "https://openalex.org/W2721097880",
+    "https://openalex.org/W2739809008",
+    "https://openalex.org/W2981106185"
+  ],
+  "related_works": [
+    "https://openalex.org/W2803338891",
+    "https://openalex.org/W2112229447",
+    "https://openalex.org/W2043267898",
+    "https://openalex.org/W2063119839",
+    "https://openalex.org/W2036155574",
+    "https://openalex.org/W2053955898",
+    "https://openalex.org/W2358281326",
+    "https://openalex.org/W2715761471",
+    "https://openalex.org/W4210810440",
+    "https://openalex.org/W2379468997"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "In": [
+      1
+    ],
+    "this": [
+      2,
+      52
+    ],
+    "article,": [
+      3
+    ],
+    "a": [
+      4,
+      176
+    ],
+    "novel": [
+      5
+    ],
+    "approach": [
+      6,
+      53
+    ],
+    "to": [
+      7,
+      49,
+      93
+    ],
+    "computer": [
+      8
+    ],
+    "optimization": [
+      9,
+      57
+    ],
+    "of": [
+      10,
+      15,
+      20,
+      30,
+      37,
+      42,
+      70,
+      79,
+      82,
+      97,
+      101,
+      116,
+      128,
+      137,
+      149,
+      161,
+      172,
+      180,
+      195
+    ],
+    "CNC": [
+      11
+    ],
+    "toolpaths": [
+      12
+    ],
+    "by": [
+      13,
+      27,
+      54,
+      58
+    ],
+    "adjustment": [
+      14,
+      194
+    ],
+    "cutting": [
+      16,
+      104,
+      117,
+      132,
+      138,
+      152,
+      162,
+      196,
+      204
+    ],
+    "speed": [
+      17,
+      105,
+      139,
+      153,
+      163,
+      197
+    ],
+    "vcand": [
+      18
+    ],
+    "depth": [
+      19,
+      100,
+      127,
+      148,
+      171
+    ],
+    "cut": [
+      21,
+      102,
+      129,
+      150,
+      173
+    ],
+    "apis": [
+      22
+    ],
+    "presented.": [
+      23
+    ],
+    "Available": [
+      24
+    ],
+    "software": [
+      25
+    ],
+    "works": [
+      26
+    ],
+    "the": [
+      28,
+      35,
+      43,
+      75,
+      83,
+      95,
+      114,
+      135,
+      159,
+      190,
+      193
+    ],
+    "principle": [
+      29
+    ],
+    "adjusting": [
+      31
+    ],
+    "feed": [
+      32
+    ],
+    "rate": [
+      33
+    ],
+    "on": [
+      34,
+      106,
+      113,
+      140
+    ],
+    "basis": [
+      36
+    ],
+    "calculations": [
+      38
+    ],
+    "and": [
+      39,
+      66,
+      103,
+      119,
+      151,
+      208
+    ],
+    "numerical": [
+      40
+    ],
+    "simulation": [
+      41
+    ],
+    "machining": [
+      44,
+      181,
+      200
+    ],
+    "process.": [
+      45
+    ],
+    "The": [
+      46,
+      122
+    ],
+    "authors": [
+      47,
+      123
+    ],
+    "wish": [
+      48
+    ],
+    "expand": [
+      50
+    ],
+    "upon": [
+      51
+    ],
+    "proposing": [
+      55
+    ],
+    "toolpath": [
+      56
+    ],
+    "altering": [
+      59
+    ],
+    "two": [
+      60
+    ],
+    "other": [
+      61,
+      191
+    ],
+    "basic": [
+      62
+    ],
+    "process": [
+      63,
+      86,
+      107
+    ],
+    "parameters.": [
+      64
+    ],
+    "Intricacies": [
+      65
+    ],
+    "problems": [
+      67
+    ],
+    "related": [
+      68
+    ],
+    "totheadjustment": [
+      69
+    ],
+    "apand": [
+      71
+    ],
+    "vcwere": [
+      72
+    ],
+    "explained": [
+      73
+    ],
+    "in": [
+      74,
+      99,
+      146,
+      170
+    ],
+    "introductory": [
+      76
+    ],
+    "part.": [
+      77
+    ],
+    "Simulation": [
+      78
+    ],
+    "different": [
+      80,
+      88
+    ],
+    "variant": [
+      81
+    ],
+    "same": [
+      84
+    ],
+    "turning": [
+      85
+    ],
+    "with": [
+      87
+    ],
+    "parameter": [
+      89
+    ],
+    "values": [
+      90,
+      207
+    ],
+    "were": [
+      91,
+      111
+    ],
+    "conducted": [
+      92
+    ],
+    "evaluate": [
+      94
+    ],
+    "effect": [
+      96,
+      136
+    ],
+    "changes": [
+      98
+    ],
+    "performance.": [
+      108
+    ],
+    "Obtained": [
+      109
+    ],
+    "results": [
+      110
+    ],
+    "investigated": [
+      112
+    ],
+    "account": [
+      115
+    ],
+    "force": [
+      118,
+      205
+    ],
+    "tool": [
+      120,
+      155,
+      185
+    ],
+    "life.": [
+      121
+    ],
+    "have": [
+      124
+    ],
+    "found": [
+      125
+    ],
+    "that": [
+      126
+    ],
+    "substantially": [
+      130
+    ],
+    "affects": [
+      131,
+      154
+    ],
+    "force,": [
+      133
+    ],
+    "while": [
+      134,
+      183
+    ],
+    "it": [
+      141
+    ],
+    "is": [
+      142,
+      164
+    ],
+    "minimal.": [
+      143
+    ],
+    "An": [
+      144,
+      168
+    ],
+    "increase": [
+      145,
+      169
+    ],
+    "both": [
+      147
+    ],
+    "life": [
+      156,
+      186
+    ],
+    "negatively,": [
+      157
+    ],
+    "although": [
+      158
+    ],
+    "impact": [
+      160
+    ],
+    "much": [
+      165
+    ],
+    "more": [
+      166,
+      177
+    ],
+    "severe.": [
+      167
+    ],
+    "allows": [
+      174
+    ],
+    "for": [
+      175
+    ],
+    "significant": [
+      178
+    ],
+    "reduction": [
+      179
+    ],
+    "time,": [
+      182
+    ],
+    "affecting": [
+      184
+    ],
+    "less": [
+      187
+    ],
+    "negatively.": [
+      188
+    ],
+    "On": [
+      189
+    ],
+    "hand,": [
+      192
+    ],
+    "helpsto": [
+      198
+    ],
+    "reduce": [
+      199
+    ],
+    "time": [
+      201
+    ],
+    "without": [
+      202
+    ],
+    "increasing": [
+      203
+    ],
+    "component": [
+      206
+    ],
+    "spindle": [
+      209
+    ],
+    "load.": [
+      210
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2018-08-31T00:00:00"
+}

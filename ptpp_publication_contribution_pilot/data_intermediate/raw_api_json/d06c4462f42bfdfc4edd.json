@@ -1,0 +1,864 @@
+{
+  "id": "https://openalex.org/W4400141328",
+  "doi": "https://doi.org/10.48550/arxiv.2406.18626",
+  "title": "An LLM-based Knowledge Synthesis and Scientific Reasoning Framework for Biomedical Discovery",
+  "display_name": "An LLM-based Knowledge Synthesis and Scientific Reasoning Framework for Biomedical Discovery",
+  "publication_year": 2024,
+  "publication_date": "2024-06-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4400141328",
+    "doi": "https://doi.org/10.48550/arxiv.2406.18626"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2406.18626",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2406.18626",
+    "pdf_url": "https://arxiv.org/pdf/2406.18626",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2406.18626",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5082922366",
+        "display_name": "Oskar Wysocki",
+        "orcid": "https://orcid.org/0000-0002-7053-4919"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wysocki, Oskar",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016561885",
+        "display_name": "Magdalena Wysocka",
+        "orcid": "https://orcid.org/0000-0003-2216-5597"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wysocka, Magdalena",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038571817",
+        "display_name": "Danilo S. Carvalho",
+        "orcid": "https://orcid.org/0000-0002-8124-9224"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Carvalho, Danilo",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020308111",
+        "display_name": "Alex Bogatu",
+        "orcid": "https://orcid.org/0000-0003-1604-5097"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bogatu, Alex Teodor",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5099670386",
+        "display_name": "Danilo Gusicuma",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Gusicuma, Danilo Miranda",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037083167",
+        "display_name": "Maxime Delmas",
+        "orcid": "https://orcid.org/0000-0002-8109-1113"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Delmas, Maxime",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015029955",
+        "display_name": "Harriet Unsworth",
+        "orcid": "https://orcid.org/0000-0002-1427-6783"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Unsworth, Harriet",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5053978668",
+        "display_name": "André Freitas",
+        "orcid": "https://orcid.org/0000-0002-4430-4837"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Freitas, Andre",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11710",
+    "display_name": "Biomedical Text Mining and Ontologies",
+    "score": 0.9805999994277954,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11710",
+      "display_name": "Biomedical Text Mining and Ontologies",
+      "score": 0.9805999994277954,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "score": 0.9768000245094299,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/scientific-reasoning",
+      "display_name": "Scientific reasoning",
+      "score": 0.4908960461616516
+    },
+    {
+      "id": "https://openalex.org/keywords/scientific-discovery",
+      "display_name": "Scientific discovery",
+      "score": 0.483007550239563
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4774254262447357
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.4674355089664459
+    },
+    {
+      "id": "https://openalex.org/keywords/management-science",
+      "display_name": "Management science",
+      "score": 0.3296011686325073
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.3250165581703186
+    },
+    {
+      "id": "https://openalex.org/keywords/nanotechnology",
+      "display_name": "Nanotechnology",
+      "score": 0.32127511501312256
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.19721591472625732
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.16938108205795288
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.1339614987373352
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.10742861032485962
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.08143320679664612
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2992562121",
+      "wikidata": "https://www.wikidata.org/wiki/Q3817808",
+      "display_name": "Scientific reasoning",
+      "level": 2,
+      "score": 0.4908960461616516
+    },
+    {
+      "id": "https://openalex.org/C2984917352",
+      "wikidata": "https://www.wikidata.org/wiki/Q12772819",
+      "display_name": "Scientific discovery",
+      "level": 2,
+      "score": 0.483007550239563
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4774254262447357
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.4674355089664459
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.3296011686325073
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.3250165581703186
+    },
+    {
+      "id": "https://openalex.org/C171250308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11468",
+      "display_name": "Nanotechnology",
+      "level": 1,
+      "score": 0.32127511501312256
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.19721591472625732
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.16938108205795288
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.1339614987373352
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.10742861032485962
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.08143320679664612
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2406.18626",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2406.18626",
+      "pdf_url": "https://arxiv.org/pdf/2406.18626",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2406.18626",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2406.18626",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2406.18626",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2406.18626",
+    "pdf_url": "https://arxiv.org/pdf/2406.18626",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1194109460",
+      "display_name": null,
+      "funder_award_id": "965397",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G7842005466",
+      "display_name": null,
+      "funder_award_id": "Horizon 2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320319990",
+      "display_name": "National Institute for Health and Care Research",
+      "ror": "https://ror.org/0187kwz08"
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320333687",
+      "display_name": "Manchester Biomedical Research Centre",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4400141328.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2126681669",
+    "https://openalex.org/W2788523062",
+    "https://openalex.org/W2497349027",
+    "https://openalex.org/W2031973824",
+    "https://openalex.org/W2148010638",
+    "https://openalex.org/W124383759",
+    "https://openalex.org/W4206663545",
+    "https://openalex.org/W4231480706",
+    "https://openalex.org/W2113422468",
+    "https://openalex.org/W2413102523"
+  ],
+  "abstract_inverted_index": {
+    "We": [
+      0
+    ],
+    "present": [
+      1
+    ],
+    "BioLunar,": [
+      2
+    ],
+    "developed": [
+      3
+    ],
+    "using": [
+      4
+    ],
+    "the": [
+      5,
+      45,
+      100,
+      103
+    ],
+    "Lunar": [
+      6
+    ],
+    "framework,": [
+      7
+    ],
+    "as": [
+      8
+    ],
+    "a": [
+      9,
+      16,
+      73
+    ],
+    "tool": [
+      10
+    ],
+    "for": [
+      11,
+      23,
+      47
+    ],
+    "supporting": [
+      12
+    ],
+    "biological": [
+      13
+    ],
+    "analyses,": [
+      14
+    ],
+    "with": [
+      15
+    ],
+    "particular": [
+      17
+    ],
+    "emphasis": [
+      18
+    ],
+    "on": [
+      19
+    ],
+    "molecular-level": [
+      20
+    ],
+    "evidence": [
+      21,
+      42
+    ],
+    "enrichment": [
+      22
+    ],
+    "biomarker": [
+      24
+    ],
+    "discovery": [
+      25,
+      92
+    ],
+    "in": [
+      26,
+      58
+    ],
+    "oncology.": [
+      27
+    ],
+    "The": [
+      28
+    ],
+    "platform": [
+      29
+    ],
+    "integrates": [
+      30
+    ],
+    "Large": [
+      31
+    ],
+    "Language": [
+      32
+    ],
+    "Models": [
+      33
+    ],
+    "(LLMs)": [
+      34
+    ],
+    "to": [
+      35,
+      83,
+      112
+    ],
+    "facilitate": [
+      36
+    ],
+    "complex": [
+      37
+    ],
+    "scientific": [
+      38,
+      86,
+      91
+    ],
+    "reasoning": [
+      39,
+      50
+    ],
+    "across": [
+      40
+    ],
+    "distributed": [
+      41
+    ],
+    "spaces,": [
+      43
+    ],
+    "enhancing": [
+      44
+    ],
+    "capability": [
+      46
+    ],
+    "harmonizing": [
+      48
+    ],
+    "and": [
+      49,
+      68,
+      72,
+      93,
+      109,
+      117
+    ],
+    "over": [
+      51
+    ],
+    "heterogeneous": [
+      52,
+      96
+    ],
+    "data": [
+      53,
+      66,
+      69
+    ],
+    "sources.": [
+      54
+    ],
+    "Demonstrating": [
+      55
+    ],
+    "its": [
+      56
+    ],
+    "utility": [
+      57
+    ],
+    "cancer": [
+      59
+    ],
+    "research,": [
+      60
+    ],
+    "BioLunar": [
+      61,
+      98
+    ],
+    "leverages": [
+      62
+    ],
+    "modular": [
+      63
+    ],
+    "design,": [
+      64
+    ],
+    "reusable": [
+      65
+    ],
+    "access": [
+      67
+    ],
+    "analysis": [
+      70
+    ],
+    "components,": [
+      71
+    ],
+    "low-code": [
+      74
+    ],
+    "user": [
+      75
+    ],
+    "interface,": [
+      76
+    ],
+    "enabling": [
+      77
+    ],
+    "researchers": [
+      78
+    ],
+    "of": [
+      79,
+      102
+    ],
+    "all": [
+      80
+    ],
+    "programming": [
+      81
+    ],
+    "levels": [
+      82
+    ],
+    "construct": [
+      84
+    ],
+    "LLM-enabled": [
+      85
+    ],
+    "workflows.": [
+      87
+    ],
+    "By": [
+      88
+    ],
+    "facilitating": [
+      89
+    ],
+    "automatic": [
+      90
+    ],
+    "inference": [
+      94
+    ],
+    "from": [
+      95
+    ],
+    "evidence,": [
+      97
+    ],
+    "exemplifies": [
+      99
+    ],
+    "potential": [
+      101
+    ],
+    "integration": [
+      104
+    ],
+    "between": [
+      105
+    ],
+    "LLMs,": [
+      106
+    ],
+    "specialised": [
+      107
+    ],
+    "databases": [
+      108
+    ],
+    "biomedical": [
+      110
+    ],
+    "tools": [
+      111
+    ],
+    "support": [
+      113
+    ],
+    "expert-level": [
+      114
+    ],
+    "knowledge": [
+      115
+    ],
+    "synthesis": [
+      116
+    ],
+    "discovery.": [
+      118
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2024-06-29T00:00:00"
+}

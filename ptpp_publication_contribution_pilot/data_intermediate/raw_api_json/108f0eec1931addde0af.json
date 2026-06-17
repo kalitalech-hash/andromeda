@@ -1,0 +1,2683 @@
+{
+  "id": "https://openalex.org/W4213163147",
+  "doi": "https://doi.org/10.1016/j.celrep.2022.110352",
+  "title": "Activation-induced chromatin reorganization in neurons depends on HDAC1 activity",
+  "display_name": "Activation-induced chromatin reorganization in neurons depends on HDAC1 activity",
+  "publication_year": 2022,
+  "publication_date": "2022-02-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4213163147",
+    "doi": "https://doi.org/10.1016/j.celrep.2022.110352",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35172152"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.celrep.2022.110352",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.celrep.2022.110352",
+    "pdf_url": "http://www.cell.com/article/S2211124722000687/pdf",
+    "source": {
+      "id": "https://openalex.org/S169236886",
+      "display_name": "Cell Reports",
+      "issn_l": "2211-1247",
+      "issn": [
+        "2211-1247",
+        "2639-1856"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.cell.com/article/S2211124722000687/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101547290",
+        "display_name": "Agnieszka Grabowska",
+        "orcid": "https://orcid.org/0000-0002-8804-6817"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka Grabowska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025208233",
+        "display_name": "Hanna Sas‐Nowosielska",
+        "orcid": "https://orcid.org/0000-0001-6736-9740"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna Sas-Nowosielska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010251238",
+        "display_name": "Bartosz Wojtaś",
+        "orcid": "https://orcid.org/0000-0002-9967-910X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartosz Wojtas",
+      "raw_affiliation_strings": [
+        "Laboratory of Sequencing, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9967-910X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Sequencing, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086279011",
+        "display_name": "Dagmara Holm-Kaczmarek",
+        "orcid": "https://orcid.org/0000-0002-4136-5175"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dagmara Holm-Kaczmarek",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060655027",
+        "display_name": "Elżbieta Januszewicz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elzbieta Januszewicz",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052104121",
+        "display_name": "Yana Yushkevich",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yana Yushkevich",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080500543",
+        "display_name": "Iwona Czaban",
+        "orcid": "https://orcid.org/0000-0002-8038-1573"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iwona Czaban",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066356874",
+        "display_name": "Paweł Trzaskoma",
+        "orcid": "https://orcid.org/0000-0002-5823-6572"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pawel Trzaskoma",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016459697",
+        "display_name": "K Krawczyk",
+        "orcid": "https://orcid.org/0000-0001-8980-2103"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Krawczyk",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084724515",
+        "display_name": "Bartłomiej Gielniewski",
+        "orcid": "https://orcid.org/0000-0001-8067-0618"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartlomiej Gielniewski",
+      "raw_affiliation_strings": [
+        "Laboratory of Sequencing, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Sequencing, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012019388",
+        "display_name": "Ana Martín-González",
+        "orcid": "https://orcid.org/0000-0002-7897-4118"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134820265",
+          "display_name": "Consejo Superior de Investigaciones Científicas",
+          "ror": "https://ror.org/02gfc7t72",
+          "country_code": "ES",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I134820265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087099",
+          "display_name": "Instituto de Neurociencias",
+          "ror": "https://ror.org/000nhpy59",
+          "country_code": "ES",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I111262870",
+            "https://openalex.org/I134820265",
+            "https://openalex.org/I4210087099"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "ES",
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ana Martin-Gonzalez",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland; Instituto de Neurociencias, Universidad Miguel Hernández-Consejo Superior de Investigaciones Científicas, San Juan de Alicante, 03550 Alicante, Spain",
+        "Instituto de Neurociencias, Universidad Miguel Hernández-Consejo Superior de Investigaciones Científicas, San Juan de Alicante, 03550 Alicante, Spain",
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7897-4118",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland; Instituto de Neurociencias, Universidad Miguel Hernández-Consejo Superior de Investigaciones Científicas, San Juan de Alicante, 03550 Alicante, Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210087099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Instituto de Neurociencias, Universidad Miguel Hernández-Consejo Superior de Investigaciones Científicas, San Juan de Alicante, 03550 Alicante, Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210087099",
+            "https://openalex.org/I134820265"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075390758",
+        "display_name": "Robert K. Filipkowski",
+        "orcid": "https://orcid.org/0000-0002-9911-9751"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210157213",
+          "display_name": "Mossakowski Medical Research Institute,  Polish Academy of Sciences",
+          "ror": "https://ror.org/05d3ntb42",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210157213",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Kuba Filipkowski",
+      "raw_affiliation_strings": [
+        "Behavior and Metabolism Research Laboratory, Mossakowski Medical Research Institute, Polish Academy of Sciences, 02-106 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Behavior and Metabolism Research Laboratory, Mossakowski Medical Research Institute, Polish Academy of Sciences, 02-106 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210157213",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032396198",
+        "display_name": "Krzysztof H. Olszyński",
+        "orcid": "https://orcid.org/0000-0003-2114-4487"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210157213",
+          "display_name": "Mossakowski Medical Research Institute,  Polish Academy of Sciences",
+          "ror": "https://ror.org/05d3ntb42",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210157213",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Hubert Olszynski",
+      "raw_affiliation_strings": [
+        "Behavior and Metabolism Research Laboratory, Mossakowski Medical Research Institute, Polish Academy of Sciences, 02-106 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2114-4487",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Behavior and Metabolism Research Laboratory, Mossakowski Medical Research Institute, Polish Academy of Sciences, 02-106 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210157213",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082011854",
+        "display_name": "Tytus Bernaś",
+        "orcid": "https://orcid.org/0000-0003-0841-5940"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210166857",
+          "display_name": "Children's Hospital of Richmond at VCU",
+          "ror": "https://ror.org/05vp5x049",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210166857"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tytus Bernas",
+      "raw_affiliation_strings": [
+        "Laboratory of Imaging Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland; Department of Anatomy and Neurology, VCU School of Medicine, Richmond, VA 23284, USA",
+        "Department of Anatomy and Neurology, VCU School of Medicine, Richmond, VA 23284, USA",
+        "Laboratory of Imaging Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0841-5940",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Imaging Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland; Department of Anatomy and Neurology, VCU School of Medicine, Richmond, VA 23284, USA",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Anatomy and Neurology, VCU School of Medicine, Richmond, VA 23284, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210166857"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Imaging Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073666354",
+        "display_name": "Andrzej A. Szczepankiewicz",
+        "orcid": "https://orcid.org/0000-0002-1502-3147"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrzej Antoni Szczepankiewicz",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041988671",
+        "display_name": "Małgorzata Alicja Śliwińska",
+        "orcid": "https://orcid.org/0000-0002-5016-4949"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Malgorzata Alicja Sliwinska",
+      "raw_affiliation_strings": [
+        "Laboratory of Imaging Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Imaging Tissue Structure and Function, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003019644",
+        "display_name": "Tambudzai Kanhema",
+        "orcid": "https://orcid.org/0000-0001-8912-2263"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4432739",
+          "display_name": "University of Bergen",
+          "ror": "https://ror.org/03zga2b32",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4432739"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tambudzai Kanhema",
+      "raw_affiliation_strings": [
+        "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway; KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+        "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway",
+        "KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway; KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        },
+        {
+          "raw_affiliation_string": "KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031440505",
+        "display_name": "Clive R. Bramham",
+        "orcid": "https://orcid.org/0000-0001-5958-7115"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4432739",
+          "display_name": "University of Bergen",
+          "ror": "https://ror.org/03zga2b32",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4432739"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clive R. Bramham",
+      "raw_affiliation_strings": [
+        "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway; KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+        "KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+        "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway; KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        },
+        {
+          "raw_affiliation_string": "KG Jebsen Centre for Neuropsychiatric Disorders, University of Bergen, 5020 Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biomedicine, University of Bergen, 5020 Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020346637",
+        "display_name": "Grzegorz Bokota",
+        "orcid": "https://orcid.org/0000-0002-5470-1676"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Bokota",
+      "raw_affiliation_strings": [
+        "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland; Institute of Informatics, University of Warsaw, 02-097 Warsaw, Poland",
+        "Institute of Informatics, University of Warsaw, 02-097 Warsaw, Poland",
+        "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5470-1676",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland; Institute of Informatics, University of Warsaw, 02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613",
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Informatics, University of Warsaw, 02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021916927",
+        "display_name": "Dariusz Plewczyński",
+        "orcid": "https://orcid.org/0000-0002-3840-7610"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dariusz Plewczynski",
+      "raw_affiliation_strings": [
+        "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland; Faculty of Mathematics and Information Science, Warsaw University of Technology, 00-662 Warsaw, Poland",
+        "Faculty of Mathematics and Information Science, Warsaw University of Technology, 00-662 Warsaw, Poland",
+        "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3840-7610",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland; Faculty of Mathematics and Information Science, Warsaw University of Technology, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487",
+            "https://openalex.org/I4654613"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Faculty of Mathematics and Information Science, Warsaw University of Technology, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centre of New Technologies, University of Warsaw, 02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070005083",
+        "display_name": "Grzegorz M. Wilczyński",
+        "orcid": "https://orcid.org/0000-0001-6667-0291"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Marek Wilczynski",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular and Systemic Neuromorphology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034325899",
+        "display_name": "Adriana Magalska",
+        "orcid": "https://orcid.org/0000-0002-0517-7134"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Adriana Magalska",
+      "raw_affiliation_strings": [
+        "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland. Electronic address: a.magalska@nencki.edu.pl",
+        "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0517-7134",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland. Electronic address: a.magalska@nencki.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Basis of Cell Motility, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 22,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5034325899"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I16778253",
+    "https://openalex.org/I99542240"
+  ],
+  "apc_list": {
+    "value": 5200,
+    "currency": "USD",
+    "value_usd": 5200
+  },
+  "apc_paid": {
+    "value": 5200,
+    "currency": "USD",
+    "value_usd": 5200
+  },
+  "fwci": 1.4725,
+  "has_fulltext": true,
+  "cited_by_count": 20,
+  "citation_normalized_percentile": {
+    "value": 0.81342978,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "38",
+    "issue": "7",
+    "first_page": "110352",
+    "last_page": "110352"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11736",
+    "display_name": "Histone Deacetylase Inhibitors Research",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11736",
+      "display_name": "Histone Deacetylase Inhibitors Research",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12534",
+      "display_name": "Protein Degradation and Inhibitors",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/chromatin",
+      "display_name": "Chromatin",
+      "score": 0.8638464212417603
+    },
+    {
+      "id": "https://openalex.org/keywords/hdac1",
+      "display_name": "HDAC1",
+      "score": 0.5567556619644165
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.5528572797775269
+    },
+    {
+      "id": "https://openalex.org/keywords/prophase",
+      "display_name": "Prophase",
+      "score": 0.5103165507316589
+    },
+    {
+      "id": "https://openalex.org/keywords/histone",
+      "display_name": "Histone",
+      "score": 0.5032891631126404
+    },
+    {
+      "id": "https://openalex.org/keywords/histone-deacetylase",
+      "display_name": "Histone deacetylase",
+      "score": 0.499497652053833
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.46930837631225586
+    },
+    {
+      "id": "https://openalex.org/keywords/regulator",
+      "display_name": "Regulator",
+      "score": 0.46356213092803955
+    },
+    {
+      "id": "https://openalex.org/keywords/chia-pet",
+      "display_name": "ChIA-PET",
+      "score": 0.43859240412712097
+    },
+    {
+      "id": "https://openalex.org/keywords/chromatin-remodeling",
+      "display_name": "Chromatin remodeling",
+      "score": 0.3770488500595093
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.34567689895629883
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.19052919745445251
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.151454895734787
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.12469556927680969
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C83640560",
+      "wikidata": "https://www.wikidata.org/wiki/Q180951",
+      "display_name": "Chromatin",
+      "level": 3,
+      "score": 0.8638464212417603
+    },
+    {
+      "id": "https://openalex.org/C85240754",
+      "wikidata": "https://www.wikidata.org/wiki/Q14914420",
+      "display_name": "HDAC1",
+      "level": 5,
+      "score": 0.5567556619644165
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5528572797775269
+    },
+    {
+      "id": "https://openalex.org/C45413362",
+      "wikidata": "https://www.wikidata.org/wiki/Q6013254",
+      "display_name": "Prophase",
+      "level": 4,
+      "score": 0.5103165507316589
+    },
+    {
+      "id": "https://openalex.org/C64927066",
+      "wikidata": "https://www.wikidata.org/wiki/Q36293",
+      "display_name": "Histone",
+      "level": 3,
+      "score": 0.5032891631126404
+    },
+    {
+      "id": "https://openalex.org/C2778305200",
+      "wikidata": "https://www.wikidata.org/wiki/Q174378",
+      "display_name": "Histone deacetylase",
+      "level": 4,
+      "score": 0.499497652053833
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.46930837631225586
+    },
+    {
+      "id": "https://openalex.org/C6929976",
+      "wikidata": "https://www.wikidata.org/wiki/Q3771881",
+      "display_name": "Regulator",
+      "level": 3,
+      "score": 0.46356213092803955
+    },
+    {
+      "id": "https://openalex.org/C67258246",
+      "wikidata": "https://www.wikidata.org/wiki/Q5065897",
+      "display_name": "ChIA-PET",
+      "level": 5,
+      "score": 0.43859240412712097
+    },
+    {
+      "id": "https://openalex.org/C167227067",
+      "wikidata": "https://www.wikidata.org/wiki/Q5113739",
+      "display_name": "Chromatin remodeling",
+      "level": 4,
+      "score": 0.3770488500595093
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.34567689895629883
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.19052919745445251
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.151454895734787
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.12469556927680969
+    },
+    {
+      "id": "https://openalex.org/C148196450",
+      "wikidata": "https://www.wikidata.org/wiki/Q21100485",
+      "display_name": "Meiosis",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002843",
+      "descriptor_name": "Chromatin",
+      "qualifier_ui": "Q000648",
+      "qualifier_name": "ultrastructure",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004734",
+      "descriptor_name": "Energy Metabolism",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004734",
+      "descriptor_name": "Energy Metabolism",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004734",
+      "descriptor_name": "Energy Metabolism",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004734",
+      "descriptor_name": "Energy Metabolism",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000166",
+      "qualifier_name": "cytology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008810",
+      "descriptor_name": "Mice, Inbred C57BL",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008810",
+      "descriptor_name": "Mice, Inbred C57BL",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008810",
+      "descriptor_name": "Mice, Inbred C57BL",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008810",
+      "descriptor_name": "Mice, Inbred C57BL",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009474",
+      "descriptor_name": "Neurons",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014158",
+      "descriptor_name": "Transcription, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017208",
+      "descriptor_name": "Rats, Wistar",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017208",
+      "descriptor_name": "Rats, Wistar",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017208",
+      "descriptor_name": "Rats, Wistar",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017208",
+      "descriptor_name": "Rats, Wistar",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017774",
+      "descriptor_name": "Long-Term Potentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017774",
+      "descriptor_name": "Long-Term Potentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017774",
+      "descriptor_name": "Long-Term Potentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017774",
+      "descriptor_name": "Long-Term Potentiation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020013",
+      "descriptor_name": "Calcium Signaling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020013",
+      "descriptor_name": "Calcium Signaling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020013",
+      "descriptor_name": "Calcium Signaling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020013",
+      "descriptor_name": "Calcium Signaling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033481",
+      "descriptor_name": "Chromosomes, Mammalian",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033481",
+      "descriptor_name": "Chromosomes, Mammalian",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033481",
+      "descriptor_name": "Chromosomes, Mammalian",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033481",
+      "descriptor_name": "Chromosomes, Mammalian",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056284",
+      "descriptor_name": "Histone Deacetylase 1",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056284",
+      "descriptor_name": "Histone Deacetylase 1",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056284",
+      "descriptor_name": "Histone Deacetylase 1",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056284",
+      "descriptor_name": "Histone Deacetylase 1",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.celrep.2022.110352",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.celrep.2022.110352",
+      "pdf_url": "http://www.cell.com/article/S2211124722000687/pdf",
+      "source": {
+        "id": "https://openalex.org/S169236886",
+        "display_name": "Cell Reports",
+        "issn_l": "2211-1247",
+        "issn": [
+          "2211-1247",
+          "2639-1856"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35172152",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35172152",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:digital.csic.es:10261/286088",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10261/286088",
+      "pdf_url": "https://digital.csic.es/bitstream/10261/286088/1/activavity.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400616",
+        "display_name": "DIGITAL.CSIC (Spanish National Research Council (CSIC))",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I134820265",
+        "host_organization_name": "Consejo Superior de Investigaciones Científicas",
+        "host_organization_lineage": [
+          "https://openalex.org/I134820265"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "artículo"
+    },
+    {
+      "id": "pmh:oai:bora.uib.no:11250/3057125",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11250/3057125",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401716",
+        "display_name": "Duo Research Archive (University of Oslo)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I184942183",
+        "host_organization_name": "University of Oslo",
+        "host_organization_lineage": [
+          "https://openalex.org/I184942183"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "110352",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:digital.csic.es:10261/311692",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10261/311692",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400616",
+        "display_name": "DIGITAL.CSIC (Spanish National Research Council (CSIC))",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I134820265",
+        "host_organization_name": "Consejo Superior de Investigaciones Científicas",
+        "host_organization_lineage": [
+          "https://openalex.org/I134820265"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "dataset"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.celrep.2022.110352",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.celrep.2022.110352",
+    "pdf_url": "http://www.cell.com/article/S2211124722000687/pdf",
+    "source": {
+      "id": "https://openalex.org/S169236886",
+      "display_name": "Cell Reports",
+      "issn_l": "2211-1247",
+      "issn": [
+        "2211-1247",
+        "2639-1856"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5400000214576721,
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2240847388",
+      "display_name": null,
+      "funder_award_id": "665735",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G2628364946",
+      "display_name": null,
+      "funder_award_id": "H2020",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G3345895242",
+      "display_name": null,
+      "funder_award_id": "H2020-MSCA",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G4937468798",
+      "display_name": null,
+      "funder_award_id": "H2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G5343910958",
+      "display_name": null,
+      "funder_award_id": "665735",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G7238768395",
+      "display_name": null,
+      "funder_award_id": "665735",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    },
+    {
+      "id": "https://openalex.org/G8512683158",
+      "display_name": null,
+      "funder_award_id": "H2020-MSCA",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320321042",
+      "display_name": "Fundacja na rzecz Nauki Polskiej",
+      "ror": "https://ror.org/048zd9m77"
+    },
+    {
+      "id": "https://openalex.org/F4320332999",
+      "display_name": "Horizon 2020 Framework Programme",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320335322",
+      "display_name": "European Regional Development Fund",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4213163147.pdf"
+  },
+  "referenced_works_count": 88,
+  "referenced_works": [
+    "https://openalex.org/W841650054",
+    "https://openalex.org/W1904711187",
+    "https://openalex.org/W1963868046",
+    "https://openalex.org/W1970192287",
+    "https://openalex.org/W1972587767",
+    "https://openalex.org/W1976411733",
+    "https://openalex.org/W1977419289",
+    "https://openalex.org/W1980902588",
+    "https://openalex.org/W1983937138",
+    "https://openalex.org/W1987540037",
+    "https://openalex.org/W1994556689",
+    "https://openalex.org/W1996277745",
+    "https://openalex.org/W2001320007",
+    "https://openalex.org/W2002401750",
+    "https://openalex.org/W2009826707",
+    "https://openalex.org/W2015149377",
+    "https://openalex.org/W2015252454",
+    "https://openalex.org/W2027967225",
+    "https://openalex.org/W2029687467",
+    "https://openalex.org/W2035618305",
+    "https://openalex.org/W2037863463",
+    "https://openalex.org/W2038320708",
+    "https://openalex.org/W2049586586",
+    "https://openalex.org/W2055223560",
+    "https://openalex.org/W2057230367",
+    "https://openalex.org/W2075650099",
+    "https://openalex.org/W2077416773",
+    "https://openalex.org/W2084946306",
+    "https://openalex.org/W2094988427",
+    "https://openalex.org/W2095031298",
+    "https://openalex.org/W2100303227",
+    "https://openalex.org/W2102444756",
+    "https://openalex.org/W2107277218",
+    "https://openalex.org/W2112316424",
+    "https://openalex.org/W2113261653",
+    "https://openalex.org/W2115283014",
+    "https://openalex.org/W2120504118",
+    "https://openalex.org/W2128313472",
+    "https://openalex.org/W2131105039",
+    "https://openalex.org/W2137273052",
+    "https://openalex.org/W2138207763",
+    "https://openalex.org/W2138957397",
+    "https://openalex.org/W2154298897",
+    "https://openalex.org/W2162098634",
+    "https://openalex.org/W2167279371",
+    "https://openalex.org/W2169456326",
+    "https://openalex.org/W2177873964",
+    "https://openalex.org/W2179438025",
+    "https://openalex.org/W2196899564",
+    "https://openalex.org/W2236809858",
+    "https://openalex.org/W2344305341",
+    "https://openalex.org/W2411280234",
+    "https://openalex.org/W2419668212",
+    "https://openalex.org/W2520943775",
+    "https://openalex.org/W2592464842",
+    "https://openalex.org/W2603776556",
+    "https://openalex.org/W2694038906",
+    "https://openalex.org/W2757387674",
+    "https://openalex.org/W2795649462",
+    "https://openalex.org/W2800216985",
+    "https://openalex.org/W2808828065",
+    "https://openalex.org/W2883896711",
+    "https://openalex.org/W2885410233",
+    "https://openalex.org/W2898137459",
+    "https://openalex.org/W2898560457",
+    "https://openalex.org/W2917897282",
+    "https://openalex.org/W2946503075",
+    "https://openalex.org/W2972175853",
+    "https://openalex.org/W2972344703",
+    "https://openalex.org/W2991785250",
+    "https://openalex.org/W3000011728",
+    "https://openalex.org/W3001144267",
+    "https://openalex.org/W3005963736",
+    "https://openalex.org/W3012293774",
+    "https://openalex.org/W3021960656",
+    "https://openalex.org/W3027029189",
+    "https://openalex.org/W3037015477",
+    "https://openalex.org/W3089191828",
+    "https://openalex.org/W3090072122",
+    "https://openalex.org/W3129632261",
+    "https://openalex.org/W3165424066",
+    "https://openalex.org/W6679412057",
+    "https://openalex.org/W6680396984",
+    "https://openalex.org/W6690024206",
+    "https://openalex.org/W6704822605",
+    "https://openalex.org/W6715049196",
+    "https://openalex.org/W6733848242",
+    "https://openalex.org/W6773928839"
+  ],
+  "related_works": [
+    "https://openalex.org/W4362414993",
+    "https://openalex.org/W2082699848",
+    "https://openalex.org/W2068731372",
+    "https://openalex.org/W2046031452",
+    "https://openalex.org/W4401616223",
+    "https://openalex.org/W2088701503",
+    "https://openalex.org/W2023670712",
+    "https://openalex.org/W1536446314",
+    "https://openalex.org/W4229054556",
+    "https://openalex.org/W111061145"
+  ],
+  "abstract_inverted_index": {
+    "Spatial": [
+      0
+    ],
+    "chromatin": [
+      1,
+      36,
+      62,
+      137
+    ],
+    "organization": [
+      2,
+      97
+    ],
+    "is": [
+      3,
+      64,
+      77,
+      83,
+      125
+    ],
+    "crucial": [
+      4
+    ],
+    "for": [
+      5
+    ],
+    "transcriptional": [
+      6,
+      144
+    ],
+    "regulation": [
+      7,
+      145
+    ],
+    "and": [
+      8,
+      58,
+      69,
+      92,
+      110
+    ],
+    "might": [
+      9
+    ],
+    "be": [
+      10,
+      41
+    ],
+    "particularly": [
+      11
+    ],
+    "important": [
+      12,
+      141
+    ],
+    "in": [
+      13,
+      21,
+      43,
+      45,
+      53,
+      55,
+      94,
+      114,
+      146
+    ],
+    "neurons": [
+      14,
+      31,
+      49
+    ],
+    "since": [
+      15
+    ],
+    "they": [
+      16
+    ],
+    "dramatically": [
+      17
+    ],
+    "change": [
+      18
+    ],
+    "their": [
+      19,
+      115
+    ],
+    "transcriptome": [
+      20
+    ],
+    "response": [
+      22
+    ],
+    "to": [
+      23,
+      104
+    ],
+    "external": [
+      24
+    ],
+    "stimuli.": [
+      25
+    ],
+    "We": [
+      26
+    ],
+    "show": [
+      27
+    ],
+    "that": [
+      28,
+      120,
+      135
+    ],
+    "stimulation": [
+      29
+    ],
+    "of": [
+      30,
+      34,
+      79,
+      88,
+      98,
+      107,
+      129,
+      143
+    ],
+    "causes": [
+      32
+    ],
+    "condensation": [
+      33,
+      63
+    ],
+    "large": [
+      35
+    ],
+    "domains.": [
+      37
+    ],
+    "This": [
+      38
+    ],
+    "phenomenon": [
+      39
+    ],
+    "can": [
+      40
+    ],
+    "observed": [
+      42
+    ],
+    "vitro": [
+      44
+    ],
+    "cultured": [
+      46
+    ],
+    "rat": [
+      47
+    ],
+    "hippocampal": [
+      48,
+      59
+    ],
+    "as": [
+      50,
+      52
+    ],
+    "well": [
+      51
+    ],
+    "vivo": [
+      54
+    ],
+    "the": [
+      56,
+      86,
+      95,
+      105,
+      121,
+      126
+    ],
+    "amygdala": [
+      57
+    ],
+    "neurons.": [
+      60,
+      147
+    ],
+    "Activity-induced": [
+      61
+    ],
+    "an": [
+      65,
+      140
+    ],
+    "active,": [
+      66
+    ],
+    "rapid,": [
+      67
+    ],
+    "energy-dependent,": [
+      68
+    ],
+    "reversible": [
+      70
+    ],
+    "process.": [
+      71,
+      131
+    ],
+    "It": [
+      72,
+      82
+    ],
+    "involves": [
+      73
+    ],
+    "calcium-dependent": [
+      74
+    ],
+    "pathways": [
+      75
+    ],
+    "but": [
+      76
+    ],
+    "independent": [
+      78
+    ],
+    "active": [
+      80,
+      111
+    ],
+    "transcription.": [
+      81
+    ],
+    "accompanied": [
+      84
+    ],
+    "by": [
+      85
+    ],
+    "redistribution": [
+      87
+    ],
+    "posttranslational": [
+      89
+    ],
+    "histone": [
+      90,
+      122
+    ],
+    "modifications": [
+      91
+    ],
+    "rearrangements": [
+      93
+    ],
+    "spatial": [
+      96
+    ],
+    "chromosome": [
+      99
+    ],
+    "territories.": [
+      100
+    ],
+    "Moreover,": [
+      101
+    ],
+    "it": [
+      102
+    ],
+    "leads": [
+      103
+    ],
+    "reorganization": [
+      106,
+      138
+    ],
+    "nuclear": [
+      108
+    ],
+    "speckles": [
+      109
+    ],
+    "domains": [
+      112
+    ],
+    "located": [
+      113
+    ],
+    "proximity.": [
+      116
+    ],
+    "Finally,": [
+      117
+    ],
+    "we": [
+      118
+    ],
+    "find": [
+      119
+    ],
+    "deacetylase": [
+      123
+    ],
+    "HDAC1": [
+      124
+    ],
+    "key": [
+      127
+    ],
+    "regulator": [
+      128
+    ],
+    "this": [
+      130
+    ],
+    "Our": [
+      132
+    ],
+    "results": [
+      133
+    ],
+    "suggest": [
+      134
+    ],
+    "HDAC1-dependent": [
+      136
+    ],
+    "constitutes": [
+      139
+    ],
+    "level": [
+      142
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2026-06-09T15:46:55.921056",
+  "created_date": "2025-10-10T00:00:00"
+}

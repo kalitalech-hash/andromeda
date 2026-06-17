@@ -1,0 +1,3129 @@
+{
+  "id": "https://openalex.org/W3170275732",
+  "doi": "https://doi.org/10.1038/s41467-021-24066-z",
+  "title": "Hypoxia-induced SETX links replication stress with the unfolded protein response",
+  "display_name": "Hypoxia-induced SETX links replication stress with the unfolded protein response",
+  "publication_year": 2021,
+  "publication_date": "2021-06-17",
+  "ids": {
+    "openalex": "https://openalex.org/W3170275732",
+    "doi": "https://doi.org/10.1038/s41467-021-24066-z",
+    "mag": "3170275732",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34140498"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41467-021-24066-z",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-021-24066-z",
+    "pdf_url": "https://www.nature.com/articles/s41467-021-24066-z.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41467-021-24066-z.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5021256948",
+        "display_name": "Shaliny Ramachandran",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shaliny Ramachandran",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101660266",
+        "display_name": "Stephen T. Tiffany",
+        "orcid": "https://orcid.org/0000-0001-7586-0716"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tiffany S. Ma",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7586-0716",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023494141",
+        "display_name": "Jon Griffin",
+        "orcid": "https://orcid.org/0000-0003-3969-7637"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210102902",
+          "display_name": "Sheffield Teaching Hospitals NHS Foundation Trust",
+          "ror": "https://ror.org/018hjpz25",
+          "country_code": "GB",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I4210102902"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I91136226",
+          "display_name": "University of Sheffield",
+          "ror": "https://ror.org/05krs5044",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jon Griffin",
+      "raw_affiliation_strings": [
+        "Department of Histopathology, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK",
+        "Department of Molecular Biology and Biotechnology, Healthy Lifespan and Neuroscience Institute, Firth Court, University of Sheffield, Sheffield, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3969-7637",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Histopathology, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210102902"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Molecular Biology and Biotechnology, Healthy Lifespan and Neuroscience Institute, Firth Court, University of Sheffield, Sheffield, UK",
+          "institution_ids": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103241257",
+        "display_name": "Natalie Ng",
+        "orcid": "https://orcid.org/0000-0003-0099-5557"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalie Ng",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086146395",
+        "display_name": "Iosifina P. Foskolou",
+        "orcid": "https://orcid.org/0000-0003-1874-6356"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iosifina P. Foskolou",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1874-6356",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077829245",
+        "display_name": "Ming‐Shih Hwang",
+        "orcid": "https://orcid.org/0000-0001-9044-3099"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ming-Shih Hwang",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051741305",
+        "display_name": "Pedro Victori",
+        "orcid": "https://orcid.org/0000-0001-6321-5584"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pedro Victori",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6321-5584",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103051300",
+        "display_name": "Wei‐Chen Cheng",
+        "orcid": "https://orcid.org/0000-0001-7526-0534"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wei-Chen Cheng",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075865182",
+        "display_name": "Francesca M. Buffa",
+        "orcid": "https://orcid.org/0000-0003-0409-406X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Francesca M. Buffa",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0409-406X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044365051",
+        "display_name": "Katarzyna B. Leszczyńska",
+        "orcid": "https://orcid.org/0000-0002-3504-1553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16778253",
+          "display_name": "Instytut Biologii Doświadczalnej im. Marcelego Nenckiego",
+          "ror": "https://ror.org/04waf7p94",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I16778253",
+            "https://openalex.org/I99542240"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99542240",
+          "display_name": "Polish Academy of Sciences",
+          "ror": "https://ror.org/01dr6c206",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna B. Leszczynska",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+        "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3504-1553",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Molecular Neurobiology, Neurobiology Center, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I99542240",
+            "https://openalex.org/I16778253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031379026",
+        "display_name": "Sherif F. El‐Khamisy",
+        "orcid": "https://orcid.org/0000-0003-2721-7763"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I139894009",
+          "display_name": "University of Bradford",
+          "ror": "https://ror.org/00vs8d940",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I139894009"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I91136226",
+          "display_name": "University of Sheffield",
+          "ror": "https://ror.org/05krs5044",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sherif F. El-Khamisy",
+      "raw_affiliation_strings": [
+        "Department of Molecular Biology and Biotechnology, Healthy Lifespan and Neuroscience Institute, Firth Court, University of Sheffield, Sheffield, UK",
+        "Institute of Cancer Therapeutics, University of Bradford, Bradford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2721-7763",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Molecular Biology and Biotechnology, Healthy Lifespan and Neuroscience Institute, Firth Court, University of Sheffield, Sheffield, UK",
+          "institution_ids": [
+            "https://openalex.org/I91136226"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Cancer Therapeutics, University of Bradford, Bradford, UK",
+          "institution_ids": [
+            "https://openalex.org/I139894009"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006543611",
+        "display_name": "Natalia Gromak",
+        "orcid": "https://orcid.org/0000-0002-4158-3586"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalia Gromak",
+      "raw_affiliation_strings": [
+        "Sir William Dunn School of Pathology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4158-3586",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Sir William Dunn School of Pathology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018081801",
+        "display_name": "Ester M. Hammond",
+        "orcid": "https://orcid.org/0000-0002-2335-3146"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106471",
+          "display_name": "CRUK/MRC Oxford Institute for Radiation Oncology",
+          "ror": "https://ror.org/011hz4254",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ester M. Hammond",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK. ester.hammond@oncology.ox.ac.uk",
+        "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2335-3146",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK. ester.hammond@oncology.ox.ac.uk",
+          "institution_ids": [
+            "https://openalex.org/I4210106471"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Oncology, Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210106471",
+            "https://openalex.org/I40120149"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 13,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5018081801"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I40120149",
+    "https://openalex.org/I4210106471"
+  ],
+  "apc_list": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "apc_paid": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "fwci": 2.524,
+  "has_fulltext": true,
+  "cited_by_count": 45,
+  "citation_normalized_percentile": {
+    "value": 0.90502394,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "1",
+    "first_page": "3686",
+    "last_page": "3686"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10123",
+    "display_name": "DNA Repair Mechanisms",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10123",
+      "display_name": "DNA Repair Mechanisms",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "score": 0.9958999752998352,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/atf4",
+      "display_name": "ATF4",
+      "score": 0.6790862083435059
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-damage",
+      "display_name": "DNA damage",
+      "score": 0.6702983379364014
+    },
+    {
+      "id": "https://openalex.org/keywords/transcription",
+      "display_name": "Transcription (linguistics)",
+      "score": 0.6077338457107544
+    },
+    {
+      "id": "https://openalex.org/keywords/helicase",
+      "display_name": "Helicase",
+      "score": 0.5990293622016907
+    },
+    {
+      "id": "https://openalex.org/keywords/hypoxia",
+      "display_name": "Hypoxia (environmental)",
+      "score": 0.5756530165672302
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5518956780433655
+    },
+    {
+      "id": "https://openalex.org/keywords/integrated-stress-response",
+      "display_name": "Integrated stress response",
+      "score": 0.551047682762146
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.5498809218406677
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-replication",
+      "display_name": "DNA replication",
+      "score": 0.5404080152511597
+    },
+    {
+      "id": "https://openalex.org/keywords/unfolded-protein-response",
+      "display_name": "Unfolded protein response",
+      "score": 0.5045169591903687
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.47625064849853516
+    },
+    {
+      "id": "https://openalex.org/keywords/transcription-factor",
+      "display_name": "Transcription factor",
+      "score": 0.43023595213890076
+    },
+    {
+      "id": "https://openalex.org/keywords/rna",
+      "display_name": "RNA",
+      "score": 0.42090386152267456
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.3037174940109253
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.2926928400993347
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.2374211847782135
+    },
+    {
+      "id": "https://openalex.org/keywords/messenger-rna",
+      "display_name": "Messenger RNA",
+      "score": 0.19391661882400513
+    },
+    {
+      "id": "https://openalex.org/keywords/translation",
+      "display_name": "Translation (biology)",
+      "score": 0.07037609815597534
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780900454",
+      "wikidata": "https://www.wikidata.org/wiki/Q21102119",
+      "display_name": "ATF4",
+      "level": 4,
+      "score": 0.6790862083435059
+    },
+    {
+      "id": "https://openalex.org/C143425029",
+      "wikidata": "https://www.wikidata.org/wiki/Q5205747",
+      "display_name": "DNA damage",
+      "level": 3,
+      "score": 0.6702983379364014
+    },
+    {
+      "id": "https://openalex.org/C179926584",
+      "wikidata": "https://www.wikidata.org/wiki/Q207714",
+      "display_name": "Transcription (linguistics)",
+      "level": 2,
+      "score": 0.6077338457107544
+    },
+    {
+      "id": "https://openalex.org/C161223559",
+      "wikidata": "https://www.wikidata.org/wiki/Q138864",
+      "display_name": "Helicase",
+      "level": 4,
+      "score": 0.5990293622016907
+    },
+    {
+      "id": "https://openalex.org/C7836513",
+      "wikidata": "https://www.wikidata.org/wiki/Q1641506",
+      "display_name": "Hypoxia (environmental)",
+      "level": 3,
+      "score": 0.5756530165672302
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5518956780433655
+    },
+    {
+      "id": "https://openalex.org/C2779638656",
+      "wikidata": "https://www.wikidata.org/wiki/Q6043166",
+      "display_name": "Integrated stress response",
+      "level": 5,
+      "score": 0.551047682762146
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5498809218406677
+    },
+    {
+      "id": "https://openalex.org/C73573662",
+      "wikidata": "https://www.wikidata.org/wiki/Q130996",
+      "display_name": "DNA replication",
+      "level": 3,
+      "score": 0.5404080152511597
+    },
+    {
+      "id": "https://openalex.org/C139447449",
+      "wikidata": "https://www.wikidata.org/wiki/Q14633900",
+      "display_name": "Unfolded protein response",
+      "level": 3,
+      "score": 0.5045169591903687
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.47625064849853516
+    },
+    {
+      "id": "https://openalex.org/C86339819",
+      "wikidata": "https://www.wikidata.org/wiki/Q407384",
+      "display_name": "Transcription factor",
+      "level": 3,
+      "score": 0.43023595213890076
+    },
+    {
+      "id": "https://openalex.org/C67705224",
+      "wikidata": "https://www.wikidata.org/wiki/Q11053",
+      "display_name": "RNA",
+      "level": 3,
+      "score": 0.42090386152267456
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.3037174940109253
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.2926928400993347
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.2374211847782135
+    },
+    {
+      "id": "https://openalex.org/C105580179",
+      "wikidata": "https://www.wikidata.org/wiki/Q188928",
+      "display_name": "Messenger RNA",
+      "level": 3,
+      "score": 0.19391661882400513
+    },
+    {
+      "id": "https://openalex.org/C149364088",
+      "wikidata": "https://www.wikidata.org/wiki/Q185917",
+      "display_name": "Translation (biology)",
+      "level": 4,
+      "score": 0.07037609815597534
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C158617107",
+      "wikidata": "https://www.wikidata.org/wiki/Q79927",
+      "display_name": "Endoplasmic reticulum",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C540031477",
+      "wikidata": "https://www.wikidata.org/wiki/Q629",
+      "display_name": "Oxygen",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000080870",
+      "descriptor_name": "R-Loop Structures",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000081246",
+      "descriptor_name": "RNA-Seq",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002470",
+      "descriptor_name": "Cell Survival",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004249",
+      "descriptor_name": "DNA Damage",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004265",
+      "descriptor_name": "DNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005786",
+      "descriptor_name": "Gene Expression Regulation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009353",
+      "descriptor_name": "Zinostatin",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009353",
+      "descriptor_name": "Zinostatin",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009353",
+      "descriptor_name": "Zinostatin",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009353",
+      "descriptor_name": "Zinostatin",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009353",
+      "descriptor_name": "Zinostatin",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009353",
+      "descriptor_name": "Zinostatin",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010100",
+      "descriptor_name": "Oxygen",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010100",
+      "descriptor_name": "Oxygen",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010100",
+      "descriptor_name": "Oxygen",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010100",
+      "descriptor_name": "Oxygen",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010100",
+      "descriptor_name": "Oxygen",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010100",
+      "descriptor_name": "Oxygen",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015687",
+      "descriptor_name": "Cell Hypoxia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015687",
+      "descriptor_name": "Cell Hypoxia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015687",
+      "descriptor_name": "Cell Hypoxia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015687",
+      "descriptor_name": "Cell Hypoxia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015687",
+      "descriptor_name": "Cell Hypoxia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015687",
+      "descriptor_name": "Cell Hypoxia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015854",
+      "descriptor_name": "Up-Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015854",
+      "descriptor_name": "Up-Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015854",
+      "descriptor_name": "Up-Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015854",
+      "descriptor_name": "Up-Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015854",
+      "descriptor_name": "Up-Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015854",
+      "descriptor_name": "Up-Regulation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016923",
+      "descriptor_name": "Cell Death",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019384",
+      "descriptor_name": "Nucleic Acid Synthesis Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019384",
+      "descriptor_name": "Nucleic Acid Synthesis Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019384",
+      "descriptor_name": "Nucleic Acid Synthesis Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019384",
+      "descriptor_name": "Nucleic Acid Synthesis Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019384",
+      "descriptor_name": "Nucleic Acid Synthesis Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019384",
+      "descriptor_name": "Nucleic Acid Synthesis Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019892",
+      "descriptor_name": "eIF-2 Kinase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019892",
+      "descriptor_name": "eIF-2 Kinase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019892",
+      "descriptor_name": "eIF-2 Kinase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019892",
+      "descriptor_name": "eIF-2 Kinase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019892",
+      "descriptor_name": "eIF-2 Kinase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019892",
+      "descriptor_name": "eIF-2 Kinase",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020365",
+      "descriptor_name": "RNA Helicases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045744",
+      "descriptor_name": "Cell Line, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047369",
+      "descriptor_name": "Chromatin Immunoprecipitation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047369",
+      "descriptor_name": "Chromatin Immunoprecipitation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047369",
+      "descriptor_name": "Chromatin Immunoprecipitation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047369",
+      "descriptor_name": "Chromatin Immunoprecipitation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047369",
+      "descriptor_name": "Chromatin Immunoprecipitation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047369",
+      "descriptor_name": "Chromatin Immunoprecipitation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051701",
+      "descriptor_name": "Activating Transcription Factor 4",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000187",
+      "qualifier_name": "drug effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D056811",
+      "descriptor_name": "Unfolded Protein Response",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064251",
+      "descriptor_name": "Multifunctional Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41467-021-24066-z",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-021-24066-z",
+      "pdf_url": "https://www.nature.com/articles/s41467-021-24066-z.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34140498",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34140498",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature communications",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:bradscholars.brad.ac.uk:10454/19700",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10454/19700",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401846",
+        "display_name": "Bradford Scholars (University of Bradford)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I139894009",
+        "host_organization_name": "University of Bradford",
+        "host_organization_lineage": [
+          "https://openalex.org/I139894009"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:53d171bea0d243d0a270df932d095042",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/53d171bea0d243d0a270df932d095042",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 12, Iss 1, Pp 1-14 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8211819",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8211819",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nat Commun",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41467-021-24066-z",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-021-24066-z",
+    "pdf_url": "https://www.nature.com/articles/s41467-021-24066-z.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "No poverty",
+      "id": "https://metadata.un.org/sdg/1",
+      "score": 0.6000000238418579
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1325498775",
+      "display_name": null,
+      "funder_award_id": "C5255",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G2870842863",
+      "display_name": "The Repair of Oxidative and Topoisomerase Induced Chromosomal Breaks: Mechanisms and Implications for Human Health.",
+      "funder_award_id": "103844",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G3270971059",
+      "display_name": null,
+      "funder_award_id": "C38302/A12981",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G5492488923",
+      "display_name": null,
+      "funder_award_id": "C5255/A23755",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G5623900417",
+      "display_name": null,
+      "funder_award_id": "C5255/A23755",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G6672390248",
+      "display_name": null,
+      "funder_award_id": "grant C5255",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G7160057403",
+      "display_name": null,
+      "funder_award_id": "MR/J007870/1",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G8190321177",
+      "display_name": null,
+      "funder_award_id": "23969",
+      "funder_id": "https://openalex.org/F4320319985",
+      "funder_display_name": "Cancer Research UK"
+    },
+    {
+      "id": "https://openalex.org/G8972504195",
+      "display_name": null,
+      "funder_award_id": "137661",
+      "funder_id": "https://openalex.org/F4320320615",
+      "funder_display_name": "Lister Institute of Preventive Medicine"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311904",
+      "display_name": "Wellcome Trust",
+      "ror": "https://ror.org/029chgv08"
+    },
+    {
+      "id": "https://openalex.org/F4320319985",
+      "display_name": "Cancer Research UK",
+      "ror": "https://ror.org/054225q67"
+    },
+    {
+      "id": "https://openalex.org/F4320320229",
+      "display_name": "Pathological Society of Great Britain and Ireland",
+      "ror": "https://ror.org/037tx1q23"
+    },
+    {
+      "id": "https://openalex.org/F4320320290",
+      "display_name": "University of Oxford",
+      "ror": "https://ror.org/052gg0110"
+    },
+    {
+      "id": "https://openalex.org/F4320320615",
+      "display_name": "Lister Institute of Preventive Medicine",
+      "ror": "https://ror.org/03356n642"
+    },
+    {
+      "id": "https://openalex.org/F4320320658",
+      "display_name": "Jean Shanks Foundation",
+      "ror": "https://ror.org/00wf6bs47"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    },
+    {
+      "id": "https://openalex.org/F4320334764",
+      "display_name": "Japan Society for the Promotion of Science",
+      "ror": "https://ror.org/00hhkn466"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3170275732.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3170275732.grobid-xml"
+  },
+  "referenced_works_count": 78,
+  "referenced_works": [
+    "https://openalex.org/W124774023",
+    "https://openalex.org/W1579358468",
+    "https://openalex.org/W1636392194",
+    "https://openalex.org/W1686075321",
+    "https://openalex.org/W1823908009",
+    "https://openalex.org/W1912093430",
+    "https://openalex.org/W1916898367",
+    "https://openalex.org/W1968789240",
+    "https://openalex.org/W1972011626",
+    "https://openalex.org/W1989540449",
+    "https://openalex.org/W1990194472",
+    "https://openalex.org/W1997581921",
+    "https://openalex.org/W2003719212",
+    "https://openalex.org/W2012587241",
+    "https://openalex.org/W2024243863",
+    "https://openalex.org/W2029304908",
+    "https://openalex.org/W2035421116",
+    "https://openalex.org/W2036909502",
+    "https://openalex.org/W2037908592",
+    "https://openalex.org/W2040860750",
+    "https://openalex.org/W2044375974",
+    "https://openalex.org/W2045949302",
+    "https://openalex.org/W2050446445",
+    "https://openalex.org/W2051131155",
+    "https://openalex.org/W2070328141",
+    "https://openalex.org/W2078403259",
+    "https://openalex.org/W2080596357",
+    "https://openalex.org/W2084116712",
+    "https://openalex.org/W2097065948",
+    "https://openalex.org/W2097731764",
+    "https://openalex.org/W2098090834",
+    "https://openalex.org/W2102619694",
+    "https://openalex.org/W2103694115",
+    "https://openalex.org/W2104301158",
+    "https://openalex.org/W2104924004",
+    "https://openalex.org/W2108169752",
+    "https://openalex.org/W2108696043",
+    "https://openalex.org/W2109785031",
+    "https://openalex.org/W2110932617",
+    "https://openalex.org/W2120588059",
+    "https://openalex.org/W2122969498",
+    "https://openalex.org/W2124470568",
+    "https://openalex.org/W2125433175",
+    "https://openalex.org/W2126530235",
+    "https://openalex.org/W2131271579",
+    "https://openalex.org/W2137368432",
+    "https://openalex.org/W2146401375",
+    "https://openalex.org/W2148229099",
+    "https://openalex.org/W2148739751",
+    "https://openalex.org/W2156780885",
+    "https://openalex.org/W2161887614",
+    "https://openalex.org/W2170551349",
+    "https://openalex.org/W2275154939",
+    "https://openalex.org/W2340421620",
+    "https://openalex.org/W2352541926",
+    "https://openalex.org/W2467778492",
+    "https://openalex.org/W2504140518",
+    "https://openalex.org/W2539126289",
+    "https://openalex.org/W2605011382",
+    "https://openalex.org/W2606935752",
+    "https://openalex.org/W2743954317",
+    "https://openalex.org/W2753679622",
+    "https://openalex.org/W2765606289",
+    "https://openalex.org/W2766758135",
+    "https://openalex.org/W2776478527",
+    "https://openalex.org/W2811123412",
+    "https://openalex.org/W2824490147",
+    "https://openalex.org/W2907750653",
+    "https://openalex.org/W2910670142",
+    "https://openalex.org/W2913346540",
+    "https://openalex.org/W2935622333",
+    "https://openalex.org/W2963787665",
+    "https://openalex.org/W2979531443",
+    "https://openalex.org/W3004029085",
+    "https://openalex.org/W3042118153",
+    "https://openalex.org/W3043231606",
+    "https://openalex.org/W3145811080",
+    "https://openalex.org/W4242145664"
+  ],
+  "related_works": [
+    "https://openalex.org/W2514036928",
+    "https://openalex.org/W4295500741",
+    "https://openalex.org/W2625207659",
+    "https://openalex.org/W2084952088",
+    "https://openalex.org/W2480446175",
+    "https://openalex.org/W4319442724",
+    "https://openalex.org/W2883819021",
+    "https://openalex.org/W2037908592",
+    "https://openalex.org/W2028453264",
+    "https://openalex.org/W1974968790"
+  ],
+  "abstract_inverted_index": {
+    "Tumour": [
+      0
+    ],
+    "hypoxia": [
+      1,
+      18,
+      43,
+      102
+    ],
+    "is": [
+      2,
+      15,
+      103
+    ],
+    "associated": [
+      3
+    ],
+    "with": [
+      4
+    ],
+    "poor": [
+      5
+    ],
+    "patient": [
+      6
+    ],
+    "prognosis": [
+      7
+    ],
+    "and": [
+      8,
+      49,
+      69,
+      134
+    ],
+    "therapy": [
+      9
+    ],
+    "resistance.": [
+      10
+    ],
+    "A": [
+      11
+    ],
+    "unique": [
+      12,
+      120
+    ],
+    "transcriptional": [
+      13
+    ],
+    "response": [
+      14,
+      41,
+      122,
+      133,
+      138
+    ],
+    "initiated": [
+      16
+    ],
+    "by": [
+      17
+    ],
+    "which": [
+      19,
+      125
+    ],
+    "includes": [
+      20,
+      44,
+      126
+    ],
+    "the": [
+      21,
+      39,
+      45,
+      50,
+      53,
+      58,
+      96,
+      106,
+      110,
+      119
+    ],
+    "rapid": [
+      22
+    ],
+    "activation": [
+      23
+    ],
+    "of": [
+      24,
+      31,
+      47,
+      52,
+      60,
+      98,
+      109
+    ],
+    "numerous": [
+      25
+    ],
+    "transcription": [
+      26,
+      89
+    ],
+    "factors": [
+      27
+    ],
+    "in": [
+      28,
+      81,
+      90,
+      101
+    ],
+    "a": [
+      29,
+      79,
+      128,
+      141
+    ],
+    "background": [
+      30
+    ],
+    "reduced": [
+      32
+    ],
+    "global": [
+      33
+    ],
+    "transcription.": [
+      34
+    ],
+    "Here,": [
+      35
+    ],
+    "we": [
+      36,
+      93
+    ],
+    "show": [
+      37
+    ],
+    "that": [
+      38,
+      95
+    ],
+    "biological": [
+      40
+    ],
+    "to": [
+      42,
+      123
+    ],
+    "accumulation": [
+      46
+    ],
+    "R-loops": [
+      48
+    ],
+    "induction": [
+      51,
+      100
+    ],
+    "RNA/DNA": [
+      54
+    ],
+    "helicase": [
+      55
+    ],
+    "SETX.": [
+      56
+    ],
+    "In": [
+      57
+    ],
+    "absence": [
+      59
+    ],
+    "hypoxia-induced": [
+      61
+    ],
+    "SETX,": [
+      62
+    ],
+    "R-loop": [
+      63
+    ],
+    "levels": [
+      64
+    ],
+    "increase,": [
+      65
+    ],
+    "DNA": [
+      66,
+      70,
+      85,
+      131
+    ],
+    "damage": [
+      67,
+      86,
+      132
+    ],
+    "accumulates,": [
+      68
+    ],
+    "replication": [
+      71,
+      129
+    ],
+    "rates": [
+      72
+    ],
+    "decrease.": [
+      73
+    ],
+    "Therefore,": [
+      74
+    ],
+    "suggesting": [
+      75
+    ],
+    "that,": [
+      76
+    ],
+    "SETX": [
+      77,
+      99
+    ],
+    "plays": [
+      78
+    ],
+    "role": [
+      80
+    ],
+    "protecting": [
+      82
+    ],
+    "cells": [
+      83
+    ],
+    "from": [
+      84
+    ],
+    "induced": [
+      87
+    ],
+    "during": [
+      88
+    ],
+    "hypoxia.": [
+      91
+    ],
+    "Importantly,": [
+      92
+    ],
+    "propose": [
+      94
+    ],
+    "mechanism": [
+      97
+    ],
+    "reliant": [
+      104
+    ],
+    "on": [
+      105
+    ],
+    "PERK/ATF4": [
+      107
+    ],
+    "arm": [
+      108
+    ],
+    "unfolded": [
+      111,
+      136
+    ],
+    "protein": [
+      112,
+      137
+    ],
+    "response.": [
+      113
+    ],
+    "These": [
+      114
+    ],
+    "data": [
+      115
+    ],
+    "not": [
+      116
+    ],
+    "only": [
+      117
+    ],
+    "highlight": [
+      118
+    ],
+    "cellular": [
+      121
+    ],
+    "hypoxia,": [
+      124
+    ],
+    "both": [
+      127
+    ],
+    "stress-dependent": [
+      130
+    ],
+    "an": [
+      135
+    ],
+    "but": [
+      139
+    ],
+    "uncover": [
+      140
+    ],
+    "novel": [
+      142
+    ],
+    "link": [
+      143
+    ],
+    "between": [
+      144
+    ],
+    "these": [
+      145
+    ],
+    "two": [
+      146
+    ],
+    "distinct": [
+      147
+    ],
+    "pathways.": [
+      148
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

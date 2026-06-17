@@ -1,0 +1,1930 @@
+{
+  "id": "https://openalex.org/W4321452740",
+  "doi": "https://doi.org/10.1038/s41598-023-29637-2",
+  "title": "Effect of in vitro cultivation on human gut microbiota composition using 16S rDNA amplicon sequencing and metabolomics approach",
+  "display_name": "Effect of in vitro cultivation on human gut microbiota composition using 16S rDNA amplicon sequencing and metabolomics approach",
+  "publication_year": 2023,
+  "publication_date": "2023-02-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4321452740",
+    "doi": "https://doi.org/10.1038/s41598-023-29637-2",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36810418"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41598-023-29637-2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-023-29637-2",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-29637-2.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41598-023-29637-2.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074460022",
+        "display_name": "Paulina Średnicka",
+        "orcid": "https://orcid.org/0000-0001-8597-301X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulina Średnicka",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077042379",
+        "display_name": "Marek Roszko",
+        "orcid": "https://orcid.org/0000-0003-1848-2100"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marek Łukasz Roszko",
+      "raw_affiliation_strings": [
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland. marek.roszko@ibprs.pl",
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland. marek.roszko@ibprs.pl",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017585520",
+        "display_name": "Dominik Popowski",
+        "orcid": "https://orcid.org/0000-0002-4514-4193"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dominik Popowski",
+      "raw_affiliation_strings": [
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Microbiota Lab, Department of Pharmacognosy and Molecular Basis of Phytotherapy, Medical University of Warsaw, Banacha 1 Street, 02-097, Warsaw, Poland",
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Microbiota Lab, Department of Pharmacognosy and Molecular Basis of Phytotherapy, Medical University of Warsaw, Banacha 1 Street, 02-097, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070932802",
+        "display_name": "Monika Kowalczyk",
+        "orcid": "https://orcid.org/0000-0001-8688-4748"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Monika Kowalczyk",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088330912",
+        "display_name": "Michał Wójcicki",
+        "orcid": "https://orcid.org/0000-0003-0573-3337"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michał Wójcicki",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011996552",
+        "display_name": "Paulina Emanowicz",
+        "orcid": "https://orcid.org/0000-0001-9370-3749"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulina Emanowicz",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033636473",
+        "display_name": "Magdalena Szczepańska",
+        "orcid": "https://orcid.org/0000-0001-6934-8919"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Szczepańska",
+      "raw_affiliation_strings": [
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Food Safety and Chemical Analysis, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048587485",
+        "display_name": "Danuta Kotyrba",
+        "orcid": "https://orcid.org/0000-0002-9095-331X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Danuta Kotyrba",
+      "raw_affiliation_strings": [
+        "Department of Research, Scientific Information and Marketing Coordination, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+        "Department of Research, Scientific Information and Marketing Coordination, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research, Scientific Information and Marketing Coordination, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Research, Scientific Information and Marketing Coordination, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5068161989",
+        "display_name": "Edyta Juszczuk‐Kubiak",
+        "orcid": "https://orcid.org/0000-0001-5093-5320"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110077",
+          "display_name": "Institute of Agricultural and Food Biotechnology",
+          "ror": "https://ror.org/02nh4wx40",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Edyta Juszczuk-Kubiak",
+      "raw_affiliation_strings": [
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland. edyta.juszczuk-kubiak@ibprs.pl",
+        "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology - State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland. edyta.juszczuk-kubiak@ibprs.pl",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Biotechnology and Molecular Engineering, Department of Microbiology, Prof. Wacław Dąbrowski Institute of Agricultural and Food Biotechnology – State Research Institute, Rakowiecka 36 Street, 02-532, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210110077"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5068161989",
+    "https://openalex.org/A5077042379"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210110077"
+  ],
+  "apc_list": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "apc_paid": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "fwci": 6.6862,
+  "has_fulltext": true,
+  "cited_by_count": 47,
+  "citation_normalized_percentile": {
+    "value": 0.97379295,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "1",
+    "first_page": "3026",
+    "last_page": "3026"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10066",
+    "display_name": "Gut microbiota and health",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10066",
+      "display_name": "Gut microbiota and health",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12267",
+      "display_name": "Diet and metabolism studies",
+      "score": 0.9932000041007996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10141",
+      "display_name": "Probiotics and Fermented Foods",
+      "score": 0.9922000169754028,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/amplicon-sequencing",
+      "display_name": "Amplicon sequencing",
+      "score": 0.8094010353088379
+    },
+    {
+      "id": "https://openalex.org/keywords/amplicon",
+      "display_name": "Amplicon",
+      "score": 0.7047688961029053
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolomics",
+      "display_name": "Metabolomics",
+      "score": 0.6385042667388916
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.6068311333656311
+    },
+    {
+      "id": "https://openalex.org/keywords/16s-ribosomal-rna",
+      "display_name": "16S ribosomal RNA",
+      "score": 0.5744213461875916
+    },
+    {
+      "id": "https://openalex.org/keywords/in-vitro",
+      "display_name": "In vitro",
+      "score": 0.5595175623893738
+    },
+    {
+      "id": "https://openalex.org/keywords/gut-flora",
+      "display_name": "Gut flora",
+      "score": 0.5549785494804382
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.4781416654586792
+    },
+    {
+      "id": "https://openalex.org/keywords/microbiome",
+      "display_name": "Microbiome",
+      "score": 0.47191622853279114
+    },
+    {
+      "id": "https://openalex.org/keywords/composition",
+      "display_name": "Composition (language)",
+      "score": 0.46758604049682617
+    },
+    {
+      "id": "https://openalex.org/keywords/microbiology",
+      "display_name": "Microbiology",
+      "score": 0.3726534843444824
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.30548644065856934
+    },
+    {
+      "id": "https://openalex.org/keywords/bacteria",
+      "display_name": "Bacteria",
+      "score": 0.3030428886413574
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.27888891100883484
+    },
+    {
+      "id": "https://openalex.org/keywords/polymerase-chain-reaction",
+      "display_name": "Polymerase chain reaction",
+      "score": 0.1986360251903534
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.1984328329563141
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.16725385189056396
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2993206177",
+      "wikidata": "https://www.wikidata.org/wiki/Q2844457",
+      "display_name": "Amplicon sequencing",
+      "level": 4,
+      "score": 0.8094010353088379
+    },
+    {
+      "id": "https://openalex.org/C8185291",
+      "wikidata": "https://www.wikidata.org/wiki/Q2844457",
+      "display_name": "Amplicon",
+      "level": 4,
+      "score": 0.7047688961029053
+    },
+    {
+      "id": "https://openalex.org/C21565614",
+      "wikidata": "https://www.wikidata.org/wiki/Q12149006",
+      "display_name": "Metabolomics",
+      "level": 2,
+      "score": 0.6385042667388916
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6068311333656311
+    },
+    {
+      "id": "https://openalex.org/C42062724",
+      "wikidata": "https://www.wikidata.org/wiki/Q1209205",
+      "display_name": "16S ribosomal RNA",
+      "level": 3,
+      "score": 0.5744213461875916
+    },
+    {
+      "id": "https://openalex.org/C202751555",
+      "wikidata": "https://www.wikidata.org/wiki/Q221681",
+      "display_name": "In vitro",
+      "level": 2,
+      "score": 0.5595175623893738
+    },
+    {
+      "id": "https://openalex.org/C539455810",
+      "wikidata": "https://www.wikidata.org/wiki/Q739734",
+      "display_name": "Gut flora",
+      "level": 2,
+      "score": 0.5549785494804382
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.4781416654586792
+    },
+    {
+      "id": "https://openalex.org/C143121216",
+      "wikidata": "https://www.wikidata.org/wiki/Q1330402",
+      "display_name": "Microbiome",
+      "level": 2,
+      "score": 0.47191622853279114
+    },
+    {
+      "id": "https://openalex.org/C40231798",
+      "wikidata": "https://www.wikidata.org/wiki/Q1333743",
+      "display_name": "Composition (language)",
+      "level": 2,
+      "score": 0.46758604049682617
+    },
+    {
+      "id": "https://openalex.org/C89423630",
+      "wikidata": "https://www.wikidata.org/wiki/Q7193",
+      "display_name": "Microbiology",
+      "level": 1,
+      "score": 0.3726534843444824
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.30548644065856934
+    },
+    {
+      "id": "https://openalex.org/C523546767",
+      "wikidata": "https://www.wikidata.org/wiki/Q10876",
+      "display_name": "Bacteria",
+      "level": 2,
+      "score": 0.3030428886413574
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.27888891100883484
+    },
+    {
+      "id": "https://openalex.org/C49105822",
+      "wikidata": "https://www.wikidata.org/wiki/Q176996",
+      "display_name": "Polymerase chain reaction",
+      "level": 3,
+      "score": 0.1986360251903534
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.1984328329563141
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.16725385189056396
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000069196",
+      "descriptor_name": "Gastrointestinal Microbiome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000069196",
+      "descriptor_name": "Gastrointestinal Microbiome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000069196",
+      "descriptor_name": "Gastrointestinal Microbiome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000069196",
+      "descriptor_name": "Gastrointestinal Microbiome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003470",
+      "descriptor_name": "Culture Media",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003470",
+      "descriptor_name": "Culture Media",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003470",
+      "descriptor_name": "Culture Media",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003470",
+      "descriptor_name": "Culture Media",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004275",
+      "descriptor_name": "DNA, Ribosomal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004275",
+      "descriptor_name": "DNA, Ribosomal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004275",
+      "descriptor_name": "DNA, Ribosomal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004275",
+      "descriptor_name": "DNA, Ribosomal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005243",
+      "descriptor_name": "Feces",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005243",
+      "descriptor_name": "Feces",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005243",
+      "descriptor_name": "Feces",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005243",
+      "descriptor_name": "Feces",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012336",
+      "descriptor_name": "RNA, Ribosomal, 16S",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012336",
+      "descriptor_name": "RNA, Ribosomal, 16S",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012336",
+      "descriptor_name": "RNA, Ribosomal, 16S",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012336",
+      "descriptor_name": "RNA, Ribosomal, 16S",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053719",
+      "descriptor_name": "Tandem Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053719",
+      "descriptor_name": "Tandem Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053719",
+      "descriptor_name": "Tandem Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053719",
+      "descriptor_name": "Tandem Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055432",
+      "descriptor_name": "Metabolomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055432",
+      "descriptor_name": "Metabolomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055432",
+      "descriptor_name": "Metabolomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055432",
+      "descriptor_name": "Metabolomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41598-023-29637-2",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41598-023-29637-2",
+      "pdf_url": "https://www.nature.com/articles/s41598-023-29637-2.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36810418",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36810418",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9945476",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9945476",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9945476/pdf/41598_2023_Article_29637.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sci Rep",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:347a8ad105eb48d9945aafc5d0f9a6f9",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/347a8ad105eb48d9945aafc5d0f9a6f9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Scientific Reports, Vol 13, Iss 1, Pp 1-25 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41598-023-29637-2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-023-29637-2",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-29637-2.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Life in Land",
+      "score": 0.7300000190734863,
+      "id": "https://metadata.un.org/sdg/15"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4321452740.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4321452740.grobid-xml"
+  },
+  "referenced_works_count": 97,
+  "referenced_works": [
+    "https://openalex.org/W1417624978",
+    "https://openalex.org/W1560020441",
+    "https://openalex.org/W1578085430",
+    "https://openalex.org/W1948266836",
+    "https://openalex.org/W1984829519",
+    "https://openalex.org/W1998767819",
+    "https://openalex.org/W2015086798",
+    "https://openalex.org/W2035294607",
+    "https://openalex.org/W2035628545",
+    "https://openalex.org/W2044557931",
+    "https://openalex.org/W2049506766",
+    "https://openalex.org/W2056036338",
+    "https://openalex.org/W2062179619",
+    "https://openalex.org/W2081653606",
+    "https://openalex.org/W2095158284",
+    "https://openalex.org/W2104796586",
+    "https://openalex.org/W2105193644",
+    "https://openalex.org/W2113322775",
+    "https://openalex.org/W2126468651",
+    "https://openalex.org/W2128769815",
+    "https://openalex.org/W2133856765",
+    "https://openalex.org/W2136782681",
+    "https://openalex.org/W2146555734",
+    "https://openalex.org/W2153109441",
+    "https://openalex.org/W2345411160",
+    "https://openalex.org/W2345813655",
+    "https://openalex.org/W2401404581",
+    "https://openalex.org/W2407831278",
+    "https://openalex.org/W2477430876",
+    "https://openalex.org/W2477547149",
+    "https://openalex.org/W2494840785",
+    "https://openalex.org/W2516199311",
+    "https://openalex.org/W2608515760",
+    "https://openalex.org/W2663374310",
+    "https://openalex.org/W2740951628",
+    "https://openalex.org/W2741507851",
+    "https://openalex.org/W2756122110",
+    "https://openalex.org/W2770744386",
+    "https://openalex.org/W2792158443",
+    "https://openalex.org/W2801540395",
+    "https://openalex.org/W2802009609",
+    "https://openalex.org/W2894388498",
+    "https://openalex.org/W2897066677",
+    "https://openalex.org/W2904318824",
+    "https://openalex.org/W2915290035",
+    "https://openalex.org/W2916809038",
+    "https://openalex.org/W2937847545",
+    "https://openalex.org/W2946922703",
+    "https://openalex.org/W2961024662",
+    "https://openalex.org/W2963276645",
+    "https://openalex.org/W2964257153",
+    "https://openalex.org/W2966191951",
+    "https://openalex.org/W2966520335",
+    "https://openalex.org/W2972940198",
+    "https://openalex.org/W2977433364",
+    "https://openalex.org/W2982064349",
+    "https://openalex.org/W2996234046",
+    "https://openalex.org/W2999175750",
+    "https://openalex.org/W3005102678",
+    "https://openalex.org/W3007346060",
+    "https://openalex.org/W3010669459",
+    "https://openalex.org/W3015079544",
+    "https://openalex.org/W3015346125",
+    "https://openalex.org/W3016689185",
+    "https://openalex.org/W3016889019",
+    "https://openalex.org/W3019068196",
+    "https://openalex.org/W3019361561",
+    "https://openalex.org/W3027124666",
+    "https://openalex.org/W3030441098",
+    "https://openalex.org/W3032960771",
+    "https://openalex.org/W3047307337",
+    "https://openalex.org/W3093234803",
+    "https://openalex.org/W3093405588",
+    "https://openalex.org/W3096586635",
+    "https://openalex.org/W3097003587",
+    "https://openalex.org/W3111322366",
+    "https://openalex.org/W3113259223",
+    "https://openalex.org/W3125642090",
+    "https://openalex.org/W3134489910",
+    "https://openalex.org/W3136819994",
+    "https://openalex.org/W3137495763",
+    "https://openalex.org/W3137916113",
+    "https://openalex.org/W3157826070",
+    "https://openalex.org/W3157974968",
+    "https://openalex.org/W3158005911",
+    "https://openalex.org/W3175374874",
+    "https://openalex.org/W3183683622",
+    "https://openalex.org/W3184092071",
+    "https://openalex.org/W3206528605",
+    "https://openalex.org/W3214756266",
+    "https://openalex.org/W4200030428",
+    "https://openalex.org/W4225277248",
+    "https://openalex.org/W4243135154",
+    "https://openalex.org/W4280493760",
+    "https://openalex.org/W4280576091",
+    "https://openalex.org/W4292057558",
+    "https://openalex.org/W4294738730"
+  ],
+  "related_works": [
+    "https://openalex.org/W2506843120",
+    "https://openalex.org/W2945285105",
+    "https://openalex.org/W4390154386",
+    "https://openalex.org/W2306179760",
+    "https://openalex.org/W4206175384",
+    "https://openalex.org/W4293598593",
+    "https://openalex.org/W2890961259",
+    "https://openalex.org/W4256272196",
+    "https://openalex.org/W2954242328",
+    "https://openalex.org/W2728043704"
+  ],
+  "abstract_inverted_index": {
+    "Gut": [
+      0,
+      43
+    ],
+    "microbiota": [
+      1
+    ],
+    "(GM)": [
+      2
+    ],
+    "plays": [
+      3
+    ],
+    "many": [
+      4
+    ],
+    "key": [
+      5
+    ],
+    "functions": [
+      6
+    ],
+    "and": [
+      7,
+      53,
+      63,
+      83,
+      120,
+      153,
+      178,
+      185,
+      206
+    ],
+    "helps": [
+      8
+    ],
+    "maintain": [
+      9
+    ],
+    "the": [
+      10,
+      14,
+      37,
+      61,
+      93,
+      97,
+      101,
+      116,
+      122,
+      131,
+      188,
+      213,
+      220,
+      236
+    ],
+    "host's": [
+      11
+    ],
+    "health.": [
+      12
+    ],
+    "Consequently,": [
+      13
+    ],
+    "development": [
+      15,
+      221
+    ],
+    "of": [
+      16,
+      39,
+      66,
+      99,
+      118,
+      124,
+      133,
+      166,
+      171,
+      197,
+      222
+    ],
+    "GM": [
+      17,
+      68,
+      176,
+      227
+    ],
+    "cultivation": [
+      18,
+      127,
+      140,
+      230
+    ],
+    "under": [
+      19
+    ],
+    "in": [
+      20,
+      29,
+      69,
+      71,
+      125,
+      138,
+      212,
+      228,
+      235
+    ],
+    "vitro": [
+      21,
+      72,
+      126,
+      139,
+      229
+    ],
+    "stimulating": [
+      22
+    ],
+    "physiological": [
+      23
+    ],
+    "conditions": [
+      24
+    ],
+    "has": [
+      25
+    ],
+    "gained": [
+      26
+    ],
+    "extreme": [
+      27
+    ],
+    "interest": [
+      28
+    ],
+    "different": [
+      30
+    ],
+    "fields.": [
+      31
+    ],
+    "In": [
+      32
+    ],
+    "this": [
+      33
+    ],
+    "study,": [
+      34
+    ],
+    "we": [
+      35,
+      95
+    ],
+    "evaluated": [
+      36
+    ],
+    "impact": [
+      38
+    ],
+    "four": [
+      40
+    ],
+    "culture": [
+      41,
+      172
+    ],
+    "media:": [
+      42
+    ],
+    "Microbiota": [
+      44
+    ],
+    "Medium": [
+      45,
+      51,
+      57
+    ],
+    "(GMM),": [
+      46
+    ],
+    "Schaedler": [
+      47
+    ],
+    "Broth": [
+      48
+    ],
+    "(SM),": [
+      49
+    ],
+    "Fermentation": [
+      50
+    ],
+    "(FM),": [
+      52
+    ],
+    "Carbohydrate": [
+      54
+    ],
+    "Free": [
+      55
+    ],
+    "Basal": [
+      56
+    ],
+    "(CFBM)": [
+      58
+    ],
+    "on": [
+      59,
+      175
+    ],
+    "preserving": [
+      60
+    ],
+    "biodiversity": [
+      62
+    ],
+    "metabolic": [
+      64
+    ],
+    "activity": [
+      65
+    ],
+    "human": [
+      67,
+      226
+    ],
+    "batch": [
+      70
+    ],
+    "cultures": [
+      73
+    ],
+    "using": [
+      74,
+      100
+    ],
+    "PMA": [
+      75
+    ],
+    "treatment": [
+      76
+    ],
+    "coupled": [
+      77
+    ],
+    "with": [
+      78,
+      88,
+      202
+    ],
+    "16S": [
+      79
+    ],
+    "rDNA": [
+      80
+    ],
+    "sequencing": [
+      81
+    ],
+    "(PMA-seq)": [
+      82
+    ],
+    "LC-HR-MS/MS": [
+      84
+    ],
+    "untargeted": [
+      85
+    ],
+    "metabolomics": [
+      86
+    ],
+    "supplemented": [
+      87
+    ],
+    "GC-MS": [
+      89
+    ],
+    "SCFA": [
+      90
+    ],
+    "profiling.": [
+      91
+    ],
+    "Before": [
+      92
+    ],
+    "experiments,": [
+      94
+    ],
+    "determined": [
+      96
+    ],
+    "possibility": [
+      98
+    ],
+    "pooled": [
+      102
+    ],
+    "faecal": [
+      103,
+      135
+    ],
+    "samples": [
+      104,
+      136
+    ],
+    "(MIX)": [
+      105
+    ],
+    "from": [
+      106,
+      160
+    ],
+    "healthy": [
+      107
+    ],
+    "donors": [
+      108
+    ],
+    "(n": [
+      109
+    ],
+    "=": [
+      110
+    ],
+    "15)": [
+      111
+    ],
+    "as": [
+      112
+    ],
+    "inoculum": [
+      113,
+      144,
+      205
+    ],
+    "to": [
+      114,
+      158,
+      219
+    ],
+    "reduce": [
+      115
+    ],
+    "number": [
+      117,
+      196
+    ],
+    "variables": [
+      119
+    ],
+    "ensure": [
+      121
+    ],
+    "reproducibility": [
+      123
+    ],
+    "tests.": [
+      128
+    ],
+    "Results": [
+      129
+    ],
+    "showed": [
+      130
+    ],
+    "suitability": [
+      132
+    ],
+    "pooling": [
+      134
+    ],
+    "for": [
+      137,
+      225
+    ],
+    "study.": [
+      141
+    ],
+    "Non-cultured": [
+      142
+    ],
+    "MIX": [
+      143,
+      204
+    ],
+    "was": [
+      145,
+      181,
+      210
+    ],
+    "characterized": [
+      146
+    ],
+    "by": [
+      147,
+      231
+    ],
+    "higher": [
+      148
+    ],
+    "α-diversity": [
+      149,
+      190
+    ],
+    "(Shannon": [
+      150,
+      191
+    ],
+    "effective": [
+      151,
+      192
+    ],
+    "count,": [
+      152
+    ],
+    "Effective": [
+      154
+    ],
+    "microbial": [
+      155
+    ],
+    "richness)": [
+      156
+    ],
+    "compared": [
+      157
+    ],
+    "inocula": [
+      159
+    ],
+    "individual": [
+      161
+    ],
+    "donors.": [
+      162
+    ],
+    "After": [
+      163
+    ],
+    "24": [
+      164
+    ],
+    "h": [
+      165
+    ],
+    "cultivation,": [
+      167
+    ],
+    "a": [
+      168
+    ],
+    "significant": [
+      169
+    ],
+    "effect": [
+      170
+    ],
+    "media": [
+      173
+    ],
+    "composition": [
+      174
+    ],
+    "taxonomic": [
+      177
+    ],
+    "metabolomic": [
+      179
+    ],
+    "profiles": [
+      180
+    ],
+    "observed.": [
+      182
+    ],
+    "The": [
+      183,
+      194
+    ],
+    "SM": [
+      184
+    ],
+    "GMM": [
+      186
+    ],
+    "had": [
+      187
+    ],
+    "highest": [
+      189,
+      195
+    ],
+    "count).": [
+      193
+    ],
+    "core": [
+      198
+    ],
+    "ASVs": [
+      199
+    ],
+    "(125)": [
+      200
+    ],
+    "shared": [
+      201
+    ],
+    "non-cultured": [
+      203
+    ],
+    "total": [
+      207
+    ],
+    "SCFAs": [
+      208
+    ],
+    "production": [
+      209
+    ],
+    "observed": [
+      211
+    ],
+    "SM.": [
+      214
+    ],
+    "These": [
+      215
+    ],
+    "results": [
+      216
+    ],
+    "might": [
+      217
+    ],
+    "contribute": [
+      218
+    ],
+    "standardized": [
+      223
+    ],
+    "protocols": [
+      224
+    ],
+    "preventing": [
+      232
+    ],
+    "methodological": [
+      233
+    ],
+    "bias": [
+      234
+    ],
+    "data.": [
+      237
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,5546 @@
+{
+  "id": "https://openalex.org/W2737732224",
+  "doi": "https://doi.org/10.1038/gim.2017.80",
+  "title": "Data sharing as a national quality improvement program: reporting on BRCA1 and BRCA2 variant-interpretation comparisons through the Canadian Open Genetics Repository (COGR)",
+  "display_name": "Data sharing as a national quality improvement program: reporting on BRCA1 and BRCA2 variant-interpretation comparisons through the Canadian Open Genetics Repository (COGR)",
+  "publication_year": 2017,
+  "publication_date": "2017-07-20",
+  "ids": {
+    "openalex": "https://openalex.org/W2737732224",
+    "doi": "https://doi.org/10.1038/gim.2017.80",
+    "mag": "2737732224",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/28726806"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/gim.2017.80",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/gim.2017.80",
+    "pdf_url": "https://www.nature.com/articles/gim201780.pdf",
+    "source": {
+      "id": "https://openalex.org/S187186932",
+      "display_name": "Genetics in Medicine",
+      "issn_l": "1098-3600",
+      "issn": [
+        "1098-3600",
+        "1530-0366"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Genetics in Medicine",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.nature.com/articles/gim201780.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5080516152",
+        "display_name": "Matthew S. Lebo",
+        "orcid": "https://orcid.org/0000-0002-9733-5207"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1283280774",
+          "display_name": "Brigham and Women's Hospital",
+          "ror": "https://ror.org/04b6nzv94",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I48633490",
+          "display_name": "Mass General Brigham",
+          "ror": "https://ror.org/04py2rh25",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matthew S. Lebo",
+      "raw_affiliation_strings": [
+        "Departments of Pathology, Harvard Medical School and Brigham and Women's Hospital, Boston, Massachusetts, USA",
+        "Laboratory for Molecular Medicine, Partners HealthCare Personalized Medicine, Cambridge, Massachusetts, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Departments of Pathology, Harvard Medical School and Brigham and Women's Hospital, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory for Molecular Medicine, Partners HealthCare Personalized Medicine, Cambridge, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059058121",
+        "display_name": "Kathleen-Rose Zakoor",
+        "orcid": "https://orcid.org/0000-0002-6874-5223"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kathleen-Rose Zakoor",
+      "raw_affiliation_strings": [
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002620149",
+        "display_name": "Kathy Chun",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800061829",
+          "display_name": "North York General Hospital",
+          "ror": "https://ror.org/05b3hqn14",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800061829"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kathy Chun",
+      "raw_affiliation_strings": [
+        "Genetics Program, North York General Hospital, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genetics Program, North York General Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800061829"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054084145",
+        "display_name": "Marsha Speevak",
+        "orcid": "https://orcid.org/0000-0002-1147-9067"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800336561",
+          "display_name": "Trillium Health Centre",
+          "ror": "https://ror.org/03v6a2j28",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800336561",
+            "https://openalex.org/I2802512917"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802512917",
+          "display_name": "Credit Valley Hospital",
+          "ror": "https://ror.org/04mf6js28",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802512917"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marsha D. Speevak",
+      "raw_affiliation_strings": [
+        "Trillium Health Partners Credit Valley Site, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Trillium Health Partners Credit Valley Site, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2802512917",
+            "https://openalex.org/I2800336561"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007275477",
+        "display_name": "John S. Waye",
+        "orcid": "https://orcid.org/0000-0002-7521-3356"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210093389",
+          "display_name": "Hamilton Regional Laboratory Medicine Program",
+          "ror": "https://ror.org/00epxwq78",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210093389"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76442945",
+          "display_name": "Hamilton Health Sciences",
+          "ror": "https://ror.org/02dqdxm48",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I76442945"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "John S. Waye",
+      "raw_affiliation_strings": [
+        "Hamilton Regional Laboratory Medicine Program, Hamilton Health Sciences, Hamilton, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hamilton Regional Laboratory Medicine Program, Hamilton Health Sciences, Hamilton, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I76442945",
+            "https://openalex.org/I4210093389"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001618653",
+        "display_name": "M. Elizabeth McCready",
+        "orcid": "https://orcid.org/0000-0002-7952-2279"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210093389",
+          "display_name": "Hamilton Regional Laboratory Medicine Program",
+          "ror": "https://ror.org/00epxwq78",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210093389"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76442945",
+          "display_name": "Hamilton Health Sciences",
+          "ror": "https://ror.org/02dqdxm48",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I76442945"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth McCready",
+      "raw_affiliation_strings": [
+        "Hamilton Regional Laboratory Medicine Program, Hamilton Health Sciences, Hamilton, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hamilton Regional Laboratory Medicine Program, Hamilton Health Sciences, Hamilton, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I76442945",
+            "https://openalex.org/I4210093389"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000758712",
+        "display_name": "Jillian S. Parboosingh",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I168635309",
+          "display_name": "University of Calgary",
+          "ror": "https://ror.org/03yjb2x39",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802127220",
+          "display_name": "Alberta Children's Hospital",
+          "ror": "https://ror.org/00sx29x36",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802127220"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jillian S. Parboosingh",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2802127220",
+            "https://openalex.org/I168635309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053441512",
+        "display_name": "Ryan E. Lamont",
+        "orcid": "https://orcid.org/0000-0002-7720-068X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I168635309",
+          "display_name": "University of Calgary",
+          "ror": "https://ror.org/03yjb2x39",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802127220",
+          "display_name": "Alberta Children's Hospital",
+          "ror": "https://ror.org/00sx29x36",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802127220"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ryan E. Lamont",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2802127220",
+            "https://openalex.org/I168635309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008275218",
+        "display_name": "Harriet Feilotter",
+        "orcid": "https://orcid.org/0000-0002-1388-2183"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204722609",
+          "display_name": "Queen's University",
+          "ror": "https://ror.org/02y72wh86",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204722609"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Harriet Feilotter",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I204722609"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081399540",
+        "display_name": "Ian Bosdet",
+        "orcid": "https://orcid.org/0000-0003-4739-007X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ian Bosdet",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113469691",
+        "display_name": "Tracy Tucker",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tracy Tucker",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003653401",
+        "display_name": "Sean Young",
+        "orcid": "https://orcid.org/0000-0002-5240-1450"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sean Young",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083812935",
+        "display_name": "Aly Karsan",
+        "orcid": "https://orcid.org/0000-0001-6753-892X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aly Karsan",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035993142",
+        "display_name": "George S. Charames",
+        "orcid": "https://orcid.org/0000-0002-5937-9276"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George S. Charames",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063276689",
+        "display_name": "Ronald Agatep",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099267",
+          "display_name": "Shared Health",
+          "ror": "https://ror.org/00yqy0q42",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099267"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I46247651",
+          "display_name": "University of Manitoba",
+          "ror": "https://ror.org/02gfys938",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ronald Agatep",
+      "raw_affiliation_strings": [
+        "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210099267",
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102726433",
+        "display_name": "Elizabeth Spriggs",
+        "orcid": "https://orcid.org/0000-0002-5047-1906"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099267",
+          "display_name": "Shared Health",
+          "ror": "https://ror.org/00yqy0q42",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099267"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I46247651",
+          "display_name": "University of Manitoba",
+          "ror": "https://ror.org/02gfys938",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth L. Spriggs",
+      "raw_affiliation_strings": [
+        "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210099267",
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110527967",
+        "display_name": "Caitlin Chisholm",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799330578",
+          "display_name": "Children's Hospital of Eastern Ontario",
+          "ror": "https://ror.org/05nsbhw27",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Caitlin Chisholm",
+      "raw_affiliation_strings": [
+        "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000798325",
+        "display_name": "Nasim Vasli",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799330578",
+          "display_name": "Children's Hospital of Eastern Ontario",
+          "ror": "https://ror.org/05nsbhw27",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nasim Vasli",
+      "raw_affiliation_strings": [
+        "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035328974",
+        "display_name": "Hussein Daoud",
+        "orcid": "https://orcid.org/0000-0003-4412-7903"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799330578",
+          "display_name": "Children's Hospital of Eastern Ontario",
+          "ror": "https://ror.org/05nsbhw27",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hussein Daoud",
+      "raw_affiliation_strings": [
+        "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021052973",
+        "display_name": "Olga Jarinova",
+        "orcid": "https://orcid.org/0000-0001-6148-2240"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799330578",
+          "display_name": "Children's Hospital of Eastern Ontario",
+          "ror": "https://ror.org/05nsbhw27",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Olga Jarinova",
+      "raw_affiliation_strings": [
+        "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024170616",
+        "display_name": "Robert Tomaszewski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Tomaszewski",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060274616",
+        "display_name": "Stacey Hume",
+        "orcid": "https://orcid.org/0000-0002-3217-3032"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stacey Hume",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079141659",
+        "display_name": "Sherryl A. Taylor",
+        "orcid": "https://orcid.org/0000-0002-4337-6986"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sherryl Taylor",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054934487",
+        "display_name": "Mohammad R. Akbari",
+        "orcid": "https://orcid.org/0000-0002-8851-3614"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801816099",
+          "display_name": "Women's College Hospital",
+          "ror": "https://ror.org/03cw63y62",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801816099"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad R. Akbari",
+      "raw_affiliation_strings": [
+        "Women's College Research Institute, Women's College Hospital, University of Toronto, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Women's College Research Institute, Women's College Hospital, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801816099",
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Jordan Lerner-Ellis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112260969",
+          "display_name": "Ontario Institute for Cancer Research",
+          "ror": "https://ror.org/043q8yx54",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jordan Lerner-Ellis",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+        "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036580368",
+        "display_name": "Jordan Lerner‐Ellis",
+        "orcid": "https://orcid.org/0000-0003-3685-5679"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112260969",
+          "display_name": "Ontario Institute for Cancer Research",
+          "ror": "https://ror.org/043q8yx54",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099267",
+          "display_name": "Shared Health",
+          "ror": "https://ror.org/00yqy0q42",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099267"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I46247651",
+          "display_name": "University of Manitoba",
+          "ror": "https://ror.org/02gfys938",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jordan Lerner-Ellis",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+        "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+        "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I4210099267",
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028939661",
+        "display_name": "Ron Agatep",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099267",
+          "display_name": "Shared Health",
+          "ror": "https://ror.org/00yqy0q42",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099267"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I46247651",
+          "display_name": "University of Manitoba",
+          "ror": "https://ror.org/02gfys938",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I46247651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ron Agatep",
+      "raw_affiliation_strings": [
+        "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genomics Laboratory, Diagnostic Services Manitoba and Department of Biochemistry and Medical Genetics, University of Manitoba, Winnipeg, Canada",
+          "institution_ids": [
+            "https://openalex.org/I4210099267",
+            "https://openalex.org/I46247651"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018256677",
+        "display_name": "Peter Ainsworth",
+        "orcid": "https://orcid.org/0000-0002-2181-4607"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801816099",
+          "display_name": "Women's College Hospital",
+          "ror": "https://ror.org/03cw63y62",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801816099"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Ainsworth",
+      "raw_affiliation_strings": [
+        "Women's College Research Institute, Women's College Hospital, University of Toronto, Toronto, Ontario, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Women's College Research Institute, Women's College Hospital, University of Toronto, Toronto, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I2801816099",
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Mohammad R. Akbari",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801816099",
+          "display_name": "Women's College Hospital",
+          "ror": "https://ror.org/03cw63y62",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801816099"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad R. Akbari",
+      "raw_affiliation_strings": [
+        "Women's College Research Institute, Women's College Hospital, University of Toronto, Toronto, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Women's College Research Institute, Women's College Hospital, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2801816099",
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079656701",
+        "display_name": "Melyssa Aronson",
+        "orcid": "https://orcid.org/0000-0002-7503-5799"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Melyssa Aronson",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077307663",
+        "display_name": "Raveen Basran",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Raveen Basran",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002933829",
+        "display_name": "André Blavier",
+        "orcid": "https://orcid.org/0000-0002-5161-1237"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andre Blavier",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033341885",
+        "display_name": "Andrea Blumenthal",
+        "orcid": "https://orcid.org/0000-0001-5561-629X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea Blumenthal",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081399540",
+        "display_name": "Ian Bosdet",
+        "orcid": "https://orcid.org/0000-0003-4739-007X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ian Bosdet",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065051535",
+        "display_name": "Kym M. Boycott",
+        "orcid": "https://orcid.org/0000-0003-4186-8052"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kym Boycott",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012113499",
+        "display_name": "Michael Brudno",
+        "orcid": "https://orcid.org/0000-0001-7947-2243"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Brudno",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112984082",
+        "display_name": "Kathleen Buckley",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kathleen Buckley",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112299571",
+        "display_name": "Jodi Campbell",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jodi Campbell",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102849964",
+        "display_name": "Philippe M. Campeau",
+        "orcid": "https://orcid.org/0000-0001-9713-7107"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philippe M. Campeau",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057199455",
+        "display_name": "Melanie Care",
+        "orcid": "https://orcid.org/0000-0001-7651-5244"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Melanie Care",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048238709",
+        "display_name": "Nancy Carson",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nancy Carson",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010409681",
+        "display_name": "Ronald Carter",
+        "orcid": "https://orcid.org/0000-0003-2235-6529"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ronald Carter",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada;",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035993142",
+        "display_name": "George S. Charames",
+        "orcid": "https://orcid.org/0000-0002-5937-9276"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George Charames",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107347195",
+        "display_name": "David Chitayat",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David Chitayat",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110050865",
+        "display_name": "George Chong",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George Chong",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008312330",
+        "display_name": "E. Chouinard",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Edmond Chouinard",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002620149",
+        "display_name": "Kathy Chun",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800061829",
+          "display_name": "North York General Hospital",
+          "ror": "https://ror.org/05b3hqn14",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800061829"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kathy Chun",
+      "raw_affiliation_strings": [
+        "Genetics Program, North York General Hospital, Toronto, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genetics Program, North York General Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2800061829"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013151289",
+        "display_name": "Kenneth J. Craddock",
+        "orcid": "https://orcid.org/0000-0001-9702-0830"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kenneth J. Craddock",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006812104",
+        "display_name": "Roderick Docking",
+        "orcid": "https://orcid.org/0000-0003-3248-4081"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rod Docking",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065891328",
+        "display_name": "Andrea Eisen",
+        "orcid": "https://orcid.org/0000-0001-8037-9556"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea Eisen",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039941976",
+        "display_name": "Hanna Faghfoury",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna Faghfoury",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061204925",
+        "display_name": "Sandra A. Farrell",
+        "orcid": "https://orcid.org/0000-0002-1015-5255"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204722609",
+          "display_name": "Queen's University",
+          "ror": "https://ror.org/02y72wh86",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204722609"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sandra Farrell",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I204722609"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008275218",
+        "display_name": "Harriet Feilotter",
+        "orcid": "https://orcid.org/0000-0002-1388-2183"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204722609",
+          "display_name": "Queen's University",
+          "ror": "https://ror.org/02y72wh86",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204722609"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Harriet Feilotter",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I204722609"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003632230",
+        "display_name": "Bridget A. Fernandez",
+        "orcid": "https://orcid.org/0000-0003-1265-8259"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bridget Fernandez",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112877330",
+        "display_name": "Marc Fiume",
+        "orcid": "https://orcid.org/0000-0002-9769-375X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marc Fiume",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5111694557",
+        "display_name": "Cynthia Forster‐Gibson",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cynthia Forster-Gibson",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051852805",
+        "display_name": "Jan M. Friedman",
+        "orcid": "https://orcid.org/0000-0002-7482-9570"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan Friedman",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029874203",
+        "display_name": "William D. Foulkes",
+        "orcid": "https://orcid.org/0000-0001-7427-4651"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "William Foulkes",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061149515",
+        "display_name": "Peter Goodhand",
+        "orcid": "https://orcid.org/0000-0002-2624-2820"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Goodhand",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102355439",
+        "display_name": "Jessica Gu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jessica Gu",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035358062",
+        "display_name": "Robert A. Hegele",
+        "orcid": "https://orcid.org/0000-0003-2861-5325"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Hegele",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103538329",
+        "display_name": "Spring Holter",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Spring Holter",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016206903",
+        "display_name": "Sheri Horsburgh",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sheri Horsburgh",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026955079",
+        "display_name": "Lauren Hughes",
+        "orcid": "https://orcid.org/0000-0002-5679-1732"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lauren Hughes",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060274616",
+        "display_name": "Stacey Hume",
+        "orcid": "https://orcid.org/0000-0002-3217-3032"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2799330578",
+          "display_name": "Children's Hospital of Eastern Ontario",
+          "ror": "https://ror.org/05nsbhw27",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stacey Hume",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+        "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics, University of Alberta, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I2799330578"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021052973",
+        "display_name": "Olga Jarinova",
+        "orcid": "https://orcid.org/0000-0001-6148-2240"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799330578",
+          "display_name": "Children's Hospital of Eastern Ontario",
+          "ror": "https://ror.org/05nsbhw27",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799330578"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Olga Jarinova",
+      "raw_affiliation_strings": [
+        "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2799330578"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067127586",
+        "display_name": "Franny Jewett",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Franny Jewett",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067935354",
+        "display_name": "Anne Junker",
+        "orcid": "https://orcid.org/0000-0002-5286-7672"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anne Junker",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083812935",
+        "display_name": "Aly Karsan",
+        "orcid": "https://orcid.org/0000-0001-6753-892X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1289530486",
+          "display_name": "BC Cancer Agency",
+          "ror": "https://ror.org/03sfybe47",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aly Karsan",
+      "raw_affiliation_strings": [
+        "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency, Vancouver, British Columbia, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1289530486"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073296716",
+        "display_name": "Sam Khalouei",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sam Khalouei",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014952448",
+        "display_name": "Joan H.M. Knoll",
+        "orcid": "https://orcid.org/0000-0001-6691-1710"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joan Knoll",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077998483",
+        "display_name": "Elena Kolomeitz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Kolomeitz",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013672213",
+        "display_name": "Bartha Maria Knoppers",
+        "orcid": "https://orcid.org/0000-0001-7004-2722"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bartha Knoppers",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053441512",
+        "display_name": "Ryan E. Lamont",
+        "orcid": "https://orcid.org/0000-0002-7720-068X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I168635309",
+          "display_name": "University of Calgary",
+          "ror": "https://ror.org/03yjb2x39",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802127220",
+          "display_name": "Alberta Children's Hospital",
+          "ror": "https://ror.org/00sx29x36",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802127220"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ryan Lamont",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2802127220",
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080516152",
+        "display_name": "Matthew S. Lebo",
+        "orcid": "https://orcid.org/0000-0002-9733-5207"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112260969",
+          "display_name": "Ontario Institute for Cancer Research",
+          "ror": "https://ror.org/043q8yx54",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1283280774",
+          "display_name": "Brigham and Women's Hospital",
+          "ror": "https://ror.org/04b6nzv94",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I48633490",
+          "display_name": "Mass General Brigham",
+          "ror": "https://ror.org/04py2rh25",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matthew Lebo",
+      "raw_affiliation_strings": [
+        "Departments of Pathology, Harvard Medical School and Brigham and Women's Hospital, Boston, Massachusetts, USA",
+        "Laboratory for Molecular Medicine, Partners HealthCare Personalized Medicine, Cambridge, Massachusetts, USA",
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada;",
+        "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Departments of Pathology, Harvard Medical School and Brigham and Women's Hospital, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory for Molecular Medicine, Partners HealthCare Personalized Medicine, Cambridge, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada;",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Jordan Lerner-Ellis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112260969",
+          "display_name": "Ontario Institute for Cancer Research",
+          "ror": "https://ror.org/043q8yx54",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jordan Lerner-Ellis",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+        "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036580368",
+        "display_name": "Jordan Lerner‐Ellis",
+        "orcid": "https://orcid.org/0000-0003-3685-5679"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I112260969",
+          "display_name": "Ontario Institute for Cancer Research",
+          "ror": "https://ror.org/043q8yx54",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I210557978",
+          "display_name": "Lunenfeld-Tanenbaum Research Institute",
+          "ror": "https://ror.org/01s5axj25",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210130843",
+          "display_name": "Sinai Health System",
+          "ror": "https://ror.org/044790d95",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jordan Lerner-Ellis",
+      "raw_affiliation_strings": [
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+        "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+        "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+        "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I210557978",
+            "https://openalex.org/I4210130843"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ontario Institute for Cancer Research, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I112260969"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061574140",
+        "display_name": "Georges Maire",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Georges Maire",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055989261",
+        "display_name": "Christian R. Marshall",
+        "orcid": "https://orcid.org/0000-0002-4003-7671"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Marshall",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001618653",
+        "display_name": "M. Elizabeth McCready",
+        "orcid": "https://orcid.org/0000-0002-7952-2279"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210093389",
+          "display_name": "Hamilton Regional Laboratory Medicine Program",
+          "ror": "https://ror.org/00epxwq78",
+          "country_code": "CA",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210093389"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76442945",
+          "display_name": "Hamilton Health Sciences",
+          "ror": "https://ror.org/02dqdxm48",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I76442945"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth McCready",
+      "raw_affiliation_strings": [
+        "Hamilton Regional Laboratory Medicine Program, Hamilton Health Sciences, Hamilton, Ontario, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hamilton Regional Laboratory Medicine Program, Hamilton Health Sciences, Hamilton, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I76442945",
+            "https://openalex.org/I4210093389"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071960520",
+        "display_name": "Grant Mitchell",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grant Mitchell",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063101725",
+        "display_name": "Michael Moorhouse",
+        "orcid": "https://orcid.org/0009-0004-4264-4581"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael J Moorhouse",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045675504",
+        "display_name": "Chantal F. Morel",
+        "orcid": "https://orcid.org/0000-0001-9159-2053"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chantal Morel",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082847937",
+        "display_name": "Tanya N. Nelson",
+        "orcid": "https://orcid.org/0000-0001-5344-3516"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tanya Nelson",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057232191",
+        "display_name": "Abdul Noor",
+        "orcid": "https://orcid.org/0000-0002-4892-5876"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdul Noor",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040984959",
+        "display_name": "Brian D. O’Connor",
+        "orcid": "https://orcid.org/0000-0002-7681-6415"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Brian O'Connor",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046987976",
+        "display_name": "Darren D. O’Rielly",
+        "orcid": "https://orcid.org/0000-0002-4287-8589"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Darren O'Rielly",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026853900",
+        "display_name": "B. F. Francis Ouellette",
+        "orcid": "https://orcid.org/0000-0003-4676-675X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Francis Ouellette",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000758712",
+        "display_name": "Jillian S. Parboosingh",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I168635309",
+          "display_name": "University of Calgary",
+          "ror": "https://ror.org/03yjb2x39",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802127220",
+          "display_name": "Alberta Children's Hospital",
+          "ror": "https://ror.org/00sx29x36",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802127220"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jillian Parboosingh",
+      "raw_affiliation_strings": [
+        "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada",
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I2802127220",
+            "https://openalex.org/I168635309"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051946533",
+        "display_name": "Hilary Racher",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hilary Racher",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080058098",
+        "display_name": "Peter C. Ray",
+        "orcid": "https://orcid.org/0000-0002-7828-0853"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Ray",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014144046",
+        "display_name": "Heidi L. Rehm",
+        "orcid": "https://orcid.org/0000-0002-6025-0015"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Heidi Rehm",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052303109",
+        "display_name": "Christie Riddell",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christie Riddell",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005179205",
+        "display_name": "Jean‐Baptiste Rivière",
+        "orcid": "https://orcid.org/0000-0001-9144-4210"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jean-Baptiste Riviere",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034733284",
+        "display_name": "David S. Rosenblatt",
+        "orcid": "https://orcid.org/0000-0002-0548-365X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David S. Rosenblatt",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002628021",
+        "display_name": "Guy A. Rouleau",
+        "orcid": "https://orcid.org/0000-0001-8403-1418"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guy Rouleau",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5096626942",
+        "display_name": "Andrea Ruchon",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea Ruchon",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065782582",
+        "display_name": "Peter Sabatini",
+        "orcid": "https://orcid.org/0000-0002-3361-0468"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Sabatini",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074581885",
+        "display_name": "Bekim Sadiković",
+        "orcid": "https://orcid.org/0000-0001-6363-0016"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bekim Sadikovic",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060763747",
+        "display_name": "Kara Semotiuk",
+        "orcid": "https://orcid.org/0000-0003-2026-7012"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800220363",
+          "display_name": "The Open Group",
+          "ror": "https://ror.org/01j5zzr31",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kara Semotiuk",
+      "raw_affiliation_strings": [
+        "Open Genetics Repository Working Group"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Open Genetics Repository Working Group",
+          "institution_ids": [
+            "https://openalex.org/I2800220363"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 125,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5036580368"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I112260969",
+    "https://openalex.org/I1291836623",
+    "https://openalex.org/I185261750",
+    "https://openalex.org/I210557978",
+    "https://openalex.org/I2800220363",
+    "https://openalex.org/I4210130843"
+  ],
+  "apc_list": {
+    "value": 4200,
+    "currency": "USD",
+    "value_usd": 4200
+  },
+  "apc_paid": null,
+  "fwci": 3.7158,
+  "has_fulltext": true,
+  "cited_by_count": 31,
+  "citation_normalized_percentile": {
+    "value": 0.93075816,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "20",
+    "issue": "3",
+    "first_page": "294",
+    "last_page": "302"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11642",
+    "display_name": "Genomics and Rare Diseases",
+    "score": 0.9991000294685364,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1311",
+      "display_name": "Genetics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11642",
+      "display_name": "Genomics and Rare Diseases",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10769",
+      "display_name": "BRCA gene mutations in cancer",
+      "score": 0.9962000250816345,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11213",
+      "display_name": "Genomic variations and chromosomal abnormalities",
+      "score": 0.9950000047683716,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/tier-2-network",
+      "display_name": "Tier 2 network",
+      "score": 0.6323504447937012
+    },
+    {
+      "id": "https://openalex.org/keywords/tier-1-network",
+      "display_name": "Tier 1 network",
+      "score": 0.6096868515014648
+    },
+    {
+      "id": "https://openalex.org/keywords/upload",
+      "display_name": "Upload",
+      "score": 0.6019153594970703
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.45610907673835754
+    },
+    {
+      "id": "https://openalex.org/keywords/quality",
+      "display_name": "Quality (philosophy)",
+      "score": 0.4541354775428772
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.4276842772960663
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.37901806831359863
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.19644024968147278
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.17755267024040222
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C160016529",
+      "wikidata": "https://www.wikidata.org/wiki/Q2484317",
+      "display_name": "Tier 2 network",
+      "level": 2,
+      "score": 0.6323504447937012
+    },
+    {
+      "id": "https://openalex.org/C23976947",
+      "wikidata": "https://www.wikidata.org/wiki/Q2193193",
+      "display_name": "Tier 1 network",
+      "level": 3,
+      "score": 0.6096868515014648
+    },
+    {
+      "id": "https://openalex.org/C71901391",
+      "wikidata": "https://www.wikidata.org/wiki/Q7126699",
+      "display_name": "Upload",
+      "level": 2,
+      "score": 0.6019153594970703
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.45610907673835754
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.4541354775428772
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.4276842772960663
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.37901806831359863
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.19644024968147278
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.17755267024040222
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000066491",
+      "descriptor_name": "Clinical Decision-Making",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000066491",
+      "descriptor_name": "Clinical Decision-Making",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000066491",
+      "descriptor_name": "Clinical Decision-Making",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000068598",
+      "descriptor_name": "Data Accuracy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000068598",
+      "descriptor_name": "Data Accuracy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000068598",
+      "descriptor_name": "Data Accuracy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002170",
+      "descriptor_name": "Canada",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002170",
+      "descriptor_name": "Canada",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002170",
+      "descriptor_name": "Canada",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005817",
+      "descriptor_name": "Genetic Counseling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005817",
+      "descriptor_name": "Genetic Counseling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005817",
+      "descriptor_name": "Genetic Counseling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005820",
+      "descriptor_name": "Genetic Testing",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006078",
+      "descriptor_name": "Government Programs",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006078",
+      "descriptor_name": "Government Programs",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006078",
+      "descriptor_name": "Government Programs",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014644",
+      "descriptor_name": "Genetic Variation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014644",
+      "descriptor_name": "Genetic Variation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014644",
+      "descriptor_name": "Genetic Variation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019398",
+      "descriptor_name": "Genes, BRCA1",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019398",
+      "descriptor_name": "Genes, BRCA1",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019398",
+      "descriptor_name": "Genes, BRCA1",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024522",
+      "descriptor_name": "Genes, BRCA2",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024522",
+      "descriptor_name": "Genes, BRCA2",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D024522",
+      "descriptor_name": "Genes, BRCA2",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D030541",
+      "descriptor_name": "Databases, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D030541",
+      "descriptor_name": "Databases, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D030541",
+      "descriptor_name": "Databases, Genetic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033181",
+      "descriptor_name": "Information Dissemination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D033181",
+      "descriptor_name": "Information Dissemination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D033181",
+      "descriptor_name": "Information Dissemination",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057188",
+      "descriptor_name": "Workflow",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D057188",
+      "descriptor_name": "Workflow",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D057188",
+      "descriptor_name": "Workflow",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058996",
+      "descriptor_name": "Quality Improvement",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058996",
+      "descriptor_name": "Quality Improvement",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058996",
+      "descriptor_name": "Quality Improvement",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1038/gim.2017.80",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/gim.2017.80",
+      "pdf_url": "https://www.nature.com/articles/gim201780.pdf",
+      "source": {
+        "id": "https://openalex.org/S187186932",
+        "display_name": "Genetics in Medicine",
+        "issn_l": "1098-3600",
+        "issn": [
+          "1098-3600",
+          "1530-0366"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Genetics in Medicine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:28726806",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28726806",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Genetics in medicine : official journal of the American College of Medical Genetics",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/gim.2017.80",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/gim.2017.80",
+    "pdf_url": "https://www.nature.com/articles/gim201780.pdf",
+    "source": {
+      "id": "https://openalex.org/S187186932",
+      "display_name": "Genetics in Medicine",
+      "issn_l": "1098-3600",
+      "issn": [
+        "1098-3600",
+        "1530-0366"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Genetics in Medicine",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/17",
+      "display_name": "Partnerships for the goals",
+      "score": 0.4699999988079071
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2657970655",
+      "display_name": null,
+      "funder_award_id": "141210",
+      "funder_id": "https://openalex.org/F4320334506",
+      "funder_display_name": "Canadian Institutes of Health Research"
+    },
+    {
+      "id": "https://openalex.org/G4913995153",
+      "display_name": null,
+      "funder_award_id": "141210",
+      "funder_id": "https://openalex.org/F4320310787",
+      "funder_display_name": "Genome Canada"
+    },
+    {
+      "id": "https://openalex.org/G7602432528",
+      "display_name": null,
+      "funder_award_id": "OGI-070",
+      "funder_id": "https://openalex.org/F4320319905",
+      "funder_display_name": "Ontario Genomics Institute"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320310787",
+      "display_name": "Genome Canada",
+      "ror": "https://ror.org/029s29983"
+    },
+    {
+      "id": "https://openalex.org/F4320314024",
+      "display_name": "Ontario Genomics",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320319880",
+      "display_name": "Government of Canada",
+      "ror": "https://ror.org/010q4q527"
+    },
+    {
+      "id": "https://openalex.org/F4320319905",
+      "display_name": "Ontario Genomics Institute",
+      "ror": "https://ror.org/00c68jz96"
+    },
+    {
+      "id": "https://openalex.org/F4320334506",
+      "display_name": "Canadian Institutes of Health Research",
+      "ror": "https://ror.org/01gavpb45"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2737732224.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2737732224.grobid-xml"
+  },
+  "referenced_works_count": 23,
+  "referenced_works": [
+    "https://openalex.org/W1564417183",
+    "https://openalex.org/W1644197353",
+    "https://openalex.org/W1971915302",
+    "https://openalex.org/W2003873813",
+    "https://openalex.org/W2011752663",
+    "https://openalex.org/W2042420022",
+    "https://openalex.org/W2051978340",
+    "https://openalex.org/W2058040672",
+    "https://openalex.org/W2059600528",
+    "https://openalex.org/W2082415536",
+    "https://openalex.org/W2091961739",
+    "https://openalex.org/W2099101325",
+    "https://openalex.org/W2128044263",
+    "https://openalex.org/W2140563000",
+    "https://openalex.org/W2174602966",
+    "https://openalex.org/W2306978380",
+    "https://openalex.org/W2320983896",
+    "https://openalex.org/W2356454710",
+    "https://openalex.org/W2519722213",
+    "https://openalex.org/W2525665743",
+    "https://openalex.org/W2564719803",
+    "https://openalex.org/W2611603562",
+    "https://openalex.org/W6730461452"
+  ],
+  "related_works": [
+    "https://openalex.org/W3023089182",
+    "https://openalex.org/W2496466139",
+    "https://openalex.org/W1805809048",
+    "https://openalex.org/W4283204159",
+    "https://openalex.org/W3134950351",
+    "https://openalex.org/W3112746993",
+    "https://openalex.org/W1523250909",
+    "https://openalex.org/W1569859139",
+    "https://openalex.org/W2803224977",
+    "https://openalex.org/W2201114824"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

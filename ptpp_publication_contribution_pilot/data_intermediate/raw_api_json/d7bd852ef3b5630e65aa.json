@@ -1,0 +1,1615 @@
+{
+  "id": "https://openalex.org/W3012519144",
+  "doi": "https://doi.org/10.1073/pnas.1921027117",
+  "title": "Stochastic activation and bistability in a Rab GTPase regulatory network",
+  "display_name": "Stochastic activation and bistability in a Rab GTPase regulatory network",
+  "publication_year": 2020,
+  "publication_date": "2020-03-11",
+  "ids": {
+    "openalex": "https://openalex.org/W3012519144",
+    "doi": "https://doi.org/10.1073/pnas.1921027117",
+    "mag": "3012519144",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32161136"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1073/pnas.1921027117",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1073/pnas.1921027117",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S125754415",
+      "display_name": "Proceedings of the National Academy of Sciences",
+      "issn_l": "0027-8424",
+      "issn": [
+        "0027-8424",
+        "1091-6490"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320052",
+      "host_organization_name": "National Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320052"
+      ],
+      "host_organization_lineage_names": [
+        "National Academy of Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the National Academy of Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7104049",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5039976662",
+        "display_name": "Urban Bezeljak",
+        "orcid": "https://orcid.org/0000-0003-1365-5631"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Urban Bezeljak",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria, 3400 Klosterneuburg, Austria;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1365-5631",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria, 3400 Klosterneuburg, Austria;",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007410227",
+        "display_name": "Hrushikesh Loya",
+        "orcid": "https://orcid.org/0000-0002-4587-6378"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I162827531",
+          "display_name": "Indian Institute of Technology Bombay",
+          "ror": "https://ror.org/02qyf5152",
+          "country_code": "IN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I162827531"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hrushikesh Loya",
+      "raw_affiliation_strings": [
+        "Department of Electrical Engineering, Indian Institute of Technology Bombay, Mumbai, Maharashtra 400076, India;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical Engineering, Indian Institute of Technology Bombay, Mumbai, Maharashtra 400076, India;",
+          "institution_ids": [
+            "https://openalex.org/I162827531"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104273213",
+        "display_name": "Beata Kaczmarek",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Kaczmarek",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria, 3400 Klosterneuburg, Austria;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria, 3400 Klosterneuburg, Austria;",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033988677",
+        "display_name": "Timothy E. Saunders",
+        "orcid": "https://orcid.org/0000-0001-5755-0060"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165932596",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Timothy E. Saunders",
+      "raw_affiliation_strings": [
+        "Department of Biological Sciences, National University of Singapore, Singapore 119077",
+        "Mechanobiology Institute, National University of Singapore, Singapore 119077;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5755-0060",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biological Sciences, National University of Singapore, Singapore 119077",
+          "institution_ids": [
+            "https://openalex.org/I165932596"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Mechanobiology Institute, National University of Singapore, Singapore 119077;",
+          "institution_ids": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5015595521",
+        "display_name": "Martin Loose",
+        "orcid": "https://orcid.org/0000-0001-7309-9724"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157556583",
+          "display_name": "Institute of Science and Technology Austria",
+          "ror": "https://ror.org/03gnh5541",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Martin Loose",
+      "raw_affiliation_strings": [
+        "Institute of Science and Technology Austria, 3400 Klosterneuburg, Austria;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7309-9724",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Science and Technology Austria, 3400 Klosterneuburg, Austria;",
+          "institution_ids": [
+            "https://openalex.org/I157556583"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5015595521",
+    "https://openalex.org/A5033988677"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I157556583",
+    "https://openalex.org/I165932596"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.2221,
+  "has_fulltext": false,
+  "cited_by_count": 42,
+  "citation_normalized_percentile": {
+    "value": 0.922049,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "117",
+    "issue": "12",
+    "first_page": "6540",
+    "last_page": "6549"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10617",
+    "display_name": "Cellular transport and secretion",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1307",
+      "display_name": "Cell Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10617",
+      "display_name": "Cellular transport and secretion",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10407",
+      "display_name": "Lipid Membrane Structure and Behavior",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13187",
+      "display_name": "Diffusion and Search Dynamics",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/bistability",
+      "display_name": "Bistability",
+      "score": 0.8647447228431702
+    },
+    {
+      "id": "https://openalex.org/keywords/gtpase",
+      "display_name": "GTPase",
+      "score": 0.7608487010002136
+    },
+    {
+      "id": "https://openalex.org/keywords/rab",
+      "display_name": "Rab",
+      "score": 0.7491176724433899
+    },
+    {
+      "id": "https://openalex.org/keywords/endomembrane-system",
+      "display_name": "Endomembrane system",
+      "score": 0.571643054485321
+    },
+    {
+      "id": "https://openalex.org/keywords/positive-feedback",
+      "display_name": "Positive feedback",
+      "score": 0.5266064405441284
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.48223981261253357
+    },
+    {
+      "id": "https://openalex.org/keywords/intracellular",
+      "display_name": "Intracellular",
+      "score": 0.4583451449871063
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.42520755529403687
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.4101818799972534
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.3412846624851227
+    },
+    {
+      "id": "https://openalex.org/keywords/biophysics",
+      "display_name": "Biophysics",
+      "score": 0.33076560497283936
+    },
+    {
+      "id": "https://openalex.org/keywords/vesicle",
+      "display_name": "Vesicle",
+      "score": 0.32528942823410034
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.2594798803329468
+    },
+    {
+      "id": "https://openalex.org/keywords/membrane",
+      "display_name": "Membrane",
+      "score": 0.13421809673309326
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.12380564212799072
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.11087390780448914
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C97292510",
+      "wikidata": "https://www.wikidata.org/wiki/Q2304620",
+      "display_name": "Bistability",
+      "level": 2,
+      "score": 0.8647447228431702
+    },
+    {
+      "id": "https://openalex.org/C207332259",
+      "wikidata": "https://www.wikidata.org/wiki/Q769143",
+      "display_name": "GTPase",
+      "level": 2,
+      "score": 0.7608487010002136
+    },
+    {
+      "id": "https://openalex.org/C156728348",
+      "wikidata": "https://www.wikidata.org/wiki/Q416778",
+      "display_name": "Rab",
+      "level": 3,
+      "score": 0.7491176724433899
+    },
+    {
+      "id": "https://openalex.org/C206052861",
+      "wikidata": "https://www.wikidata.org/wiki/Q899827",
+      "display_name": "Endomembrane system",
+      "level": 4,
+      "score": 0.571643054485321
+    },
+    {
+      "id": "https://openalex.org/C48207687",
+      "wikidata": "https://www.wikidata.org/wiki/Q918004",
+      "display_name": "Positive feedback",
+      "level": 2,
+      "score": 0.5266064405441284
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.48223981261253357
+    },
+    {
+      "id": "https://openalex.org/C79879829",
+      "wikidata": "https://www.wikidata.org/wiki/Q5571762",
+      "display_name": "Intracellular",
+      "level": 2,
+      "score": 0.4583451449871063
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.42520755529403687
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.4101818799972534
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.3412846624851227
+    },
+    {
+      "id": "https://openalex.org/C12554922",
+      "wikidata": "https://www.wikidata.org/wiki/Q7100",
+      "display_name": "Biophysics",
+      "level": 1,
+      "score": 0.33076560497283936
+    },
+    {
+      "id": "https://openalex.org/C130316041",
+      "wikidata": "https://www.wikidata.org/wiki/Q189206",
+      "display_name": "Vesicle",
+      "level": 3,
+      "score": 0.32528942823410034
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.2594798803329468
+    },
+    {
+      "id": "https://openalex.org/C41625074",
+      "wikidata": "https://www.wikidata.org/wiki/Q176088",
+      "display_name": "Membrane",
+      "level": 2,
+      "score": 0.13421809673309326
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.12380564212799072
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.11087390780448914
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006153",
+      "descriptor_name": "Guanosine Diphosphate",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006153",
+      "descriptor_name": "Guanosine Diphosphate",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006153",
+      "descriptor_name": "Guanosine Diphosphate",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006153",
+      "descriptor_name": "Guanosine Diphosphate",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007425",
+      "descriptor_name": "Intracellular Membranes",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013269",
+      "descriptor_name": "Stochastic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013269",
+      "descriptor_name": "Stochastic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013269",
+      "descriptor_name": "Stochastic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013269",
+      "descriptor_name": "Stochastic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015398",
+      "descriptor_name": "Signal Transduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017368",
+      "descriptor_name": "Protein Prenylation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017368",
+      "descriptor_name": "Protein Prenylation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017368",
+      "descriptor_name": "Protein Prenylation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017368",
+      "descriptor_name": "Protein Prenylation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020555",
+      "descriptor_name": "GTP-Binding Protein Regulators",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020555",
+      "descriptor_name": "GTP-Binding Protein Regulators",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020555",
+      "descriptor_name": "GTP-Binding Protein Regulators",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020555",
+      "descriptor_name": "GTP-Binding Protein Regulators",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020696",
+      "descriptor_name": "rab5 GTP-Binding Proteins",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D021381",
+      "descriptor_name": "Protein Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D021381",
+      "descriptor_name": "Protein Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D021381",
+      "descriptor_name": "Protein Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D021381",
+      "descriptor_name": "Protein Transport",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D025461",
+      "descriptor_name": "Feedback, Physiological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D025461",
+      "descriptor_name": "Feedback, Physiological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D025461",
+      "descriptor_name": "Feedback, Physiological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D025461",
+      "descriptor_name": "Feedback, Physiological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033921",
+      "descriptor_name": "Vesicular Transport Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033921",
+      "descriptor_name": "Vesicular Transport Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033921",
+      "descriptor_name": "Vesicular Transport Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D033921",
+      "descriptor_name": "Vesicular Transport Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1073/pnas.1921027117",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1073/pnas.1921027117",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S125754415",
+        "display_name": "Proceedings of the National Academy of Sciences",
+        "issn_l": "0027-8424",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320052",
+        "host_organization_name": "National Academy of Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320052"
+        ],
+        "host_organization_lineage_names": [
+          "National Academy of Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:32161136",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32161136",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences of the United States of America",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7104049",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7104049",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Proc Natl Acad Sci U S A",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:wrap.warwick.ac.uk:139569",
+      "is_oa": false,
+      "landing_page_url": "http://wrap.warwick.ac.uk/139569/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400665",
+        "display_name": "Warwick Research Archive Portal (University of Warwick)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I39555362",
+        "host_organization_name": "University of Warwick",
+        "host_organization_lineage": [
+          "https://openalex.org/I39555362"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Journal Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:pubmedcentral.nih.gov:7104049",
+    "is_oa": true,
+    "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7104049",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1299303238",
+      "host_organization_name": "National Institutes of Health",
+      "host_organization_lineage": [
+        "https://openalex.org/I1299303238"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Proc Natl Acad Sci U S A",
+    "raw_type": "Text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1317496977",
+      "display_name": null,
+      "funder_award_id": "HFSP YIP 4193",
+      "funder_id": "https://openalex.org/F4320307846",
+      "funder_display_name": "Human Frontier Science Program"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320307846",
+      "display_name": "Human Frontier Science Program",
+      "ror": "https://ror.org/02ebx7v45"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 58,
+  "referenced_works": [
+    "https://openalex.org/W1483826909",
+    "https://openalex.org/W1591718604",
+    "https://openalex.org/W1595083713",
+    "https://openalex.org/W1595436183",
+    "https://openalex.org/W1966332308",
+    "https://openalex.org/W1967182910",
+    "https://openalex.org/W1971644094",
+    "https://openalex.org/W1978391620",
+    "https://openalex.org/W1980661496",
+    "https://openalex.org/W1987219070",
+    "https://openalex.org/W1990441661",
+    "https://openalex.org/W1994668150",
+    "https://openalex.org/W2015188565",
+    "https://openalex.org/W2018182827",
+    "https://openalex.org/W2020025223",
+    "https://openalex.org/W2025871861",
+    "https://openalex.org/W2026283030",
+    "https://openalex.org/W2037992356",
+    "https://openalex.org/W2049336663",
+    "https://openalex.org/W2049878966",
+    "https://openalex.org/W2054149782",
+    "https://openalex.org/W2060614579",
+    "https://openalex.org/W2065015815",
+    "https://openalex.org/W2069738597",
+    "https://openalex.org/W2070658593",
+    "https://openalex.org/W2074851426",
+    "https://openalex.org/W2085056826",
+    "https://openalex.org/W2089840306",
+    "https://openalex.org/W2094625991",
+    "https://openalex.org/W2097772037",
+    "https://openalex.org/W2099530148",
+    "https://openalex.org/W2099564767",
+    "https://openalex.org/W2120689665",
+    "https://openalex.org/W2121977115",
+    "https://openalex.org/W2128506555",
+    "https://openalex.org/W2133059094",
+    "https://openalex.org/W2134759932",
+    "https://openalex.org/W2135326887",
+    "https://openalex.org/W2135623897",
+    "https://openalex.org/W2152030368",
+    "https://openalex.org/W2153493310",
+    "https://openalex.org/W2158123283",
+    "https://openalex.org/W2162598202",
+    "https://openalex.org/W2170580938",
+    "https://openalex.org/W2312836697",
+    "https://openalex.org/W2339521790",
+    "https://openalex.org/W2529052661",
+    "https://openalex.org/W2554686319",
+    "https://openalex.org/W2622556140",
+    "https://openalex.org/W2770539102",
+    "https://openalex.org/W2782976240",
+    "https://openalex.org/W2897465690",
+    "https://openalex.org/W2917190207",
+    "https://openalex.org/W2950681580",
+    "https://openalex.org/W2951297077",
+    "https://openalex.org/W2973327684",
+    "https://openalex.org/W2983256084",
+    "https://openalex.org/W3012519144"
+  ],
+  "related_works": [
+    "https://openalex.org/W4211072085",
+    "https://openalex.org/W1611350409",
+    "https://openalex.org/W3198907310",
+    "https://openalex.org/W2395075066",
+    "https://openalex.org/W3184795822",
+    "https://openalex.org/W2901203581",
+    "https://openalex.org/W4205208323",
+    "https://openalex.org/W2071884450",
+    "https://openalex.org/W1510699192",
+    "https://openalex.org/W4380854396"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "eukaryotic": [
+      1
+    ],
+    "endomembrane": [
+      2
+    ],
+    "system": [
+      3,
+      71
+    ],
+    "is": [
+      4,
+      28,
+      42,
+      93
+    ],
+    "controlled": [
+      5
+    ],
+    "by": [
+      6
+    ],
+    "small": [
+      7
+    ],
+    "GTPases": [
+      8
+    ],
+    "of": [
+      9,
+      82,
+      104,
+      130,
+      154
+    ],
+    "the": [
+      10,
+      66,
+      90,
+      101,
+      107,
+      111,
+      123,
+      151,
+      155
+    ],
+    "Rab": [
+      11
+    ],
+    "family,": [
+      12
+    ],
+    "which": [
+      13
+    ],
+    "are": [
+      14
+    ],
+    "activated": [
+      15
+    ],
+    "at": [
+      16
+    ],
+    "defined": [
+      17
+    ],
+    "times": [
+      18
+    ],
+    "and": [
+      19,
+      78,
+      96,
+      145
+    ],
+    "locations": [
+      20
+    ],
+    "in": [
+      21,
+      49,
+      69
+    ],
+    "a": [
+      22,
+      58,
+      75,
+      127
+    ],
+    "switch-like": [
+      23
+    ],
+    "manner.": [
+      24
+    ],
+    "While": [
+      25
+    ],
+    "this": [
+      26,
+      70
+    ],
+    "switch": [
+      27
+    ],
+    "well": [
+      29
+    ],
+    "understood": [
+      30
+    ],
+    "for": [
+      31
+    ],
+    "an": [
+      32
+    ],
+    "individual": [
+      33
+    ],
+    "protein,": [
+      34
+    ],
+    "how": [
+      35,
+      137,
+      146
+    ],
+    "regulatory": [
+      36
+    ],
+    "networks": [
+      37,
+      140
+    ],
+    "produce": [
+      38
+    ],
+    "intracellular": [
+      39
+    ],
+    "activity": [
+      40
+    ],
+    "patterns": [
+      41
+    ],
+    "currently": [
+      43
+    ],
+    "not": [
+      44
+    ],
+    "known.": [
+      45
+    ],
+    "Here,": [
+      46
+    ],
+    "we": [
+      47,
+      85,
+      115
+    ],
+    "combine": [
+      48
+    ],
+    "vitro": [
+      50
+    ],
+    "reconstitution": [
+      51
+    ],
+    "experiments": [
+      52
+    ],
+    "with": [
+      53
+    ],
+    "computational": [
+      54
+    ],
+    "modeling": [
+      55
+    ],
+    "to": [
+      56,
+      74
+    ],
+    "study": [
+      57
+    ],
+    "minimal": [
+      59
+    ],
+    "Rab5": [
+      60,
+      105,
+      131
+    ],
+    "activation": [
+      61
+    ],
+    "network.": [
+      62
+    ],
+    "We": [
+      63
+    ],
+    "find": [
+      64,
+      86
+    ],
+    "that": [
+      65,
+      87,
+      99,
+      117
+    ],
+    "molecular": [
+      67
+    ],
+    "interactions": [
+      68
+    ],
+    "give": [
+      72
+    ],
+    "rise": [
+      73
+    ],
+    "positive": [
+      76
+    ],
+    "feedback": [
+      77
+    ],
+    "bistable": [
+      79
+    ],
+    "collective": [
+      80,
+      118
+    ],
+    "switching": [
+      81,
+      88,
+      119
+    ],
+    "Rab5.": [
+      83
+    ],
+    "Furthermore,": [
+      84
+    ],
+    "near": [
+      89
+    ],
+    "critical": [
+      91
+    ],
+    "point": [
+      92
+    ],
+    "intrinsically": [
+      94
+    ],
+    "stochastic": [
+      95
+    ],
+    "provide": [
+      97
+    ],
+    "evidence": [
+      98
+    ],
+    "controlling": [
+      100
+    ],
+    "inactive": [
+      102
+    ],
+    "population": [
+      103
+    ],
+    "on": [
+      106,
+      122
+    ],
+    "membrane": [
+      108,
+      124
+    ],
+    "can": [
+      109,
+      120
+    ],
+    "shape": [
+      110
+    ],
+    "network": [
+      112
+    ],
+    "response.": [
+      113
+    ],
+    "Notably,": [
+      114
+    ],
+    "demonstrate": [
+      116
+    ],
+    "spread": [
+      121
+    ],
+    "surface": [
+      125
+    ],
+    "as": [
+      126
+    ],
+    "traveling": [
+      128
+    ],
+    "wave": [
+      129
+    ],
+    "activation.": [
+      132
+    ],
+    "Together,": [
+      133
+    ],
+    "our": [
+      134
+    ],
+    "findings": [
+      135
+    ],
+    "reveal": [
+      136
+    ],
+    "biochemical": [
+      138
+    ],
+    "signaling": [
+      139
+    ],
+    "control": [
+      141
+    ],
+    "vesicle": [
+      142
+    ],
+    "trafficking": [
+      143
+    ],
+    "pathways": [
+      144
+    ],
+    "their": [
+      147
+    ],
+    "nonequilibrium": [
+      148
+    ],
+    "properties": [
+      149
+    ],
+    "define": [
+      150
+    ],
+    "spatiotemporal": [
+      152
+    ],
+    "organization": [
+      153
+    ],
+    "cell.": [
+      156
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1435 @@
+{
+  "id": "https://openalex.org/W2792165653",
+  "doi": "https://doi.org/10.1038/s41467-018-03270-4",
+  "title": "Evidence that DNA polymerase δ contributes to initiating leading strand DNA replication in Saccharomyces cerevisiae",
+  "display_name": "Evidence that DNA polymerase δ contributes to initiating leading strand DNA replication in Saccharomyces cerevisiae",
+  "publication_year": 2018,
+  "publication_date": "2018-02-21",
+  "ids": {
+    "openalex": "https://openalex.org/W2792165653",
+    "doi": "https://doi.org/10.1038/s41467-018-03270-4",
+    "mag": "2792165653"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41467-018-03270-4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-018-03270-4",
+    "pdf_url": "https://www.nature.com/articles/s41467-018-03270-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41467-018-03270-4.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5045968945",
+        "display_name": "Marta A. Garbacz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta A. Garbacz",
+      "raw_affiliation_strings": [
+        "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072131585",
+        "display_name": "Scott A. Lujan",
+        "orcid": "https://orcid.org/0000-0003-2400-8325"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Scott A. Lujan",
+      "raw_affiliation_strings": [
+        "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2400-8325",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077612907",
+        "display_name": "Adam Burkholder",
+        "orcid": "https://orcid.org/0000-0002-0237-6920"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adam B. Burkholder",
+      "raw_affiliation_strings": [
+        "Integrative Bioinformatics Support Group, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Integrative Bioinformatics Support Group, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084461634",
+        "display_name": "Phillip B. Cox",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Phillip B. Cox",
+      "raw_affiliation_strings": [
+        "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027591992",
+        "display_name": "Qiuqin Wu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Qiuqin Wu",
+      "raw_affiliation_strings": [
+        "Department of Biology, Rosenstiel Basic Medical Sciences Research Center, Brandeis University, Waltham, MA, 02454, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology, Rosenstiel Basic Medical Sciences Research Center, Brandeis University, Waltham, MA, 02454, USA",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035203769",
+        "display_name": "Zhi-Xiong Zhou",
+        "orcid": "https://orcid.org/0000-0001-6163-9367"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zhi-Xiong Zhou",
+      "raw_affiliation_strings": [
+        "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048113506",
+        "display_name": "James E. Haber",
+        "orcid": "https://orcid.org/0000-0002-1878-0610"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "James E. Haber",
+      "raw_affiliation_strings": [
+        "Department of Biology, Rosenstiel Basic Medical Sciences Research Center, Brandeis University, Waltham, MA, 02454, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology, Rosenstiel Basic Medical Sciences Research Center, Brandeis University, Waltham, MA, 02454, USA",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5054055369",
+        "display_name": "Thomas A. Kunkel",
+        "orcid": "https://orcid.org/0000-0002-9900-1788"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Thomas A. Kunkel",
+      "raw_affiliation_strings": [
+        "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Integrity and Structural Biology Laboratory, National Institute of Environmental Health Sciences, NIH, DHHS, Research Triangle Park, Durham, NC, 27709, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5054055369"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210095140"
+  ],
+  "apc_list": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "apc_paid": {
+    "value": 3920,
+    "currency": "GBP",
+    "value_usd": 4808
+  },
+  "fwci": 5.6601,
+  "has_fulltext": true,
+  "cited_by_count": 101,
+  "citation_normalized_percentile": {
+    "value": 0.96976244,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10123",
+    "display_name": "DNA Repair Mechanisms",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10123",
+      "display_name": "DNA Repair Mechanisms",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10222",
+      "display_name": "Genomics and Chromatin Dynamics",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10497",
+      "display_name": "Fungal and yeast genetics research",
+      "score": 0.9959999918937683,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dna-replication",
+      "display_name": "DNA replication",
+      "score": 0.7046226263046265
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-polymerase",
+      "display_name": "DNA polymerase",
+      "score": 0.6553876996040344
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.6027219295501709
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-polymerase-ii",
+      "display_name": "DNA polymerase II",
+      "score": 0.5291046500205994
+    },
+    {
+      "id": "https://openalex.org/keywords/replication-factor-c",
+      "display_name": "Replication factor C",
+      "score": 0.5231539011001587
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.5173751711845398
+    },
+    {
+      "id": "https://openalex.org/keywords/control-of-chromosome-duplication",
+      "display_name": "Control of chromosome duplication",
+      "score": 0.5037447810173035
+    },
+    {
+      "id": "https://openalex.org/keywords/eukaryotic-dna-replication",
+      "display_name": "Eukaryotic DNA replication",
+      "score": 0.49906039237976074
+    },
+    {
+      "id": "https://openalex.org/keywords/origin-recognition-complex",
+      "display_name": "Origin recognition complex",
+      "score": 0.4825843870639801
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-polymerase-delta",
+      "display_name": "DNA polymerase delta",
+      "score": 0.480760782957077
+    },
+    {
+      "id": "https://openalex.org/keywords/dna-polymerase-i",
+      "display_name": "DNA polymerase I",
+      "score": 0.4349070191383362
+    },
+    {
+      "id": "https://openalex.org/keywords/polymerase",
+      "display_name": "Polymerase",
+      "score": 0.4257428050041199
+    },
+    {
+      "id": "https://openalex.org/keywords/prokaryotic-dna-replication",
+      "display_name": "Prokaryotic DNA replication",
+      "score": 0.4182814955711365
+    },
+    {
+      "id": "https://openalex.org/keywords/pre-replication-complex",
+      "display_name": "Pre-replication complex",
+      "score": 0.41355812549591064
+    },
+    {
+      "id": "https://openalex.org/keywords/molecular-biology",
+      "display_name": "Molecular biology",
+      "score": 0.34924444556236267
+    },
+    {
+      "id": "https://openalex.org/keywords/dna",
+      "display_name": "DNA",
+      "score": 0.32795220613479614
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.27137163281440735
+    },
+    {
+      "id": "https://openalex.org/keywords/rna",
+      "display_name": "RNA",
+      "score": 0.08822661638259888
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C73573662",
+      "wikidata": "https://www.wikidata.org/wiki/Q130996",
+      "display_name": "DNA replication",
+      "level": 3,
+      "score": 0.7046226263046265
+    },
+    {
+      "id": "https://openalex.org/C2756471",
+      "wikidata": "https://www.wikidata.org/wiki/Q206286",
+      "display_name": "DNA polymerase",
+      "level": 3,
+      "score": 0.6553876996040344
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6027219295501709
+    },
+    {
+      "id": "https://openalex.org/C88354546",
+      "wikidata": "https://www.wikidata.org/wiki/Q3502973",
+      "display_name": "DNA polymerase II",
+      "level": 5,
+      "score": 0.5291046500205994
+    },
+    {
+      "id": "https://openalex.org/C188036394",
+      "wikidata": "https://www.wikidata.org/wiki/Q14902224",
+      "display_name": "Replication factor C",
+      "level": 5,
+      "score": 0.5231539011001587
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.5173751711845398
+    },
+    {
+      "id": "https://openalex.org/C104690221",
+      "wikidata": "https://www.wikidata.org/wiki/Q5165872",
+      "display_name": "Control of chromosome duplication",
+      "level": 4,
+      "score": 0.5037447810173035
+    },
+    {
+      "id": "https://openalex.org/C98086919",
+      "wikidata": "https://www.wikidata.org/wiki/Q118019",
+      "display_name": "Eukaryotic DNA replication",
+      "level": 4,
+      "score": 0.49906039237976074
+    },
+    {
+      "id": "https://openalex.org/C151158763",
+      "wikidata": "https://www.wikidata.org/wiki/Q1626856",
+      "display_name": "Origin recognition complex",
+      "level": 5,
+      "score": 0.4825843870639801
+    },
+    {
+      "id": "https://openalex.org/C76535049",
+      "wikidata": "https://www.wikidata.org/wiki/Q3487941",
+      "display_name": "DNA polymerase delta",
+      "level": 5,
+      "score": 0.480760782957077
+    },
+    {
+      "id": "https://openalex.org/C164965036",
+      "wikidata": "https://www.wikidata.org/wiki/Q2529148",
+      "display_name": "DNA polymerase I",
+      "level": 5,
+      "score": 0.4349070191383362
+    },
+    {
+      "id": "https://openalex.org/C82381507",
+      "wikidata": "https://www.wikidata.org/wiki/Q416878",
+      "display_name": "Polymerase",
+      "level": 3,
+      "score": 0.4257428050041199
+    },
+    {
+      "id": "https://openalex.org/C66072924",
+      "wikidata": "https://www.wikidata.org/wiki/Q7249506",
+      "display_name": "Prokaryotic DNA replication",
+      "level": 5,
+      "score": 0.4182814955711365
+    },
+    {
+      "id": "https://openalex.org/C41141232",
+      "wikidata": "https://www.wikidata.org/wiki/Q3685229",
+      "display_name": "Pre-replication complex",
+      "level": 5,
+      "score": 0.41355812549591064
+    },
+    {
+      "id": "https://openalex.org/C153911025",
+      "wikidata": "https://www.wikidata.org/wiki/Q7202",
+      "display_name": "Molecular biology",
+      "level": 1,
+      "score": 0.34924444556236267
+    },
+    {
+      "id": "https://openalex.org/C552990157",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430",
+      "display_name": "DNA",
+      "level": 2,
+      "score": 0.32795220613479614
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.27137163281440735
+    },
+    {
+      "id": "https://openalex.org/C67705224",
+      "wikidata": "https://www.wikidata.org/wiki/Q11053",
+      "display_name": "RNA",
+      "level": 3,
+      "score": 0.08822661638259888
+    },
+    {
+      "id": "https://openalex.org/C156719811",
+      "wikidata": "https://www.wikidata.org/wiki/Q28774",
+      "display_name": "Reverse transcriptase",
+      "level": 4,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41467-018-03270-4",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41467-018-03270-4",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-03270-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:RePEc:nat:natcom:v:9:y:2018:i:1:d:10.1038_s41467-018-03270-4",
+      "is_oa": false,
+      "landing_page_url": "https://www.nature.com/articles/s41467-018-03270-4",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:0ec48e9ef60b4225a524868988d1cef0",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/0ec48e9ef60b4225a524868988d1cef0",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 9, Iss 1, Pp 1-11 (2018)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:2a284720b8f54ba8a71212e2bc6d455f",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/2a284720b8f54ba8a71212e2bc6d455f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nature Communications, Vol 9, Iss 1, Pp 1-11 (2018)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:5829166",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5829166",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Nat Commun",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41467-018-03270-4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41467-018-03270-4",
+    "pdf_url": "https://www.nature.com/articles/s41467-018-03270-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "issn_l": "2041-1723",
+      "issn": [
+        "2041-1723"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Nature Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Life in Land",
+      "score": 0.5199999809265137,
+      "id": "https://metadata.un.org/sdg/15"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3418621160",
+      "display_name": null,
+      "funder_award_id": "Z01 ES065070",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G4464042560",
+      "display_name": null,
+      "funder_award_id": "GM76020",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G4768842517",
+      "display_name": null,
+      "funder_award_id": "Z01 ES065070",
+      "funder_id": "https://openalex.org/F4320337361",
+      "funder_display_name": "National Institute of Environmental Health Sciences"
+    },
+    {
+      "id": "https://openalex.org/G5792972300",
+      "display_name": null,
+      "funder_award_id": "ES065070",
+      "funder_id": "https://openalex.org/F4320337361",
+      "funder_display_name": "National Institute of Environmental Health Sciences"
+    },
+    {
+      "id": "https://openalex.org/G6856098175",
+      "display_name": null,
+      "funder_award_id": "GM105473",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322971",
+      "display_name": "Umeå Universitet",
+      "ror": "https://ror.org/05kb8h459"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320337361",
+      "display_name": "National Institute of Environmental Health Sciences",
+      "ror": "https://ror.org/00j4k1h63"
+    },
+    {
+      "id": "https://openalex.org/F4320338421",
+      "display_name": "NHLBI Division of Intramural Research",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2792165653.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2792165653.grobid-xml"
+  },
+  "referenced_works_count": 55,
+  "referenced_works": [
+    "https://openalex.org/W1547330783",
+    "https://openalex.org/W1579409894",
+    "https://openalex.org/W1589132235",
+    "https://openalex.org/W1625430625",
+    "https://openalex.org/W1772122236",
+    "https://openalex.org/W1966982053",
+    "https://openalex.org/W1968493165",
+    "https://openalex.org/W1980042463",
+    "https://openalex.org/W1980116731",
+    "https://openalex.org/W1985491895",
+    "https://openalex.org/W1992391204",
+    "https://openalex.org/W1993724028",
+    "https://openalex.org/W1994051286",
+    "https://openalex.org/W1997859335",
+    "https://openalex.org/W2001031455",
+    "https://openalex.org/W2003922055",
+    "https://openalex.org/W2016357039",
+    "https://openalex.org/W2020541351",
+    "https://openalex.org/W2020982275",
+    "https://openalex.org/W2021508107",
+    "https://openalex.org/W2025064120",
+    "https://openalex.org/W2047388928",
+    "https://openalex.org/W2059184834",
+    "https://openalex.org/W2061593484",
+    "https://openalex.org/W2063771471",
+    "https://openalex.org/W2074050403",
+    "https://openalex.org/W2077570881",
+    "https://openalex.org/W2078308609",
+    "https://openalex.org/W2078507463",
+    "https://openalex.org/W2089594949",
+    "https://openalex.org/W2100057937",
+    "https://openalex.org/W2102972000",
+    "https://openalex.org/W2116004354",
+    "https://openalex.org/W2118873017",
+    "https://openalex.org/W2121356457",
+    "https://openalex.org/W2121550117",
+    "https://openalex.org/W2129849452",
+    "https://openalex.org/W2136341398",
+    "https://openalex.org/W2137278429",
+    "https://openalex.org/W2148278083",
+    "https://openalex.org/W2152239989",
+    "https://openalex.org/W2153744932",
+    "https://openalex.org/W2158664500",
+    "https://openalex.org/W2158881007",
+    "https://openalex.org/W2266041843",
+    "https://openalex.org/W2340343617",
+    "https://openalex.org/W2412655055",
+    "https://openalex.org/W2473838984",
+    "https://openalex.org/W2562393208",
+    "https://openalex.org/W2566002255",
+    "https://openalex.org/W2568610139",
+    "https://openalex.org/W2578571972",
+    "https://openalex.org/W2604825272",
+    "https://openalex.org/W2605927217",
+    "https://openalex.org/W2790492473"
+  ],
+  "related_works": [
+    "https://openalex.org/W1995806503",
+    "https://openalex.org/W2145664689",
+    "https://openalex.org/W2340303790",
+    "https://openalex.org/W2088036936",
+    "https://openalex.org/W1933350980",
+    "https://openalex.org/W1992101467",
+    "https://openalex.org/W2081945314",
+    "https://openalex.org/W2102643239",
+    "https://openalex.org/W1503090204",
+    "https://openalex.org/W1983568891"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "investigate": [
+      2
+    ],
+    "nuclear": [
+      3
+    ],
+    "DNA": [
+      4,
+      25,
+      93
+    ],
+    "replication": [
+      5,
+      107,
+      121
+    ],
+    "enzymology": [
+      6
+    ],
+    "in": [
+      7,
+      102,
+      125
+    ],
+    "vivo,": [
+      8
+    ],
+    "we": [
+      9
+    ],
+    "have": [
+      10
+    ],
+    "studied": [
+      11
+    ],
+    "Saccharomyces": [
+      12
+    ],
+    "cerevisiae": [
+      13
+    ],
+    "strains": [
+      14,
+      68,
+      126
+    ],
+    "containing": [
+      15
+    ],
+    "a": [
+      16,
+      58
+    ],
+    "pol2-16": [
+      17,
+      31,
+      100
+    ],
+    "mutation": [
+      18
+    ],
+    "that": [
+      19,
+      62,
+      66,
+      69,
+      82,
+      124
+    ],
+    "inactivates": [
+      20
+    ],
+    "the": [
+      21,
+      80,
+      86,
+      99
+    ],
+    "catalytic": [
+      22
+    ],
+    "activities": [
+      23
+    ],
+    "of": [
+      24,
+      52,
+      67,
+      136
+    ],
+    "polymerase": [
+      26,
+      89
+    ],
+    "ε": [
+      27,
+      73,
+      84,
+      113
+    ],
+    "(Pol": [
+      28
+    ],
+    "ε).": [
+      29
+    ],
+    "Although": [
+      30
+    ],
+    "mutants": [
+      32
+    ],
+    "survive,": [
+      33
+    ],
+    "they": [
+      34
+    ],
+    "present": [
+      35
+    ],
+    "very": [
+      36
+    ],
+    "tiny": [
+      37
+    ],
+    "spore": [
+      38
+    ],
+    "colonies,": [
+      39
+    ],
+    "increased": [
+      40
+    ],
+    "doubling": [
+      41
+    ],
+    "time,": [
+      42
+    ],
+    "larger": [
+      43
+    ],
+    "than": [
+      44
+    ],
+    "normal": [
+      45
+    ],
+    "cells,": [
+      46
+    ],
+    "aberrant": [
+      47
+    ],
+    "nuclei,": [
+      48
+    ],
+    "and": [
+      49
+    ],
+    "rapid": [
+      50
+    ],
+    "acquisition": [
+      51
+    ],
+    "suppressor": [
+      53
+    ],
+    "mutations.": [
+      54
+    ],
+    "These": [
+      55
+    ],
+    "phenotypes": [
+      56
+    ],
+    "reveal": [
+      57
+    ],
+    "severe": [
+      59
+    ],
+    "growth": [
+      60
+    ],
+    "defect": [
+      61
+    ],
+    "is": [
+      63,
+      85,
+      114
+    ],
+    "distinct": [
+      64
+    ],
+    "from": [
+      65
+    ],
+    "lack": [
+      70
+    ],
+    "only": [
+      71
+    ],
+    "Pol": [
+      72,
+      83,
+      109,
+      112,
+      131
+    ],
+    "proofreading": [
+      74
+    ],
+    "(": [
+      75
+    ],
+    "pol2-4": [
+      76
+    ],
+    "),": [
+      77
+    ],
+    "consistent": [
+      78,
+      104
+    ],
+    "with": [
+      79,
+      105
+    ],
+    "idea": [
+      81
+    ],
+    "major": [
+      87
+    ],
+    "leading-strand": [
+      88,
+      106,
+      137
+    ],
+    "used": [
+      90
+    ],
+    "for": [
+      91
+    ],
+    "unstressed": [
+      92
+    ],
+    "replication.": [
+      94,
+      138
+    ],
+    "Ribonucleotides": [
+      95
+    ],
+    "are": [
+      96
+    ],
+    "incorporated": [
+      97
+    ],
+    "into": [
+      98
+    ],
+    "genome": [
+      101
+    ],
+    "patterns": [
+      103
+    ],
+    "by": [
+      108
+    ],
+    "δ": [
+      110,
+      132
+    ],
+    "when": [
+      111
+    ],
+    "absent.": [
+      115
+    ],
+    "More": [
+      116
+    ],
+    "importantly,": [
+      117
+    ],
+    "ribonucleotide": [
+      118
+    ],
+    "distributions": [
+      119
+    ],
+    "at": [
+      120
+    ],
+    "origins": [
+      122
+    ],
+    "suggest": [
+      123
+    ],
+    "encoding": [
+      127
+    ],
+    "all": [
+      128
+    ],
+    "three": [
+      129
+    ],
+    "replicases,": [
+      130
+    ],
+    "contributes": [
+      133
+    ],
+    "to": [
+      134
+    ],
+    "initiation": [
+      135
+    ],
+    "We": [
+      139
+    ],
+    "describe": [
+      140
+    ],
+    "two": [
+      141
+    ],
+    "possible": [
+      142
+    ],
+    "models.": [
+      143
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,764 @@
+{
+  "id": "https://openalex.org/W4392546236",
+  "doi": "https://doi.org/10.1016/j.jpba.2024.116095",
+  "title": "Solid state NMR study of the bioenhancer piperine, supported by GIPAW DFT calculations",
+  "display_name": "Solid state NMR study of the bioenhancer piperine, supported by GIPAW DFT calculations",
+  "publication_year": 2024,
+  "publication_date": "2024-03-07",
+  "ids": {
+    "openalex": "https://openalex.org/W4392546236",
+    "doi": "https://doi.org/10.1016/j.jpba.2024.116095",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38479304"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jpba.2024.116095",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jpba.2024.116095",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S174893293",
+      "display_name": "Journal of Pharmaceutical and Biomedical Analysis",
+      "issn_l": "0731-7085",
+      "issn": [
+        "0731-7085",
+        "1873-264X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Pharmaceutical and Biomedical Analysis",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001041981",
+        "display_name": "Paweł Siudem",
+        "orcid": "https://orcid.org/0000-0002-8674-3774"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Paweł Siudem",
+      "raw_affiliation_strings": [
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, Warsaw 02-097, Poland. Electronic address: pawel.siudem@wum.edu.pl",
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1,02-097 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, Warsaw 02-097, Poland. Electronic address: pawel.siudem@wum.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1,02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080388782",
+        "display_name": "Łukasz Szeleszczuk",
+        "orcid": "https://orcid.org/0000-0002-5302-3797"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Łukasz Szeleszczuk",
+      "raw_affiliation_strings": [
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, Warsaw 02-097, Poland",
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1,02-097 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, Warsaw 02-097, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1,02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5043791899",
+        "display_name": "Katarzyna Paradowska",
+        "orcid": "https://orcid.org/0000-0002-9613-856X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I268303160",
+          "display_name": "Medical University of Warsaw",
+          "ror": "https://ror.org/04p2y4s44",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Paradowska",
+      "raw_affiliation_strings": [
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, Warsaw 02-097, Poland",
+        "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1,02-097 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1, Warsaw 02-097, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Organic and Physical Chemistry, Faculty of Pharmacy, Medical University of Warsaw, Banacha 1,02-097 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I268303160"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5001041981"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I268303160"
+  ],
+  "apc_list": {
+    "value": 3500,
+    "currency": "USD",
+    "value_usd": 3500
+  },
+  "apc_paid": null,
+  "fwci": 1.2389,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.77131535,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "243",
+    "issue": null,
+    "first_page": "116095",
+    "last_page": "116095"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13037",
+    "display_name": "Piperaceae Chemical and Biological Studies",
+    "score": 0.9980999827384949,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3004",
+      "display_name": "Pharmacology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/30",
+      "display_name": "Pharmacology, Toxicology and Pharmaceutics"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13037",
+      "display_name": "Piperaceae Chemical and Biological Studies",
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3004",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/30",
+        "display_name": "Pharmacology, Toxicology and Pharmaceutics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11434",
+      "display_name": "Electrochemical Analysis and Applications",
+      "score": 0.9851999878883362,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1603",
+        "display_name": "Electrochemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10480",
+      "display_name": "Ionic liquids properties and applications",
+      "score": 0.9724000096321106,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1503",
+        "display_name": "Catalysis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/piperine",
+      "display_name": "Piperine",
+      "score": 0.9954168796539307
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.9220932722091675
+    },
+    {
+      "id": "https://openalex.org/keywords/curcumin",
+      "display_name": "Curcumin",
+      "score": 0.7189540863037109
+    },
+    {
+      "id": "https://openalex.org/keywords/bioavailability",
+      "display_name": "Bioavailability",
+      "score": 0.6406611204147339
+    },
+    {
+      "id": "https://openalex.org/keywords/proton-nmr",
+      "display_name": "Proton NMR",
+      "score": 0.49229326844215393
+    },
+    {
+      "id": "https://openalex.org/keywords/carbon-13-nmr",
+      "display_name": "Carbon-13 NMR",
+      "score": 0.49085932970046997
+    },
+    {
+      "id": "https://openalex.org/keywords/pepper",
+      "display_name": "Pepper",
+      "score": 0.43822941184043884
+    },
+    {
+      "id": "https://openalex.org/keywords/stereochemistry",
+      "display_name": "Stereochemistry",
+      "score": 0.35344934463500977
+    },
+    {
+      "id": "https://openalex.org/keywords/chromatography",
+      "display_name": "Chromatography",
+      "score": 0.3433910012245178
+    },
+    {
+      "id": "https://openalex.org/keywords/organic-chemistry",
+      "display_name": "Organic chemistry",
+      "score": 0.20329928398132324
+    },
+    {
+      "id": "https://openalex.org/keywords/food-science",
+      "display_name": "Food science",
+      "score": 0.19567930698394775
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.12708550691604614
+    },
+    {
+      "id": "https://openalex.org/keywords/pharmacology",
+      "display_name": "Pharmacology",
+      "score": 0.11804726719856262
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780133158",
+      "wikidata": "https://www.wikidata.org/wiki/Q414501",
+      "display_name": "Piperine",
+      "level": 2,
+      "score": 0.9954168796539307
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.9220932722091675
+    },
+    {
+      "id": "https://openalex.org/C2778250585",
+      "wikidata": "https://www.wikidata.org/wiki/Q312266",
+      "display_name": "Curcumin",
+      "level": 2,
+      "score": 0.7189540863037109
+    },
+    {
+      "id": "https://openalex.org/C181389837",
+      "wikidata": "https://www.wikidata.org/wiki/Q461809",
+      "display_name": "Bioavailability",
+      "level": 2,
+      "score": 0.6406611204147339
+    },
+    {
+      "id": "https://openalex.org/C103319777",
+      "wikidata": "https://www.wikidata.org/wiki/Q1979695",
+      "display_name": "Proton NMR",
+      "level": 2,
+      "score": 0.49229326844215393
+    },
+    {
+      "id": "https://openalex.org/C163111631",
+      "wikidata": "https://www.wikidata.org/wiki/Q1952454",
+      "display_name": "Carbon-13 NMR",
+      "level": 2,
+      "score": 0.49085932970046997
+    },
+    {
+      "id": "https://openalex.org/C2776242653",
+      "wikidata": "https://www.wikidata.org/wiki/Q22907699",
+      "display_name": "Pepper",
+      "level": 2,
+      "score": 0.43822941184043884
+    },
+    {
+      "id": "https://openalex.org/C71240020",
+      "wikidata": "https://www.wikidata.org/wiki/Q186011",
+      "display_name": "Stereochemistry",
+      "level": 1,
+      "score": 0.35344934463500977
+    },
+    {
+      "id": "https://openalex.org/C43617362",
+      "wikidata": "https://www.wikidata.org/wiki/Q170050",
+      "display_name": "Chromatography",
+      "level": 1,
+      "score": 0.3433910012245178
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.20329928398132324
+    },
+    {
+      "id": "https://openalex.org/C31903555",
+      "wikidata": "https://www.wikidata.org/wiki/Q1637030",
+      "display_name": "Food science",
+      "level": 1,
+      "score": 0.19567930698394775
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.12708550691604614
+    },
+    {
+      "id": "https://openalex.org/C98274493",
+      "wikidata": "https://www.wikidata.org/wiki/Q128406",
+      "display_name": "Pharmacology",
+      "level": 1,
+      "score": 0.11804726719856262
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000077318",
+      "descriptor_name": "Density Functional Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000077318",
+      "descriptor_name": "Density Functional Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000077318",
+      "descriptor_name": "Density Functional Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000097082",
+      "descriptor_name": "Bioenhancers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000097082",
+      "descriptor_name": "Bioenhancers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000097082",
+      "descriptor_name": "Bioenhancers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000470",
+      "descriptor_name": "Alkaloids",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000470",
+      "descriptor_name": "Alkaloids",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000470",
+      "descriptor_name": "Alkaloids",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003474",
+      "descriptor_name": "Curcumin",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003474",
+      "descriptor_name": "Curcumin",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003474",
+      "descriptor_name": "Curcumin",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010880",
+      "descriptor_name": "Piperidines",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010880",
+      "descriptor_name": "Piperidines",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010880",
+      "descriptor_name": "Piperidines",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D052117",
+      "descriptor_name": "Benzodioxoles",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D052117",
+      "descriptor_name": "Benzodioxoles",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D052117",
+      "descriptor_name": "Benzodioxoles",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053284",
+      "descriptor_name": "Polyunsaturated Alkamides",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053284",
+      "descriptor_name": "Polyunsaturated Alkamides",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053284",
+      "descriptor_name": "Polyunsaturated Alkamides",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jpba.2024.116095",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jpba.2024.116095",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S174893293",
+        "display_name": "Journal of Pharmaceutical and Biomedical Analysis",
+        "issn_l": "0731-7085",
+        "issn": [
+          "0731-7085",
+          "1873-264X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Pharmaceutical and Biomedical Analysis",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38479304",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38479304",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of pharmaceutical and biomedical analysis",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.4699999988079071,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325356",
+      "display_name": "Julius-Maximilians-Universität Würzburg",
+      "ror": "https://ror.org/00fbnyb24"
+    },
+    {
+      "id": "https://openalex.org/F4320328499",
+      "display_name": "Narodowa Agencja Wymiany Akademickiej",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 33,
+  "referenced_works": [
+    "https://openalex.org/W356810853",
+    "https://openalex.org/W1968545719",
+    "https://openalex.org/W1981368803",
+    "https://openalex.org/W1984555416",
+    "https://openalex.org/W1991070988",
+    "https://openalex.org/W1994813933",
+    "https://openalex.org/W2026195773",
+    "https://openalex.org/W2038286187",
+    "https://openalex.org/W2059885388",
+    "https://openalex.org/W2078086786",
+    "https://openalex.org/W2087694435",
+    "https://openalex.org/W2113382753",
+    "https://openalex.org/W2159752439",
+    "https://openalex.org/W2162371396",
+    "https://openalex.org/W2162947606",
+    "https://openalex.org/W2323743110",
+    "https://openalex.org/W2337338982",
+    "https://openalex.org/W2621289677",
+    "https://openalex.org/W2888214288",
+    "https://openalex.org/W2898478255",
+    "https://openalex.org/W2938377893",
+    "https://openalex.org/W2950504817",
+    "https://openalex.org/W3023294244",
+    "https://openalex.org/W3028965833",
+    "https://openalex.org/W3092122663",
+    "https://openalex.org/W3100156508",
+    "https://openalex.org/W3112181227",
+    "https://openalex.org/W4210379245",
+    "https://openalex.org/W4213216610",
+    "https://openalex.org/W4255056188",
+    "https://openalex.org/W4315567687",
+    "https://openalex.org/W4365515397",
+    "https://openalex.org/W6837032409"
+  ],
+  "related_works": [
+    "https://openalex.org/W2740587383",
+    "https://openalex.org/W2886673585",
+    "https://openalex.org/W975797298",
+    "https://openalex.org/W2048774581",
+    "https://openalex.org/W4206955418",
+    "https://openalex.org/W2389892717",
+    "https://openalex.org/W2039707656",
+    "https://openalex.org/W2739570534",
+    "https://openalex.org/W2012785334",
+    "https://openalex.org/W3127099639"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-10-10T00:00:00"
+}

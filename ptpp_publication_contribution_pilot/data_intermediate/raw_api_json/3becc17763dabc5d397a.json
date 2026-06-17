@@ -1,0 +1,875 @@
+{
+  "id": "https://openalex.org/W4413397503",
+  "doi": "https://doi.org/10.37236/12957",
+  "title": "Creating Spanning Trees in Waiter-Client Games",
+  "display_name": "Creating Spanning Trees in Waiter-Client Games",
+  "publication_year": 2025,
+  "publication_date": "2025-08-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4413397503",
+    "doi": "https://doi.org/10.37236/12957"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.37236/12957",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37236/12957",
+    "pdf_url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v32i3p35/pdf",
+    "source": {
+      "id": "https://openalex.org/S38448739",
+      "display_name": "The Electronic Journal of Combinatorics",
+      "issn_l": "1077-8926",
+      "issn": [
+        "1077-8926",
+        "1097-1440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317970",
+      "host_organization_name": "Electronic Journal of Combinatorics",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317970"
+      ],
+      "host_organization_lineage_names": [
+        "Electronic Journal of Combinatorics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "The Electronic Journal of Combinatorics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v32i3p35/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083585343",
+        "display_name": "Grzegorz Adamski",
+        "orcid": "https://orcid.org/0000-0003-0381-0351"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grzegorz Adamski",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024664393",
+        "display_name": "Sylwia Antoniuk",
+        "orcid": "https://orcid.org/0000-0001-7868-2791"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sylwia Antoniuk",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017542027",
+        "display_name": "Małgorzata Bednarska-Bzdȩga",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Małgorzata Bednarska-Bzdęga",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035121909",
+        "display_name": "Dennis Clemens",
+        "orcid": "https://orcid.org/0000-0001-5940-6556"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I159176309",
+          "display_name": "Universität Hamburg",
+          "ror": "https://ror.org/00g30e956",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159176309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I884043246",
+          "display_name": "Hamburg University of Technology",
+          "ror": "https://ror.org/04bs1pb34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I884043246"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dennis Clemens",
+      "raw_affiliation_strings": [
+        "Hamburg University of Technology"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hamburg University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I159176309",
+            "https://openalex.org/I884043246"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017784934",
+        "display_name": "Fabian Hamann",
+        "orcid": "https://orcid.org/0000-0001-7166-1437"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I159176309",
+          "display_name": "Universität Hamburg",
+          "ror": "https://ror.org/00g30e956",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159176309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I884043246",
+          "display_name": "Hamburg University of Technology",
+          "ror": "https://ror.org/04bs1pb34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I884043246"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fabian Hamann",
+      "raw_affiliation_strings": [
+        "Hamburg University of Technology"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hamburg University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I159176309",
+            "https://openalex.org/I884043246"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5087342333",
+        "display_name": "Yannick Mogge",
+        "orcid": "https://orcid.org/0000-0003-4239-9112"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I159176309",
+          "display_name": "Universität Hamburg",
+          "ror": "https://ror.org/00g30e956",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159176309"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I884043246",
+          "display_name": "Hamburg University of Technology",
+          "ror": "https://ror.org/04bs1pb34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I884043246"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yannick Mogge",
+      "raw_affiliation_strings": [
+        "Hamburg University of Technology"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hamburg University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I159176309",
+            "https://openalex.org/I884043246"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.21510395,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "32",
+    "issue": "3",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10742",
+    "display_name": "Peer-to-Peer Network Technologies",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10742",
+      "display_name": "Peer-to-Peer Network Technologies",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11644",
+      "display_name": "Spam and Phishing Detection",
+      "score": 0.9894000291824341,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "score": 0.9873999953269958,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/spanning-tree",
+      "display_name": "Spanning tree",
+      "score": 0.5535012483596802
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.42687633633613586
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.3359679877758026
+    },
+    {
+      "id": "https://openalex.org/keywords/advertising",
+      "display_name": "Advertising",
+      "score": 0.3249906301498413
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.3239905834197998
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.3148469924926758
+    },
+    {
+      "id": "https://openalex.org/keywords/combinatorics",
+      "display_name": "Combinatorics",
+      "score": 0.2706400156021118
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.23094233870506287
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C64331007",
+      "wikidata": "https://www.wikidata.org/wiki/Q831672",
+      "display_name": "Spanning tree",
+      "level": 2,
+      "score": 0.5535012483596802
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.42687633633613586
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.3359679877758026
+    },
+    {
+      "id": "https://openalex.org/C112698675",
+      "wikidata": "https://www.wikidata.org/wiki/Q37038",
+      "display_name": "Advertising",
+      "level": 1,
+      "score": 0.3249906301498413
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3239905834197998
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.3148469924926758
+    },
+    {
+      "id": "https://openalex.org/C114614502",
+      "wikidata": "https://www.wikidata.org/wiki/Q76592",
+      "display_name": "Combinatorics",
+      "level": 1,
+      "score": 0.2706400156021118
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.23094233870506287
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.37236/12957",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.37236/12957",
+      "pdf_url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v32i3p35/pdf",
+      "source": {
+        "id": "https://openalex.org/S38448739",
+        "display_name": "The Electronic Journal of Combinatorics",
+        "issn_l": "1077-8926",
+        "issn": [
+          "1077-8926",
+          "1097-1440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310317970",
+        "host_organization_name": "Electronic Journal of Combinatorics",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310317970"
+        ],
+        "host_organization_lineage_names": [
+          "Electronic Journal of Combinatorics"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Electronic Journal of Combinatorics",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.37236/12957",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37236/12957",
+    "pdf_url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v32i3p35/pdf",
+    "source": {
+      "id": "https://openalex.org/S38448739",
+      "display_name": "The Electronic Journal of Combinatorics",
+      "issn_l": "1077-8926",
+      "issn": [
+        "1077-8926",
+        "1097-1440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317970",
+      "host_organization_name": "Electronic Journal of Combinatorics",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317970"
+      ],
+      "host_organization_lineage_names": [
+        "Electronic Journal of Combinatorics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "The Electronic Journal of Combinatorics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4413397503.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4413397503.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2374925474",
+    "https://openalex.org/W2972623885",
+    "https://openalex.org/W2073397884",
+    "https://openalex.org/W2931662336",
+    "https://openalex.org/W4220667126",
+    "https://openalex.org/W2077865380",
+    "https://openalex.org/W3006817050",
+    "https://openalex.org/W4401768695"
+  ],
+  "abstract_inverted_index": {
+    "For": [
+      0
+    ],
+    "a": [
+      1,
+      6,
+      35,
+      57,
+      71,
+      76,
+      88
+    ],
+    "positive": [
+      2,
+      72
+    ],
+    "integer": [
+      3
+    ],
+    "$n$": [
+      4,
+      10,
+      50,
+      97
+    ],
+    "and": [
+      5,
+      49,
+      75
+    ],
+    "tree": [
+      7
+    ],
+    "$T_n$": [
+      8
+    ],
+    "on": [
+      9,
+      20
+    ],
+    "vertices,": [
+      11
+    ],
+    "we": [
+      12,
+      66
+    ],
+    "consider": [
+      13,
+      102
+    ],
+    "an": [
+      14
+    ],
+    "unbiased": [
+      15
+    ],
+    "Waiter-Client": [
+      16
+    ],
+    "game": [
+      17,
+      94
+    ],
+    "$\\textrm{WC}(n,T_n)$": [
+      18,
+      93
+    ],
+    "played": [
+      19
+    ],
+    "the": [
+      21,
+      63,
+      92,
+      103,
+      107,
+      111
+    ],
+    "complete": [
+      22
+    ],
+    "graph": [
+      23
+    ],
+    "$K_n$,": [
+      24
+    ],
+    "in": [
+      25,
+      60,
+      91,
+      106
+    ],
+    "which": [
+      26
+    ],
+    "Waiter's": [
+      27
+    ],
+    "goal": [
+      28
+    ],
+    "is": [
+      29,
+      51
+    ],
+    "to": [
+      30,
+      33
+    ],
+    "force": [
+      31
+    ],
+    "Client": [
+      32,
+      86
+    ],
+    "build": [
+      34
+    ],
+    "copy": [
+      36
+    ],
+    "of": [
+      37,
+      78,
+      110
+    ],
+    "$T_n$.": [
+      38
+    ],
+    "We": [
+      39,
+      100
+    ],
+    "prove": [
+      40
+    ],
+    "that": [
+      41,
+      68,
+      85
+    ],
+    "for": [
+      42,
+      95
+    ],
+    "every": [
+      43,
+      96
+    ],
+    "constant": [
+      44,
+      73
+    ],
+    "$c&lt;1/3$,": [
+      45
+    ],
+    "if": [
+      46
+    ],
+    "$\\Delta(T_n)\\le": [
+      47,
+      82
+    ],
+    "cn$": [
+      48
+    ],
+    "sufficiently": [
+      52,
+      98
+    ],
+    "large,": [
+      53
+    ],
+    "then": [
+      54
+    ],
+    "Waiter": [
+      55
+    ],
+    "has": [
+      56,
+      87
+    ],
+    "winning": [
+      58,
+      89
+    ],
+    "strategy": [
+      59,
+      90
+    ],
+    "$\\textrm{WC}(n,T_n)$.": [
+      61
+    ],
+    "On": [
+      62
+    ],
+    "other": [
+      64
+    ],
+    "hand,": [
+      65
+    ],
+    "show": [
+      67
+    ],
+    "there": [
+      69
+    ],
+    "exist": [
+      70
+    ],
+    "$c'&lt;1/2$": [
+      74
+    ],
+    "family": [
+      77
+    ],
+    "trees": [
+      79
+    ],
+    "$T_{n}$": [
+      80
+    ],
+    "with": [
+      81
+    ],
+    "c'n$": [
+      83
+    ],
+    "such": [
+      84
+    ],
+    "large.": [
+      99
+    ],
+    "also": [
+      101
+    ],
+    "corresponding": [
+      104
+    ],
+    "problem": [
+      105
+    ],
+    "Client-Waiter": [
+      108
+    ],
+    "version": [
+      109
+    ],
+    "game.": [
+      112
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

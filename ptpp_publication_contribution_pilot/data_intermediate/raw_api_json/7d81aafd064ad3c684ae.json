@@ -1,0 +1,842 @@
+{
+  "id": "https://openalex.org/W4399740817",
+  "doi": "https://doi.org/10.3390/electronics13122329",
+  "title": "Open Source Software-Defined Networking Controllers—Operational and Security Issues",
+  "display_name": "Open Source Software-Defined Networking Controllers—Operational and Security Issues",
+  "publication_year": 2024,
+  "publication_date": "2024-06-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4399740817",
+    "doi": "https://doi.org/10.3390/electronics13122329"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/electronics13122329",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/electronics13122329",
+    "pdf_url": "https://www.mdpi.com/2079-9292/13/12/2329/pdf?version=1718434856",
+    "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "issn_l": "2079-9292",
+      "issn": [
+        "2079-9292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Electronics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2079-9292/13/12/2329/pdf?version=1718434856",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5096742161",
+        "display_name": "Aleksandra Mardaus",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Mardaus",
+      "raw_affiliation_strings": [
+        "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Edyta Biernacka",
+      "raw_affiliation_strings": [
+        "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018395274",
+        "display_name": "Robert Wójcik",
+        "orcid": "https://orcid.org/0000-0002-9562-606X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Wójcik",
+      "raw_affiliation_strings": [
+        "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jerzy Domżał",
+      "raw_affiliation_strings": [
+        "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8379-2810",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Krakow, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5052160429"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I686019"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.08310938,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "13",
+    "issue": "12",
+    "first_page": "2329",
+    "last_page": "2329"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10714",
+    "display_name": "Software-Defined Networks and 5G",
+    "score": 0.9789000153541565,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10714",
+      "display_name": "Software-Defined Networks and 5G",
+      "score": 0.9789000153541565,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "score": 0.9157999753952026,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/software-defined-networking",
+      "display_name": "Software-defined networking",
+      "score": 0.5873175263404846
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5741032958030701
+    },
+    {
+      "id": "https://openalex.org/keywords/software-security-assurance",
+      "display_name": "Software security assurance",
+      "score": 0.522956907749176
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.4998047351837158
+    },
+    {
+      "id": "https://openalex.org/keywords/open-source-software",
+      "display_name": "Open source software",
+      "score": 0.4858388602733612
+    },
+    {
+      "id": "https://openalex.org/keywords/open-source",
+      "display_name": "Open source",
+      "score": 0.4294188618659973
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-security",
+      "display_name": "Computer security",
+      "score": 0.38599449396133423
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-network",
+      "display_name": "Computer network",
+      "score": 0.3111255168914795
+    },
+    {
+      "id": "https://openalex.org/keywords/information-security",
+      "display_name": "Information security",
+      "score": 0.20714092254638672
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.18594977259635925
+    },
+    {
+      "id": "https://openalex.org/keywords/security-service",
+      "display_name": "Security service",
+      "score": 0.17428410053253174
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C77270119",
+      "wikidata": "https://www.wikidata.org/wiki/Q1655198",
+      "display_name": "Software-defined networking",
+      "level": 2,
+      "score": 0.5873175263404846
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5741032958030701
+    },
+    {
+      "id": "https://openalex.org/C62913178",
+      "wikidata": "https://www.wikidata.org/wiki/Q7554361",
+      "display_name": "Software security assurance",
+      "level": 4,
+      "score": 0.522956907749176
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.4998047351837158
+    },
+    {
+      "id": "https://openalex.org/C2988343187",
+      "wikidata": "https://www.wikidata.org/wiki/Q1130645",
+      "display_name": "Open source software",
+      "level": 3,
+      "score": 0.4858388602733612
+    },
+    {
+      "id": "https://openalex.org/C3018397939",
+      "wikidata": "https://www.wikidata.org/wiki/Q3644502",
+      "display_name": "Open source",
+      "level": 3,
+      "score": 0.4294188618659973
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.38599449396133423
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.3111255168914795
+    },
+    {
+      "id": "https://openalex.org/C527648132",
+      "wikidata": "https://www.wikidata.org/wiki/Q189900",
+      "display_name": "Information security",
+      "level": 2,
+      "score": 0.20714092254638672
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.18594977259635925
+    },
+    {
+      "id": "https://openalex.org/C29983905",
+      "wikidata": "https://www.wikidata.org/wiki/Q7445066",
+      "display_name": "Security service",
+      "level": 3,
+      "score": 0.17428410053253174
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.3390/electronics13122329",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/electronics13122329",
+      "pdf_url": "https://www.mdpi.com/2079-9292/13/12/2329/pdf?version=1718434856",
+      "source": {
+        "id": "https://openalex.org/S4210202905",
+        "display_name": "Electronics",
+        "issn_l": "2079-9292",
+        "issn": [
+          "2079-9292"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Electronics",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/electronics13122329",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/electronics13122329",
+    "pdf_url": "https://www.mdpi.com/2079-9292/13/12/2329/pdf?version=1718434856",
+    "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "issn_l": "2079-9292",
+      "issn": [
+        "2079-9292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Electronics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4399740817.pdf"
+  },
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W1966312720",
+    "https://openalex.org/W2218519206",
+    "https://openalex.org/W2434182820",
+    "https://openalex.org/W2501822230",
+    "https://openalex.org/W2804817434",
+    "https://openalex.org/W2808476116",
+    "https://openalex.org/W2956411360",
+    "https://openalex.org/W2975560517",
+    "https://openalex.org/W3113003998",
+    "https://openalex.org/W3131206493",
+    "https://openalex.org/W3181461787",
+    "https://openalex.org/W3193204544",
+    "https://openalex.org/W4287574065",
+    "https://openalex.org/W4293526638",
+    "https://openalex.org/W4361022247",
+    "https://openalex.org/W4383749436",
+    "https://openalex.org/W4387587584",
+    "https://openalex.org/W6800691545",
+    "https://openalex.org/W6803295721",
+    "https://openalex.org/W6851047088"
+  ],
+  "related_works": [
+    "https://openalex.org/W4376877853",
+    "https://openalex.org/W1493891899",
+    "https://openalex.org/W4250928611",
+    "https://openalex.org/W166480398",
+    "https://openalex.org/W1612808768",
+    "https://openalex.org/W167327709",
+    "https://openalex.org/W1977393088",
+    "https://openalex.org/W4387839566",
+    "https://openalex.org/W4210922265",
+    "https://openalex.org/W2491403535"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      11,
+      60
+    ],
+    "Software-Defined": [
+      1
+    ],
+    "Networking": [
+      2
+    ],
+    "concept": [
+      3
+    ],
+    "plays": [
+      4
+    ],
+    "an": [
+      5,
+      95
+    ],
+    "important": [
+      6
+    ],
+    "role": [
+      7
+    ],
+    "in": [
+      8,
+      30
+    ],
+    "network": [
+      9,
+      79
+    ],
+    "management.": [
+      10
+    ],
+    "central": [
+      12
+    ],
+    "controller,": [
+      13
+    ],
+    "which": [
+      14
+    ],
+    "is": [
+      15
+    ],
+    "the": [
+      16,
+      22,
+      57,
+      73,
+      77,
+      98
+    ],
+    "main": [
+      17
+    ],
+    "element": [
+      18
+    ],
+    "of": [
+      19,
+      24,
+      47,
+      62,
+      97
+    ],
+    "SDN,": [
+      20
+    ],
+    "allows": [
+      21
+    ],
+    "provision": [
+      23
+    ],
+    "traffic": [
+      25
+    ],
+    "engineering": [
+      26
+    ],
+    "and": [
+      27,
+      32,
+      51,
+      66,
+      104,
+      110
+    ],
+    "security": [
+      28,
+      83
+    ],
+    "solutions": [
+      29
+    ],
+    "single-": [
+      31
+    ],
+    "multiple-layer": [
+      33
+    ],
+    "networks": [
+      34
+    ],
+    "based": [
+      35
+    ],
+    "on": [
+      36
+    ],
+    "optical": [
+      37
+    ],
+    "transmission.": [
+      38
+    ],
+    "In": [
+      39
+    ],
+    "this": [
+      40
+    ],
+    "work,": [
+      41
+    ],
+    "we": [
+      42
+    ],
+    "compare": [
+      43
+    ],
+    "selected": [
+      44,
+      99
+    ],
+    "open-source": [
+      45
+    ],
+    "implementations": [
+      46
+    ],
+    "SDN": [
+      48
+    ],
+    "controllers.": [
+      49
+    ],
+    "Throughput": [
+      50
+    ],
+    "latency": [
+      52
+    ],
+    "measurements": [
+      53
+    ],
+    "were": [
+      54,
+      70
+    ],
+    "analyzed": [
+      55
+    ],
+    "using": [
+      56,
+      72
+    ],
+    "CBench": [
+      58
+    ],
+    "program.": [
+      59
+    ],
+    "simulation": [
+      61
+    ],
+    "a": [
+      63,
+      67,
+      85
+    ],
+    "link": [
+      64
+    ],
+    "failure": [
+      65,
+      69
+    ],
+    "controller": [
+      68
+    ],
+    "conducted": [
+      71
+    ],
+    "API": [
+      74
+    ],
+    "provided": [
+      75
+    ],
+    "by": [
+      76
+    ],
+    "Mininet": [
+      78
+    ],
+    "simulator.": [
+      80
+    ],
+    "To": [
+      81
+    ],
+    "detect": [
+      82
+    ],
+    "vulnerabilities,": [
+      84
+    ],
+    "dedicated": [
+      86
+    ],
+    "program,": [
+      87
+    ],
+    "called": [
+      88
+    ],
+    "sdnpwn,": [
+      89
+    ],
+    "was": [
+      90
+    ],
+    "used.": [
+      91
+    ],
+    "This": [
+      92
+    ],
+    "work": [
+      93
+    ],
+    "provides": [
+      94
+    ],
+    "overview": [
+      96
+    ],
+    "controllers,": [
+      100
+    ],
+    "indicating": [
+      101
+    ],
+    "their": [
+      102
+    ],
+    "strengths": [
+      103
+    ],
+    "weaknesses.": [
+      105
+    ],
+    "Moreover,": [
+      106
+    ],
+    "some": [
+      107
+    ],
+    "implemention": [
+      108
+    ],
+    "suggestions": [
+      109
+    ],
+    "recommendations": [
+      111
+    ],
+    "are": [
+      112
+    ],
+    "presented.": [
+      113
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2024-06-18T00:00:00"
+}

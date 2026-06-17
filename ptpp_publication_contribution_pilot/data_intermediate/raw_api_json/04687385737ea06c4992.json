@@ -1,0 +1,890 @@
+{
+  "id": "https://openalex.org/W4323030514",
+  "doi": "https://doi.org/10.5281/zenodo.7696520",
+  "title": "Optimization of federated learning topology in Internet of Things ecosystems",
+  "display_name": "Optimization of federated learning topology in Internet of Things ecosystems",
+  "publication_year": 2022,
+  "publication_date": "2022-07-04",
+  "ids": {
+    "openalex": "https://openalex.org/W4323030514",
+    "doi": "https://doi.org/10.5281/zenodo.7696520"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:zenodo.org:7696520",
+    "is_oa": true,
+    "landing_page_url": "https://zenodo.org/record/7696520",
+    "pdf_url": "https://zenodo.org/record/7696520",
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://zenodo.org/record/7696520",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5073455513",
+        "display_name": "Karolina Bogacka",
+        "orcid": "https://orcid.org/0000-0002-7109-891X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bogacka, Karolina",
+      "raw_affiliation_strings": [
+        "Warsaw University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7109-891X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Warsaw University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5073455513"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I108403487"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.19325318,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14067",
+    "display_name": "Cloud Computing and Remote Desktop Technologies",
+    "score": 0.8790000081062317,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1708",
+      "display_name": "Hardware and Architecture"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14067",
+      "display_name": "Cloud Computing and Remote Desktop Technologies",
+      "score": 0.8790000081062317,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/internet-of-things",
+      "display_name": "Internet of Things",
+      "score": 0.6774612665176392
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5672929286956787
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem",
+      "display_name": "Ecosystem",
+      "score": 0.5569140911102295
+    },
+    {
+      "id": "https://openalex.org/keywords/the-internet",
+      "display_name": "The Internet",
+      "score": 0.5126770734786987
+    },
+    {
+      "id": "https://openalex.org/keywords/topology-optimization",
+      "display_name": "Topology optimization",
+      "score": 0.4704405665397644
+    },
+    {
+      "id": "https://openalex.org/keywords/topology",
+      "display_name": "Topology (electrical circuits)",
+      "score": 0.42477571964263916
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.3644276261329651
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.34648558497428894
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.22087767720222473
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.19827315211296082
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.1426892876625061
+    },
+    {
+      "id": "https://openalex.org/keywords/electrical-engineering",
+      "display_name": "Electrical engineering",
+      "score": 0.08257481455802917
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C81860439",
+      "wikidata": "https://www.wikidata.org/wiki/Q251212",
+      "display_name": "Internet of Things",
+      "level": 2,
+      "score": 0.6774612665176392
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5672929286956787
+    },
+    {
+      "id": "https://openalex.org/C110872660",
+      "wikidata": "https://www.wikidata.org/wiki/Q37813",
+      "display_name": "Ecosystem",
+      "level": 2,
+      "score": 0.5569140911102295
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.5126770734786987
+    },
+    {
+      "id": "https://openalex.org/C189216461",
+      "wikidata": "https://www.wikidata.org/wiki/Q2443456",
+      "display_name": "Topology optimization",
+      "level": 3,
+      "score": 0.4704405665397644
+    },
+    {
+      "id": "https://openalex.org/C184720557",
+      "wikidata": "https://www.wikidata.org/wiki/Q7825049",
+      "display_name": "Topology (electrical circuits)",
+      "level": 2,
+      "score": 0.42477571964263916
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.3644276261329651
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.34648558497428894
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.22087767720222473
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.19827315211296082
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.1426892876625061
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.08257481455802917
+    },
+    {
+      "id": "https://openalex.org/C135628077",
+      "wikidata": "https://www.wikidata.org/wiki/Q220184",
+      "display_name": "Finite element method",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C66938386",
+      "wikidata": "https://www.wikidata.org/wiki/Q633538",
+      "display_name": "Structural engineering",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:zenodo.org:7696520",
+      "is_oa": true,
+      "landing_page_url": "https://zenodo.org/record/7696520",
+      "pdf_url": "https://zenodo.org/record/7696520",
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "doi:10.5281/zenodo.7696520",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.7696520",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:zenodo.org:7696520",
+    "is_oa": true,
+    "landing_page_url": "https://zenodo.org/record/7696520",
+    "pdf_url": "https://zenodo.org/record/7696520",
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "score": 0.5299999713897705,
+      "display_name": "Life in Land"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4323030514.pdf"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2046491619",
+    "https://openalex.org/W4311097251",
+    "https://openalex.org/W2883804989",
+    "https://openalex.org/W2389142552",
+    "https://openalex.org/W2239929624",
+    "https://openalex.org/W2081304691",
+    "https://openalex.org/W3018492858",
+    "https://openalex.org/W2127556255",
+    "https://openalex.org/W279903623",
+    "https://openalex.org/W2990978426"
+  ],
+  "abstract_inverted_index": {
+    "Concerns": [
+      0
+    ],
+    "about": [
+      1
+    ],
+    "preserving": [
+      2
+    ],
+    "the": [
+      3,
+      16,
+      30,
+      42,
+      51,
+      87,
+      99,
+      102,
+      112,
+      151,
+      173
+    ],
+    "privacy": [
+      4
+    ],
+    "of": [
+      5,
+      19,
+      32,
+      46,
+      53,
+      66,
+      92,
+      107,
+      115,
+      132,
+      135,
+      153,
+      159,
+      169,
+      175,
+      191
+    ],
+    "data": [
+      6,
+      48
+    ],
+    "used": [
+      7,
+      186
+    ],
+    "in": [
+      8,
+      25
+    ],
+    "Machine": [
+      9
+    ],
+    "Learning": [
+      10
+    ],
+    "have": [
+      11,
+      57,
+      138
+    ],
+    "been": [
+      12
+    ],
+    "rising": [
+      13
+    ],
+    "steadily": [
+      14
+    ],
+    "for": [
+      15,
+      35,
+      119,
+      187
+    ],
+    "last": [
+      17
+    ],
+    "couple": [
+      18
+    ],
+    "years.": [
+      20
+    ],
+    "Similarly,": [
+      21
+    ],
+    "a": [
+      22,
+      37,
+      82,
+      90,
+      95,
+      126,
+      167
+    ],
+    "big": [
+      23
+    ],
+    "focus": [
+      24,
+      146
+    ],
+    "current": [
+      26,
+      47
+    ],
+    "research": [
+      27
+    ],
+    "is": [
+      28,
+      77
+    ],
+    "decreasing": [
+      29
+    ],
+    "amount": [
+      31
+    ],
+    "energy": [
+      33
+    ],
+    "needed": [
+      34
+    ],
+    "training": [
+      36,
+      86
+    ],
+    "state-of-the-art": [
+      38
+    ],
+    "model": [
+      39,
+      88
+    ],
+    "due": [
+      40
+    ],
+    "to": [
+      41,
+      63,
+      104,
+      121,
+      139
+    ],
+    "significant": [
+      43
+    ],
+    "carbon": [
+      44
+    ],
+    "footprint": [
+      45
+    ],
+    "centers.": [
+      49
+    ],
+    "Meanwhile,": [
+      50
+    ],
+    "number": [
+      52
+    ],
+    "smart": [
+      54
+    ],
+    "appliances": [
+      55
+    ],
+    "that": [
+      56,
+      84
+    ],
+    "substantial": [
+      58
+    ],
+    "computational": [
+      59
+    ],
+    "capabilities": [
+      60,
+      114
+    ],
+    "and": [
+      61,
+      69,
+      129,
+      149,
+      179,
+      189
+    ],
+    "connections": [
+      62
+    ],
+    "robust": [
+      64
+    ],
+    "Internet": [
+      65,
+      131
+    ],
+    "Things": [
+      67,
+      133
+    ],
+    "infrastructures,": [
+      68
+    ],
+    "yet": [
+      70
+    ],
+    "are": [
+      71
+    ],
+    "not": [
+      72
+    ],
+    "meaningfully": [
+      73
+    ],
+    "engaging": [
+      74
+    ],
+    "these": [
+      75,
+      108
+    ],
+    "resources": [
+      76
+    ],
+    "only": [
+      78
+    ],
+    "growing.": [
+      79
+    ],
+    "Federated": [
+      80
+    ],
+    "learning,": [
+      81
+    ],
+    "paradigm": [
+      83
+    ],
+    "proposes": [
+      85
+    ],
+    "on": [
+      89,
+      147
+    ],
+    "federation": [
+      91
+    ],
+    "clients": [
+      93,
+      178
+    ],
+    "with": [
+      94
+    ],
+    "central": [
+      96
+    ],
+    "server": [
+      97,
+      180
+    ],
+    "aggregating": [
+      98
+    ],
+    "updates,": [
+      100
+    ],
+    "has": [
+      101
+    ],
+    "chance": [
+      103
+    ],
+    "mitigate": [
+      105
+    ],
+    "both": [
+      106
+    ],
+    "concerns": [
+      109
+    ],
+    "by": [
+      110
+    ],
+    "leveraging": [
+      111
+    ],
+    "full": [
+      113
+    ],
+    "IoT": [
+      116
+    ],
+    "devices.<br>": [
+      117
+    ],
+    "However,": [
+      118
+    ],
+    "it": [
+      120
+    ],
+    "happen,": [
+      122
+    ],
+    "stable": [
+      123
+    ],
+    "solutions": [
+      124
+    ],
+    "providing": [
+      125,
+      172
+    ],
+    "reliable,": [
+      127
+    ],
+    "efficient": [
+      128
+    ],
+    "convergent": [
+      130
+    ],
+    "implementation": [
+      134
+    ],
+    "federated": [
+      136,
+      176
+    ],
+    "learning": [
+      137,
+      177
+    ],
+    "be": [
+      140
+    ],
+    "developed.": [
+      141
+    ],
+    "<br>": [
+      142,
+      163
+    ],
+    "This": [
+      143
+    ],
+    "study": [
+      144
+    ],
+    "will": [
+      145
+    ],
+    "testing": [
+      148,
+      188
+    ],
+    "evaluating": [
+      150
+    ],
+    "performance": [
+      152
+    ],
+    "various": [
+      154,
+      192
+    ],
+    "topologies": [
+      155
+    ],
+    "against": [
+      156
+    ],
+    "specific": [
+      157
+    ],
+    "limitations": [
+      158
+    ],
+    "edge": [
+      160
+    ],
+    "computing": [
+      161
+    ],
+    "environments.": [
+      162
+    ],
+    "To": [
+      164
+    ],
+    "do": [
+      165
+    ],
+    "so,": [
+      166
+    ],
+    "set": [
+      168
+    ],
+    "system": [
+      170
+    ],
+    "components": [
+      171
+    ],
+    "functionalities": [
+      174
+    ],
+    "was": [
+      181,
+      184
+    ],
+    "implemented.": [
+      182
+    ],
+    "It": [
+      183
+    ],
+    "then": [
+      185
+    ],
+    "analysis": [
+      190
+    ],
+    "topologies.": [
+      193
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-03-27T05:58:40.876381",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,556 @@
+{
+  "id": "https://openalex.org/W4416307588",
+  "doi": "https://doi.org/10.2139/ssrn.5764149",
+  "title": "Can artificial intelligence assist experts in evaluating new analytical methodologies? Stop-flow MicroScale Thermophoresis assessed using the RGB model and AI-Delphi framework",
+  "display_name": "Can artificial intelligence assist experts in evaluating new analytical methodologies? Stop-flow MicroScale Thermophoresis assessed using the RGB model and AI-Delphi framework",
+  "publication_year": 2025,
+  "publication_date": "2025-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4416307588",
+    "doi": "https://doi.org/10.2139/ssrn.5764149"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.2139/ssrn.5764149",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2139/ssrn.5764149",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.2139/ssrn.5764149",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016329755",
+        "display_name": "Paweł Mateusz Nowak",
+        "orcid": "https://orcid.org/0000-0002-9006-5742"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Paweł Mateusz Nowak",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Krakow"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Krakow",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053645945",
+        "display_name": "Michał Woźniakiewicz",
+        "orcid": "https://orcid.org/0000-0002-1348-2884"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michał Woźniakiewicz",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Krakow"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Krakow",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012579851",
+        "display_name": "Aneta Woźniakiewicz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Aneta Woźniakiewicz",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021287965",
+        "display_name": "Małgorzata Brindell",
+        "orcid": "https://orcid.org/0000-0002-9827-4661"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Małgorzata Brindell",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103025928",
+        "display_name": "Anna Poznańska",
+        "orcid": "https://orcid.org/0000-0001-9707-6092"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Poznańska",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033794082",
+        "display_name": "Jacek Plewka",
+        "orcid": "https://orcid.org/0000-0002-0307-0907"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Plewka",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022875578",
+        "display_name": "Alicja Bis",
+        "orcid": "https://orcid.org/0009-0002-1151-8158"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Alicja Bis",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5007807706",
+        "display_name": "Jakub Nowak",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5016329755"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12850",
+    "display_name": "Field-Flow Fractionation Techniques",
+    "score": 0.8388000130653381,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12850",
+      "display_name": "Field-Flow Fractionation Techniques",
+      "score": 0.8388000130653381,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10402",
+      "display_name": "Phase Equilibria and Thermodynamics",
+      "score": 0.02199999988079071,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11407",
+      "display_name": "Innovative Microfluidic and Catalytic Techniques Innovation",
+      "score": 0.011500000022351742,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/microscale-thermophoresis",
+      "display_name": "Microscale thermophoresis",
+      "score": 0.8198000192642212
+    },
+    {
+      "id": "https://openalex.org/keywords/microscale-chemistry",
+      "display_name": "Microscale chemistry",
+      "score": 0.77920001745224
+    },
+    {
+      "id": "https://openalex.org/keywords/thermophoresis",
+      "display_name": "Thermophoresis",
+      "score": 0.6891000270843506
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.5579000115394592
+    },
+    {
+      "id": "https://openalex.org/keywords/strengths-and-weaknesses",
+      "display_name": "Strengths and weaknesses",
+      "score": 0.48559999465942383
+    },
+    {
+      "id": "https://openalex.org/keywords/generative-grammar",
+      "display_name": "Generative grammar",
+      "score": 0.39750000834465027
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C25824698",
+      "wikidata": "https://www.wikidata.org/wiki/Q6840012",
+      "display_name": "Microscale thermophoresis",
+      "level": 2,
+      "score": 0.8198000192642212
+    },
+    {
+      "id": "https://openalex.org/C179428855",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069216",
+      "display_name": "Microscale chemistry",
+      "level": 2,
+      "score": 0.77920001745224
+    },
+    {
+      "id": "https://openalex.org/C15401063",
+      "wikidata": "https://www.wikidata.org/wiki/Q610090",
+      "display_name": "Thermophoresis",
+      "level": 4,
+      "score": 0.6891000270843506
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5794000029563904
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5710999965667725
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.5579000115394592
+    },
+    {
+      "id": "https://openalex.org/C63882131",
+      "wikidata": "https://www.wikidata.org/wiki/Q17122954",
+      "display_name": "Strengths and weaknesses",
+      "level": 2,
+      "score": 0.48559999465942383
+    },
+    {
+      "id": "https://openalex.org/C39890363",
+      "wikidata": "https://www.wikidata.org/wiki/Q36108",
+      "display_name": "Generative grammar",
+      "level": 2,
+      "score": 0.39750000834465027
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.3880000114440918
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.36800000071525574
+    },
+    {
+      "id": "https://openalex.org/C168167062",
+      "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+      "display_name": "Component (thermodynamics)",
+      "level": 2,
+      "score": 0.33730000257492065
+    },
+    {
+      "id": "https://openalex.org/C201995342",
+      "wikidata": "https://www.wikidata.org/wiki/Q682496",
+      "display_name": "Systems engineering",
+      "level": 1,
+      "score": 0.32280001044273376
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.30559998750686646
+    },
+    {
+      "id": "https://openalex.org/C200288055",
+      "wikidata": "https://www.wikidata.org/wiki/Q2621792",
+      "display_name": "Element (criminal law)",
+      "level": 2,
+      "score": 0.26910001039505005
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.25270000100135803
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.2139/ssrn.5764149",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.5764149",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.2139/ssrn.5764149",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2139/ssrn.5764149",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W1777152392",
+    "https://openalex.org/W1963879048",
+    "https://openalex.org/W2147072925",
+    "https://openalex.org/W2765142704",
+    "https://openalex.org/W2789661339",
+    "https://openalex.org/W2890420723",
+    "https://openalex.org/W2958306975",
+    "https://openalex.org/W3093932599",
+    "https://openalex.org/W3132104108",
+    "https://openalex.org/W3140502729",
+    "https://openalex.org/W3195023535",
+    "https://openalex.org/W3213861470",
+    "https://openalex.org/W4200028773",
+    "https://openalex.org/W4292451792",
+    "https://openalex.org/W4391035390",
+    "https://openalex.org/W4396673891",
+    "https://openalex.org/W4399551311",
+    "https://openalex.org/W4400088986",
+    "https://openalex.org/W4405043744",
+    "https://openalex.org/W4410618496"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-05-05T08:41:31.759640",
+  "created_date": "2025-11-18T00:00:00"
+}

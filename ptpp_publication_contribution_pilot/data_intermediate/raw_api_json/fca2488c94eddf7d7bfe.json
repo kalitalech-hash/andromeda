@@ -1,0 +1,1180 @@
+{
+  "id": "https://openalex.org/W4292324284",
+  "doi": "https://doi.org/10.1115/1.4055265",
+  "title": "Numerical Modeling and Design Challenges of Boundary Layer Ingesting Fans",
+  "display_name": "Numerical Modeling and Design Challenges of Boundary Layer Ingesting Fans",
+  "publication_year": 2022,
+  "publication_date": "2022-08-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4292324284",
+    "doi": "https://doi.org/10.1115/1.4055265"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1115/1.4055265",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1115/1.4055265",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210171160",
+      "display_name": "Journal of Turbomachinery",
+      "issn_l": "0889-504X",
+      "issn": [
+        "0889-504X",
+        "1528-8900"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316053",
+      "host_organization_name": "ASM International",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316053"
+      ],
+      "host_organization_lineage_names": [
+        "ASM International"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Turbomachinery",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5025458442",
+        "display_name": "Adam Sieradzki",
+        "orcid": "https://orcid.org/0000-0002-3448-6198"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801863437",
+          "display_name": "Łukasiewicz Research Network - Institute of Aviation",
+          "ror": "https://ror.org/003g5mn55",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801863437"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210129336",
+          "display_name": "Łukasiewicz Research Network",
+          "ror": "https://ror.org/036f4sz05",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210129336"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Adam Sieradzki",
+      "raw_affiliation_strings": [
+        "Łukasiewicz Research Network, Institute of Aviation , Aleja Krakowska 110/114, Warsaw 02-256 , Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Łukasiewicz Research Network, Institute of Aviation , Aleja Krakowska 110/114, Warsaw 02-256 , Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210129336",
+            "https://openalex.org/I2801863437"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071433068",
+        "display_name": "Tomasz Kwiatkowski",
+        "orcid": "https://orcid.org/0000-0002-5483-265X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801863437",
+          "display_name": "Łukasiewicz Research Network - Institute of Aviation",
+          "ror": "https://ror.org/003g5mn55",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801863437"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210129336",
+          "display_name": "Łukasiewicz Research Network",
+          "ror": "https://ror.org/036f4sz05",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210129336"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasz Kwiatkowski",
+      "raw_affiliation_strings": [
+        "Łukasiewicz Research Network, Institute of Aviation , Aleja Krakowska 110/114, Warsaw 02-256 , Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Łukasiewicz Research Network, Institute of Aviation , Aleja Krakowska 110/114, Warsaw 02-256 , Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210129336",
+            "https://openalex.org/I2801863437"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024178569",
+        "display_name": "Mark G. Turner",
+        "orcid": "https://orcid.org/0000-0001-7854-8517"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63135867",
+          "display_name": "University of Cincinnati",
+          "ror": "https://ror.org/01e3m7079",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63135867"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mark G. Turner",
+      "raw_affiliation_strings": [
+        "University of Cincinnati , P O. Box 210070, Cincinnati, OH 45221"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Cincinnati , P O. Box 210070, Cincinnati, OH 45221",
+          "institution_ids": [
+            "https://openalex.org/I63135867"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5047521395",
+        "display_name": "Borys Łukasik",
+        "orcid": "https://orcid.org/0000-0003-4512-2880"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801863437",
+          "display_name": "Łukasiewicz Research Network - Institute of Aviation",
+          "ror": "https://ror.org/003g5mn55",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801863437"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210129336",
+          "display_name": "Łukasiewicz Research Network",
+          "ror": "https://ror.org/036f4sz05",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210129336"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Borys Łukasik",
+      "raw_affiliation_strings": [
+        "Łukasiewicz Research Network, Institute of Aviation , Aleja Krakowska 110/114, Warsaw 02-256 , Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Łukasiewicz Research Network, Institute of Aviation , Aleja Krakowska 110/114, Warsaw 02-256 , Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210129336",
+            "https://openalex.org/I2801863437"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5025458442"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2801863437",
+    "https://openalex.org/I4210129336"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.8177,
+  "has_fulltext": false,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.93837302,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "144",
+    "issue": "11",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10944",
+    "display_name": "Turbomachinery Performance and Optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2202",
+      "display_name": "Aerospace Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10944",
+      "display_name": "Turbomachinery Performance and Optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11524",
+      "display_name": "Advanced Aircraft Design and Technologies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10553",
+      "display_name": "Combustion and flame dynamics",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/stall",
+      "display_name": "Stall (fluid mechanics)",
+      "score": 0.748173177242279
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-fluid-dynamics",
+      "display_name": "Computational fluid dynamics",
+      "score": 0.6687953472137451
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanics",
+      "display_name": "Mechanics",
+      "score": 0.6444892883300781
+    },
+    {
+      "id": "https://openalex.org/keywords/turbofan",
+      "display_name": "Turbofan",
+      "score": 0.6424924731254578
+    },
+    {
+      "id": "https://openalex.org/keywords/boundary-layer",
+      "display_name": "Boundary layer",
+      "score": 0.5081877708435059
+    },
+    {
+      "id": "https://openalex.org/keywords/inlet",
+      "display_name": "Inlet",
+      "score": 0.5058059692382812
+    },
+    {
+      "id": "https://openalex.org/keywords/propulsion",
+      "display_name": "Propulsion",
+      "score": 0.45402225852012634
+    },
+    {
+      "id": "https://openalex.org/keywords/reduction",
+      "display_name": "Reduction (mathematics)",
+      "score": 0.43426239490509033
+    },
+    {
+      "id": "https://openalex.org/keywords/rotor",
+      "display_name": "Rotor (electric)",
+      "score": 0.4150218069553375
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.3435438871383667
+    },
+    {
+      "id": "https://openalex.org/keywords/aerospace-engineering",
+      "display_name": "Aerospace engineering",
+      "score": 0.2722013592720032
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.2474956512451172
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.2363671362400055
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.22243696451187134
+    },
+    {
+      "id": "https://openalex.org/keywords/geometry",
+      "display_name": "Geometry",
+      "score": 0.1433696150779724
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C5804382",
+      "wikidata": "https://www.wikidata.org/wiki/Q752034",
+      "display_name": "Stall (fluid mechanics)",
+      "level": 2,
+      "score": 0.748173177242279
+    },
+    {
+      "id": "https://openalex.org/C1633027",
+      "wikidata": "https://www.wikidata.org/wiki/Q815820",
+      "display_name": "Computational fluid dynamics",
+      "level": 2,
+      "score": 0.6687953472137451
+    },
+    {
+      "id": "https://openalex.org/C57879066",
+      "wikidata": "https://www.wikidata.org/wiki/Q41217",
+      "display_name": "Mechanics",
+      "level": 1,
+      "score": 0.6444892883300781
+    },
+    {
+      "id": "https://openalex.org/C110050840",
+      "wikidata": "https://www.wikidata.org/wiki/Q654051",
+      "display_name": "Turbofan",
+      "level": 2,
+      "score": 0.6424924731254578
+    },
+    {
+      "id": "https://openalex.org/C111603439",
+      "wikidata": "https://www.wikidata.org/wiki/Q752193",
+      "display_name": "Boundary layer",
+      "level": 2,
+      "score": 0.5081877708435059
+    },
+    {
+      "id": "https://openalex.org/C201289731",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172599",
+      "display_name": "Inlet",
+      "level": 2,
+      "score": 0.5058059692382812
+    },
+    {
+      "id": "https://openalex.org/C1034443",
+      "wikidata": "https://www.wikidata.org/wiki/Q2583685",
+      "display_name": "Propulsion",
+      "level": 2,
+      "score": 0.45402225852012634
+    },
+    {
+      "id": "https://openalex.org/C111335779",
+      "wikidata": "https://www.wikidata.org/wiki/Q3454686",
+      "display_name": "Reduction (mathematics)",
+      "level": 2,
+      "score": 0.43426239490509033
+    },
+    {
+      "id": "https://openalex.org/C17281054",
+      "wikidata": "https://www.wikidata.org/wiki/Q193466",
+      "display_name": "Rotor (electric)",
+      "level": 2,
+      "score": 0.4150218069553375
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.3435438871383667
+    },
+    {
+      "id": "https://openalex.org/C146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "level": 1,
+      "score": 0.2722013592720032
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.2474956512451172
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.2363671362400055
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.22243696451187134
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.1433696150779724
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1115/1.4055265",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1115/1.4055265",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210171160",
+        "display_name": "Journal of Turbomachinery",
+        "issn_l": "0889-504X",
+        "issn": [
+          "0889-504X",
+          "1528-8900"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316053",
+        "host_organization_name": "ASM International",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316053"
+        ],
+        "host_organization_lineage_names": [
+          "ASM International"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Turbomachinery",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.8199999928474426,
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 28,
+  "referenced_works": [
+    "https://openalex.org/W1556020305",
+    "https://openalex.org/W1971290163",
+    "https://openalex.org/W1982701580",
+    "https://openalex.org/W2011136224",
+    "https://openalex.org/W2029742567",
+    "https://openalex.org/W2041652437",
+    "https://openalex.org/W2045482552",
+    "https://openalex.org/W2054911564",
+    "https://openalex.org/W2102769491",
+    "https://openalex.org/W2123092587",
+    "https://openalex.org/W2284436039",
+    "https://openalex.org/W2314156868",
+    "https://openalex.org/W2322601396",
+    "https://openalex.org/W2521401458",
+    "https://openalex.org/W2522544507",
+    "https://openalex.org/W2725760991",
+    "https://openalex.org/W2746898429",
+    "https://openalex.org/W3129144106",
+    "https://openalex.org/W3173510346",
+    "https://openalex.org/W4213299090",
+    "https://openalex.org/W4220857422",
+    "https://openalex.org/W4239683457",
+    "https://openalex.org/W6633200607",
+    "https://openalex.org/W6661590145",
+    "https://openalex.org/W6675245493",
+    "https://openalex.org/W6727503996",
+    "https://openalex.org/W6742972912",
+    "https://openalex.org/W6806665141"
+  ],
+  "related_works": [
+    "https://openalex.org/W4242694048",
+    "https://openalex.org/W2892239855",
+    "https://openalex.org/W1507549538",
+    "https://openalex.org/W2017012196",
+    "https://openalex.org/W110331242",
+    "https://openalex.org/W2014288541",
+    "https://openalex.org/W2044959654",
+    "https://openalex.org/W765973792",
+    "https://openalex.org/W784844504",
+    "https://openalex.org/W2025290009"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Studies": [
+      1
+    ],
+    "show": [
+      2,
+      103
+    ],
+    "that": [
+      3,
+      46
+    ],
+    "boundary": [
+      4
+    ],
+    "layer": [
+      5
+    ],
+    "ingesting": [
+      6
+    ],
+    "(BLI)": [
+      7
+    ],
+    "propulsion": [
+      8,
+      24
+    ],
+    "can": [
+      9,
+      25
+    ],
+    "provide": [
+      10
+    ],
+    "significant": [
+      11,
+      119
+    ],
+    "fuel": [
+      12
+    ],
+    "burn": [
+      13
+    ],
+    "reduction": [
+      14,
+      175,
+      181
+    ],
+    "relative": [
+      15
+    ],
+    "to": [
+      16,
+      27,
+      48,
+      144,
+      194
+    ],
+    "pylon-mounted": [
+      17
+    ],
+    "turbofan": [
+      18
+    ],
+    "engines.": [
+      19
+    ],
+    "However,": [
+      20
+    ],
+    "this": [
+      21
+    ],
+    "type": [
+      22
+    ],
+    "of": [
+      23,
+      35,
+      58,
+      83,
+      94,
+      113,
+      124,
+      126,
+      162,
+      176,
+      199,
+      214
+    ],
+    "lead": [
+      26
+    ],
+    "serious": [
+      28
+    ],
+    "difficulties": [
+      29
+    ],
+    "and": [
+      30,
+      45,
+      100,
+      107,
+      129,
+      148,
+      202
+    ],
+    "engineering": [
+      31
+    ],
+    "challenges.": [
+      32
+    ],
+    "Numerical": [
+      33
+    ],
+    "analyses": [
+      34
+    ],
+    "the": [
+      36,
+      43,
+      49,
+      56,
+      84,
+      95,
+      98,
+      101,
+      104,
+      114,
+      122,
+      127,
+      150,
+      155,
+      160,
+      163,
+      166,
+      170,
+      177,
+      183,
+      191,
+      203,
+      208,
+      215,
+      218,
+      222,
+      229
+    ],
+    "fan": [
+      37,
+      164
+    ],
+    "with": [
+      38,
+      71,
+      165,
+      221
+    ],
+    "a": [
+      39,
+      59,
+      76,
+      90,
+      117,
+      174,
+      196,
+      236
+    ],
+    "uniform": [
+      40
+    ],
+    "flow": [
+      41,
+      51,
+      168,
+      193
+    ],
+    "at": [
+      42,
+      75,
+      169,
+      207,
+      217
+    ],
+    "inlet": [
+      44,
+      86,
+      224
+    ],
+    "exposed": [
+      47
+    ],
+    "distorted": [
+      50,
+      85,
+      167,
+      223
+    ],
+    "were": [
+      52,
+      241
+    ],
+    "performed.": [
+      53
+    ],
+    "These": [
+      54
+    ],
+    "required": [
+      55,
+      197
+    ],
+    "use": [
+      57
+    ],
+    "full-annulus": [
+      60
+    ],
+    "unsteady": [
+      61,
+      131
+    ],
+    "time-marching": [
+      62
+    ],
+    "computational": [
+      63
+    ],
+    "fluid": [
+      64
+    ],
+    "dynamics": [
+      65
+    ],
+    "(CFD)": [
+      66
+    ],
+    "model,": [
+      67
+    ],
+    "which": [
+      68,
+      172
+    ],
+    "was": [
+      69,
+      138,
+      188,
+      225
+    ],
+    "validated": [
+      70
+    ],
+    "experimental": [
+      72,
+      212
+    ],
+    "data": [
+      73
+    ],
+    "obtained": [
+      74,
+      242
+    ],
+    "test": [
+      77
+    ],
+    "rig.": [
+      78
+    ],
+    "The": [
+      79,
+      136,
+      185,
+      211,
+      232
+    ],
+    "first": [
+      80
+    ],
+    "negative": [
+      81
+    ],
+    "effect": [
+      82
+    ],
+    "velocity": [
+      87,
+      109
+    ],
+    "profile": [
+      88
+    ],
+    "is": [
+      89,
+      173
+    ],
+    "variable": [
+      91
+    ],
+    "incidence": [
+      92
+    ],
+    "angle": [
+      93,
+      123
+    ],
+    "rotor.": [
+      96,
+      115
+    ],
+    "Both": [
+      97
+    ],
+    "calculations": [
+      99
+    ],
+    "experiment": [
+      102
+    ],
+    "nonuniform": [
+      105
+    ],
+    "axial": [
+      106
+    ],
+    "tangential": [
+      108
+    ],
+    "profiles": [
+      110
+    ],
+    "in": [
+      111,
+      121,
+      182
+    ],
+    "front": [
+      112
+    ],
+    "As": [
+      116
+    ],
+    "result,": [
+      118
+    ],
+    "changes": [
+      120
+    ],
+    "attack": [
+      125
+    ],
+    "blades": [
+      128
+    ],
+    "corresponding": [
+      130
+    ],
+    "rotor": [
+      132
+    ],
+    "loads": [
+      133
+    ],
+    "are": [
+      134
+    ],
+    "observed.": [
+      135
+    ],
+    "research": [
+      137
+    ],
+    "performed": [
+      139
+    ],
+    "for": [
+      140,
+      190,
+      243
+    ],
+    "different": [
+      141
+    ],
+    "operating": [
+      142,
+      245
+    ],
+    "conditions": [
+      143
+    ],
+    "obtain": [
+      145
+    ],
+    "performance": [
+      146
+    ],
+    "curves": [
+      147
+    ],
+    "assess": [
+      149
+    ],
+    "BLI": [
+      151
+    ],
+    "influence.": [
+      152
+    ],
+    "This": [
+      153
+    ],
+    "demonstrated": [
+      154
+    ],
+    "second": [
+      156
+    ],
+    "problem": [
+      157
+    ],
+    "arising": [
+      158
+    ],
+    "from": [
+      159
+    ],
+    "operation": [
+      161
+    ],
+    "inlet,": [
+      171
+    ],
+    "stall": [
+      178,
+      200
+    ],
+    "margin": [
+      179,
+      201
+    ],
+    "(48%": [
+      180
+    ],
+    "experiment).": [
+      184
+    ],
+    "whole": [
+      186
+    ],
+    "stage": [
+      187
+    ],
+    "optimized": [
+      189
+    ],
+    "axisymmetric": [
+      192
+    ],
+    "ensure": [
+      195
+    ],
+    "value": [
+      198
+    ],
+    "highest": [
+      204
+    ],
+    "possible": [
+      205
+    ],
+    "efficiency": [
+      206,
+      213
+    ],
+    "design": [
+      209,
+      219
+    ],
+    "point.": [
+      210
+    ],
+    "rig": [
+      216
+    ],
+    "point": [
+      220
+    ],
+    "2.05%": [
+      226
+    ],
+    "lower": [
+      227
+    ],
+    "than": [
+      228
+    ],
+    "undistorted": [
+      230
+    ],
+    "one.": [
+      231
+    ],
+    "CFD": [
+      233
+    ],
+    "model": [
+      234
+    ],
+    "shows": [
+      235
+    ],
+    "1.25%": [
+      237
+    ],
+    "reduction.": [
+      238
+    ],
+    "Similar": [
+      239
+    ],
+    "reductions": [
+      240
+    ],
+    "other": [
+      244
+    ],
+    "points.": [
+      246
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

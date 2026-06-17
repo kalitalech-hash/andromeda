@@ -1,0 +1,741 @@
+{
+  "id": "https://openalex.org/W4280525614",
+  "doi": "https://doi.org/10.1080/0194262x.2022.2070329",
+  "title": "Analyzing Citations to Software by Research Area: A Case Study of MATLAB",
+  "display_name": "Analyzing Citations to Software by Research Area: A Case Study of MATLAB",
+  "publication_year": 2022,
+  "publication_date": "2022-05-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4280525614",
+    "doi": "https://doi.org/10.1080/0194262x.2022.2070329"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/0194262x.2022.2070329",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/0194262x.2022.2070329",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S85080540",
+      "display_name": "Science & Technology Libraries",
+      "issn_l": "0194-262X",
+      "issn": [
+        "0194-262X",
+        "1541-1109"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Science &amp; Technology Libraries",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044637964",
+        "display_name": "Robert Tomaszewski",
+        "orcid": "https://orcid.org/0000-0001-6916-1265"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142934699",
+          "display_name": "California State University, Fullerton",
+          "ror": "https://ror.org/02avqqw26",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142934699"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Robert Tomaszewski",
+      "raw_affiliation_strings": [
+        "Pollak Library, California State University, Fullerton, California, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6916-1265",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pollak Library, California State University, Fullerton, California, USA",
+          "institution_ids": [
+            "https://openalex.org/I142934699"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5044637964"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I142934699"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.3724,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.66769478,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "42",
+    "issue": "2",
+    "first_page": "231",
+    "last_page": "246"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10102",
+    "display_name": "scientometrics and bibliometrics research",
+    "score": 0.991599977016449,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1804",
+      "display_name": "Statistics, Probability and Uncertainty"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/18",
+      "display_name": "Decision Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10102",
+      "display_name": "scientometrics and bibliometrics research",
+      "score": 0.991599977016449,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11986",
+      "display_name": "Scientific Computing and Data Management",
+      "score": 0.9908999800682068,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11937",
+      "display_name": "Research Data Management Practices",
+      "score": 0.9745000004768372,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6990357637405396
+    },
+    {
+      "id": "https://openalex.org/keywords/citation",
+      "display_name": "Citation",
+      "score": 0.6545702219009399
+    },
+    {
+      "id": "https://openalex.org/keywords/matlab",
+      "display_name": "MATLAB",
+      "score": 0.6413232088088989
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.617727518081665
+    },
+    {
+      "id": "https://openalex.org/keywords/biomedicine",
+      "display_name": "Biomedicine",
+      "score": 0.5300018191337585
+    },
+    {
+      "id": "https://openalex.org/keywords/subject",
+      "display_name": "Subject (documents)",
+      "score": 0.5268161296844482
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.5121817588806152
+    },
+    {
+      "id": "https://openalex.org/keywords/web-of-science",
+      "display_name": "Web of science",
+      "score": 0.4237598180770874
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.339599609375
+    },
+    {
+      "id": "https://openalex.org/keywords/information-retrieval",
+      "display_name": "Information retrieval",
+      "score": 0.32063162326812744
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.08497196435928345
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.07636001706123352
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.07625153660774231
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6990357637405396
+    },
+    {
+      "id": "https://openalex.org/C2778805511",
+      "wikidata": "https://www.wikidata.org/wiki/Q1713",
+      "display_name": "Citation",
+      "level": 2,
+      "score": 0.6545702219009399
+    },
+    {
+      "id": "https://openalex.org/C2780365114",
+      "wikidata": "https://www.wikidata.org/wiki/Q169478",
+      "display_name": "MATLAB",
+      "level": 2,
+      "score": 0.6413232088088989
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.617727518081665
+    },
+    {
+      "id": "https://openalex.org/C66782513",
+      "wikidata": "https://www.wikidata.org/wiki/Q864601",
+      "display_name": "Biomedicine",
+      "level": 2,
+      "score": 0.5300018191337585
+    },
+    {
+      "id": "https://openalex.org/C2777855551",
+      "wikidata": "https://www.wikidata.org/wiki/Q12310021",
+      "display_name": "Subject (documents)",
+      "level": 2,
+      "score": 0.5268161296844482
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.5121817588806152
+    },
+    {
+      "id": "https://openalex.org/C3020774429",
+      "wikidata": "https://www.wikidata.org/wiki/Q1201886",
+      "display_name": "Web of science",
+      "level": 3,
+      "score": 0.4237598180770874
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.339599609375
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.32063162326812744
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.08497196435928345
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.07636001706123352
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.07625153660774231
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1080/0194262x.2022.2070329",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/0194262x.2022.2070329",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S85080540",
+        "display_name": "Science & Technology Libraries",
+        "issn_l": "0194-262X",
+        "issn": [
+          "0194-262X",
+          "1541-1109"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Science &amp; Technology Libraries",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W204184694",
+    "https://openalex.org/W1572181180",
+    "https://openalex.org/W1622429627",
+    "https://openalex.org/W1991566174",
+    "https://openalex.org/W2045108252",
+    "https://openalex.org/W2053549370",
+    "https://openalex.org/W2079530479",
+    "https://openalex.org/W2086848096",
+    "https://openalex.org/W2087926707",
+    "https://openalex.org/W2108680868",
+    "https://openalex.org/W2124949857",
+    "https://openalex.org/W2130740072",
+    "https://openalex.org/W2146681348",
+    "https://openalex.org/W2150220236",
+    "https://openalex.org/W2252532622",
+    "https://openalex.org/W2334865972",
+    "https://openalex.org/W2499248990",
+    "https://openalex.org/W2527181616",
+    "https://openalex.org/W2599907872",
+    "https://openalex.org/W2628693824",
+    "https://openalex.org/W2758302892",
+    "https://openalex.org/W2760448622",
+    "https://openalex.org/W2805464109",
+    "https://openalex.org/W2883676566",
+    "https://openalex.org/W2884728176",
+    "https://openalex.org/W2901078812",
+    "https://openalex.org/W3001491100",
+    "https://openalex.org/W3038353958",
+    "https://openalex.org/W3082483357",
+    "https://openalex.org/W3103786539",
+    "https://openalex.org/W3125181173",
+    "https://openalex.org/W4200624565",
+    "https://openalex.org/W4233661061",
+    "https://openalex.org/W4244336041",
+    "https://openalex.org/W6910869818",
+    "https://openalex.org/W6910888662"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2017899917",
+    "https://openalex.org/W2080571363",
+    "https://openalex.org/W2481322495",
+    "https://openalex.org/W2898682754",
+    "https://openalex.org/W2889841093",
+    "https://openalex.org/W4246603716",
+    "https://openalex.org/W2151082141",
+    "https://openalex.org/W2365236913",
+    "https://openalex.org/W2381265828"
+  ],
+  "abstract_inverted_index": {
+    "Citation": [
+      0
+    ],
+    "analysis": [
+      1
+    ],
+    "can": [
+      2
+    ],
+    "uncover": [
+      3
+    ],
+    "ways": [
+      4
+    ],
+    "to": [
+      5,
+      33,
+      42,
+      58,
+      88
+    ],
+    "apply": [
+      6
+    ],
+    "the": [
+      7,
+      22,
+      44,
+      78,
+      81,
+      89
+    ],
+    "use": [
+      8,
+      45
+    ],
+    "of": [
+      9,
+      24,
+      46
+    ],
+    "software": [
+      10,
+      54
+    ],
+    "in": [
+      11,
+      21,
+      48,
+      77
+    ],
+    "different": [
+      12
+    ],
+    "research": [
+      13,
+      40,
+      66
+    ],
+    "synergies.": [
+      14
+    ],
+    "A": [
+      15
+    ],
+    "cited": [
+      16
+    ],
+    "reference": [
+      17
+    ],
+    "search": [
+      18
+    ],
+    "on": [
+      19
+    ],
+    "MATLAB": [
+      20,
+      47,
+      72
+    ],
+    "Web": [
+      23
+    ],
+    "Science": [
+      25
+    ],
+    "database": [
+      26
+    ],
+    "retrieved": [
+      27
+    ],
+    "6,873": [
+      28
+    ],
+    "citing": [
+      29
+    ],
+    "articles": [
+      30,
+      36
+    ],
+    "from": [
+      31
+    ],
+    "2000": [
+      32
+    ],
+    "2020.": [
+      34
+    ],
+    "These": [
+      35
+    ],
+    "were": [
+      37
+    ],
+    "analyzed": [
+      38
+    ],
+    "by": [
+      39,
+      65
+    ],
+    "areas": [
+      41
+    ],
+    "reveal": [
+      43
+    ],
+    "unexpected": [
+      49
+    ],
+    "subject-specific": [
+      50
+    ],
+    "disciplines.": [
+      51
+    ],
+    "The": [
+      52,
+      68
+    ],
+    "VOSviewer": [
+      53
+    ],
+    "tool": [
+      55
+    ],
+    "was": [
+      56
+    ],
+    "used": [
+      57
+    ],
+    "generate": [
+      59
+    ],
+    "and": [
+      60,
+      80,
+      96
+    ],
+    "analyze": [
+      61
+    ],
+    "keyword": [
+      62
+    ],
+    "co-occurrence": [
+      63
+    ],
+    "clusters": [
+      64
+    ],
+    "area.": [
+      67
+    ],
+    "study": [
+      69
+    ],
+    "found": [
+      70
+    ],
+    "that": [
+      71
+    ],
+    "not": [
+      73
+    ],
+    "only": [
+      74
+    ],
+    "holds": [
+      75
+    ],
+    "applications": [
+      76
+    ],
+    "Technology": [
+      79
+    ],
+    "Physical": [
+      82
+    ],
+    "Sciences": [
+      83,
+      91
+    ],
+    "disciplines": [
+      84
+    ],
+    "but": [
+      85
+    ],
+    "also": [
+      86
+    ],
+    "extends": [
+      87
+    ],
+    "Life": [
+      90
+    ],
+    "&": [
+      92,
+      98
+    ],
+    "Biomedicine,": [
+      93
+    ],
+    "Social": [
+      94
+    ],
+    "Sciences,": [
+      95
+    ],
+    "Arts": [
+      97
+    ],
+    "Humanities.": [
+      99
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

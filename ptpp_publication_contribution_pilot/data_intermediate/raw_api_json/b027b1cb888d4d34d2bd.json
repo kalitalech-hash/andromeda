@@ -1,0 +1,1816 @@
+{
+  "id": "https://openalex.org/W2000191247",
+  "doi": "https://doi.org/10.1016/j.celrep.2014.10.017",
+  "title": "Trim25 Is an RNA-Specific Activator of Lin28a/TuT4-Mediated Uridylation",
+  "display_name": "Trim25 Is an RNA-Specific Activator of Lin28a/TuT4-Mediated Uridylation",
+  "publication_year": 2014,
+  "publication_date": "2014-11-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2000191247",
+    "doi": "https://doi.org/10.1016/j.celrep.2014.10.017",
+    "mag": "2000191247",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/25457611"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.celrep.2014.10.017",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.celrep.2014.10.017",
+    "pdf_url": "http://www.cell.com/article/S2211124714008717/pdf",
+    "source": {
+      "id": "https://openalex.org/S169236886",
+      "display_name": "Cell Reports",
+      "issn_l": "2211-1247",
+      "issn": [
+        "2211-1247",
+        "2639-1856"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.cell.com/article/S2211124714008717/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5007199847",
+        "display_name": "Nila Roy Choudhury",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nila Roy Choudhury",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007807706",
+        "display_name": "Jakub Nowak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub S. Nowak",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109984551",
+        "display_name": "Juan Zuo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juan Zuo",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076844877",
+        "display_name": "Juri Rappsilber",
+        "orcid": "https://orcid.org/0000-0001-5999-1310"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4577782",
+          "display_name": "Technische Universität Berlin",
+          "ror": "https://ror.org/03v4gjf40",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4577782"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juri Rappsilber",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology, Technische Universität Berlin, 13353 Berlin, Germany",
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology, Technische Universität Berlin, 13353 Berlin, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4577782"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063016242",
+        "display_name": "Steven H. Spoel",
+        "orcid": "https://orcid.org/0000-0003-4340-7591"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Steven H. Spoel",
+      "raw_affiliation_strings": [
+        "Institute of Molecular Plant Sciences, University of Edinburgh, Daniel Rutherford Building, Edinburgh EH9 3BF, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Molecular Plant Sciences, University of Edinburgh, Daniel Rutherford Building, Edinburgh EH9 3BF, UK",
+          "institution_ids": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5001307553",
+        "display_name": "Gracjan Michlewski",
+        "orcid": "https://orcid.org/0000-0002-7409-9619"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134627",
+          "display_name": "Wellcome Centre for Cell Biology",
+          "ror": "https://ror.org/03xbccz06",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I87048295",
+            "https://openalex.org/I98677209"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Gracjan Michlewski",
+      "raw_affiliation_strings": [
+        "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wellcome Trust Centre for Cell Biology, University of Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210134627",
+            "https://openalex.org/I98677209"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5001307553"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210134627",
+    "https://openalex.org/I98677209"
+  ],
+  "apc_list": {
+    "value": 5200,
+    "currency": "USD",
+    "value_usd": 5200
+  },
+  "apc_paid": {
+    "value": 3763,
+    "currency": "EUR",
+    "value_usd": 4058
+  },
+  "fwci": 3.9833,
+  "has_fulltext": true,
+  "cited_by_count": 87,
+  "citation_normalized_percentile": {
+    "value": 0.94428863,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "4",
+    "first_page": "1265",
+    "last_page": "1272"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10604",
+    "display_name": "RNA Research and Splicing",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12610",
+      "display_name": "RNA regulation and disease",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/rna",
+      "display_name": "RNA",
+      "score": 0.6442224979400635
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.5513737201690674
+    },
+    {
+      "id": "https://openalex.org/keywords/microrna",
+      "display_name": "microRNA",
+      "score": 0.5234320163726807
+    },
+    {
+      "id": "https://openalex.org/keywords/rna-binding-protein",
+      "display_name": "RNA-binding protein",
+      "score": 0.5133218169212341
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.479731947183609
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.3757467269897461
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.32357025146484375
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.284417986869812
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.12006199359893799
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C67705224",
+      "wikidata": "https://www.wikidata.org/wiki/Q11053",
+      "display_name": "RNA",
+      "level": 3,
+      "score": 0.6442224979400635
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5513737201690674
+    },
+    {
+      "id": "https://openalex.org/C145059251",
+      "wikidata": "https://www.wikidata.org/wiki/Q310899",
+      "display_name": "microRNA",
+      "level": 3,
+      "score": 0.5234320163726807
+    },
+    {
+      "id": "https://openalex.org/C41282012",
+      "wikidata": "https://www.wikidata.org/wiki/Q3928341",
+      "display_name": "RNA-binding protein",
+      "level": 4,
+      "score": 0.5133218169212341
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.479731947183609
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3757467269897461
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.32357025146484375
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.284417986869812
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.12006199359893799
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000070584",
+      "descriptor_name": "Tripartite Motif Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000070584",
+      "descriptor_name": "Tripartite Motif Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000070584",
+      "descriptor_name": "Tripartite Motif Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001483",
+      "descriptor_name": "Base Sequence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001483",
+      "descriptor_name": "Base Sequence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001483",
+      "descriptor_name": "Base Sequence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006367",
+      "descriptor_name": "HeLa Cells",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007553",
+      "descriptor_name": "Isotope Labeling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007553",
+      "descriptor_name": "Isotope Labeling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007553",
+      "descriptor_name": "Isotope Labeling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009690",
+      "descriptor_name": "Nucleic Acid Conformation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009690",
+      "descriptor_name": "Nucleic Acid Conformation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009690",
+      "descriptor_name": "Nucleic Acid Conformation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011485",
+      "descriptor_name": "Protein Binding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011485",
+      "descriptor_name": "Protein Binding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011485",
+      "descriptor_name": "Protein Binding",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012323",
+      "descriptor_name": "RNA Processing, Post-Transcriptional",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012323",
+      "descriptor_name": "RNA Processing, Post-Transcriptional",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012323",
+      "descriptor_name": "RNA Processing, Post-Transcriptional",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013058",
+      "descriptor_name": "Mass Spectrometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014157",
+      "descriptor_name": "Transcription Factors",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014529",
+      "descriptor_name": "Uridine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014529",
+      "descriptor_name": "Uridine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014529",
+      "descriptor_name": "Uridine",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016601",
+      "descriptor_name": "RNA-Binding Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044764",
+      "descriptor_name": "Ubiquitin-Activating Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044764",
+      "descriptor_name": "Ubiquitin-Activating Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044764",
+      "descriptor_name": "Ubiquitin-Activating Enzymes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044767",
+      "descriptor_name": "Ubiquitin-Protein Ligases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044767",
+      "descriptor_name": "Ubiquitin-Protein Ligases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D044767",
+      "descriptor_name": "Ubiquitin-Protein Ligases",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D046988",
+      "descriptor_name": "Proteasome Endopeptidase Complex",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D046988",
+      "descriptor_name": "Proteasome Endopeptidase Complex",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D046988",
+      "descriptor_name": "Proteasome Endopeptidase Complex",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059372",
+      "descriptor_name": "Nucleotide Motifs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059372",
+      "descriptor_name": "Nucleotide Motifs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059372",
+      "descriptor_name": "Nucleotide Motifs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.celrep.2014.10.017",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.celrep.2014.10.017",
+      "pdf_url": "http://www.cell.com/article/S2211124714008717/pdf",
+      "source": {
+        "id": "https://openalex.org/S169236886",
+        "display_name": "Cell Reports",
+        "issn_l": "2211-1247",
+        "issn": [
+          "2211-1247",
+          "2639-1856"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:25457611",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/25457611",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pure.ed.ac.uk:openaire/aa755b1a-ff83-46bc-8059-ca5a033f9045",
+      "is_oa": true,
+      "landing_page_url": "https://www.research.ed.ac.uk/en/publications/aa755b1a-ff83-46bc-8059-ca5a033f9045",
+      "pdf_url": "https://www.research.ed.ac.uk/files/18044251/PIIS2211124714008717.pdf",
+      "source": {
+        "id": "https://openalex.org/S4406922455",
+        "display_name": "Edinburgh Research Explorer",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Roy Choudhury, N, Nowak, J S, Zuo, J, Rappsilber, J, Spoel, S H & Michlewski, G 2014, 'Trim25 is an RNA-specific activator of Lin28a/TuT4-mediated uridylation', Cell Reports, vol. 9, no. 4, pp. 1265-1272. https://doi.org/10.1016/j.celrep.2014.10.017",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:97650594bf6544af8b892eceef74594c",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/97650594bf6544af8b892eceef74594c",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cell Reports, Vol 9, Iss 4, Pp 1265-1272 (2014)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:4542301",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4542301",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cell Rep",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.celrep.2014.10.017",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.celrep.2014.10.017",
+    "pdf_url": "http://www.cell.com/article/S2211124714008717/pdf",
+    "source": {
+      "id": "https://openalex.org/S169236886",
+      "display_name": "Cell Reports",
+      "issn_l": "2211-1247",
+      "issn": [
+        "2211-1247",
+        "2639-1856"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cell Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1457867859",
+      "display_name": null,
+      "funder_award_id": "G10000564",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G1818363137",
+      "display_name": "Core support for Wellcome Trust Centre for Cell Biology.",
+      "funder_award_id": "077707",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G2149541370",
+      "display_name": null,
+      "funder_award_id": "BB/L006219/1",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G2967739722",
+      "display_name": "Proteomics at the Wellcome Trust Centre for Cell Biology.",
+      "funder_award_id": "091020",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G3656246862",
+      "display_name": "Wellcome Trust four year PhD programme in Cell Biology.",
+      "funder_award_id": "096996",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G3837430014",
+      "display_name": "Licensing Transcription Activator Activity with Ubiquitin Time Clocks",
+      "funder_award_id": "BB/L006219/1",
+      "funder_id": "https://openalex.org/F4320334629",
+      "funder_display_name": "Biotechnology and Biological Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G4858145913",
+      "display_name": null,
+      "funder_award_id": "092076",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    },
+    {
+      "id": "https://openalex.org/G5518097576",
+      "display_name": "Three-dimensional proteomics: Mapping the geometry of large protein assemblies using cross-linking, mass spectrometry, and bioinformatics.",
+      "funder_award_id": "084229",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G5940583438",
+      "display_name": "Core funding renewal for the Wellcome Trust Centre for Cell Biology .",
+      "funder_award_id": "092076",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311904",
+      "display_name": "Wellcome Trust",
+      "ror": "https://ror.org/029chgv08"
+    },
+    {
+      "id": "https://openalex.org/F4320320006",
+      "display_name": "Royal Society",
+      "ror": "https://ror.org/03wnrjx87"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    },
+    {
+      "id": "https://openalex.org/F4320334629",
+      "display_name": "Biotechnology and Biological Sciences Research Council",
+      "ror": "https://ror.org/00cwqg982"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2000191247.pdf"
+  },
+  "referenced_works_count": 46,
+  "referenced_works": [
+    "https://openalex.org/W1967533656",
+    "https://openalex.org/W1975464080",
+    "https://openalex.org/W1982163838",
+    "https://openalex.org/W1984574291",
+    "https://openalex.org/W1985140771",
+    "https://openalex.org/W1986911150",
+    "https://openalex.org/W1989768797",
+    "https://openalex.org/W1993346317",
+    "https://openalex.org/W2005563052",
+    "https://openalex.org/W2010438982",
+    "https://openalex.org/W2018721001",
+    "https://openalex.org/W2019167811",
+    "https://openalex.org/W2025075195",
+    "https://openalex.org/W2033610696",
+    "https://openalex.org/W2035098650",
+    "https://openalex.org/W2037786477",
+    "https://openalex.org/W2039876257",
+    "https://openalex.org/W2041440237",
+    "https://openalex.org/W2041865329",
+    "https://openalex.org/W2042936984",
+    "https://openalex.org/W2045672814",
+    "https://openalex.org/W2049990289",
+    "https://openalex.org/W2064266708",
+    "https://openalex.org/W2067706259",
+    "https://openalex.org/W2072470582",
+    "https://openalex.org/W2079248832",
+    "https://openalex.org/W2081121203",
+    "https://openalex.org/W2082429447",
+    "https://openalex.org/W2096335988",
+    "https://openalex.org/W2099002508",
+    "https://openalex.org/W2099289150",
+    "https://openalex.org/W2105694586",
+    "https://openalex.org/W2105698711",
+    "https://openalex.org/W2106257653",
+    "https://openalex.org/W2113111145",
+    "https://openalex.org/W2124088276",
+    "https://openalex.org/W2131886224",
+    "https://openalex.org/W2134026040",
+    "https://openalex.org/W2134599070",
+    "https://openalex.org/W2138431129",
+    "https://openalex.org/W2146929958",
+    "https://openalex.org/W2152951302",
+    "https://openalex.org/W2163636666",
+    "https://openalex.org/W2165178850",
+    "https://openalex.org/W2168507741",
+    "https://openalex.org/W2173392920"
+  ],
+  "related_works": [
+    "https://openalex.org/W2737319532",
+    "https://openalex.org/W4392896533",
+    "https://openalex.org/W2062945643",
+    "https://openalex.org/W2050308539",
+    "https://openalex.org/W3151405604",
+    "https://openalex.org/W4241694095",
+    "https://openalex.org/W4379233576",
+    "https://openalex.org/W2753172052",
+    "https://openalex.org/W3080365360",
+    "https://openalex.org/W1935063092"
+  ],
+  "abstract_inverted_index": {
+    "RNA": [
+      0,
+      7,
+      21,
+      81
+    ],
+    "binding": [
+      1,
+      22,
+      48
+    ],
+    "proteins": [
+      2
+    ],
+    "have": [
+      3
+    ],
+    "thousands": [
+      4
+    ],
+    "of": [
+      5,
+      65,
+      112,
+      139,
+      151
+    ],
+    "cellular": [
+      6
+    ],
+    "targets": [
+      8
+    ],
+    "and": [
+      9,
+      27,
+      41,
+      114
+    ],
+    "often": [
+      10
+    ],
+    "exhibit": [
+      11
+    ],
+    "opposite": [
+      12
+    ],
+    "or": [
+      13,
+      73
+    ],
+    "passive": [
+      14
+    ],
+    "molecular": [
+      15
+    ],
+    "functions.": [
+      16
+    ],
+    "Lin28a": [
+      17
+    ],
+    "is": [
+      18,
+      55
+    ],
+    "a": [
+      19
+    ],
+    "conserved": [
+      20,
+      108
+    ],
+    "protein": [
+      23
+    ],
+    "involved": [
+      24
+    ],
+    "in": [
+      25,
+      144
+    ],
+    "pluripotency": [
+      26
+    ],
+    "tumorigenesis": [
+      28
+    ],
+    "that": [
+      29,
+      68,
+      103,
+      126
+    ],
+    "was": [
+      30
+    ],
+    "previously": [
+      31
+    ],
+    "shown": [
+      32,
+      131
+    ],
+    "to": [
+      33,
+      49,
+      106,
+      132
+    ],
+    "trigger": [
+      34
+    ],
+    "TuT4-mediated": [
+      35
+    ],
+    "pre-let-7": [
+      36,
+      54,
+      71,
+      113
+    ],
+    "uridylation,": [
+      37
+    ],
+    "inhibiting": [
+      38
+    ],
+    "its": [
+      39,
+      75
+    ],
+    "processing": [
+      40
+    ],
+    "targeting": [
+      42
+    ],
+    "it": [
+      43
+    ],
+    "for": [
+      44,
+      98,
+      118
+    ],
+    "degradation.": [
+      45
+    ],
+    "Surprisingly,": [
+      46
+    ],
+    "despite": [
+      47
+    ],
+    "other": [
+      50
+    ],
+    "pre-microRNAs": [
+      51
+    ],
+    "(pre-miRNAs),": [
+      52
+    ],
+    "only": [
+      53,
+      129
+    ],
+    "efficiently": [
+      56
+    ],
+    "uridylated": [
+      57
+    ],
+    "by": [
+      58
+    ],
+    "TuT4.": [
+      59
+    ],
+    "Thus,": [
+      60
+    ],
+    "we": [
+      61,
+      88
+    ],
+    "hypothesized": [
+      62
+    ],
+    "the": [
+      63,
+      90,
+      107,
+      137
+    ],
+    "existence": [
+      64
+    ],
+    "substrate-specific": [
+      66
+    ],
+    "cofactors": [
+      67
+    ],
+    "stimulate": [
+      69
+    ],
+    "Lin28a-mediated": [
+      70,
+      121
+    ],
+    "uridylation": [
+      72
+    ],
+    "restrict": [
+      74
+    ],
+    "functionality": [
+      76
+    ],
+    "on": [
+      77
+    ],
+    "non-let-7": [
+      78
+    ],
+    "pre-miRNAs.": [
+      79
+    ],
+    "Through": [
+      80
+    ],
+    "pull-downs": [
+      82
+    ],
+    "coupled": [
+      83
+    ],
+    "with": [
+      84
+    ],
+    "quantitative": [
+      85
+    ],
+    "mass": [
+      86
+    ],
+    "spectrometry,": [
+      87
+    ],
+    "identified": [
+      89
+    ],
+    "E3": [
+      91
+    ],
+    "ligase": [
+      92
+    ],
+    "Trim25": [
+      93,
+      104
+    ],
+    "as": [
+      94
+    ],
+    "an": [
+      95,
+      148
+    ],
+    "RNA-specific": [
+      96
+    ],
+    "cofactor": [
+      97
+    ],
+    "Lin28a/TuT4-mediated": [
+      99
+    ],
+    "uridylation.": [
+      100,
+      122
+    ],
+    "We": [
+      101
+    ],
+    "show": [
+      102
+    ],
+    "binds": [
+      105
+    ],
+    "terminal": [
+      109
+    ],
+    "loop": [
+      110
+    ],
+    "(CTL)": [
+      111
+    ],
+    "activates": [
+      115
+    ],
+    "TuT4,": [
+      116
+    ],
+    "allowing": [
+      117
+    ],
+    "more": [
+      119
+    ],
+    "efficient": [
+      120
+    ],
+    "These": [
+      123
+    ],
+    "findings": [
+      124
+    ],
+    "reveal": [
+      125
+    ],
+    "protein-modifying": [
+      127
+    ],
+    "enzymes,": [
+      128
+    ],
+    "recently": [
+      130
+    ],
+    "bind": [
+      133
+    ],
+    "RNA,": [
+      134
+    ],
+    "can": [
+      135
+    ],
+    "guide": [
+      136
+    ],
+    "function": [
+      138
+    ],
+    "canonical": [
+      140
+    ],
+    "ribonucleoprotein": [
+      141
+    ],
+    "(RNP)": [
+      142
+    ],
+    "complexes": [
+      143
+    ],
+    "cis,": [
+      145
+    ],
+    "thereby": [
+      146
+    ],
+    "providing": [
+      147
+    ],
+    "additional": [
+      149
+    ],
+    "level": [
+      150
+    ],
+    "specificity.": [
+      152
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2026-05-22T06:13:13.366637",
+  "created_date": "2025-10-10T00:00:00"
+}

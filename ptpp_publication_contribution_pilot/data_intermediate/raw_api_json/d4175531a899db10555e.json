@@ -1,0 +1,938 @@
+{
+  "id": "https://openalex.org/W4382175701",
+  "doi": "https://doi.org/10.3390/photonics10050524",
+  "title": "Performance Analysis of Automatic Hidden Ligthpaths in Multi-Layer Networks",
+  "display_name": "Performance Analysis of Automatic Hidden Ligthpaths in Multi-Layer Networks",
+  "publication_year": 2023,
+  "publication_date": "2023-05-03",
+  "ids": {
+    "openalex": "https://openalex.org/W4382175701",
+    "doi": "https://doi.org/10.3390/photonics10050524"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/photonics10050524",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/photonics10050524",
+    "pdf_url": "https://www.mdpi.com/2304-6732/10/5/524/pdf?version=1683109767",
+    "source": {
+      "id": "https://openalex.org/S2738274844",
+      "display_name": "Photonics",
+      "issn_l": "2304-6732",
+      "issn": [
+        "2304-6732"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Photonics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2304-6732/10/5/524/pdf?version=1683109767",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Edyta Biernacka",
+      "raw_affiliation_strings": [
+        "Institute of Telecommunications, AGH University of Krakow, 30-059 Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6501-1048",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Telecommunications, AGH University of Krakow, 30-059 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jerzy Domżał",
+      "raw_affiliation_strings": [
+        "Institute of Telecommunications, AGH University of Krakow, 30-059 Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8379-2810",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Telecommunications, AGH University of Krakow, 30-059 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5032596656",
+    "https://openalex.org/A5052160429"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746",
+    "https://openalex.org/I686019"
+  ],
+  "apc_list": {
+    "value": 1800,
+    "currency": "CHF",
+    "value_usd": 1949
+  },
+  "apc_paid": {
+    "value": 1800,
+    "currency": "CHF",
+    "value_usd": 1949
+  },
+  "fwci": 0.2492,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.51870128,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "10",
+    "issue": "5",
+    "first_page": "524",
+    "last_page": "524"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10847",
+    "display_name": "Advanced Optical Network Technologies",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10847",
+      "display_name": "Advanced Optical Network Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10232",
+      "display_name": "Optical Network Technologies",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10767",
+      "display_name": "Advanced Photonic Communication Systems",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/provisioning",
+      "display_name": "Provisioning",
+      "score": 0.8536593914031982
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8339737057685852
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-network",
+      "display_name": "Computer network",
+      "score": 0.5412856936454773
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.5160202980041504
+    },
+    {
+      "id": "https://openalex.org/keywords/resource",
+      "display_name": "Resource (disambiguation)",
+      "score": 0.4948381781578064
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.4558301568031311
+    },
+    {
+      "id": "https://openalex.org/keywords/layer",
+      "display_name": "Layer (electronics)",
+      "score": 0.4543168246746063
+    },
+    {
+      "id": "https://openalex.org/keywords/resource-management",
+      "display_name": "Resource management (computing)",
+      "score": 0.4323011636734009
+    },
+    {
+      "id": "https://openalex.org/keywords/application-layer",
+      "display_name": "Application layer",
+      "score": 0.4187844395637512
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.2696737051010132
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C172191483",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071806",
+      "display_name": "Provisioning",
+      "level": 2,
+      "score": 0.8536593914031982
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8339737057685852
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.5412856936454773
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.5160202980041504
+    },
+    {
+      "id": "https://openalex.org/C206345919",
+      "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+      "display_name": "Resource (disambiguation)",
+      "level": 2,
+      "score": 0.4948381781578064
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.4558301568031311
+    },
+    {
+      "id": "https://openalex.org/C2779227376",
+      "wikidata": "https://www.wikidata.org/wiki/Q6505497",
+      "display_name": "Layer (electronics)",
+      "level": 2,
+      "score": 0.4543168246746063
+    },
+    {
+      "id": "https://openalex.org/C2780609101",
+      "wikidata": "https://www.wikidata.org/wiki/Q17156588",
+      "display_name": "Resource management (computing)",
+      "level": 2,
+      "score": 0.4323011636734009
+    },
+    {
+      "id": "https://openalex.org/C190793597",
+      "wikidata": "https://www.wikidata.org/wiki/Q189768",
+      "display_name": "Application layer",
+      "level": 3,
+      "score": 0.4187844395637512
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.2696737051010132
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3390/photonics10050524",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/photonics10050524",
+      "pdf_url": "https://www.mdpi.com/2304-6732/10/5/524/pdf?version=1683109767",
+      "source": {
+        "id": "https://openalex.org/S2738274844",
+        "display_name": "Photonics",
+        "issn_l": "2304-6732",
+        "issn": [
+          "2304-6732"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Photonics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:10a7612b8cee4c848ef6dc51db7ba801",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/10a7612b8cee4c848ef6dc51db7ba801",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Photonics, Vol 10, Iss 5, p 524 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/2304-6732/10/5/524/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/photonics10050524",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Photonics; Volume 10; Issue 5; Pages: 524",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/photonics10050524",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/photonics10050524",
+    "pdf_url": "https://www.mdpi.com/2304-6732/10/5/524/pdf?version=1683109767",
+    "source": {
+      "id": "https://openalex.org/S2738274844",
+      "display_name": "Photonics",
+      "issn_l": "2304-6732",
+      "issn": [
+        "2304-6732"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Photonics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/8",
+      "display_name": "Decent work and economic growth",
+      "score": 0.4000000059604645
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4382175701.pdf"
+  },
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W1579655362",
+    "https://openalex.org/W1978821951",
+    "https://openalex.org/W1995419572",
+    "https://openalex.org/W2049469883",
+    "https://openalex.org/W2089387193",
+    "https://openalex.org/W2096615736",
+    "https://openalex.org/W2105547707",
+    "https://openalex.org/W2116917711",
+    "https://openalex.org/W2131399112",
+    "https://openalex.org/W2138412547",
+    "https://openalex.org/W2466726405",
+    "https://openalex.org/W2516299212",
+    "https://openalex.org/W2547531959",
+    "https://openalex.org/W2554756037",
+    "https://openalex.org/W2613070411",
+    "https://openalex.org/W2735302922",
+    "https://openalex.org/W2767306859",
+    "https://openalex.org/W2768875597",
+    "https://openalex.org/W2792272376",
+    "https://openalex.org/W2792595997",
+    "https://openalex.org/W2891323228",
+    "https://openalex.org/W2955145425",
+    "https://openalex.org/W2956411360",
+    "https://openalex.org/W2965868589",
+    "https://openalex.org/W2981911981",
+    "https://openalex.org/W3004629779",
+    "https://openalex.org/W3184744200",
+    "https://openalex.org/W3205827919",
+    "https://openalex.org/W3212587242",
+    "https://openalex.org/W3215482576",
+    "https://openalex.org/W3217585440",
+    "https://openalex.org/W4210595373",
+    "https://openalex.org/W4287879020",
+    "https://openalex.org/W4294691404",
+    "https://openalex.org/W4295540084",
+    "https://openalex.org/W4308917574"
+  ],
+  "related_works": [
+    "https://openalex.org/W2017432143",
+    "https://openalex.org/W2534224494",
+    "https://openalex.org/W2102496746",
+    "https://openalex.org/W2035428304",
+    "https://openalex.org/W2360147445",
+    "https://openalex.org/W2003799830",
+    "https://openalex.org/W2504933265",
+    "https://openalex.org/W1585302186",
+    "https://openalex.org/W2216035532",
+    "https://openalex.org/W2181429049"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "problem": [
+      1
+    ],
+    "of": [
+      2,
+      20,
+      23,
+      40,
+      110,
+      124
+    ],
+    "resource": [
+      3,
+      16,
+      70,
+      106,
+      119
+    ],
+    "provisioning": [
+      4,
+      17,
+      107
+    ],
+    "in": [
+      5,
+      18,
+      30,
+      44,
+      72,
+      108,
+      130
+    ],
+    "multi-layer": [
+      6,
+      73
+    ],
+    "networks": [
+      7,
+      132
+    ],
+    "is": [
+      8
+    ],
+    "an": [
+      9
+    ],
+    "important": [
+      10
+    ],
+    "issue.": [
+      11
+    ],
+    "We": [
+      12,
+      61,
+      98
+    ],
+    "discuss": [
+      13
+    ],
+    "and": [
+      14,
+      57,
+      63,
+      86,
+      100,
+      121
+    ],
+    "analyze": [
+      15,
+      101
+    ],
+    "terms": [
+      19,
+      109
+    ],
+    "the": [
+      21,
+      27,
+      38,
+      41,
+      54,
+      95,
+      111,
+      122,
+      125
+    ],
+    "visibility": [
+      22
+    ],
+    "optical": [
+      24,
+      42,
+      128
+    ],
+    "resources": [
+      25,
+      50
+    ],
+    "for": [
+      26,
+      53
+    ],
+    "virtual": [
+      28,
+      55
+    ],
+    "layer": [
+      29,
+      56
+    ],
+    "a": [
+      31,
+      46,
+      78,
+      134
+    ],
+    "network.": [
+      32
+    ],
+    "In": [
+      33
+    ],
+    "this": [
+      34
+    ],
+    "context,": [
+      35
+    ],
+    "we": [
+      36
+    ],
+    "propose": [
+      37
+    ],
+    "diversification": [
+      39,
+      120
+    ],
+    "spectrum": [
+      43,
+      129
+    ],
+    "such": [
+      45
+    ],
+    "way": [
+      47
+    ],
+    "that": [
+      48
+    ],
+    "some": [
+      49
+    ],
+    "are": [
+      51,
+      91
+    ],
+    "hidden": [
+      52,
+      66,
+      88,
+      126
+    ],
+    "used": [
+      58
+    ],
+    "when": [
+      59
+    ],
+    "needed.": [
+      60
+    ],
+    "introduce": [
+      62
+    ],
+    "investigate": [
+      64
+    ],
+    "automatic": [
+      65
+    ],
+    "lightpaths": [
+      67
+    ],
+    "to": [
+      68,
+      82,
+      105
+    ],
+    "improve": [
+      69
+    ],
+    "utilization": [
+      71
+    ],
+    "networks.": [
+      74
+    ],
+    "Our": [
+      75
+    ],
+    "solution": [
+      76
+    ],
+    "uses": [
+      77
+    ],
+    "software-defined": [
+      79
+    ],
+    "networking": [
+      80
+    ],
+    "concept": [
+      81
+    ],
+    "automatically": [
+      83
+    ],
+    "set": [
+      84
+    ],
+    "up": [
+      85
+    ],
+    "release": [
+      87
+    ],
+    "lightpaths,": [
+      89
+    ],
+    "which": [
+      90
+    ],
+    "not": [
+      92
+    ],
+    "visible": [
+      93
+    ],
+    "at": [
+      94
+    ],
+    "network": [
+      96
+    ],
+    "layer.": [
+      97
+    ],
+    "evaluate": [
+      99
+    ],
+    "two": [
+      102
+    ],
+    "main": [
+      103
+    ],
+    "approaches": [
+      104
+    ],
+    "blocking": [
+      112
+    ],
+    "probability.": [
+      113
+    ],
+    "Future": [
+      114
+    ],
+    "research": [
+      115
+    ],
+    "should": [
+      116
+    ],
+    "focus": [
+      117
+    ],
+    "on": [
+      118
+    ],
+    "usage": [
+      123
+    ],
+    "elastic": [
+      127
+    ],
+    "modern": [
+      131
+    ],
+    "as": [
+      133
+    ],
+    "promising": [
+      135
+    ],
+    "solution.": [
+      136
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

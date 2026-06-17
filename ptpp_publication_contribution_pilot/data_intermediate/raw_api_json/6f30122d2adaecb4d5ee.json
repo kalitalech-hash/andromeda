@@ -1,0 +1,1726 @@
+{
+  "id": "https://openalex.org/W4318218381",
+  "doi": "https://doi.org/10.1038/s41598-023-28790-y",
+  "title": "Low-volume label-free SARS-CoV-2 detection with the microcavity-based optical fiber sensor",
+  "display_name": "Low-volume label-free SARS-CoV-2 detection with the microcavity-based optical fiber sensor",
+  "publication_year": 2023,
+  "publication_date": "2023-01-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4318218381",
+    "doi": "https://doi.org/10.1038/s41598-023-28790-y",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36707671"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41598-023-28790-y",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-023-28790-y",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-28790-y.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41598-023-28790-y.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5032131173",
+        "display_name": "Monika Janik",
+        "orcid": "https://orcid.org/0000-0002-8002-3055"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169333911",
+          "display_name": "Gdańsk University of Technology",
+          "ror": "https://ror.org/006x4sc24",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169333911"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Monika Janik",
+      "raw_affiliation_strings": [
+        "Department of Metrology and Optoelectronics, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology, Narutowicza 11/12, 80-233, Gdańsk, Poland. monika.janik@pw.edu.pl",
+        "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland. monika.janik@pw.edu.pl",
+        "Department of Metrology and Optoelectronics, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology, Narutowicza 11/12, 80-233, Gdańsk, Poland",
+        "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Metrology and Optoelectronics, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology, Narutowicza 11/12, 80-233, Gdańsk, Poland. monika.janik@pw.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland. monika.janik@pw.edu.pl",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Metrology and Optoelectronics, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology, Narutowicza 11/12, 80-233, Gdańsk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169333911"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066835602",
+        "display_name": "Tomasz Gabler",
+        "orcid": "https://orcid.org/0000-0002-8936-9909"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasz Gabler",
+      "raw_affiliation_strings": [
+        "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086998884",
+        "display_name": "Marcin Koba",
+        "orcid": "https://orcid.org/0000-0002-0295-8242"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210125529",
+          "display_name": "National Institute of Telecommunications",
+          "ror": "https://ror.org/03053v606",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210125529"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Koba",
+      "raw_affiliation_strings": [
+        "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland",
+        "National Institute of Telecommunications, Szachowa 1, 02-894, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Institute of Telecommunications, Szachowa 1, 02-894, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210125529"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035401175",
+        "display_name": "Mirosława Panasiuk",
+        "orcid": "https://orcid.org/0000-0001-7470-7306"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mirosława Panasiuk",
+      "raw_affiliation_strings": [
+        "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+        "NanoExpo®, Kładki 24/54, 80-822, Gdansk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "NanoExpo®, Kładki 24/54, 80-822, Gdansk, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012079568",
+        "display_name": "Yanina Dashkevich",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Yanina Dashkevich",
+      "raw_affiliation_strings": [
+        "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003772616",
+        "display_name": "Tomasz Łęga",
+        "orcid": "https://orcid.org/0000-0002-5660-9240"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasz Łęga",
+      "raw_affiliation_strings": [
+        "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057489119",
+        "display_name": "Agnieszka Dąbrowska",
+        "orcid": "https://orcid.org/0000-0003-1499-4950"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka Dąbrowska",
+      "raw_affiliation_strings": [
+        "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007186503",
+        "display_name": "Antonina Naskalska",
+        "orcid": "https://orcid.org/0000-0002-5868-1000"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antonina Naskalska",
+      "raw_affiliation_strings": [
+        "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037202829",
+        "display_name": "Sabina Żołędowska",
+        "orcid": "https://orcid.org/0000-0001-6218-8342"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sabina Żołędowska",
+      "raw_affiliation_strings": [
+        "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071449856",
+        "display_name": "Dawid Nidzworski",
+        "orcid": "https://orcid.org/0000-0003-0533-0837"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Dawid Nidzworski",
+      "raw_affiliation_strings": [
+        "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066890613",
+        "display_name": "Krzysztof Pyrć",
+        "orcid": "https://orcid.org/0000-0002-3867-7688"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krzysztof Pyrć",
+      "raw_affiliation_strings": [
+        "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Virogenetics Laboratory of Virology, Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7a, 30-387, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014095207",
+        "display_name": "Beata Gromadzka",
+        "orcid": "https://orcid.org/0000-0002-3525-2158"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Beata Gromadzka",
+      "raw_affiliation_strings": [
+        "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+        "NanoExpo®, Kładki 24/54, 80-822, Gdansk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biotechnology and Molecular Medicine, Kampinoska 25, 80-180, Gdańsk, Poland",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "NanoExpo®, Kładki 24/54, 80-822, Gdansk, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5085552442",
+        "display_name": "Mateusz Śmietana",
+        "orcid": "https://orcid.org/0000-0002-6774-2426"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mateusz Śmietana",
+      "raw_affiliation_strings": [
+        "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Microelectronics and Optoelectronics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 13,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5032131173"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I108403487",
+    "https://openalex.org/I169333911"
+  ],
+  "apc_list": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "apc_paid": {
+    "value": 1890,
+    "currency": "EUR",
+    "value_usd": 2190
+  },
+  "fwci": 1.6361,
+  "has_fulltext": true,
+  "cited_by_count": 16,
+  "citation_normalized_percentile": {
+    "value": 0.8182882,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "1",
+    "first_page": "1512",
+    "last_page": "1512"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11393",
+    "display_name": "Biosensors and Analytical Detection",
+    "score": 0.996999979019165,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2204",
+      "display_name": "Biomedical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11393",
+      "display_name": "Biosensors and Analytical Detection",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11272",
+      "display_name": "Nanowire Synthesis and Applications",
+      "score": 0.9891999959945679,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11449",
+      "display_name": "Mechanical and Optical Resonators",
+      "score": 0.9829999804496765,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/severe-acute-respiratory-syndrome-coronavirus-2",
+      "display_name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "score": 0.5772272944450378
+    },
+    {
+      "id": "https://openalex.org/keywords/detection-limit",
+      "display_name": "Detection limit",
+      "score": 0.5765643119812012
+    },
+    {
+      "id": "https://openalex.org/keywords/interferometry",
+      "display_name": "Interferometry",
+      "score": 0.5617753267288208
+    },
+    {
+      "id": "https://openalex.org/keywords/optical-fiber",
+      "display_name": "Optical fiber",
+      "score": 0.5084825754165649
+    },
+    {
+      "id": "https://openalex.org/keywords/coronavirus-disease-2019",
+      "display_name": "Coronavirus disease 2019 (COVID-19)",
+      "score": 0.48621121048927307
+    },
+    {
+      "id": "https://openalex.org/keywords/volume",
+      "display_name": "Volume (thermodynamics)",
+      "score": 0.4679488241672516
+    },
+    {
+      "id": "https://openalex.org/keywords/nanotechnology",
+      "display_name": "Nanotechnology",
+      "score": 0.4291849732398987
+    },
+    {
+      "id": "https://openalex.org/keywords/sensitivity",
+      "display_name": "Sensitivity (control systems)",
+      "score": 0.41934651136398315
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.3987971544265747
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3695845901966095
+    },
+    {
+      "id": "https://openalex.org/keywords/optoelectronics",
+      "display_name": "Optoelectronics",
+      "score": 0.35389208793640137
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.2374500334262848
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.231866717338562
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.21141108870506287
+    },
+    {
+      "id": "https://openalex.org/keywords/chromatography",
+      "display_name": "Chromatography",
+      "score": 0.17510837316513062
+    },
+    {
+      "id": "https://openalex.org/keywords/electronic-engineering",
+      "display_name": "Electronic engineering",
+      "score": 0.1382615864276886
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.12991026043891907
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.0975160300731659
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C3007834351",
+      "wikidata": "https://www.wikidata.org/wiki/Q82069695",
+      "display_name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "level": 5,
+      "score": 0.5772272944450378
+    },
+    {
+      "id": "https://openalex.org/C119128265",
+      "wikidata": "https://www.wikidata.org/wiki/Q900165",
+      "display_name": "Detection limit",
+      "level": 2,
+      "score": 0.5765643119812012
+    },
+    {
+      "id": "https://openalex.org/C166689943",
+      "wikidata": "https://www.wikidata.org/wiki/Q850283",
+      "display_name": "Interferometry",
+      "level": 2,
+      "score": 0.5617753267288208
+    },
+    {
+      "id": "https://openalex.org/C194232370",
+      "wikidata": "https://www.wikidata.org/wiki/Q162",
+      "display_name": "Optical fiber",
+      "level": 2,
+      "score": 0.5084825754165649
+    },
+    {
+      "id": "https://openalex.org/C3008058167",
+      "wikidata": "https://www.wikidata.org/wiki/Q84263196",
+      "display_name": "Coronavirus disease 2019 (COVID-19)",
+      "level": 4,
+      "score": 0.48621121048927307
+    },
+    {
+      "id": "https://openalex.org/C20556612",
+      "wikidata": "https://www.wikidata.org/wiki/Q4469374",
+      "display_name": "Volume (thermodynamics)",
+      "level": 2,
+      "score": 0.4679488241672516
+    },
+    {
+      "id": "https://openalex.org/C171250308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11468",
+      "display_name": "Nanotechnology",
+      "level": 1,
+      "score": 0.4291849732398987
+    },
+    {
+      "id": "https://openalex.org/C21200559",
+      "wikidata": "https://www.wikidata.org/wiki/Q7451068",
+      "display_name": "Sensitivity (control systems)",
+      "level": 2,
+      "score": 0.41934651136398315
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.3987971544265747
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3695845901966095
+    },
+    {
+      "id": "https://openalex.org/C49040817",
+      "wikidata": "https://www.wikidata.org/wiki/Q193091",
+      "display_name": "Optoelectronics",
+      "level": 1,
+      "score": 0.35389208793640137
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.2374500334262848
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.231866717338562
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.21141108870506287
+    },
+    {
+      "id": "https://openalex.org/C43617362",
+      "wikidata": "https://www.wikidata.org/wiki/Q170050",
+      "display_name": "Chromatography",
+      "level": 1,
+      "score": 0.17510837316513062
+    },
+    {
+      "id": "https://openalex.org/C24326235",
+      "wikidata": "https://www.wikidata.org/wiki/Q126095",
+      "display_name": "Electronic engineering",
+      "level": 1,
+      "score": 0.1382615864276886
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.12991026043891907
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0975160300731659
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C524204448",
+      "wikidata": "https://www.wikidata.org/wiki/Q788926",
+      "display_name": "Infectious disease (medical specialty)",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000086382",
+      "descriptor_name": "COVID-19",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086382",
+      "descriptor_name": "COVID-19",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086382",
+      "descriptor_name": "COVID-19",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000086402",
+      "descriptor_name": "SARS-CoV-2",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007368",
+      "descriptor_name": "Interferometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007368",
+      "descriptor_name": "Interferometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007368",
+      "descriptor_name": "Interferometry",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015374",
+      "descriptor_name": "Biosensing Techniques",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015374",
+      "descriptor_name": "Biosensing Techniques",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015374",
+      "descriptor_name": "Biosensing Techniques",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D055100",
+      "descriptor_name": "Optical Fibers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055100",
+      "descriptor_name": "Optical Fibers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055100",
+      "descriptor_name": "Optical Fibers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41598-023-28790-y",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41598-023-28790-y",
+      "pdf_url": "https://www.nature.com/articles/s41598-023-28790-y.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36707671",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36707671",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific reports",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/511453",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/handle/item/511453",
+      "pdf_url": "http://ruj.uj.edu.pl/bitstreams/ca9fdb2d-b542-4ee8-ac20-dae38a9764d2/download",
+      "source": {
+        "id": "https://openalex.org/S4306400316",
+        "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "artykuł w czasopiśmie"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9880943",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9880943",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9880943/pdf/41598_2023_Article_28790.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Sci Rep",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d1405b8da10e4e00a3ac4208d209f6be",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/d1405b8da10e4e00a3ac4208d209f6be",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Scientific Reports, Vol 13, Iss 1, Pp 1-10 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41598-023-28790-y",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s41598-023-28790-y",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-28790-y.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.5899999737739563,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3129111771",
+      "display_name": null,
+      "funder_award_id": "2018/29/B/ST7/02552",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G315736922",
+      "display_name": null,
+      "funder_award_id": "347324",
+      "funder_id": "https://openalex.org/F4320335039",
+      "funder_display_name": "Narodowe Centrum Badań i Rozwoju"
+    },
+    {
+      "id": "https://openalex.org/G4661371325",
+      "display_name": null,
+      "funder_award_id": "START 2021",
+      "funder_id": "https://openalex.org/F4320321042",
+      "funder_display_name": "Fundacja na rzecz Nauki Polskiej"
+    },
+    {
+      "id": "https://openalex.org/G5249223659",
+      "display_name": null,
+      "funder_award_id": "347324/12/NCBR/2017",
+      "funder_id": "https://openalex.org/F4320335039",
+      "funder_display_name": "Narodowe Centrum Badań i Rozwoju"
+    },
+    {
+      "id": "https://openalex.org/G8164005178",
+      "display_name": null,
+      "funder_award_id": "No. 347324/12/NCBR/2017",
+      "funder_id": "https://openalex.org/F4320335039",
+      "funder_display_name": "Narodowe Centrum Badań i Rozwoju"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321042",
+      "display_name": "Fundacja na rzecz Nauki Polskiej",
+      "ror": "https://ror.org/048zd9m77"
+    },
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320335039",
+      "display_name": "Narodowe Centrum Badań i Rozwoju",
+      "ror": "https://ror.org/05pwfyy15"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4318218381.pdf"
+  },
+  "referenced_works_count": 39,
+  "referenced_works": [
+    "https://openalex.org/W2128663195",
+    "https://openalex.org/W2562354508",
+    "https://openalex.org/W2605668265",
+    "https://openalex.org/W2763258732",
+    "https://openalex.org/W2793851087",
+    "https://openalex.org/W2900872346",
+    "https://openalex.org/W2912881884",
+    "https://openalex.org/W2925288958",
+    "https://openalex.org/W3002777374",
+    "https://openalex.org/W3005079553",
+    "https://openalex.org/W3009906937",
+    "https://openalex.org/W3013186573",
+    "https://openalex.org/W3016553966",
+    "https://openalex.org/W3038720126",
+    "https://openalex.org/W3046736440",
+    "https://openalex.org/W3095246943",
+    "https://openalex.org/W3099699699",
+    "https://openalex.org/W3106737244",
+    "https://openalex.org/W3108312350",
+    "https://openalex.org/W3112549958",
+    "https://openalex.org/W3112931438",
+    "https://openalex.org/W3124958279",
+    "https://openalex.org/W3125800928",
+    "https://openalex.org/W3131296454",
+    "https://openalex.org/W3132217836",
+    "https://openalex.org/W3135302816",
+    "https://openalex.org/W3136148042",
+    "https://openalex.org/W3142432096",
+    "https://openalex.org/W3161049000",
+    "https://openalex.org/W3162627607",
+    "https://openalex.org/W3165656738",
+    "https://openalex.org/W3191542819",
+    "https://openalex.org/W3195912996",
+    "https://openalex.org/W3199931124",
+    "https://openalex.org/W3201863872",
+    "https://openalex.org/W3209178111",
+    "https://openalex.org/W4205506113",
+    "https://openalex.org/W4224275180",
+    "https://openalex.org/W4297200907"
+  ],
+  "related_works": [
+    "https://openalex.org/W4396932139",
+    "https://openalex.org/W1988809445",
+    "https://openalex.org/W2112026144",
+    "https://openalex.org/W2045753504",
+    "https://openalex.org/W4280522672",
+    "https://openalex.org/W2391410777",
+    "https://openalex.org/W2016541458",
+    "https://openalex.org/W4248877799",
+    "https://openalex.org/W2128409859",
+    "https://openalex.org/W2102036934"
+  ],
+  "abstract_inverted_index": {
+    "Accurate": [
+      0
+    ],
+    "and": [
+      1,
+      56,
+      66
+    ],
+    "fast": [
+      2
+    ],
+    "detection": [
+      3,
+      22,
+      156
+    ],
+    "of": [
+      4,
+      11,
+      28,
+      31,
+      37,
+      63,
+      70,
+      80,
+      88,
+      97,
+      137,
+      152
+    ],
+    "viruses": [
+      5
+    ],
+    "is": [
+      6,
+      47,
+      131
+    ],
+    "crucial": [
+      7
+    ],
+    "for": [
+      8,
+      20,
+      102,
+      124
+    ],
+    "controlling": [
+      9
+    ],
+    "outbreaks": [
+      10
+    ],
+    "many": [
+      12
+    ],
+    "diseases;": [
+      13
+    ],
+    "therefore,": [
+      14
+    ],
+    "to": [
+      15,
+      41,
+      133
+    ],
+    "date,": [
+      16
+    ],
+    "numerous": [
+      17
+    ],
+    "sensing": [
+      18,
+      33,
+      111
+    ],
+    "systems": [
+      19
+    ],
+    "their": [
+      21
+    ],
+    "have": [
+      23
+    ],
+    "been": [
+      24
+    ],
+    "studied.": [
+      25
+    ],
+    "On": [
+      26
+    ],
+    "top": [
+      27
+    ],
+    "the": [
+      29,
+      35,
+      43,
+      61,
+      64,
+      78,
+      82,
+      86,
+      98,
+      138,
+      155,
+      159
+    ],
+    "performance": [
+      30
+    ],
+    "these": [
+      32
+    ],
+    "systems,": [
+      34
+    ],
+    "availability": [
+      36
+    ],
+    "biorecognition": [
+      38
+    ],
+    "elements": [
+      39
+    ],
+    "specific": [
+      40
+    ],
+    "especially": [
+      42,
+      76
+    ],
+    "new": [
+      44,
+      89
+    ],
+    "etiological": [
+      45,
+      90
+    ],
+    "agents": [
+      46,
+      91
+    ],
+    "an": [
+      48
+    ],
+    "additional": [
+      49
+    ],
+    "fundamental": [
+      50
+    ],
+    "challenge.": [
+      51
+    ],
+    "Therefore,": [
+      52
+    ],
+    "besides": [
+      53
+    ],
+    "high": [
+      54
+    ],
+    "sensitivity": [
+      55
+    ],
+    "selectivity,": [
+      57
+    ],
+    "such": [
+      58
+    ],
+    "advantages": [
+      59
+    ],
+    "as": [
+      60,
+      148,
+      150
+    ],
+    "size": [
+      62
+    ],
+    "sensor": [
+      65
+    ],
+    "possibly": [
+      67
+    ],
+    "low": [
+      68
+    ],
+    "volume": [
+      69,
+      147
+    ],
+    "analyzed": [
+      71
+    ],
+    "samples": [
+      72
+    ],
+    "are": [
+      73,
+      100
+    ],
+    "also": [
+      74
+    ],
+    "important,": [
+      75
+    ],
+    "at": [
+      77,
+      158
+    ],
+    "stage": [
+      79
+    ],
+    "evaluating": [
+      81
+    ],
+    "receptor-target": [
+      83
+    ],
+    "interactions": [
+      84
+    ],
+    "in": [
+      85,
+      121,
+      142
+    ],
+    "case": [
+      87
+    ],
+    "when": [
+      92
+    ],
+    "typically,": [
+      93
+    ],
+    "only": [
+      94
+    ],
+    "tiny": [
+      95
+    ],
+    "amounts": [
+      96
+    ],
+    "receptor": [
+      99
+    ],
+    "available": [
+      101
+    ],
+    "testing.": [
+      103
+    ],
+    "This": [
+      104
+    ],
+    "work": [
+      105
+    ],
+    "introduces": [
+      106
+    ],
+    "a": [
+      107,
+      143,
+      146
+    ],
+    "real-time,": [
+      108
+    ],
+    "highly": [
+      109
+    ],
+    "miniaturized": [
+      110
+    ],
+    "solution": [
+      112
+    ],
+    "based": [
+      113
+    ],
+    "on": [
+      114
+    ],
+    "microcavity": [
+      115
+    ],
+    "in-line": [
+      116
+    ],
+    "Mach-Zehnder": [
+      117
+    ],
+    "interferometer": [
+      118
+    ],
+    "(μIMZI)": [
+      119
+    ],
+    "induced": [
+      120
+    ],
+    "optical": [
+      122
+    ],
+    "fiber": [
+      123
+    ],
+    "SARS-CoV-2": [
+      125,
+      139
+    ],
+    "virus-like": [
+      126
+    ],
+    "particles": [
+      127,
+      141
+    ],
+    "detection.": [
+      128
+    ],
+    "The": [
+      129
+    ],
+    "assay": [
+      130
+    ],
+    "designed": [
+      132
+    ],
+    "detect": [
+      134
+    ],
+    "conserved": [
+      135
+    ],
+    "regions": [
+      136
+    ],
+    "viral": [
+      140
+    ],
+    "sample": [
+      144
+    ],
+    "with": [
+      145
+    ],
+    "small": [
+      149
+    ],
+    "hundreds": [
+      151
+    ],
+    "picoliters,": [
+      153
+    ],
+    "reaching": [
+      154
+    ],
+    "limit": [
+      157
+    ],
+    "single": [
+      160
+    ],
+    "ng": [
+      161
+    ],
+    "per": [
+      162
+    ],
+    "mL": [
+      163
+    ],
+    "level.": [
+      164
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,526 @@
+{
+  "id": "https://openalex.org/W4415749875",
+  "doi": "https://doi.org/10.1007/978-3-032-03708-4_6",
+  "title": "Neural Network-Based Verification of Document Authenticity via Paper Structure and Scan Analysis",
+  "display_name": "Neural Network-Based Verification of Document Authenticity via Paper Structure and Scan Analysis",
+  "publication_year": 2025,
+  "publication_date": "2025-10-31",
+  "ids": {
+    "openalex": "https://openalex.org/W4415749875",
+    "doi": "https://doi.org/10.1007/978-3-032-03708-4_6"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-032-03708-4_6",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-032-03708-4_6",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106296714",
+      "display_name": "Lecture notes in computer science",
+      "issn_l": "0302-9743",
+      "issn": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Lecture Notes in Computer Science",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Mateusz Janik",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mateusz Janik",
+      "raw_affiliation_strings": [
+        "Department of Artificial Intelligence, Czȩstochowa University of Technology, al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Artificial Intelligence, Czȩstochowa University of Technology, al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057695150",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-1572-3426"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [
+        "Department of Artificial Intelligence, Czȩstochowa University of Technology, al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1572-3426",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Artificial Intelligence, Czȩstochowa University of Technology, al. Armii Krajowej 36, 42-200, Czȩstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077565916",
+        "display_name": "Paweł Drozda",
+        "orcid": "https://orcid.org/0000-0003-3163-9408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47996466",
+          "display_name": "University of Warmia and Mazury in Olsztyn",
+          "ror": "https://ror.org/05s4feg49",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paweł Drozda",
+      "raw_affiliation_strings": [
+        "University of Warmia and Mazury, Olsztyn, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3163-9408",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Warmia and Mazury, Olsztyn, Poland",
+          "institution_ids": [
+            "https://openalex.org/I47996466"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5091506990",
+        "display_name": "Slava Voloshynovskiy",
+        "orcid": "https://orcid.org/0000-0003-0416-9674"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Slava Voloshynovskiy",
+      "raw_affiliation_strings": [
+        "Department of Computer Science, University of Geneva, Geneva, Switzerland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0416-9674",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science, University of Geneva, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5057695150"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I130294970"
+  ],
+  "apc_list": {
+    "value": 5000,
+    "currency": "EUR",
+    "value_usd": 5392
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.66600492,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "73",
+    "last_page": "81"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12357",
+    "display_name": "Digital Media Forensic Detection",
+    "score": 0.836899995803833,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1707",
+      "display_name": "Computer Vision and Pattern Recognition"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12357",
+      "display_name": "Digital Media Forensic Detection",
+      "score": 0.836899995803833,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10601",
+      "display_name": "Handwritten Text Recognition Techniques",
+      "score": 0.07900000363588333,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10388",
+      "display_name": "Advanced Steganography and Watermarking Techniques",
+      "score": 0.015399999916553497,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/embedding",
+      "display_name": "Embedding",
+      "score": 0.8094000220298767
+    },
+    {
+      "id": "https://openalex.org/keywords/classifier",
+      "display_name": "Classifier (UML)",
+      "score": 0.6514999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/training-set",
+      "display_name": "Training set",
+      "score": 0.4903999865055084
+    },
+    {
+      "id": "https://openalex.org/keywords/pattern-recognition",
+      "display_name": "Pattern recognition (psychology)",
+      "score": 0.44940000772476196
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.4465999901294708
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.4350000023841858
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8903999924659729
+    },
+    {
+      "id": "https://openalex.org/C41608201",
+      "wikidata": "https://www.wikidata.org/wiki/Q980509",
+      "display_name": "Embedding",
+      "level": 2,
+      "score": 0.8094000220298767
+    },
+    {
+      "id": "https://openalex.org/C95623464",
+      "wikidata": "https://www.wikidata.org/wiki/Q1096149",
+      "display_name": "Classifier (UML)",
+      "level": 2,
+      "score": 0.6514999866485596
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.6452000141143799
+    },
+    {
+      "id": "https://openalex.org/C51632099",
+      "wikidata": "https://www.wikidata.org/wiki/Q3985153",
+      "display_name": "Training set",
+      "level": 2,
+      "score": 0.4903999865055084
+    },
+    {
+      "id": "https://openalex.org/C153180895",
+      "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+      "display_name": "Pattern recognition (psychology)",
+      "level": 2,
+      "score": 0.44940000772476196
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.4465999901294708
+    },
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.4350000023841858
+    },
+    {
+      "id": "https://openalex.org/C2988504005",
+      "wikidata": "https://www.wikidata.org/wiki/Q379942",
+      "display_name": "Document image processing",
+      "level": 4,
+      "score": 0.424699991941452
+    },
+    {
+      "id": "https://openalex.org/C31972630",
+      "wikidata": "https://www.wikidata.org/wiki/Q844240",
+      "display_name": "Computer vision",
+      "level": 1,
+      "score": 0.3691999912261963
+    },
+    {
+      "id": "https://openalex.org/C2778371909",
+      "wikidata": "https://www.wikidata.org/wiki/Q3771738",
+      "display_name": "Historical document",
+      "level": 2,
+      "score": 0.3650999963283539
+    },
+    {
+      "id": "https://openalex.org/C115961682",
+      "wikidata": "https://www.wikidata.org/wiki/Q860623",
+      "display_name": "Image (mathematics)",
+      "level": 2,
+      "score": 0.33239999413490295
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.3269999921321869
+    },
+    {
+      "id": "https://openalex.org/C108583219",
+      "wikidata": "https://www.wikidata.org/wiki/Q197536",
+      "display_name": "Deep learning",
+      "level": 2,
+      "score": 0.313400000333786
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.2883000075817108
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.2782000005245209
+    },
+    {
+      "id": "https://openalex.org/C75294576",
+      "wikidata": "https://www.wikidata.org/wiki/Q5165192",
+      "display_name": "Contextual image classification",
+      "level": 3,
+      "score": 0.2581999897956848
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-032-03708-4_6",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-032-03708-4_6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106296714",
+        "display_name": "Lecture notes in computer science",
+        "issn_l": "0302-9743",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Lecture Notes in Computer Science",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 4,
+  "referenced_works": [
+    "https://openalex.org/W2062079846",
+    "https://openalex.org/W2213612645",
+    "https://openalex.org/W3128471618",
+    "https://openalex.org/W4361829743"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2025-10-31T00:00:00"
+}

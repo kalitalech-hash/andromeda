@@ -1,0 +1,868 @@
+{
+  "id": "https://openalex.org/W3034470660",
+  "doi": "https://doi.org/10.48550/arxiv.2006.06062",
+  "title": "Empirical Time Complexity of Generic Dijkstra Algorithm",
+  "display_name": "Empirical Time Complexity of Generic Dijkstra Algorithm",
+  "publication_year": 2020,
+  "publication_date": "2020-06-10",
+  "ids": {
+    "openalex": "https://openalex.org/W3034470660",
+    "doi": "https://doi.org/10.48550/arxiv.2006.06062",
+    "mag": "3034470660"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmh:oai:arXiv.org:2006.06062",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2006.06062",
+    "pdf_url": "https://arxiv.org/pdf/2006.06062",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "arxiv",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2006.06062",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5033013378",
+        "display_name": "Piotr Jurkiewicz",
+        "orcid": "https://orcid.org/0000-0002-0774-610X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jurkiewicz, Piotr",
+      "raw_affiliation_strings": [
+        "AGH UNIVERSITY OF SCIENCE AND TECHNOLOGY"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Biernacka, Edyta",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, Dept. of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, Dept. of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Domżał, Jerzy",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, Dept. of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, Dept. of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5018395274",
+        "display_name": "Robert Wójcik",
+        "orcid": "https://orcid.org/0000-0002-9562-606X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wójcik, Robert",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, Dept. of Telecommunications, Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, Dept. of Telecommunications, Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10847",
+    "display_name": "Advanced Optical Network Technologies",
+    "score": 0.9970999956130981,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10847",
+      "display_name": "Advanced Optical Network Technologies",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10374",
+      "display_name": "Advanced Graph Theory Research",
+      "score": 0.9661999940872192,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10232",
+      "display_name": "Optical Network Technologies",
+      "score": 0.9639999866485596,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dijkstras-algorithm",
+      "display_name": "Dijkstra's algorithm",
+      "score": 0.8735067844390869
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6466288566589355
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.48481741547584534
+    },
+    {
+      "id": "https://openalex.org/keywords/theoretical-computer-science",
+      "display_name": "Theoretical computer science",
+      "score": 0.3195894658565521
+    },
+    {
+      "id": "https://openalex.org/keywords/shortest-path-problem",
+      "display_name": "Shortest path problem",
+      "score": 0.09708026051521301
+    },
+    {
+      "id": "https://openalex.org/keywords/graph",
+      "display_name": "Graph",
+      "score": 0.0936884880065918
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C173870130",
+      "wikidata": "https://www.wikidata.org/wiki/Q8548",
+      "display_name": "Dijkstra's algorithm",
+      "level": 4,
+      "score": 0.8735067844390869
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6466288566589355
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.48481741547584534
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.3195894658565521
+    },
+    {
+      "id": "https://openalex.org/C22590252",
+      "wikidata": "https://www.wikidata.org/wiki/Q1058754",
+      "display_name": "Shortest path problem",
+      "level": 3,
+      "score": 0.09708026051521301
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.0936884880065918
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "pmh:oai:arXiv.org:2006.06062",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2006.06062",
+      "pdf_url": "https://arxiv.org/pdf/2006.06062",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2006.06062",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2006.06062",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2006.06062",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2006.06062",
+    "pdf_url": "https://arxiv.org/pdf/2006.06062",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 9,
+  "referenced_works": [
+    "https://openalex.org/W1579655362",
+    "https://openalex.org/W1977313940",
+    "https://openalex.org/W2041054319",
+    "https://openalex.org/W2116917711",
+    "https://openalex.org/W2132022337",
+    "https://openalex.org/W2133768407",
+    "https://openalex.org/W2148523205",
+    "https://openalex.org/W2572079788",
+    "https://openalex.org/W3104214067"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2379764279",
+    "https://openalex.org/W2051487156",
+    "https://openalex.org/W2360924501",
+    "https://openalex.org/W2766237626",
+    "https://openalex.org/W2372895815",
+    "https://openalex.org/W2167833628",
+    "https://openalex.org/W2073681303",
+    "https://openalex.org/W2375280931"
+  ],
+  "abstract_inverted_index": {
+    "Generic": [
+      0,
+      57,
+      86,
+      117,
+      141
+    ],
+    "Dijkstra": [
+      1,
+      58,
+      87,
+      118,
+      142
+    ],
+    "is": [
+      2,
+      95,
+      102,
+      143
+    ],
+    "a": [
+      3
+    ],
+    "novel": [
+      4
+    ],
+    "algorithm": [
+      5,
+      88,
+      129
+    ],
+    "for": [
+      6
+    ],
+    "finding": [
+      7
+    ],
+    "the": [
+      8,
+      64,
+      72,
+      81,
+      85,
+      90,
+      120,
+      125,
+      128,
+      137
+    ],
+    "optimal": [
+      9
+    ],
+    "shortest": [
+      10
+    ],
+    "path": [
+      11
+    ],
+    "in": [
+      12,
+      89,
+      119,
+      148,
+      156
+    ],
+    "both": [
+      13
+    ],
+    "wavelength-division": [
+      14
+    ],
+    "multiplexed": [
+      15
+    ],
+    "networks": [
+      16,
+      21,
+      149
+    ],
+    "(WDM)": [
+      17
+    ],
+    "and": [
+      18,
+      39,
+      54,
+      69,
+      130,
+      155
+    ],
+    "elastic": [
+      19
+    ],
+    "optical": [
+      20
+    ],
+    "(EON),": [
+      22
+    ],
+    "claimed": [
+      23
+    ],
+    "to": [
+      24,
+      136,
+      152
+    ],
+    "outperform": [
+      25
+    ],
+    "known": [
+      26
+    ],
+    "algorithms": [
+      27
+    ],
+    "considerably.": [
+      28
+    ],
+    "Because": [
+      29
+    ],
+    "of": [
+      30,
+      66,
+      74,
+      84,
+      92,
+      116,
+      127,
+      158
+    ],
+    "its": [
+      31,
+      131,
+      160
+    ],
+    "novelty,": [
+      32
+    ],
+    "it": [
+      33
+    ],
+    "has": [
+      34
+    ],
+    "not": [
+      35,
+      96
+    ],
+    "been": [
+      36
+    ],
+    "independently": [
+      37
+    ],
+    "implemented": [
+      38
+    ],
+    "verified.": [
+      40
+    ],
+    "Its": [
+      41
+    ],
+    "time": [
+      42,
+      60,
+      83,
+      101
+    ],
+    "complexity": [
+      43
+    ],
+    "also": [
+      44,
+      78
+    ],
+    "remains": [
+      45
+    ],
+    "unknown.": [
+      46
+    ],
+    "In": [
+      47,
+      134
+    ],
+    "this": [
+      48
+    ],
+    "paper,": [
+      49
+    ],
+    "we": [
+      50,
+      109
+    ],
+    "perform": [
+      51
+    ],
+    "run-time": [
+      52
+    ],
+    "analysis": [
+      53
+    ],
+    "show": [
+      55
+    ],
+    "that": [
+      56,
+      80
+    ],
+    "running": [
+      59,
+      82,
+      100
+    ],
+    "grows": [
+      61
+    ],
+    "quadratically": [
+      62
+    ],
+    "with": [
+      63,
+      71,
+      150
+    ],
+    "number": [
+      65,
+      73
+    ],
+    "graph": [
+      67
+    ],
+    "vertices": [
+      68
+    ],
+    "logarithmically": [
+      70
+    ],
+    "edge": [
+      75
+    ],
+    "units.": [
+      76
+    ],
+    "We": [
+      77,
+      123
+    ],
+    "discover": [
+      79
+    ],
+    "function": [
+      91
+    ],
+    "network": [
+      93,
+      106
+    ],
+    "utilization": [
+      94
+    ],
+    "monotonic,": [
+      97
+    ],
+    "as": [
+      98
+    ],
+    "peak": [
+      99
+    ],
+    "at": [
+      103
+    ],
+    "approximately": [
+      104,
+      144
+    ],
+    "0.25": [
+      105
+    ],
+    "utilization.": [
+      107
+    ],
+    "Additionally,": [
+      108
+    ],
+    "provide": [
+      110
+    ],
+    "an": [
+      111
+    ],
+    "independent": [
+      112
+    ],
+    "open": [
+      113
+    ],
+    "source": [
+      114
+    ],
+    "implementation": [
+      115
+    ],
+    "Python": [
+      121
+    ],
+    "language.": [
+      122
+    ],
+    "confirm": [
+      124
+    ],
+    "correctness": [
+      126
+    ],
+    "superior": [
+      132
+    ],
+    "performance.": [
+      133
+    ],
+    "comparison": [
+      135
+    ],
+    "Filtered": [
+      138
+    ],
+    "Graphs": [
+      139
+    ],
+    "algorithm,": [
+      140
+    ],
+    "2.3": [
+      145
+    ],
+    "times": [
+      146
+    ],
+    "faster": [
+      147
+    ],
+    "25": [
+      151
+    ],
+    "500": [
+      153
+    ],
+    "nodes,": [
+      154
+    ],
+    "90%": [
+      157
+    ],
+    "calls": [
+      159
+    ],
+    "computation": [
+      161
+    ],
+    "takes": [
+      162
+    ],
+    "less": [
+      163
+    ],
+    "time.": [
+      164
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

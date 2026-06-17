@@ -1,0 +1,784 @@
+{
+  "id": "https://openalex.org/W4396696890",
+  "doi": "https://doi.org/10.20944/preprints202404.1984.v1",
+  "title": "Open Source SDN Controllers – Operational and Security Issues",
+  "display_name": "Open Source SDN Controllers – Operational and Security Issues",
+  "publication_year": 2024,
+  "publication_date": "2024-04-30",
+  "ids": {
+    "openalex": "https://openalex.org/W4396696890",
+    "doi": "https://doi.org/10.20944/preprints202404.1984.v1"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.20944/preprints202404.1984.v1",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.20944/preprints202404.1984.v1",
+    "pdf_url": "https://www.preprints.org/frontend/manuscript/d3b76a1342704a6330f3cfaa716db4c9/download_pub",
+    "source": {
+      "id": "https://openalex.org/S6309402219",
+      "display_name": "Preprints.org",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.preprints.org/frontend/manuscript/d3b76a1342704a6330f3cfaa716db4c9/download_pub",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5096742161",
+        "display_name": "Aleksandra Mardaus",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Mardaus",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow",
+          "institution_ids": [
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Edyta Biernacka",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow",
+          "institution_ids": [
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018395274",
+        "display_name": "Robert Wójcik",
+        "orcid": "https://orcid.org/0000-0002-9562-606X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Wójcik",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow",
+          "institution_ids": [
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jerzy Domżał",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8379-2810",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow",
+          "institution_ids": [
+            "https://openalex.org/I686019",
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5052160429"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746",
+    "https://openalex.org/I686019"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10714",
+    "display_name": "Software-Defined Networks and 5G",
+    "score": 0.9832000136375427,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10714",
+      "display_name": "Software-Defined Networks and 5G",
+      "score": 0.9832000136375427,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13983",
+      "display_name": "Cybersecurity and Information Systems",
+      "score": 0.9753999710083008,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/open-source",
+      "display_name": "Open source",
+      "score": 0.7359288334846497
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5848140716552734
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-security",
+      "display_name": "Computer security",
+      "score": 0.5597149729728699
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.13351193070411682
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C3018397939",
+      "wikidata": "https://www.wikidata.org/wiki/Q3644502",
+      "display_name": "Open source",
+      "level": 3,
+      "score": 0.7359288334846497
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5848140716552734
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.5597149729728699
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.13351193070411682
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.20944/preprints202404.1984.v1",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.20944/preprints202404.1984.v1",
+      "pdf_url": "https://www.preprints.org/frontend/manuscript/d3b76a1342704a6330f3cfaa716db4c9/download_pub",
+      "source": {
+        "id": "https://openalex.org/S6309402219",
+        "display_name": "Preprints.org",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.20944/preprints202404.1984.v1",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.20944/preprints202404.1984.v1",
+    "pdf_url": "https://www.preprints.org/frontend/manuscript/d3b76a1342704a6330f3cfaa716db4c9/download_pub",
+    "source": {
+      "id": "https://openalex.org/S6309402219",
+      "display_name": "Preprints.org",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4396696890.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4396696890.grobid-xml"
+  },
+  "referenced_works_count": 7,
+  "referenced_works": [
+    "https://openalex.org/W2218519206",
+    "https://openalex.org/W2434182820",
+    "https://openalex.org/W2501822230",
+    "https://openalex.org/W2808476116",
+    "https://openalex.org/W4287574065",
+    "https://openalex.org/W4293526638",
+    "https://openalex.org/W4361022247"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W4396696052",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W4395014643",
+    "https://openalex.org/W4391913857"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      11,
+      59,
+      91
+    ],
+    "Software-Defined": [
+      1
+    ],
+    "Networking": [
+      2
+    ],
+    "concept": [
+      3
+    ],
+    "plays": [
+      4
+    ],
+    "an": [
+      5,
+      94
+    ],
+    "important": [
+      6
+    ],
+    "role": [
+      7
+    ],
+    "in": [
+      8,
+      29
+    ],
+    "network": [
+      9,
+      78
+    ],
+    "management.": [
+      10
+    ],
+    "central": [
+      12
+    ],
+    "controller,": [
+      13
+    ],
+    "which": [
+      14
+    ],
+    "is": [
+      15
+    ],
+    "the": [
+      16,
+      56,
+      72,
+      76,
+      97
+    ],
+    "main": [
+      17
+    ],
+    "element": [
+      18
+    ],
+    "of": [
+      19,
+      46,
+      61,
+      96
+    ],
+    "SDN,": [
+      20
+    ],
+    "allows": [
+      21
+    ],
+    "to": [
+      22
+    ],
+    "provide": [
+      23
+    ],
+    "traffic": [
+      24
+    ],
+    "engineering": [
+      25
+    ],
+    "and": [
+      26,
+      31,
+      50,
+      65,
+      103,
+      109
+    ],
+    "security": [
+      27,
+      82
+    ],
+    "solutions": [
+      28
+    ],
+    "single": [
+      30
+    ],
+    "multiple-layer": [
+      32
+    ],
+    "networks": [
+      33
+    ],
+    "based": [
+      34
+    ],
+    "on": [
+      35
+    ],
+    "optical": [
+      36
+    ],
+    "transmission.": [
+      37
+    ],
+    "In": [
+      38
+    ],
+    "this": [
+      39
+    ],
+    "work,": [
+      40
+    ],
+    "we": [
+      41
+    ],
+    "compare": [
+      42
+    ],
+    "selected": [
+      43,
+      98
+    ],
+    "open-source": [
+      44
+    ],
+    "implementations": [
+      45
+    ],
+    "SDN": [
+      47
+    ],
+    "controllers.": [
+      48
+    ],
+    "Throughput": [
+      49
+    ],
+    "latency": [
+      51
+    ],
+    "measurements": [
+      52
+    ],
+    "were": [
+      53,
+      69
+    ],
+    "analyzed": [
+      54
+    ],
+    "using": [
+      55,
+      71
+    ],
+    "CBench": [
+      57
+    ],
+    "program.": [
+      58
+    ],
+    "simulation": [
+      60
+    ],
+    "a": [
+      62,
+      66,
+      84
+    ],
+    "link": [
+      63
+    ],
+    "failure": [
+      64,
+      68
+    ],
+    "controller": [
+      67
+    ],
+    "conducted": [
+      70
+    ],
+    "API": [
+      73
+    ],
+    "provided": [
+      74
+    ],
+    "by": [
+      75
+    ],
+    "Mininet": [
+      77
+    ],
+    "simulator.": [
+      79
+    ],
+    "For": [
+      80
+    ],
+    "detecting": [
+      81
+    ],
+    "vulnerabilities,": [
+      83
+    ],
+    "dedicated": [
+      85
+    ],
+    "program,": [
+      86
+    ],
+    "called": [
+      87
+    ],
+    "sdnpwn,": [
+      88
+    ],
+    "was": [
+      89
+    ],
+    "used.": [
+      90
+    ],
+    "work": [
+      92
+    ],
+    "provides": [
+      93
+    ],
+    "overview": [
+      95
+    ],
+    "controllers,": [
+      99
+    ],
+    "indicating": [
+      100
+    ],
+    "their": [
+      101
+    ],
+    "strengths": [
+      102
+    ],
+    "weaknesses.": [
+      104
+    ],
+    "Moreover,": [
+      105
+    ],
+    "some": [
+      106
+    ],
+    "implemention": [
+      107
+    ],
+    "suggestions": [
+      108
+    ],
+    "recommendations": [
+      110
+    ],
+    "are": [
+      111
+    ],
+    "presented.": [
+      112
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

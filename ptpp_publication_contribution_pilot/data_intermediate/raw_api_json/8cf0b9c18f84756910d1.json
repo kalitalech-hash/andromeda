@@ -1,0 +1,861 @@
+{
+  "id": "https://openalex.org/W2965868589",
+  "doi": "https://doi.org/10.1016/j.comcom.2019.07.017",
+  "title": "Elastic optical bypasses for traffic bursts",
+  "display_name": "Elastic optical bypasses for traffic bursts",
+  "publication_year": 2019,
+  "publication_date": "2019-08-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2965868589",
+    "doi": "https://doi.org/10.1016/j.comcom.2019.07.017",
+    "mag": "2965868589"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.comcom.2019.07.017",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.comcom.2019.07.017",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S115004586",
+      "display_name": "Computer Communications",
+      "issn_l": "0140-3664",
+      "issn": [
+        "0140-3664",
+        "1873-703X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computer Communications",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.comcom.2019.07.017",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5032596656",
+        "display_name": "Edyta Biernacka",
+        "orcid": "https://orcid.org/0000-0002-6501-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Edyta Biernacka",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041283809",
+        "display_name": "Piotr Boryło",
+        "orcid": "https://orcid.org/0000-0001-8973-0672"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Boryło",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018395274",
+        "display_name": "Robert Wójcik",
+        "orcid": "https://orcid.org/0000-0002-9562-606X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Wójcik",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5052160429",
+        "display_name": "Jerzy Domżał",
+        "orcid": "https://orcid.org/0000-0002-8379-2810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jerzy Domżał",
+      "raw_affiliation_strings": [
+        "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5032596656"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I686019"
+  ],
+  "apc_list": {
+    "value": 2300,
+    "currency": "USD",
+    "value_usd": 2300
+  },
+  "apc_paid": {
+    "value": 2300,
+    "currency": "USD",
+    "value_usd": 2300
+  },
+  "fwci": 0.121,
+  "has_fulltext": false,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.46248956,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "146",
+    "issue": null,
+    "first_page": "95",
+    "last_page": "102"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10847",
+    "display_name": "Advanced Optical Network Technologies",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10847",
+      "display_name": "Advanced Optical Network Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10232",
+      "display_name": "Optical Network Technologies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10767",
+      "display_name": "Advanced Photonic Communication Systems",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8713454604148865
+    },
+    {
+      "id": "https://openalex.org/keywords/blocking",
+      "display_name": "Blocking (statistics)",
+      "score": 0.7269763946533203
+    },
+    {
+      "id": "https://openalex.org/keywords/bandwidth",
+      "display_name": "Bandwidth (computing)",
+      "score": 0.6571730375289917
+    },
+    {
+      "id": "https://openalex.org/keywords/path",
+      "display_name": "Path (computing)",
+      "score": 0.4979677200317383
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.48880383372306824
+    },
+    {
+      "id": "https://openalex.org/keywords/optical-path",
+      "display_name": "Optical path",
+      "score": 0.42890721559524536
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-network",
+      "display_name": "Computer network",
+      "score": 0.4084484279155731
+    },
+    {
+      "id": "https://openalex.org/keywords/optics",
+      "display_name": "Optics",
+      "score": 0.11413964629173279
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8713454604148865
+    },
+    {
+      "id": "https://openalex.org/C144745244",
+      "wikidata": "https://www.wikidata.org/wiki/Q4927286",
+      "display_name": "Blocking (statistics)",
+      "level": 2,
+      "score": 0.7269763946533203
+    },
+    {
+      "id": "https://openalex.org/C2776257435",
+      "wikidata": "https://www.wikidata.org/wiki/Q1576430",
+      "display_name": "Bandwidth (computing)",
+      "level": 2,
+      "score": 0.6571730375289917
+    },
+    {
+      "id": "https://openalex.org/C2777735758",
+      "wikidata": "https://www.wikidata.org/wiki/Q817765",
+      "display_name": "Path (computing)",
+      "level": 2,
+      "score": 0.4979677200317383
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.48880383372306824
+    },
+    {
+      "id": "https://openalex.org/C31872934",
+      "wikidata": "https://www.wikidata.org/wiki/Q1417028",
+      "display_name": "Optical path",
+      "level": 2,
+      "score": 0.42890721559524536
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.4084484279155731
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": 0.11413964629173279
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.comcom.2019.07.017",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.comcom.2019.07.017",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S115004586",
+        "display_name": "Computer Communications",
+        "issn_l": "0140-3664",
+        "issn": [
+          "0140-3664",
+          "1873-703X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computer Communications",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.comcom.2019.07.017",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.comcom.2019.07.017",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S115004586",
+      "display_name": "Computer Communications",
+      "issn_l": "0140-3664",
+      "issn": [
+        "0140-3664",
+        "1873-703X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computer Communications",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G326448477",
+      "display_name": null,
+      "funder_award_id": "2017/25/B/ST6/02186",
+      "funder_id": "https://openalex.org/F4320322650",
+      "funder_display_name": "Narodowym Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322650",
+      "display_name": "Narodowym Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320324664",
+      "display_name": "Akademia Górniczo-Hutnicza im. Stanislawa Staszica",
+      "ror": "https://ror.org/00bas1c41"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 34,
+  "referenced_works": [
+    "https://openalex.org/W1208503073",
+    "https://openalex.org/W1943936177",
+    "https://openalex.org/W1973457482",
+    "https://openalex.org/W1978821951",
+    "https://openalex.org/W2000215674",
+    "https://openalex.org/W2006542310",
+    "https://openalex.org/W2017885226",
+    "https://openalex.org/W2020629400",
+    "https://openalex.org/W2028521869",
+    "https://openalex.org/W2051506051",
+    "https://openalex.org/W2089387193",
+    "https://openalex.org/W2094774324",
+    "https://openalex.org/W2116917711",
+    "https://openalex.org/W2131399112",
+    "https://openalex.org/W2133768407",
+    "https://openalex.org/W2138412547",
+    "https://openalex.org/W2148523205",
+    "https://openalex.org/W2319448133",
+    "https://openalex.org/W2423726436",
+    "https://openalex.org/W2463749688",
+    "https://openalex.org/W2517406540",
+    "https://openalex.org/W2546557987",
+    "https://openalex.org/W2547531959",
+    "https://openalex.org/W2567573007",
+    "https://openalex.org/W2572079788",
+    "https://openalex.org/W2603496711",
+    "https://openalex.org/W2735302922",
+    "https://openalex.org/W2751101781",
+    "https://openalex.org/W2767306859",
+    "https://openalex.org/W2792272376",
+    "https://openalex.org/W2792595997",
+    "https://openalex.org/W2797583973",
+    "https://openalex.org/W2922943117",
+    "https://openalex.org/W6699621852"
+  ],
+  "related_works": [
+    "https://openalex.org/W2392835431",
+    "https://openalex.org/W2126932387",
+    "https://openalex.org/W1965371215",
+    "https://openalex.org/W2353762239",
+    "https://openalex.org/W66314852",
+    "https://openalex.org/W2185938410",
+    "https://openalex.org/W2484966135",
+    "https://openalex.org/W2015050211",
+    "https://openalex.org/W2108990487",
+    "https://openalex.org/W2353899468"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "this": [
+      1
+    ],
+    "paper,": [
+      2
+    ],
+    "we": [
+      3
+    ],
+    "introduce": [
+      4
+    ],
+    "elastic": [
+      5
+    ],
+    "optical": [
+      6,
+      50
+    ],
+    "bypasses": [
+      7,
+      51
+    ],
+    "to": [
+      8,
+      89
+    ],
+    "offload": [
+      9
+    ],
+    "traffic": [
+      10
+    ],
+    "bursts": [
+      11
+    ],
+    "in": [
+      12,
+      61,
+      68,
+      87
+    ],
+    "Elastic": [
+      13
+    ],
+    "Optical": [
+      14
+    ],
+    "Networks.": [
+      15
+    ],
+    "Firstly,": [
+      16
+    ],
+    "the": [
+      17,
+      20,
+      26,
+      32,
+      56,
+      74,
+      83,
+      90,
+      94,
+      101
+    ],
+    "principles": [
+      18
+    ],
+    "of": [
+      19,
+      46,
+      70,
+      77
+    ],
+    "proposed": [
+      21,
+      38,
+      95
+    ],
+    "mechanisms": [
+      22,
+      96
+    ],
+    "are": [
+      23,
+      59,
+      97
+    ],
+    "explained.": [
+      24
+    ],
+    "Secondly,": [
+      25
+    ],
+    "most": [
+      27
+    ],
+    "spectral": [
+      28
+    ],
+    "efficient": [
+      29
+    ],
+    "path": [
+      30
+    ],
+    "with": [
+      31,
+      100
+    ],
+    "largest": [
+      33
+    ],
+    "slices": [
+      34
+    ],
+    "first": [
+      35
+    ],
+    "method": [
+      36
+    ],
+    "is": [
+      37
+    ],
+    "as": [
+      39
+    ],
+    "a": [
+      40
+    ],
+    "bypass-path": [
+      41
+    ],
+    "selection": [
+      42
+    ],
+    "policy.": [
+      43
+    ],
+    "Various": [
+      44
+    ],
+    "proportions": [
+      45
+    ],
+    "resources": [
+      47
+    ],
+    "reserved": [
+      48
+    ],
+    "for": [
+      49,
+      55
+    ],
+    "and": [
+      52,
+      82
+    ],
+    "those": [
+      53
+    ],
+    "available": [
+      54
+    ],
+    "IP": [
+      57
+    ],
+    "layer": [
+      58
+    ],
+    "considered": [
+      60
+    ],
+    "consecutive": [
+      62
+    ],
+    "experiments.": [
+      63
+    ],
+    "Simulation": [
+      64
+    ],
+    "results": [
+      65
+    ],
+    "indicate": [
+      66
+    ],
+    "improvements": [
+      67
+    ],
+    "terms": [
+      69
+    ],
+    "bandwidth": [
+      71
+    ],
+    "blocking": [
+      72
+    ],
+    "probability,": [
+      73
+    ],
+    "average": [
+      75
+    ],
+    "number": [
+      76
+    ],
+    "hops": [
+      78
+    ],
+    "per": [
+      79
+    ],
+    "accepted": [
+      80
+    ],
+    "demand,": [
+      81
+    ],
+    "overall": [
+      84
+    ],
+    "spectrum": [
+      85
+    ],
+    "occupation": [
+      86
+    ],
+    "comparison": [
+      88
+    ],
+    "reference": [
+      91
+    ],
+    "approach.": [
+      92
+    ],
+    "All": [
+      93
+    ],
+    "fully": [
+      98
+    ],
+    "compatible": [
+      99
+    ],
+    "Software-Defined": [
+      102
+    ],
+    "Networking": [
+      103
+    ],
+    "concept.": [
+      104
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-04-09T08:11:56.329763",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1318 @@
+{
+  "id": "https://openalex.org/W4390543621",
+  "doi": "https://doi.org/10.3390/en17010249",
+  "title": "Electric Vehicles—An Overview of Current Issues—Part 1—Environmental Impact, Source of Energy, Recycling, and Second Life of Battery",
+  "display_name": "Electric Vehicles—An Overview of Current Issues—Part 1—Environmental Impact, Source of Energy, Recycling, and Second Life of Battery",
+  "publication_year": 2024,
+  "publication_date": "2024-01-03",
+  "ids": {
+    "openalex": "https://openalex.org/W4390543621",
+    "doi": "https://doi.org/10.3390/en17010249"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/en17010249",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/en17010249",
+    "pdf_url": "https://www.mdpi.com/1996-1073/17/1/249/pdf?version=1704269192",
+    "source": {
+      "id": "https://openalex.org/S198098182",
+      "display_name": "Energies",
+      "issn_l": "1996-1073",
+      "issn": [
+        "1996-1073"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Energies",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1996-1073/17/1/249/pdf?version=1704269192",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5053780471",
+        "display_name": "Marek Guzek",
+        "orcid": "https://orcid.org/0000-0001-9871-2230"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Guzek",
+      "raw_affiliation_strings": [
+        "Faculty of Transport, Warsaw University of Technology, Koszykowa 75, 00-662 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9871-2230",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Transport, Warsaw University of Technology, Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068150902",
+        "display_name": "Jerzy Jackowski",
+        "orcid": "https://orcid.org/0000-0002-5787-1451"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800249161",
+          "display_name": "Military University of Technology in Warsaw",
+          "ror": "https://ror.org/05fct5h31",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jerzy Jackowski",
+      "raw_affiliation_strings": [
+        "Department of Mechanical Engineering, Institute of Vehicles and Transportation, Military University of Technology (WAT), Street gen. Sylwestra Kaliskiego 2, 00-908 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5787-1451",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mechanical Engineering, Institute of Vehicles and Transportation, Military University of Technology (WAT), Street gen. Sylwestra Kaliskiego 2, 00-908 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002007563",
+        "display_name": "Rafał Jurecki",
+        "orcid": "https://orcid.org/0000-0003-0105-1283"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169109204",
+          "display_name": "Kielce University of Technology",
+          "ror": "https://ror.org/01zywja13",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169109204"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rafał S. Jurecki",
+      "raw_affiliation_strings": [
+        "Department of Automotive Engineering and Transport, Faculty of Mechatronics and Mechanical Engineering, Kielce University of Technology, Ave. Tysiąclecia Państwa Polskiego 7, 25-314 Kielce, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0105-1283",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Automotive Engineering and Transport, Faculty of Mechatronics and Mechanical Engineering, Kielce University of Technology, Ave. Tysiąclecia Państwa Polskiego 7, 25-314 Kielce, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169109204"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003160815",
+        "display_name": "Emilia Szumska",
+        "orcid": "https://orcid.org/0000-0001-6024-6748"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169109204",
+          "display_name": "Kielce University of Technology",
+          "ror": "https://ror.org/01zywja13",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169109204"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emilia M. Szumska",
+      "raw_affiliation_strings": [
+        "Department of Automotive Engineering and Transport, Faculty of Mechatronics and Mechanical Engineering, Kielce University of Technology, Ave. Tysiąclecia Państwa Polskiego 7, 25-314 Kielce, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6024-6748",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Automotive Engineering and Transport, Faculty of Mechatronics and Mechanical Engineering, Kielce University of Technology, Ave. Tysiąclecia Państwa Polskiego 7, 25-314 Kielce, Poland",
+          "institution_ids": [
+            "https://openalex.org/I169109204"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035095453",
+        "display_name": "P. Zdanowicz",
+        "orcid": "https://orcid.org/0000-0003-0542-3662"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I108403487",
+          "display_name": "Warsaw University of Technology",
+          "ror": "https://ror.org/00y0xnp53",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Piotr Zdanowicz",
+      "raw_affiliation_strings": [
+        "Faculty of Transport, Warsaw University of Technology, Koszykowa 75, 00-662 Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Transport, Warsaw University of Technology, Koszykowa 75, 00-662 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I108403487"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5071609654",
+        "display_name": "Marcin Żmuda",
+        "orcid": "https://orcid.org/0000-0002-4990-6378"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800249161",
+          "display_name": "Military University of Technology in Warsaw",
+          "ror": "https://ror.org/05fct5h31",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Żmuda",
+      "raw_affiliation_strings": [
+        "Department of Mechanical Engineering, Institute of Vehicles and Transportation, Military University of Technology (WAT), Street gen. Sylwestra Kaliskiego 2, 00-908 Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4990-6378",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mechanical Engineering, Institute of Vehicles and Transportation, Military University of Technology (WAT), Street gen. Sylwestra Kaliskiego 2, 00-908 Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5002007563"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I169109204"
+  ],
+  "apc_list": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "apc_paid": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "fwci": 8.1375,
+  "has_fulltext": true,
+  "cited_by_count": 44,
+  "citation_normalized_percentile": {
+    "value": 0.98098025,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "17",
+    "issue": "1",
+    "first_page": "249",
+    "last_page": "249"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10768",
+    "display_name": "Electric Vehicles and Infrastructure",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2208",
+      "display_name": "Electrical and Electronic Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10768",
+      "display_name": "Electric Vehicles and Infrastructure",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10663",
+      "display_name": "Advanced Battery Technologies Research",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2203",
+        "display_name": "Automotive Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11091",
+      "display_name": "Extraction and Separation Processes",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/environmentally-friendly",
+      "display_name": "Environmentally friendly",
+      "score": 0.6707714796066284
+    },
+    {
+      "id": "https://openalex.org/keywords/battery",
+      "display_name": "Battery (electricity)",
+      "score": 0.6440108418464661
+    },
+    {
+      "id": "https://openalex.org/keywords/automotive-industry",
+      "display_name": "Automotive industry",
+      "score": 0.5969322919845581
+    },
+    {
+      "id": "https://openalex.org/keywords/life-cycle-assessment",
+      "display_name": "Life-cycle assessment",
+      "score": 0.583071231842041
+    },
+    {
+      "id": "https://openalex.org/keywords/electric-vehicle",
+      "display_name": "Electric vehicle",
+      "score": 0.5064040422439575
+    },
+    {
+      "id": "https://openalex.org/keywords/green-vehicle",
+      "display_name": "Green vehicle",
+      "score": 0.4862874448299408
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.47753942012786865
+    },
+    {
+      "id": "https://openalex.org/keywords/battery-electric-vehicle",
+      "display_name": "Battery electric vehicle",
+      "score": 0.4717099368572235
+    },
+    {
+      "id": "https://openalex.org/keywords/strengths-and-weaknesses",
+      "display_name": "Strengths and weaknesses",
+      "score": 0.42732158303260803
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-economics",
+      "display_name": "Environmental economics",
+      "score": 0.4215778708457947
+    },
+    {
+      "id": "https://openalex.org/keywords/electric-cars",
+      "display_name": "Electric cars",
+      "score": 0.4184836149215698
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.4102114140987396
+    },
+    {
+      "id": "https://openalex.org/keywords/automotive-engineering",
+      "display_name": "Automotive engineering",
+      "score": 0.3696401119232178
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.2248046100139618
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.12692639231681824
+    },
+    {
+      "id": "https://openalex.org/keywords/production",
+      "display_name": "Production (economics)",
+      "score": 0.11590039730072021
+    },
+    {
+      "id": "https://openalex.org/keywords/fuel-efficiency",
+      "display_name": "Fuel efficiency",
+      "score": 0.08064472675323486
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C171534860",
+      "wikidata": "https://www.wikidata.org/wiki/Q655870",
+      "display_name": "Environmentally friendly",
+      "level": 2,
+      "score": 0.6707714796066284
+    },
+    {
+      "id": "https://openalex.org/C555008776",
+      "wikidata": "https://www.wikidata.org/wiki/Q267298",
+      "display_name": "Battery (electricity)",
+      "level": 3,
+      "score": 0.6440108418464661
+    },
+    {
+      "id": "https://openalex.org/C526921623",
+      "wikidata": "https://www.wikidata.org/wiki/Q190117",
+      "display_name": "Automotive industry",
+      "level": 2,
+      "score": 0.5969322919845581
+    },
+    {
+      "id": "https://openalex.org/C2778706760",
+      "wikidata": "https://www.wikidata.org/wiki/Q581950",
+      "display_name": "Life-cycle assessment",
+      "level": 3,
+      "score": 0.583071231842041
+    },
+    {
+      "id": "https://openalex.org/C2776422217",
+      "wikidata": "https://www.wikidata.org/wiki/Q13629441",
+      "display_name": "Electric vehicle",
+      "level": 3,
+      "score": 0.5064040422439575
+    },
+    {
+      "id": "https://openalex.org/C113655042",
+      "wikidata": "https://www.wikidata.org/wiki/Q387420",
+      "display_name": "Green vehicle",
+      "level": 3,
+      "score": 0.4862874448299408
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.47753942012786865
+    },
+    {
+      "id": "https://openalex.org/C110069716",
+      "wikidata": "https://www.wikidata.org/wiki/Q1076882",
+      "display_name": "Battery electric vehicle",
+      "level": 4,
+      "score": 0.4717099368572235
+    },
+    {
+      "id": "https://openalex.org/C63882131",
+      "wikidata": "https://www.wikidata.org/wiki/Q17122954",
+      "display_name": "Strengths and weaknesses",
+      "level": 2,
+      "score": 0.42732158303260803
+    },
+    {
+      "id": "https://openalex.org/C134560507",
+      "wikidata": "https://www.wikidata.org/wiki/Q753291",
+      "display_name": "Environmental economics",
+      "level": 1,
+      "score": 0.4215778708457947
+    },
+    {
+      "id": "https://openalex.org/C2987494969",
+      "wikidata": "https://www.wikidata.org/wiki/Q193692",
+      "display_name": "Electric cars",
+      "level": 2,
+      "score": 0.4184836149215698
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.4102114140987396
+    },
+    {
+      "id": "https://openalex.org/C171146098",
+      "wikidata": "https://www.wikidata.org/wiki/Q124192",
+      "display_name": "Automotive engineering",
+      "level": 1,
+      "score": 0.3696401119232178
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.2248046100139618
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.12692639231681824
+    },
+    {
+      "id": "https://openalex.org/C2778348673",
+      "wikidata": "https://www.wikidata.org/wiki/Q739302",
+      "display_name": "Production (economics)",
+      "level": 2,
+      "score": 0.11590039730072021
+    },
+    {
+      "id": "https://openalex.org/C45882903",
+      "wikidata": "https://www.wikidata.org/wiki/Q5042317",
+      "display_name": "Fuel efficiency",
+      "level": 2,
+      "score": 0.08064472675323486
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3390/en17010249",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/en17010249",
+      "pdf_url": "https://www.mdpi.com/1996-1073/17/1/249/pdf?version=1704269192",
+      "source": {
+        "id": "https://openalex.org/S198098182",
+        "display_name": "Energies",
+        "issn_l": "1996-1073",
+        "issn": [
+          "1996-1073"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Energies",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:RePEc:gam:jeners:v:17:y:2024:i:1:p:249-:d:1312450",
+      "is_oa": false,
+      "landing_page_url": "https://www.mdpi.com/1996-1073/17/1/249/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:fe6f70d08ae14a6298af195fbd407ac5",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/fe6f70d08ae14a6298af195fbd407ac5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Energies, Vol 17, Iss 1, p 249 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/en17010249",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/en17010249",
+    "pdf_url": "https://www.mdpi.com/1996-1073/17/1/249/pdf?version=1704269192",
+    "source": {
+      "id": "https://openalex.org/S198098182",
+      "display_name": "Energies",
+      "issn_l": "1996-1073",
+      "issn": [
+        "1996-1073"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Energies",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Responsible consumption and production",
+      "id": "https://metadata.un.org/sdg/12",
+      "score": 0.6200000047683716
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4390543621.pdf"
+  },
+  "referenced_works_count": 81,
+  "referenced_works": [
+    "https://openalex.org/W406925390",
+    "https://openalex.org/W1799881147",
+    "https://openalex.org/W1964709673",
+    "https://openalex.org/W1971833599",
+    "https://openalex.org/W1986491220",
+    "https://openalex.org/W1992338817",
+    "https://openalex.org/W1994290640",
+    "https://openalex.org/W2012453053",
+    "https://openalex.org/W2016193349",
+    "https://openalex.org/W2016410633",
+    "https://openalex.org/W2018837627",
+    "https://openalex.org/W2022787428",
+    "https://openalex.org/W2037896980",
+    "https://openalex.org/W2039665331",
+    "https://openalex.org/W2055200322",
+    "https://openalex.org/W2148665349",
+    "https://openalex.org/W2154190034",
+    "https://openalex.org/W2167885723",
+    "https://openalex.org/W2195301797",
+    "https://openalex.org/W2280507522",
+    "https://openalex.org/W2297007800",
+    "https://openalex.org/W2334999531",
+    "https://openalex.org/W2575375267",
+    "https://openalex.org/W2589492559",
+    "https://openalex.org/W2611906195",
+    "https://openalex.org/W2615807977",
+    "https://openalex.org/W2620621123",
+    "https://openalex.org/W2752994964",
+    "https://openalex.org/W2768273466",
+    "https://openalex.org/W2769882561",
+    "https://openalex.org/W2808256370",
+    "https://openalex.org/W2808509974",
+    "https://openalex.org/W2892782630",
+    "https://openalex.org/W2898966420",
+    "https://openalex.org/W2900955451",
+    "https://openalex.org/W2908424135",
+    "https://openalex.org/W2923987826",
+    "https://openalex.org/W2939956414",
+    "https://openalex.org/W2950893532",
+    "https://openalex.org/W2970454660",
+    "https://openalex.org/W2995577467",
+    "https://openalex.org/W3026299053",
+    "https://openalex.org/W3036757788",
+    "https://openalex.org/W3049718214",
+    "https://openalex.org/W3092419738",
+    "https://openalex.org/W3112167541",
+    "https://openalex.org/W3120863097",
+    "https://openalex.org/W3120925140",
+    "https://openalex.org/W3139378869",
+    "https://openalex.org/W3153837359",
+    "https://openalex.org/W3158288444",
+    "https://openalex.org/W3168538394",
+    "https://openalex.org/W3180300883",
+    "https://openalex.org/W3196575096",
+    "https://openalex.org/W3197368638",
+    "https://openalex.org/W3199907927",
+    "https://openalex.org/W3207642836",
+    "https://openalex.org/W4206432567",
+    "https://openalex.org/W4210265492",
+    "https://openalex.org/W4212963387",
+    "https://openalex.org/W4212996560",
+    "https://openalex.org/W4220753928",
+    "https://openalex.org/W4220757190",
+    "https://openalex.org/W4224300992",
+    "https://openalex.org/W4234690093",
+    "https://openalex.org/W4237301400",
+    "https://openalex.org/W4281260932",
+    "https://openalex.org/W4287859443",
+    "https://openalex.org/W4295981428",
+    "https://openalex.org/W4296906430",
+    "https://openalex.org/W4302291019",
+    "https://openalex.org/W4303613923",
+    "https://openalex.org/W4312127477",
+    "https://openalex.org/W4316590941",
+    "https://openalex.org/W4317512990",
+    "https://openalex.org/W4319337724",
+    "https://openalex.org/W4322721977",
+    "https://openalex.org/W4376627366",
+    "https://openalex.org/W4376875487",
+    "https://openalex.org/W4380742535",
+    "https://openalex.org/W4384562391"
+  ],
+  "related_works": [
+    "https://openalex.org/W4323784842",
+    "https://openalex.org/W4362506937",
+    "https://openalex.org/W2624198828",
+    "https://openalex.org/W2976993675",
+    "https://openalex.org/W1965875496",
+    "https://openalex.org/W2054919983",
+    "https://openalex.org/W2792429433",
+    "https://openalex.org/W4230456877",
+    "https://openalex.org/W2032434715",
+    "https://openalex.org/W3109041341"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      86,
+      134
+    ],
+    "rapid": [
+      1
+    ],
+    "transition": [
+      2
+    ],
+    "to": [
+      3,
+      16,
+      19,
+      48,
+      77,
+      83,
+      94,
+      110,
+      115,
+      168
+    ],
+    "electric-drive": [
+      4
+    ],
+    "vehicles": [
+      5,
+      58,
+      73
+    ],
+    "is": [
+      6,
+      34,
+      38,
+      119,
+      165
+    ],
+    "taking": [
+      7
+    ],
+    "place": [
+      8
+    ],
+    "globally.": [
+      9
+    ],
+    "Most": [
+      10
+    ],
+    "automakers": [
+      11
+    ],
+    "are": [
+      12,
+      46,
+      75,
+      108
+    ],
+    "adding": [
+      13
+    ],
+    "electric": [
+      14,
+      24,
+      72
+    ],
+    "models": [
+      15,
+      53
+    ],
+    "their": [
+      17,
+      99,
+      146
+    ],
+    "lineups": [
+      18
+    ],
+    "prepare": [
+      20
+    ],
+    "for": [
+      21,
+      50
+    ],
+    "the": [
+      22,
+      27,
+      30,
+      52,
+      65,
+      105,
+      120,
+      128,
+      137,
+      157
+    ],
+    "new": [
+      23
+    ],
+    "future.": [
+      25
+    ],
+    "From": [
+      26
+    ],
+    "analysis": [
+      28
+    ],
+    "of": [
+      29,
+      91,
+      98,
+      123,
+      132,
+      140,
+      145,
+      160
+    ],
+    "automotive": [
+      31
+    ],
+    "market,": [
+      32,
+      106
+    ],
+    "it": [
+      33
+    ],
+    "evident": [
+      35
+    ],
+    "that": [
+      36
+    ],
+    "there": [
+      37,
+      107
+    ],
+    "a": [
+      39,
+      95,
+      124
+    ],
+    "growing": [
+      40
+    ],
+    "interest": [
+      41
+    ],
+    "in": [
+      42,
+      64
+    ],
+    "such": [
+      43
+    ],
+    "vehicles.": [
+      44,
+      61,
+      85
+    ],
+    "They": [
+      45
+    ],
+    "expected": [
+      47
+    ],
+    "account": [
+      49
+    ],
+    "half": [
+      51
+    ],
+    "released": [
+      54
+    ],
+    "after": [
+      55
+    ],
+    "2030.": [
+      56
+    ],
+    "Electric-drive": [
+      57
+    ],
+    "include": [
+      59
+    ],
+    "battery-electric": [
+      60
+    ],
+    "As": [
+      62
+    ],
+    "indicated": [
+      63
+    ],
+    "research": [
+      66
+    ],
+    "literature": [
+      67
+    ],
+    "and": [
+      68,
+      89,
+      113,
+      130,
+      151,
+      155
+    ],
+    "emphasized": [
+      69
+    ],
+    "by": [
+      70
+    ],
+    "experts,": [
+      71
+    ],
+    "(EVs)": [
+      74
+    ],
+    "supposed": [
+      76
+    ],
+    "be": [
+      78,
+      111
+    ],
+    "an": [
+      79,
+      166
+    ],
+    "environmentally": [
+      80,
+      172
+    ],
+    "friendly": [
+      81,
+      173
+    ],
+    "alternative": [
+      82
+    ],
+    "conventional": [
+      84
+    ],
+    "rising": [
+      87
+    ],
+    "number": [
+      88
+    ],
+    "variety": [
+      90
+    ],
+    "EVs": [
+      92,
+      103,
+      141,
+      174
+    ],
+    "contribute": [
+      93
+    ],
+    "better": [
+      96
+    ],
+    "understanding": [
+      97
+    ],
+    "performance.": [
+      100
+    ],
+    "With": [
+      101
+    ],
+    "more": [
+      102
+    ],
+    "on": [
+      104
+    ],
+    "problems": [
+      109
+    ],
+    "solved": [
+      112
+    ],
+    "challenges": [
+      114
+    ],
+    "overcome.": [
+      116
+    ],
+    "This": [
+      117,
+      163
+    ],
+    "article": [
+      118,
+      135,
+      164
+    ],
+    "first": [
+      121
+    ],
+    "part": [
+      122
+    ],
+    "two-article": [
+      125
+    ],
+    "series": [
+      126
+    ],
+    "reviewing": [
+      127
+    ],
+    "strengths": [
+      129
+    ],
+    "weaknesses": [
+      131
+    ],
+    "EVs.": [
+      133
+    ],
+    "analyzes": [
+      136
+    ],
+    "environmental": [
+      138
+    ],
+    "effects": [
+      139
+    ],
+    "at": [
+      142
+    ],
+    "each": [
+      143
+    ],
+    "stage": [
+      144
+    ],
+    "life": [
+      147
+    ],
+    "cycle,": [
+      148
+    ],
+    "compares": [
+      149
+    ],
+    "large-": [
+      150
+    ],
+    "small-scale": [
+      152
+    ],
+    "recycling": [
+      153
+    ],
+    "methods,": [
+      154
+    ],
+    "explores": [
+      156
+    ],
+    "potential": [
+      158
+    ],
+    "applications": [
+      159
+    ],
+    "second-life": [
+      161
+    ],
+    "batteries.": [
+      162
+    ],
+    "attempt": [
+      167
+    ],
+    "find": [
+      169
+    ],
+    "out": [
+      170
+    ],
+    "how": [
+      171
+    ],
+    "are.": [
+      175
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 12
+    }
+  ],
+  "updated_date": "2026-06-13T07:54:00.901334",
+  "created_date": "2025-10-10T00:00:00"
+}

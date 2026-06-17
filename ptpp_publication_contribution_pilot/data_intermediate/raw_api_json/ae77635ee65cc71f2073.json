@@ -1,0 +1,615 @@
+{
+  "id": "https://openalex.org/W4317738305",
+  "doi": "https://doi.org/10.1007/978-3-031-23480-4_21",
+  "title": "Employee Turnover Prediction From Email Communication Analysis",
+  "display_name": "Employee Turnover Prediction From Email Communication Analysis",
+  "publication_year": 2023,
+  "publication_date": "2023-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4317738305",
+    "doi": "https://doi.org/10.1007/978-3-031-23480-4_21"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-031-23480-4_21",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-031-23480-4_21",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106296714",
+      "display_name": "Lecture notes in computer science",
+      "issn_l": "0302-9743",
+      "issn": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Lecture Notes in Computer Science",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5047316191",
+        "display_name": "Marcin Korytkowski",
+        "orcid": "https://orcid.org/0000-0002-6002-2733"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Korytkowski",
+      "raw_affiliation_strings": [
+        "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+        "Częstochowa University of Technology, Częstochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6002-2733",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Częstochowa University of Technology, Częstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057695150",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-1572-3426"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [
+        "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1572-3426",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036573895",
+        "display_name": "Rafał Scherer",
+        "orcid": "https://orcid.org/0000-0001-9592-262X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I130294970",
+          "display_name": "Częstochowa University of Technology",
+          "ror": "https://ror.org/046awyn59",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rafał Scherer",
+      "raw_affiliation_strings": [
+        "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+        "Częstochowa University of Technology, Częstochowa, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9592-262X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czestochowa University of Technology, al. Armii Krajowej 36, Czestochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Częstochowa University of Technology, Częstochowa, Poland",
+          "institution_ids": [
+            "https://openalex.org/I130294970"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037259439",
+        "display_name": "Anita Zbieg",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Anita Zbieg",
+      "raw_affiliation_strings": [
+        "Network Perspective Ltd., Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Network Perspective Ltd., Wroclaw, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071347051",
+        "display_name": "Błażej Żak",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Błażej Żak",
+      "raw_affiliation_strings": [
+        "Network Perspective Ltd., Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Network Perspective Ltd., Wroclaw, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050820798",
+        "display_name": "Gabriela Relikowska",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Gabriela Relikowska",
+      "raw_affiliation_strings": [
+        "Network Perspective Ltd., Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Network Perspective Ltd., Wroclaw, Poland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5037628637",
+        "display_name": "Paweł Mader",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Paweł Mader",
+      "raw_affiliation_strings": [
+        "Network Perspective Ltd., Wroclaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Network Perspective Ltd., Wroclaw, Poland",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5036573895"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I130294970"
+  ],
+  "apc_list": {
+    "value": 5000,
+    "currency": "EUR",
+    "value_usd": 5392
+  },
+  "apc_paid": null,
+  "fwci": 1.0556,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.64743369,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "252",
+    "last_page": "263"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11344",
+    "display_name": "Traffic Prediction and Management Techniques",
+    "score": 0.9984999895095825,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2215",
+      "display_name": "Building and Construction"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11344",
+      "display_name": "Traffic Prediction and Management Techniques",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11512",
+      "display_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9602000117301941,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10400",
+      "display_name": "Network Security and Intrusion Detection",
+      "score": 0.953000009059906,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/work",
+      "display_name": "Work (physics)",
+      "score": 0.7425763010978699
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7234384417533875
+    },
+    {
+      "id": "https://openalex.org/keywords/event",
+      "display_name": "Event (particle physics)",
+      "score": 0.5741821527481079
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.43321043252944946
+    },
+    {
+      "id": "https://openalex.org/keywords/turnover",
+      "display_name": "Turnover",
+      "score": 0.41494977474212646
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.38170990347862244
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.28963300585746765
+    },
+    {
+      "id": "https://openalex.org/keywords/management",
+      "display_name": "Management",
+      "score": 0.14968863129615784
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.08617457747459412
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.7425763010978699
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7234384417533875
+    },
+    {
+      "id": "https://openalex.org/C2779662365",
+      "wikidata": "https://www.wikidata.org/wiki/Q5416694",
+      "display_name": "Event (particle physics)",
+      "level": 2,
+      "score": 0.5741821527481079
+    },
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.43321043252944946
+    },
+    {
+      "id": "https://openalex.org/C26077564",
+      "wikidata": "https://www.wikidata.org/wiki/Q1910318",
+      "display_name": "Turnover",
+      "level": 2,
+      "score": 0.41494977474212646
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.38170990347862244
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.28963300585746765
+    },
+    {
+      "id": "https://openalex.org/C187736073",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+      "display_name": "Management",
+      "level": 1,
+      "score": 0.14968863129615784
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.08617457747459412
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-031-23480-4_21",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-031-23480-4_21",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106296714",
+        "display_name": "Lecture notes in computer science",
+        "issn_l": "0302-9743",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Lecture Notes in Computer Science",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 22,
+  "referenced_works": [
+    "https://openalex.org/W1981276685",
+    "https://openalex.org/W2004409469",
+    "https://openalex.org/W2020841203",
+    "https://openalex.org/W2035591785",
+    "https://openalex.org/W2084092294",
+    "https://openalex.org/W2103118231",
+    "https://openalex.org/W2111896942",
+    "https://openalex.org/W2118745042",
+    "https://openalex.org/W2131300413",
+    "https://openalex.org/W2131969412",
+    "https://openalex.org/W2293634267",
+    "https://openalex.org/W2513506569",
+    "https://openalex.org/W2572939427",
+    "https://openalex.org/W2901706568",
+    "https://openalex.org/W2962143296",
+    "https://openalex.org/W2963114216",
+    "https://openalex.org/W3087285656",
+    "https://openalex.org/W3100106742",
+    "https://openalex.org/W3100665560",
+    "https://openalex.org/W3111727501",
+    "https://openalex.org/W3112455498",
+    "https://openalex.org/W4233419729"
+  ],
+  "related_works": [
+    "https://openalex.org/W2524685707",
+    "https://openalex.org/W2391251536",
+    "https://openalex.org/W2362198218",
+    "https://openalex.org/W1982750869",
+    "https://openalex.org/W3045691066",
+    "https://openalex.org/W2019521278",
+    "https://openalex.org/W1984922432",
+    "https://openalex.org/W138768472",
+    "https://openalex.org/W2113077220",
+    "https://openalex.org/W2375008505"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-03-27T05:58:40.876381",
+  "created_date": "2025-10-10T00:00:00"
+}

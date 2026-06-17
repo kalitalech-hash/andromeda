@@ -1,0 +1,1190 @@
+{
+  "id": "https://openalex.org/W3201719478",
+  "doi": "https://doi.org/10.1109/rtcsa52859.2021.00026",
+  "title": "Thermal-Aware Scheduling for MPSoC in the Avionics Domain: Tooling and Initial Results",
+  "display_name": "Thermal-Aware Scheduling for MPSoC in the Avionics Domain: Tooling and Initial Results",
+  "publication_year": 2021,
+  "publication_date": "2021-08-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3201719478",
+    "doi": "https://doi.org/10.1109/rtcsa52859.2021.00026",
+    "mag": "3201719478"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/rtcsa52859.2021.00026",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/rtcsa52859.2021.00026",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2021 IEEE 27th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5039707537",
+        "display_name": "Ondřej Benedikt",
+        "orcid": "https://orcid.org/0000-0002-7365-844X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ondrej Benedikt",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085476423",
+        "display_name": "Michał Sójka",
+        "orcid": "https://orcid.org/0000-0002-8738-075X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michal Sojka",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067754429",
+        "display_name": "Pavel Zaykov",
+        "orcid": "https://orcid.org/0000-0003-0465-9112"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210120083",
+          "display_name": "Honeywell (Czechia)",
+          "ror": "https://ror.org/0297sbd31",
+          "country_code": "CZ",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210120083",
+            "https://openalex.org/I82514191"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pavel Zaykov",
+      "raw_affiliation_strings": [
+        "Honeywell International s.r.o., Brno, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Honeywell International s.r.o., Brno, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210120083"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089211017",
+        "display_name": "David Hornof",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David Hornof",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040830191",
+        "display_name": "Matěj Kafka",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matej Kafka",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015571030",
+        "display_name": "Přemysl Šůcha",
+        "orcid": "https://orcid.org/0000-0003-4895-157X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Premysl Sucha",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5039174863",
+        "display_name": "Zdeněk Hanzálek",
+        "orcid": "https://orcid.org/0000-0002-8135-1296"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I44504214",
+          "display_name": "Czech Technical University in Prague",
+          "ror": "https://ror.org/03kqpb082",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zdenek Hanzalek",
+      "raw_affiliation_strings": [
+        "Czech Technical University in Prague, Prague, Czech Republic"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech Technical University in Prague, Prague, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I44504214"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.9439,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.73644717,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 96
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "159",
+    "last_page": "168"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10054",
+    "display_name": "Parallel Computing and Optimization Techniques",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1708",
+      "display_name": "Hardware and Architecture"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10054",
+      "display_name": "Parallel Computing and Optimization Techniques",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10933",
+      "display_name": "Real-Time Systems Scheduling",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10904",
+      "display_name": "Embedded Systems Design Techniques",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/avionics",
+      "display_name": "Avionics",
+      "score": 0.8687324523925781
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7283782958984375
+    },
+    {
+      "id": "https://openalex.org/keywords/embedded-system",
+      "display_name": "Embedded system",
+      "score": 0.6960444450378418
+    },
+    {
+      "id": "https://openalex.org/keywords/overheating",
+      "display_name": "Overheating (electricity)",
+      "score": 0.6587948799133301
+    },
+    {
+      "id": "https://openalex.org/keywords/workload",
+      "display_name": "Workload",
+      "score": 0.630661129951477
+    },
+    {
+      "id": "https://openalex.org/keywords/mpsoc",
+      "display_name": "MPSoC",
+      "score": 0.6289626359939575
+    },
+    {
+      "id": "https://openalex.org/keywords/scheduling",
+      "display_name": "Scheduling (production processes)",
+      "score": 0.6225108504295349
+    },
+    {
+      "id": "https://openalex.org/keywords/life-critical-system",
+      "display_name": "Life-critical system",
+      "score": 0.6076133251190186
+    },
+    {
+      "id": "https://openalex.org/keywords/benchmark",
+      "display_name": "Benchmark (surveying)",
+      "score": 0.4322894811630249
+    },
+    {
+      "id": "https://openalex.org/keywords/critical-path-method",
+      "display_name": "Critical path method",
+      "score": 0.4227229356765747
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.3891116678714752
+    },
+    {
+      "id": "https://openalex.org/keywords/system-on-a-chip",
+      "display_name": "System on a chip",
+      "score": 0.3549386262893677
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-computing",
+      "display_name": "Distributed computing",
+      "score": 0.3244866132736206
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.13813140988349915
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.133745014667511
+    },
+    {
+      "id": "https://openalex.org/keywords/systems-engineering",
+      "display_name": "Systems engineering",
+      "score": 0.08898505568504333
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15792166",
+      "wikidata": "https://www.wikidata.org/wiki/Q221329",
+      "display_name": "Avionics",
+      "level": 2,
+      "score": 0.8687324523925781
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7283782958984375
+    },
+    {
+      "id": "https://openalex.org/C149635348",
+      "wikidata": "https://www.wikidata.org/wiki/Q193040",
+      "display_name": "Embedded system",
+      "level": 1,
+      "score": 0.6960444450378418
+    },
+    {
+      "id": "https://openalex.org/C2778284599",
+      "wikidata": "https://www.wikidata.org/wiki/Q25340000",
+      "display_name": "Overheating (electricity)",
+      "level": 2,
+      "score": 0.6587948799133301
+    },
+    {
+      "id": "https://openalex.org/C2778476105",
+      "wikidata": "https://www.wikidata.org/wiki/Q628539",
+      "display_name": "Workload",
+      "level": 2,
+      "score": 0.630661129951477
+    },
+    {
+      "id": "https://openalex.org/C2777187653",
+      "wikidata": "https://www.wikidata.org/wiki/Q975106",
+      "display_name": "MPSoC",
+      "level": 3,
+      "score": 0.6289626359939575
+    },
+    {
+      "id": "https://openalex.org/C206729178",
+      "wikidata": "https://www.wikidata.org/wiki/Q2271896",
+      "display_name": "Scheduling (production processes)",
+      "level": 2,
+      "score": 0.6225108504295349
+    },
+    {
+      "id": "https://openalex.org/C163707989",
+      "wikidata": "https://www.wikidata.org/wiki/Q1996307",
+      "display_name": "Life-critical system",
+      "level": 3,
+      "score": 0.6076133251190186
+    },
+    {
+      "id": "https://openalex.org/C185798385",
+      "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+      "display_name": "Benchmark (surveying)",
+      "level": 2,
+      "score": 0.4322894811630249
+    },
+    {
+      "id": "https://openalex.org/C115874739",
+      "wikidata": "https://www.wikidata.org/wiki/Q825377",
+      "display_name": "Critical path method",
+      "level": 2,
+      "score": 0.4227229356765747
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.3891116678714752
+    },
+    {
+      "id": "https://openalex.org/C118021083",
+      "wikidata": "https://www.wikidata.org/wiki/Q610398",
+      "display_name": "System on a chip",
+      "level": 2,
+      "score": 0.3549386262893677
+    },
+    {
+      "id": "https://openalex.org/C120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "level": 1,
+      "score": 0.3244866132736206
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.13813140988349915
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.133745014667511
+    },
+    {
+      "id": "https://openalex.org/C201995342",
+      "wikidata": "https://www.wikidata.org/wiki/Q682496",
+      "display_name": "Systems engineering",
+      "level": 1,
+      "score": 0.08898505568504333
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/rtcsa52859.2021.00026",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/rtcsa52859.2021.00026",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2021 IEEE 27th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.6499999761581421,
+      "display_name": "Affordable and clean energy"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 22,
+  "referenced_works": [
+    "https://openalex.org/W1676458374",
+    "https://openalex.org/W1985387589",
+    "https://openalex.org/W2031955953",
+    "https://openalex.org/W2052282868",
+    "https://openalex.org/W2067500286",
+    "https://openalex.org/W2118046912",
+    "https://openalex.org/W2151521561",
+    "https://openalex.org/W2153290448",
+    "https://openalex.org/W2226422181",
+    "https://openalex.org/W2233909155",
+    "https://openalex.org/W2335198028",
+    "https://openalex.org/W2344837812",
+    "https://openalex.org/W2540939670",
+    "https://openalex.org/W2577141201",
+    "https://openalex.org/W2752721821",
+    "https://openalex.org/W2970058891",
+    "https://openalex.org/W2990409091",
+    "https://openalex.org/W2997987659",
+    "https://openalex.org/W3014553417",
+    "https://openalex.org/W3047952785",
+    "https://openalex.org/W3092563649",
+    "https://openalex.org/W6731783927"
+  ],
+  "related_works": [
+    "https://openalex.org/W1544976691",
+    "https://openalex.org/W2978816602",
+    "https://openalex.org/W2199167515",
+    "https://openalex.org/W2097353562",
+    "https://openalex.org/W1911386096",
+    "https://openalex.org/W4248387524",
+    "https://openalex.org/W39645217",
+    "https://openalex.org/W2740060042",
+    "https://openalex.org/W1915513221",
+    "https://openalex.org/W3213161835"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      156
+    ],
+    "demand": [
+      1
+    ],
+    "for": [
+      2,
+      46,
+      105,
+      148,
+      188
+    ],
+    "high-performance": [
+      3
+    ],
+    "computing": [
+      4
+    ],
+    "leads": [
+      5
+    ],
+    "to": [
+      6,
+      31,
+      81,
+      119,
+      140,
+      172
+    ],
+    "the": [
+      7,
+      15,
+      25,
+      33,
+      50,
+      59,
+      79,
+      90,
+      121,
+      141,
+      149,
+      153,
+      168,
+      173,
+      190,
+      193,
+      197,
+      200
+    ],
+    "adoption": [
+      8
+    ],
+    "of": [
+      9,
+      49,
+      61,
+      69,
+      78,
+      123,
+      167,
+      199
+    ],
+    "modern": [
+      10
+    ],
+    "Multi-Processor": [
+      11
+    ],
+    "System-on-Chip": [
+      12
+    ],
+    "platforms": [
+      13
+    ],
+    "in": [
+      14,
+      184
+    ],
+    "avionics": [
+      16,
+      52,
+      125
+    ],
+    "domain,": [
+      17
+    ],
+    "where": [
+      18
+    ],
+    "many": [
+      19
+    ],
+    "applications": [
+      20
+    ],
+    "are": [
+      21
+    ],
+    "safety-critical.": [
+      22
+    ],
+    "To": [
+      23,
+      88
+    ],
+    "fulfill": [
+      24
+    ],
+    "safety": [
+      26
+    ],
+    "requirements,": [
+      27
+    ],
+    "it": [
+      28
+    ],
+    "is": [
+      29
+    ],
+    "vital": [
+      30
+    ],
+    "avoid": [
+      32
+    ],
+    "platform’s": [
+      34
+    ],
+    "overheating.": [
+      35
+    ],
+    "In": [
+      36
+    ],
+    "this": [
+      37
+    ],
+    "paper,": [
+      38
+    ],
+    "we": [
+      39,
+      63,
+      92,
+      102,
+      127,
+      177
+    ],
+    "propose": [
+      40
+    ],
+    "a": [
+      41,
+      94,
+      106,
+      136,
+      164
+    ],
+    "task": [
+      42
+    ],
+    "mapping": [
+      43,
+      77
+    ],
+    "method,": [
+      44
+    ],
+    "MultiPAWS,": [
+      45,
+      62
+    ],
+    "thermal-aware": [
+      47
+    ],
+    "allocation": [
+      48
+    ],
+    "safety-critical": [
+      51,
+      124
+    ],
+    "workloads": [
+      53
+    ],
+    "under": [
+      54
+    ],
+    "time": [
+      55
+    ],
+    "isolation": [
+      56
+    ],
+    "constraints.": [
+      57
+    ],
+    "With": [
+      58
+    ],
+    "help": [
+      60
+    ],
+    "jointly": [
+      64
+    ],
+    "find": [
+      65
+    ],
+    "an": [
+      66,
+      130
+    ],
+    "optimal": [
+      67,
+      76
+    ],
+    "number": [
+      68
+    ],
+    "scheduling": [
+      70,
+      138,
+      201
+    ],
+    "windows": [
+      71,
+      83
+    ],
+    "and": [
+      72,
+      75,
+      84,
+      196
+    ],
+    "their": [
+      73
+    ],
+    "lengths": [
+      74
+    ],
+    "workload": [
+      80
+    ],
+    "these": [
+      82
+    ],
+    "available": [
+      85
+    ],
+    "CPU": [
+      86
+    ],
+    "cores.": [
+      87
+    ],
+    "guide": [
+      89
+    ],
+    "optimization,": [
+      91
+    ],
+    "introduce": [
+      93,
+      128
+    ],
+    "thermal": [
+      95
+    ],
+    "model": [
+      96
+    ],
+    "based": [
+      97
+    ],
+    "on": [
+      98,
+      109,
+      114,
+      152
+    ],
+    "power-characteristic": [
+      99
+    ],
+    "coefficients,": [
+      100
+    ],
+    "which": [
+      101
+    ],
+    "experimentally": [
+      103
+    ],
+    "identify": [
+      104
+    ],
+    "benchmark": [
+      107
+    ],
+    "dataset": [
+      108
+    ],
+    "NXP": [
+      110
+    ],
+    "i.MX8QuadMax": [
+      111
+    ],
+    "platform": [
+      112,
+      169,
+      194
+    ],
+    "(based": [
+      113
+    ],
+    "ARMv8": [
+      115
+    ],
+    "big.LITTLE": [
+      116
+    ],
+    "architecture).": [
+      117
+    ],
+    "Furthermore,": [
+      118
+    ],
+    "mimic": [
+      120
+    ],
+    "execution": [
+      122
+    ],
+    "applications,": [
+      126
+    ],
+    "DEmOS,": [
+      129
+    ],
+    "open-source": [
+      131
+    ],
+    "Linux-based": [
+      132
+    ],
+    "scheduler.": [
+      133
+    ],
+    "DEmOS": [
+      134,
+      147
+    ],
+    "provides": [
+      135
+    ],
+    "time-partitioned": [
+      137
+    ],
+    "similar": [
+      139
+    ],
+    "ARINC": [
+      142
+    ],
+    "653": [
+      143
+    ],
+    "standard.": [
+      144
+    ],
+    "We": [
+      145
+    ],
+    "use": [
+      146
+    ],
+    "experimental": [
+      150,
+      157
+    ],
+    "evaluation": [
+      151
+    ],
+    "i.MX8": [
+      154
+    ],
+    "platform.": [
+      155
+    ],
+    "results": [
+      158
+    ],
+    "suggest": [
+      159
+    ],
+    "that": [
+      160
+    ],
+    "MultiPAWS": [
+      161,
+      180
+    ],
+    "achieves": [
+      162
+    ],
+    "over": [
+      163
+    ],
+    "12%": [
+      165
+    ],
+    "decrease": [
+      166
+    ],
+    "temperature": [
+      170,
+      195
+    ],
+    "compared": [
+      171
+    ],
+    "minimum-utilization-based": [
+      174
+    ],
+    "approach.": [
+      175
+    ],
+    "Moreover,": [
+      176
+    ],
+    "demonstrate": [
+      178
+    ],
+    "how": [
+      179
+    ],
+    "can": [
+      181
+    ],
+    "be": [
+      182
+    ],
+    "used": [
+      183
+    ],
+    "design": [
+      185
+    ],
+    "space": [
+      186
+    ],
+    "exploration": [
+      187
+    ],
+    "finding": [
+      189
+    ],
+    "tradeoff": [
+      191
+    ],
+    "between": [
+      192
+    ],
+    "length": [
+      198
+    ],
+    "hyper-period.": [
+      202
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

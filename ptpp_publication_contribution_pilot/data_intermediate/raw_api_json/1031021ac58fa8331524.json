@@ -1,0 +1,883 @@
+{
+  "id": "https://openalex.org/W7118189519",
+  "doi": "https://doi.org/10.58286/32491",
+  "title": "Nonlinear Shear Waves for Structural Damage Detection – Crack-Wave Interaction Modelling and Numerical Simulations",
+  "display_name": "Nonlinear Shear Waves for Structural Damage Detection – Crack-Wave Interaction Modelling and Numerical Simulations",
+  "publication_year": 2026,
+  "publication_date": "2026-01-05",
+  "ids": {
+    "openalex": "https://openalex.org/W7118189519",
+    "doi": "https://doi.org/10.58286/32491"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.58286/32491",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.58286/32491",
+    "pdf_url": "https://www.ndt.net/article/latamshm2026/papers/LATAMSHM2026_f45ab8bf9ddb11f08457000c29ddfc0c.pdf",
+    "source": {
+      "id": "https://openalex.org/S4387284822",
+      "display_name": "e-Journal of Nondestructive Testing",
+      "issn_l": "1435-4934",
+      "issn": [
+        "1435-4934"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "e-Journal of Nondestructive Testing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.ndt.net/article/latamshm2026/papers/LATAMSHM2026_f45ab8bf9ddb11f08457000c29ddfc0c.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074114379",
+        "display_name": "Jakub Nowak",
+        "orcid": "https://orcid.org/0000-0002-3179-1576"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow , Faculty of Mechanical Engineering and Robotics , Department of Robotics and Mechatronics Al. Mickiewicza 30 , 30-059 Krakow , Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow , Faculty of Mechanical Engineering and Robotics , Department of Robotics and Mechatronics Al. Mickiewicza 30 , 30-059 Krakow , Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091334743",
+        "display_name": "Rafał Radecki",
+        "orcid": "https://orcid.org/0000-0003-0987-7661"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rafał Radecki",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow , Faculty of Mechanical Engineering and Robotics , Department of Robotics and Mechatronics Al. Mickiewicza 30 , 30-059 Krakow , Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow , Faculty of Mechanical Engineering and Robotics , Department of Robotics and Mechatronics Al. Mickiewicza 30 , 30-059 Krakow , Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5129928506",
+        "display_name": "Wiesław Jerzy Staszewski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I686019",
+          "display_name": "AGH University of Krakow",
+          "ror": "https://ror.org/00bas1c41",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wieslaw Jerzy Staszewski",
+      "raw_affiliation_strings": [
+        "AGH University of Krakow , Faculty of Mechanical Engineering and Robotics , Department of Robotics and Mechatronics Al. Mickiewicza 30 , 30-059 Krakow , Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AGH University of Krakow , Faculty of Mechanical Engineering and Robotics , Department of Robotics and Mechatronics Al. Mickiewicza 30 , 30-059 Krakow , Poland",
+          "institution_ids": [
+            "https://openalex.org/I686019"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.01823471,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "31",
+    "issue": "2",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10662",
+    "display_name": "Ultrasonics and Acoustic Wave Propagation",
+    "score": 0.8949000239372253,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2211",
+      "display_name": "Mechanics of Materials"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10662",
+      "display_name": "Ultrasonics and Acoustic Wave Propagation",
+      "score": 0.8949000239372253,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10514",
+      "display_name": "Numerical methods in engineering",
+      "score": 0.0414000004529953,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11206",
+      "display_name": "Model Reduction and Neural Networks",
+      "score": 0.004699999932199717,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/nonlinear-system",
+      "display_name": "Nonlinear system",
+      "score": 0.8528000116348267
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-simulation",
+      "display_name": "Computer simulation",
+      "score": 0.5034000277519226
+    },
+    {
+      "id": "https://openalex.org/keywords/nonlinear-elasticity",
+      "display_name": "Nonlinear elasticity",
+      "score": 0.4864000082015991
+    },
+    {
+      "id": "https://openalex.org/keywords/dissipation",
+      "display_name": "Dissipation",
+      "score": 0.4611999988555908
+    },
+    {
+      "id": "https://openalex.org/keywords/focus",
+      "display_name": "Focus (optics)",
+      "score": 0.4584999978542328
+    },
+    {
+      "id": "https://openalex.org/keywords/shear",
+      "display_name": "Shear (geology)",
+      "score": 0.4056999981403351
+    },
+    {
+      "id": "https://openalex.org/keywords/interaction-model",
+      "display_name": "Interaction model",
+      "score": 0.3779999911785126
+    },
+    {
+      "id": "https://openalex.org/keywords/numerical-analysis",
+      "display_name": "Numerical analysis",
+      "score": 0.366100013256073
+    },
+    {
+      "id": "https://openalex.org/keywords/harmonic",
+      "display_name": "Harmonic",
+      "score": 0.35899999737739563
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C158622935",
+      "wikidata": "https://www.wikidata.org/wiki/Q660848",
+      "display_name": "Nonlinear system",
+      "level": 2,
+      "score": 0.8528000116348267
+    },
+    {
+      "id": "https://openalex.org/C57879066",
+      "wikidata": "https://www.wikidata.org/wiki/Q41217",
+      "display_name": "Mechanics",
+      "level": 1,
+      "score": 0.5127000212669373
+    },
+    {
+      "id": "https://openalex.org/C500300565",
+      "wikidata": "https://www.wikidata.org/wiki/Q925667",
+      "display_name": "Computer simulation",
+      "level": 2,
+      "score": 0.5034000277519226
+    },
+    {
+      "id": "https://openalex.org/C2983365874",
+      "wikidata": "https://www.wikidata.org/wiki/Q193514",
+      "display_name": "Nonlinear elasticity",
+      "level": 3,
+      "score": 0.4864000082015991
+    },
+    {
+      "id": "https://openalex.org/C135402231",
+      "wikidata": "https://www.wikidata.org/wiki/Q898440",
+      "display_name": "Dissipation",
+      "level": 2,
+      "score": 0.4611999988555908
+    },
+    {
+      "id": "https://openalex.org/C192209626",
+      "wikidata": "https://www.wikidata.org/wiki/Q190909",
+      "display_name": "Focus (optics)",
+      "level": 2,
+      "score": 0.4584999978542328
+    },
+    {
+      "id": "https://openalex.org/C96035792",
+      "wikidata": "https://www.wikidata.org/wiki/Q43606218",
+      "display_name": "Shear (geology)",
+      "level": 2,
+      "score": 0.4056999981403351
+    },
+    {
+      "id": "https://openalex.org/C2780806968",
+      "wikidata": "https://www.wikidata.org/wiki/Q6045196",
+      "display_name": "Interaction model",
+      "level": 2,
+      "score": 0.3779999911785126
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.367900013923645
+    },
+    {
+      "id": "https://openalex.org/C48753275",
+      "wikidata": "https://www.wikidata.org/wiki/Q11216",
+      "display_name": "Numerical analysis",
+      "level": 2,
+      "score": 0.366100013256073
+    },
+    {
+      "id": "https://openalex.org/C127934551",
+      "wikidata": "https://www.wikidata.org/wiki/Q1148098",
+      "display_name": "Harmonic",
+      "level": 2,
+      "score": 0.35899999737739563
+    },
+    {
+      "id": "https://openalex.org/C45374587",
+      "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+      "display_name": "Computation",
+      "level": 2,
+      "score": 0.35839998722076416
+    },
+    {
+      "id": "https://openalex.org/C2779438780",
+      "wikidata": "https://www.wikidata.org/wiki/Q691978",
+      "display_name": "Shear waves",
+      "level": 3,
+      "score": 0.3418000042438507
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.3285999894142151
+    },
+    {
+      "id": "https://openalex.org/C2779126057",
+      "wikidata": "https://www.wikidata.org/wiki/Q478010",
+      "display_name": "Fluid–structure interaction",
+      "level": 3,
+      "score": 0.32089999318122864
+    },
+    {
+      "id": "https://openalex.org/C121854251",
+      "wikidata": "https://www.wikidata.org/wiki/Q62932",
+      "display_name": "Elasticity (physics)",
+      "level": 2,
+      "score": 0.31929999589920044
+    },
+    {
+      "id": "https://openalex.org/C123299182",
+      "wikidata": "https://www.wikidata.org/wiki/Q190837",
+      "display_name": "Hysteresis",
+      "level": 2,
+      "score": 0.31189998984336853
+    },
+    {
+      "id": "https://openalex.org/C2986605239",
+      "wikidata": "https://www.wikidata.org/wiki/Q925667",
+      "display_name": "Numerical models",
+      "level": 3,
+      "score": 0.3109000027179718
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3012999892234802
+    },
+    {
+      "id": "https://openalex.org/C74650414",
+      "wikidata": "https://www.wikidata.org/wiki/Q11397",
+      "display_name": "Classical mechanics",
+      "level": 1,
+      "score": 0.296999990940094
+    },
+    {
+      "id": "https://openalex.org/C184112787",
+      "wikidata": "https://www.wikidata.org/wiki/Q3604864",
+      "display_name": "Nonlinear acoustics",
+      "level": 3,
+      "score": 0.29019999504089355
+    },
+    {
+      "id": "https://openalex.org/C134206417",
+      "wikidata": "https://www.wikidata.org/wiki/Q2311789",
+      "display_name": "Split-step method",
+      "level": 3,
+      "score": 0.28279998898506165
+    },
+    {
+      "id": "https://openalex.org/C48677424",
+      "wikidata": "https://www.wikidata.org/wiki/Q6888088",
+      "display_name": "Mode (computer interface)",
+      "level": 2,
+      "score": 0.2782999873161316
+    },
+    {
+      "id": "https://openalex.org/C175853643",
+      "wikidata": "https://www.wikidata.org/wiki/Q1185557",
+      "display_name": "Restoring force",
+      "level": 2,
+      "score": 0.26649999618530273
+    },
+    {
+      "id": "https://openalex.org/C121864883",
+      "wikidata": "https://www.wikidata.org/wiki/Q677916",
+      "display_name": "Statistical physics",
+      "level": 1,
+      "score": 0.2621999979019165
+    },
+    {
+      "id": "https://openalex.org/C135628077",
+      "wikidata": "https://www.wikidata.org/wiki/Q220184",
+      "display_name": "Finite element method",
+      "level": 2,
+      "score": 0.2621000111103058
+    },
+    {
+      "id": "https://openalex.org/C198394728",
+      "wikidata": "https://www.wikidata.org/wiki/Q3695508",
+      "display_name": "Vibration",
+      "level": 2,
+      "score": 0.26170000433921814
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.2540000081062317
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.58286/32491",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.58286/32491",
+      "pdf_url": "https://www.ndt.net/article/latamshm2026/papers/LATAMSHM2026_f45ab8bf9ddb11f08457000c29ddfc0c.pdf",
+      "source": {
+        "id": "https://openalex.org/S4387284822",
+        "display_name": "e-Journal of Nondestructive Testing",
+        "issn_l": "1435-4934",
+        "issn": [
+          "1435-4934"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "e-Journal of Nondestructive Testing",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.58286/32491",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.58286/32491",
+    "pdf_url": "https://www.ndt.net/article/latamshm2026/papers/LATAMSHM2026_f45ab8bf9ddb11f08457000c29ddfc0c.pdf",
+    "source": {
+      "id": "https://openalex.org/S4387284822",
+      "display_name": "e-Journal of Nondestructive Testing",
+      "issn_l": "1435-4934",
+      "issn": [
+        "1435-4934"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "e-Journal of Nondestructive Testing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/11",
+      "display_name": "Sustainable cities and communities",
+      "score": 0.43427395820617676
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7118189519.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7118189519.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      8
+    ],
+    "paper": [
+      1
+    ],
+    "investigates": [
+      2
+    ],
+    "ultrasonic": [
+      3
+    ],
+    "nonlinear": [
+      4,
+      32,
+      60,
+      79,
+      90
+    ],
+    "shear": [
+      5
+    ],
+    "horizontal": [
+      6
+    ],
+    "waves.": [
+      7
+    ],
+    "major": [
+      9
+    ],
+    "focus": [
+      10
+    ],
+    "of": [
+      11,
+      42,
+      59,
+      105,
+      114
+    ],
+    "the": [
+      12,
+      17,
+      48
+    ],
+    "work": [
+      13
+    ],
+    "undertaken": [
+      14,
+      75
+    ],
+    "is": [
+      15,
+      28
+    ],
+    "on": [
+      16
+    ],
+    "fundamental": [
+      18
+    ],
+    "mode": [
+      19
+    ],
+    "due": [
+      20
+    ],
+    "to": [
+      21,
+      76
+    ],
+    "its": [
+      22
+    ],
+    "non-dispersive": [
+      23
+    ],
+    "nature.": [
+      24
+    ],
+    "Nonlinear": [
+      25
+    ],
+    "crack-wave": [
+      26,
+      43
+    ],
+    "interaction": [
+      27,
+      44
+    ],
+    "investigated.": [
+      29
+    ],
+    "Local": [
+      30,
+      49
+    ],
+    "crack-induced": [
+      31
+    ],
+    "elasticity": [
+      33
+    ],
+    "and": [
+      34,
+      71
+    ],
+    "dissipation": [
+      35
+    ],
+    "are": [
+      36,
+      45,
+      74
+    ],
+    "modelled": [
+      37
+    ],
+    "using": [
+      38,
+      47,
+      102
+    ],
+    "hysteresis.": [
+      39
+    ],
+    "Numerical": [
+      40,
+      93
+    ],
+    "simulations": [
+      41,
+      73,
+      94
+    ],
+    "performed": [
+      46
+    ],
+    "Interaction": [
+      50
+    ],
+    "Simulation": [
+      51
+    ],
+    "Approach,": [
+      52
+    ],
+    "allowing": [
+      53
+    ],
+    "not": [
+      54,
+      83
+    ],
+    "only": [
+      55,
+      84
+    ],
+    "for": [
+      56,
+      66,
+      112
+    ],
+    "top-down": [
+      57
+    ],
+    "solution": [
+      58
+    ],
+    "differential": [
+      61
+    ],
+    "equations": [
+      62
+    ],
+    "but": [
+      63,
+      88
+    ],
+    "potentially": [
+      64
+    ],
+    "also": [
+      65,
+      89
+    ],
+    "parallel": [
+      67
+    ],
+    "computing": [
+      68
+    ],
+    "architecture.": [
+      69
+    ],
+    "Modelling": [
+      70
+    ],
+    "numerical": [
+      72
+    ],
+    "reveal": [
+      77
+    ],
+    "various": [
+      78
+    ],
+    "phenomena.": [
+      80
+    ],
+    "This": [
+      81
+    ],
+    "includes": [
+      82
+    ],
+    "higher": [
+      85
+    ],
+    "harmonic": [
+      86
+    ],
+    "generation": [
+      87
+    ],
+    "vibro-acoustic": [
+      91
+    ],
+    "modulations.": [
+      92
+    ],
+    "demonstrate": [
+      95
+    ],
+    "that": [
+      96,
+      107
+    ],
+    "cracks": [
+      97
+    ],
+    "can": [
+      98
+    ],
+    "be": [
+      99
+    ],
+    "effectively": [
+      100
+    ],
+    "represented": [
+      101
+    ],
+    "local": [
+      103
+    ],
+    "models": [
+      104
+    ],
+    "hysteresis": [
+      106
+    ],
+    "have": [
+      108
+    ],
+    "been": [
+      109
+    ],
+    "previously": [
+      110
+    ],
+    "used": [
+      111
+    ],
+    "modelling": [
+      113
+    ],
+    "distributed": [
+      115
+    ],
+    "material": [
+      116
+    ],
+    "nonlinearity.": [
+      117
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2026-01-05T00:00:00"
+}

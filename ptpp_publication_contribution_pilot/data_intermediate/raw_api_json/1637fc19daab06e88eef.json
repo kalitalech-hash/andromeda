@@ -1,0 +1,1729 @@
+{
+  "id": "https://openalex.org/W4412024855",
+  "doi": "https://doi.org/10.1088/1361-6560/adec39",
+  "title": "Genetic algorithm as a tool for detection setup optimisation for prompt-gamma imaging in proton therapy: SiFi Compton camera case study",
+  "display_name": "Genetic algorithm as a tool for detection setup optimisation for prompt-gamma imaging in proton therapy: SiFi Compton camera case study",
+  "publication_year": 2025,
+  "publication_date": "2025-07-04",
+  "ids": {
+    "openalex": "https://openalex.org/W4412024855",
+    "doi": "https://doi.org/10.1088/1361-6560/adec39",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40614765"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1088/1361-6560/adec39",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1361-6560/adec39",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S20241394",
+      "display_name": "Physics in Medicine and Biology",
+      "issn_l": "0031-9155",
+      "issn": [
+        "0031-9155",
+        "1361-6560"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Physics in Medicine &amp; Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1088/1361-6560/adec39",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5111005050",
+        "display_name": "Jonas Kasper",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonas Kasper",
+      "raw_affiliation_strings": [
+        "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+        "III. Physikalisches Institut B, RWTH Aachen University, RWTH Aachen, Aachen, 52056, GERMANY"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, RWTH Aachen, Aachen, 52056, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5099282560",
+        "display_name": "Awal Awal",
+        "orcid": "https://orcid.org/0009-0003-8607-8051"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I171892758",
+          "display_name": "Forschungszentrum Jülich",
+          "ror": "https://ror.org/02nv7yv05",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1305996414",
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Awal Awal",
+      "raw_affiliation_strings": [
+        "Forschungszentrum Jülich, Jülich, Germany",
+        "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+        "III. Physikalisches Institut B, RWTH Aachen University, RWTH Aachen, Aachen, 52056, GERMANY"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0003-8607-8051",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Forschungszentrum Jülich, Jülich, Germany",
+          "institution_ids": [
+            "https://openalex.org/I171892758"
+          ]
+        },
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, RWTH Aachen, Aachen, 52056, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037141896",
+        "display_name": "Ronja Hetzel",
+        "orcid": "https://orcid.org/0000-0002-6142-6609"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ronja Hetzel",
+      "raw_affiliation_strings": [
+        "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+        "Physics Institute III B, RWTH Aachen University, Templergraben 55, Aachen, 52056, GERMANY"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6142-6609",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Physics Institute III B, RWTH Aachen University, Templergraben 55, Aachen, 52056, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101903654",
+        "display_name": "Magdalena Kołodziej",
+        "orcid": "https://orcid.org/0000-0001-8016-9495"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Kołodziej",
+      "raw_affiliation_strings": [
+        "Doctoral School of Exact and Natural Sciences, Jagiellonian University, Kraków, Poland",
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University in Kraków, ul. Łojasiewicza 11, Kraków, Małopolska, 30-348, POLAND"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8016-9495",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Doctoral School of Exact and Natural Sciences, Jagiellonian University, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University in Kraków, ul. Łojasiewicza 11, Kraków, Małopolska, 30-348, POLAND",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053480752",
+        "display_name": "Katarzyna Rusiecka",
+        "orcid": "https://orcid.org/0000-0003-2554-0612"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Rusiecka",
+      "raw_affiliation_strings": [
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, ul. Łojasiewicza 11, Kraków, Małopolskie, 30-348, POLAND"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2554-0612",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, ul. Łojasiewicza 11, Kraków, Małopolskie, 30-348, POLAND",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055290893",
+        "display_name": "A. Stahl",
+        "orcid": "https://orcid.org/0000-0002-8369-7506"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Achim Stahl",
+      "raw_affiliation_strings": [
+        "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+        "III. Physikalisches Institut B, RWTH Aachen University, RWTH Aachen, Aachen, Nordrhein-Westfalen, 52056, GERMANY"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8369-7506",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "III. Physikalisches Institut B, RWTH Aachen University, RWTH Aachen, Aachen, Nordrhein-Westfalen, 52056, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068587387",
+        "display_name": "Ming-Liang Wong",
+        "orcid": "https://orcid.org/0000-0002-9530-1222"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ming-Liang Wong",
+      "raw_affiliation_strings": [
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, ul. Łojasiewicza 11, Kraków, Małopolskie, 30-348, POLAND"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9530-1222",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, ul. Łojasiewicza 11, Kraków, Małopolskie, 30-348, POLAND",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5103275204",
+        "display_name": "A. Wrońska",
+        "orcid": "https://orcid.org/0000-0003-0126-3315"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210086947",
+          "display_name": "Institute of Physics",
+          "ror": "https://ror.org/000sfad56",
+          "country_code": "PL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210086947",
+            "https://openalex.org/I99542240"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Wrońska",
+      "raw_affiliation_strings": [
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+        "Marian Smoluchowski Institute of Physics, Jagiellonian University, ul. Łojasiewicza 11, Kraków, Małopolskie, 30-348, POLAND"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0126-3315",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746",
+            "https://openalex.org/I4210086947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Marian Smoluchowski Institute of Physics, Jagiellonian University, ul. Łojasiewicza 11, Kraków, Małopolskie, 30-348, POLAND",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.0627,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.77918617,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "70",
+    "issue": "14",
+    "first_page": "145015",
+    "last_page": "145015"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11176",
+    "display_name": "Radiation Therapy and Dosimetry",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11176",
+      "display_name": "Radiation Therapy and Dosimetry",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11216",
+      "display_name": "Radiation Detection and Scintillator Technologies",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11044",
+      "display_name": "Particle Detector Development and Performance",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/proton",
+      "display_name": "Proton",
+      "score": 0.5181983113288879
+    },
+    {
+      "id": "https://openalex.org/keywords/proton-therapy",
+      "display_name": "Proton therapy",
+      "score": 0.5181587934494019
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-physics",
+      "display_name": "Medical physics",
+      "score": 0.43696409463882446
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4292204976081848
+    },
+    {
+      "id": "https://openalex.org/keywords/algorithm",
+      "display_name": "Algorithm",
+      "score": 0.4146263897418976
+    },
+    {
+      "id": "https://openalex.org/keywords/nuclear-medicine",
+      "display_name": "Nuclear medicine",
+      "score": 0.3976030647754669
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.38527190685272217
+    },
+    {
+      "id": "https://openalex.org/keywords/nuclear-physics",
+      "display_name": "Nuclear physics",
+      "score": 0.31886184215545654
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.1999293565750122
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C54516573",
+      "wikidata": "https://www.wikidata.org/wiki/Q2294",
+      "display_name": "Proton",
+      "level": 2,
+      "score": 0.5181983113288879
+    },
+    {
+      "id": "https://openalex.org/C2779244869",
+      "wikidata": "https://www.wikidata.org/wiki/Q507667",
+      "display_name": "Proton therapy",
+      "level": 3,
+      "score": 0.5181587934494019
+    },
+    {
+      "id": "https://openalex.org/C19527891",
+      "wikidata": "https://www.wikidata.org/wiki/Q1120908",
+      "display_name": "Medical physics",
+      "level": 1,
+      "score": 0.43696409463882446
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4292204976081848
+    },
+    {
+      "id": "https://openalex.org/C11413529",
+      "wikidata": "https://www.wikidata.org/wiki/Q8366",
+      "display_name": "Algorithm",
+      "level": 1,
+      "score": 0.4146263897418976
+    },
+    {
+      "id": "https://openalex.org/C2989005",
+      "wikidata": "https://www.wikidata.org/wiki/Q214963",
+      "display_name": "Nuclear medicine",
+      "level": 1,
+      "score": 0.3976030647754669
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.38527190685272217
+    },
+    {
+      "id": "https://openalex.org/C185544564",
+      "wikidata": "https://www.wikidata.org/wiki/Q81197",
+      "display_name": "Nuclear physics",
+      "level": 1,
+      "score": 0.31886184215545654
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.1999293565750122
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000098434",
+      "descriptor_name": "Genetic Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000098434",
+      "descriptor_name": "Genetic Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000465",
+      "descriptor_name": "Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000465",
+      "descriptor_name": "Algorithms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005720",
+      "descriptor_name": "Gamma Rays",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005720",
+      "descriptor_name": "Gamma Rays",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007091",
+      "descriptor_name": "Image Processing, Computer-Assisted",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007091",
+      "descriptor_name": "Image Processing, Computer-Assisted",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011877",
+      "descriptor_name": "Radionuclide Imaging",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011877",
+      "descriptor_name": "Radionuclide Imaging",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015902",
+      "descriptor_name": "Gamma Cameras",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015902",
+      "descriptor_name": "Gamma Cameras",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019047",
+      "descriptor_name": "Phantoms, Imaging",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019047",
+      "descriptor_name": "Phantoms, Imaging",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D061766",
+      "descriptor_name": "Proton Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D061766",
+      "descriptor_name": "Proton Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1088/1361-6560/adec39",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1088/1361-6560/adec39",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S20241394",
+        "display_name": "Physics in Medicine and Biology",
+        "issn_l": "0031-9155",
+        "issn": [
+          "0031-9155",
+          "1361-6560"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320083",
+        "host_organization_name": "IOP Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320083",
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "IOP Publishing",
+          "Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Physics in Medicine &amp; Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40614765",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40614765",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Physics in medicine and biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/560419",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/handle/item/560419",
+      "pdf_url": "http://ruj.uj.edu.pl/bitstreams/05ded321-f8e7-4c1b-ae22-d3402c416ac3/download",
+      "source": {
+        "id": "https://openalex.org/S4306401249",
+        "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I126596746",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/I126596746"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "doi:10.18154/rwth-2025-06806",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.18154/rwth-2025-06806",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401033",
+        "display_name": "RWTH Publications (RWTH Aachen)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I887968799",
+        "host_organization_name": "RWTH Aachen University",
+        "host_organization_lineage": [
+          "https://openalex.org/I887968799"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1088/1361-6560/adec39",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1361-6560/adec39",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S20241394",
+      "display_name": "Physics in Medicine and Biology",
+      "issn_l": "0031-9155",
+      "issn": [
+        "0031-9155",
+        "1361-6560"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Physics in Medicine &amp; Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.6100000143051147,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2014894457",
+      "display_name": null,
+      "funder_award_id": "2017/26/E/ST2/00618",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322414",
+      "display_name": "Universität zu Lübeck",
+      "ror": "https://ror.org/00t3r8h32"
+    },
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 39,
+  "referenced_works": [
+    "https://openalex.org/W1965629911",
+    "https://openalex.org/W2046628078",
+    "https://openalex.org/W2060062527",
+    "https://openalex.org/W2060769638",
+    "https://openalex.org/W2107197669",
+    "https://openalex.org/W2128158076",
+    "https://openalex.org/W2131960077",
+    "https://openalex.org/W2164576979",
+    "https://openalex.org/W2285120094",
+    "https://openalex.org/W2421924030",
+    "https://openalex.org/W2610283735",
+    "https://openalex.org/W2790470968",
+    "https://openalex.org/W2883616247",
+    "https://openalex.org/W2889878894",
+    "https://openalex.org/W2901466558",
+    "https://openalex.org/W2968612565",
+    "https://openalex.org/W2970604952",
+    "https://openalex.org/W3046263430",
+    "https://openalex.org/W3088196347",
+    "https://openalex.org/W3126208721",
+    "https://openalex.org/W3155636374",
+    "https://openalex.org/W3158920265",
+    "https://openalex.org/W3183546769",
+    "https://openalex.org/W4200550484",
+    "https://openalex.org/W4206294525",
+    "https://openalex.org/W4213320767",
+    "https://openalex.org/W4223454689",
+    "https://openalex.org/W4246746725",
+    "https://openalex.org/W4281260607",
+    "https://openalex.org/W4321093568",
+    "https://openalex.org/W4367837172",
+    "https://openalex.org/W4375846889",
+    "https://openalex.org/W4390989952",
+    "https://openalex.org/W4403252303",
+    "https://openalex.org/W6679831534",
+    "https://openalex.org/W6684545294",
+    "https://openalex.org/W6807046959",
+    "https://openalex.org/W6853003932",
+    "https://openalex.org/W6925499819"
+  ],
+  "related_works": [
+    "https://openalex.org/W2474322707",
+    "https://openalex.org/W2461957038",
+    "https://openalex.org/W2473939400",
+    "https://openalex.org/W2465482445",
+    "https://openalex.org/W3025724153",
+    "https://openalex.org/W2901288344",
+    "https://openalex.org/W3011224823",
+    "https://openalex.org/W4231988004",
+    "https://openalex.org/W1180159252",
+    "https://openalex.org/W1979030051"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Objective.": [
+      1
+    ],
+    "Proton": [
+      2
+    ],
+    "therapy": [
+      3
+    ],
+    "is": [
+      4,
+      15,
+      262
+    ],
+    "a": [
+      5,
+      32,
+      73,
+      104,
+      142,
+      165,
+      173,
+      237,
+      260,
+      263,
+      271
+    ],
+    "precision-focused": [
+      6
+    ],
+    "cancer": [
+      7
+    ],
+    "treatment": [
+      8
+    ],
+    "where": [
+      9
+    ],
+    "accurate": [
+      10
+    ],
+    "proton": [
+      11,
+      168,
+      244,
+      254
+    ],
+    "beam": [
+      12,
+      169,
+      245
+    ],
+    "range": [
+      13,
+      170,
+      246,
+      250
+    ],
+    "monitoring": [
+      14
+    ],
+    "critical": [
+      16
+    ],
+    "to": [
+      17,
+      53,
+      148,
+      163
+    ],
+    "ensure": [
+      18
+    ],
+    "effective": [
+      19
+    ],
+    "dose": [
+      20,
+      68
+    ],
+    "delivery.": [
+      21
+    ],
+    "This": [
+      22,
+      50,
+      228
+    ],
+    "can": [
+      23,
+      239
+    ],
+    "be": [
+      24
+    ],
+    "achieved": [
+      25
+    ],
+    "by": [
+      26
+    ],
+    "prompt": [
+      27
+    ],
+    "gamma": [
+      28,
+      119,
+      149
+    ],
+    "(PG)": [
+      29
+    ],
+    "detection": [
+      30,
+      72,
+      150
+    ],
+    "with": [
+      31,
+      85,
+      103,
+      172,
+      196
+    ],
+    "Compton": [
+      33,
+      63
+    ],
+    "camera": [
+      34,
+      64
+    ],
+    "like": [
+      35
+    ],
+    "the": [
+      36,
+      55,
+      59,
+      86,
+      89,
+      95,
+      109,
+      161,
+      201,
+      206,
+      232,
+      276
+    ],
+    "S": [
+      37
+    ],
+    "ilicon": [
+      38
+    ],
+    "Photomultiplier": [
+      39
+    ],
+    "and": [
+      40,
+      91,
+      94,
+      115,
+      123,
+      130,
+      152,
+      212,
+      265
+    ],
+    "Scintillating": [
+      41
+    ],
+    "F": [
+      42
+    ],
+    "iber": [
+      43
+    ],
+    "based": [
+      44,
+      107
+    ],
+    "C": [
+      45,
+      47
+    ],
+    "ompton": [
+      46
+    ],
+    "amera": [
+      48
+    ],
+    "(SiFi-CC).": [
+      49
+    ],
+    "study": [
+      51,
+      229
+    ],
+    "aims": [
+      52
+    ],
+    "show": [
+      54
+    ],
+    "feasibility": [
+      56
+    ],
+    "of": [
+      57,
+      61,
+      67,
+      118,
+      135,
+      221,
+      259,
+      268
+    ],
+    "optimising": [
+      58
+    ],
+    "geometry": [
+      60,
+      273
+    ],
+    "SiFi-CC": [
+      62,
+      79,
+      158,
+      233,
+      272
+    ],
+    "for": [
+      65,
+      83,
+      270
+    ],
+    "verification": [
+      66,
+      251
+    ],
+    "distribution": [
+      69
+    ],
+    "via": [
+      70
+    ],
+    "PG": [
+      71
+    ],
+    "genetic": [
+      74
+    ],
+    "algorithm": [
+      75
+    ],
+    "(GA).": [
+      76
+    ],
+    "Approach.": [
+      77
+    ],
+    "The": [
+      78,
+      98,
+      133,
+      156,
+      193,
+      256
+    ],
+    "key": [
+      80
+    ],
+    "geometric": [
+      81
+    ],
+    "parameters": [
+      82
+    ],
+    "optimisation": [
+      84,
+      99
+    ],
+    "GA": [
+      87,
+      261
+    ],
+    "are": [
+      88
+    ],
+    "source-to-scatterer": [
+      90,
+      208
+    ],
+    "scatterer-to-absorber": [
+      92,
+      213
+    ],
+    "distances,": [
+      93
+    ],
+    "module": [
+      96
+    ],
+    "thicknesses.": [
+      97
+    ],
+    "process": [
+      100
+    ],
+    "was": [
+      101,
+      139
+    ],
+    "conducted": [
+      102
+    ],
+    "software": [
+      105
+    ],
+    "framework": [
+      106
+    ],
+    "on": [
+      108
+    ],
+    "Geant4": [
+      110
+    ],
+    "toolkit,": [
+      111
+    ],
+    "which": [
+      112
+    ],
+    "included": [
+      113
+    ],
+    "detailed": [
+      114
+    ],
+    "realistic": [
+      116
+    ],
+    "modelling": [
+      117
+    ],
+    "interactions,": [
+      120
+    ],
+    "detector": [
+      121
+    ],
+    "response,": [
+      122
+    ],
+    "further": [
+      124
+    ],
+    "steps": [
+      125
+    ],
+    "such": [
+      126
+    ],
+    "as": [
+      127
+    ],
+    "event": [
+      128
+    ],
+    "selection": [
+      129
+    ],
+    "image": [
+      131,
+      153
+    ],
+    "reconstruction.": [
+      132
+    ],
+    "performance": [
+      134
+    ],
+    "each": [
+      136
+    ],
+    "individual": [
+      137
+    ],
+    "configuration": [
+      138,
+      159
+    ],
+    "evaluated": [
+      140
+    ],
+    "using": [
+      141,
+      177
+    ],
+    "fitness": [
+      143
+    ],
+    "function": [
+      144
+    ],
+    "incorporating": [
+      145
+    ],
+    "factors": [
+      146
+    ],
+    "related": [
+      147
+    ],
+    "efficiency": [
+      151
+    ],
+    "resolution.": [
+      154
+    ],
+    "Results.": [
+      155
+    ],
+    "GA-optimised": [
+      157
+    ],
+    "demonstrated": [
+      160
+    ],
+    "capability": [
+      162
+    ],
+    "detect": [
+      164,
+      241
+    ],
+    "5": [
+      166
+    ],
+    "mm": [
+      167,
+      175,
+      211
+    ],
+    "shift": [
+      171
+    ],
+    "2": [
+      174
+    ],
+    "resolution": [
+      176
+    ],
+    "<mml:math": [
+      178
+    ],
+    "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"": [
+      179
+    ],
+    "overflow=\"scroll\">": [
+      180
+    ],
+    "<mml:mrow>": [
+      181,
+      186
+    ],
+    "<mml:mn>5</mml:mn>": [
+      182
+    ],
+    "<mml:mo>×</mml:mo>": [
+      183
+    ],
+    "<mml:msup>": [
+      184
+    ],
+    "<mml:mn>10</mml:mn>": [
+      185
+    ],
+    "<mml:mn>8</mml:mn>": [
+      187
+    ],
+    "</mml:mrow>": [
+      188,
+      190
+    ],
+    "</mml:msup>": [
+      189
+    ],
+    "</mml:math>": [
+      191
+    ],
+    "protons.": [
+      192
+    ],
+    "best-performing": [
+      194
+    ],
+    "geometry,": [
+      195
+    ],
+    "16": [
+      197
+    ],
+    "fibre": [
+      198
+    ],
+    "layers": [
+      199,
+      204
+    ],
+    "in": [
+      200,
+      205,
+      253
+    ],
+    "scatterer,": [
+      202
+    ],
+    "36": [
+      203
+    ],
+    "absorber,": [
+      207
+    ],
+    "distance": [
+      209,
+      214
+    ],
+    "150": [
+      210
+    ],
+    "120": [
+      215
+    ],
+    "mm,": [
+      216
+    ],
+    "has": [
+      217
+    ],
+    "an": [
+      218
+    ],
+    "imaging": [
+      219
+    ],
+    "sensitivity": [
+      220
+    ],
+    "5.58(1)": [
+      222
+    ],
+    "×": [
+      223
+    ],
+    "10": [
+      224
+    ],
+    "−5": [
+      225
+    ],
+    ".": [
+      226
+    ],
+    "Significance.": [
+      227
+    ],
+    "demonstrates": [
+      230
+    ],
+    "that": [
+      231,
+      274
+    ],
+    "setup,": [
+      234
+    ],
+    "optimised": [
+      235
+    ],
+    "through": [
+      236
+    ],
+    "GA,": [
+      238
+    ],
+    "reliably": [
+      240
+    ],
+    "clinically": [
+      242
+    ],
+    "relevant": [
+      243
+    ],
+    "shifts,": [
+      247
+    ],
+    "improving": [
+      248
+    ],
+    "real-time": [
+      249
+    ],
+    "accuracy": [
+      252
+    ],
+    "therapy.": [
+      255
+    ],
+    "presented": [
+      257
+    ],
+    "implementation": [
+      258
+    ],
+    "systematic": [
+      264
+    ],
+    "feasible": [
+      266
+    ],
+    "way": [
+      267
+    ],
+    "searching": [
+      269
+    ],
+    "shows": [
+      275
+    ],
+    "best": [
+      277
+    ],
+    "performance.": [
+      278
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-07-04T00:00:00"
+}

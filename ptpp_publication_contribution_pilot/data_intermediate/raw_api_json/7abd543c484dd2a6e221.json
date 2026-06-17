@@ -1,0 +1,1343 @@
+{
+  "id": "https://openalex.org/W4417124251",
+  "doi": "https://doi.org/10.1016/j.greeac.2025.100318",
+  "title": "Can artificial intelligence assist experts in evaluating new analytical methodologies? Stop-flow MicroScale Thermophoresis assessed using the RGB model and AI-Delphi framework",
+  "display_name": "Can artificial intelligence assist experts in evaluating new analytical methodologies? Stop-flow MicroScale Thermophoresis assessed using the RGB model and AI-Delphi framework",
+  "publication_year": 2025,
+  "publication_date": "2025-12-08",
+  "ids": {
+    "openalex": "https://openalex.org/W4417124251",
+    "doi": "https://doi.org/10.1016/j.greeac.2025.100318"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.greeac.2025.100318",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.greeac.2025.100318",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210238349",
+      "display_name": "Green Analytical Chemistry",
+      "issn_l": "2772-5774",
+      "issn": [
+        "2772-5774"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Green Analytical Chemistry",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.greeac.2025.100318",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016329755",
+        "display_name": "Paweł Mateusz Nowak",
+        "orcid": "https://orcid.org/0000-0002-9006-5742"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Paweł Mateusz Nowak",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University in Kraków, Gronostajowa 7A, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9006-5742",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University in Kraków, Gronostajowa 7A, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053645945",
+        "display_name": "Michał Woźniakiewicz",
+        "orcid": "https://orcid.org/0000-0002-1348-2884"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michał Woźniakiewicz",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Analytical Chemistry, Laboratory of Forensic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Analytical Chemistry, Laboratory of Forensic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012579851",
+        "display_name": "Aneta Woźniakiewicz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aneta Woźniakiewicz",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Analytical Chemistry, Laboratory of Forensic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Analytical Chemistry, Laboratory of Forensic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021287965",
+        "display_name": "Małgorzata Brindell",
+        "orcid": "https://orcid.org/0000-0002-9827-4661"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Małgorzata Brindell",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Inorganic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Inorganic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103025928",
+        "display_name": "Anna Poznańska",
+        "orcid": "https://orcid.org/0000-0001-9707-6092"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Poznańska",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Kraków, Doctoral School of Exact and Natural Sciences, Profesora Stanisława Łojasiewicza 11, 30-348 Kraków, Poland",
+        "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Inorganic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Doctoral School of Exact and Natural Sciences, Profesora Stanisława Łojasiewicza 11, 30-348 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Inorganic Chemistry, Gronostajowa 2, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033794082",
+        "display_name": "Jacek Plewka",
+        "orcid": "https://orcid.org/0000-0002-0307-0907"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jacek Plewka",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Crystal Chemistry and Crystal Physics, Gronostajowa 2, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Faculty of Chemistry, Department of Crystal Chemistry and Crystal Physics, Gronostajowa 2, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022875578",
+        "display_name": "Alicja Bis",
+        "orcid": "https://orcid.org/0009-0002-1151-8158"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alicja Bis",
+      "raw_affiliation_strings": [
+        "Jagiellonian University in Kraków, Doctoral School of Exact and Natural Sciences, Profesora Stanisława Łojasiewicza 11, 30-348 Kraków, Poland",
+        "Malopolska Centre of Biotechnology, Jagiellonian University in Kraków, Gronostajowa 7A, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Jagiellonian University in Kraków, Doctoral School of Exact and Natural Sciences, Profesora Stanisława Łojasiewicza 11, 30-348 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University in Kraków, Gronostajowa 7A, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5007807706",
+        "display_name": "Jakub Nowak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jakub Nowak",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University in Kraków, Gronostajowa 7A, 30-387 Kraków, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University in Kraków, Gronostajowa 7A, 30-387 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5016329755"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746"
+  ],
+  "apc_list": {
+    "value": 1250,
+    "currency": "USD",
+    "value_usd": 1250
+  },
+  "apc_paid": {
+    "value": 1250,
+    "currency": "USD",
+    "value_usd": 1250
+  },
+  "fwci": 2.8983,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.91060833,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": null,
+    "first_page": "100318",
+    "last_page": "100318"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12850",
+    "display_name": "Field-Flow Fractionation Techniques",
+    "score": 0.6295999884605408,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12850",
+      "display_name": "Field-Flow Fractionation Techniques",
+      "score": 0.6295999884605408,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10402",
+      "display_name": "Phase Equilibria and Thermodynamics",
+      "score": 0.05790000036358833,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11825",
+      "display_name": "Catalysis and Oxidation Reactions",
+      "score": 0.022600000724196434,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1503",
+        "display_name": "Catalysis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/microscale-thermophoresis",
+      "display_name": "Microscale thermophoresis",
+      "score": 0.8198000192642212
+    },
+    {
+      "id": "https://openalex.org/keywords/microscale-chemistry",
+      "display_name": "Microscale chemistry",
+      "score": 0.77920001745224
+    },
+    {
+      "id": "https://openalex.org/keywords/thermophoresis",
+      "display_name": "Thermophoresis",
+      "score": 0.6891000270843506
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.5579000115394592
+    },
+    {
+      "id": "https://openalex.org/keywords/strengths-and-weaknesses",
+      "display_name": "Strengths and weaknesses",
+      "score": 0.48559999465942383
+    },
+    {
+      "id": "https://openalex.org/keywords/generative-grammar",
+      "display_name": "Generative grammar",
+      "score": 0.39750000834465027
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C25824698",
+      "wikidata": "https://www.wikidata.org/wiki/Q6840012",
+      "display_name": "Microscale thermophoresis",
+      "level": 2,
+      "score": 0.8198000192642212
+    },
+    {
+      "id": "https://openalex.org/C179428855",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069216",
+      "display_name": "Microscale chemistry",
+      "level": 2,
+      "score": 0.77920001745224
+    },
+    {
+      "id": "https://openalex.org/C15401063",
+      "wikidata": "https://www.wikidata.org/wiki/Q610090",
+      "display_name": "Thermophoresis",
+      "level": 4,
+      "score": 0.6891000270843506
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5794000029563904
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5710999965667725
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.5579000115394592
+    },
+    {
+      "id": "https://openalex.org/C63882131",
+      "wikidata": "https://www.wikidata.org/wiki/Q17122954",
+      "display_name": "Strengths and weaknesses",
+      "level": 2,
+      "score": 0.48559999465942383
+    },
+    {
+      "id": "https://openalex.org/C39890363",
+      "wikidata": "https://www.wikidata.org/wiki/Q36108",
+      "display_name": "Generative grammar",
+      "level": 2,
+      "score": 0.39750000834465027
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.3880000114440918
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.36800000071525574
+    },
+    {
+      "id": "https://openalex.org/C168167062",
+      "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+      "display_name": "Component (thermodynamics)",
+      "level": 2,
+      "score": 0.33730000257492065
+    },
+    {
+      "id": "https://openalex.org/C201995342",
+      "wikidata": "https://www.wikidata.org/wiki/Q682496",
+      "display_name": "Systems engineering",
+      "level": 1,
+      "score": 0.32280001044273376
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.30559998750686646
+    },
+    {
+      "id": "https://openalex.org/C200288055",
+      "wikidata": "https://www.wikidata.org/wiki/Q2621792",
+      "display_name": "Element (criminal law)",
+      "level": 2,
+      "score": 0.26910001039505005
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.25270000100135803
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.greeac.2025.100318",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.greeac.2025.100318",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210238349",
+        "display_name": "Green Analytical Chemistry",
+        "issn_l": "2772-5774",
+        "issn": [
+          "2772-5774"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Green Analytical Chemistry",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/568974",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/handle/item/568974",
+      "pdf_url": "http://ruj.uj.edu.pl/bitstreams/64ae0788-97e0-4a6f-aa8a-b9cb5df0a485/download",
+      "source": {
+        "id": "https://openalex.org/S4306401249",
+        "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I126596746",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/I126596746"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:6d39dfa984dc40a19f12480d3b4bd29c",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/6d39dfa984dc40a19f12480d3b4bd29c",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Green Analytical Chemistry, Vol 16, Iss , Pp 100318- (2026)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.greeac.2025.100318",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.greeac.2025.100318",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210238349",
+      "display_name": "Green Analytical Chemistry",
+      "issn_l": "2772-5774",
+      "issn": [
+        "2772-5774"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Green Analytical Chemistry",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4347060352",
+      "display_name": null,
+      "funder_award_id": "2019/35/B/ST4/01022",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G5195326719",
+      "display_name": null,
+      "funder_award_id": "2020-2026",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G8009149207",
+      "display_name": null,
+      "funder_award_id": "2019/35/B/ST4/01022",
+      "funder_id": "https://openalex.org/F4320322650",
+      "funder_display_name": "Narodowym Centrum Nauki"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320322650",
+      "display_name": "Narodowym Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 23,
+  "referenced_works": [
+    "https://openalex.org/W1777152392",
+    "https://openalex.org/W1963879048",
+    "https://openalex.org/W2147072925",
+    "https://openalex.org/W2765142704",
+    "https://openalex.org/W2789661339",
+    "https://openalex.org/W2890420723",
+    "https://openalex.org/W2958306975",
+    "https://openalex.org/W3093932599",
+    "https://openalex.org/W3132104108",
+    "https://openalex.org/W3140502729",
+    "https://openalex.org/W3195023535",
+    "https://openalex.org/W3213861470",
+    "https://openalex.org/W4200028773",
+    "https://openalex.org/W4292451792",
+    "https://openalex.org/W4391035390",
+    "https://openalex.org/W4396673891",
+    "https://openalex.org/W4399009666",
+    "https://openalex.org/W4399551311",
+    "https://openalex.org/W4400088986",
+    "https://openalex.org/W4405043744",
+    "https://openalex.org/W4407074611",
+    "https://openalex.org/W4410618496",
+    "https://openalex.org/W4413381821"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Stop-Flow": [
+      0
+    ],
+    "MicroScale": [
+      1
+    ],
+    "Thermophoresis": [
+      2
+    ],
+    "(SF-MST)": [
+      3
+    ],
+    "enables": [
+      4
+    ],
+    "thermophoretic": [
+      5
+    ],
+    "analysis": [
+      6
+    ],
+    "of": [
+      7,
+      37,
+      68,
+      104,
+      130,
+      156,
+      169,
+      181,
+      192,
+      205
+    ],
+    "highly": [
+      8
+    ],
+    "miniaturized": [
+      9
+    ],
+    "samples": [
+      10
+    ],
+    "introduced": [
+      11
+    ],
+    "into": [
+      12
+    ],
+    "ultrathin": [
+      13
+    ],
+    "capillaries": [
+      14
+    ],
+    "by": [
+      15,
+      22
+    ],
+    "pressure": [
+      16
+    ],
+    "or": [
+      17
+    ],
+    "electrophoresis.": [
+      18
+    ],
+    "Although": [
+      19
+    ],
+    "successfully": [
+      20
+    ],
+    "applied": [
+      21,
+      60
+    ],
+    "our": [
+      23
+    ],
+    "group": [
+      24
+    ],
+    "in": [
+      25,
+      66,
+      178
+    ],
+    "several": [
+      26
+    ],
+    "research": [
+      27
+    ],
+    "areas,": [
+      28
+    ],
+    "the": [
+      29,
+      48,
+      53,
+      105,
+      153,
+      157,
+      166,
+      179,
+      188,
+      202
+    ],
+    "broader": [
+      30,
+      148
+    ],
+    "analytical": [
+      31,
+      69,
+      142
+    ],
+    "potential": [
+      32,
+      129
+    ],
+    "and": [
+      33,
+      41,
+      74,
+      77,
+      93,
+      121,
+      137,
+      143,
+      165,
+      190,
+      207
+    ],
+    "overall": [
+      34,
+      84
+    ],
+    "added": [
+      35
+    ],
+    "value": [
+      36
+    ],
+    "SF-MST": [
+      38,
+      193
+    ],
+    "remain": [
+      39
+    ],
+    "uncertain": [
+      40
+    ],
+    "require": [
+      42
+    ],
+    "structured": [
+      43
+    ],
+    "evaluation.": [
+      44
+    ],
+    "To": [
+      45
+    ],
+    "address": [
+      46
+    ],
+    "this,": [
+      47
+    ],
+    "RGB_ex-ante": [
+      49
+    ],
+    "model": [
+      50,
+      159,
+      174
+    ],
+    "based": [
+      51
+    ],
+    "on": [
+      52
+    ],
+    "White": [
+      54,
+      208
+    ],
+    "Analytical": [
+      55,
+      209
+    ],
+    "Chemistry": [
+      56
+    ],
+    "(WAC)": [
+      57
+    ],
+    "concept": [
+      58
+    ],
+    "was": [
+      59,
+      99,
+      124
+    ],
+    "to": [
+      61,
+      90
+    ],
+    "prospectively": [
+      62
+    ],
+    "assess": [
+      63
+    ],
+    "this": [
+      64
+    ],
+    "technique": [
+      65,
+      133
+    ],
+    "terms": [
+      67
+    ],
+    "performance": [
+      70
+    ],
+    "(red),": [
+      71
+    ],
+    "environmental": [
+      72,
+      136
+    ],
+    "friendliness": [
+      73
+    ],
+    "safety": [
+      75
+    ],
+    "(green),": [
+      76
+    ],
+    "practicality": [
+      78
+    ],
+    "(blue),": [
+      79
+    ],
+    "which": [
+      80
+    ],
+    "together": [
+      81
+    ],
+    "determine": [
+      82
+    ],
+    "its": [
+      83,
+      141
+    ],
+    "“whiteness”.": [
+      85
+    ],
+    "Seven": [
+      86
+    ],
+    "independent": [
+      87
+    ],
+    "experts": [
+      88
+    ],
+    "participated": [
+      89
+    ],
+    "ensure": [
+      91
+    ],
+    "objectivity,": [
+      92
+    ],
+    "moreover,": [
+      94
+    ],
+    "generative": [
+      95
+    ],
+    "artificial": [
+      96
+    ],
+    "intelligence": [
+      97
+    ],
+    "(ChatGPT)": [
+      98
+    ],
+    "incorporated": [
+      100
+    ],
+    "as": [
+      101,
+      175
+    ],
+    "an": [
+      102
+    ],
+    "element": [
+      103
+    ],
+    "iterative": [
+      106
+    ],
+    "consensus": [
+      107
+    ],
+    "process": [
+      108
+    ],
+    "(AI-Delphi).": [
+      109
+    ],
+    "The": [
+      110,
+      132,
+      183
+    ],
+    "final": [
+      111
+    ],
+    "whiteness": [
+      112
+    ],
+    "score": [
+      113
+    ],
+    "obtained": [
+      114
+    ],
+    "from": [
+      115
+    ],
+    "experts,": [
+      116
+    ],
+    "after": [
+      117
+    ],
+    "considering": [
+      118
+    ],
+    "both": [
+      119
+    ],
+    "peer": [
+      120
+    ],
+    "AI": [
+      122
+    ],
+    "assessments,": [
+      123
+    ],
+    "90.5,": [
+      125
+    ],
+    "indicating": [
+      126
+    ],
+    "a": [
+      127,
+      161,
+      170,
+      176
+    ],
+    "moderate": [
+      128
+    ],
+    "SF-MST.": [
+      131
+    ],
+    "offers": [
+      134
+    ],
+    "clear": [
+      135
+    ],
+    "conceptual": [
+      138
+    ],
+    "benefits,": [
+      139
+    ],
+    "but": [
+      140,
+      194
+    ],
+    "operational": [
+      144
+    ],
+    "limitations": [
+      145
+    ],
+    "still": [
+      146
+    ],
+    "restrict": [
+      147
+    ],
+    "implementation.": [
+      149
+    ],
+    "This": [
+      150
+    ],
+    "work": [
+      151
+    ],
+    "presents": [
+      152
+    ],
+    "first": [
+      154,
+      167
+    ],
+    "integration": [
+      155
+    ],
+    "RGB": [
+      158
+    ],
+    "with": [
+      160
+    ],
+    "Delphi-type": [
+      162
+    ],
+    "expert": [
+      163
+    ],
+    "framework": [
+      164
+    ],
+    "use": [
+      168
+    ],
+    "trained": [
+      171
+    ],
+    "large": [
+      172
+    ],
+    "language": [
+      173
+    ],
+    "co-expert": [
+      177
+    ],
+    "evaluation": [
+      180
+    ],
+    "whiteness.": [
+      182
+    ],
+    "study": [
+      184
+    ],
+    "not": [
+      185
+    ],
+    "only": [
+      186
+    ],
+    "clarifies": [
+      187
+    ],
+    "strengths": [
+      189
+    ],
+    "weaknesses": [
+      191
+    ],
+    "also": [
+      195
+    ],
+    "suggests": [
+      196
+    ],
+    "how": [
+      197
+    ],
+    "AI-supported": [
+      198
+    ],
+    "assessment": [
+      199
+    ],
+    "can": [
+      200
+    ],
+    "enrich": [
+      201
+    ],
+    "methodological": [
+      203
+    ],
+    "landscape": [
+      204
+    ],
+    "Green": [
+      206
+    ],
+    "Chemistry.": [
+      210
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-15T08:34:33.830935",
+  "created_date": "2025-12-08T00:00:00"
+}

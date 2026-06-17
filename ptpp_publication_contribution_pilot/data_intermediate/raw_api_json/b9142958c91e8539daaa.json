@@ -1,0 +1,1417 @@
+{
+  "id": "https://openalex.org/W4409629940",
+  "doi": "https://doi.org/10.1158/1538-7445.am2025-4588",
+  "title": "Abstract 4588: Cell states and resistance in colorectal cancer: What can we learn from patient-derived organoids?",
+  "display_name": "Abstract 4588: Cell states and resistance in colorectal cancer: What can we learn from patient-derived organoids?",
+  "publication_year": 2025,
+  "publication_date": "2025-04-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4409629940",
+    "doi": "https://doi.org/10.1158/1538-7445.am2025-4588"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1158/1538-7445.am2025-4588",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1158/1538-7445.am2025-4588",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S168522863",
+      "display_name": "Cancer Research",
+      "issn_l": "0008-5472",
+      "issn": [
+        "0008-5472",
+        "1538-7445"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320273",
+      "host_organization_name": "American Association for Cancer Research",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320273"
+      ],
+      "host_organization_lineage_names": [
+        "American Association for Cancer Research"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cancer Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://infoscience.epfl.ch/handle/20.500.14299/249946",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5008762363",
+        "display_name": "Maxim Norkin",
+        "orcid": "https://orcid.org/0000-0001-6048-7760"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I97565354",
+          "display_name": "University of Lausanne",
+          "ror": "https://ror.org/019whta54",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maxim Norkin",
+      "raw_affiliation_strings": [
+        "1CHUV Lausanne University Hospital, Lausanne, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "1CHUV Lausanne University Hospital, Lausanne, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086575145",
+        "display_name": "P. Saiz López",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5124864",
+          "display_name": "École Polytechnique Fédérale de Lausanne",
+          "ror": "https://ror.org/02s376052",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799323385",
+            "https://openalex.org/I5124864"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pablo Hernandez Lopez",
+      "raw_affiliation_strings": [
+        "2EPFL, Lausanne, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "2EPFL, Lausanne, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I5124864"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023768805",
+        "display_name": "Cinzia Esposito",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802542264",
+          "display_name": "University Hospital of Basel",
+          "ror": "https://ror.org/04k51q396",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802542264"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cinzia Esposito",
+      "raw_affiliation_strings": [
+        "3University Hospital Basel, Basel, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "3University Hospital Basel, Basel, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I2802542264"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038729845",
+        "display_name": "George M. Ramzy",
+        "orcid": "https://orcid.org/0000-0001-9866-3985"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George Ramzy",
+      "raw_affiliation_strings": [
+        "4University of Geneva, Geneva, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "4University of Geneva, Geneva, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Mireia Andreu Carbo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mireia Andreu Carbo",
+      "raw_affiliation_strings": [
+        "4University of Geneva, Geneva, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "4University of Geneva, Geneva, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065268738",
+        "display_name": "Paloma Ordóñez‐Morán",
+        "orcid": "https://orcid.org/0000-0001-7688-1252"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142263535",
+          "display_name": "University of Nottingham",
+          "ror": "https://ror.org/01ee9ar58",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paloma Ordóñez-Morán",
+      "raw_affiliation_strings": [
+        "5University of Nottingham, Nottingham, Switzerland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "5University of Nottingham, Nottingham, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037114078",
+        "display_name": "Patrycja Nowak‐Sliwinska",
+        "orcid": "https://orcid.org/0000-0002-8299-0444"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Patrycja Nowak-Sliwinska",
+      "raw_affiliation_strings": [
+        "4University of Geneva, Geneva, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "4University of Geneva, Geneva, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051087530",
+        "display_name": "Salvatore Piscuoglio",
+        "orcid": "https://orcid.org/0000-0003-2686-2939"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802542264",
+          "display_name": "University Hospital of Basel",
+          "ror": "https://ror.org/04k51q396",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802542264"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Salvatore Piscuoglio",
+      "raw_affiliation_strings": [
+        "3University Hospital Basel, Basel, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "3University Hospital Basel, Basel, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I2802542264"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048798659",
+        "display_name": "Krisztián Homicskó",
+        "orcid": "https://orcid.org/0000-0003-0912-6198"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I97565354",
+          "display_name": "University of Lausanne",
+          "ror": "https://ror.org/019whta54",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Krisztian Homicsko",
+      "raw_affiliation_strings": [
+        "1CHUV Lausanne University Hospital, Lausanne, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "1CHUV Lausanne University Hospital, Lausanne, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5045678436",
+        "display_name": "Joerg Huelsken",
+        "orcid": "https://orcid.org/0000-0003-3105-9606"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5124864",
+          "display_name": "École Polytechnique Fédérale de Lausanne",
+          "ror": "https://ror.org/02s376052",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2799323385",
+            "https://openalex.org/I5124864"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joerg Huelsken",
+      "raw_affiliation_strings": [
+        "2EPFL, Lausanne, Switzerland;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "2EPFL, Lausanne, Switzerland;",
+          "institution_ids": [
+            "https://openalex.org/I5124864"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.10978267,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "85",
+    "issue": "8_Supplement_1",
+    "first_page": "4588",
+    "last_page": "4588"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10336",
+    "display_name": "Cancer Cells and Metastasis",
+    "score": 0.6924999952316284,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2730",
+      "display_name": "Oncology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10336",
+      "display_name": "Cancer Cells and Metastasis",
+      "score": 0.6924999952316284,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11067",
+      "display_name": "Colorectal Cancer Treatments and Studies",
+      "score": 0.5888000130653381,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/organoid",
+      "display_name": "Organoid",
+      "score": 0.9322896003723145
+    },
+    {
+      "id": "https://openalex.org/keywords/colorectal-cancer",
+      "display_name": "Colorectal cancer",
+      "score": 0.7233562469482422
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.47883012890815735
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.4720227122306824
+    },
+    {
+      "id": "https://openalex.org/keywords/resistance",
+      "display_name": "Resistance (ecology)",
+      "score": 0.4410637617111206
+    },
+    {
+      "id": "https://openalex.org/keywords/oncology",
+      "display_name": "Oncology",
+      "score": 0.3879803717136383
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-research",
+      "display_name": "Cancer research",
+      "score": 0.331948459148407
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.2975321412086487
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.2850906252861023
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.1538086235523224
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.05842551589012146
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C31695470",
+      "wikidata": "https://www.wikidata.org/wiki/Q11293125",
+      "display_name": "Organoid",
+      "level": 2,
+      "score": 0.9322896003723145
+    },
+    {
+      "id": "https://openalex.org/C526805850",
+      "wikidata": "https://www.wikidata.org/wiki/Q188874",
+      "display_name": "Colorectal cancer",
+      "level": 3,
+      "score": 0.7233562469482422
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.47883012890815735
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.4720227122306824
+    },
+    {
+      "id": "https://openalex.org/C57473165",
+      "wikidata": "https://www.wikidata.org/wiki/Q7315604",
+      "display_name": "Resistance (ecology)",
+      "level": 2,
+      "score": 0.4410637617111206
+    },
+    {
+      "id": "https://openalex.org/C143998085",
+      "wikidata": "https://www.wikidata.org/wiki/Q162555",
+      "display_name": "Oncology",
+      "level": 1,
+      "score": 0.3879803717136383
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.331948459148407
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.2975321412086487
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.2850906252861023
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.1538086235523224
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.05842551589012146
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1158/1538-7445.am2025-4588",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1158/1538-7445.am2025-4588",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S168522863",
+        "display_name": "Cancer Research",
+        "issn_l": "0008-5472",
+        "issn": [
+          "0008-5472",
+          "1538-7445"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320273",
+        "host_organization_name": "American Association for Cancer Research",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320273"
+        ],
+        "host_organization_lineage_names": [
+          "American Association for Cancer Research"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cancer Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:infoscience.epfl.ch:20.500.14299/249946",
+      "is_oa": true,
+      "landing_page_url": "https://infoscience.epfl.ch/handle/20.500.14299/249946",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400487",
+        "display_name": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "research article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:infoscience.epfl.ch:20.500.14299/249946",
+    "is_oa": true,
+    "landing_page_url": "https://infoscience.epfl.ch/handle/20.500.14299/249946",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400487",
+      "display_name": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "research article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4386439204",
+    "https://openalex.org/W4401794395",
+    "https://openalex.org/W3133804457",
+    "https://openalex.org/W3033121461",
+    "https://openalex.org/W3094248195",
+    "https://openalex.org/W2811397904",
+    "https://openalex.org/W3047600752",
+    "https://openalex.org/W3047590429",
+    "https://openalex.org/W4307092668",
+    "https://openalex.org/W3048825385"
+  ],
+  "abstract_inverted_index": {
+    "Colorectal": [
+      0
+    ],
+    "cancer": [
+      1
+    ],
+    "(CRC)": [
+      2
+    ],
+    "is": [
+      3,
+      36,
+      42
+    ],
+    "among": [
+      4
+    ],
+    "the": [
+      5,
+      14,
+      23,
+      29,
+      63,
+      84,
+      99,
+      102,
+      178,
+      241
+    ],
+    "three": [
+      6
+    ],
+    "most": [
+      7
+    ],
+    "commonly": [
+      8
+    ],
+    "diagnosed": [
+      9
+    ],
+    "cancers": [
+      10
+    ],
+    "and": [
+      11,
+      20,
+      44,
+      49,
+      72,
+      77,
+      126,
+      137,
+      149,
+      155,
+      158,
+      166,
+      173,
+      225
+    ],
+    "one": [
+      12
+    ],
+    "of": [
+      13,
+      17,
+      25,
+      40,
+      70,
+      101,
+      121,
+      152,
+      186,
+      189,
+      240
+    ],
+    "major": [
+      15
+    ],
+    "causes": [
+      16
+    ],
+    "cancer-related": [
+      18
+    ],
+    "morbidity": [
+      19
+    ],
+    "mortality.": [
+      21
+    ],
+    "Despite": [
+      22
+    ],
+    "discovery": [
+      24
+    ],
+    "several": [
+      26
+    ],
+    "predictive": [
+      27
+    ],
+    "biomarkers,": [
+      28
+    ],
+    "5-year": [
+      30
+    ],
+    "survival": [
+      31
+    ],
+    "rate": [
+      32
+    ],
+    "for": [
+      33,
+      86,
+      107,
+      244
+    ],
+    "metastatic": [
+      34,
+      73,
+      127
+    ],
+    "CRC": [
+      35,
+      41,
+      74,
+      128
+    ],
+    "15%.": [
+      37
+    ],
+    "A": [
+      38
+    ],
+    "hallmark": [
+      39
+    ],
+    "inter-": [
+      43
+    ],
+    "intra-patient": [
+      45
+    ],
+    "heterogeneity.": [
+      46
+    ],
+    "Moreover,": [
+      47
+    ],
+    "chemo-radiation": [
+      48
+    ],
+    "targeted": [
+      50
+    ],
+    "therapies": [
+      51
+    ],
+    "often": [
+      52
+    ],
+    "result": [
+      53
+    ],
+    "in": [
+      54,
+      110,
+      227
+    ],
+    "producing": [
+      55
+    ],
+    "resistant": [
+      56
+    ],
+    "clonal": [
+      57
+    ],
+    "populations": [
+      58
+    ],
+    "that": [
+      59,
+      114
+    ],
+    "are": [
+      60,
+      92
+    ],
+    "unresponsive": [
+      61
+    ],
+    "to": [
+      62,
+      97,
+      181
+    ],
+    "ongoing": [
+      64
+    ],
+    "treatment.": [
+      65,
+      161
+    ],
+    "Revealing": [
+      66
+    ],
+    "a": [
+      67,
+      93,
+      119
+    ],
+    "comprehensive": [
+      68
+    ],
+    "landscape": [
+      69
+    ],
+    "primary": [
+      71,
+      125
+    ],
+    "cell": [
+      75,
+      169
+    ],
+    "states": [
+      76,
+      170,
+      224
+    ],
+    "their": [
+      78
+    ],
+    "evolution": [
+      79
+    ],
+    "during": [
+      80
+    ],
+    "chemotherapy": [
+      81,
+      160
+    ],
+    "treatment": [
+      82,
+      182
+    ],
+    "provides": [
+      83
+    ],
+    "potential": [
+      85
+    ],
+    "tackling": [
+      87
+    ],
+    "this": [
+      88
+    ],
+    "problem.": [
+      89
+    ],
+    "Patient-derived": [
+      90
+    ],
+    "organoids": [
+      91,
+      236
+    ],
+    "valuable": [
+      94
+    ],
+    "research": [
+      95
+    ],
+    "tool": [
+      96
+    ],
+    "study": [
+      98
+    ],
+    "biology": [
+      100
+    ],
+    "disease": [
+      103
+    ],
+    "as": [
+      104,
+      106,
+      130,
+      132,
+      175,
+      177
+    ],
+    "well": [
+      105,
+      131,
+      176
+    ],
+    "drug": [
+      108
+    ],
+    "screening": [
+      109
+    ],
+    "personalized": [
+      111
+    ],
+    "medicine.": [
+      112
+    ],
+    "To": [
+      113
+    ],
+    "end,": [
+      115
+    ],
+    "we": [
+      116,
+      232
+    ],
+    "have": [
+      117,
+      143,
+      163
+    ],
+    "collected": [
+      118
+    ],
+    "biobank": [
+      120
+    ],
+    "90": [
+      122
+    ],
+    "PDOs": [
+      123,
+      172
+    ],
+    "from": [
+      124,
+      234
+    ],
+    "patients,": [
+      129
+    ],
+    "autologous": [
+      133
+    ],
+    "cancer-associated": [
+      134
+    ],
+    "fibroblasts": [
+      135
+    ],
+    "(CAFs)": [
+      136
+    ],
+    "tumor": [
+      138
+    ],
+    "infiltrating": [
+      139
+    ],
+    "lymphocytes": [
+      140
+    ],
+    "(TILs).": [
+      141
+    ],
+    "We": [
+      142,
+      162
+    ],
+    "performed": [
+      144
+    ],
+    "whole-exome": [
+      145
+    ],
+    "sequencing": [
+      146
+    ],
+    "(WES),": [
+      147
+    ],
+    "scRNA-seq": [
+      148
+    ],
+    "bulk": [
+      150
+    ],
+    "RNA-seq": [
+      151
+    ],
+    "original": [
+      153
+    ],
+    "tumors": [
+      154
+    ],
+    "PDOs,": [
+      156
+    ],
+    "with": [
+      157,
+      192
+    ],
+    "without": [
+      159
+    ],
+    "discovered": [
+      164
+    ],
+    "specific": [
+      165
+    ],
+    "common": [
+      167
+    ],
+    "transcriptional": [
+      168
+    ],
+    "within": [
+      171
+    ],
+    "tumors,": [
+      174
+    ],
+    "multiple": [
+      179
+    ],
+    "responses": [
+      180
+    ],
+    "confirming": [
+      183
+    ],
+    "high": [
+      184
+    ],
+    "heterogeneity": [
+      185
+    ],
+    "CRC.": [
+      187
+    ],
+    "Combination": [
+      188
+    ],
+    "these": [
+      190
+    ],
+    "results": [
+      191
+    ],
+    "clinical": [
+      193
+    ],
+    "data": [
+      194
+    ],
+    "can": [
+      195,
+      231
+    ],
+    "predict": [
+      196
+    ],
+    "new": [
+      197
+    ],
+    "biomarkers.": [
+      198
+    ],
+    "Citation": [
+      199
+    ],
+    "Format:": [
+      200
+    ],
+    "Maxim": [
+      201
+    ],
+    "Norkin,": [
+      202
+    ],
+    "Pablo": [
+      203
+    ],
+    "Hernandez": [
+      204
+    ],
+    "Lopez,": [
+      205
+    ],
+    "Cinzia": [
+      206
+    ],
+    "Esposito,": [
+      207
+    ],
+    "George": [
+      208
+    ],
+    "Ramzy,": [
+      209
+    ],
+    "Mireia": [
+      210
+    ],
+    "Andreu": [
+      211
+    ],
+    "Carbo,": [
+      212
+    ],
+    "Paloma": [
+      213
+    ],
+    "Ordóñez-Morán,": [
+      214
+    ],
+    "Patrycja": [
+      215
+    ],
+    "Nowak-Sliwinska,": [
+      216
+    ],
+    "Salvatore": [
+      217
+    ],
+    "Piscuoglio,": [
+      218
+    ],
+    "Krisztian": [
+      219
+    ],
+    "Homicsko,": [
+      220
+    ],
+    "Joerg": [
+      221
+    ],
+    "Huelsken.": [
+      222
+    ],
+    "Cell": [
+      223
+    ],
+    "resistance": [
+      226
+    ],
+    "colorectal": [
+      228
+    ],
+    "cancer:": [
+      229
+    ],
+    "What": [
+      230
+    ],
+    "learn": [
+      233
+    ],
+    "patient-derived": [
+      235
+    ],
+    "[abstract].": [
+      237
+    ],
+    "In:": [
+      238
+    ],
+    "Proceedings": [
+      239
+    ],
+    "American": [
+      242
+    ],
+    "Association": [
+      243
+    ],
+    "Cancer": [
+      245,
+      262
+    ],
+    "Research": [
+      246
+    ],
+    "Annual": [
+      247
+    ],
+    "Meeting": [
+      248
+    ],
+    "2025;": [
+      249
+    ],
+    "Part": [
+      250
+    ],
+    "1": [
+      251
+    ],
+    "(Regular": [
+      252
+    ],
+    "Abstracts);": [
+      253
+    ],
+    "2025": [
+      254
+    ],
+    "Apr": [
+      255
+    ],
+    "25-30;": [
+      256
+    ],
+    "Chicago,": [
+      257
+    ],
+    "IL.": [
+      258
+    ],
+    "Philadelphia": [
+      259
+    ],
+    "(PA):": [
+      260
+    ],
+    "AACR;": [
+      261
+    ],
+    "Res": [
+      263
+    ],
+    "2025;85(8_Suppl_1):Abstract": [
+      264
+    ],
+    "nr": [
+      265
+    ],
+    "4588.": [
+      266
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

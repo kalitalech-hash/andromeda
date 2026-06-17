@@ -1,0 +1,1615 @@
+{
+  "id": "https://openalex.org/W4282976874",
+  "doi": "https://doi.org/10.1016/j.isci.2022.104594",
+  "title": "SARS-CoV-2 infects an in vitro model of the human developing pancreas through endocytosis",
+  "display_name": "SARS-CoV-2 infects an in vitro model of the human developing pancreas through endocytosis",
+  "publication_year": 2022,
+  "publication_date": "2022-06-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4282976874",
+    "doi": "https://doi.org/10.1016/j.isci.2022.104594",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35756892"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.isci.2022.104594",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.isci.2022.104594",
+    "pdf_url": "http://www.cell.com/article/S2589004222008665/pdf",
+    "source": {
+      "id": "https://openalex.org/S2898358376",
+      "display_name": "iScience",
+      "issn_l": "2589-0042",
+      "issn": [
+        "2589-0042"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "iScience",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.cell.com/article/S2589004222008665/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016819260",
+        "display_name": "Wojciech J. Szlachcic",
+        "orcid": "https://orcid.org/0000-0002-5485-0049"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wojciech J. Szlachcic",
+      "raw_affiliation_strings": [
+        "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5485-0049",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057489119",
+        "display_name": "Agnieszka Dąbrowska",
+        "orcid": "https://orcid.org/0000-0003-1499-4950"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agnieszka Dabrowska",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland",
+        "Microbiology Department, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1499-4950",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Microbiology Department, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042829173",
+        "display_name": "Aleksandra Milewska",
+        "orcid": "https://orcid.org/0000-0003-0895-8697"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aleksandra Milewska",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088356755",
+        "display_name": "Natalia Ziojla",
+        "orcid": "https://orcid.org/0000-0001-6439-8466"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalia Ziojla",
+      "raw_affiliation_strings": [
+        "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112008423",
+        "display_name": "Katarzyna Błaszczyk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Blaszczyk",
+      "raw_affiliation_strings": [
+        "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027217682",
+        "display_name": "Emilia Barreto-Durán",
+        "orcid": "https://orcid.org/0000-0002-9152-5552"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emilia Barreto-Duran",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9152-5552",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056150470",
+        "display_name": "Marek Sanak",
+        "orcid": "https://orcid.org/0000-0001-7635-8103"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marek Sanak",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Faculty of Medicine, Jagiellonian University Medical College, 30-688 Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7635-8103",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Faculty of Medicine, Jagiellonian University Medical College, 30-688 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080126091",
+        "display_name": "Marcin Surmiak",
+        "orcid": "https://orcid.org/0000-0001-8396-1488"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcin Surmiak",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Faculty of Medicine, Jagiellonian University Medical College, 30-688 Kraków, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8396-1488",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Faculty of Medicine, Jagiellonian University Medical College, 30-688 Kraków, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067821039",
+        "display_name": "Katarzyna Owczarek",
+        "orcid": "https://orcid.org/0000-0002-2166-4688"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katarzyna Owczarek",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056976190",
+        "display_name": "Dariusz Grzanka",
+        "orcid": "https://orcid.org/0000-0002-0416-7583"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3019271933",
+          "display_name": "Nicolaus Copernicus University",
+          "ror": "https://ror.org/0102mm775",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3019271933"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210148386",
+          "display_name": "Collegium Medicum in Bydgoszcz",
+          "ror": "https://ror.org/04c5jwj47",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3019271933",
+            "https://openalex.org/I4210148386"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dariusz Grzanka",
+      "raw_affiliation_strings": [
+        "Department of Clinical Pathomorphology, Faculty of Medicine, Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in Torun, 85-094 Bydgoszcz, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Pathomorphology, Faculty of Medicine, Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in Torun, 85-094 Bydgoszcz, Poland",
+          "institution_ids": [
+            "https://openalex.org/I3019271933",
+            "https://openalex.org/I4210148386"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006040821",
+        "display_name": "Julia Durzyńska",
+        "orcid": "https://orcid.org/0000-0002-8767-3755"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julia Durzynska",
+      "raw_affiliation_strings": [
+        "Institute of Experimental Biology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8767-3755",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Experimental Biology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066890613",
+        "display_name": "Krzysztof Pyrć",
+        "orcid": "https://orcid.org/0000-0002-3867-7688"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126596746",
+          "display_name": "Jagiellonian University",
+          "ror": "https://ror.org/03bqmcz70",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Krzysztof Pyrc",
+      "raw_affiliation_strings": [
+        "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3867-7688",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Malopolska Centre of Biotechnology, Jagiellonian University, Gronostajowa 7A, 30-387 Krakow, Poland",
+          "institution_ids": [
+            "https://openalex.org/I126596746"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5058573013",
+        "display_name": "Malgorzata Borowiak",
+        "orcid": "https://orcid.org/0000-0002-5829-1213"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I181547552",
+          "display_name": "Baylor College of Medicine",
+          "ror": "https://ror.org/02pttbw34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I181547552",
+            "https://openalex.org/I2801539370"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Malgorzata Borowiak",
+      "raw_affiliation_strings": [
+        "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland",
+        "Stem Cell and Regenerative Medicine Center, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Molecular Biology and Biotechnology, Faculty of Biology, Adam Mickiewicz University, Uniwersytetu Poznanskiego 6, 61-614 Poznan, Poland",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Stem Cell and Regenerative Medicine Center, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA",
+          "institution_ids": [
+            "https://openalex.org/I181547552"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 13,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5058573013",
+    "https://openalex.org/A5066890613"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I126596746",
+    "https://openalex.org/I181547552",
+    "https://openalex.org/I59411706"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "fwci": 2.8359,
+  "has_fulltext": true,
+  "cited_by_count": 14,
+  "citation_normalized_percentile": {
+    "value": 0.90815743,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "25",
+    "issue": "7",
+    "first_page": "104594",
+    "last_page": "104594"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10839",
+    "display_name": "Pancreatic function and diabetes",
+    "score": 0.998199999332428,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2746",
+      "display_name": "Surgery"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10839",
+      "display_name": "Pancreatic function and diabetes",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10041",
+      "display_name": "COVID-19 Clinical Research Studies",
+      "score": 0.9835000038146973,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11171",
+      "display_name": "Diabetes and associated disorders",
+      "score": 0.9757000207901001,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/endocytosis",
+      "display_name": "Endocytosis",
+      "score": 0.7099429965019226
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5699578523635864
+    },
+    {
+      "id": "https://openalex.org/keywords/pancreas",
+      "display_name": "Pancreas",
+      "score": 0.5673561692237854
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.5399316549301147
+    },
+    {
+      "id": "https://openalex.org/keywords/enteroendocrine-cell",
+      "display_name": "Enteroendocrine cell",
+      "score": 0.5157496929168701
+    },
+    {
+      "id": "https://openalex.org/keywords/induced-pluripotent-stem-cell",
+      "display_name": "Induced pluripotent stem cell",
+      "score": 0.4350408613681793
+    },
+    {
+      "id": "https://openalex.org/keywords/receptor",
+      "display_name": "Receptor",
+      "score": 0.3705211877822876
+    },
+    {
+      "id": "https://openalex.org/keywords/virology",
+      "display_name": "Virology",
+      "score": 0.34691286087036133
+    },
+    {
+      "id": "https://openalex.org/keywords/endocrine-system",
+      "display_name": "Endocrine system",
+      "score": 0.2887314558029175
+    },
+    {
+      "id": "https://openalex.org/keywords/endocrinology",
+      "display_name": "Endocrinology",
+      "score": 0.1861216425895691
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.097095787525177
+    },
+    {
+      "id": "https://openalex.org/keywords/hormone",
+      "display_name": "Hormone",
+      "score": 0.07559618353843689
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C28005876",
+      "wikidata": "https://www.wikidata.org/wiki/Q189814",
+      "display_name": "Endocytosis",
+      "level": 3,
+      "score": 0.7099429965019226
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5699578523635864
+    },
+    {
+      "id": "https://openalex.org/C2778764654",
+      "wikidata": "https://www.wikidata.org/wiki/Q9618",
+      "display_name": "Pancreas",
+      "level": 2,
+      "score": 0.5673561692237854
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.5399316549301147
+    },
+    {
+      "id": "https://openalex.org/C103395026",
+      "wikidata": "https://www.wikidata.org/wiki/Q5380231",
+      "display_name": "Enteroendocrine cell",
+      "level": 4,
+      "score": 0.5157496929168701
+    },
+    {
+      "id": "https://openalex.org/C107459253",
+      "wikidata": "https://www.wikidata.org/wiki/Q674925",
+      "display_name": "Induced pluripotent stem cell",
+      "level": 4,
+      "score": 0.4350408613681793
+    },
+    {
+      "id": "https://openalex.org/C170493617",
+      "wikidata": "https://www.wikidata.org/wiki/Q208467",
+      "display_name": "Receptor",
+      "level": 2,
+      "score": 0.3705211877822876
+    },
+    {
+      "id": "https://openalex.org/C159047783",
+      "wikidata": "https://www.wikidata.org/wiki/Q7215",
+      "display_name": "Virology",
+      "level": 1,
+      "score": 0.34691286087036133
+    },
+    {
+      "id": "https://openalex.org/C46699223",
+      "wikidata": "https://www.wikidata.org/wiki/Q11078",
+      "display_name": "Endocrine system",
+      "level": 3,
+      "score": 0.2887314558029175
+    },
+    {
+      "id": "https://openalex.org/C134018914",
+      "wikidata": "https://www.wikidata.org/wiki/Q162606",
+      "display_name": "Endocrinology",
+      "level": 1,
+      "score": 0.1861216425895691
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.097095787525177
+    },
+    {
+      "id": "https://openalex.org/C71315377",
+      "wikidata": "https://www.wikidata.org/wiki/Q11364",
+      "display_name": "Hormone",
+      "level": 2,
+      "score": 0.07559618353843689
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C145103041",
+      "wikidata": "https://www.wikidata.org/wiki/Q1151519",
+      "display_name": "Embryonic stem cell",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.isci.2022.104594",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.isci.2022.104594",
+      "pdf_url": "http://www.cell.com/article/S2589004222008665/pdf",
+      "source": {
+        "id": "https://openalex.org/S2898358376",
+        "display_name": "iScience",
+        "issn_l": "2589-0042",
+        "issn": [
+          "2589-0042"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "iScience",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35756892",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35756892",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "iScience",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ruj.uj.edu.pl:item/298594",
+      "is_oa": true,
+      "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/298594",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401249",
+        "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I126596746",
+        "host_organization_name": "Jagiellonian University",
+        "host_organization_lineage": [
+          "https://openalex.org/I126596746"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:db8d8f57c22c4ea6a803818eebe2efa8",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/db8d8f57c22c4ea6a803818eebe2efa8",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "iScience, Vol 25, Iss 7, Pp 104594- (2022)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9212970",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9212970",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "iScience",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.isci.2022.104594",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.isci.2022.104594",
+    "pdf_url": "http://www.cell.com/article/S2589004222008665/pdf",
+    "source": {
+      "id": "https://openalex.org/S2898358376",
+      "display_name": "iScience",
+      "issn_l": "2589-0042",
+      "issn": [
+        "2589-0042"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315673",
+      "host_organization_name": "Cell Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315673",
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Cell Press",
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "iScience",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.6700000166893005,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3584075236",
+      "display_name": null,
+      "funder_award_id": "POIR.04.04.00-00-20C5/16-00",
+      "funder_id": "https://openalex.org/F4320321042",
+      "funder_display_name": "Fundacja na rzecz Nauki Polskiej"
+    },
+    {
+      "id": "https://openalex.org/G5732172173",
+      "display_name": null,
+      "funder_award_id": "5/2020",
+      "funder_id": "https://openalex.org/F4320328205",
+      "funder_display_name": "Uniwersytet im. Adama Mickiewicza w Poznaniu"
+    },
+    {
+      "id": "https://openalex.org/G6257708727",
+      "display_name": null,
+      "funder_award_id": "812673",
+      "funder_id": "https://openalex.org/F4320334322",
+      "funder_display_name": "HORIZON EUROPE Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G6540952776",
+      "display_name": null,
+      "funder_award_id": "UMO-2017/27/B/NZ6/02488",
+      "funder_id": "https://openalex.org/F4320322511",
+      "funder_display_name": "Narodowe Centrum Nauki"
+    },
+    {
+      "id": "https://openalex.org/G6633646584",
+      "display_name": null,
+      "funder_award_id": "UMO-2020/39/B/NZ3/01408",
+      "funder_id": "https://openalex.org/F4320321042",
+      "funder_display_name": "Fundacja na rzecz Nauki Polskiej"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320321042",
+      "display_name": "Fundacja na rzecz Nauki Polskiej",
+      "ror": "https://ror.org/048zd9m77"
+    },
+    {
+      "id": "https://openalex.org/F4320322511",
+      "display_name": "Narodowe Centrum Nauki",
+      "ror": "https://ror.org/03ha2q922"
+    },
+    {
+      "id": "https://openalex.org/F4320322733",
+      "display_name": "Ministerstwo Edukacji i Nauki",
+      "ror": "https://ror.org/05dwvd537"
+    },
+    {
+      "id": "https://openalex.org/F4320328205",
+      "display_name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+      "ror": "https://ror.org/04g6bbq64"
+    },
+    {
+      "id": "https://openalex.org/F4320334322",
+      "display_name": "HORIZON EUROPE Framework Programme",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335254",
+      "display_name": "Horizon 2020",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4282976874.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4282976874.grobid-xml"
+  },
+  "referenced_works_count": 82,
+  "referenced_works": [
+    "https://openalex.org/W1966238900",
+    "https://openalex.org/W2032472678",
+    "https://openalex.org/W2057072852",
+    "https://openalex.org/W2061574308",
+    "https://openalex.org/W2086493164",
+    "https://openalex.org/W2111760041",
+    "https://openalex.org/W2141795747",
+    "https://openalex.org/W2144155263",
+    "https://openalex.org/W2148890861",
+    "https://openalex.org/W2166252806",
+    "https://openalex.org/W2361955106",
+    "https://openalex.org/W2770110160",
+    "https://openalex.org/W2775762540",
+    "https://openalex.org/W2791871629",
+    "https://openalex.org/W2806716492",
+    "https://openalex.org/W2913837249",
+    "https://openalex.org/W2946304399",
+    "https://openalex.org/W2970782252",
+    "https://openalex.org/W2971071832",
+    "https://openalex.org/W3001897055",
+    "https://openalex.org/W3003217347",
+    "https://openalex.org/W3007643904",
+    "https://openalex.org/W3009834387",
+    "https://openalex.org/W3009912996",
+    "https://openalex.org/W3010637630",
+    "https://openalex.org/W3012565918",
+    "https://openalex.org/W3012925204",
+    "https://openalex.org/W3012962097",
+    "https://openalex.org/W3013630838",
+    "https://openalex.org/W3014493418",
+    "https://openalex.org/W3014912119",
+    "https://openalex.org/W3015336926",
+    "https://openalex.org/W3015539298",
+    "https://openalex.org/W3015925195",
+    "https://openalex.org/W3016689661",
+    "https://openalex.org/W3017101807",
+    "https://openalex.org/W3017125154",
+    "https://openalex.org/W3017302293",
+    "https://openalex.org/W3020168167",
+    "https://openalex.org/W3020440274",
+    "https://openalex.org/W3024126428",
+    "https://openalex.org/W3024193040",
+    "https://openalex.org/W3024560213",
+    "https://openalex.org/W3024990892",
+    "https://openalex.org/W3030324311",
+    "https://openalex.org/W3034073400",
+    "https://openalex.org/W3035586023",
+    "https://openalex.org/W3036500399",
+    "https://openalex.org/W3036535913",
+    "https://openalex.org/W3041928946",
+    "https://openalex.org/W3043443916",
+    "https://openalex.org/W3043672461",
+    "https://openalex.org/W3046347817",
+    "https://openalex.org/W3047570184",
+    "https://openalex.org/W3048704086",
+    "https://openalex.org/W3049257741",
+    "https://openalex.org/W3082841609",
+    "https://openalex.org/W3084074523",
+    "https://openalex.org/W3092146863",
+    "https://openalex.org/W3092591243",
+    "https://openalex.org/W3093867667",
+    "https://openalex.org/W3094419073",
+    "https://openalex.org/W3095136592",
+    "https://openalex.org/W3098150858",
+    "https://openalex.org/W3100415955",
+    "https://openalex.org/W3103207834",
+    "https://openalex.org/W3103797259",
+    "https://openalex.org/W3103861847",
+    "https://openalex.org/W3107485993",
+    "https://openalex.org/W3115684488",
+    "https://openalex.org/W3118382170",
+    "https://openalex.org/W3120214978",
+    "https://openalex.org/W3127484940",
+    "https://openalex.org/W3133812656",
+    "https://openalex.org/W3136955306",
+    "https://openalex.org/W3149633446",
+    "https://openalex.org/W3163706616",
+    "https://openalex.org/W3169393277",
+    "https://openalex.org/W3178005814",
+    "https://openalex.org/W6707357246",
+    "https://openalex.org/W6773798280",
+    "https://openalex.org/W6774915660"
+  ],
+  "related_works": [
+    "https://openalex.org/W1989945146",
+    "https://openalex.org/W2058869315",
+    "https://openalex.org/W2046128749",
+    "https://openalex.org/W2758732886",
+    "https://openalex.org/W2105691706",
+    "https://openalex.org/W3142747831",
+    "https://openalex.org/W2362734502",
+    "https://openalex.org/W2059876438",
+    "https://openalex.org/W2026091219",
+    "https://openalex.org/W2364755182"
+  ],
+  "abstract_inverted_index": {
+    "Recent": [
+      0
+    ],
+    "studies": [
+      1
+    ],
+    "showed": [
+      2
+    ],
+    "that": [
+      3,
+      33,
+      57,
+      85,
+      99
+    ],
+    "SARS-CoV-2": [
+      4,
+      34,
+      52,
+      58,
+      79,
+      103,
+      139
+    ],
+    "can": [
+      5
+    ],
+    "infect": [
+      6
+    ],
+    "adult": [
+      7
+    ],
+    "human": [
+      8,
+      16,
+      24,
+      65
+    ],
+    "pancreas": [
+      9,
+      18,
+      143
+    ],
+    "and": [
+      10,
+      20,
+      38,
+      60,
+      68,
+      83,
+      92,
+      135
+    ],
+    "trigger": [
+      11
+    ],
+    "pancreatic": [
+      12,
+      28,
+      46,
+      67,
+      81,
+      101,
+      119
+    ],
+    "damage.": [
+      13
+    ],
+    "Here,": [
+      14
+    ],
+    "using": [
+      15
+    ],
+    "fetal": [
+      17
+    ],
+    "samples": [
+      19
+    ],
+    "3D": [
+      21
+    ],
+    "differentiation": [
+      22
+    ],
+    "of": [
+      23,
+      44
+    ],
+    "pluripotent": [
+      25
+    ],
+    "cells": [
+      26,
+      105
+    ],
+    "into": [
+      27
+    ],
+    "endocrine": [
+      29,
+      69
+    ],
+    "cells,": [
+      30,
+      82
+    ],
+    "we": [
+      31,
+      74,
+      97
+    ],
+    "determined": [
+      32
+    ],
+    "receptors": [
+      35
+    ],
+    "ACE2,": [
+      36
+    ],
+    "TMPRSS2,": [
+      37
+    ],
+    "NRP1": [
+      39,
+      91
+    ],
+    "are": [
+      40
+    ],
+    "expressed": [
+      41
+    ],
+    "in": [
+      42,
+      64,
+      71,
+      100,
+      115
+    ],
+    "precursors": [
+      43
+    ],
+    "insulin-producing": [
+      45
+    ],
+    "b-cells,": [
+      47
+    ],
+    "rendering": [
+      48
+    ],
+    "them": [
+      49
+    ],
+    "permissive": [
+      50
+    ],
+    "to": [
+      51,
+      126,
+      136
+    ],
+    "infection.": [
+      53
+    ],
+    "We": [
+      54
+    ],
+    "also": [
+      55
+    ],
+    "show": [
+      56
+    ],
+    "enters": [
+      59,
+      80,
+      104
+    ],
+    "undergoes": [
+      61
+    ],
+    "efficient": [
+      62
+    ],
+    "replication": [
+      63
+    ],
+    "multipotent": [
+      66
+    ],
+    "progenitors": [
+      70
+    ],
+    "vitro.": [
+      72
+    ],
+    "Moreover,": [
+      73
+    ],
+    "investigated": [
+      75
+    ],
+    "mechanisms": [
+      76
+    ],
+    "by": [
+      77
+    ],
+    "which": [
+      78,
+      109
+    ],
+    "found": [
+      84,
+      98
+    ],
+    "ACE2": [
+      86
+    ],
+    "mediates": [
+      87
+    ],
+    "the": [
+      88
+    ],
+    "entry,": [
+      89
+    ],
+    "while": [
+      90
+    ],
+    "TMPRSS2": [
+      93
+    ],
+    "do": [
+      94
+    ],
+    "not.": [
+      95
+    ],
+    "Surprisingly,": [
+      96
+    ],
+    "progenitors,": [
+      102
+    ],
+    "via": [
+      106
+    ],
+    "cathepsin-dependent": [
+      107
+    ],
+    "endocytosis,": [
+      108
+    ],
+    "is": [
+      110
+    ],
+    "a": [
+      111,
+      124
+    ],
+    "different": [
+      112
+    ],
+    "route": [
+      113
+    ],
+    "than": [
+      114
+    ],
+    "respiratory": [
+      116
+    ],
+    "tract.": [
+      117
+    ],
+    "Therefore,": [
+      118
+    ],
+    "spheroids": [
+      120
+    ],
+    "might": [
+      121
+    ],
+    "serve": [
+      122
+    ],
+    "as": [
+      123
+    ],
+    "model": [
+      125
+    ],
+    "study": [
+      127
+    ],
+    "candidate": [
+      128
+    ],
+    "drugs": [
+      129
+    ],
+    "for": [
+      130
+    ],
+    "endocytosis-mediated": [
+      131
+    ],
+    "viral": [
+      132
+    ],
+    "entry": [
+      133
+    ],
+    "inhibition": [
+      134
+    ],
+    "investigate": [
+      137
+    ],
+    "whether": [
+      138
+    ],
+    "infection": [
+      140
+    ],
+    "may": [
+      141
+    ],
+    "affect": [
+      142
+    ],
+    "development,": [
+      144
+    ],
+    "possibly": [
+      145
+    ],
+    "causing": [
+      146
+    ],
+    "lifelong": [
+      147
+    ],
+    "health": [
+      148
+    ],
+    "consequences.": [
+      149
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-16T09:24:06.705377",
+  "created_date": "2022-06-17T00:00:00"
+}

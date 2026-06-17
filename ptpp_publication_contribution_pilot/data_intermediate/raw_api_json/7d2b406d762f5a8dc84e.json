@@ -1,0 +1,1313 @@
+{
+  "id": "https://openalex.org/W2898250104",
+  "doi": "https://doi.org/10.1115/icone26-81049",
+  "title": "Design of a Closely-Spaced Rod Bundle for a Reference Direct Numerical Simulation",
+  "display_name": "Design of a Closely-Spaced Rod Bundle for a Reference Direct Numerical Simulation",
+  "publication_year": 2018,
+  "publication_date": "2018-07-22",
+  "ids": {
+    "openalex": "https://openalex.org/W2898250104",
+    "doi": "https://doi.org/10.1115/icone26-81049",
+    "mag": "2898250104"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1115/icone26-81049",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1115/icone26-81049",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Volume 8: Computational Fluid Dynamics (CFD); Nuclear Education and Public Acceptance",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5013995576",
+        "display_name": "Afaque Shams",
+        "orcid": "https://orcid.org/0000-0003-1287-1607"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I58176456",
+          "display_name": "Nuclear Research and Consultancy Group",
+          "ror": "https://ror.org/034b4g685",
+          "country_code": "NL",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Afaque Shams",
+      "raw_affiliation_strings": [
+        "Nuclear Research and Consultancy Group, Petten, Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nuclear Research and Consultancy Group, Petten, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I58176456"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5071433068",
+        "display_name": "Tomasz Kwiatkowski",
+        "orcid": "https://orcid.org/0000-0002-5483-265X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210097150",
+          "display_name": "National Centre for Nuclear Research",
+          "ror": "https://ror.org/00nzsxq20",
+          "country_code": "PL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210097150"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomasz Kwiatkowski",
+      "raw_affiliation_strings": [
+        "National Centre for Nuclear Research, Otwock-Swierk, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Centre for Nuclear Research, Otwock-Swierk, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4210097150"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.12676203,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12567",
+    "display_name": "Heat transfer and supercritical fluids",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2206",
+      "display_name": "Computational Mechanics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12567",
+      "display_name": "Heat transfer and supercritical fluids",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10597",
+      "display_name": "Nuclear reactor physics and engineering",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12560",
+      "display_name": "Nuclear Engineering Thermal-Hydraulics",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/reynolds-averaged-navier–stokes-equations",
+      "display_name": "Reynolds-averaged Navier–Stokes equations",
+      "score": 0.9080921411514282
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-fluid-dynamics",
+      "display_name": "Computational fluid dynamics",
+      "score": 0.7383830547332764
+    },
+    {
+      "id": "https://openalex.org/keywords/turbulence",
+      "display_name": "Turbulence",
+      "score": 0.6928524971008301
+    },
+    {
+      "id": "https://openalex.org/keywords/bundle",
+      "display_name": "Bundle",
+      "score": 0.6869868040084839
+    },
+    {
+      "id": "https://openalex.org/keywords/reynolds-number",
+      "display_name": "Reynolds number",
+      "score": 0.555741548538208
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5253721475601196
+    },
+    {
+      "id": "https://openalex.org/keywords/thermal-hydraulics",
+      "display_name": "Thermal hydraulics",
+      "score": 0.44307559728622437
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanics",
+      "display_name": "Mechanics",
+      "score": 0.44212648272514343
+    },
+    {
+      "id": "https://openalex.org/keywords/heat-transfer",
+      "display_name": "Heat transfer",
+      "score": 0.4068751037120819
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.4061073362827301
+    },
+    {
+      "id": "https://openalex.org/keywords/simulation",
+      "display_name": "Simulation",
+      "score": 0.387067973613739
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.2826921343803406
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.20386922359466553
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.14864888787269592
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C32526432",
+      "wikidata": "https://www.wikidata.org/wiki/Q1536235",
+      "display_name": "Reynolds-averaged Navier–Stokes equations",
+      "level": 3,
+      "score": 0.9080921411514282
+    },
+    {
+      "id": "https://openalex.org/C1633027",
+      "wikidata": "https://www.wikidata.org/wiki/Q815820",
+      "display_name": "Computational fluid dynamics",
+      "level": 2,
+      "score": 0.7383830547332764
+    },
+    {
+      "id": "https://openalex.org/C196558001",
+      "wikidata": "https://www.wikidata.org/wiki/Q190132",
+      "display_name": "Turbulence",
+      "level": 2,
+      "score": 0.6928524971008301
+    },
+    {
+      "id": "https://openalex.org/C2778134712",
+      "wikidata": "https://www.wikidata.org/wiki/Q1047307",
+      "display_name": "Bundle",
+      "level": 2,
+      "score": 0.6869868040084839
+    },
+    {
+      "id": "https://openalex.org/C182748727",
+      "wikidata": "https://www.wikidata.org/wiki/Q178932",
+      "display_name": "Reynolds number",
+      "level": 3,
+      "score": 0.555741548538208
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5253721475601196
+    },
+    {
+      "id": "https://openalex.org/C174379495",
+      "wikidata": "https://www.wikidata.org/wiki/Q3523888",
+      "display_name": "Thermal hydraulics",
+      "level": 3,
+      "score": 0.44307559728622437
+    },
+    {
+      "id": "https://openalex.org/C57879066",
+      "wikidata": "https://www.wikidata.org/wiki/Q41217",
+      "display_name": "Mechanics",
+      "level": 1,
+      "score": 0.44212648272514343
+    },
+    {
+      "id": "https://openalex.org/C50517652",
+      "wikidata": "https://www.wikidata.org/wiki/Q179635",
+      "display_name": "Heat transfer",
+      "level": 2,
+      "score": 0.4068751037120819
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.4061073362827301
+    },
+    {
+      "id": "https://openalex.org/C44154836",
+      "wikidata": "https://www.wikidata.org/wiki/Q45045",
+      "display_name": "Simulation",
+      "level": 1,
+      "score": 0.387067973613739
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.2826921343803406
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.20386922359466553
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.14864888787269592
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1115/icone26-81049",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1115/icone26-81049",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Volume 8: Computational Fluid Dynamics (CFD); Nuclear Education and Public Acceptance",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.5600000023841858,
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2911627970",
+    "https://openalex.org/W2744033844",
+    "https://openalex.org/W2045524054",
+    "https://openalex.org/W1984651121",
+    "https://openalex.org/W3173747918",
+    "https://openalex.org/W3110439932",
+    "https://openalex.org/W2183512575",
+    "https://openalex.org/W4389537680",
+    "https://openalex.org/W2023528167",
+    "https://openalex.org/W2742280084"
+  ],
+  "abstract_inverted_index": {
+    "Detailed": [
+      0
+    ],
+    "knowledge": [
+      1
+    ],
+    "of": [
+      2,
+      10,
+      23,
+      70,
+      97,
+      135,
+      157,
+      195,
+      250,
+      272,
+      338,
+      348
+    ],
+    "a": [
+      3,
+      7,
+      11,
+      17,
+      57,
+      109,
+      186,
+      201,
+      208,
+      214,
+      224,
+      243,
+      255,
+      264,
+      269,
+      291,
+      312,
+      366,
+      370
+    ],
+    "coolant": [
+      4
+    ],
+    "flow": [
+      5,
+      99,
+      136,
+      174,
+      304,
+      310
+    ],
+    "in": [
+      6,
+      20,
+      64,
+      141,
+      204,
+      355,
+      389
+    ],
+    "fuel": [
+      8,
+      66,
+      105
+    ],
+    "assembly": [
+      9,
+      67
+    ],
+    "reactor": [
+      12
+    ],
+    "core": [
+      13
+    ],
+    "has": [
+      14,
+      277,
+      352
+    ],
+    "always": [
+      15
+    ],
+    "been": [
+      16,
+      278,
+      353
+    ],
+    "major": [
+      18
+    ],
+    "factor": [
+      19
+    ],
+    "the": [
+      21,
+      46,
+      65,
+      71,
+      78,
+      98,
+      104,
+      124,
+      132,
+      142,
+      167,
+      227,
+      237,
+      260,
+      282,
+      296,
+      302,
+      309,
+      326,
+      335,
+      363,
+      375,
+      383,
+      393,
+      398
+    ],
+    "design": [
+      22,
+      200,
+      233
+    ],
+    "new": [
+      24
+    ],
+    "nuclear": [
+      25
+    ],
+    "systems.": [
+      26
+    ],
+    "In": [
+      27,
+      154,
+      176,
+      306
+    ],
+    "this": [
+      28,
+      196
+    ],
+    "regard,": [
+      29
+    ],
+    "traditionally": [
+      30
+    ],
+    "adopted": [
+      31
+    ],
+    "subchannel": [
+      32,
+      143
+    ],
+    "analysis": [
+      33
+    ],
+    "codes": [
+      34
+    ],
+    "cannot": [
+      35
+    ],
+    "take": [
+      36,
+      323
+    ],
+    "into": [
+      37,
+      324
+    ],
+    "account": [
+      38,
+      325
+    ],
+    "local": [
+      39
+    ],
+    "phenomena,": [
+      40
+    ],
+    "which": [
+      41,
+      220,
+      241
+    ],
+    "are": [
+      42,
+      82,
+      127,
+      145,
+      379
+    ],
+    "quite": [
+      43,
+      149
+    ],
+    "essential.": [
+      44
+    ],
+    "On": [
+      45
+    ],
+    "other": [
+      47
+    ],
+    "hand,": [
+      48
+    ],
+    "Computational": [
+      49
+    ],
+    "Fluid": [
+      50
+    ],
+    "Dynamic": [
+      51
+    ],
+    "(CFD)": [
+      52
+    ],
+    "is": [
+      53,
+      108,
+      198,
+      234,
+      288,
+      320
+    ],
+    "being": [
+      54
+    ],
+    "recognized": [
+      55
+    ],
+    "as": [
+      56,
+      185,
+      223
+    ],
+    "valuable": [
+      58
+    ],
+    "research": [
+      59
+    ],
+    "tool": [
+      60
+    ],
+    "for": [
+      61,
+      111,
+      172,
+      188,
+      213,
+      226,
+      290,
+      315,
+      397
+    ],
+    "thermal-hydraulics": [
+      62
+    ],
+    "phenomenon": [
+      63
+    ],
+    "geometries.": [
+      68
+    ],
+    "Because": [
+      69
+    ],
+    "high": [
+      72,
+      209
+    ],
+    "Reynolds": [
+      73,
+      87,
+      283
+    ],
+    "number": [
+      74,
+      284
+    ],
+    "and": [
+      75,
+      100,
+      116,
+      138,
+      191,
+      294,
+      341,
+      369,
+      385
+    ],
+    "geometric": [
+      76,
+      232
+    ],
+    "complexities,": [
+      77
+    ],
+    "practical": [
+      79
+    ],
+    "CFD": [
+      80
+    ],
+    "calculations": [
+      81
+    ],
+    "mostly": [
+      83
+    ],
+    "limited": [
+      84
+    ],
+    "to": [
+      85,
+      120,
+      151,
+      163,
+      199,
+      206,
+      259,
+      280,
+      308,
+      322,
+      334,
+      381,
+      391
+    ],
+    "pragmatic": [
+      86
+    ],
+    "Averaged": [
+      88
+    ],
+    "Navier-Stokes": [
+      89
+    ],
+    "(RANS)": [
+      90
+    ],
+    "type": [
+      91
+    ],
+    "modelling": [
+      92
+    ],
+    "approaches.": [
+      93
+    ],
+    "A": [
+      94
+    ],
+    "good": [
+      95
+    ],
+    "prediction": [
+      96
+    ],
+    "heat": [
+      101,
+      139,
+      327,
+      346,
+      372
+    ],
+    "transport": [
+      102
+    ],
+    "inside": [
+      103
+    ],
+    "rod": [
+      106,
+      218,
+      245
+    ],
+    "bundle": [
+      107,
+      246
+    ],
+    "challenge": [
+      110
+    ],
+    "such": [
+      112,
+      285
+    ],
+    "RANS": [
+      113,
+      169,
+      274
+    ],
+    "turbulence": [
+      114,
+      170
+    ],
+    "models": [
+      115,
+      118,
+      171
+    ],
+    "these": [
+      117,
+      349
+    ],
+    "need": [
+      119
+    ],
+    "be": [
+      121,
+      152
+    ],
+    "validated.": [
+      122
+    ],
+    "Although": [
+      123
+    ],
+    "measurement": [
+      125
+    ],
+    "techniques": [
+      126
+    ],
+    "constantly": [
+      128
+    ],
+    "getting": [
+      129
+    ],
+    "improved,": [
+      130
+    ],
+    "however,": [
+      131
+    ],
+    "CFD-grade": [
+      133
+    ],
+    "experiments": [
+      134
+    ],
+    "mixing": [
+      137
+    ],
+    "transfer": [
+      140,
+      328,
+      347
+    ],
+    "scale": [
+      144
+    ],
+    "often": [
+      146
+    ],
+    "impossible": [
+      147,
+      162
+    ],
+    "or": [
+      148
+    ],
+    "costly": [
+      150
+    ],
+    "performed.": [
+      153
+    ],
+    "addition,": [
+      155
+    ],
+    "lack": [
+      156
+    ],
+    "experimental": [
+      158
+    ],
+    "databases": [
+      159
+    ],
+    "makes": [
+      160
+    ],
+    "it": [
+      161,
+      287,
+      299
+    ],
+    "validate": [
+      164
+    ],
+    "and/or": [
+      165
+    ],
+    "calibrate": [
+      166
+    ],
+    "available": [
+      168
+    ],
+    "certain": [
+      173
+    ],
+    "situations.": [
+      175
+    ],
+    "that": [
+      177,
+      286
+    ],
+    "context,": [
+      178
+    ],
+    "Direct": [
+      179
+    ],
+    "Numerical": [
+      180
+    ],
+    "Simulation": [
+      181
+    ],
+    "(DNS)": [
+      182
+    ],
+    "can": [
+      183
+    ],
+    "serve": [
+      184,
+      222
+    ],
+    "reference": [
+      187,
+      225
+    ],
+    "model": [
+      189
+    ],
+    "development": [
+      190
+    ],
+    "validation.": [
+      192
+    ],
+    "The": [
+      193,
+      230,
+      345
+    ],
+    "aim": [
+      194
+    ],
+    "work": [
+      197
+    ],
+    "numerical": [
+      202
+    ],
+    "experiment": [
+      203,
+      262
+    ],
+    "order": [
+      205,
+      390
+    ],
+    "generate": [
+      207
+    ],
+    "quality": [
+      210
+    ],
+    "DNS": [
+      211,
+      256,
+      292
+    ],
+    "database": [
+      212
+    ],
+    "tight": [
+      215
+    ],
+    "lattice": [
+      216
+    ],
+    "bare": [
+      217,
+      244
+    ],
+    "bundle,": [
+      219
+    ],
+    "will": [
+      221
+    ],
+    "validation": [
+      228
+    ],
+    "purpose.": [
+      229
+    ],
+    "considered": [
+      231
+    ],
+    "based": [
+      235
+    ],
+    "on": [
+      236
+    ],
+    "well-known": [
+      238
+    ],
+    "Hooper": [
+      239,
+      261
+    ],
+    "experiment,": [
+      240
+    ],
+    "contains": [
+      242
+    ],
+    "with": [
+      247,
+      357
+    ],
+    "pitch-to-diameter": [
+      248
+    ],
+    "ratio": [
+      249
+    ],
+    "P/D": [
+      251
+    ],
+    "=": [
+      252
+    ],
+    "1.107.": [
+      253
+    ],
+    "Performing": [
+      254
+    ],
+    "computation": [
+      257,
+      293
+    ],
+    "corresponding": [
+      258
+    ],
+    "requires": [
+      263
+    ],
+    "huge": [
+      265
+    ],
+    "computational": [
+      266
+    ],
+    "power.": [
+      267
+    ],
+    "Hence,": [
+      268
+    ],
+    "wide": [
+      270
+    ],
+    "range": [
+      271
+    ],
+    "unsteady": [
+      273
+    ],
+    "(URANS)": [
+      275
+    ],
+    "study": [
+      276,
+      314
+    ],
+    "performed": [
+      279,
+      321
+    ],
+    "scale-down": [
+      281
+    ],
+    "feasible": [
+      289
+    ],
+    "at": [
+      295,
+      362
+    ],
+    "same": [
+      297
+    ],
+    "time": [
+      298
+    ],
+    "still": [
+      300
+    ],
+    "preserves": [
+      301
+    ],
+    "main": [
+      303
+    ],
+    "characteristics.": [
+      305
+    ],
+    "addition": [
+      307
+    ],
+    "field,": [
+      311
+    ],
+    "parametric": [
+      313
+    ],
+    "three": [
+      316,
+      350
+    ],
+    "different": [
+      317,
+      359
+    ],
+    "passive": [
+      318,
+      331
+    ],
+    "scalars": [
+      319,
+      332
+    ],
+    "analysis.": [
+      329
+    ],
+    "These": [
+      330
+    ],
+    "correspond": [
+      333
+    ],
+    "Prandtl": [
+      336
+    ],
+    "numbers": [
+      337
+    ],
+    "air,": [
+      339
+    ],
+    "water": [
+      340
+    ],
+    "liquid": [
+      342
+    ],
+    "metal": [
+      343
+    ],
+    "fluids.": [
+      344
+    ],
+    "fluids": [
+      351
+    ],
+    "studied": [
+      354
+    ],
+    "combination": [
+      356
+    ],
+    "two": [
+      358
+    ],
+    "boundary": [
+      360
+    ],
+    "conditions": [
+      361
+    ],
+    "walls,": [
+      364
+    ],
+    "i.e.": [
+      365
+    ],
+    "constant": [
+      367,
+      371
+    ],
+    "temperature": [
+      368
+    ],
+    "flux.": [
+      373
+    ],
+    "Finally,": [
+      374
+    ],
+    "obtained": [
+      376
+    ],
+    "URANS": [
+      377
+    ],
+    "results": [
+      378
+    ],
+    "used": [
+      380
+    ],
+    "compute": [
+      382
+    ],
+    "Kolmogorov": [
+      384
+    ],
+    "Batchelor": [
+      386
+    ],
+    "length": [
+      387
+    ],
+    "scales": [
+      388
+    ],
+    "estimate": [
+      392
+    ],
+    "overall": [
+      394
+    ],
+    "meshing": [
+      395
+    ],
+    "requirements": [
+      396
+    ],
+    "targeted": [
+      399
+    ],
+    "DNS.": [
+      400
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

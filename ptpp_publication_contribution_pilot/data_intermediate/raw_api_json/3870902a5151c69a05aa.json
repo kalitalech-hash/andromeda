@@ -1,0 +1,1136 @@
+{
+  "id": "https://openalex.org/W4390451415",
+  "doi": "https://doi.org/10.1049/rpg2.12924",
+  "title": "Stochastic operation model for readiness assessment of small wind turbines based on Markov theory",
+  "display_name": "Stochastic operation model for readiness assessment of small wind turbines based on Markov theory",
+  "publication_year": 2023,
+  "publication_date": "2023-12-29",
+  "ids": {
+    "openalex": "https://openalex.org/W4390451415",
+    "doi": "https://doi.org/10.1049/rpg2.12924"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1049/rpg2.12924",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1049/rpg2.12924",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/rpg2.12924",
+    "source": {
+      "id": "https://openalex.org/S42668443",
+      "display_name": "IET Renewable Power Generation",
+      "issn_l": "1752-1416",
+      "issn": [
+        "1752-1416",
+        "1752-1424"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311714",
+      "host_organization_name": "Institution of Engineering and Technology",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311714"
+      ],
+      "host_organization_lineage_names": [
+        "Institution of Engineering and Technology"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IET Renewable Power Generation",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/rpg2.12924",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055065665",
+        "display_name": "Justyna Zalewska",
+        "orcid": "https://orcid.org/0000-0002-8784-0656"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800249161",
+          "display_name": "Military University of Technology in Warsaw",
+          "ror": "https://ror.org/05fct5h31",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Justyna Zalewska‐Lesiak",
+      "raw_affiliation_strings": [
+        "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering Military University of Technology  Warsaw Poland",
+        "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering, Military University of Technology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering Military University of Technology  Warsaw Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering, Military University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015541888",
+        "display_name": "Jerzy Małąchowski",
+        "orcid": "https://orcid.org/0000-0003-1300-8020"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800249161",
+          "display_name": "Military University of Technology in Warsaw",
+          "ror": "https://ror.org/05fct5h31",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jerzy Małachowski",
+      "raw_affiliation_strings": [
+        "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering Military University of Technology  Warsaw Poland",
+        "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering, Military University of Technology, Warsaw, Poland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1300-8020",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering Military University of Technology  Warsaw Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Mechanics and Computational Engineering, Faculty of Mechanical Engineering, Military University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5090842169",
+        "display_name": "Joanna Szkutnik‐Rogoż",
+        "orcid": "https://orcid.org/0000-0001-9568-2291"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800249161",
+          "display_name": "Military University of Technology in Warsaw",
+          "ror": "https://ror.org/05fct5h31",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joanna Szkutnik‐Rogoż",
+      "raw_affiliation_strings": [
+        "Cybernetics Faculty Military University of Technology  Warsaw Poland",
+        "Cybernetics Faculty, Military University of Technology, Warsaw, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cybernetics Faculty Military University of Technology  Warsaw Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Cybernetics Faculty, Military University of Technology, Warsaw, Poland",
+          "institution_ids": [
+            "https://openalex.org/I2800249161"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5015541888"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2800249161"
+  ],
+  "apc_list": {
+    "value": 2900,
+    "currency": "EUR",
+    "value_usd": 3200
+  },
+  "apc_paid": {
+    "value": 2900,
+    "currency": "EUR",
+    "value_usd": 3200
+  },
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.23436499,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "18",
+    "issue": "2",
+    "first_page": "283",
+    "last_page": "301"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14306",
+    "display_name": "Technology Assessment and Management",
+    "score": 0.9976000189781189,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2213",
+      "display_name": "Safety, Risk, Reliability and Quality"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14306",
+      "display_name": "Technology Assessment and Management",
+      "score": 0.9976000189781189,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2213",
+        "display_name": "Safety, Risk, Reliability and Quality"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13858",
+      "display_name": "Technical Engine Diagnostics and Monitoring",
+      "score": 0.9422000050544739,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2203",
+        "display_name": "Automotive Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10680",
+      "display_name": "Wind Energy Research and Development",
+      "score": 0.9419000148773193,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/wind-power",
+      "display_name": "Wind power",
+      "score": 0.7812770009040833
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6027644276618958
+    },
+    {
+      "id": "https://openalex.org/keywords/renewable-energy",
+      "display_name": "Renewable energy",
+      "score": 0.5742136240005493
+    },
+    {
+      "id": "https://openalex.org/keywords/markov-process",
+      "display_name": "Markov process",
+      "score": 0.5590937733650208
+    },
+    {
+      "id": "https://openalex.org/keywords/markov-chain",
+      "display_name": "Markov chain",
+      "score": 0.5056436061859131
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.43312591314315796
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability-engineering",
+      "display_name": "Reliability engineering",
+      "score": 0.4243295192718506
+    },
+    {
+      "id": "https://openalex.org/keywords/stochastic-process",
+      "display_name": "Stochastic process",
+      "score": 0.4231709837913513
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.3365548253059387
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-research",
+      "display_name": "Operations research",
+      "score": 0.33628764748573303
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-optimization",
+      "display_name": "Mathematical optimization",
+      "score": 0.3231567144393921
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.22134822607040405
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.1619957685470581
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.15275421738624573
+    },
+    {
+      "id": "https://openalex.org/keywords/electrical-engineering",
+      "display_name": "Electrical engineering",
+      "score": 0.10080182552337646
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.07584738731384277
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C78600449",
+      "wikidata": "https://www.wikidata.org/wiki/Q43302",
+      "display_name": "Wind power",
+      "level": 2,
+      "score": 0.7812770009040833
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6027644276618958
+    },
+    {
+      "id": "https://openalex.org/C188573790",
+      "wikidata": "https://www.wikidata.org/wiki/Q12705",
+      "display_name": "Renewable energy",
+      "level": 2,
+      "score": 0.5742136240005493
+    },
+    {
+      "id": "https://openalex.org/C159886148",
+      "wikidata": "https://www.wikidata.org/wiki/Q176645",
+      "display_name": "Markov process",
+      "level": 2,
+      "score": 0.5590937733650208
+    },
+    {
+      "id": "https://openalex.org/C98763669",
+      "wikidata": "https://www.wikidata.org/wiki/Q176645",
+      "display_name": "Markov chain",
+      "level": 2,
+      "score": 0.5056436061859131
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.43312591314315796
+    },
+    {
+      "id": "https://openalex.org/C200601418",
+      "wikidata": "https://www.wikidata.org/wiki/Q2193887",
+      "display_name": "Reliability engineering",
+      "level": 1,
+      "score": 0.4243295192718506
+    },
+    {
+      "id": "https://openalex.org/C8272713",
+      "wikidata": "https://www.wikidata.org/wiki/Q176737",
+      "display_name": "Stochastic process",
+      "level": 2,
+      "score": 0.4231709837913513
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3365548253059387
+    },
+    {
+      "id": "https://openalex.org/C42475967",
+      "wikidata": "https://www.wikidata.org/wiki/Q194292",
+      "display_name": "Operations research",
+      "level": 1,
+      "score": 0.33628764748573303
+    },
+    {
+      "id": "https://openalex.org/C126255220",
+      "wikidata": "https://www.wikidata.org/wiki/Q141495",
+      "display_name": "Mathematical optimization",
+      "level": 1,
+      "score": 0.3231567144393921
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.22134822607040405
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.1619957685470581
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.15275421738624573
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.10080182552337646
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.07584738731384277
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1049/rpg2.12924",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1049/rpg2.12924",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/rpg2.12924",
+      "source": {
+        "id": "https://openalex.org/S42668443",
+        "display_name": "IET Renewable Power Generation",
+        "issn_l": "1752-1416",
+        "issn": [
+          "1752-1416",
+          "1752-1424"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311714",
+        "host_organization_name": "Institution of Engineering and Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311714"
+        ],
+        "host_organization_lineage_names": [
+          "Institution of Engineering and Technology"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IET Renewable Power Generation",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b1ee91f8425540148d019a8312e5599e",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/b1ee91f8425540148d019a8312e5599e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "IET Renewable Power Generation, Vol 18, Iss 2, Pp 283-301 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1049/rpg2.12924",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1049/rpg2.12924",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/rpg2.12924",
+    "source": {
+      "id": "https://openalex.org/S42668443",
+      "display_name": "IET Renewable Power Generation",
+      "issn_l": "1752-1416",
+      "issn": [
+        "1752-1416",
+        "1752-1424"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311714",
+      "host_organization_name": "Institution of Engineering and Technology",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311714"
+      ],
+      "host_organization_lineage_names": [
+        "Institution of Engineering and Technology"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IET Renewable Power Generation",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Affordable and clean energy",
+      "id": "https://metadata.un.org/sdg/7",
+      "score": 0.41999998688697815
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2633495458",
+      "display_name": null,
+      "funder_award_id": "UGB 22‐835/2023",
+      "funder_id": "https://openalex.org/F4320323668",
+      "funder_display_name": "Wojskowa Akademia Techniczna"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320323668",
+      "display_name": "Wojskowa Akademia Techniczna",
+      "ror": "https://ror.org/05fct5h31"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4390451415.pdf"
+  },
+  "referenced_works_count": 60,
+  "referenced_works": [
+    "https://openalex.org/W635017418",
+    "https://openalex.org/W1013519119",
+    "https://openalex.org/W1037861639",
+    "https://openalex.org/W1128216893",
+    "https://openalex.org/W1183269783",
+    "https://openalex.org/W1493615245",
+    "https://openalex.org/W1975319461",
+    "https://openalex.org/W2007321142",
+    "https://openalex.org/W2015028539",
+    "https://openalex.org/W2019310045",
+    "https://openalex.org/W2042641006",
+    "https://openalex.org/W2077557056",
+    "https://openalex.org/W2079309933",
+    "https://openalex.org/W2091680438",
+    "https://openalex.org/W2095499778",
+    "https://openalex.org/W2232533627",
+    "https://openalex.org/W2242541208",
+    "https://openalex.org/W2280029926",
+    "https://openalex.org/W2384336688",
+    "https://openalex.org/W2397565431",
+    "https://openalex.org/W2471955299",
+    "https://openalex.org/W2583826479",
+    "https://openalex.org/W2751490822",
+    "https://openalex.org/W2769993532",
+    "https://openalex.org/W2791032442",
+    "https://openalex.org/W2795793064",
+    "https://openalex.org/W2883397132",
+    "https://openalex.org/W2884949601",
+    "https://openalex.org/W2892236616",
+    "https://openalex.org/W2950255446",
+    "https://openalex.org/W2965373929",
+    "https://openalex.org/W2972581077",
+    "https://openalex.org/W2977746684",
+    "https://openalex.org/W3008370694",
+    "https://openalex.org/W3011699523",
+    "https://openalex.org/W3041261718",
+    "https://openalex.org/W3097816690",
+    "https://openalex.org/W3129346968",
+    "https://openalex.org/W3152868139",
+    "https://openalex.org/W3154433737",
+    "https://openalex.org/W3171132027",
+    "https://openalex.org/W3176085741",
+    "https://openalex.org/W3196892266",
+    "https://openalex.org/W3213517433",
+    "https://openalex.org/W4200583978",
+    "https://openalex.org/W4205852589",
+    "https://openalex.org/W4244035502",
+    "https://openalex.org/W4246301727",
+    "https://openalex.org/W4281483676",
+    "https://openalex.org/W4282842400",
+    "https://openalex.org/W4283710697",
+    "https://openalex.org/W4285043074",
+    "https://openalex.org/W4286490129",
+    "https://openalex.org/W4292622370",
+    "https://openalex.org/W4303928103",
+    "https://openalex.org/W4312201816",
+    "https://openalex.org/W4318065647",
+    "https://openalex.org/W4321781319",
+    "https://openalex.org/W4362577402",
+    "https://openalex.org/W4386412842"
+  ],
+  "related_works": [
+    "https://openalex.org/W2379651310",
+    "https://openalex.org/W2113019827",
+    "https://openalex.org/W1541249122",
+    "https://openalex.org/W2413828414",
+    "https://openalex.org/W4236062181",
+    "https://openalex.org/W2367222340",
+    "https://openalex.org/W1567439243",
+    "https://openalex.org/W1993731165",
+    "https://openalex.org/W2095860056",
+    "https://openalex.org/W2742871814"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Wind": [
+      1
+    ],
+    "energy": [
+      2,
+      33
+    ],
+    "is": [
+      3,
+      21,
+      50
+    ],
+    "now": [
+      4
+    ],
+    "one": [
+      5
+    ],
+    "of": [
+      6,
+      12,
+      17,
+      41,
+      45,
+      65,
+      74,
+      77,
+      83,
+      97,
+      111,
+      127,
+      163,
+      173,
+      176
+    ],
+    "the": [
+      7,
+      39,
+      42,
+      55,
+      63,
+      75,
+      84,
+      95,
+      98,
+      104,
+      112,
+      124,
+      148,
+      159,
+      164,
+      174,
+      177,
+      184
+    ],
+    "most": [
+      8
+    ],
+    "important": [
+      9
+    ],
+    "alternative": [
+      10
+    ],
+    "sources": [
+      11
+    ],
+    "renewable": [
+      13
+    ],
+    "energy.": [
+      14
+    ],
+    "The": [
+      15,
+      36,
+      131,
+      140,
+      151
+    ],
+    "development": [
+      16,
+      29
+    ],
+    "wind": [
+      18,
+      47,
+      79,
+      128,
+      166
+    ],
+    "power": [
+      19,
+      48,
+      129
+    ],
+    "generation": [
+      20
+    ],
+    "a": [
+      22,
+      46,
+      107
+    ],
+    "prerequisite": [
+      23
+    ],
+    "to": [
+      24,
+      53,
+      122
+    ],
+    "meet": [
+      25
+    ],
+    "environmental": [
+      26
+    ],
+    "and": [
+      27
+    ],
+    "sustainable": [
+      28
+    ],
+    "requirements": [
+      30
+    ],
+    "while": [
+      31
+    ],
+    "achieving": [
+      32
+    ],
+    "security": [
+      34
+    ],
+    "goals.": [
+      35
+    ],
+    "condition": [
+      37
+    ],
+    "for": [
+      38,
+      183
+    ],
+    "effectiveness": [
+      40
+    ],
+    "proper": [
+      43
+    ],
+    "operation": [
+      44,
+      89
+    ],
+    "plant": [
+      49
+    ],
+    "its": [
+      51
+    ],
+    "ability": [
+      52
+    ],
+    "perform": [
+      54
+    ],
+    "intended": [
+      56
+    ],
+    "functions,": [
+      57
+    ],
+    "which": [
+      58
+    ],
+    "can": [
+      59
+    ],
+    "be": [
+      60
+    ],
+    "expressed": [
+      61
+    ],
+    "by": [
+      62
+    ],
+    "coefficient": [
+      64
+    ],
+    "technical": [
+      66
+    ],
+    "readiness.": [
+      67
+    ],
+    "This": [
+      68
+    ],
+    "article": [
+      69
+    ],
+    "presents": [
+      70
+    ],
+    "an": [
+      71,
+      86,
+      171
+    ],
+    "original": [
+      72,
+      87
+    ],
+    "analysis": [
+      73,
+      172
+    ],
+    "readiness": [
+      76,
+      153
+    ],
+    "small": [
+      78,
+      165
+    ],
+    "turbines.": [
+      80
+    ],
+    "As": [
+      81
+    ],
+    "part": [
+      82
+    ],
+    "research,": [
+      85
+    ],
+    "stochastic": [
+      88
+    ],
+    "model": [
+      90
+    ],
+    "was": [
+      91,
+      115,
+      180
+    ],
+    "developed": [
+      92
+    ],
+    "based": [
+      93,
+      146
+    ],
+    "on": [
+      94,
+      103,
+      147
+    ],
+    "application": [
+      96
+    ],
+    "Markov": [
+      99
+    ],
+    "process": [
+      100,
+      114
+    ],
+    "theory.": [
+      101
+    ],
+    "Based": [
+      102
+    ],
+    "collected": [
+      105
+    ],
+    "data,": [
+      106
+    ],
+    "3‐state": [
+      108
+    ],
+    "phase": [
+      109
+    ],
+    "space": [
+      110
+    ],
+    "studied": [
+      113
+    ],
+    "identified.": [
+      116
+    ],
+    "Various": [
+      117
+    ],
+    "analyses": [
+      118
+    ],
+    "were": [
+      119,
+      135,
+      143
+    ],
+    "carried": [
+      120,
+      181
+    ],
+    "out": [
+      121,
+      182
+    ],
+    "calculate": [
+      123
+    ],
+    "operating": [
+      125
+    ],
+    "coefficients": [
+      126
+    ],
+    "plants.": [
+      130
+    ],
+    "ergodic": [
+      132
+    ],
+    "(boundary)": [
+      133
+    ],
+    "probabilities": [
+      134,
+      142
+    ],
+    "calculated": [
+      136
+    ],
+    "using": [
+      137
+    ],
+    "three": [
+      138
+    ],
+    "methods.": [
+      139
+    ],
+    "conditional": [
+      141
+    ],
+    "then": [
+      144
+    ],
+    "determined": [
+      145
+    ],
+    "initial": [
+      149
+    ],
+    "distribution.": [
+      150
+    ],
+    "resulting": [
+      152
+    ],
+    "factors,": [
+      154
+    ],
+    "not": [
+      155
+    ],
+    "exceeding": [
+      156
+    ],
+    "30%,": [
+      157
+    ],
+    "indicate": [
+      158
+    ],
+    "low": [
+      160
+    ],
+    "operational": [
+      161
+    ],
+    "efficiency": [
+      162
+    ],
+    "turbines": [
+      167
+    ],
+    "in": [
+      168
+    ],
+    "question.": [
+      169
+    ],
+    "Furthermore,": [
+      170
+    ],
+    "sensitivity": [
+      175
+    ],
+    "performance": [
+      178
+    ],
+    "factors": [
+      179
+    ],
+    "analysed": [
+      185
+    ],
+    "objects.": [
+      186
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

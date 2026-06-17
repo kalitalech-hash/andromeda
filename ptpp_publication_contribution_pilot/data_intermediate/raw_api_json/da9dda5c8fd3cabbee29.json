@@ -1,0 +1,1429 @@
+{
+  "id": "https://openalex.org/W4398223181",
+  "doi": "https://doi.org/10.1162/coli_a_00520",
+  "title": "Relation Extraction in Underexplored Biomedical Domains: A Diversity-optimized Sampling and Synthetic Data Generation Approach",
+  "display_name": "Relation Extraction in Underexplored Biomedical Domains: A Diversity-optimized Sampling and Synthetic Data Generation Approach",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4398223181",
+    "doi": "https://doi.org/10.1162/coli_a_00520"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1162/coli_a_00520",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1162/coli_a_00520",
+    "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00520/2374093/coli_a_00520.pdf",
+    "source": {
+      "id": "https://openalex.org/S155526855",
+      "display_name": "Computational Linguistics",
+      "issn_l": "0891-2017",
+      "issn": [
+        "0891-2017",
+        "1530-9312"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320244",
+      "host_organization_name": "Association for Computational Linguistics",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320244"
+      ],
+      "host_organization_lineage_names": [
+        "Association for Computational Linguistics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computational Linguistics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00520/2374093/coli_a_00520.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076973287",
+        "display_name": "Maxime Delmas",
+        "orcid": "https://orcid.org/0000-0002-9352-0624"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7495430",
+          "display_name": "Idiap Research Institute",
+          "ror": "https://ror.org/05932h694",
+          "country_code": "CH",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maxime Delmas",
+      "raw_affiliation_strings": [
+        "Idiap Research Institute Switzerland. maxime.delmas@idiap.ch"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Idiap Research Institute Switzerland. maxime.delmas@idiap.ch",
+          "institution_ids": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016561885",
+        "display_name": "Magdalena Wysocka",
+        "orcid": "https://orcid.org/0000-0003-2216-5597"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Magdalena Wysocka",
+      "raw_affiliation_strings": [
+        "Digital Cancer Research, CRUK National Biomarker Centre United Kingdom. magdalena.wysocka@digitalecmt.org"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Digital Cancer Research, CRUK National Biomarker Centre United Kingdom. magdalena.wysocka@digitalecmt.org",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5053978668",
+        "display_name": "André Freitas",
+        "orcid": "https://orcid.org/0000-0002-4430-4837"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210129527",
+          "display_name": "Cancer Research UK Manchester Institute",
+          "ror": "https://ror.org/037405c78",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801316944",
+            "https://openalex.org/I4210129527"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I7495430",
+          "display_name": "Idiap Research Institute",
+          "ror": "https://ror.org/05932h694",
+          "country_code": "CH",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I7495430"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "André Freitas",
+      "raw_affiliation_strings": [
+        "Idiap Research Institute Switzerland Department of Computer Science, University of Manchester Digital Cancer Research, CRUK National Biomarker Centre United Kingdom. andre.freitas@idiap.ch, andre.freitas@manchester.ac.uk",
+        "Idiap Research Institute, Switzerland",
+        "Department of Computer Science, University of Manchester"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Idiap Research Institute Switzerland Department of Computer Science, University of Manchester Digital Cancer Research, CRUK National Biomarker Centre United Kingdom. andre.freitas@idiap.ch, andre.freitas@manchester.ac.uk",
+          "institution_ids": [
+            "https://openalex.org/I4210129527",
+            "https://openalex.org/I7495430",
+            "https://openalex.org/I28407311"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Idiap Research Institute, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I7495430"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Computer Science, University of Manchester",
+          "institution_ids": [
+            "https://openalex.org/I28407311"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.2247,
+  "has_fulltext": false,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.78114806,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "50",
+    "issue": "3",
+    "first_page": "953",
+    "last_page": "1000"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11710",
+    "display_name": "Biomedical Text Mining and Ontologies",
+    "score": 0.9940000176429749,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11710",
+      "display_name": "Biomedical Text Mining and Ontologies",
+      "score": 0.9940000176429749,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12254",
+      "display_name": "Machine Learning in Bioinformatics",
+      "score": 0.9606000185012817,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10252",
+      "display_name": "Microbial Natural Products and Biosynthesis",
+      "score": 0.9585000276565552,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8063985109329224
+    },
+    {
+      "id": "https://openalex.org/keywords/relationship-extraction",
+      "display_name": "Relationship extraction",
+      "score": 0.6781945824623108
+    },
+    {
+      "id": "https://openalex.org/keywords/workflow",
+      "display_name": "Workflow",
+      "score": 0.66413813829422
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.4911079406738281
+    },
+    {
+      "id": "https://openalex.org/keywords/information-retrieval",
+      "display_name": "Information retrieval",
+      "score": 0.4770449995994568
+    },
+    {
+      "id": "https://openalex.org/keywords/task",
+      "display_name": "Task (project management)",
+      "score": 0.4750373661518097
+    },
+    {
+      "id": "https://openalex.org/keywords/f1-score",
+      "display_name": "F1 score",
+      "score": 0.4687122702598572
+    },
+    {
+      "id": "https://openalex.org/keywords/data-cleansing",
+      "display_name": "Data cleansing",
+      "score": 0.46002498269081116
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.4324268698692322
+    },
+    {
+      "id": "https://openalex.org/keywords/leverage",
+      "display_name": "Leverage (statistics)",
+      "score": 0.4310588240623474
+    },
+    {
+      "id": "https://openalex.org/keywords/big-data",
+      "display_name": "Big data",
+      "score": 0.43062686920166016
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.41419315338134766
+    },
+    {
+      "id": "https://openalex.org/keywords/data-set",
+      "display_name": "Data set",
+      "score": 0.4135458469390869
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language-processing",
+      "display_name": "Natural language processing",
+      "score": 0.3375118374824524
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.33631086349487305
+    },
+    {
+      "id": "https://openalex.org/keywords/information-extraction",
+      "display_name": "Information extraction",
+      "score": 0.32934999465942383
+    },
+    {
+      "id": "https://openalex.org/keywords/database",
+      "display_name": "Database",
+      "score": 0.2307184636592865
+    },
+    {
+      "id": "https://openalex.org/keywords/data-quality",
+      "display_name": "Data quality",
+      "score": 0.1997835636138916
+    },
+    {
+      "id": "https://openalex.org/keywords/metric",
+      "display_name": "Metric (unit)",
+      "score": 0.11285755038261414
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8063985109329224
+    },
+    {
+      "id": "https://openalex.org/C153604712",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310755",
+      "display_name": "Relationship extraction",
+      "level": 3,
+      "score": 0.6781945824623108
+    },
+    {
+      "id": "https://openalex.org/C177212765",
+      "wikidata": "https://www.wikidata.org/wiki/Q627335",
+      "display_name": "Workflow",
+      "level": 2,
+      "score": 0.66413813829422
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4911079406738281
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.4770449995994568
+    },
+    {
+      "id": "https://openalex.org/C2780451532",
+      "wikidata": "https://www.wikidata.org/wiki/Q759676",
+      "display_name": "Task (project management)",
+      "level": 2,
+      "score": 0.4750373661518097
+    },
+    {
+      "id": "https://openalex.org/C148524875",
+      "wikidata": "https://www.wikidata.org/wiki/Q6975395",
+      "display_name": "F1 score",
+      "level": 2,
+      "score": 0.4687122702598572
+    },
+    {
+      "id": "https://openalex.org/C42199009",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172378",
+      "display_name": "Data cleansing",
+      "level": 4,
+      "score": 0.46002498269081116
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.4324268698692322
+    },
+    {
+      "id": "https://openalex.org/C153083717",
+      "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+      "display_name": "Leverage (statistics)",
+      "level": 2,
+      "score": 0.4310588240623474
+    },
+    {
+      "id": "https://openalex.org/C75684735",
+      "wikidata": "https://www.wikidata.org/wiki/Q858810",
+      "display_name": "Big data",
+      "level": 2,
+      "score": 0.43062686920166016
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.41419315338134766
+    },
+    {
+      "id": "https://openalex.org/C58489278",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172284",
+      "display_name": "Data set",
+      "level": 2,
+      "score": 0.4135458469390869
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.3375118374824524
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.33631086349487305
+    },
+    {
+      "id": "https://openalex.org/C195807954",
+      "wikidata": "https://www.wikidata.org/wiki/Q1662562",
+      "display_name": "Information extraction",
+      "level": 2,
+      "score": 0.32934999465942383
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.2307184636592865
+    },
+    {
+      "id": "https://openalex.org/C24756922",
+      "wikidata": "https://www.wikidata.org/wiki/Q1757694",
+      "display_name": "Data quality",
+      "level": 3,
+      "score": 0.1997835636138916
+    },
+    {
+      "id": "https://openalex.org/C176217482",
+      "wikidata": "https://www.wikidata.org/wiki/Q860554",
+      "display_name": "Metric (unit)",
+      "level": 2,
+      "score": 0.11285755038261414
+    },
+    {
+      "id": "https://openalex.org/C187736073",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+      "display_name": "Management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1162/coli_a_00520",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1162/coli_a_00520",
+      "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00520/2374093/coli_a_00520.pdf",
+      "source": {
+        "id": "https://openalex.org/S155526855",
+        "display_name": "Computational Linguistics",
+        "issn_l": "0891-2017",
+        "issn": [
+          "0891-2017",
+          "1530-9312"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320244",
+        "host_organization_name": "Association for Computational Linguistics",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320244"
+        ],
+        "host_organization_lineage_names": [
+          "Association for Computational Linguistics"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computational Linguistics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:ebc145f3176443edb5bf52ade3ad2db8",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/ebc145f3176443edb5bf52ade3ad2db8",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Computational Linguistics, Vol 50, Iss 3 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1162/coli_a_00520",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1162/coli_a_00520",
+    "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00520/2374093/coli_a_00520.pdf",
+    "source": {
+      "id": "https://openalex.org/S155526855",
+      "display_name": "Computational Linguistics",
+      "issn_l": "0891-2017",
+      "issn": [
+        "0891-2017",
+        "1530-9312"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320244",
+      "host_organization_name": "Association for Computational Linguistics",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320244"
+      ],
+      "host_organization_lineage_names": [
+        "Association for Computational Linguistics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computational Linguistics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4398223181.pdf"
+  },
+  "referenced_works_count": 139,
+  "referenced_works": [
+    "https://openalex.org/W1554540371",
+    "https://openalex.org/W1583837637",
+    "https://openalex.org/W1967981232",
+    "https://openalex.org/W2012658849",
+    "https://openalex.org/W2017422910",
+    "https://openalex.org/W2022825068",
+    "https://openalex.org/W2066536516",
+    "https://openalex.org/W2100627415",
+    "https://openalex.org/W2101105183",
+    "https://openalex.org/W2107598941",
+    "https://openalex.org/W2120474334",
+    "https://openalex.org/W2132218677",
+    "https://openalex.org/W2149369282",
+    "https://openalex.org/W2246620632",
+    "https://openalex.org/W2294345429",
+    "https://openalex.org/W2346452181",
+    "https://openalex.org/W2418056440",
+    "https://openalex.org/W2594061220",
+    "https://openalex.org/W2600659824",
+    "https://openalex.org/W2603241124",
+    "https://openalex.org/W2739056594",
+    "https://openalex.org/W2798734500",
+    "https://openalex.org/W2811120218",
+    "https://openalex.org/W2891383691",
+    "https://openalex.org/W2898280479",
+    "https://openalex.org/W2901387348",
+    "https://openalex.org/W2946690328",
+    "https://openalex.org/W2949676527",
+    "https://openalex.org/W2950627632",
+    "https://openalex.org/W2951274974",
+    "https://openalex.org/W2962903510",
+    "https://openalex.org/W2963706121",
+    "https://openalex.org/W2965166224",
+    "https://openalex.org/W2970183140",
+    "https://openalex.org/W2987479113",
+    "https://openalex.org/W2998184481",
+    "https://openalex.org/W3028004046",
+    "https://openalex.org/W3081464307",
+    "https://openalex.org/W3101327207",
+    "https://openalex.org/W3102021238",
+    "https://openalex.org/W3103291112",
+    "https://openalex.org/W3118133300",
+    "https://openalex.org/W3118695441",
+    "https://openalex.org/W3118813946",
+    "https://openalex.org/W3122241445",
+    "https://openalex.org/W3153451655",
+    "https://openalex.org/W3155073135",
+    "https://openalex.org/W3156669901",
+    "https://openalex.org/W3158480457",
+    "https://openalex.org/W3173673636",
+    "https://openalex.org/W3174828871",
+    "https://openalex.org/W3177323791",
+    "https://openalex.org/W3178755335",
+    "https://openalex.org/W3201090304",
+    "https://openalex.org/W3202242582",
+    "https://openalex.org/W3205058818",
+    "https://openalex.org/W3206742358",
+    "https://openalex.org/W3214342214",
+    "https://openalex.org/W4206636317",
+    "https://openalex.org/W4212774754",
+    "https://openalex.org/W4212797134",
+    "https://openalex.org/W4220813551",
+    "https://openalex.org/W4223491992",
+    "https://openalex.org/W4281557260",
+    "https://openalex.org/W4281658583",
+    "https://openalex.org/W4283078127",
+    "https://openalex.org/W4283318325",
+    "https://openalex.org/W4284669679",
+    "https://openalex.org/W4285101289",
+    "https://openalex.org/W4285210452",
+    "https://openalex.org/W4285212985",
+    "https://openalex.org/W4286210164",
+    "https://openalex.org/W4287120901",
+    "https://openalex.org/W4287817164",
+    "https://openalex.org/W4287888480",
+    "https://openalex.org/W4292121845",
+    "https://openalex.org/W4296783454",
+    "https://openalex.org/W4297253404",
+    "https://openalex.org/W4298365273",
+    "https://openalex.org/W4309773749",
+    "https://openalex.org/W4311642023",
+    "https://openalex.org/W4323709074",
+    "https://openalex.org/W4327656064",
+    "https://openalex.org/W4365799947",
+    "https://openalex.org/W4376118840",
+    "https://openalex.org/W4378465287",
+    "https://openalex.org/W4379912632",
+    "https://openalex.org/W4385570681",
+    "https://openalex.org/W4385570777",
+    "https://openalex.org/W4385570982",
+    "https://openalex.org/W4385571076",
+    "https://openalex.org/W4385571139",
+    "https://openalex.org/W4385571279",
+    "https://openalex.org/W4385572315",
+    "https://openalex.org/W4385573325",
+    "https://openalex.org/W4385573954",
+    "https://openalex.org/W4385574332",
+    "https://openalex.org/W4385647122",
+    "https://openalex.org/W4386081793",
+    "https://openalex.org/W4386148473",
+    "https://openalex.org/W4389524085",
+    "https://openalex.org/W4391940656",
+    "https://openalex.org/W4394579953",
+    "https://openalex.org/W4394782456",
+    "https://openalex.org/W4404534210",
+    "https://openalex.org/W4404783242",
+    "https://openalex.org/W6639825529",
+    "https://openalex.org/W6734502236",
+    "https://openalex.org/W6741398016",
+    "https://openalex.org/W6761551260",
+    "https://openalex.org/W6774569510",
+    "https://openalex.org/W6776814788",
+    "https://openalex.org/W6778883912",
+    "https://openalex.org/W6788199761",
+    "https://openalex.org/W6791446462",
+    "https://openalex.org/W6793012311",
+    "https://openalex.org/W6796581206",
+    "https://openalex.org/W6801486040",
+    "https://openalex.org/W6802298259",
+    "https://openalex.org/W6809361247",
+    "https://openalex.org/W6838865847",
+    "https://openalex.org/W6838911040",
+    "https://openalex.org/W6839255132",
+    "https://openalex.org/W6839744984",
+    "https://openalex.org/W6844053373",
+    "https://openalex.org/W6845463252",
+    "https://openalex.org/W6846421259",
+    "https://openalex.org/W6846771582",
+    "https://openalex.org/W6847118041",
+    "https://openalex.org/W6850326110",
+    "https://openalex.org/W6852449896",
+    "https://openalex.org/W6853072860",
+    "https://openalex.org/W6853251322",
+    "https://openalex.org/W6853431315",
+    "https://openalex.org/W6853794594",
+    "https://openalex.org/W6856051742",
+    "https://openalex.org/W6858522248",
+    "https://openalex.org/W6860710830",
+    "https://openalex.org/W6861568919"
+  ],
+  "related_works": [
+    "https://openalex.org/W842810586",
+    "https://openalex.org/W4319940250",
+    "https://openalex.org/W2352298027",
+    "https://openalex.org/W2092919065",
+    "https://openalex.org/W3138801416",
+    "https://openalex.org/W4236762297",
+    "https://openalex.org/W2369351710",
+    "https://openalex.org/W2594363579",
+    "https://openalex.org/W2169232658",
+    "https://openalex.org/W2489933339"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1,
+      103
+    ],
+    "sparsity": [
+      2
+    ],
+    "of": [
+      3,
+      12,
+      20,
+      28,
+      41,
+      51,
+      60,
+      106,
+      111,
+      125,
+      139,
+      144,
+      169,
+      199,
+      244
+    ],
+    "labeled": [
+      4
+    ],
+    "data": [
+      5,
+      204
+    ],
+    "is": [
+      6,
+      47,
+      119
+    ],
+    "an": [
+      7,
+      53,
+      161
+    ],
+    "obstacle": [
+      8
+    ],
+    "to": [
+      9,
+      79,
+      189
+    ],
+    "the": [
+      10,
+      18,
+      33,
+      39,
+      58,
+      66,
+      76,
+      112,
+      116,
+      122,
+      130,
+      133,
+      137,
+      142,
+      148,
+      158,
+      167,
+      197,
+      227,
+      251
+    ],
+    "development": [
+      11
+    ],
+    "Relation": [
+      13,
+      163
+    ],
+    "Extraction": [
+      14
+    ],
+    "(RE)": [
+      15
+    ],
+    "models": [
+      16,
+      216
+    ],
+    "and": [
+      17,
+      71,
+      109,
+      147,
+      174,
+      176,
+      206,
+      253
+    ],
+    "completion": [
+      19
+    ],
+    "databases": [
+      21
+    ],
+    "in": [
+      22,
+      31,
+      95,
+      115,
+      132,
+      136,
+      192
+    ],
+    "various": [
+      23
+    ],
+    "biomedical": [
+      24
+    ],
+    "areas.": [
+      25
+    ],
+    "While": [
+      26
+    ],
+    "being": [
+      27
+    ],
+    "high": [
+      29
+    ],
+    "interest": [
+      30
+    ],
+    "drug-discovery,": [
+      32
+    ],
+    "literature": [
+      34,
+      73
+    ],
+    "on": [
+      35,
+      222
+    ],
+    "natural": [
+      36,
+      245
+    ],
+    "products,": [
+      37
+    ],
+    "reporting": [
+      38
+    ],
+    "identification": [
+      40
+    ],
+    "potential": [
+      42,
+      198
+    ],
+    "bioactive": [
+      43
+    ],
+    "compounds": [
+      44
+    ],
+    "from": [
+      45,
+      75
+    ],
+    "organisms,": [
+      46
+    ],
+    "a": [
+      48,
+      88,
+      208
+    ],
+    "concrete": [
+      49
+    ],
+    "example": [
+      50
+    ],
+    "such": [
+      52
+    ],
+    "overlooked": [
+      54
+    ],
+    "topic.": [
+      55
+    ],
+    "To": [
+      56,
+      83
+    ],
+    "mark": [
+      57
+    ],
+    "start": [
+      59
+    ],
+    "this": [
+      61,
+      84,
+      212
+    ],
+    "new": [
+      62,
+      89,
+      209
+    ],
+    "task,": [
+      63
+    ],
+    "we": [
+      64,
+      86,
+      152,
+      165,
+      195
+    ],
+    "created": [
+      65
+    ],
+    "first": [
+      67
+    ],
+    "curated": [
+      68
+    ],
+    "evaluation": [
+      69,
+      117,
+      191,
+      254
+    ],
+    "dataset": [
+      70
+    ],
+    "extracted": [
+      72
+    ],
+    "items": [
+      74,
+      114
+    ],
+    "LOTUS": [
+      77
+    ],
+    "database": [
+      78
+    ],
+    "build": [
+      80
+    ],
+    "training": [
+      81,
+      134,
+      252
+    ],
+    "sets.": [
+      82
+    ],
+    "end,": [
+      85
+    ],
+    "developed": [
+      87
+    ],
+    "sampler,": [
+      90
+    ],
+    "inspired": [
+      91
+    ],
+    "by": [
+      92
+    ],
+    "diversity": [
+      93,
+      110
+    ],
+    "metrics": [
+      94
+    ],
+    "ecology,": [
+      96
+    ],
+    "named": [
+      97
+    ],
+    "Greedy": [
+      98
+    ],
+    "Maximum": [
+      99
+    ],
+    "Entropy": [
+      100
+    ],
+    "sampler": [
+      101
+    ],
+    "(https://github.com/idiap/gme-sampler).": [
+      102
+    ],
+    "strategic": [
+      104
+    ],
+    "optimization": [
+      105
+    ],
+    "both": [
+      107
+    ],
+    "balance": [
+      108
+    ],
+    "selected": [
+      113
+    ],
+    "set": [
+      118
+    ],
+    "important": [
+      120
+    ],
+    "given": [
+      121
+    ],
+    "resource-intensive": [
+      123
+    ],
+    "nature": [
+      124
+    ],
+    "manual": [
+      126
+    ],
+    "curation.": [
+      127
+    ],
+    "After": [
+      128
+    ],
+    "quantifying": [
+      129
+    ],
+    "noise": [
+      131
+    ],
+    "set,": [
+      135
+    ],
+    "form": [
+      138
+    ],
+    "discrepancies": [
+      140
+    ],
+    "between": [
+      141
+    ],
+    "text": [
+      143
+    ],
+    "input": [
+      145
+    ],
+    "abstracts": [
+      146,
+      224
+    ],
+    "expected": [
+      149
+    ],
+    "output": [
+      150
+    ],
+    "labels,": [
+      151
+    ],
+    "explored": [
+      153
+    ],
+    "different": [
+      154
+    ],
+    "strategies": [
+      155
+    ],
+    "accordingly.": [
+      156
+    ],
+    "Framing": [
+      157
+    ],
+    "task": [
+      159
+    ],
+    "as": [
+      160,
+      202
+    ],
+    "end-to-end": [
+      162,
+      242
+    ],
+    "Extraction,": [
+      164
+    ],
+    "evaluated": [
+      166,
+      215
+    ],
+    "performance": [
+      168
+    ],
+    "standard": [
+      170
+    ],
+    "fine-tuning": [
+      171
+    ],
+    "(BioGPT,": [
+      172
+    ],
+    "GPT-2,": [
+      173
+    ],
+    "Seq2rel)": [
+      175
+    ],
+    "few-shot": [
+      177,
+      193
+    ],
+    "learning": [
+      178
+    ],
+    "with": [
+      179,
+      249
+    ],
+    "open": [
+      180,
+      200
+    ],
+    "Large": [
+      181
+    ],
+    "Language": [
+      182
+    ],
+    "Models": [
+      183
+    ],
+    "(LLMs)": [
+      184
+    ],
+    "(LLaMA": [
+      185
+    ],
+    "7B-65B).": [
+      186
+    ],
+    "In": [
+      187
+    ],
+    "addition": [
+      188
+    ],
+    "their": [
+      190
+    ],
+    "settings,": [
+      194
+    ],
+    "explore": [
+      196
+    ],
+    "LLMs": [
+      201
+    ],
+    "synthetic": [
+      203,
+      223
+    ],
+    "generators": [
+      205
+    ],
+    "propose": [
+      207
+    ],
+    "workflow": [
+      210
+    ],
+    "for": [
+      211,
+      241
+    ],
+    "purpose.": [
+      213
+    ],
+    "All": [
+      214
+    ],
+    "exhibited": [
+      217
+    ],
+    "substantial": [
+      218
+    ],
+    "improvements": [
+      219
+    ],
+    "when": [
+      220
+    ],
+    "fine-tuned": [
+      221
+    ],
+    "rather": [
+      225
+    ],
+    "than": [
+      226
+    ],
+    "original": [
+      228
+    ],
+    "noisy": [
+      229
+    ],
+    "data.": [
+      230
+    ],
+    "We": [
+      231
+    ],
+    "provide": [
+      232
+    ],
+    "our": [
+      233
+    ],
+    "best": [
+      234
+    ],
+    "performing": [
+      235
+    ],
+    "(F1-score": [
+      236
+    ],
+    "=": [
+      237
+    ],
+    "59.0)": [
+      238
+    ],
+    "BioGPT-Large": [
+      239
+    ],
+    "model": [
+      240
+    ],
+    "RE": [
+      243
+    ],
+    "products": [
+      246
+    ],
+    "relationships": [
+      247
+    ],
+    "along": [
+      248
+    ],
+    "all": [
+      250
+    ],
+    "datasets.": [
+      255
+    ],
+    "See": [
+      256
+    ],
+    "more": [
+      257
+    ],
+    "details": [
+      258
+    ],
+    "at": [
+      259
+    ],
+    "https://github.com/idiap/abroad-re.": [
+      260
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

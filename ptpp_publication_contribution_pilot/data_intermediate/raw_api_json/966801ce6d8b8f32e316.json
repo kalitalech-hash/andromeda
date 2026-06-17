@@ -1,0 +1,1946 @@
+{
+  "id": "https://openalex.org/W4412138066",
+  "doi": "https://doi.org/10.1101/2025.07.05.663311",
+  "title": "Monensin and Its Analogs Exhibit Activity Against Breast Cancer Stem-Like Cells in an Organoid Model",
+  "display_name": "Monensin and Its Analogs Exhibit Activity Against Breast Cancer Stem-Like Cells in an Organoid Model",
+  "publication_year": 2025,
+  "publication_date": "2025-07-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4412138066",
+    "doi": "https://doi.org/10.1101/2025.07.05.663311",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40672259"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1101/2025.07.05.663311",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2025.07.05.663311",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/09/2025.07.05.663311.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "type": "preprint",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/09/2025.07.05.663311.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071926958",
+        "display_name": "Alicja Urbaniak",
+        "orcid": "https://orcid.org/0000-0002-0807-1263"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Alicja Urbaniak",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0807-1263",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015397150",
+        "display_name": "Billie Heflin",
+        "orcid": "https://orcid.org/0000-0001-8774-4579"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Billie Heflin",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035219534",
+        "display_name": "Eric R. Siegel",
+        "orcid": "https://orcid.org/0000-0001-9824-6612"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eric Siegel",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089015875",
+        "display_name": "Megan R. Reed",
+        "orcid": "https://orcid.org/0000-0001-5086-7938"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Megan R. Reed",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023484000",
+        "display_name": "J. Stephen Nix",
+        "orcid": "https://orcid.org/0000-0001-5386-3617"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "James S. Nix",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027043718",
+        "display_name": "Eric U. Yee",
+        "orcid": "https://orcid.org/0000-0001-9643-6439"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eric U. Yee",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003001023",
+        "display_name": "Marta Jędrzejczyk",
+        "orcid": "https://orcid.org/0000-0003-4214-569X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marta Jędrzejczyk",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017391096",
+        "display_name": "Greta Klejborowska",
+        "orcid": "https://orcid.org/0000-0001-9365-4238"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Greta Klejborowska",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001304355",
+        "display_name": "Natalia Stępczyńska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalia Stępczyńska",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028053146",
+        "display_name": "Adam Huczyński",
+        "orcid": "https://orcid.org/0000-0003-4770-215X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59411706",
+          "display_name": "Adam Mickiewicz University in Poznań",
+          "ror": "https://ror.org/04g6bbq64",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adam Huczyński",
+      "raw_affiliation_strings": [
+        "Adam Mickiewicz University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Adam Mickiewicz University",
+          "institution_ids": [
+            "https://openalex.org/I59411706"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031207428",
+        "display_name": "Marius B. Nagalo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marius B. Nagalo",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037985020",
+        "display_name": "Timothy C. Chambers",
+        "orcid": "https://orcid.org/0000-0002-3122-9794"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Timothy C. Chambers",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026164472",
+        "display_name": "Steven R. Post",
+        "orcid": "https://orcid.org/0000-0002-4711-1723"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Steven Post",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015360214",
+        "display_name": "Robert L. Eoff",
+        "orcid": "https://orcid.org/0000-0003-4776-8925"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert L. Eoff",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037772198",
+        "display_name": "Melanie C MacNicol",
+        "orcid": "https://orcid.org/0000-0001-6927-2475"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Melanie C. MacNicol",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004261103",
+        "display_name": "Amit K. Tiwari",
+        "orcid": "https://orcid.org/0000-0002-7427-7155"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amit K. Tiwari",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072993114",
+        "display_name": "Thomas J. Kelly",
+        "orcid": "https://orcid.org/0000-0001-5781-0619"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thomas Kelly",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032217222",
+        "display_name": "Alan J. Tackett",
+        "orcid": "https://orcid.org/0000-0002-3672-4460"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alan J. Tackett",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5047232306",
+        "display_name": "Angus M. MacNicol",
+        "orcid": "https://orcid.org/0000-0003-4812-9519"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79620101",
+          "display_name": "University of Arkansas for Medical Sciences",
+          "ror": "https://ror.org/00xcryt71",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Angus M. MacNicol",
+      "raw_affiliation_strings": [
+        "University of Arkansas for Medical Sciences;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Arkansas for Medical Sciences;",
+          "institution_ids": [
+            "https://openalex.org/I79620101"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 19,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5071926958"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I79620101"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12691",
+    "display_name": "Coccidia and coccidiosis research",
+    "score": 0.9940000176429749,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1103",
+      "display_name": "Animal Science and Zoology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12691",
+      "display_name": "Coccidia and coccidiosis research",
+      "score": 0.9940000176429749,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1103",
+        "display_name": "Animal Science and Zoology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11103",
+      "display_name": "Antimicrobial Peptides and Activities",
+      "score": 0.9889000058174133,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2404",
+        "display_name": "Microbiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12477",
+      "display_name": "Toxin Mechanisms and Immunotoxins",
+      "score": 0.9768000245094299,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/organoid",
+      "display_name": "Organoid",
+      "score": 0.9522181749343872
+    },
+    {
+      "id": "https://openalex.org/keywords/breast-cancer",
+      "display_name": "Breast cancer",
+      "score": 0.5538632869720459
+    },
+    {
+      "id": "https://openalex.org/keywords/stem-cell",
+      "display_name": "Stem cell",
+      "score": 0.5505504608154297
+    },
+    {
+      "id": "https://openalex.org/keywords/monensin",
+      "display_name": "Monensin",
+      "score": 0.5372742414474487
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-research",
+      "display_name": "Cancer research",
+      "score": 0.4433257579803467
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.41647353768348694
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.3538626432418823
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.3516630232334137
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.33314675092697144
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-biology",
+      "display_name": "Cell biology",
+      "score": 0.3235034644603729
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.2703396677970886
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.09634211659431458
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C31695470",
+      "wikidata": "https://www.wikidata.org/wiki/Q11293125",
+      "display_name": "Organoid",
+      "level": 2,
+      "score": 0.9522181749343872
+    },
+    {
+      "id": "https://openalex.org/C530470458",
+      "wikidata": "https://www.wikidata.org/wiki/Q128581",
+      "display_name": "Breast cancer",
+      "level": 3,
+      "score": 0.5538632869720459
+    },
+    {
+      "id": "https://openalex.org/C28328180",
+      "wikidata": "https://www.wikidata.org/wiki/Q48196",
+      "display_name": "Stem cell",
+      "level": 2,
+      "score": 0.5505504608154297
+    },
+    {
+      "id": "https://openalex.org/C2780224938",
+      "wikidata": "https://www.wikidata.org/wiki/Q3493048",
+      "display_name": "Monensin",
+      "level": 2,
+      "score": 0.5372742414474487
+    },
+    {
+      "id": "https://openalex.org/C502942594",
+      "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+      "display_name": "Cancer research",
+      "level": 1,
+      "score": 0.4433257579803467
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.41647353768348694
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.3538626432418823
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3516630232334137
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.33314675092697144
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.3235034644603729
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.2703396677970886
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.09634211659431458
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1101/2025.07.05.663311",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1101/2025.07.05.663311",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/09/2025.07.05.663311.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402567",
+        "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
+        "host_organization_lineage": [
+          "https://openalex.org/I2750212522"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmid:40672259",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40672259",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "bioRxiv : the preprint server for biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12265528",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12265528",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "bioRxiv",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1101/2025.07.05.663311",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1101/2025.07.05.663311",
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/09/2025.07.05.663311.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402567",
+      "display_name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I2750212522",
+      "host_organization_name": "Cold Spring Harbor Laboratory",
+      "host_organization_lineage": [
+        "https://openalex.org/I2750212522"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "bioRxiv",
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2638776066",
+      "display_name": null,
+      "funder_award_id": "UM1 TR004909",
+      "funder_id": "https://openalex.org/F4320337472",
+      "funder_display_name": "National Center for Advancing Translational Sciences"
+    },
+    {
+      "id": "https://openalex.org/G2870403573",
+      "display_name": null,
+      "funder_award_id": "KL2 TR003108",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G3235850320",
+      "display_name": null,
+      "funder_award_id": "K12 TR004924",
+      "funder_id": "https://openalex.org/F4320337472",
+      "funder_display_name": "National Center for Advancing Translational Sciences"
+    },
+    {
+      "id": "https://openalex.org/G3947859220",
+      "display_name": null,
+      "funder_award_id": "UL1 TR003107",
+      "funder_id": "https://openalex.org/F4320333798",
+      "funder_display_name": "Translational Research Institute, University of Arkansas for Medical Sciences"
+    },
+    {
+      "id": "https://openalex.org/G4386541128",
+      "display_name": null,
+      "funder_award_id": "KL2 TR003108",
+      "funder_id": "https://openalex.org/F4320337472",
+      "funder_display_name": "National Center for Advancing Translational Sciences"
+    },
+    {
+      "id": "https://openalex.org/G4447835673",
+      "display_name": null,
+      "funder_award_id": "R01 HD093461",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G5429807280",
+      "display_name": null,
+      "funder_award_id": "KL2 TR003108",
+      "funder_id": "https://openalex.org/F4320333798",
+      "funder_display_name": "Translational Research Institute, University of Arkansas for Medical Sciences"
+    },
+    {
+      "id": "https://openalex.org/G6069184463",
+      "display_name": null,
+      "funder_award_id": "TR003108",
+      "funder_id": "https://openalex.org/F4320337472",
+      "funder_display_name": "National Center for Advancing Translational Sciences"
+    },
+    {
+      "id": "https://openalex.org/G613926598",
+      "display_name": null,
+      "funder_award_id": "R24 GM137786",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G7860526943",
+      "display_name": null,
+      "funder_award_id": "TR003107",
+      "funder_id": "https://openalex.org/F4320337472",
+      "funder_display_name": "National Center for Advancing Translational Sciences"
+    },
+    {
+      "id": "https://openalex.org/G8266382387",
+      "display_name": null,
+      "funder_award_id": "UL1 TR003107",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G8319241677",
+      "display_name": null,
+      "funder_award_id": "RO1 DK139476",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G8454924503",
+      "display_name": null,
+      "funder_award_id": "UL1 TR003107",
+      "funder_id": "https://openalex.org/F4320337472",
+      "funder_display_name": "National Center for Advancing Translational Sciences"
+    },
+    {
+      "id": "https://openalex.org/G8550916343",
+      "display_name": null,
+      "funder_award_id": "UM1 TR004909",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320333798",
+      "display_name": "Translational Research Institute, University of Arkansas for Medical Sciences",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320337472",
+      "display_name": "National Center for Advancing Translational Sciences",
+      "ror": "https://ror.org/04pw6fb54"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4412138066.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4412138066.grobid-xml"
+  },
+  "referenced_works_count": 76,
+  "referenced_works": [
+    "https://openalex.org/W50205689",
+    "https://openalex.org/W1189362619",
+    "https://openalex.org/W1961026612",
+    "https://openalex.org/W1978235451",
+    "https://openalex.org/W2006986876",
+    "https://openalex.org/W2014496353",
+    "https://openalex.org/W2015556811",
+    "https://openalex.org/W2018286352",
+    "https://openalex.org/W2027329004",
+    "https://openalex.org/W2028672331",
+    "https://openalex.org/W2045778161",
+    "https://openalex.org/W2061729083",
+    "https://openalex.org/W2066132229",
+    "https://openalex.org/W2076820195",
+    "https://openalex.org/W2089250075",
+    "https://openalex.org/W2097255042",
+    "https://openalex.org/W2097579313",
+    "https://openalex.org/W2107931058",
+    "https://openalex.org/W2117305280",
+    "https://openalex.org/W2120064876",
+    "https://openalex.org/W2120656656",
+    "https://openalex.org/W2122321442",
+    "https://openalex.org/W2122598723",
+    "https://openalex.org/W2128246136",
+    "https://openalex.org/W2132834292",
+    "https://openalex.org/W2132893003",
+    "https://openalex.org/W2137715553",
+    "https://openalex.org/W2139151018",
+    "https://openalex.org/W2141638552",
+    "https://openalex.org/W2146512944",
+    "https://openalex.org/W2147347701",
+    "https://openalex.org/W2161397941",
+    "https://openalex.org/W2162579298",
+    "https://openalex.org/W2166260429",
+    "https://openalex.org/W2174107598",
+    "https://openalex.org/W2276370059",
+    "https://openalex.org/W2396850828",
+    "https://openalex.org/W2402288690",
+    "https://openalex.org/W2541333138",
+    "https://openalex.org/W2766270233",
+    "https://openalex.org/W2791459176",
+    "https://openalex.org/W2801817759",
+    "https://openalex.org/W2892291303",
+    "https://openalex.org/W2903729963",
+    "https://openalex.org/W2912811761",
+    "https://openalex.org/W2917438927",
+    "https://openalex.org/W2922854104",
+    "https://openalex.org/W2954896206",
+    "https://openalex.org/W2969834264",
+    "https://openalex.org/W2980576786",
+    "https://openalex.org/W2988364315",
+    "https://openalex.org/W2997979341",
+    "https://openalex.org/W2999417355",
+    "https://openalex.org/W3004606969",
+    "https://openalex.org/W3007888931",
+    "https://openalex.org/W3031301600",
+    "https://openalex.org/W3037344278",
+    "https://openalex.org/W3042226634",
+    "https://openalex.org/W3042312786",
+    "https://openalex.org/W3090327832",
+    "https://openalex.org/W3107885361",
+    "https://openalex.org/W3111746886",
+    "https://openalex.org/W3169183279",
+    "https://openalex.org/W3202325177",
+    "https://openalex.org/W4200585040",
+    "https://openalex.org/W4210317319",
+    "https://openalex.org/W4220785523",
+    "https://openalex.org/W4285891082",
+    "https://openalex.org/W4308834828",
+    "https://openalex.org/W4327949471",
+    "https://openalex.org/W4381571874",
+    "https://openalex.org/W4386723866",
+    "https://openalex.org/W4390376190",
+    "https://openalex.org/W4400283490",
+    "https://openalex.org/W4403945972",
+    "https://openalex.org/W4404046121"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W21950687",
+    "https://openalex.org/W2282289149",
+    "https://openalex.org/W1491102188",
+    "https://openalex.org/W2539206356",
+    "https://openalex.org/W2166551709",
+    "https://openalex.org/W36685860",
+    "https://openalex.org/W2026297603",
+    "https://openalex.org/W2026028375",
+    "https://openalex.org/W2319888289"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0,
+      274
+    ],
+    "Monensin": [
+      1
+    ],
+    "(": [
+      2
+    ],
+    "MON": [
+      3,
+      47,
+      88,
+      90,
+      106,
+      144,
+      177,
+      218,
+      237
+    ],
+    ")": [
+      4
+    ],
+    "is": [
+      5,
+      14
+    ],
+    "a": [
+      6,
+      60,
+      155,
+      205
+    ],
+    "polyether": [
+      7
+    ],
+    "ionophore": [
+      8
+    ],
+    "antibiotic": [
+      9
+    ],
+    "of": [
+      10,
+      46,
+      86,
+      118,
+      161,
+      170,
+      245
+    ],
+    "natural": [
+      11
+    ],
+    "origin": [
+      12
+    ],
+    "and": [
+      13,
+      33,
+      48,
+      56,
+      73,
+      91,
+      101,
+      107,
+      125,
+      145,
+      164,
+      178,
+      193,
+      219,
+      229,
+      238,
+      257,
+      269
+    ],
+    "an": [
+      15
+    ],
+    "FDA-approved": [
+      16
+    ],
+    "drug": [
+      17
+    ],
+    "for": [
+      18
+    ],
+    "veterinary": [
+      19
+    ],
+    "use.": [
+      20
+    ],
+    "Recent": [
+      21
+    ],
+    "studies": [
+      22
+    ],
+    "have": [
+      23
+    ],
+    "highlighted": [
+      24
+    ],
+    "its": [
+      25
+    ],
+    "potential": [
+      26,
+      265
+    ],
+    "anti-cancer": [
+      27
+    ],
+    "activity": [
+      28,
+      45,
+      85
+    ],
+    "in": [
+      29,
+      31,
+      34,
+      148,
+      181,
+      189,
+      211,
+      250
+    ],
+    "various": [
+      30
+    ],
+    "vitro": [
+      32
+    ],
+    "vivo": [
+      35
+    ],
+    "models.": [
+      36,
+      58
+    ],
+    "In": [
+      37
+    ],
+    "this": [
+      38
+    ],
+    "study,": [
+      39
+    ],
+    "we": [
+      40
+    ],
+    "evaluated": [
+      41
+    ],
+    "the": [
+      42,
+      84,
+      108,
+      116,
+      159,
+      171,
+      203,
+      227,
+      243,
+      251
+    ],
+    "anti-breast": [
+      43
+    ],
+    "cancer": [
+      44,
+      77,
+      150,
+      192,
+      200,
+      247
+    ],
+    "37": [
+      49
+    ],
+    "synthetic": [
+      50
+    ],
+    "analog": [
+      51
+    ],
+    "compounds": [
+      52,
+      66,
+      93
+    ],
+    "using": [
+      53
+    ],
+    "cell": [
+      54,
+      62,
+      99,
+      127,
+      195
+    ],
+    "monolayer": [
+      55
+    ],
+    "organoid": [
+      57,
+      252
+    ],
+    "Through": [
+      59
+    ],
+    "mini-ring": [
+      61
+    ],
+    "viability": [
+      63
+    ],
+    "assay,": [
+      64
+    ],
+    "several": [
+      65,
+      134
+    ],
+    "were": [
+      67,
+      70,
+      140
+    ],
+    "identified": [
+      68,
+      167
+    ],
+    "that": [
+      69,
+      133
+    ],
+    "more": [
+      71
+    ],
+    "potent": [
+      72,
+      110
+    ],
+    "selective": [
+      74
+    ],
+    "against": [
+      75
+    ],
+    "breast": [
+      76,
+      149,
+      191,
+      199,
+      246
+    ],
+    "cells": [
+      78,
+      124,
+      249
+    ],
+    "compared": [
+      79
+    ],
+    "to": [
+      80,
+      202
+    ],
+    "non-cancerous": [
+      81
+    ],
+    "cells,": [
+      82
+    ],
+    "surpassing": [
+      83
+    ],
+    "parent": [
+      87
+    ],
+    ".": [
+      89
+    ],
+    "these": [
+      92
+    ],
+    "induced": [
+      94
+    ],
+    "significant": [
+      95
+    ],
+    "DNA": [
+      96
+    ],
+    "fragmentation,": [
+      97
+    ],
+    "reduced": [
+      98,
+      115,
+      223,
+      242
+    ],
+    "migration,": [
+      100,
+      256
+    ],
+    "downregulated": [
+      102,
+      233
+    ],
+    "SOX2": [
+      103,
+      234
+    ],
+    "expression.": [
+      104,
+      235
+    ],
+    "Furthermore,": [
+      105
+    ],
+    "most": [
+      109,
+      172
+    ],
+    "analog,": [
+      111
+    ],
+    "compound": [
+      112,
+      146,
+      179,
+      220,
+      230,
+      239
+    ],
+    "12": [
+      113,
+      147,
+      180,
+      221,
+      231,
+      240
+    ],
+    ",": [
+      114
+    ],
+    "percentage": [
+      117
+    ],
+    "CD44": [
+      119
+    ],
+    "+": [
+      120
+    ],
+    "/CD24": [
+      121
+    ],
+    "-/low": [
+      122
+    ],
+    "stem-like": [
+      123,
+      248
+    ],
+    "diminished": [
+      126
+    ],
+    "self-renewal": [
+      128
+    ],
+    "properties.": [
+      129
+    ],
+    "Proteomics": [
+      130
+    ],
+    "analyses": [
+      131
+    ],
+    "revealed": [
+      132
+    ],
+    "pathways,": [
+      135
+    ],
+    "including": [
+      136
+    ],
+    "extracellular": [
+      137
+    ],
+    "matrix": [
+      138
+    ],
+    "organization,": [
+      139
+    ],
+    "significantly": [
+      141,
+      222,
+      232,
+      241
+    ],
+    "dysregulated": [
+      142,
+      258
+    ],
+    "by": [
+      143,
+      176
+    ],
+    "cells.": [
+      151,
+      183
+    ],
+    "Among": [
+      152
+    ],
+    "these,": [
+      153
+    ],
+    "TIMP2,": [
+      154
+    ],
+    "protein": [
+      156
+    ],
+    "associated": [
+      157,
+      260
+    ],
+    "with": [
+      158,
+      261
+    ],
+    "suppression": [
+      160
+    ],
+    "tumor": [
+      162
+    ],
+    "growth": [
+      163
+    ],
+    "metastasis,": [
+      165
+    ],
+    "was": [
+      166,
+      186,
+      216
+    ],
+    "as": [
+      168,
+      266
+    ],
+    "one": [
+      169
+    ],
+    "prominently": [
+      173
+    ],
+    "upregulated": [
+      174
+    ],
+    "proteins": [
+      175
+    ],
+    "MDA-MB-231": [
+      182
+    ],
+    "This": [
+      184
+    ],
+    "finding": [
+      185
+    ],
+    "also": [
+      187
+    ],
+    "validated": [
+      188
+    ],
+    "other": [
+      190
+    ],
+    "melanoma": [
+      194
+    ],
+    "lines.": [
+      196
+    ],
+    "To": [
+      197
+    ],
+    "simulate": [
+      198
+    ],
+    "metastasis": [
+      201
+    ],
+    "brain,": [
+      204
+    ],
+    "human": [
+      206
+    ],
+    "Hybrid": [
+      207
+    ],
+    "Organoid": [
+      208,
+      213
+    ],
+    "System:": [
+      209
+    ],
+    "Tumor": [
+      210
+    ],
+    "Brain": [
+      212
+    ],
+    "(HOSTBO)": [
+      214
+    ],
+    "model": [
+      215
+    ],
+    "developed.": [
+      217
+    ],
+    "Ki-67": [
+      224
+    ],
+    "expression": [
+      225
+    ],
+    "within": [
+      226
+    ],
+    "HOSTBOs,": [
+      228
+    ],
+    "Collectively,": [
+      236
+    ],
+    "proliferation": [
+      244
+    ],
+    "models,": [
+      253
+    ],
+    "inhibited": [
+      254
+    ],
+    "their": [
+      255,
+      264
+    ],
+    "markers": [
+      259
+    ],
+    "stemness,": [
+      262
+    ],
+    "demonstrating": [
+      263
+    ],
+    "anti-metastatic": [
+      267
+    ],
+    "agents": [
+      268
+    ],
+    "warranting": [
+      270
+    ],
+    "further": [
+      271
+    ],
+    "clinical": [
+      272
+    ],
+    "development.": [
+      273
+    ],
+    "Figure": [
+      275
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}
