@@ -1,65 +1,36 @@
 {
   "project": "ptpp_publication_contribution_pilot",
-  "created_at_utc": "2026-06-17T06:16:39+00:00",
-  "sources_requested": [
-    {
-      "source_page_key": "certified_therapists",
-      "membership_category": "certified_therapist_ptpp",
-      "url": "https://ptpp.pl/certyfikowane-i-terapeutki-i-terapeuci-psychoanalityczne-i-ptpp/",
-      "title_markers": [
-        "Certyfikowani terapeuci psychoanalityczni PTPP",
-        "Certyfikowane i terapeutki i terapeuci psychoanalityczne i PTPP",
-        "Certyfikowane terapeutki i certyfikowani terapeuci psychoanalityczni PTPP"
-      ],
-      "offline_filename": "certified_therapists.html",
-      "parse_mode": "name_lines"
-    },
-    {
-      "source_page_key": "extraordinary_members",
-      "membership_category": "extraordinary_member_ptpp",
-      "url": "https://ptpp.pl/czlonkinie-i-czlonkowie-nadzwyczajne-i-ptpp/",
-      "title_markers": [
-        "Członkowie nadzwyczajni PTPP",
-        "Członkinie i Członkowie nadzwyczajne i PTPP"
-      ],
-      "offline_filename": "extraordinary_members.html",
-      "parse_mode": "name_lines"
-    },
-    {
-      "source_page_key": "candidates",
-      "membership_category": "candidate_ptpp",
-      "url": "https://ptpp.pl/kandydatki-i-kandydaci-ptpp/",
-      "title_markers": [
-        "Kandydatki i kandydaci PTPP"
-      ],
-      "offline_filename": "candidates.html",
-      "parse_mode": "name_lines"
-    },
-    {
-      "source_page_key": "supervisors",
-      "membership_category": "supervisor_ptpp",
-      "url": "https://ptpp.pl/o-nas/superwizorki-i-superwizorzy-ptpp/",
-      "title_markers": [
-        "Superwizorki i Superwizorzy PTPP"
-      ],
-      "offline_filename": "supervisors.html",
-      "parse_mode": "name_dash_attribute"
-    }
-  ],
+  "created_at_utc": "2026-06-17T06:32:02+00:00",
   "parse_summaries": [
     {
       "source_page_key": "certified_therapists",
       "membership_category": "certified_therapist_ptpp",
       "url": "https://ptpp.pl/certyfikowane-i-terapeutki-i-terapeuci-psychoanalityczne-i-ptpp/",
       "title_marker_used": "Certyfikowani terapeuci psychoanalityczni PTPP",
-      "lines_in_content_window": 6,
-      "records_extracted": 2,
-      "rejected_line_count": 4,
+      "lines_in_content_window": 46,
+      "records_extracted": 19,
+      "rejected_line_count": 27,
       "rejected_line_examples": [
         "O nas",
         "Dołącz do nas",
         "Rodzaje członkostwa",
-        "Władze"
+        "Władze",
+        "Wydawnictwo",
+        "Dokumenty",
+        "Terapia",
+        "Znajdź terapeutę",
+        "Szkolenia",
+        "Wydarzenia",
+        "Konferencje",
+        "Czytelnia",
+        "Open Lectures",
+        "Sekcje",
+        "Regiony",
+        "Oddziały",
+        "Dolnośląsko-Opolski",
+        "Pomorski",
+        "Koła",
+        "Kujawsko-Pomorskie"
       ],
       "status": "parsed"
     },
@@ -68,14 +39,30 @@
       "membership_category": "extraordinary_member_ptpp",
       "url": "https://ptpp.pl/czlonkinie-i-czlonkowie-nadzwyczajne-i-ptpp/",
       "title_marker_used": "Członkowie nadzwyczajni PTPP",
-      "lines_in_content_window": 6,
-      "records_extracted": 2,
-      "rejected_line_count": 4,
+      "lines_in_content_window": 46,
+      "records_extracted": 19,
+      "rejected_line_count": 27,
       "rejected_line_examples": [
         "O nas",
         "Dołącz do nas",
         "Rodzaje członkostwa",
-        "Władze"
+        "Władze",
+        "Wydawnictwo",
+        "Dokumenty",
+        "Terapia",
+        "Znajdź terapeutę",
+        "Szkolenia",
+        "Wydarzenia",
+        "Konferencje",
+        "Czytelnia",
+        "Open Lectures",
+        "Sekcje",
+        "Regiony",
+        "Oddziały",
+        "Dolnośląsko-Opolski",
+        "Pomorski",
+        "Koła",
+        "Kujawsko-Pomorskie"
       ],
       "status": "parsed"
     },
@@ -84,14 +71,30 @@
       "membership_category": "candidate_ptpp",
       "url": "https://ptpp.pl/kandydatki-i-kandydaci-ptpp/",
       "title_marker_used": "Kandydatki i kandydaci PTPP",
-      "lines_in_content_window": 6,
-      "records_extracted": 2,
-      "rejected_line_count": 4,
+      "lines_in_content_window": 46,
+      "records_extracted": 19,
+      "rejected_line_count": 27,
       "rejected_line_examples": [
         "O nas",
         "Dołącz do nas",
         "Rodzaje członkostwa",
-        "Władze"
+        "Władze",
+        "Wydawnictwo",
+        "Dokumenty",
+        "Terapia",
+        "Znajdź terapeutę",
+        "Szkolenia",
+        "Wydarzenia",
+        "Konferencje",
+        "Czytelnia",
+        "Open Lectures",
+        "Sekcje",
+        "Regiony",
+        "Oddziały",
+        "Dolnośląsko-Opolski",
+        "Pomorski",
+        "Koła",
+        "Kujawsko-Pomorskie"
       ],
       "status": "parsed"
     },
@@ -100,25 +103,41 @@
       "membership_category": "supervisor_ptpp",
       "url": "https://ptpp.pl/o-nas/superwizorki-i-superwizorzy-ptpp/",
       "title_marker_used": "Superwizorki i Superwizorzy PTPP",
-      "lines_in_content_window": 6,
-      "records_extracted": 1,
-      "rejected_line_count": 5,
+      "lines_in_content_window": 46,
+      "records_extracted": 17,
+      "rejected_line_count": 29,
       "rejected_line_examples": [
         "O nas",
         "O nas – mapa PTPP",
         "Dołącz do nas",
         "Rodzaje członkostwa",
-        "Władze"
+        "Władze",
+        "Wydawnictwo",
+        "Dokumenty",
+        "Terapia",
+        "Znajdź terapeutę",
+        "Szkolenia",
+        "Wydarzenia",
+        "Konferencje",
+        "Czytelnia",
+        "Open Lectures",
+        "Sekcje",
+        "Regiony",
+        "Oddziały",
+        "Dolnośląsko-Opolski",
+        "Małopolsko – Podkarpacki",
+        "Pomorski"
       ],
       "status": "parsed"
     }
   ],
-  "membership_occurrences": 7,
-  "deduplicated_persons": 2,
+  "membership_occurrences": 74,
+  "deduplicated_persons": 19,
   "outputs": {
     "memberships_csv": "data_raw\\ptpp_memberships_snapshot.csv",
     "persons_csv": "data_raw\\ptpp_members_snapshot.csv",
-    "acquisition_log_csv": "logs\\ptpp_members_acquisition_log.csv"
+    "acquisition_log_csv": "logs\\ptpp_members_acquisition_log.csv",
+    "summary_json": "docs\\ptpp_members_snapshot_summary.json"
   },
-  "methodological_note": "The table is a public-list snapshot. It should not be interpreted as a complete or official registry beyond the source pages and acquisition date. Membership-linked publication analysis requires later author disambiguation and manual audit."
+  "methodological_note": "Public-list snapshot only; publication analysis requires later author disambiguation and manual audit."
 }
