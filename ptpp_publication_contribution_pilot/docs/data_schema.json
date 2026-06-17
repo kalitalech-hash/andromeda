@@ -1,0 +1,97 @@
+{
+  "project": "ptpp_publication_contribution_pilot",
+  "created": "2026-06-17",
+  "tables": {
+    "ptpp_members_snapshot.csv": {
+      "description": "Raw public PTPP person list snapshot.",
+      "fields": [
+        "person_id",
+        "name_raw",
+        "first_name",
+        "last_name",
+        "membership_category",
+        "source_url",
+        "snapshot_date",
+        "source_access_status",
+        "notes"
+      ]
+    },
+    "persons_disambiguation.csv": {
+      "description": "Person-level identifiers and audit status.",
+      "fields": [
+        "person_id",
+        "name_ptpp",
+        "name_variants",
+        "orcid",
+        "pbn_person_id",
+        "affiliation_clues",
+        "disambiguation_status",
+        "manual_review_flag",
+        "notes"
+      ]
+    },
+    "publication_candidates.csv": {
+      "description": "Raw candidate publication records from bibliographic sources.",
+      "fields": [
+        "candidate_id",
+        "source_database",
+        "source_query",
+        "title",
+        "year",
+        "journal_or_book",
+        "publication_type",
+        "doi",
+        "url",
+        "authors_raw",
+        "abstract",
+        "keywords",
+        "language",
+        "retrieved_at",
+        "raw_record_path"
+      ]
+    },
+    "authorship_candidates.csv": {
+      "description": "Candidate links between PTPP-listed persons and publication records.",
+      "fields": [
+        "candidate_id",
+        "person_id",
+        "publication_candidate_id",
+        "name_as_published",
+        "author_position",
+        "match_confidence",
+        "match_basis",
+        "manual_audit_decision",
+        "audit_notes"
+      ]
+    },
+    "publications.csv": {
+      "description": "Deduplicated and accepted publication records.",
+      "fields": [
+        "publication_id",
+        "title",
+        "year",
+        "journal_or_book",
+        "publication_type",
+        "doi",
+        "url",
+        "language",
+        "abstract_available",
+        "keywords_available",
+        "source_database",
+        "notes"
+      ]
+    },
+    "authorships.csv": {
+      "description": "Accepted person-publication links.",
+      "fields": [
+        "publication_id",
+        "person_id",
+        "author_position",
+        "name_as_published",
+        "match_confidence",
+        "match_basis",
+        "manual_audit_decision"
+      ]
+    }
+  }
+}

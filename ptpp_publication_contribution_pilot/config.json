@@ -1,0 +1,58 @@
+{
+  "project": "ptpp_publication_contribution_pilot",
+  "snapshot_date": "2026-06-17",
+  "ptpp_sources": [
+    {
+      "membership_category": "certified_therapists",
+      "url": "https://ptpp.pl/certyfikowane-i-terapeutki-i-terapeuci-psychoanalityczne-i-ptpp/"
+    },
+    {
+      "membership_category": "extraordinary_members",
+      "url": "https://ptpp.pl/czlonkinie-i-czlonkowie-nadzwyczajne-i-ptpp/"
+    }
+  ],
+  "bibliographic_sources": [
+    "PBN",
+    "ORCID",
+    "Crossref",
+    "CEJSH",
+    "BazHum",
+    "CEEOL",
+    "PubMed"
+  ],
+  "matching_policy": {
+    "accepted_to_final": [
+      "high",
+      "medium_manual_accept"
+    ],
+    "excluded_by_default": [
+      "low",
+      "reject"
+    ],
+    "notes": "Use full-name, ORCID/PBN IDs where available, affiliations, topics, publication venues, and manual review."
+  },
+  "crossref": {
+    "base_url": "https://api.crossref.org/works",
+    "polite_pool_mailto": "CONTACT_EMAIL",
+    "rows_per_query": 20
+  },
+  "ptpp_members_sources": [
+    {
+      "source_page_key": "certified_therapists",
+      "url": "https://ptpp.pl/certyfikowane-i-terapeutki-i-terapeuci-psychoanalityczne-i-ptpp/"
+    },
+    {
+      "source_page_key": "extraordinary_members",
+      "url": "https://ptpp.pl/czlonkinie-i-czlonkowie-nadzwyczajne-i-ptpp/"
+    },
+    {
+      "source_page_key": "candidates",
+      "url": "https://ptpp.pl/kandydatki-i-kandydaci-ptpp/"
+    },
+    {
+      "source_page_key": "supervisors_optional",
+      "url": "https://ptpp.pl/o-nas/superwizorki-i-superwizorzy-ptpp/"
+    }
+  ],
+  "ptpp_members_snapshot_script": "scripts/build_ptpp_members_snapshot.py"
+}
