@@ -87,6 +87,54 @@ def read_csv(path: Path) -> pd.DataFrame:
     return pd.read_csv(path, dtype=str, keep_default_na=False, encoding='utf-8-sig')
 
 
+
+def checkpoint_state(manifest: pd.DataFrame, paths: dict, key: str, year: int,
+                     prefix: str, stage: str) -> str:
+    """Read-only validation of a prior job. Never overwrite existing harvest artifacts."""
+    required = ('articles', 'keywords', 'log')
+    has_files = any(paths[name].exists() for name in required)
+    has_raw = paths['raw'].is_dir() and any(paths['raw'].iterdir())
+    if not manifest.empty and not {'journal', 'year', 'status', 'n_rows'}.issubset(manifest.columns):
+        raise SystemExit('STOP: manifest columns are incomplete; inspect before resuming.')
+    previous = (manifest[(manifest['journal'] == key) & (manifest['year'] == str(year))]
+                if not manifest.empty else pd.DataFrame())
+    if previous.empty and not has_files and not has_raw:
+        return 'new'
+    if previous.empty or not all(paths[name].exists() for name in required) or not has_raw:
+        raise SystemExit(f'STOP: partial/orphan artifacts for {key} {year}; inspect locally; no overwrite.')
+    last = previous.iloc[-1]
+    df = read_csv(paths['articles'])
+    log = read_csv(paths['log'])
+    if log.empty or 'status_code' not in log or 'error' not in log:
+        raise SystemExit(f'STOP: missing/incomplete API log for {key} {year}.')
+    if not log['status_code'].eq('200').all() or log['error'].str.strip().ne('').any():
+        raise SystemExit(f'STOP: previous API request was not clean for {key} {year}.')
+    if str(last['n_rows']) != str(len(df)):
+        raise SystemExit(f'STOP: manifest/CSV row-count mismatch for {key} {year}.')
+    if str(last['status']) == 'empty' and len(df) == 0 and stage == 'harvest':
+        return 'unverified_empty'
+    allowed = {'ok', 'ok_sample_limited'} if stage == 'probe' else {'ok'}
+    if str(last['status']) not in allowed or df.empty:
+        raise SystemExit(f"STOP: unresolved prior status {last['status']} for {key} {year}.")
+    if 'document_id' not in df or not df['document_id'].str.upper().str.startswith(prefix + '.').all():
+        raise SystemExit(f'STOP: stored document IDs fail prefix QA for {key} {year}.')
+    return 'complete'
+
+
+def gap_selection(values: list[str], selected: list[str]) -> set[tuple[str, int]]:
+    """Explicit journal:year choices, never blanket permission to ignore empty results."""
+    pairs = set()
+    for value in values:
+        parts = value.split(':')
+        if len(parts) != 2 or parts[0] not in selected or not parts[1].isdigit():
+            raise SystemExit('STOP: --continue-with-gap expects a selected journal:year.')
+        key, year = parts[0], int(parts[1])
+        if not max(1970, JOURNALS[key]['first_year']) <= year <= 2025:
+            raise SystemExit('STOP: gap year outside the journal analysis period.')
+        pairs.add((key, year))
+    return pairs
+
+
 def run_network(args, out: Path, repo: Path) -> int:
     if not args.permission_checked:
         raise SystemExit('STOP: Lech must check API/usage permissions; then pass --permission-checked.')
@@ -109,13 +157,40 @@ def run_network(args, out: Path, repo: Path) -> int:
         range(max(1970, JOURNALS[key]['first_year']), 2026)
     )]
     manifest = out / stage / 'manifest.csv'
+    existing_manifest = read_csv(manifest)
+    gaps_file = out / 'harvest' / 'coverage_gaps.csv'
+    known_gaps = read_csv(gaps_file) if stage == 'harvest' else pd.DataFrame()
+    reviewed = gap_selection(args.continue_with_gap, keys)
+    if reviewed and (stage != 'harvest' or not args.gap_note.strip()):
+        raise SystemExit('STOP: --continue-with-gap is harvest-only and requires --gap-note.')
     print('Stage:', stage, 'Jobs:', len(jobs), 'Output:', out)
     processed = 0
     for key, year in jobs:
         meta = JOURNALS[key]
         p = file_paths(out, stage, key, year)
-        if p['articles'].exists() and p['log'].exists():
-            print('SKIP existing:', key, year)
+        state = checkpoint_state(existing_manifest, p, key, year, meta['pep_prefix'], stage)
+        if state == 'complete':
+            print('SKIP validated complete:', key, year)
+            continue
+        if state == 'unverified_empty':
+            already_noted = (not known_gaps.empty and
+                             {'journal', 'year', 'status', 'review_note'}.issubset(known_gaps.columns) and
+                             ((known_gaps['journal'] == key) &
+                              (known_gaps['year'] == str(year)) &
+                              (known_gaps['status'] == 'unverified_metadata_gap') &
+                              known_gaps['review_note'].str.strip().ne('')).any())
+            if not already_noted and (key, year) not in reviewed:
+                raise SystemExit(
+                    f'STOP: {key} {year} HTTP 200 but zero rows. Review the local raw response; '
+                    f'to continue with a documented UNVERIFIED gap, use '
+                    f'--continue-with-gap {key}:{year} --gap-note "reason".')
+            if not already_noted:
+                review = {'timestamp_utc': utc_now(), 'journal': key, 'year': year,
+                          'status': 'unverified_metadata_gap', 'http_statuses': '200',
+                          'n_rows': 0, 'review_note': args.gap_note.strip()}
+                append_csv(gaps_file, review)
+                known_gaps = read_csv(gaps_file)
+            print('SKIP unresolved empty (documented coverage gap):', key, year)
             continue
         if stage == 'harvest':
             probe_articles = file_paths(out, 'probe', key, args.probe_year)['articles']
@@ -190,6 +265,23 @@ def audit(out: Path, repo: Path, args) -> int:
             harvested.append(df)
     target = out / 'qa'
     target.mkdir(parents=True, exist_ok=True)
+    harvest_manifest = read_csv(out / 'harvest' / 'manifest.csv')
+    latest_manifest = (harvest_manifest.drop_duplicates(['journal', 'year'], keep='last')
+                       if not harvest_manifest.empty else pd.DataFrame())
+    complete_jobs = set()
+    empty_jobs = set()
+    if not latest_manifest.empty:
+        for item in latest_manifest.to_dict('records'):
+            pair = (item.get('journal'), str(item.get('year')))
+            if item.get('status') == 'ok':
+                complete_jobs.add(pair)
+            elif item.get('status') == 'empty':
+                empty_jobs.add(pair)
+    expected_jobs = {(key, str(year)) for key in keys for year in
+                     range(max(1970, JOURNALS[key]['first_year']), 2026)}
+    gap_reviews = read_csv(out / 'harvest' / 'coverage_gaps.csv')
+    if not gap_reviews.empty:
+        gap_reviews.to_csv(target / 'coverage_gaps.csv', index=False, encoding='utf-8-sig')
     if not harvested:
         print('No full-harvest records yet. Run probe and then approved harvest.')
         return 1
@@ -235,6 +327,11 @@ def audit(out: Path, repo: Path, args) -> int:
                                               index=False, encoding='utf-8-sig'))
     screen(art, target)
     summary = {'created_at_utc': utc_now(), 'analysis_years': [1970, 2025],
+               'n_expected_journal_years': len(expected_jobs),
+               'n_manifest_ok_journal_years': len(expected_jobs & complete_jobs),
+               'n_manifest_empty_journal_years': len(expected_jobs & empty_jobs),
+               'n_unfinished_journal_years': len(expected_jobs - complete_jobs),
+               'coverage_complete': expected_jobs <= complete_jobs,
                'source_files': source_files, 'n_raw_rows': len(all_df),
                'n_excluded_records': len(excluded), 'n_ART_eligible': len(art),
                'ART_by_journal': {str(k): int(v) for k, v in art['journal_key'].value_counts().items()},
@@ -248,6 +345,8 @@ def audit(out: Path, repo: Path, args) -> int:
                'limitations': ['Metadata title-and-abstract layer, not full texts.',
                                'Missing abstracts and metadata fields require QA.',
                                'New journals have uneven starting years.',
+                               'HTTP 200 with zero records is an unverified gap, not evidence of zero publications.',
+                               'Coverage is incomplete until every expected journal-year is verified.',
                                'Topical coding remains human-in-the-loop.']}
     save_json(target / 'summary.json', summary)
     save_json(target / 'transformation_log.json', {
@@ -308,6 +407,9 @@ def main():
     p.add_argument('--limit', type=int, default=500)
     p.add_argument('--permission-checked', action='store_true', help='Explicit local TOS/API check completed')
     p.add_argument('--approved', action='store_true', help='Explicit approval of full metadata harvest')
+    p.add_argument('--continue-with-gap', action='append', default=[], metavar='JOURNAL:YEAR',
+                   help='After local inspection, preserve a prior HTTP-200 empty year as an unresolved gap and continue')
+    p.add_argument('--gap-note', default='', help='Document local review of the selected missing journal-year')
     p.add_argument('--env', default=None, help='Local path to existing PEP env; do not share')
     args = p.parse_args()
     repo = root_repo()

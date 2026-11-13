@@ -47,6 +47,22 @@ Pliki **z kodem** można umieścić w repozytorium; pozyskanych danych źródło
    python gaming_mind_extension_bundle/gaming_extension.py harvest --permission-checked --approved
    ```
 
+### Wznowienie harvestu po zatrzymaniu (bez dublowania pobrań)
+
+Nowy checkpoint sprawdza **manifest, CSV, log HTTP, obecność surowego artefaktu lokalnego oraz prefix ID**. Tylko roczniki ze zweryfikowanym statusem `ok` i spójnymi plikami są pomijane. Pojedynczy niekompletny checkpoint kończy działanie komunikatem STOP; nie jest nadpisywany i nie jest pobierany ponownie automatycznie.
+
+Dla `modern_psychoanalysis`, 2018, zapisano `HTTP 200` i `n_rows=0`. To **nie jest dowód, że czasopismo nie wydało artykułów w 2018**. Najpierw lokalnie zbadaj `data_gaming_mind_extension/data/harvest/logs/modern_psychoanalysis/modern_psychoanalysis_2018_api_log.csv` oraz odpowiadający mu JSON w `.../raw_pep_metadata/modern_psychoanalysis/2018` (nie publikuj payloadu). Sprawdź kwerendę, kształt odpowiedzi i limity dostępu. Jeśli problem nie jest wyjaśniony, zachowaj rok jako **unverified_metadata_gap**, a nie rzeczywiste zero w korpusie.
+
+Po sprawdzeniu lokalnego JSON i uznaniu, że można kontynuować bez rozstrzygania brakującego rocznika, wykonaj **jednorazowo** (z głównego katalogu repo):
+
+```bash
+python gaming_mind_extension_bundle/gaming_extension.py harvest --permission-checked --approved --continue-with-gap modern_psychoanalysis:2018 --gap-note "HTTP 200 zero records; local response inspected; gap remains unresolved"
+```
+
+Komenda nie powtarza pomyślnych lat; 2018 zostaje ominięty **wyłącznie jako dokumentowana, niezweryfikowana luka** w lokalnym `data_gaming_mind_extension/data/harvest/coverage_gaps.csv`. Jeśli wznowienie zatrzyma się na innym `empty`, skontroluj osobno ten rok i jawnie potwierdź go przez osobny `--continue-with-gap JOURNAL:YEAR`; nie ignoruj innych błędów.
+
+**Uwaga:** `audit` może tworzyć częściowe wyniki robocze także przy lukach; dopóki `summary.json` nie podaje `coverage_complete: true`, nie interpretuj ich jako kompletnego przekroju czasopism 1970–2025. Nie zmieniaj ręcznie manifestu, nie usuwaj dotychczasowych plików i nie ponawiaj automatycznie `empty` ani HTTP 403/429.
+
 7. Po ukończeniu harvestu, lokalna kontrola i selekcja kandydatów (bez sieci):
 
    ```bash
