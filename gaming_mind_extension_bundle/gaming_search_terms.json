@@ -1,0 +1,14 @@
+{
+  "version": "2026-11-13.v1",
+  "description": "Exploratory screening of titles and abstracts, not finalized coding of discourse",
+  "high_precision": {
+    "video_games": "(?i)\\b(?:video[ -]?games?|videogames?|computer[ -]?games?|digital[ -]?games?|gaming[ -]?disorder|video[ -]?gaming|online[ -]?gaming|gamers?)\\b",
+    "gaming_platforms": "(?i)\\b(?:MMORPGs?|MMOs?|massively multiplayer(?: online)?(?: role[ -]?playing)? games?|playstation|xbox|nintendo|steam gaming)\\b",
+    "specific_games": "(?i)\\b(?:world of warcraft|warcraft|minecraft|fortnite|league of legends|skyrim|elden ring|dark souls|bloodborne|animal crossing|the sims|second life|pokemon go|pok[eé]mon go|roblox|grand theft auto|final fantasy)\\b"
+  },
+  "contextual_review": {
+    "genres": "(?i)\\b(?:RPGs?|CRPGs?|JRPGs?|rogue[ -]?likes?|souls[ -]?likes?|turn[ -]?based(?: combat)?|role[ -]?playing games?|computer role[ -]?playing|gameplay|game mechanics|virtual worlds?)\\b",
+    "generic_ambiguous": "(?i)\\b(?:gaming|game|games|avatar|avatars|virtual reality|digital play|online play|virtual identity|role[ -]?play(?:ing)?)\\b"
+  },
+  "exclude_note": "General 'play', 'game', 'role-playing', 'gaming' can mean psychotherapy, gambling, board games or metaphors; manual validation mandatory."
+}
