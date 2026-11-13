@@ -1,0 +1,16 @@
+{
+  "created_at_utc": "2026-11-13T20:17:44.698083+00:00",
+  "source": "Existing PEP v12 flattened yearly CSV and locally preserved API JSON",
+  "steps": [
+    "concatenate yearly raw metadata without rewriting files",
+    "mark year/title/id/prefix/duplicate/ART status for QA",
+    "create exclusions audit (non-ART and QA failures)",
+    "extract abstracts from locally preserved JSON using Lech 1e routine",
+    "create title_clean + abstract_clean as a metadata-bounded analysis layer",
+    "mark missing/very long abstracts; screen exploratory gaming terms",
+    "leave all substantive inclusion judgments pending human review"
+  ],
+  "source_file_count": 361,
+  "screening_vocabulary_version": "2026-11-13.v1",
+  "corpus_rule": "article_type == ART, 1970-2025, with documented exclusions"
+}

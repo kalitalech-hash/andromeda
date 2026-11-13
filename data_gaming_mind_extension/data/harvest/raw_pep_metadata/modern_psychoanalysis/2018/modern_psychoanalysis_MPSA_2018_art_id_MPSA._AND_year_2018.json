@@ -1,0 +1,52 @@
+{
+  "endpoint": "https://api.pep-web.org/v2/Database/Search/",
+  "params": {
+    "facetquery": "art_id:MPSA.* AND year:2018",
+    "formatrequested": "JSON",
+    "abstract": "true",
+    "limit": "500",
+    "offset": "0",
+    "synonyms": "false"
+  },
+  "status_code": 200,
+  "response_headers_subset": {
+    "content-type": "",
+    "content-length": ""
+  },
+  "payload": {
+    "documentList": {
+      "responseInfo": {
+        "count": 0,
+        "limit": 500,
+        "offset": 0,
+        "page": null,
+        "fullCount": 0,
+        "fullCountComplete": true,
+        "facetCounts": null,
+        "totalMatchCount": 0,
+        "listType": "documentlist",
+        "scopeQuery": [
+          {
+            "searchQ": "*:*",
+            "filterQ": "art_level:1",
+            "facetQ": "art_id:MPSA.* AND year:2018",
+            "semanticDescription": null,
+            "searchQPrefix": "",
+            "sort": "score  desc",
+            "queryTermList": [],
+            "analyzeThis": "",
+            "searchAnalysisTermList": []
+          }
+        ],
+        "description": null,
+        "request": "None",
+        "core": "pepwebdocs",
+        "solrParams": null,
+        "timeStamp": "2026-11-13T19:03:03Z"
+      },
+      "responseSet": []
+    }
+  },
+  "text": null,
+  "error": ""
+}
