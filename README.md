@@ -67,9 +67,12 @@ data_psychiatria_polska/
 data_archives_of_psychiatry/
 data_worldcorpus/
 data_psychoanalytic_core/
+data_psychoanalytic_extended/
 ```
 
 Project-specific data directories contain corpus-specific scripts, intermediate outputs, quality-control files, transformation logs, semantic mappings, audit files, and analysis results.
+
+`data_psychoanalytic_extended/` is an **eight-journal additional layer** supplementing the five-journal `data_psychoanalytic_core/`. The **13-journal extended analytical corpus** is their documented, deduplicated union; the extension directory itself does not contain the five core journals. The separate `gaming_mind_extension_bundle/` contains project-specific gaming screening code. The extension's 1970–2025 harvest currently has one unverified journal-year gap; see its README and QA summary.
 
 Applied corpora should be treated as research workspaces. Raw data, cleaned data, semantic mappings, and analytical outputs should be stored as separate layers rather than overwritten.
 

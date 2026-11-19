@@ -3,7 +3,7 @@
 
 No network on `plan`/`audit`; `probe` needs a checked permission basis;
 `harvest` additionally needs an explicit approval flag.
-Keeps all new data under data_gaming_mind_extension/ and never modifies
+Keeps all new data under data_psychoanalytic_extended/ and never modifies
 Lech's psychoanalytic_core tables or scripts.
 """
 from __future__ import annotations
@@ -25,6 +25,7 @@ HERE = Path(__file__).resolve().parent
 CONFIG = json.loads((HERE / 'journals.json').read_text(encoding='utf-8'))
 TERM_CONFIG = json.loads((HERE / 'gaming_search_terms.json').read_text(encoding='utf-8'))
 JOURNALS = CONFIG['new_journals']
+EXTENSION_DATA_DIR = 'data_psychoanalytic_extended'
 
 
 def root_repo() -> Path:
@@ -413,7 +414,7 @@ def main():
     p.add_argument('--env', default=None, help='Local path to existing PEP env; do not share')
     args = p.parse_args()
     repo = root_repo()
-    out = repo / 'data_gaming_mind_extension' / 'data'
+    out = repo / EXTENSION_DATA_DIR / 'data'
     if args.action != 'plan':
         private_root = out.parent
         private_root.mkdir(parents=True, exist_ok=True)

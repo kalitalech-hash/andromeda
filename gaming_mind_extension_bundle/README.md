@@ -1,16 +1,18 @@
 # Umysł gracza — rozszerzenie psychoanalytic_core o 8 czasopism
 
 **Andromeda Nowicka v0.5 | pakiet roboczy 2026-11-13**  
-**Status: przygotowany i testowany offline; żaden nowy harvest PEP nie został wykonany.**
+**Status (2026-11-19):** pakiet został uruchomiony lokalnie, a wyniki harvestu i audytu znajdują się w repozytorium. QA z 2026-11-13: 361/362 oczekiwanych roczników ze statusem `ok`; jeden niezweryfikowany brak (Modern Psychoanalysis, 2018). `coverage_complete=false`. Niniejsza zmiana nazwy nie uruchamia API ani nie przelicza danych.**
 
 ## Co to robi?
+
+**Migracja nazwy (2026-11-19):** dawna ścieżka `data_gaming_mind_extension/` została zastąpiona przez `data_psychoanalytic_extended/`. Historyczne logi i manifesty zachowują pierwotne ścieżki jako zapis pochodzenia danych. Osiem czasopism w tym katalogu stanowi warstwę dodatkową; pełny korpus trzynastu czasopism wymaga połączenia z `data_psychoanalytic_core/` i kontroli duplikatów.
 
 Do istniejących 5 czasopism z `data_psychoanalytic_core/` dodaje **osobną warstwę** 8 czasopism w okresie 1970–2025. Korzysta z istniejącego lokalnie skryptu Lecha `1a_pep_metadata_probe_v12.py`, bez modyfikowania go, bez pobierania PDF-ów ani pełnych tekstów. Wydzielony katalog wyjściowy:
 
 ```
 andromeda/
   data_psychoanalytic_core/           # istniejące dane Lecha — BEZ ZMIAN
-  data_gaming_mind_extension/          # nowa warstwa robocza — DANE NIE DO GIT
+  data_psychoanalytic_extended/          # nowa warstwa robocza — DANE NIE DO GIT
      data/probe/
      data/harvest/
      data/qa/
@@ -19,9 +21,9 @@ andromeda/
 
 Pliki **z kodem** można umieścić w repozytorium; pozyskanych danych źródłowych PEP i pliku `.env.pep` nie należy publikować.
 
-## Dla Melisy — tylko jedno zadanie
+## Historia współpracy z Melisą
 
-**Prześlij Lechowi tę paczkę ZIP** z prośbą o wykonanie najpierw testu `probe` i sprawdzenie logów. Nie musisz podawać loginu, hasła ani klucza API i nie musisz ręcznie pobierać danych.
+Pakiet został pierwotnie przygotowany jako materiał do przekazania Lechowi na etap `probe`/`harvest`. Ten etap został już wykonany; poniższe komendy służą do **świadomego wznowienia lub audytu**, a nie automatycznego powtarzania pobrań. Nie należy przekazywać poświadczeń API.
 
 ## Dla Lecha — instrukcja uruchomienia
 
@@ -40,7 +42,7 @@ Pliki **z kodem** można umieścić w repozytorium; pozyskanych danych źródło
    python gaming_mind_extension_bundle/gaming_extension.py probe --permission-checked
    ```
 
-5. Sprawdzić `data_gaming_mind_extension/data/probe/manifest.csv`: status HTTP, `n_rows`, `wrong_prefix_ids`. `ok_sample_limited` to poprawny test, w którym celowo ograniczono liczbę rekordów. **W przypadku `wrong_prefix`, `empty`, `http_error`: STOP.**
+5. Sprawdzić `data_psychoanalytic_extended/data/probe/manifest.csv`: status HTTP, `n_rows`, `wrong_prefix_ids`. `ok_sample_limited` to poprawny test, w którym celowo ograniczono liczbę rekordów. **W przypadku `wrong_prefix`, `empty`, `http_error`: STOP.**
 6. Dopiero po kontroli i **jawnej decyzji badawczej Lecha**, jeśli pozwalają warunki korzystania z API, pełne pobranie metadanych dla lat 1970–2025:
 
    ```bash
@@ -51,7 +53,7 @@ Pliki **z kodem** można umieścić w repozytorium; pozyskanych danych źródło
 
 Nowy checkpoint sprawdza **manifest, CSV, log HTTP, obecność surowego artefaktu lokalnego oraz prefix ID**. Tylko roczniki ze zweryfikowanym statusem `ok` i spójnymi plikami są pomijane. Pojedynczy niekompletny checkpoint kończy działanie komunikatem STOP; nie jest nadpisywany i nie jest pobierany ponownie automatycznie.
 
-Dla `modern_psychoanalysis`, 2018, zapisano `HTTP 200` i `n_rows=0`. To **nie jest dowód, że czasopismo nie wydało artykułów w 2018**. Najpierw lokalnie zbadaj `data_gaming_mind_extension/data/harvest/logs/modern_psychoanalysis/modern_psychoanalysis_2018_api_log.csv` oraz odpowiadający mu JSON w `.../raw_pep_metadata/modern_psychoanalysis/2018` (nie publikuj payloadu). Sprawdź kwerendę, kształt odpowiedzi i limity dostępu. Jeśli problem nie jest wyjaśniony, zachowaj rok jako **unverified_metadata_gap**, a nie rzeczywiste zero w korpusie.
+Dla `modern_psychoanalysis`, 2018, zapisano `HTTP 200` i `n_rows=0`. To **nie jest dowód, że czasopismo nie wydało artykułów w 2018**. Najpierw lokalnie zbadaj `data_psychoanalytic_extended/data/harvest/logs/modern_psychoanalysis/modern_psychoanalysis_2018_api_log.csv` oraz odpowiadający mu JSON w `.../raw_pep_metadata/modern_psychoanalysis/2018` (nie publikuj payloadu). Sprawdź kwerendę, kształt odpowiedzi i limity dostępu. Jeśli problem nie jest wyjaśniony, zachowaj rok jako **unverified_metadata_gap**, a nie rzeczywiste zero w korpusie.
 
 Po sprawdzeniu lokalnego JSON i uznaniu, że można kontynuować bez rozstrzygania brakującego rocznika, wykonaj **jednorazowo** (z głównego katalogu repo):
 
@@ -59,7 +61,7 @@ Po sprawdzeniu lokalnego JSON i uznaniu, że można kontynuować bez rozstrzygan
 python gaming_mind_extension_bundle/gaming_extension.py harvest --permission-checked --approved --continue-with-gap modern_psychoanalysis:2018 --gap-note "HTTP 200 zero records; local response inspected; gap remains unresolved"
 ```
 
-Komenda nie powtarza pomyślnych lat; 2018 zostaje ominięty **wyłącznie jako dokumentowana, niezweryfikowana luka** w lokalnym `data_gaming_mind_extension/data/harvest/coverage_gaps.csv`. Jeśli wznowienie zatrzyma się na innym `empty`, skontroluj osobno ten rok i jawnie potwierdź go przez osobny `--continue-with-gap JOURNAL:YEAR`; nie ignoruj innych błędów.
+Komenda nie powtarza pomyślnych lat; 2018 zostaje ominięty **wyłącznie jako dokumentowana, niezweryfikowana luka** w lokalnym `data_psychoanalytic_extended/data/harvest/coverage_gaps.csv`. Jeśli wznowienie zatrzyma się na innym `empty`, skontroluj osobno ten rok i jawnie potwierdź go przez osobny `--continue-with-gap JOURNAL:YEAR`; nie ignoruj innych błędów.
 
 **Uwaga:** `audit` może tworzyć częściowe wyniki robocze także przy lukach; dopóki `summary.json` nie podaje `coverage_complete: true`, nie interpretuj ich jako kompletnego przekroju czasopism 1970–2025. Nie zmieniaj ręcznie manifestu, nie usuwaj dotychczasowych plików i nie ponawiaj automatycznie `empty` ani HTTP 403/429.
 
@@ -69,7 +71,7 @@ Komenda nie powtarza pomyślnych lat; 2018 zostaje ominięty **wyłącznie jako 
    python gaming_mind_extension_bundle/gaming_extension.py audit
    ```
 
-8. Do rozmowy przesłać **jedynie po sprawdzeniu zasad przekazywania danych** `data_gaming_mind_extension/data/qa/gaming_candidate_review_queue.csv` oraz `summary.json` (lub tylko ich agregaty). Nie wysyłać surowych odpowiedzi API, tokenów, logów z sekretami ani nie udostępniać surowych abstraktów publicznie.
+8. Do rozmowy przesłać **jedynie po sprawdzeniu zasad przekazywania danych** `data_psychoanalytic_extended/data/qa/gaming_candidate_review_queue.csv` oraz `summary.json` (lub tylko ich agregaty). Nie wysyłać surowych odpowiedzi API, tokenów, logów z sekretami ani nie udostępniać surowych abstraktów publicznie.
 
 ## Sprawdzone kody z publicznego katalogu PEP — do potwierdzenia próbą API
 
