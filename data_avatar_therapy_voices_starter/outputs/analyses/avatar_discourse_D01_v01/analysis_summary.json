@@ -1,0 +1,53 @@
+{
+  "schema": "avatar_discourse_D01_v01",
+  "source": "outputs/qa/avatar01_full_strict_v05/analysis_corpus_ABC.csv",
+  "source_git_blob_sha": "11b1e6a4d8a3ae4285f33da3c0956c6ceed6b8bf",
+  "records_analyzed": 209,
+  "missing_abstract": 12,
+  "layer_counts": {
+    "A": 12,
+    "B": 184,
+    "C": 13
+  },
+  "period_counts": [
+    {
+      "period": "2009-2015",
+      "n": 42,
+      "A": 2,
+      "B": 39,
+      "C": 1
+    },
+    {
+      "period": "2016-2020",
+      "n": 60,
+      "A": 4,
+      "B": 52,
+      "C": 4
+    },
+    {
+      "period": "2021-2026",
+      "n": 107,
+      "A": 6,
+      "B": 93,
+      "C": 8
+    }
+  ],
+  "lexical_signals": {
+    "avatar_mention": 14,
+    "virtual_reality": 22,
+    "relational_language": 164,
+    "dialogue": 31,
+    "power_control": 70,
+    "distress": 93,
+    "cbt": 17,
+    "trauma": 46,
+    "recovery": 38,
+    "experience_language": 144,
+    "neuro_language": 42,
+    "social_context": 51,
+    "medication": 31
+  },
+  "edges_min_weight": 3,
+  "method": "Binary document presence of prespecified regex signals in article title + available abstract; no expert semantic merging",
+  "limitations": "Page-capped OpenAlex retrieval; strict A/B/C selection; type=article metadata label; 12 records without abstracts; overlapping regex concepts; 2026 partial year; no causal/field-wide inference"
+}
