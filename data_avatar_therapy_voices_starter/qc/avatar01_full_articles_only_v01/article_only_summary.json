@@ -1,0 +1,21 @@
+{
+  "schema_version": "article_only_0.1",
+  "source_path": "data_avatar_therapy_voices_starter/outputs/qa/avatar01_full_strict_v05/analysis_corpus_ABC.csv",
+  "source_blob_sha": "11b1e6a4d8a3ae4285f33da3c0956c6ceed6b8bf",
+  "source_records": 266,
+  "article_only_records": 209,
+  "excluded_non_article": 57,
+  "layers": {
+    "A": 12,
+    "B": 184,
+    "C": 13
+  },
+  "excluded_types": {
+    "review": 17,
+    "conference-abstract": 36,
+    "editorial": 3,
+    "book-review": 1
+  },
+  "selection": "existing A/B/C and OpenAlex publication_type == article",
+  "note": "OpenAlex type label is not independent peer-review verification; original topical A/B/C screen remains heuristic."
+}
