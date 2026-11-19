@@ -1,0 +1,105 @@
+{
+  "schema_version": "strict_qa_0.5",
+  "input_path": "outputs\\raw\\avatar01_full_v04\\raw_candidates.csv",
+  "input_sha256": "8ed9556eb15d7196687ffa00faeefc84c5d59339db02c6f93680fdc259a2b628",
+  "created_utc": "2026-11-19T22:21:25.664575+00:00",
+  "raw_count": 1047,
+  "unique_count": 1045,
+  "duplicates": 2,
+  "included": 266,
+  "excluded": 779,
+  "layers": {
+    "B": 224,
+    "EXCLUDE": 779,
+    "A": 16,
+    "C": 26
+  },
+  "rules": {
+    "voices_relational": 224,
+    "outside_three_strict_layers": 779,
+    "avatar_voice_therapy": 16,
+    "vr_psychosis_intervention": 26
+  },
+  "publication_types": {
+    "article": 811,
+    "review": 124,
+    "editorial": 10,
+    "conference-abstract": 87,
+    "conference-paper": 1,
+    "book-review": 7,
+    "letter": 2,
+    "paratext": 3
+  },
+  "missing_abstract_all": 199,
+  "missing_abstract_included": 13,
+  "missing_doi_all": 4,
+  "journal_layer_counts": [
+    {
+      "journal": "Psychology and Psychotherapy: Theory, Research and Practice",
+      "layer": "A",
+      "n": 2
+    },
+    {
+      "journal": "Psychology and Psychotherapy: Theory, Research and Practice",
+      "layer": "B",
+      "n": 45
+    },
+    {
+      "journal": "Psychosis",
+      "layer": "A",
+      "n": 2
+    },
+    {
+      "journal": "Psychosis",
+      "layer": "B",
+      "n": 66
+    },
+    {
+      "journal": "Psychosis",
+      "layer": "C",
+      "n": 2
+    },
+    {
+      "journal": "Schizophrenia Bulletin",
+      "layer": "A",
+      "n": 8
+    },
+    {
+      "journal": "Schizophrenia Bulletin",
+      "layer": "B",
+      "n": 85
+    },
+    {
+      "journal": "Schizophrenia Bulletin",
+      "layer": "C",
+      "n": 19
+    },
+    {
+      "journal": "Schizophrenia Bulletin Open",
+      "layer": "B",
+      "n": 11
+    },
+    {
+      "journal": "Schizophrenia Bulletin Open",
+      "layer": "C",
+      "n": 1
+    },
+    {
+      "journal": "Schizophrenia Research",
+      "layer": "A",
+      "n": 4
+    },
+    {
+      "journal": "Schizophrenia Research",
+      "layer": "B",
+      "n": 17
+    },
+    {
+      "journal": "Schizophrenia Research",
+      "layer": "C",
+      "n": 4
+    }
+  ],
+  "exclude_nonresearch": false,
+  "methods_warning": "High-precision heuristic; not a validated exhaustive topic screen. Search sample/full remains page-capped. Excluded rows remain accessible. Nonexclusive meanings resolved with A>B>C precedence."
+}

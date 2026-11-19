@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-11-19T22:21:25.664575+00:00",
+  "input_sha256": "8ed9556eb15d7196687ffa00faeefc84c5d59339db02c6f93680fdc259a2b628",
+  "steps": [
+    "deduplicate id/doi/title+year",
+    "mark missing fields",
+    "apply deterministic A>B>C rules",
+    "record all excluded rows",
+    "export non-destructive derived corpus"
+  ],
+  "rule_patterns": {
+    "avatar": "\\bavatars?\\b|\\bavatar[- ](?:based|assisted|mediated)\\b",
+    "voice": "\\bauditory(?: verbal)? hallucinations?\\b|\\bvoice[- ]hear(?:er|ers|ing)?\\b|\\bhearing voices\\b|\\bdistressing voices\\b|\\bpersecutory voices\\b|\\bvoice[- ]related distress\\b|\\bvoices\\b",
+    "relation": "\\brelat(?:e|ed|es|ing|ional|ionship|ionships)\\b|\\bdialogu(?:e|es)\\b|\\bdominanc\\w*\\b|\\bpower\\b|\\bagency\\b|\\bassertiv\\w*\\b|\\bpersonif\\w*\\b|\\bvoice[- ]dialogue\\b|\\bengag(?:e|ement|ing)\\b|\\bcompassion\\b|\\bacceptance\\b",
+    "therapy": "\\btherap\\w*\\b|\\btreat(?:ment|ing)?\\b|\\bintervention\\w*\\b|\\btrial\\b|\\bpsychotherap\\w*\\b|\\bcbt\\b|\\bpsychological\\b",
+    "vr": "\\bvirtual reality\\b|\\bimmersive\\b|\\bVR[- ](?:based|assisted|therapy|intervention|exposure)\\b|\\bVR\\b",
+    "psychosis": "\\bpsychos(?:is|es|ocial)\\b|\\bpsychotic\\b|\\bschizophren\\w*\\b|\\bauditory(?: verbal)? hallucinations?\\b"
+  },
+  "output_version": "0.5"
+}
