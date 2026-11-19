@@ -1,0 +1,42 @@
+{
+  "schema_version": "avatar_discourse_D03_v01",
+  "mapping_status": "RESEARCHER_APPROVED_CONCEPTS",
+  "review_scope": "All 23 candidate concept meanings and 89 proposed phrase-to-concept mappings accepted in conversation; no claim of article-level validation",
+  "input_D02_blob_sha": "c20bc5b9e56b48542da2153addac42317cadcd35",
+  "input_map_blob_sha": "470d921db4e5c30c2e9b552e6e6d2cb4b472be46",
+  "input_corpus_blob_sha": "11b1e6a4d8a3ae4285f33da3c0956c6ceed6b8bf",
+  "n_articles": 209,
+  "n_concepts": 23,
+  "n_approved_variants": 89,
+  "n_article_concept_pairs": 414,
+  "articles_with_matches": 192,
+  "articles_without_matches": 17,
+  "n_distinct_edges": 102,
+  "period_denominators": [
+    [
+      "2009-2015",
+      42,
+      2,
+      39,
+      1,
+      37
+    ],
+    [
+      "2016-2020",
+      60,
+      4,
+      52,
+      4,
+      56
+    ],
+    [
+      "2021-2026",
+      107,
+      6,
+      93,
+      8,
+      99
+    ]
+  ],
+  "limits": "Frozen article-labelled A/B/C selected-topic corpus; OpenAlex page-capped retrieval and strict automated eligibility, 12 missing abstracts, 2026 partial; document frequencies and co-presence not treatment efficacy or global field trends"
+}
