@@ -25,6 +25,16 @@ Version numbers do not yet imply a stable public API. They indicate successive l
 
 ---
 
+## Unreleased — psychoanalytic corpus directory naming (2026-11-19)
+
+- Renamed the eight-journal PEP extension working directory from `data_gaming_mind_extension/` to `data_psychoanalytic_extended/` without rewriting raw, QA, or provenance files.
+- Updated the Gaming Mind script output path, offline regression test, and repository documentation.
+- The 13-journal analytical corpus is a **logical union** of five core and eight additional journals, not a claim that this folder alone contains all 13.
+- Historical manifests and audit files retain original Windows/relative paths for provenance; these are not portable file references after the move.
+- The 2018 `modern_psychoanalysis` unverified metadata gap remains unresolved. No new API harvesting, QA recomputation, or rights review was performed in this refactor.
+
+---
+
 ## v0.1 — agent and repository establishment
 
 **Status:** initial version  

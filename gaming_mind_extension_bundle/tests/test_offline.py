@@ -37,6 +37,9 @@ class OfflineTests(unittest.TestCase):
             self.assertEqual(out.iloc[1]['match_tier'], 'needs_context')
             self.assertTrue(pd.isna(out.iloc[1]['manual_decision']))
 
+    def test_extended_corpus_directory(self):
+        self.assertEqual(module.EXTENSION_DATA_DIR, 'data_psychoanalytic_extended')
+
     def test_date_range_config(self):
         self.assertEqual(module.CONFIG['analysis_period'], [1970, 2025])
         self.assertEqual(max(1970, module.JOURNALS['psychoanalytic_quarterly']['first_year']), 1970)
