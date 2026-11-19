@@ -1,0 +1,89 @@
+{
+  "schema_version": "selected_topic_protocol_0.1",
+  "project_id": "data_example_topic",
+  "research_question": "Which public-facing concepts characterize a researcher-defined topic in selected publications?",
+  "goal": "exploratory_metadata_discourse_mapping",
+  "status": "DRAFT_REQUIRES_RESEARCHER_APPROVAL",
+  "decision_owner": "RESEARCHER_NAME",
+  "decision_date": null,
+  "topic": {
+    "label": "REPLACE_WITH_TOPIC",
+    "subtopics": [
+      {
+        "id": "A",
+        "label": "CONCEPT_FAMILY_A",
+        "inclusion_description": "Researcher-defined positive criteria"
+      }
+    ],
+    "explicit_exclusions": [
+      "Out-of-scope phenomenon"
+    ]
+  },
+  "corpus": {
+    "from_date": "2010-01-01",
+    "to_date": "2026-11-19",
+    "languages": [
+      "en"
+    ],
+    "publication_types": [
+      "article"
+    ],
+    "source_scope": "selected_journals",
+    "approved_sources": [
+      {
+        "name": "REPLACE_WITH_JOURNAL",
+        "openalex_source_id": "REPLACE_WITH_VERIFIED_ID"
+      }
+    ],
+    "primary_text_layer": "titles_plus_abstracts"
+  },
+  "acquisition": {
+    "provider": "OpenAlex",
+    "method": "journal_scoped_search",
+    "queries": [
+      {
+        "id": "q01",
+        "family": "CORE",
+        "expression": "REPLACE_WITH_SEARCH_TERM"
+      }
+    ],
+    "sample": {
+      "per_page": 5,
+      "max_pages_per_query": 1
+    },
+    "bounded_harvest": {
+      "per_page": 50,
+      "max_pages_per_query": 2
+    },
+    "default_polite_delay_seconds": [
+      3,
+      8
+    ],
+    "credentials_env_var": "OPENALEX_API_KEY",
+    "max_auto_retries_429": 0,
+    "coverage_exhaustive": false
+  },
+  "qa": {
+    "dedup_order": [
+      "openalex_id",
+      "normalized_doi",
+      "title_year_manual_review"
+    ],
+    "missing_abstract_action": "flag",
+    "missing_doi_action": "flag",
+    "unknown_topic_relevance_action": "UNCERTAIN",
+    "automatic_unmatched_exclusion_opt_in": false,
+    "manual_validation_required": true,
+    "article_type_label_warning": true
+  },
+  "ethics": {
+    "metadata_first": true,
+    "fulltext_download": false,
+    "pdf_mirroring": false,
+    "redistribute_abstracts_only_if_permitted": true
+  },
+  "provenance": {
+    "protocol_version": "0.1",
+    "notes": "Example only. Replace placeholders and obtain explicit research approval before API execution."
+  }
+}
