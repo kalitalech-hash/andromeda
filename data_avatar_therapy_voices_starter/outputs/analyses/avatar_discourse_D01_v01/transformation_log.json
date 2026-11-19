@@ -1,0 +1,15 @@
+{
+  "source_blob_sha": "11b1e6a4d8a3ae4285f33da3c0956c6ceed6b8bf",
+  "input_filter": "publication_type=article; qa_layer A/B/C",
+  "normalization": "Unicode NFKC, case-insensitive regex",
+  "article_count": 209,
+  "independent_steps": [
+    "filter",
+    "token search",
+    "count docfreq",
+    "group by layer and period",
+    "copresence"
+  ],
+  "no_source_overwrite": true,
+  "software_reference": "scripts/04_selected_topic_discourse.py"
+}
