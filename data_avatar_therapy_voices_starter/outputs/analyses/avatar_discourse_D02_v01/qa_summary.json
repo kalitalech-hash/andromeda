@@ -1,0 +1,15 @@
+{
+  "schema": "D02_v01_provisional",
+  "source_git_blob_sha": "11b1e6a4d8a3ae4285f33da3c0956c6ceed6b8bf",
+  "source_path": "data_avatar_therapy_voices_starter/outputs/qa/avatar01_full_strict_v05/analysis_corpus_ABC.csv",
+  "n_articles": 209,
+  "missing_abstract": 12,
+  "n_candidate_concepts": 23,
+  "n_variant_rules": 89,
+  "concept_assignments": 414,
+  "n_ngrams_screened": 48344,
+  "n_ngrams_exported": 200,
+  "approval_status": "NOT_APPROVED",
+  "method": "NFKC + narrow exact-phrase candidate mappings (document-frequency), plus 1–3-gram inventory for expert audit; title and available abstract",
+  "limitations": "Not expert reviewed; search and strict inclusion capped; phrases and concept boundaries may miss synonyms or contextual negation; article-only OpenAlex type label; 2026 incomplete."
+}
