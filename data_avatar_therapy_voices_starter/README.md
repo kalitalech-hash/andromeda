@@ -1,41 +1,26 @@
-# Andromeda v0.5 — avatar therapy / voice-hearing: corpus reconnaissance
+# Andromeda — AVATAR / voices / VR: strict harvest and QA v0.5
 
-**Purpose:** narrow, auditable journal-scoped candidate search supporting a theoretical section of a clinical pilot article (78 participants). Not a systematic review and not a completed discourse map.
+**Nie podmieniaj działającego `01_acquire_candidates.py` v0.4.** On already supports `--full`, checkpoints and resume. We add `02_strict_qa.py` and `03_descriptives.py`, preserving the original `02_qa_screen.py` and all raw data.
 
-## Scope and safeguards
+Copy the two scripts into `data_avatar_therapy_voices_starter/scripts/`.
 
-Five journals: *Schizophrenia Bulletin*, *Schizophrenia Research*, *Psychology and Psychotherapy: Theory, Research and Practice*, *Schizophrenia Bulletin Open*, *Psychosis*. They are a purposive ISPS-oriented sample, not the entirety of the AVATAR literature. Record major eligible works from other journals in a separate supplementary register. SJR/JCR quartiles need separate timestamped verification; they are not stored as verified facts here.
+From `data_avatar_therapy_voices_starter/` in PowerShell:
 
-Working layers: A = avatar-mediated voice dialogue; B = psychological/relational approaches to hearing voices; C = broader VR and psychosis context. A and B should not be conflated. Text-based avatar systems and immersive VR are different modalities and require separate human coding. Do not infer effectiveness from discourse frequencies.
-
-**Source:** OpenAlex works and source metadata only; no journal HTML crawling, full text, or PDF mirroring. Work-search may use indexing beyond title/abstract; therefore lexical relevance must be assessed from retrieved title/abstract and manually screened. The OpenAlex abstract field may be absent. Confirm API terms and reuse permissions before redistributing abstracts; do not commit raw third-party abstracts without permission.
-
-## Usage
-
-From project root:
-
-```bash
-python -m pip install -r requirements.txt
-export ANDROMEDA_CONTACT_EMAIL='research-team@example.org' # replace with a real monitored address
-python scripts/00_discover_sources.py --config config/corpus.json
+```powershell
+python scripts/01_acquire_candidates.py --full --require-all-five --contact-email "REAL_EMAIL"
+python scripts/02_strict_qa.py --input outputs/raw/avatar01_full_v04/raw_candidates.csv --output-dir outputs/qa/avatar01_full_strict_v05
+python scripts/03_descriptives.py --input outputs/qa/avatar01_full_strict_v05/analysis_corpus_ABC.csv --output-dir outputs/analyses/avatar01_full_strict_v05
 ```
 
-Inspect `outputs/source_candidates.csv`; compare journal names and ISSNs to official sources. Insert five **verified** source IDs into `config/corpus.json` and set `source_ids_confirmed` to `true`. The script intentionally refuses collection until this review is done.
+To exclude conference-only records and book reviews *in addition to* user-approved topical exclusion, add `--exclude-nonresearch-types` to stage 02. Otherwise they are flagged, not automatically removed.
 
-```bash
-python scripts/01_acquire_candidates.py --config config/corpus.json
-# Substitute the actual timestamped output filename:
-python scripts/02_qa_screen.py --input outputs/raw/raw_candidates_YYYYMMDDTHHMMSSZ.csv
-```
+Stage 02 output: `analysis_corpus_ABC.csv`, `screening_all_audited.csv`, `excluded_records.csv`, `duplicates.csv`, `qa_summary.json`, `transformation_log.json`, `methodological_note.md`. All outputs are **new layers**. Stage 03 output: `journal_layer_counts.csv`, `year_layer_counts.csv`, `type_layer_counts.csv`, `analysis_summary.json`, `methods_note.md`.
 
-**Default initial limit:** 2 pages × 50 records per keyword per journal (not exhaustive). Dates 2009–2026 are provisional. The source IDs are left blank on purpose. Runs save new timestamped raw files/logs; do not overwrite older outputs. QA files should be saved in a separate run directory on repeated runs (`--output-dir`). Fetch rate is 3–8 seconds between calls and halts on HTTP 401/403/429/5xx. No retries on barriers. Do not use `example.org` as a real contact email.
+## Important limitations
 
-Outputs: candidates, acquisition logs, source-review table, deduplicated candidate/review queue, duplicates log, missingness log, summary JSON and stage note. No statistics or network outputs until human inclusion, publication-type assessment, and source audit are complete. Later: feed approved metadata to `andromeda_titles_plus_abstracts_pipeline/` after mapping its expected fields.
-
-## Screening decisions to capture
-
-Record `human_include` (yes/no/uncertain), `human_layer` (A/B/C/out-of-scope), exclusion reason, relation to voice-hearing, technology modality (immersive VR versus screen avatar), publication type, trial/study ID, and confidence. Protocols, trial reports, follow-ups and reviews should remain individually identifiable rather than being interpreted as independent clinical trials.
-
-## Reproducibility
-
-Record date, source IDs and ISSNs, source API details, search terms, time window, page limits, total reported counts (future extension), missingness and decisions. Preserve raw files, QA, normalized metadata, mappings and analyses as separate layers. Methods should say 'in titles and abstracts of a purposively selected journal corpus'.
+- `--full` on 01 v0.4 means a **configured page-capped harvest**: 5 journals × 6 queries × at most 2 pages × 50 items. This is not exhaustive and cannot justify claiming a systematic literature search.
+- `02_strict_qa.py` implements **conservative deterministic** rules using title+available abstract. A = avatar + voices + therapy; B = voices + relational/dialogue term; C = VR + psychosis + therapy. First matching wins A > B > C. Everything else is automatically excluded **from analysis**, but not deleted.
+- This operationalizes the user's instruction to remove `manual_review`. It prioritizes precision over recall, potentially missing relevant papers (especially records without abstracts). You may want a later sensitivity/recall audit before submission.
+- 'Relating to voices' is not identical to all psychological treatments of hallucinations. Rely on the explicit rule definitions in method descriptions.
+- Stage 03 is a quick **descriptive sanity check**, not a final semantic network or discourse interpretation. Existing `andromeda_titles_plus_abstracts_pipeline` remains the correct downstream method.
+- Keep `outputs/` out of public Git unless license / metadata redistribution rights are confirmed; share aggregate QC and derived features if possible.

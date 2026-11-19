@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Andromeda v0.5 | Stage 01 v0.4: audited, resumable OpenAlex reconnaissance.
+"""Andromeda v0.5 | Stage 01 v0.4.1: API-key-enabled, resumable OpenAlex acquisition.
 
 Uses explicit HITL approved-source manifest; never guesses approvals from malformed CSV.
+Uses OPENALEX_API_KEY as a bearer token (never in URLs or logs).
 One atomic JSON checkpoint per successful API page; CSV/JSON summaries are rebuilt
 from checkpoints. No PDF or full-text acquisition.
 """
@@ -171,22 +172,48 @@ def aggregate(run_dir, cfg, approved, mode, fingerprint, status, problems=None):
     return summary
 
 
+def safe_rate_limit_detail(response):
+    """Extract documented diagnostics only; never preserve arbitrary server text."""
+    reason = None
+    try:
+        body = response.json()
+        if isinstance(body, dict):
+            candidate = body.get("reason")
+            if isinstance(candidate, str) and re.fullmatch(r"[a-z0-9_\-]{1,64}", candidate):
+                reason = candidate
+    except (ValueError, TypeError, AttributeError):
+        pass
+    raw_retry = response.headers.get("Retry-After", "")
+    retry = raw_retry if re.fullmatch(r"[0-9]{1,8}", str(raw_retry)) else None
+    return reason, retry
+
+
 def request_page(session, sid, journal, query, page, per_page, cfg, email, ua):
     params = {
         "filter": f"primary_location.source.id:{sid},from_publication_date:{cfg['from_date']},to_publication_date:{cfg['to_date']}",
         "search": query, "per-page": per_page, "page": page, "mailto": email,
     }
     stamp = utcnow()
+    # Deliberately log the canonical endpoint, never response.url or auth details.
     entry = {"timestamp": stamp, "journal": journal, "source_openalex_id": sid,
              "query": query, "page": page, "url": URL, "http_status": "",
              "extraction_status": "", "records": 0, "error": "", "user_agent": ua}
     try:
         response = session.get(URL, params=params, timeout=(10, 40))
-        entry["url"] = response.url
         entry["http_status"] = response.status_code
-        if response.status_code in (401, 403, 429) or response.status_code >= 500:
-            raise RuntimeError(f"API zatrzymało pobieranie: HTTP {response.status_code}; nie ponawiam automatycznie")
-        response.raise_for_status()
+        if response.status_code == 429:
+            reason, retry_after = safe_rate_limit_detail(response)
+            entry["rate_limit_reason"] = reason or "unspecified"
+            entry["retry_after_seconds"] = retry_after
+            message = f"OpenAlex HTTP 429; reason={entry['rate_limit_reason']}"
+            if retry_after:
+                message += f"; Retry-After={retry_after}s"
+            message += "; przerwano bez ponawiania; spróbuj ponownie zgodnie z zaleceniami API"
+            raise RuntimeError(message)
+        if response.status_code in (401, 403) or response.status_code >= 500:
+            raise RuntimeError(f"API zatrzymało pobieranie: HTTP {response.status_code}; bez automatycznych prób")
+        if response.status_code >= 400:
+            raise RuntimeError(f"API zwróciło HTTP {response.status_code}; bez automatycznych prób")
         data = response.json()
         items = data.get("results")
         if not isinstance(items, list):
@@ -195,10 +222,16 @@ def request_page(session, sid, journal, query, page, per_page, cfg, email, ua):
         entry["extraction_status"] = "OK"
         entry["records"] = len(records)
         return {"log": entry, "records": records, "returned_count": len(items), "meta_count": (data.get("meta") or {}).get("count")}
+    except requests.RequestException as exc:
+        # Requests exception text may include sensitive URLs; do not log it.
+        message = f"Błąd komunikacji OpenAlex ({type(exc).__name__}); szczegóły nie są zapisywane"
+        entry["extraction_status"] = "HALTED_ERROR"
+        entry["error"] = message
+        raise AcquisitionError(message, entry) from None
     except Exception as exc:
         entry["extraction_status"] = "HALTED_ERROR"
         entry["error"] = str(exc)
-        raise AcquisitionError(str(exc), entry) from exc
+        raise AcquisitionError(str(exc), entry) from None
 
 
 class AcquisitionError(Exception):
@@ -241,9 +274,16 @@ def run(args):
                             "mode": mode, "sample_size": args.sample_size, "audit_path": str(args.source_audit),
                             "audit_sha256": hashlib.sha256(Path(args.source_audit).read_bytes()).hexdigest()})
         (run_dir / "source_audit_snapshot.csv").write_bytes(Path(args.source_audit).read_bytes())
+    api_key = os.getenv("OPENALEX_API_KEY", "").strip()
+    if not api_key:
+        raise ValueError("Brak OPENALEX_API_KEY w bieżącej sesji PowerShell; bez klucza nie uruchamiam nowego przebiegu")
+    if re.search(r"\s", api_key):
+        raise ValueError("OPENALEX_API_KEY zawiera białe znaki — sprawdź sposób ustawienia (nie wypisuję wartości)")
     ua = f"AndromedaNowickaBibliometricBot/0.5 (metadata-only bibliometric research; contact: {email}; no PDF mirroring; polite delay)"
     session = requests.Session()
-    session.headers.update({"User-Agent": ua, "From": email, "Accept": "application/json"})
+    # Authorization header avoids exposing credentials via response.url, query logs and checkpoints.
+    session.headers.update({"User-Agent": ua, "From": email, "Accept": "application/json", "Authorization": f"Bearer {api_key}"})
+    print("[AUTH] OPENALEX_API_KEY dostępny; uwierzytelnianie Bearer (wartość ukryta)", flush=True)
     queries = list(dict.fromkeys(cfg["search_queries"]))
     max_pages = int(cfg["max_pages_per_query"]) if args.full else 1
     per_page = min(100, int(cfg["per_page"])) if args.full else args.sample_size
@@ -295,7 +335,7 @@ def run(args):
 
 
 def main():
-    p = argparse.ArgumentParser(description="Andromeda 01 v0.4 | OpenAlex sample/full, progress and resumable checkpoints")
+    p = argparse.ArgumentParser(description="Andromeda 01 v0.4.1 | OpenAlex with API key, resumable checkpoints")
     p.add_argument("--config", default="config/corpus.json")
     p.add_argument("--source-audit", default="outputs/source_candidates.csv")
     p.add_argument("--output-dir", default="outputs/raw")
