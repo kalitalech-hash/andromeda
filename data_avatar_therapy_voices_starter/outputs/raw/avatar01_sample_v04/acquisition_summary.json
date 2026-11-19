@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.4",
+  "mode": "sample",
+  "status": "completed",
+  "complete_search": false,
+  "complete_configured_scope": true,
+  "full_search_exhaustive": false,
+  "page_limit_per_query": 1,
+  "approved_journals": [
+    {
+      "journal": "Schizophrenia Bulletin",
+      "openalex_source_id": "S117485531"
+    },
+    {
+      "journal": "Schizophrenia Research",
+      "openalex_source_id": "S144105592"
+    },
+    {
+      "journal": "Psychology and Psychotherapy: Theory, Research and Practice",
+      "openalex_source_id": "S189894822"
+    },
+    {
+      "journal": "Schizophrenia Bulletin Open",
+      "openalex_source_id": "S4210209414"
+    },
+    {
+      "journal": "Psychosis",
+      "openalex_source_id": "S121474569"
+    }
+  ],
+  "unique_candidates": 122,
+  "saved_pages": 30,
+  "records_by_journal": {
+    "Schizophrenia Bulletin": 25,
+    "Schizophrenia Research": 26,
+    "Psychology and Psychotherapy: Theory, Research and Practice": 22,
+    "Schizophrenia Bulletin Open": 21,
+    "Psychosis": 28
+  },
+  "fingerprint": "ae23fe47cc99d52feeafc0f5a909dae8d363313568a9b61cbb3c71f10150c63d",
+  "last_updated_utc": "2026-11-19T21:41:19+00:00",
+  "problems": [],
+  "note": "Candidate retrieval only; indexing is not restricted to abstract/title. QA and human relevance screening required. No automated interpretation of malformed CSV approval cells."
+}
