@@ -1,0 +1,38 @@
+{
+  "schema_version": "qa01-automatic-0.1",
+  "source_commit": "52818eb151e32f50a036a32d5d815e60bee27e2b",
+  "source_path": "data_avatar_therapy_voices_starter/outputs/raw/avatar01_sample_v04/raw_candidates.csv",
+  "input_blob_sha": "8ad57dd03da35e5fc4c656c5d0f1baf9480a709e",
+  "total_records": 122,
+  "missing": {
+    "title": 0,
+    "abstract": 24,
+    "doi": 2,
+    "year": 0,
+    "language": 0
+  },
+  "duplicates": {
+    "openalex_id": 0,
+    "doi": 0,
+    "normalized_title_year": 0
+  },
+  "layers": {
+    "A_avatar_candidate": 9,
+    "B_relational_voices_candidate": 59,
+    "C_vr_psychosis_candidate": 12,
+    "manual_review": 42
+  },
+  "publication_types": {
+    "article": 99,
+    "review": 17,
+    "conference-abstract": 3,
+    "conference-paper": 1,
+    "book-review": 2
+  },
+  "time_span": [
+    2009,
+    2026
+  ],
+  "screening_status": "provisional; none auto-included or excluded",
+  "method_note": "Conservative regex screen on titles+available abstracts; missing abstracts and publication type issues must be manually audited. Sample is capped by query; no representativeness inferred."
+}
