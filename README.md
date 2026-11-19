@@ -53,6 +53,12 @@ andromeda_titles_plus_abstracts_pipeline/
 
 Pipeline for title-and-abstract discourse mapping. It supports corpora where titles and abstracts form the main analyzable metadata layer, while keywords are absent, unevenly available, historically unstable, or methodologically secondary. It was introduced in v0.5 after the PEP-Web / psychoanalytic core project and is designed for conservative, auditable semantic analysis without full-text or PDF mirroring.
 
+```text
+andromeda_selected_topic_pipeline/
+```
+
+Pipeline for researcher-defined **selected-topic** corpus construction: explicit problem and source criteria, OpenAlex pilot sampling, documented bounded harvest, conservative QA, audited eligibility and corpus freeze. It hands the selected corpus to the keyword, title, or title-plus-abstract analytical pipelines. See [method and templates](andromeda_selected_topic_pipeline/README.md).
+
 ### Applied corpora
 
 ```text
