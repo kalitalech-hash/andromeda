@@ -1,0 +1,12 @@
+{
+  "source_git_blob_sha": "11b1e6a4d8a3ae4285f33da3c0956c6ceed6b8bf",
+  "steps": [
+    "filter article in A/B/C",
+    "Unicode NFKC, lowercasing and dashes in matching",
+    "binary explicit phrase match by article",
+    "candidate 1-3gram document frequency",
+    "prepare all merges for HITL review"
+  ],
+  "raw_overwritten": false,
+  "semantic_approved": false
+}
