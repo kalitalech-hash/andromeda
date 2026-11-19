@@ -1,0 +1,46 @@
+{
+  "project": "data_avatar_therapy_voices",
+  "version": "0.4.0",
+  "from_date": "2009-01-01",
+  "to_date": "2026-11-19",
+  "source": "OpenAlex API",
+  "search_queries": [
+    "auditory hallucinations",
+    "hearing voices",
+    "avatar therapy",
+    "virtual reality psychosis",
+    "voice dialogue",
+    "relating to voices"
+  ],
+  "max_pages_per_query": 2,
+  "per_page": 50,
+  "minimum_delay_seconds": 3,
+  "maximum_delay_seconds": 8,
+  "approved_sources": [
+    {
+      "name": "Schizophrenia Bulletin",
+      "candidate_name": "Schizophrenia Bulletin",
+      "openalex_source_id": "S117485531"
+    },
+    {
+      "name": "Schizophrenia Research",
+      "candidate_name": "Schizophrenia Research",
+      "openalex_source_id": "S144105592"
+    },
+    {
+      "name": "Psychology and Psychotherapy: Theory, Research and Practice",
+      "candidate_name": "Psychology and Psychotherapy Theory Research and Practice",
+      "openalex_source_id": "S189894822"
+    },
+    {
+      "name": "Schizophrenia Bulletin Open",
+      "candidate_name": "Schizophrenia Bulletin Open",
+      "openalex_source_id": "S4210209414"
+    },
+    {
+      "name": "Psychosis",
+      "candidate_name": "Psychosis",
+      "openalex_source_id": "S121474569"
+    }
+  ]
+}
