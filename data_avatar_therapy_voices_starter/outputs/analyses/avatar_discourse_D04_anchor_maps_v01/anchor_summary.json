@@ -1,0 +1,63 @@
+{
+  "schema_version": "D04_anchor_maps_v01",
+  "source": "D03 approved 23 concepts from 209 article-labelled works",
+  "strict_anchors": {
+    "AVATAR_THERAPY": 7,
+    "VR_INTERVENTION": 3
+  },
+  "broad_mentions": {
+    "AVATAR": 14,
+    "VR": 22,
+    "both": 6
+  },
+  "strict_edges": [
+    [
+      "AVATAR_THERAPY",
+      "VOICE_AUDITORY_HALLUCINATIONS",
+      4
+    ],
+    [
+      "AVATAR_THERAPY",
+      "VOICE_DISTRESS",
+      3
+    ],
+    [
+      "AVATAR_THERAPY",
+      "VOICE_HEARING",
+      3
+    ],
+    [
+      "AVATAR_THERAPY",
+      "CONTROLLED_TRIAL",
+      2
+    ],
+    [
+      "AVATAR_THERAPY",
+      "VOICE_POWER",
+      1
+    ],
+    [
+      "AVATAR_THERAPY",
+      "PEER_SUPPORT",
+      1
+    ],
+    [
+      "AVATAR_THERAPY",
+      "LIVED_EXPERIENCE",
+      1
+    ],
+    [
+      "VR_INTERVENTION",
+      "VOICE_AUDITORY_HALLUCINATIONS",
+      2
+    ]
+  ],
+  "qualitative_method_mention": 35,
+  "controlled_trial_mention": 18,
+  "distress_term_mention": 77,
+  "anxiety_term_mention": 30,
+  "fear_term_mention": 24,
+  "discomfort_term_mention": 3,
+  "distress_or_anxiety_or_fear": 100,
+  "limits": "Do not compare qualitative versus all quantitative research using controlled-trial phrase proxy; mentions are not context-validated; VR literature includes non-voice targets."
+}
