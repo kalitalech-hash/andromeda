@@ -1,0 +1,5 @@
+# D02 — Wstępna, konserwatywna normalizacja semantyczna (niezatwierdzona)
+
+Analizowano 209 artykułów oznaczonych w OpenAlex jako `article` (A/B/C) w tytułach i dostępnych abstraktach; 12 bez abstraktu. Wykorzystano 23 *kandydackie* pojęcia i 89 wąskich wariantów fraz. Dla każdego pojęcia liczona jest binarna obecność co najmniej jednej frazy na publikację. Warianty zachowano odrębnie; scalenie w `concept_id` jest **propozycją do eksperckiego audytu**, nie decyzją. Kandydackie n-gramy są niezależnym, nienormatywnym indeksem leksykalnym; nie stanowią zatwierdzonego słownika. Kategorie nie są rozłączne. Brak abstraktu skutkuje analizą samego tytułu.
+
+Dalsza interpretacja wymaga audytu trafności fraz i nieobecnych synonimów, ewaluacji fałszywie dodatnich/ujemnych oraz odseparowania terminów o charakterze metodologicznym (trial, qualitative) od tematów (relating, distress, etc.). Nie twierdzimy, że zbiór jest wyczerpujący ani że wyniki świadczą o skuteczności terapii. Po audycie wyeksportować osobną warstwę `terms_semantic_final.csv`; nie zmieniać oryginalnego D02.
