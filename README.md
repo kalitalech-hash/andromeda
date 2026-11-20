@@ -29,6 +29,16 @@ Andromeda is a **research support agent**, not an autonomous author and not a su
 
 ---
 
+## System architecture and model portability
+
+Andromeda's **versioned identity, methods, code, and audit conventions** are maintained in this repository (with a project DID); they are **not tied to a particular LLM**. A language model such as OpenAI GPT-6 is the current reasoning and interaction layer, not the repository or the sole implementation of Andromeda. In principle, the same research toolkit can be operated with another model (e.g., Claude) after adapting prompts, tools, permissions, and integrations. Cross-model outputs—especially semantic judgments—must be validated rather than assumed identical.
+
+The standard workflow is **human-led, locally executed Python pipelines** using appropriately accessible research corpora, with QA, transformation logs, and reviewable outputs. The repository is the versioned source of code and public documentation; access-controlled or third-party source data may require separate storage and permissions. Public code availability does **not** imply permission to redistribute all research inputs.
+
+**Reproducibility:** deterministic pipeline runs should pin code, dependencies, input dataset versions, and parameters. For LLM-assisted work, the planned v0.6 session manifest should additionally record `andromeda_version`, `model_provider`, `model_id` (where available), `pipeline_version`, `git_commit_sha`, and human audit decisions. This is a **design target**, not a claim that model-independent execution or automatic session logging is already implemented in v0.5.
+
+---
+
 ## Repository structure
 
 The repository separates **reusable analytical pipelines** from **applied journal or database corpora**.
